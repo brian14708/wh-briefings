@@ -2,7 +2,7 @@
 date: '2024-05-21'
 modified_time: 2024-05-22 17:53:41-04:00
 published_time: 2024-05-21 17:36:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/21/remarks-by-president-biden-at-a-campaign-reception-boston-ma-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/21/remarks-by-president-biden-at-a-campaign-reception-boston-ma-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Boston,\_MA"
 ---

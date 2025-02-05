@@ -1,7 +1,7 @@
 ---
 date: '2023-04-23'
 published_time: 2023-04-23 18:59:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/23/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/23/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148-3/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President pro tempore of the Senate\
   \ consistent with the War Powers Resolution (Public Law\_93-148)"

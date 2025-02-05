@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-13 12:53:28-05:00
 published_time: 2023-11-09 12:18:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/09/background-press-call-by-senior-administration-officials-previewing-the-presidents-upcoming-bilateral-engagement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/09/background-press-call-by-senior-administration-officials-previewing-the-presidents-upcoming-bilateral-engagement/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the President\u2019\
   s Upcoming Bilateral\_Engagement"

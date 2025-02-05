@@ -2,7 +2,7 @@
 date: '2023-02-04'
 modified_time: 2023-02-04 09:55:31-05:00
 published_time: 2023-02-04 09:55:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/04/president-biden-at-a-democratic-national-committee-winter-meeting-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/04/president-biden-at-a-democratic-national-committee-winter-meeting-reception/
 tags: speeches-remarks
 title: "President\_Biden at a Democratic National Committee Winter Meeting\_Reception"
 ---

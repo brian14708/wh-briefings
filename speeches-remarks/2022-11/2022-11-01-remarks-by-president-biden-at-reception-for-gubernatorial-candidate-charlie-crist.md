@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 21:53:16-04:00
 published_time: 2022-11-01 21:47:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-at-reception-for-gubernatorial-candidate-charlie-crist/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-at-reception-for-gubernatorial-candidate-charlie-crist/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Reception for Gubernatorial Candidate Charlie\_\
   Crist"

@@ -2,7 +2,7 @@
 date: '2022-07-11'
 modified_time: 2022-07-11 14:52:46-04:00
 published_time: 2022-07-11 14:47:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unidosus-2022-annual-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unidosus-2022-annual-conference/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the UnidosUS\
   \ 2022 Annual\_Conference"

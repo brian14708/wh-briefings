@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-11-30'
 modified_time: 2021-11-30 20:32:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/30/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/30/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-3/
 published_time: 2021-11-30 20:32:08-05:00
 title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Law"
 ---

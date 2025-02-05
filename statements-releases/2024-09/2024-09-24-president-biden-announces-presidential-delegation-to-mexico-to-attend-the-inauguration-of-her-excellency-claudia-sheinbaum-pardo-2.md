@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-24 15:39:08-04:00
 published_time: 2024-09-24 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/president-biden-announces-presidential-delegation-to-mexico-to-attend-the-inauguration-of-her-excellency-claudia-sheinbaum-pardo-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/president-biden-announces-presidential-delegation-to-mexico-to-attend-the-inauguration-of-her-excellency-claudia-sheinbaum-pardo-2/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Mexico to Attend the\
   \ Inauguration of Her Excellency Claudia Sheinbaum\_Pardo"

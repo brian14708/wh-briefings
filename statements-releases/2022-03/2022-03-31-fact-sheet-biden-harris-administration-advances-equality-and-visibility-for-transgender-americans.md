@@ -2,7 +2,7 @@
 date: '2022-03-31'
 modified_time: 2022-03-31 17:38:55-04:00
 published_time: 2022-03-31 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for-transgender-americans/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equality and Visibility\
   \ for Transgender\_Americans"
@@ -264,23 +264,23 @@ level.**
 
 -   **Fighting for passage of the Equality Act. **President
     Biden [continues to
-    call](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
+    call](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
     the Senate to pass the Equality Act, legislation which will provide
     long overdue federal civil rights protections to transgender and
     LGBTQI+ Americans and their families. As the White House
-    has [said](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/),
+    has [said](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/),
     passing the Equality Act is key to addressing the epidemic levels of
     violence and discrimination that transgender people face. The
     Administration’s [first Statement of Administration
-    Policy](https://www.whitehouse.gov/wp-content/uploads/2021/02/SAP_HR-5.pdf)
+    Policy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/02/SAP_HR-5.pdf)
     was in support of the Equality Act, and the White House has
     [convened national
-    leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/21/readout-of-white-house-roundtable-with-lgbtq-advocates-on-the-equality-act-and-achieving-full-equality-for-lgbtq-americans/)
+    leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/21/readout-of-white-house-roundtable-with-lgbtq-advocates-on-the-equality-act-and-achieving-full-equality-for-lgbtq-americans/)
     to discuss the importance of the legislation.  
 -   **Signing one of the most comprehensive Executive Orders on LGBTQI+
     rights in history.** Within hours of taking office, President Biden
     signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) which
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) which
     established that it is the official policy of the Biden-Harris
     Administration to prevent and combat discrimination against LGBTQI+
     individuals, and to fully enforce civil rights laws to prevent
@@ -305,7 +305,7 @@ level.**
 
 -   **Reversing the discriminatory ban on transgender
     servicemembers.** In his first week in office, President
-    Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
+    Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
     Executive Order reversing the ban on openly transgender
     servicemembers serving in the Armed Forces, enabling all qualified
     Americans to serve their country in uniform. President Biden
@@ -343,12 +343,12 @@ safety**
     and gender diverse people, advocates, and civil rights leaders from
     across the country and around the world, including a [White House
     roundtable with transgender women of
-    color](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/)**.  
+    color](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/)**.  
     **
 -   **Releasing a White House report uplifting the voices of transgender
     people on gender-based violence and discrimination.** On Transgender
     Day of Remembrance, the White House released
-    a [report](https://www.whitehouse.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf) sharing
+    a [report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf) sharing
     the perspectives from White House listening sessions, uplifting the
     voices and advocacy of transgender people throughout the country,
     and highlighting over 45 key, early actions the Biden-Harris
@@ -381,20 +381,20 @@ safety**
     placements that align with an inmate’s gender identity.  
 -   **Honoring those lost to violence.** The White House and the Second
     Gentleman of the United States [hosted a first of its kind
-    vigil](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
+    vigil](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
     in the Diplomatic Room of the White House to honor the lives of
     transgender and gender diverse people killed in 2021, and the
     countless transgender and gender diverse people who face brutal
     violence, harassment, and discrimination in the United States and
     around the world. The President also [released a
-    statement](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/)
+    statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/)
     honoring the transgender people who lost their lives to violence.  
 -   **Advancing safety and justice for transgender and Two-Spirit
     Indigenous people.** LGBTQI+ Native Americans and people who
     identify as transgender or “Two-Spirit” are often the targets of
     violent crimes. On November 15, 2021, President Biden signed an
     [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     on Improving Public Safety and Criminal Justice for Native Americans
     and Addressing the Crisis of Missing or Murdered Indigenous People.
     The Executive Order directs federal agencies to work hand in hand
@@ -429,7 +429,7 @@ health care to support transgender patients**
     communities.** In December, 2021, in recognition of World AIDS Day,
     the White House Office of National AIDS Policy released a revised
     [National HIV/AIDS
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf)
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf)
     which now identifies transgender and gender diverse communities as a
     priority population in the federal government’s strategy to end the
     HIV epidemic.  
@@ -458,7 +458,7 @@ health care to support transgender patients**
 -   **Ensuring educational environments are free from sex discrimination
     and protecting LGBTQI+ students from sexual harassment. **President
     Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
     the Federal Government to guarantee educational environments free
     from sex discrimination, including discrimination on the basis of
     sexual orientation or gender identity. The Executive Order charged
@@ -545,7 +545,7 @@ the world**
 -   **Advancing transgender equality in U.S. foreign policy and foreign
     assistance.** In line with the [Presidential Memorandum on Advancing
     the Human Rights of LGBTQI+ Persons Around the
-    World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
+    World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
     the United States is making significant investments to uphold
     dignity, equality and respect for transgender persons globally.  For
     example, USAID supports the [Global Barometer for Transgender
@@ -564,7 +564,7 @@ the world**
     members.    
 -   **Establishing the White House Gender Policy Council to Advance
     Gender Equity and Equality. **President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) establishing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) establishing
     the White House Gender Policy Council to advance gender equity and
     equality across the whole of the government, including by addressing
     barriers faced by LGBTQ+ people, in particular transgender women and
@@ -574,7 +574,7 @@ the world**
 
 -   **Making the Federal government a model employer for transgender
     public servants.** President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) which
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) which
     takes historic new steps to ensure the Federal government is a model
     employer for all employees – including transgender, gender
     non-conforming, and non-binary employees. The Executive Order
@@ -601,7 +601,7 @@ the world**
 -   **Issuing the First White House Proclamation for Transgender Day of
     Visibility. **On March 31, 2021 President Biden became the first
     U.S. President to issue
-    a [proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
+    a [proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
     Transgender Day of Visibility.  
      
 -   **Hosting a White House Virtual Convening on Transgender
@@ -612,15 +612,15 @@ the world**
     Americans.  
 -   **Releasing a toolkit on equality and inclusion for transgender
     Americans. **The White House released a
-    new [toolkit](https://www.whitehouse.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf) with
+    new [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf) with
     best practices for advancing inclusion, opportunity, and safety for
     transgender Americans.  
 -   **Establishing a National Pulse Memorial. On June 25, 2021,
     President Biden** [signed H.R. 49 into
-    law](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/)
+    law](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/)
     to designate the National Pulse Memorial. As the President
     acknowledged in his [statement on the fifth
-    anniversary](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/statement-by-president-joe-biden-on-the-5th-anniversary-of-the-pulse-nightclub-shooting/)
+    anniversary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/12/statement-by-president-joe-biden-on-the-5th-anniversary-of-the-pulse-nightclub-shooting/)
     of the Pulse nightclub shooting, we must acknowledge gun violence’s
     particular impact on LGBTQ+ communities across our nation, and we
     must drive out hate and inequities that contribute to the epidemic

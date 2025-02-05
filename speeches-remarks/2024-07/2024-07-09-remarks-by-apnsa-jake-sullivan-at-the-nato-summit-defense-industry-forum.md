@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-09 20:12:07-04:00
 published_time: 2024-07-09 20:10:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/09/remarks-by-apnsa-jake-sullivan-at-the-nato-summit-defense-industry-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/09/remarks-by-apnsa-jake-sullivan-at-the-nato-summit-defense-industry-forum/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan at the NATO Summit Defense Industry\_Forum"
 ---

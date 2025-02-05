@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-12 21:34:52-05:00
 published_time: 2023-11-13 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Holds Workforce Hub Convening\
   \ in Baltimore, Announces Commitments to Train and Hire Local Residents to Support\
@@ -16,15 +16,15 @@ convening and announces commitments to ensure students and workers have
 equitable access to good-paying jobs created by President Biden’s
 Investing in America agenda. In May, the Biden-Harris Administration
 named Baltimore as [one of five Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)—along
-with [Pittsburgh](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/), [Augusta](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/), [Columbus](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)—along
+with [Pittsburgh](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/), [Augusta](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/), [Columbus](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
 and Phoenix—where historic legislation passed by President Biden,
 including the American Rescue Plan, the Bipartisan Infrastructure Law,
 the CHIPS and Science Act, and the Inflation Reduction Act, are
 catalyzing private and public investments and creating good-paying jobs.
 This week marks the second anniversary of the Bipartisan Infrastructure
 Law, and with [over 40,000 new infrastructure
-projects](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/) announced
+projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/) announced
 across 4,500 communities, it’s clear that the President’s agenda is
 rebuilding and transforming cities like Baltimore across the country.
 These investments demonstrate how Bidenomics—President Biden’s vision
@@ -37,7 +37,7 @@ the state of Maryland, the Administration has announced $9.6 billion in
 projects to upgrade transportation, deliver clean and reliable energy,
 expand access to high-speed internet, ensure that residents have clean
 water, and more. This includes the $4.7 billion that President
-Biden [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/#:~:text=Frederick%20Douglass%20Tunnel%20(MD)%20will,on%20the%20entire%20Northeast%20Corridor.) last
+Biden [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/#:~:text=Frederick%20Douglass%20Tunnel%20(MD)%20will,on%20the%20entire%20Northeast%20Corridor.) last
 week for the Frederick Douglass Tunnel rail project— which will replace
 the 150-year-old Baltimore and Potomac Tunnel, increasing speeds and
 reducing delays on the entire Northeast Corridor. Other key investments
@@ -108,7 +108,7 @@ Tunnel creates opportunities for Baltimore residents first and foremost:
 **Second**, local and state partners will collaborate to expand union
 job opportunities to Baltimore residents, particularly those in
 disadvantaged communities, including through the use of [project labor
-agreements](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/) (PLAs):
+agreements](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/) (PLAs):
 
 -   **The Maryland Department of Transportation** is committing to
     assess all projects above $20 million to determine workforce

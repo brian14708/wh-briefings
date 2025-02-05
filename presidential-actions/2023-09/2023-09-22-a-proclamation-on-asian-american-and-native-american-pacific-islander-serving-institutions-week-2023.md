@@ -1,7 +1,7 @@
 ---
 date: '2023-09-22'
 published_time: 2023-09-22 17:03:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Asian American and Native American Pacific Islander-Serving\
   \ Institutions Week,\_2023"

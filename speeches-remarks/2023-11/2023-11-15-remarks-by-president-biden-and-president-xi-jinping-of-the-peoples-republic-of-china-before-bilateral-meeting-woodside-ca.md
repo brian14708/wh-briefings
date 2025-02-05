@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-15 16:02:03-05:00
 published_time: 2023-11-15 16:02:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-and-president-xi-jinping-of-the-peoples-republic-of-china-before-bilateral-meeting-woodside-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-and-president-xi-jinping-of-the-peoples-republic-of-china-before-bilateral-meeting-woodside-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Xi Jinping of the People\u2019s\
   \ Republic of China Before Bilateral Meeting | Woodside,\_CA"

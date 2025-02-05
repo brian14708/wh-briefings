@@ -2,7 +2,7 @@
 date: '2024-09-04'
 modified_time: 2024-09-04 23:23:07-04:00
 published_time: 2024-09-04 23:23:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/04/background-press-call-on-efforts-to-secure-the-release-of-hostages-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/04/background-press-call-on-efforts-to-secure-the-release-of-hostages-in-gaza/
 tags: press-briefings
 title: "Background Press Call on Efforts to Secure the Release of Hostages in\_Gaza"
 ---

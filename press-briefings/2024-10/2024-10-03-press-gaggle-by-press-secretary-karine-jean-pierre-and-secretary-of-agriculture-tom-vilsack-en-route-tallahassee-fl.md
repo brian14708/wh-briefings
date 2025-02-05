@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 13:50:17-04:00
 published_time: 2024-10-03 14:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/03/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-agriculture-tom-vilsack-en-route-tallahassee-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/03/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-agriculture-tom-vilsack-en-route-tallahassee-fl/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Secretary of Agriculture\
   \ Tom Vilsack En Route Tallahassee,\_FL"

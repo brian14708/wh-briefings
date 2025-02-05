@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 17:50:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just-2/
 published_time: 2022-02-28 17:50:58-05:00
 title: "FACT SHEET: The White\_House and Department of Justice Announced 99 Law Schools\
   \ in 35 States and Puerto Rico Continue to Answer the Attorney General\u2019s Call\
@@ -46,13 +46,13 @@ prevention in jurisdictions across the country.
 -   On March 29, 2021, the Biden-Harris Administration announced
     [multi-agency efforts to get tenants and landlords the assistance
     they
-    need](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/)
+    need](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-the-biden-harris-administrations-multi-agency-effort-to-support-renters-and-landlords/)
     during the public health crisis. As part of the strategy, the
     Administration worked quickly to streamline and simplify rules to
     access American Rescue Plan funding to keep people in their homes.
 -   On June 24, 2021, the Biden-Harris Administration announced
     [initiatives to promote housing
-    stability](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+    stability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
     and [Associate Attorney General Vanita Gupta sent a pathbreaking
     letter to state
     courts](https://www.justice.gov/asg/page/file/1405886/download)
@@ -72,20 +72,20 @@ prevention in jurisdictions across the country.
     on Eviction Prevention.
     -   On June 30, 2021, [the White House hosted the first-ever Summit
         on Eviction
-        Prevention](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/),
+        Prevention](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/),
         which featured a public plenary on best practices in eviction
         diversion and brought together 46 of the highest eviction risk
         cities to share best practices on eviction prevention, diversion
         practices, and ERA distribution.
     -   On July 21, 2021, [the White House hosted the second Summit on
         Eviction
-        Prevention](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/).
+        Prevention](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/).
         This convening featured county judges and public officials who
         had successfully implemented eviction diversion programs and
         distributed ERA.
     -   On September 9, 2021, [the White House hosted the third Summit
         on Eviction
-        Prevention](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/09/biden-administration-highlights-high-performers-to-encourage-more-widespread-action-on-delivering-rental-assistance-and-stopping-evictions/)
+        Prevention](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/09/biden-administration-highlights-high-performers-to-encourage-more-widespread-action-on-delivering-rental-assistance-and-stopping-evictions/)
         which featured mayors, governors, and county officials
         overseeing high performing ERA programs and successful diversion
         programs.
@@ -100,7 +100,7 @@ prevention in jurisdictions across the country.
 -   On August 11, 2021, [Second Gentleman Douglas Emhoff, White House
     Counsel Dana Remus, and Attorney General Merrick Garland convened a
     listening
-    session](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-first-listening-session-of-the-white-house-legal-aid-interagency-roundtable/)
+    session](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-first-listening-session-of-the-white-house-legal-aid-interagency-roundtable/)
     with legal aid providers, pro bono counsel, and a State Attorney
     General to identify and expand creative innovations in access to
     justice, including those designed to keep renters in their homes. 
@@ -120,9 +120,9 @@ prevention in jurisdictions across the country.
     eviction](https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/promising-practices/eviction-diversion).
 -   On October 29, 2021, [the White House reconvened the Legal Aid
     Interagency
-    Roundtable](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/)
+    Roundtable](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/)
     and released its report, [Access to Justice in the Age of
-    COVID-19](https://www.whitehouse.gov/wp-content/uploads/2021/10/Report-to-the-President-from-the-Attorney-General-September-15-2021.pdf),
+    COVID-19](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Report-to-the-President-from-the-Attorney-General-September-15-2021.pdf),
     which underscored the urgent need, and the federal response to,
     housing and evictions.
 

@@ -2,7 +2,7 @@
 date: '2023-03-20'
 modified_time: 2023-03-20 19:31:07-04:00
 published_time: 2023-03-20 19:31:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/20/press-briefing-by-press-secretary-karine-jean-pierre-the-cast-of-ted-lasso-and-nsc-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/20/press-briefing-by-press-secretary-karine-jean-pierre-the-cast-of-ted-lasso-and-nsc-coordinator-for-strategic-communications-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, the Cast of \u201CTed\
   \ Lasso,\u201D and NSC Coordinator for Strategic Communications John\_Kirby"

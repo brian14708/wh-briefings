@@ -2,7 +2,7 @@
 date: '2024-07-16'
 modified_time: 2024-07-17 16:06:14-04:00
 published_time: 2024-07-16 15:30:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/16/remarks-by-president-biden-at-the-115th-naacp-national-convention-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/16/remarks-by-president-biden-at-the-115th-naacp-national-convention-las-vegas-nv/
 tags: statements-releases
 title: "Remarks by President\_Biden at the 115th NAACP National Convention | Las Vegas,\_\
   NV"

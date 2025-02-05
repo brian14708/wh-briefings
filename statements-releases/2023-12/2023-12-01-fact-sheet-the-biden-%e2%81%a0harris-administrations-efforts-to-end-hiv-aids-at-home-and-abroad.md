@@ -2,7 +2,7 @@
 date: '2023-12-01'
 modified_time: 2023-12-01 13:13:26-05:00
 published_time: 2023-12-01 13:13:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/01/fact-sheet-the-biden-%e2%81%a0harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/01/fact-sheet-the-biden-%e2%81%a0harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Efforts to End HIV/AIDS\
   \ At Home and\_Abroad"
@@ -202,7 +202,7 @@ impact, including by:
 -   **Advancing equity for marginalized and underserved Americans.** To
     mark Pride Month 2023, the Biden-Harris Administration
     announced [new
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheetbiden-harris-administration-announces-new-actions-to-protect-lgbtqi-communities/) to
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/fact-sheetbiden-harris-administration-announces-new-actions-to-protect-lgbtqi-communities/) to
     protect LGBTQI+ communities from attacks on their rights and safety.
     These include launching a new LGBTQI+ Community Safety Partnership,
     strengthening resources for LGBTQI+ youth, and shielding LGBTQI+
@@ -234,7 +234,7 @@ impact, including by:
     to the disproportionate impact of HIV on this population. In honor
     of Transgender Day of Visibility, the Biden-Harris Administration
     announced [new
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-white-house-honors-transgender-day-of-visibility/) to
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-white-house-honors-transgender-day-of-visibility/) to
     support transgender communities, including issuing a [landmark
     report](https://store.samhsa.gov/product/moving-beyond-change-efforts/pep22-03-12-001) on
     ways to support and affirm LGBTQI+ youth, especially transgender

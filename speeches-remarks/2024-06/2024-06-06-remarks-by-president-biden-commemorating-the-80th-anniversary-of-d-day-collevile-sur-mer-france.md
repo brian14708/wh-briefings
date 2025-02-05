@@ -1,7 +1,7 @@
 ---
 date: '2024-06-06'
 published_time: 2024-06-06 14:01:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/06/remarks-by-president-biden-commemorating-the-80th-anniversary-of-d-day-collevile-sur-mer-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/06/remarks-by-president-biden-commemorating-the-80th-anniversary-of-d-day-collevile-sur-mer-france/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Commemorating the 80th Anniversary of D-Day |\
   \ Collevile-sur-Mer, France"

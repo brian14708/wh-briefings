@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-02 23:03:51-04:00
 published_time: 2024-10-03 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/03/statement-from-president-joe-biden-on-the-occasion-of-an-agreement-between-the-republic-of-mauritius-and-the-united-kingdom-on-the-status-of-the-chagos-archipelago/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/03/statement-from-president-joe-biden-on-the-occasion-of-an-agreement-between-the-republic-of-mauritius-and-the-united-kingdom-on-the-status-of-the-chagos-archipelago/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of an Agreement between\
   \ the Republic of Mauritius and the United Kingdom on the Status of the Chagos\_\

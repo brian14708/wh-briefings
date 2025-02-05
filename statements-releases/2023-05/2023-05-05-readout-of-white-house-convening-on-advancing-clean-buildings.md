@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 16:18:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/05/readout-of-white-house-convening-on-advancing-clean-buildings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/05/readout-of-white-house-convening-on-advancing-clean-buildings/
 tags: statements-releases
 title: "Readout of White\_House Convening on Advancing Clean\_Buildings"
 ---

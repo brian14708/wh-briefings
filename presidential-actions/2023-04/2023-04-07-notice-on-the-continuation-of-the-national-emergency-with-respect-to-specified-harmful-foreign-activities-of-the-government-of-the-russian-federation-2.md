@@ -1,7 +1,7 @@
 ---
 date: '2023-04-07'
 published_time: 2023-04-07 12:19:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to Specified\
   \ Harmful Foreign Activities of the Government of the Russian\_Federation"

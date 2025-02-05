@@ -2,7 +2,7 @@
 date: '2022-09-14'
 modified_time: 2022-09-14 10:49:40-04:00
 published_time: 2022-09-14 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/president-biden-announces-key-appointments-to-boards-and-commissions-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/14/president-biden-announces-key-appointments-to-boards-and-commissions-7/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

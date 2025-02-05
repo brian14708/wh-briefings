@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-27 15:31:12-05:00
 published_time: 2024-02-27 15:31:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/27/president-joseph-r-biden-jr-approves-new-hampshire-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/27/president-joseph-r-biden-jr-approves-new-hampshire-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves New Hampshire Disaster\_Declaration"
 ---

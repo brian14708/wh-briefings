@@ -1,7 +1,7 @@
 ---
 date: '2023-03-03'
 published_time: 2023-03-03 14:18:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-muscogee-creek-nation-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-muscogee-creek-nation-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Muscogee\
   \ (Creek)\_Nation"

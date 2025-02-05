@@ -1,7 +1,7 @@
 ---
 date: '2024-09-13'
 published_time: 2024-09-13 16:49:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-dr-liz-sherwood-randall-for-the-soufan-centers-global-summit-on-counterterrorism-and-political-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-dr-liz-sherwood-randall-for-the-soufan-centers-global-summit-on-counterterrorism-and-political-violence/
 tags: speeches-remarks
 title: "Remarks by Dr. Liz Sherwood-Randall for the Soufan Center\u2019s Global Summit\
   \ on Counterterrorism and Political\_Violence"

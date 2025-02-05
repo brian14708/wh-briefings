@@ -2,7 +2,7 @@
 date: '2023-04-05'
 modified_time: 2023-04-05 12:31:46-04:00
 published_time: 2023-04-05 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/05/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-state-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/05/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-state-2/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Nominate Key Role for the Department\
   \ of\_State"

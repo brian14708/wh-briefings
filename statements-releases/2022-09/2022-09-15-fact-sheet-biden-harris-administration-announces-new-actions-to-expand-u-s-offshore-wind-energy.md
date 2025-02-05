@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 13:44:40-04:00
 published_time: 2022-09-15 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Expand\
   \ U.S. Offshore Wind\_Energy"
@@ -21,7 +21,7 @@ families, and strengthen U.S. energy security. Since taking office,
 President Biden’s vision and leadership has jumpstarted the American
 offshore wind industry and made America a magnet for clean energy
 investments. The President set a [bold
-goal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
+goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
 of deploying 30 gigawatts (GW) of offshore wind by 2030, enough to power
 10 million homes with clean energy, support 77,000 jobs, and spur
 private investment up and down the supply chain.  
@@ -69,7 +69,7 @@ joining state officials to announce:
 These new goals, initiatives, and investments focus on floating
 technologies and build on the Administration’s all-of-government
 approach to [developing offshore
-wind](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/)
+wind](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/)
 while advancing environmental justice, protecting biodiversity, and
 promoting ocean co-use. Through the Inflation Reduction Act, President
 Biden secured clean energy tax credits that will further accelerate this

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 17:43:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/icymi-pennsylvania-leaders-visit-white-house-meet-with-president-biden-and-administration-officials-to-discuss-strong-economic-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/icymi-pennsylvania-leaders-visit-white-house-meet-with-president-biden-and-administration-officials-to-discuss-strong-economic-recovery/
 tags: statements-releases
 title: "ICYMI:  Pennsylvania Leaders Visit White\_House, Meet With President\_Biden\
   \ and Administration Officials to Discuss Strong Economic\_Recovery"

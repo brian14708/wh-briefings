@@ -1,7 +1,7 @@
 ---
 date: '2022-09-13'
 published_time: 2022-09-13 18:23:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-boys-and-girls-clubs-of-americas-summit-for-americas-youth/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-boys-and-girls-clubs-of-americas-summit-for-americas-youth/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Boys and Girls\
   \ Clubs of America\u2019s\_Summit for America\u2019s\_Youth"

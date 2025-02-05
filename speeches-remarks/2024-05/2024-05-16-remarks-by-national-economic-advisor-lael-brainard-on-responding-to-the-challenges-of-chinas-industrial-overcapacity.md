@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 09:35:52-04:00
 published_time: 2024-05-16 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/16/remarks-by-national-economic-advisor-lael-brainard-on-responding-to-the-challenges-of-chinas-industrial-overcapacity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/16/remarks-by-national-economic-advisor-lael-brainard-on-responding-to-the-challenges-of-chinas-industrial-overcapacity/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Responding to the Challenges\
   \ of China\u2019s Industrial\_Overcapacity"
@@ -22,7 +22,7 @@ The President came to office with a plan to grow the economy from the
 middle out and bottom up—a sharp departure from the trickle-down
 approach of the prior administration. On his watch, we are seeing
 [record
-investment](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+investment](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 clean energy and advanced manufacturing.
 
 Investment must be paired with trade enforcement to make sure the
@@ -33,9 +33,9 @@ Shock](https://www.brookings.edu/articles/on-the-persistence-of-the-china-shock/
 here in America.
 
 Earlier this week,
-the [President](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/14/remarks-by-president-biden-remarks-by-president-biden-on-his-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/#:~:text=They%20include%20a%20thing%20I,It%27s%20a%20big%20deal.)
+the [President](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/14/remarks-by-president-biden-remarks-by-president-biden-on-his-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/#:~:text=They%20include%20a%20thing%20I,It%27s%20a%20big%20deal.)
 announced [important enforcement under Section
-301](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
+301](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
 of our trade laws to raise tariffs against China’s unfair trade
 practices in vital industries of the future. Today, the Administration
 is taking additional action to prevent circumvention of tariffs in the
@@ -54,17 +54,17 @@ President secured major legislation that has supported a strong
 recovery. Investment, growth, and productivity are up, while
 [unemployment](https://fred.stlouisfed.org/series/UNRATE) is down.
 [Wages have
-grown](https://www.whitehouse.gov/cea/written-materials/2024/01/05/a-strong-year-for-the-labor-market/)
+grown](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/01/05/a-strong-year-for-the-labor-market/)
 faster than prices, but the cost of living is too high, and we are
 [fighting to bring it
-down](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/).
+down](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/).
 
 We saw the unacceptably high cost of relying on a single foreign source
 for critical inputs when the [dramatic supply
-shocks](https://www.whitehouse.gov/cea/written-materials/2023/11/30/disinflation-explanation-supply-demand-and-their-interaction/)
+shocks](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/30/disinflation-explanation-supply-demand-and-their-interaction/)
 associated with the pandemic and Russia’s war on Ukraine caused a surge
 in inflation and widespread shortages. The President’s historic
-[investment laws](https://www.whitehouse.gov/invest/) – the Bipartisan
+[investment laws](https://bidenwhitehouse.archives.gov/invest/) – the Bipartisan
 Infrastructure Law, the Chips and Science Act, and the Inflation
 Reduction Act – are strengthening the supply side of our economy.
 Private sector investments in [manufacturing
@@ -155,7 +155,7 @@ competition, as well as our workers and supply chain resilience.
 
 Markets need
 [reliable](https://www.nber.org/system/files/working_papers/w29154/w29154.pdf)[demand
-signals](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+signals](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 and fair competition for the best firms and technologies to be able to
 innovate and invest in clean energy and other sectors.  The Chinese
 government has [made
@@ -252,7 +252,7 @@ security.  After decades in which America stood by while [semiconductor
 manufacturing moved
 abroad](https://www.semiconductors.org/wp-content/uploads/2020/09/Government-Incentives-and-US-Competitiveness-in-Semiconductor-Manufacturing-Sep-2020.pdf)
 in response to government subsidies, the [CHIPS and Science
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/)
 is enabling businesses to invest in semiconductor manufacturing in
 America again for the first time in decades.  And tariffs on Chinese
 legacy semiconductors will increase to 50% to enforce against a surge of
@@ -311,21 +311,21 @@ One trade agreement with China.
 **Conclusion**
 
 The President has long believed in a [middle-out bottom-up
-approach](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/)
+approach](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/)
 to growing the economy, and secured historic legislation to make it
 happen. The resulting [private
-sector](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+sector](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 investments are
 [reversing](https://home.treasury.gov/news/featured-stories/unpacking-the-boom-in-us-construction-of-manufacturing-facilities)
 decades of disinvestment, creating
-[pathways](https://www.whitehouse.gov/briefing-room/blog/2023/11/15/job-gains-in-construction-after-two-years-of-the-bipartisan-infrastructure-law/)
+[pathways](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/11/15/job-gains-in-construction-after-two-years-of-the-bipartisan-infrastructure-law/)
 to
-[good](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)[middle-class
-jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
+[good](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)[middle-class
+jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
 and facilitating critical investments in innovation, infrastructure, and
 clean energy. The President’s approach is providing a model of how to
 deliver [sustainable
-growth](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/statement-from-president-joe-biden-on-first-quarter-2024-gdp/)
+growth](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/statement-from-president-joe-biden-on-first-quarter-2024-gdp/)
 with good jobs and smart investments, but, for it to succeed, it is
 vital to enforce the rules that safeguard healthy market-driven
 competition.

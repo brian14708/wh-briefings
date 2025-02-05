@@ -2,7 +2,7 @@
 date: '2023-06-26'
 modified_time: 2023-06-27 11:05:09-04:00
 published_time: 2023-06-26 16:01:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-steadfast-in-support-of-puerto-ricos-renewal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-steadfast-in-support-of-puerto-ricos-renewal/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Steadfast in Support of Puerto\
   \ Rico\u2019s\_Renewal"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Steadfast in Support of Pu
  
 The Biden-Harris Administration is committed to supporting Puerto Rico’s
 recovery and renewal. In
-[2021](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/),
+[2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/),
 President Biden unlocked billions of dollars in disaster funding and
 enacted historic expansions of economic and healthcare assistance
 programs for Puerto Rico. Since then, the Biden-Harris Administration
@@ -21,7 +21,7 @@ President Biden’s Investing in America agenda – including historic
 legislation such as the American Rescue Plan (ARP), Bipartisan
 Infrastructure Law (BIL), CHIPS and Science Act, and Inflation Reduction
 Act (IRA) – is [delivering
-results](https://www.whitehouse.gov/wp-content/uploads/2023/04/Puerto-Rico-Fact-Sheet-042523.pdf)
+results](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Puerto-Rico-Fact-Sheet-042523.pdf)
 and bringing good jobs to the island. Puerto Rico is now a more
 attractive place for companies to invest, expand, and drive U.S.
 competitiveness. For example, Biosimilar Solutions Inc. is investing
@@ -51,10 +51,10 @@ Coordinator. As part of that commitment, White House Domestic Policy
 Advisor Susan Rice, White House Senior Advisor Julie Rodriguez, and
 Deputy Secretary Graves hosted Governor Pedro Pierluisi and members of
 his cabinet at the White House for the inaugural [Puerto Rico Economic
-Dialogue](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/06/fact-sheet-biden-harris-administration-hosts-economic-dialogue-with-the-government-of-puerto-rico-to-jointly-advance-economic-development-in-2023/)
+Dialogue](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/06/fact-sheet-biden-harris-administration-hosts-economic-dialogue-with-the-government-of-puerto-rico-to-jointly-advance-economic-development-in-2023/)
 in December 2022. This historic meeting brought together Puerto Rico’s
 leadership and the [White House Working Group on Puerto
-Rico](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/)
+Rico](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/)
 to endorse a slate of actions that the federal and territorial
 governments will jointly implement over the course of 2023, centered
 on: 1) workforce development, 2) infrastructure, energy and resilience,

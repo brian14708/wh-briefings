@@ -2,7 +2,7 @@
 date: '2023-12-17'
 modified_time: 2023-12-17 22:58:32-05:00
 published_time: 2023-12-17 22:58:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/17/readout-of-national-security-advisor-jake-sullivans-call-with-the-national-security-advisors-of-the-republic-of-korea-and-japan-following-the-dprks-icbm-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/17/readout-of-national-security-advisor-jake-sullivans-call-with-the-national-security-advisors-of-the-republic-of-korea-and-japan-following-the-dprks-icbm-test/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with the National\
   \ Security Advisors of the Republic of Korea and Japan Following the DPRK\u2019\

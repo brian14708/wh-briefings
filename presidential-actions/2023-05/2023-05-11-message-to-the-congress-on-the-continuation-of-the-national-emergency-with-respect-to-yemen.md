@@ -1,7 +1,7 @@
 ---
 date: '2023-05-11'
 published_time: 2023-05-11 15:47:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-yemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-yemen/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Yemen"

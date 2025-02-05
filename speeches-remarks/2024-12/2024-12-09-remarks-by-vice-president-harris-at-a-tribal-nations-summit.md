@@ -2,7 +2,7 @@
 date: '2024-12-09'
 modified_time: 2024-12-09 16:59:09-05:00
 published_time: 2024-12-09 16:47:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/09/remarks-by-vice-president-harris-at-a-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/09/remarks-by-vice-president-harris-at-a-tribal-nations-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Tribal Nations\_Summit"
 ---

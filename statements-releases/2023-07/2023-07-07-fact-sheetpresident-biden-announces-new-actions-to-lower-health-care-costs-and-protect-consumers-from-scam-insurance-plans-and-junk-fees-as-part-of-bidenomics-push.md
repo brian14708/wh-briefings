@@ -2,7 +2,7 @@
 date: '2023-07-07'
 modified_time: 2023-07-07 10:57:06-04:00
 published_time: 2023-07-07 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/fact-sheetpresident-biden-announces-new-actions-to-lower-health-care-costs-and-protect-consumers-from-scam-insurance-plans-and-junk-fees-as-part-of-bidenomics-push/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/07/fact-sheetpresident-biden-announces-new-actions-to-lower-health-care-costs-and-protect-consumers-from-scam-insurance-plans-and-junk-fees-as-part-of-bidenomics-push/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Lower Health Care Costs\
   \ and Protect Consumers from Scam Insurance Plans and Junk Fees as Part of \u201C\

@@ -2,7 +2,7 @@
 date: '2023-03-09'
 modified_time: 2023-03-09 12:11:10-05:00
 published_time: 2023-03-09 12:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-reduces-deficits-by-nearly-3-trillion-over-10-years/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-reduces-deficits-by-nearly-3-trillion-over-10-years/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Reduces Deficits by Nearly $3 Trillion\
   \ Over 10\_Years"

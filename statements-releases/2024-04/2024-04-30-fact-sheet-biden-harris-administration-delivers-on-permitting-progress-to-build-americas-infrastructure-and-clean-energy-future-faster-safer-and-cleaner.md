@@ -2,7 +2,7 @@
 date: '2024-04-30'
 modified_time: 2024-04-30 07:50:50-04:00
 published_time: 2024-04-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-biden-harris-administration-delivers-on-permitting-progress-to-build-americas-infrastructure-and-clean-energy-future-faster-safer-and-cleaner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-biden-harris-administration-delivers-on-permitting-progress-to-build-americas-infrastructure-and-clean-energy-future-faster-safer-and-cleaner/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers on Permitting Progress\
   \ to Build America\u2019s Infrastructure and Clean Energy Future Faster, Safer,\
@@ -22,7 +22,7 @@ To deploy these investments, the Biden-Harris Administration has taken
 aggressive action to accelerate project permitting and environmental
 reviews. The Administration has developed and is currently executing a
 [Permitting Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/);
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/);
 secured $1 billion from the Inflation Reduction Act to improve
 permitting; passed important reforms in the 2023 Fiscal Responsibility
 Act that made commonsense changes to the environmental review process,
@@ -55,7 +55,7 @@ federal highway projects were covered by categorical exclusions in
 fiscal year 2022, meaning the vast majority of projects are moving
 forward using these faster reviews. The Administration has also
 [expanded the use of categorical
-exclusions](https://www.whitehouse.gov/ceq/news-updates/2023/09/19/biden-harris-administration-announces-first-actions-under-new-permitting-efficiencies-to-accelerate-american-manufacturing-and-clean-energy-future/)
+exclusions](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/09/19/biden-harris-administration-announces-first-actions-under-new-permitting-efficiencies-to-accelerate-american-manufacturing-and-clean-energy-future/)
 to expedite permitting in key sectors such as EV charging, broadband,
 CHIPS manufacturing, and clean energy projects.  
    
@@ -87,7 +87,7 @@ Rule</u>**
    
 **Modernizing federal environmental reviews.** The [Bipartisan
 Permitting Reform Implementation
-Rule](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
+Rule](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
 fully implements new efficiencies in agency environmental reviews under
 the National Environmental Policy Act (NEPA) that the Administration
 negotiated on a bipartisan basis and secured in the Fiscal
@@ -398,7 +398,7 @@ helps reduce or avoid conflict, and improves project design while
 protecting communities from pollution and environmental harms that can
 result from poor planning and decision making. Accelerating federal
 permitting is also crucial to advancing the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which set a goal that 40% of the overall benefits of certain federal
 climate, clean energy, affordable and sustainable housing, and other
 investments flow to disadvantaged communities that are marginalized by

@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-25 11:37:20-04:00
 published_time: 2024-10-24 23:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/24/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-the-interior-deb-haaland-en-route-phoenix-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/24/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-the-interior-deb-haaland-en-route-phoenix-az/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Secretary of the Interior\
   \ Deb Haaland En Route Phoenix,\_AZ"

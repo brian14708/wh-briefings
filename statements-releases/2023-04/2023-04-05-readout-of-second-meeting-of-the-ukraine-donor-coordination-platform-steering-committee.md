@@ -2,7 +2,7 @@
 date: '2023-04-05'
 modified_time: 2023-04-05 12:30:59-04:00
 published_time: 2023-04-05 12:30:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/05/readout-of-second-meeting-of-the-ukraine-donor-coordination-platform-steering-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/05/readout-of-second-meeting-of-the-ukraine-donor-coordination-platform-steering-committee/
 tags: statements-releases
 title: "Readout of Second Meeting of the Ukraine Donor Coordination Platform Steering\_\
   Committee"

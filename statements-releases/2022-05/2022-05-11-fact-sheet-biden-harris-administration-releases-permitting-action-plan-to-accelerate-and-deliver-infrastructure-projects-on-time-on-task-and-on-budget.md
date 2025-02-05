@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-10 20:07:39-04:00
 published_time: 2022-05-11 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Permitting Action Plan\
   \ to Accelerate and Deliver Infrastructure Projects On Time, On Task, and On\_Budget"
@@ -16,7 +16,7 @@ combat climate change, and help lower costs for families.
 To make the most of these historic investments and ensure infrastructure
 projects are delivered on time and on budget, the Biden-Harris
 Administration is releasing a new [Permitting Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)
 to strengthen and accelerate Federal permitting and environmental
 reviews by fully leveraging existing permitting authorities, as well as
 new provisions in the Bipartisan Infrastructure Law.  

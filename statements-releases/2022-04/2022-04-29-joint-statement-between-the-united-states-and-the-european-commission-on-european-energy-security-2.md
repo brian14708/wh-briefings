@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 14:03:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security-2/
 tags: statements-releases
 title: "Joint Statement between the United\_States and the European Commission on\
   \ European Energy\_Security"
@@ -9,7 +9,7 @@ title: "Joint Statement between the United\_States and the European Commission o
  
 On April 28, the U.S.-EU Task Force on Energy Security met in person in
 Washington to discuss implementation of the [March 25 Joint
-Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security/)
+Statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/25/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security/)
 by Presidents Biden and von der Leyen.   
    
 The meeting, chaired by Amos Hochstein, U.S. Senior Advisor for Energy

@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-10 11:12:26-04:00
 published_time: 2022-06-08 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-celebrates-world-ocean-day-with-actions-to-conserve-americas-deepest-atlantic-canyon-cut-plastic-pollution-and-create-americas-first-ever-o/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-celebrates-world-ocean-day-with-actions-to-conserve-americas-deepest-atlantic-canyon-cut-plastic-pollution-and-create-americas-first-ever-o/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Celebrates World Ocean Day\
   \ with Actions to Conserve America\u2019s Deepest Atlantic Canyon, Cut Plastic Pollution,\
@@ -14,7 +14,7 @@ and bounty of our ocean and reaffirm our commitment to protecting and
 conserving our marine environments for a sustainable future.”*****
 
 Following President Biden’s proclamation of June to be [National Ocean
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-national-ocean-month-2022/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-national-ocean-month-2022/),
 and in recognition of June 8 as World Ocean Day, the White House today
 announced a series of new steps the Administration is taking to conserve
 and restore the health and productivity of the ocean for the benefit of
@@ -66,7 +66,7 @@ today in recognition of World Ocean Day are:
     goal of phasing out single-use plastic products on
     Department-managed lands by 2032. The Order is part of the
     implementation of President Biden’s [Executive Order
-    14057](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/),
+    14057](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/),
     which calls for Federal agencies to minimize waste and support
     markets for recycled products. The Order also directs the Department
     to identify nonhazardous, environmentally preferable alternatives to
@@ -88,7 +88,7 @@ today in recognition of World Ocean Day are:
     Northern Bering Sea region) and the Bering Sea Federal Task Force
     (co-chaired by the Department of the Interior, NOAA, and the U.S.
     Coast Guard) [convened a historic
-    first](https://www.whitehouse.gov/wp-content/uploads/2022/06/06-2022-Readout-of-the-NBSCRA-JOINT-BFTF-BITAC-Meeting.pdf)
+    first](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/06-2022-Readout-of-the-NBSCRA-JOINT-BFTF-BITAC-Meeting.pdf)
     meeting on June 3 to identify the ways they will work together to
     implement the Northern Bering Sea Climate Resilience Area. The two
     bodies, coordinated by the Office of Science and Technology Policy,
@@ -101,7 +101,7 @@ today in recognition of World Ocean Day are:
     first-ever, whole-of-government Ocean Climate Action Plan.  **The
     Office of Science and Technology Policy and the Council on
     Environmental Quality, Co-Chairs of the [Ocean Policy
-    Committee,](https://www.whitehouse.gov/ostp/news-updates/2021/10/29/readout-of-the-first-ocean-policy-committee-meeting/)
+    Committee,](https://bidenwhitehouse.archives.gov/ostp/news-updates/2021/10/29/readout-of-the-first-ocean-policy-committee-meeting/)
     announced that the Committee will work in coordination with the
     White House Climate Policy Office to develop a whole-of-government
     Ocean Climate Action Plan that will guide significant ocean-based
@@ -120,7 +120,7 @@ today in recognition of World Ocean Day are:
     Subcommittee on Ocean Science and Technology, which is led by the
     Office of Science and Technology Policy, today released an
     [Environmental Justice Position
-    Statement](https://www.whitehouse.gov/ostp/news-updates/2022/06/07/ocean-agencies-commit-to-environmental-justice-outcomes-for-ocean-science-and-technology/),
+    Statement](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/06/07/ocean-agencies-commit-to-environmental-justice-outcomes-for-ocean-science-and-technology/),
     which commits the Federal government to advancing environmental
     justice across Federal ocean science and technology activities and
     investments and identifying immediate opportunities for action and

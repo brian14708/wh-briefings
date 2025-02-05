@@ -2,7 +2,7 @@
 date: '2023-11-10'
 modified_time: 2023-11-10 13:38:13-05:00
 published_time: 2023-11-10 13:38:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-energizing-the-u-s-pacific-islands-forum-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-energizing-the-u-s-pacific-islands-forum-partnership/
 tags: statements-releases
 title: "FACT SHEET: Energizing the U.S.-Pacific Islands Forum\_Partnership"
 ---

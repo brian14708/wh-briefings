@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-01-21'
 modified_time: 2022-01-21 18:36:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/21/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-79/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/01/21/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-79/
 published_time: 2022-01-21 17:00:00-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -696,4 +696,4 @@ DR. WALENSKY:  Thanks.
 1:33 P.M. EST
 
 To view the COVID Press Briefing slides, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2022/01/COVID-Press-Briefing1.21.22.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/COVID-Press-Briefing1.21.22.pdf>

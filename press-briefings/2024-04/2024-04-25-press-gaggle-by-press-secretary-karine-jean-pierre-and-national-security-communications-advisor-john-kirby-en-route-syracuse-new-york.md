@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-25 15:55:04-04:00
 published_time: 2024-04-25 15:55:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/25/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-syracuse-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/25/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-syracuse-new-york/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Communications\
   \ Advisor John Kirby En Route Syracuse, New\_York"

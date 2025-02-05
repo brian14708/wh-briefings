@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 12:09:21-04:00
 published_time: 2023-04-13 12:09:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/readout-of-president-joe-bidens-meeting-with-leo-varadkar-the-taoiseach-of-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/readout-of-president-joe-bidens-meeting-with-leo-varadkar-the-taoiseach-of-ireland/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Leo Varadkar, the Taoiseach\
   \ of\_Ireland"

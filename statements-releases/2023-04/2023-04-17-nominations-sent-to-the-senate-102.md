@@ -2,12 +2,12 @@
 date: '2023-04-17'
 modified_time: 2023-04-17 16:02:08-04:00
 published_time: 2023-04-17 16:01:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/nominations-sent-to-the-senate-102/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/17/nominations-sent-to-the-senate-102/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---
  
-[](https://www.whitehouse.gov/) Ana de Alba, of California, to be United
+[](https://bidenwhitehouse.archives.gov/) Ana de Alba, of California, to be United
 States Circuit Judge for the Ninth Circuit, vice Paul J. Watford,
 resigning.
 

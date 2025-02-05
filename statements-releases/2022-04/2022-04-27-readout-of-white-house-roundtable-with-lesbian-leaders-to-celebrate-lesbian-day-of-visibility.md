@@ -2,7 +2,7 @@
 date: '2022-04-27'
 modified_time: 2022-04-27 20:16:26-04:00
 published_time: 2022-04-27 20:16:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/27/readout-of-white-house-roundtable-with-lesbian-leaders-to-celebrate-lesbian-day-of-visibility/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/27/readout-of-white-house-roundtable-with-lesbian-leaders-to-celebrate-lesbian-day-of-visibility/
 tags: statements-releases
 title: "Readout of White\_House Roundtable with Lesbian Leaders to Celebrate Lesbian\
   \ Day of\_Visibility"

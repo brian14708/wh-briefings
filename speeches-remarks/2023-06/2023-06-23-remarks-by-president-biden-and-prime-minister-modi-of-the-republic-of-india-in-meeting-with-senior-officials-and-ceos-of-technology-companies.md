@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 17:30:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Modi of the Republic of India\
   \ in Meeting with Senior Officials and CEOs of Technology\_Companies"

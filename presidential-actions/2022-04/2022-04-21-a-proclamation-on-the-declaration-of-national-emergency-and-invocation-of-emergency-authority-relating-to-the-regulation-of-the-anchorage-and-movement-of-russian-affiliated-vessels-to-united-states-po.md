@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 10:44:01-04:00
 published_time: 2022-04-21 10:44:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/21/a-proclamation-on-the-declaration-of-national-emergency-and-invocation-of-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-states-po/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/21/a-proclamation-on-the-declaration-of-national-emergency-and-invocation-of-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-states-po/
 tags: presidential-actions
 title: "A Proclamation on the Declaration of National Emergency and Invocation of\
   \ Emergency Authority Relating to the Regulation of the Anchorage and Movement of\

@@ -2,7 +2,7 @@
 date: '2023-07-26'
 modified_time: 2023-07-27 09:15:52-04:00
 published_time: 2023-07-26 17:58:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/what-they-are-saying-members-of-congress-labor-leaders-business-groups-disability-advocacy-groups-and-more-celebrate-martin-omalleys-nomination-to-be-social-security-administrat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/what-they-are-saying-members-of-congress-labor-leaders-business-groups-disability-advocacy-groups-and-more-celebrate-martin-omalleys-nomination-to-be-social-security-administrat/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Members of Congress, Labor Leaders, Business Groups,\
   \ Disability Advocacy Groups, and More Celebrate Martin O\u2019Malley\u2019s Nomination\

@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 06:27:37-04:00
 published_time: 2023-10-11 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: White\_House Celebrates International Day of the Girl and Announces\
   \ New Actions to Support Youth in the U.S. and\_Abroad"
@@ -19,7 +19,7 @@ This afternoon, First Lady Jill Biden will host the first-ever “Girls
 Leading Change” celebration at the White House to recognize the profound
 impact young women are having on their communities across the United
 States. The event will honor [15 young women
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/first-lady-jill-biden-announces-girls-leading-change-honorees/),
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/first-lady-jill-biden-announces-girls-leading-change-honorees/),
 selected by the White House Gender Policy Council, who are leading
 change and shaping a brighter future for generations to come.  
 

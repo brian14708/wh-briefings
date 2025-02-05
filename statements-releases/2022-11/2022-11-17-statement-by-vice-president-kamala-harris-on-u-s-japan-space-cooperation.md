@@ -2,7 +2,7 @@
 date: '2022-11-17'
 modified_time: 2022-11-17 17:07:19-05:00
 published_time: 2022-11-17 17:07:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/17/statement-by-vice-president-kamala-harris-on-u-s-japan-space-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/17/statement-by-vice-president-kamala-harris-on-u-s-japan-space-cooperation/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on U.S.-Japan Space\_Cooperation"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 published_time: 2023-02-21 11:19:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/21/remarks-by-president-biden-and-president-andrzej-duda-of-poland-after-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/21/remarks-by-president-biden-and-president-andrzej-duda-of-poland-after-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Andrzej Duda of Poland After Bilateral\_\
   Meeting"

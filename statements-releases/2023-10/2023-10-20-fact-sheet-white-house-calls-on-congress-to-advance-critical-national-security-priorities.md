@@ -2,14 +2,14 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 14:14:50-04:00
 published_time: 2023-10-20 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/fact-sheet-white-house-calls-on-congress-to-advance-critical-national-security-priorities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/fact-sheet-white-house-calls-on-congress-to-advance-critical-national-security-priorities/
 tags: statements-releases
 title: "FACT SHEET: White\_House Calls on Congress to Advance Critical National Security\_\
   Priorities"
 ---
  
 Today, the President is requesting [supplemental funding from
-Congress](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
+Congress](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
 that advances our national security and supports our allies and
 partners. Since the horrific terrorist attack by Hamas, President Biden
 has surged security, intelligence, and diplomatic support to the people

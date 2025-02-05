@@ -2,7 +2,7 @@
 date: '2024-06-17'
 modified_time: 2024-06-18 10:22:42-04:00
 published_time: 2024-06-17 21:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/17/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/17/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and NATO Secretary General Jens Stoltenberg Before\
   \ Bilateral\_Meeting"

@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 18:53:12-04:00
 published_time: 2022-08-03 18:53:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/statement-from-president-biden-on-the-passing-of-congresswoman-jackie-walorski-of-indiana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/statement-from-president-biden-on-the-passing-of-congresswoman-jackie-walorski-of-indiana/
 tags: statements-releases
 title: "Statement from President\_Biden on the Passing of Congresswoman Jackie Walorski\
   \ of\_Indiana"

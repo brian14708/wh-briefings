@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 21:06:11-04:00
 published_time: 2022-08-09 21:06:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/09/memorandum-on-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/09/memorandum-on-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia-2/
 tags: presidential-actions
 title: "Memorandum on Continuation of U.S. Drug Interdiction Assistance to the Government\
   \ of\_Colombia"

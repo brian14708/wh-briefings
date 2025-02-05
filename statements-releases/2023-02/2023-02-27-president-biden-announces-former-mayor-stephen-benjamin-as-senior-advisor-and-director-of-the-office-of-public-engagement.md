@@ -1,7 +1,7 @@
 ---
 date: '2023-02-27'
 published_time: 2023-02-27 10:35:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/president-biden-announces-former-mayor-stephen-benjamin-as-senior-advisor-and-director-of-the-office-of-public-engagement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/president-biden-announces-former-mayor-stephen-benjamin-as-senior-advisor-and-director-of-the-office-of-public-engagement/
 tags: statements-releases
 title: "President\_Biden Announces Former Mayor Stephen Benjamin as Senior Advisor\
   \ and Director of the Office of Public\_Engagement"

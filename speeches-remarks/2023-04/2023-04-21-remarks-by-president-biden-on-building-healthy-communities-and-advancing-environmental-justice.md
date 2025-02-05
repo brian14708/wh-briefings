@@ -1,7 +1,7 @@
 ---
 date: '2023-04-21'
 published_time: 2023-04-21 18:23:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-president-biden-on-building-healthy-communities-and-advancing-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-president-biden-on-building-healthy-communities-and-advancing-environmental-justice/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Building Healthy Communities and Advancing\
   \ Environmental\_Justice"

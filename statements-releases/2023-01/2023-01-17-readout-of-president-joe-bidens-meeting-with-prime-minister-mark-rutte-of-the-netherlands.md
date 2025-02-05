@@ -1,7 +1,7 @@
 ---
 date: '2023-01-17'
 published_time: 2023-01-17 14:12:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/readout-of-president-joe-bidens-meeting-with-prime-minister-mark-rutte-of-the-netherlands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/readout-of-president-joe-bidens-meeting-with-prime-minister-mark-rutte-of-the-netherlands/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Mark Rutte\
   \ of the\_Netherlands"

@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-13 14:40:35-05:00
 published_time: 2022-11-13 14:40:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-act-of-violence-in-istanbul/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-act-of-violence-in-istanbul/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Act of\
   \ Violence in\_Istanbul"

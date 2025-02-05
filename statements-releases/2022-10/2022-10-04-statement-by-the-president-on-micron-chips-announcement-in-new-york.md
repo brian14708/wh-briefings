@@ -2,7 +2,7 @@
 date: '2022-10-04'
 modified_time: 2022-10-04 08:50:19-04:00
 published_time: 2022-10-04 09:31:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/statement-by-the-president-on-micron-chips-announcement-in-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/statement-by-the-president-on-micron-chips-announcement-in-new-york/
 tags: statements-releases
 title: "Statement by the President on Micron Chips Announcement in New\_York"
 ---

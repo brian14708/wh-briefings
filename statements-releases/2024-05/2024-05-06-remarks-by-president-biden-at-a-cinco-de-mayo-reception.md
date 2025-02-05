@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-07 12:10:44-04:00
 published_time: 2024-05-06 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/remarks-by-president-biden-at-a-cinco-de-mayo-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/remarks-by-president-biden-at-a-cinco-de-mayo-reception/
 tags: statements-releases
 title: "Remarks by President\_Biden at a Cinco de Mayo\_Reception"
 ---

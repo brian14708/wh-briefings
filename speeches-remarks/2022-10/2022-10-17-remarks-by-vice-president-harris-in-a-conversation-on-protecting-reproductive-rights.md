@@ -2,7 +2,7 @@
 date: '2022-10-17'
 modified_time: 2022-10-18 11:16:12-04:00
 published_time: 2022-10-17 23:02:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/17/remarks-by-vice-president-harris-in-a-conversation-on-protecting-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/17/remarks-by-vice-president-harris-in-a-conversation-on-protecting-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Conversation on Protecting Reproductive\_\
   Rights"

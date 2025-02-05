@@ -2,7 +2,7 @@
 date: '2024-09-28'
 modified_time: 2024-09-28 12:26:29-04:00
 published_time: 2024-09-28 12:26:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/28/statement-from-president-joe-biden-on-the-death-of-hassan-nasrallah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/28/statement-from-president-joe-biden-on-the-death-of-hassan-nasrallah/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Death of Hassan\_Nasrallah"
 ---

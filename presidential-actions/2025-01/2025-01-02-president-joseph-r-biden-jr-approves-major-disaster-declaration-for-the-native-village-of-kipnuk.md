@@ -1,7 +1,7 @@
 ---
 date: '2025-01-02'
 published_time: 2025-01-02 18:34:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/02/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-native-village-of-kipnuk/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/02/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-native-village-of-kipnuk/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Major Disaster Declaration for the\
   \ Native Village of\_Kipnuk"

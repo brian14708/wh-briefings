@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-08-01 16:25:55-04:00
 published_time: 2022-08-01 16:25:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/readout-of-national-security-advisor-sullivan-secretary-of-state-blinken-and-chairman-of-the-joint-chiefs-of-staff-gen-milleys-call-with-ukrainian-counterparts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/readout-of-national-security-advisor-sullivan-secretary-of-state-blinken-and-chairman-of-the-joint-chiefs-of-staff-gen-milleys-call-with-ukrainian-counterparts/
 tags: statements-releases
 title: "Readout of National Security Advisor Sullivan, Secretary of State Blinken,\
   \ and Chairman of the Joint Chiefs of Staff Gen. Milley\u2019s Call with Ukrainian\_\

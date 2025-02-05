@@ -1,7 +1,7 @@
 ---
 date: '2023-07-24'
 published_time: 2023-07-24 12:07:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/24/statement-from-white-house-press-secretary-karine-jean-pierre-on-israel-judicial-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/24/statement-from-white-house-press-secretary-karine-jean-pierre-on-israel-judicial-reform/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Israel Judicial\_\
   Reform"

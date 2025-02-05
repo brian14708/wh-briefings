@@ -2,7 +2,7 @@
 date: '2023-02-20'
 modified_time: 2023-02-20 10:56:44-05:00
 published_time: 2023-02-20 10:56:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/20/on-the-record-press-call-by-senior-administration-officials-on-president-bidens-trip-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/20/on-the-record-press-call-by-senior-administration-officials-on-president-bidens-trip-to-ukraine/
 tags: statements-releases
 title: "On-the-Record Press Call by Senior Administration Officials on President\_\
   Biden\u2019s Trip to\_Ukraine"

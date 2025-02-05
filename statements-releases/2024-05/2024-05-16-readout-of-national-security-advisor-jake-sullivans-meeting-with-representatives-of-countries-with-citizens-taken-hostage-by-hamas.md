@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 published_time: 2024-05-16 13:22:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-representatives-of-countries-with-citizens-taken-hostage-by-hamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-representatives-of-countries-with-citizens-taken-hostage-by-hamas/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Representatives\
   \ of Countries with Citizens Taken Hostage by\_Hamas"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 22:09:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/07/readout-of-president-bidens-call-with-prime-minister-trudeau-of-canada-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/07/readout-of-president-bidens-call-with-prime-minister-trudeau-of-canada-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Trudeau of\_Canada"
 ---

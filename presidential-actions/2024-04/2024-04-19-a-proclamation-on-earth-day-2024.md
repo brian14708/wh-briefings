@@ -2,7 +2,7 @@
 date: '2024-04-19'
 modified_time: 2024-04-19 13:07:18-04:00
 published_time: 2024-04-19 13:07:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/19/a-proclamation-on-earth-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/19/a-proclamation-on-earth-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Earth Day,\_2024"
 ---

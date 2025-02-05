@@ -2,7 +2,7 @@
 date: '2023-04-18'
 modified_time: 2023-04-18 16:17:01-04:00
 published_time: 2023-04-18 16:17:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/message-to-the-congress-on-the-continuation-of-the-national-emergency-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-st/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/message-to-the-congress-on-the-continuation-of-the-national-emergency-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-st/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency and\
   \ of the Emergency Authority Relating to the Regulation of the Anchorage and Movement\

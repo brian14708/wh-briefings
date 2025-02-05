@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-02'
 modified_time: 2022-02-02 09:12:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-the-biden-administrations-commitment-to-global-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-the-biden-administrations-commitment-to-global-health/
 published_time: 2022-02-02 08:22:13-05:00
 title: "FACT SHEET: The Biden Administration\u2019s Commitment to Global\_Health"
 ---
@@ -72,7 +72,7 @@ advance global health priorities, including:
     in the face of continued threats. The White House Gender Policy
     Council released the first-ever [National Strategy on Gender Equity
     and
-    Equality](https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
+    Equality](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
     which emphasizes the core role of advancing SRHR to achieve gender
     equality. As the largest bilateral donor to family planning, the
     United States also leads globally by advancing SRHR in multilateral

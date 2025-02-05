@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-01'
 modified_time: 2021-07-02 19:58:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/
 published_time: 2021-06-01 08:00:00-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Champions LGBTQ+ Equality\
   \ and Marks Pride\_Month"
@@ -42,7 +42,7 @@ took office, including:
 **Signing One of the Most Comprehensive Executive Orders in History on
 LGBTQ+ Rights on His First Day in Office. **Within hours of taking the
 oath of office, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) Preventing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) Preventing
 and Combating Discrimination on the Basis of Gender Identity or Sexual
 Orientation. The Executive Order established that it is the official
 policy of the Biden-Harris Administration to prevent and combat
@@ -96,7 +96,7 @@ agencies have already taken key steps to advance LGBTQ+ equality.
 **Launching a Whole-Of-Government Initiative to Advance Equity and
 Justice for Underserved Communities, Including LGBTQ+ Communities. **On
 his first day in office, President Biden signed a historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
 a cross-government initiative to advance equity and justice for
 communities who have been left behind, underserved, or discriminated
 against by federal policies, laws, and programs, including LGBTQ+
@@ -108,7 +108,7 @@ LGBTQ+ Americans.
 
 **Enabling All Qualified Americans to Serve Their Country in
 Uniform. **In his first week in office, President
-Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
+Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
 Executive Order reversing the ban on openly transgender servicemembers
 serving in the Armed Forces, enabling all qualified Americans to serve
 their country in uniform. President Biden believes that gender identity
@@ -152,7 +152,7 @@ COVID-19 by:
 **Signing and Leading Implementation of a Presidential Memorandum on
 Advancing the Human Rights of Lesbian, Gay, Bisexual, Transgender,
 Queer, and Intersex Persons Around the World. **President
-Biden [directed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) all
+Biden [directed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) all
 agencies engaged abroad to ensure that United States diplomacy and
 foreign assistance promote and protect the human rights of LGBTQ+
 persons. His Memorandum establishes that it “shall be the policy of the
@@ -160,7 +160,7 @@ United States to pursue an end to violence and discrimination on the
 basis of sexual orientation, gender identity or expression, or sex
 characteristics, and to lead by the power of our example in the cause of
 advancing the human rights of LGBTQ+ persons around the world.” As
-previously [highlighted](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-the-biden-harris-administration-is-advancing-lgbtqi-human-rights-at-home-and-across-the-globe/) by
+previously [highlighted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-the-biden-harris-administration-is-advancing-lgbtqi-human-rights-at-home-and-across-the-globe/) by
 the White House, Departments and Agencies are already making progress in
 areas towards the goals outlined in the  Presidential Memorandum,
 including: strengthen existing efforts to combat the criminalization by
@@ -174,7 +174,7 @@ discrimination against LGBTQ+ people around the world.
 
 **Establishing the White House Gender Policy Council to Advance Gender
 Equity and Equality. **President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) establishing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) establishing
 the White House Gender Policy Council to advance gender equity and
 equality across the whole of the government, including by addressing
 barriers faced by LGBTQ+ people, in particular transgender women and
@@ -183,7 +183,7 @@ girls, across our country.  
 **Ensuring Educational Environments are Free from Sex Discrimination and
 Protecting LGBTQ+ Students from Sexual Harassment. **President Biden
 signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
 the Federal Government to guarantee educational environments free from
 sex discrimination, including sexual harassment and including
 discrimination on the basis of sexual orientation or gender identity,
@@ -196,7 +196,7 @@ subject to sexual harassment, including sexual violence.
 **Signing a National Security Memorandum Supporting Federal Employees
 Serving Overseas, including LGBTQ+ Employees. **President Biden signed
 a [National Security
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/) on
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/) on
 Revitalizing America’s Foreign Policy and National Security Workforce,
 Institutions, and Partnerships. The Memorandum directs agencies to take
 steps to retain, develop, promote, and support LGBTQ+ and other national
@@ -218,14 +218,14 @@ Secretary for Health Dr. Rachel Levine, who is the first openly
 transgender person ever confirmed by the U.S. Senate. President Biden
 has assembled the most diverse Administration in our Nation’s history,
 and is proud to serve alongside the [14
-percent](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/) of
+percent](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/) of
 all appointees who identify as lesbian, gay, bisexual, transgender, and
 queer.
 
 **Issuing the First White House Proclamation for Transgender Day of
 Visibility. **On March 31, 2021 President Biden became the first U.S.
 President to issue
-a [proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
+a [proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
 Transgender Day of Visibility. The proclamation honored and celebrated
 the achievements and resiliency of transgender individuals and
 communities, and recognized the generations of struggle, activism, and

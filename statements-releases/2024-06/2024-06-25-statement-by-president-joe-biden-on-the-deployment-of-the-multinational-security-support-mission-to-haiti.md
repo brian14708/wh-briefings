@@ -1,7 +1,7 @@
 ---
 date: '2024-06-25'
 published_time: 2024-06-25 12:08:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/25/statement-by-president-joe-biden-on-the-deployment-of-the-multinational-security-support-mission-to-haiti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/25/statement-by-president-joe-biden-on-the-deployment-of-the-multinational-security-support-mission-to-haiti/
 tags: statements-releases
 title: "Statement by President Joe\_Biden On the Deployment of the Multinational Security\
   \ Support Mission to\_Haiti"

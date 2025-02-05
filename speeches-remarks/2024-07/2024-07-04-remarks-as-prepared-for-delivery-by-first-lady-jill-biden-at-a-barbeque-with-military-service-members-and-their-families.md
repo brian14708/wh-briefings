@@ -2,7 +2,7 @@
 date: '2024-07-04'
 modified_time: 2024-07-04 18:35:01-04:00
 published_time: 2024-07-04 18:35:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-barbeque-with-military-service-members-and-their-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-barbeque-with-military-service-members-and-their-families/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Barbeque with\
   \ Military Service Members and Their\_Families"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-23'
 modified_time: 2021-07-07 12:21:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/president-biden-announces-17-key-nominations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/president-biden-announces-17-key-nominations/
 published_time: 2021-06-23 16:47:41-04:00
 title: "President\_Biden Announces 17 Key\_Nominations"
 ---

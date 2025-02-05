@@ -2,7 +2,7 @@
 date: '2023-04-03'
 modified_time: 2023-04-03 21:55:48-04:00
 published_time: 2023-04-03 21:55:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/03/readout-of-national-security-advisor-jake-sullivans-call-with-republic-of-korea-national-security-advisor-cho-tae-yong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/03/readout-of-national-security-advisor-jake-sullivans-call-with-republic-of-korea-national-security-advisor-cho-tae-yong/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s call with Republic\
   \ of Korea National Security Advisor Cho\_Tae-yong"

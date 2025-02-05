@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 11:40:52-04:00
 published_time: 2023-03-31 11:40:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-national-donate-life-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-national-donate-life-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Donate Life Month,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 19:50:15-04:00
 published_time: 2023-04-20 19:50:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-occasion-of-eid-al-fitr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-occasion-of-eid-al-fitr/
 tags: statements-releases
 title: "Statement from President Joe\_Biden and First Lady Jill\_Biden on the Occasion\
   \ of Eid\_al-Fitr"

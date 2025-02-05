@@ -2,7 +2,7 @@
 date: '2022-07-27'
 modified_time: 2022-07-27 11:35:07-04:00
 published_time: 2022-07-27 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/27/president-biden-announces-key-nominees-26/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/27/president-biden-announces-key-nominees-26/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

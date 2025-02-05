@@ -2,7 +2,7 @@
 date: '2023-08-03'
 modified_time: 2023-08-08 13:11:28-04:00
 published_time: 2023-08-03 07:09:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration High-Speed Internet Investments\
   \ Spur Made-in-America Manufacturing\_Boom"

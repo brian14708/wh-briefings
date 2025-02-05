@@ -2,7 +2,7 @@
 date: '2024-10-02'
 modified_time: 2024-10-02 17:41:17-04:00
 published_time: 2024-10-02 17:41:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Secretary of Homeland\
   \ Security Alejandro Mayorkas En Route Greenville,\_SC"

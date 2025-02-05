@@ -2,7 +2,7 @@
 date: '2023-07-12'
 modified_time: 2023-07-12 10:54:00-04:00
 published_time: 2023-07-12 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-delivers-on-major-trade-and-investment-deals-following-the-2022-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-delivers-on-major-trade-and-investment-deals-following-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers on Major Trade and\
   \ Investment Deals Following the 2022 U.S.-Africa Leaders\_Summit"

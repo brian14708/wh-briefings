@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-17 00:21:28-04:00
 published_time: 2024-06-15 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/15/remarks-by-president-biden-and-president-obama-in-a-moderated-conversation-with-jimmy-kimmel-at-a-campaign-reception-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/15/remarks-by-president-biden-and-president-obama-in-a-moderated-conversation-with-jimmy-kimmel-at-a-campaign-reception-los-angeles-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Obama in a Moderated Conversation\
   \ with Jimmy Kimmel at a Campaign Reception | Los Angeles,\_CA"

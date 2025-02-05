@@ -1,7 +1,7 @@
 ---
 date: '2022-11-28'
 published_time: 2022-11-28 21:03:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/28/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2022-white-house-holiday-theme-and-celebration-of-volunteers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/28/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2022-white-house-holiday-theme-and-celebration-of-volunteers/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the Unveiling of the 2022 White\_House\
   \ Holiday Theme and Celebration of\_Volunteers"

@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 22:04:35-05:00
 published_time: 2023-01-27 22:04:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/statement-from-vice-president-harris-on-tyre-nichols/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/statement-from-vice-president-harris-on-tyre-nichols/
 tags: statements-releases
 title: "Statement from Vice President Harris on Tyre\_Nichols"
 ---

@@ -2,7 +2,7 @@
 date: '2024-01-08'
 modified_time: 2024-01-08 17:05:12-05:00
 published_time: 2024-01-08 17:05:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/08/readout-of-vice-president-harriss-call-with-president-herzog-of-israel-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/08/readout-of-vice-president-harriss-call-with-president-herzog-of-israel-3/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Herzog of\_Israel"
 ---

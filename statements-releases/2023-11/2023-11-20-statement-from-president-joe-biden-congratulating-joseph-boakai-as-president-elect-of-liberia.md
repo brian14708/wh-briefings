@@ -1,7 +1,7 @@
 ---
 date: '2023-11-20'
 published_time: 2023-11-20 16:43:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/20/statement-from-president-joe-biden-congratulating-joseph-boakai-as-president-elect-of-liberia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/20/statement-from-president-joe-biden-congratulating-joseph-boakai-as-president-elect-of-liberia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Congratulating Joseph Boakai as President-elect\
   \ of\_Liberia"

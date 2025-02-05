@@ -1,7 +1,7 @@
 ---
 date: '2022-06-03'
 published_time: 2022-06-03 15:02:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/03/memorandum-on-the-delegation-of-authority-under-sections-1209-and-1236-of-the-national-defense-authorization-act-for-fiscal-year-2015-as-amended/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/03/memorandum-on-the-delegation-of-authority-under-sections-1209-and-1236-of-the-national-defense-authorization-act-for-fiscal-year-2015-as-amended/
 tags: statements-releases
 title: "Memorandum on the Delegation of Authority Under Sections 1209 and 1236 of\
   \ the National Defense Authorization Act for Fiscal Year 2015, as\_Amended"

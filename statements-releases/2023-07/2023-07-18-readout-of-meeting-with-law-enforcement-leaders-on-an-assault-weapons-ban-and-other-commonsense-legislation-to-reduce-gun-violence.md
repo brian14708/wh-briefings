@@ -1,7 +1,7 @@
 ---
 date: '2023-07-18'
 published_time: 2023-07-18 22:46:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/readout-of-meeting-with-law-enforcement-leaders-on-an-assault-weapons-ban-and-other-commonsense-legislation-to-reduce-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/18/readout-of-meeting-with-law-enforcement-leaders-on-an-assault-weapons-ban-and-other-commonsense-legislation-to-reduce-gun-violence/
 tags: statements-releases
 title: "Readout of Meeting with Law Enforcement Leaders on An Assault Weapons Ban\
   \ and Other Commonsense Legislation to Reduce Gun\_Violence"

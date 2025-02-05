@@ -1,7 +1,7 @@
 ---
 date: '2023-02-18'
 published_time: 2023-02-18 16:00:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-prime-minister-marin-of-finland-and-prime-minister-kristersson-of-sweden-before-trilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-prime-minister-marin-of-finland-and-prime-minister-kristersson-of-sweden-before-trilateral-meeting/
 tags: speeches-remarks
 title: Remarks by Vice President Harris, Prime Minister Marin of Finland, and Prime
   Minister Kristersson of Sweden Before Trilateral Meeting

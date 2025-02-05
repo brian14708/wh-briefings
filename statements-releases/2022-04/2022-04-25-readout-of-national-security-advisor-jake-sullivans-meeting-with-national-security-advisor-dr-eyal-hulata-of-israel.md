@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 22:21:39-04:00
 published_time: 2022-04-25 22:21:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-dr-eyal-hulata-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-dr-eyal-hulata-of-israel/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with National\
   \ Security Advisor Dr. Eyal Hulata of\_Israel"

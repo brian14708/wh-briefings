@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-29 18:30:39-04:00
 published_time: 2022-07-28 17:36:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/28/background-press-call-on-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/28/background-press-call-on-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
 tags: press-briefings
 title: "Background Press Call on President\_Biden\u2019s Call with President Xi Jinping\
   \ of the People\u2019s Republic of\_China"

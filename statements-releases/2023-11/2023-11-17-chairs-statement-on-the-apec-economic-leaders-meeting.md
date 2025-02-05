@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 21:10:56-05:00
 published_time: 2023-11-17 21:09:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/
 tags: statements-releases
 title: "Chair\u2019s Statement on the APEC Economic Leader\u2019s\_Meeting"
 ---
@@ -42,6 +42,6 @@ issues.
 
 **See Also:**  
 *[Golden Gate Leaders’
-Declaration](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/)*
+Declaration](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/)*
 
 \###

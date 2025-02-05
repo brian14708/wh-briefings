@@ -1,7 +1,7 @@
 ---
 date: '2024-12-20'
 published_time: 2024-12-20 19:23:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/20/statement-from-president-joe-biden-on-securing-235-judicial-confirmations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/20/statement-from-president-joe-biden-on-securing-235-judicial-confirmations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Securing 235 Judicial Confirmations"
 ---

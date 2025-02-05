@@ -1,7 +1,7 @@
 ---
 date: '2024-03-28'
 published_time: 2024-03-28 15:58:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-joe-lieberman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-joe-lieberman/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former U.S. Senator\
   \ Joe\_Lieberman"

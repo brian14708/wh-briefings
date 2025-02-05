@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-17 14:14:29-04:00
 published_time: 2024-04-17 14:12:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/17/remarks-by-president-biden-before-air-force-one-departure-avoca-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/17/remarks-by-president-biden-before-air-force-one-departure-avoca-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Avoca,\_PA"
 ---

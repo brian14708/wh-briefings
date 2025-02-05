@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 11:44:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/07/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-trip-to-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/07/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-trip-to-mexico/
 tags: statements-releases
 title: "Readout of Homeland Security Advisor Dr. Liz Sherwood-Randall\u2019s Trip\
   \ to\_Mexico"

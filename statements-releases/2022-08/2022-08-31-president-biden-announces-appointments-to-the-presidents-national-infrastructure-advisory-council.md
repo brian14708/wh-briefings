@@ -2,7 +2,7 @@
 date: '2022-08-31'
 modified_time: 2022-08-31 17:01:16-04:00
 published_time: 2022-08-31 16:09:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/president-biden-announces-appointments-to-the-presidents-national-infrastructure-advisory-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/31/president-biden-announces-appointments-to-the-presidents-national-infrastructure-advisory-council/
 tags: statements-releases
 title: "President\_Biden Announces Appointments to the President\u2019s National Infrastructure\
   \ Advisory\_Council"

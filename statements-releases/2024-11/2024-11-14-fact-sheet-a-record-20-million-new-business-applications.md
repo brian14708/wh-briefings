@@ -2,7 +2,7 @@
 date: '2024-11-14'
 modified_time: 2024-11-14 11:04:35-05:00
 published_time: 2024-11-14 10:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-a-record-20-million-new-business-applications/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-a-record-20-million-new-business-applications/
 tags: statements-releases
 title: "FACT SHEET: A Record 20 Million New Business\_Applications"
 ---

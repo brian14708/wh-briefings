@@ -1,7 +1,7 @@
 ---
 date: '2024-05-09'
 published_time: 2024-05-09 09:19:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/09/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/09/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Asian American, Native Hawaiian, and Pacific Islander Communities Across the\_\
@@ -17,7 +17,7 @@ for far too many AA and NHPI people across the United States. For more
 than three years, the Biden-Harris Administration has leveraged the full
 force of the Federal Government to ensure the promise of America for all
 AA and NHPI communities — including by issuing an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/executive-order-on-advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/28/executive-order-on-advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders/)
 establishing the [President’s Advisory
 Commission](https://www.hhs.gov/about/whiaanhpi/commission/index.html)
 and [White House Initiative on Asian Americans, Native Hawaiians, and
@@ -45,7 +45,7 @@ reflect, and be responsive to the diversity of AA and NHPI experiences.
 
 -   **Expanding and building capacity for disaggregated data.** In April
     2022, the White House released
-    [recommendations](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-biden-harris-administration-releases-recommendations-for-advancing-use-of-equitable-data/)
+    [recommendations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-biden-harris-administration-releases-recommendations-for-advancing-use-of-equitable-data/)
     for increasing the collection of data to measure equity and better
     represent the diversity of the American people, including AA and
     NHPI communities. In March 2024, the White House Office of
@@ -72,7 +72,7 @@ of all persons and rooting out identity-based discrimination.
 
 -   **Confronting the scourge of hate.** President Biden signed the
     [COVID-19 Hate Crimes
-    Act](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
     into law in 2021 and [issued new
     guidance](https://www.justice.gov/hatecrimes/file/1223831/dl?inline=)
     to raise awareness of hate crimes during the COVID-19 pandemic,
@@ -89,12 +89,12 @@ of all persons and rooting out identity-based discrimination.
     Administration has mobilized over $1 billion in new investments to
     increase support for programs to bridge divides and [counter
     hate-fueled
-    violence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/),
+    violence](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/),
     and established an interagency group to counter antisemitism,
     Islamophobia, and related forms of bias and discrimination. In
     November 2023, the White House announced plans to develop the
     [first-ever U.S. National Strategy to Counter
-    Islamophobia](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/),
+    Islamophobia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/),
     a whole-of-society effort to address all forms of hate,
     discrimination, and bias against Muslim, Sikh, South Asian, and Arab
     American communities.
@@ -102,8 +102,8 @@ of all persons and rooting out identity-based discrimination.
 **Growing Economic Opportunity for AA and NHPI Families and
 Communities**  
 Through [two historic equity Executive
-Orders](https://www.whitehouse.gov/equity/), the President’s landmark
-[Investing in America agenda](https://www.whitehouse.gov/invest/), and
+Orders](https://bidenwhitehouse.archives.gov/equity/), the President’s landmark
+[Investing in America agenda](https://bidenwhitehouse.archives.gov/invest/), and
 the implementation of key legislation, the Biden-Harris Administration
 is addressing longstanding economic inequities and delivering security,
 mobility, and prosperity for AA and NHPI families and communities.
@@ -139,12 +139,12 @@ mobility, and prosperity for AA and NHPI families and communities.
 -   **Closing gender and racial wage gaps.** AA and NHPI women are
     overrepresented in the Nation’s front line and low-wage workforces.
     The Biden-Harris Administration is taking [new
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/12/fact-sheet-on-equal-pay-day-the-biden-harris-administration-announces-actions-to-continue-advancing-pay-equity-and-womens-economic-security/)
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/12/fact-sheet-on-equal-pay-day-the-biden-harris-administration-announces-actions-to-continue-advancing-pay-equity-and-womens-economic-security/)
     to combat occupational segregation and advance women’s economic
     security, such as expanding access to good-paying jobs and
     apprenticeships, increasing access to [affordable care and support
     for
-    caregivers](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/#:~:text=The%20American%20Rescue%20Plan's%20(ARP,families%20who%20rely%20on%20them.),
+    caregivers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/#:~:text=The%20American%20Rescue%20Plan's%20(ARP,families%20who%20rely%20on%20them.),
     and advancing pay equity and pay transparency. The Department of
     Labor [announced new
     funding](https://www.dol.gov/newsroom/releases/wb/wb20240411) to
@@ -158,7 +158,7 @@ mobility, and prosperity for AA and NHPI families and communities.
     pandemic, including record low AA and NHPI child poverty in 2021
     driven by the expansion of the Child Tax Credit (CTC). The
     President’s [FY 2025
-    Budget](https://www.whitehouse.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)
+    Budget](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)
     would restore the expanded CTC, lifting an estimated three million
     children out of poverty, including in AA and NHPI communities which
     experience disproportionately higher rates of child poverty.
@@ -177,7 +177,7 @@ NHPI students.
     President Biden issued the first-ever [White House proclamation to
     recognize National Asian American and Native American Pacific
     Islander-Serving
-    Institutions](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/)
+    Institutions](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/)
     (AANAPISIs), which confer almost 50% of associate degrees and nearly
     30% of baccalaureate degrees upon all people who are AA and NHPIs in
     the United States. The Biden-Harris Administration delivered $5
@@ -190,7 +190,7 @@ NHPI students.
     Title I programs or public targeted assistance programs.
 -   **Supporting low-income college students.** The President [secured
     the largest increase in Pell Grants in a
-    decade](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/#:~:text=The%20Administration%20secured%20the%20largest,%2C%20including%20low%2Dincome%20Americans.),
+    decade](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/#:~:text=The%20Administration%20secured%20the%20largest,%2C%20including%20low%2Dincome%20Americans.),
     and has expanded eligibility for the maximum Pell Grant to 1.7
     million more Americans, helping low-income students afford their
     dream of pursuing postsecondary education. According to the latest
@@ -215,7 +215,7 @@ NHPI communities.
     proficiency, including those from AA and NHPI communities.
 -   **Protecting AA and NHPI communities from harmful pollution**. The
     Biden-Harris Administration has [invested billions of
-    dollars](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
+    dollars](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
     to rid the Nation’s drinking water, air, soil, and food supply of
     toxic PFAS, which are linked to cancer, organ damage, and
     developmental issues in children. A 2023
@@ -294,7 +294,7 @@ the unprecedented levels of global migration. 
 
 -   **Restoring faith in the U.S. immigration system.** President Biden
     issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/)
     to restore faith in our Nation’s legal immigration system and
     re-establish the White House Task Force on New Americans to welcome
     and support new immigrants, including refugees, and catalyze State

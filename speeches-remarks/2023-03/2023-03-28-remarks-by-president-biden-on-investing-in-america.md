@@ -2,7 +2,7 @@
 date: '2023-03-28'
 modified_time: 2023-03-29 09:31:30-04:00
 published_time: 2023-03-28 19:04:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/28/remarks-by-president-biden-on-investing-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/28/remarks-by-president-biden-on-investing-in-america/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Investing in\_America"
 ---
@@ -286,7 +286,7 @@ communities.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/image.gif"
 title="Anchor" class="wp-image-73086" decoding="async" loading="lazy"
 width="1" height="1" />
 </figure>
@@ -382,7 +382,7 @@ and build that pipeline to fill the jobs we’re creating.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/image.gif"
 title="Anchor" class="wp-image-73084" decoding="async" />
 </figure>
 
@@ -394,7 +394,7 @@ jobs in biotech, manufacturing, cybersecurity, and shipbuilding.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/image.gif"
 title="Anchor" class="wp-image-73085" decoding="async" />
 </figure>
 

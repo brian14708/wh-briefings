@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 17:02:08-04:00
 published_time: 2023-05-16 17:02:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-vice-president-harris-before-roundtable-with-young-men-of-color-small-business-owners-and-entrepreneurs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-vice-president-harris-before-roundtable-with-young-men-of-color-small-business-owners-and-entrepreneurs/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Roundtable with Young Men of Color\
   \ Small Business Owners and\_Entrepreneurs"

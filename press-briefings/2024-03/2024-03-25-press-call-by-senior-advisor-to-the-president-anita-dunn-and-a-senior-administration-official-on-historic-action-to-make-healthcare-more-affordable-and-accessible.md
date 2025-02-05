@@ -2,7 +2,7 @@
 date: '2024-03-25'
 modified_time: 2024-03-26 14:52:44-04:00
 published_time: 2024-03-25 14:51:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/25/press-call-by-senior-advisor-to-the-president-anita-dunn-and-a-senior-administration-official-on-historic-action-to-make-healthcare-more-affordable-and-accessible/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/25/press-call-by-senior-advisor-to-the-president-anita-dunn-and-a-senior-administration-official-on-historic-action-to-make-healthcare-more-affordable-and-accessible/
 tags: press-briefings
 title: "Press Call by Senior Advisor to the President Anita Dunn and a Senior Administration\
   \ Official on Historic Action to Make Healthcare More Affordable and\_Accessible"

@@ -2,7 +2,7 @@
 date: '2022-05-03'
 modified_time: 2022-05-03 09:31:03-04:00
 published_time: 2022-05-03 09:31:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/03/statement-by-president-joe-biden-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/03/statement-by-president-joe-biden-4/
 tags: statements-releases
 title: "Statement by President Joe\_Biden"
 ---

@@ -2,7 +2,7 @@
 date: '2024-10-07'
 modified_time: 2024-10-08 10:04:10-04:00
 published_time: 2024-10-07 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-the-second-gentleman-marking-one-year-since-hamass-october-7th-terrorist-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-the-second-gentleman-marking-one-year-since-hamass-october-7th-terrorist-attacks/
 tags: speeches-remarks
 title: "Remarks by the Second Gentleman Marking One Year Since Hamas\u2019s October\
   \ 7th Terrorist\_Attacks"

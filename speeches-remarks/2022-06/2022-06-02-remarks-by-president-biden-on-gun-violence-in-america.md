@@ -2,7 +2,7 @@
 date: '2022-06-02'
 modified_time: 2022-06-02 22:14:38-04:00
 published_time: 2022-06-02 21:34:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/02/remarks-by-president-biden-on-gun-violence-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/02/remarks-by-president-biden-on-gun-violence-in-america/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Gun Violence in\_America"
 ---

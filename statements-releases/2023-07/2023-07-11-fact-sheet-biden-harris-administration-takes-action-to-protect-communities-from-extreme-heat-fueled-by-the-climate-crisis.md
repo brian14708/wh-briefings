@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 16:55:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-extreme-heat-fueled-by-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-extreme-heat-fueled-by-the-climate-crisis/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Protect Communities\
   \ from Extreme Heat Fueled by the Climate\_Crisis"
@@ -26,7 +26,7 @@ every year.
 From day one, President Biden has taken action to address the climate
 crisis, which includes securing more than $50 billion to help Americans
 in every single state [become more
-resilient](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) to
+resilient](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) to
 climate impacts like heat waves. He has continued to deliver on the most
 ambitious climate agenda in American history—an agenda that is lowering
 energy costs for hardworking families, bolstering America’s energy
@@ -53,7 +53,7 @@ to protect communities from extreme heat:
     together with the NIHHIS, will develop a National Heat Strategy
     centered on equity and environmental justice.** This strategy will
     align with the forthcoming [National Climate Resilience
-    Framework](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) announced
+    Framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) announced
     by President Biden last month.
 -   **The White House will convene Mayors and other local and Tribal
     officials **from communities that are currently facing long duration
@@ -73,7 +73,7 @@ to protect communities from extreme heat:
     low-income Americans.
 
 Today’s announcements [build on numerous
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/) that
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/) that
 the Biden-Harris Administration has taken to bolster heat response and
 resilience nationwide. The White House also continues to work with state
 and local partners to provide clear and accessible information on how
@@ -187,7 +187,7 @@ Administration is:
 -   **Making HUD-Supported Housing More Energy Efficient. **The
     Department of Housing and Urban Development (HUD) is announcing more
     than $830 million for its [**Green and Resilient Retrofit
-    Program**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-lower-energy-costs-and-make-affordable-homes-more-energy-efficient-and-climate-resilient-for-hard-working-families/),
+    Program**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-lower-energy-costs-and-make-affordable-homes-more-energy-efficient-and-climate-resilient-for-hard-working-families/),
     which will upgrade affordable multifamily housing to save residents
     money, reduce building emissions, and protect residents from
     climate-driven hazards like extreme heat. Eligible upgrades include

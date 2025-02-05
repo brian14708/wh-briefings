@@ -1,7 +1,7 @@
 ---
 date: '2022-10-04'
 published_time: 2022-10-04 11:56:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/readout-of-president-bidens-call-with-prime-minister-kishida-of-japan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/readout-of-president-bidens-call-with-prime-minister-kishida-of-japan-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s call with Prime Minister Kishida of\_Japan"
 ---

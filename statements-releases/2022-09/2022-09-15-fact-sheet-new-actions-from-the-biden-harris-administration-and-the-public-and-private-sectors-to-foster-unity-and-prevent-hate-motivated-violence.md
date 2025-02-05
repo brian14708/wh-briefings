@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-22 17:28:45-04:00
 published_time: 2022-09-15 17:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-new-actions-from-the-biden-harris-administration-and-the-public-and-private-sectors-to-foster-unity-and-prevent-hate-motivated-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-new-actions-from-the-biden-harris-administration-and-the-public-and-private-sectors-to-foster-unity-and-prevent-hate-motivated-violence/
 tags: statements-releases
 title: "FACT SHEET: New Actions from the Biden-\u2060Harris Administration and the\
   \ Public and Private Sectors to Foster Unity and Prevent Hate-Motivated\_Violence"
@@ -91,7 +91,7 @@ hate-fueled violence</span>*
     and local communities.** The Administration will launch an online
     resource finder for federal  resources to prevent targeted violence
     in support of the [2021 National Strategy for Countering Domestic
-    Terrorism](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf).
+    Terrorism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf).
     This website will be a user-friendly website for diverse
     institutional, governmental and organizational users. It will
     provide access to federal grants, program guidance, information
@@ -292,7 +292,7 @@ hate-motivated violence.
     violence to be amplified on large tech platforms.  President Biden
     has long urged fundamental reforms to Section 230, and consistent
     with the [Principles for Enhancing Competition and Tech Platform
-    Accountability](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/)
+    Accountability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/)
     released on September 8, he reiterates his call for Congress to
     fundamentally reform Section 230. 
 -   Americans deserve to know how the algorithms that drive large tech

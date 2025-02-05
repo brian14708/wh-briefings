@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-07-26'
 modified_time: 2021-07-26 15:11:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/26/a-proclamation-on-made-in-america-week-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/26/a-proclamation-on-made-in-america-week-2021/
 published_time: 2021-07-26 15:11:29-04:00
 title: "A Proclamation on Made In America Week,\_2021"
 ---

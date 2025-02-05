@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-24'
 modified_time: 2021-11-24 08:20:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/president-biden-announces-nominations-for-the-office-of-management-and-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/24/president-biden-announces-nominations-for-the-office-of-management-and-budget/
 published_time: 2021-11-24 09:30:00-05:00
 title: "President\_Biden Announces Nominations for the Office of Management and\_\
   Budget"

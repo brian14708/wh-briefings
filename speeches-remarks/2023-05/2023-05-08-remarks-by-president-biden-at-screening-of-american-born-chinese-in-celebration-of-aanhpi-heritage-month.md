@@ -2,7 +2,7 @@
 date: '2023-05-08'
 modified_time: 2023-05-09 10:50:58-04:00
 published_time: 2023-05-08 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/08/remarks-by-president-biden-at-screening-of-american-born-chinese-in-celebration-of-aanhpi-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/08/remarks-by-president-biden-at-screening-of-american-born-chinese-in-celebration-of-aanhpi-heritage-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Screening of \u201CAmerican Born Chinese\u201D\
   \ in Celebration of AANHPI Heritage\_Month"

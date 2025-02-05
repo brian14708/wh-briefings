@@ -2,7 +2,7 @@
 date: '2024-11-30'
 modified_time: 2024-11-30 20:11:50-05:00
 published_time: 2024-11-30 19:18:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/30/statement-by-nsc-spokesperson-sean-savett-on-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/30/statement-by-nsc-spokesperson-sean-savett-on-syria/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on\_Syria"
 ---

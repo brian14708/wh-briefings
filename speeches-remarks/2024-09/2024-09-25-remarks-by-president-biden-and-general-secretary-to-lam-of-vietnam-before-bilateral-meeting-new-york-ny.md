@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 17:16:23-04:00
 published_time: 2024-09-25 14:22:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-and-general-secretary-to-lam-of-vietnam-before-bilateral-meeting-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-and-general-secretary-to-lam-of-vietnam-before-bilateral-meeting-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and General Secretary T\xF4 L\xE2m of Vietnam\
   \ Before Bilateral Meeting | New York,\_NY"

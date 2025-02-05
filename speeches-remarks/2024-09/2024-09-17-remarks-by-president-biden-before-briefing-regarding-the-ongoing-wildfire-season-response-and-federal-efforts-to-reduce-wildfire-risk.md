@@ -2,7 +2,7 @@
 date: '2024-09-17'
 modified_time: 2024-09-17 13:21:32-04:00
 published_time: 2024-09-17 13:21:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/17/remarks-by-president-biden-before-briefing-regarding-the-ongoing-wildfire-season-response-and-federal-efforts-to-reduce-wildfire-risk/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/17/remarks-by-president-biden-before-briefing-regarding-the-ongoing-wildfire-season-response-and-federal-efforts-to-reduce-wildfire-risk/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Briefing Regarding the Ongoing Wildfire\
   \ Season Response and Federal Efforts to Reduce Wildfire\_Risk"

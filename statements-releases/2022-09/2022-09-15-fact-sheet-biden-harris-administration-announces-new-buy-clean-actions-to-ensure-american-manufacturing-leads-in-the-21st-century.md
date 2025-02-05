@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 16:42:37-04:00
 published_time: 2022-09-15 12:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Buy Clean Actions\
   \ to Ensure American Manufacturing Leads in the 21st\_Century"
@@ -39,7 +39,7 @@ America. The Initiative ensures that federal financing and purchasing
 power are creating good-paying jobs, protecting public health, enhancing
 American competitiveness, and strengthening national security. Today’s
 Federal Buy Clean actions build on [Buy Clean
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/)
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/)
 made earlier this year, including standing up the first ever Federal Buy
 Clean Task Force, and complements a comeback for American factories
 since President Biden took office, with 668,000 manufacturing jobs
@@ -140,7 +140,7 @@ industrial pollutants and materials, engage industry, and establish
 mechanisms for collection and public disclosure of the data.  
   
 Building on
-[previous](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/)
+[previous](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/)
 Buy Clean efforts, agencies continue to deliver on the Federal Buy Clean
 Initiative: 
 

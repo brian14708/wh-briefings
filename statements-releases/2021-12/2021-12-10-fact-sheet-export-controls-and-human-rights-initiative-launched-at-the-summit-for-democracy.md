@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-10'
 modified_time: 2021-12-10 09:32:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/fact-sheet-export-controls-and-human-rights-initiative-launched-at-the-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/10/fact-sheet-export-controls-and-human-rights-initiative-launched-at-the-summit-for-democracy/
 published_time: 2021-12-10 09:30:00-05:00
 title: "Fact Sheet: Export Controls and Human Rights Initiative Launched at the Summit\
   \ for\_Democracy"
@@ -17,7 +17,7 @@ Controls and Human Rights Initiative* to help stem the tide of
 authoritarian government misuse of technology and promote a positive
 vision for technologies anchored by democratic values. **[*Read the
 joint statement
-here.*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/joint-statement-on-the-export-controls-and-human-rights-initiative/)**
+here.*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/10/joint-statement-on-the-export-controls-and-human-rights-initiative/)**
 We were joined in support by Canada, France, the Netherlands, and the
 United Kingdom.
 
@@ -61,7 +61,7 @@ our democratic values and our democratic institutions in key emerging
 technology areas:
 
 -   Quad leaders launched [a statement of principles on
-    technology](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/),
+    technology](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/),
     along with new efforts that together will advance critical and
     emerging technologies shaped by our shared democratic values and
     respect for human rights.
@@ -69,7 +69,7 @@ technology areas:
 <!-- -->
 
 -   Through the [Trade and Technology
-    Council](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/29/fact-sheet-u-s-eu-establish-common-principles-to-update-the-rules-for-the-21st-century-economy-at-inaugural-trade-and-technology-council-meeting/),
+    Council](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/29/fact-sheet-u-s-eu-establish-common-principles-to-update-the-rules-for-the-21st-century-economy-at-inaugural-trade-and-technology-council-meeting/),
     the United States and European Union determined shared principles
     and areas for export control cooperation, including capacity
     building assistance to third countries to support multilateral

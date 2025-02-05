@@ -1,7 +1,7 @@
 ---
 date: '2024-10-17'
 published_time: 2024-10-17 18:00:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-president-biden-after-air-force-one-arrival-schonefeld-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-president-biden-after-air-force-one-arrival-schonefeld-germany/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Sch\xF6nefeld,\_\
   Germany"

@@ -2,7 +2,7 @@
 date: '2022-04-27'
 modified_time: 2022-04-27 14:58:17-04:00
 published_time: 2022-04-27 14:46:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/27/fact-sheet-biden-administration-underscores-urgent-need-for-additional-covid-19-response-funding-and-the-severe-consequences-of-congressional-inaction/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/27/fact-sheet-biden-administration-underscores-urgent-need-for-additional-covid-19-response-funding-and-the-severe-consequences-of-congressional-inaction/
 tags: statements-releases
 title: "Fact Sheet: Biden Administration Underscores Urgent Need for Additional COVID-\u2060\
   19 Response Funding and the Severe Consequences of Congressional\_Inaction"

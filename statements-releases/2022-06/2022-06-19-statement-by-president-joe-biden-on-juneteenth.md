@@ -1,7 +1,7 @@
 ---
 date: '2022-06-19'
 published_time: 2022-06-19 15:31:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/19/statement-by-president-joe-biden-on-juneteenth/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/19/statement-by-president-joe-biden-on-juneteenth/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on\_Juneteenth"
 ---

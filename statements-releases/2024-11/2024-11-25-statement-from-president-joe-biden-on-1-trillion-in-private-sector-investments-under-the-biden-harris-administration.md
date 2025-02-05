@@ -2,7 +2,7 @@
 date: '2024-11-25'
 modified_time: 2024-11-24 17:48:33-05:00
 published_time: 2024-11-25 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/25/statement-from-president-joe-biden-on-1-trillion-in-private-sector-investments-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/25/statement-from-president-joe-biden-on-1-trillion-in-private-sector-investments-under-the-biden-harris-administration/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on $1 Trillion in Private Sector Investments\
   \ Under the Biden-\u2060Harris Administration"

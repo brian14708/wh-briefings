@@ -2,7 +2,7 @@
 date: '2022-04-19'
 modified_time: 2022-04-19 19:53:19-04:00
 published_time: 2022-04-19 19:49:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-consultations-with-australia-japan-and-new-zealand-in-honolulu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-consultations-with-australia-japan-and-new-zealand-in-honolulu/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on U.S. Consultations with Australia,\
   \ Japan, and New Zealand in\_Honolulu"

@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-24 22:23:09-04:00
 published_time: 2024-09-25 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/
 tags: statements-releases
 title: "FACT SHEET: During Climate Week, Biden-\u2060Harris Administration Announces\
   \ Continued Progress on the American Climate\_Corps"
@@ -20,14 +20,14 @@ climate, clean energy, conservation, and environmental justice agenda in
 history – signing into law the largest investment in climate action
 ever, protecting more than 42 million acres of public lands and waters,
 creating good-paying clean energy jobs, and establishing the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which sets the goal that 40 percent of the overall benefits from certain
 federal investments flow to disadvantaged communities that are
 marginalized by underinvestment and overburdened by pollution.
 
 As part of his historic commitment to tackle the climate crisis,
 President Biden
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/#:~:text=The%20American%20Climate%20Corps%20will%20mobilize%20a%20new%2C%20diverse%20generation,advancing%20environmental%20justice%2C%20all%20while)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/#:~:text=The%20American%20Climate%20Corps%20will%20mobilize%20a%20new%2C%20diverse%20generation,advancing%20environmental%20justice%2C%20all%20while)
 the [American Climate Corps](http://www.climatecorps.gov/) (ACC) to
 mobilize the next generation of clean energy, conservation, and climate
 resilience workers, with a goal to put 20,000 young people to work in

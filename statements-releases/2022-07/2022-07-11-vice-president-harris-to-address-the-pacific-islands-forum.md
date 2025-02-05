@@ -1,7 +1,7 @@
 ---
 date: '2022-07-11'
 published_time: 2022-07-11 11:57:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/vice-president-harris-to-address-the-pacific-islands-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/vice-president-harris-to-address-the-pacific-islands-forum/
 tags: statements-releases
 title: "Vice President Harris to Address the Pacific Islands\_Forum"
 ---

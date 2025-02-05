@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 09:36:25-04:00
 published_time: 2024-10-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/statement-from-president-joe-biden-on-student-debt-cancellation-for-over-1-million-public-service-workers-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/17/statement-from-president-joe-biden-on-student-debt-cancellation-for-over-1-million-public-service-workers-under-the-biden-harris-administration/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Student Debt Cancellation for Over\
   \ 1 Million Public Service Workers Under the Biden-\u2060Harris Administration"

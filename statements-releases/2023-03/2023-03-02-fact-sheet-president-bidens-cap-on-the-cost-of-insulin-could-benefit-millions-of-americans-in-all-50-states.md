@@ -1,7 +1,7 @@
 ---
 date: '2023-03-02'
 published_time: 2023-03-02 16:50:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Cap on the Cost of Insulin Could Benefit\
   \ Millions of Americans in All 50\_States"
@@ -45,7 +45,7 @@ Ethnic Group, United States, 2018-2019**
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/Picture-3.2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Picture-3.2.png"
 class="wp-image-70598" decoding="async" loading="lazy" width="407"
 height="246"
 alt="Estimated Number of Adults 18 and Older with Diagnosed Diabetes by State" />
@@ -56,16 +56,16 @@ State</strong></strong></figcaption>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/Table2.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Table2.jpg"
 class="wp-image-70600" decoding="async" loading="lazy"
 sizes="(max-width: 588px) 100vw, 588px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/03/Table2.jpg 588w, https://www.whitehouse.gov/wp-content/uploads/2023/03/Table2.jpg?resize=455,615 455w, https://www.whitehouse.gov/wp-content/uploads/2023/03/Table2.jpg?resize=474,640 474w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Table2.jpg 588w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Table2.jpg?resize=455,615 455w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Table2.jpg?resize=474,640 474w"
 width="588" height="794" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/Table3.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Table3.jpg"
 class="wp-image-70601" decoding="async" loading="lazy" width="588"
 height="367" />
 </figure>

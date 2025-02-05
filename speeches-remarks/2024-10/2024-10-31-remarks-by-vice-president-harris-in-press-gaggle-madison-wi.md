@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-10-31 13:00:22-04:00
 published_time: 2024-10-31 12:55:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-vice-president-harris-in-press-gaggle-madison-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-vice-president-harris-in-press-gaggle-madison-wi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle | Madison,\_WI"
 ---

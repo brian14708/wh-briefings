@@ -1,7 +1,7 @@
 ---
 date: '2024-07-30'
 published_time: 2024-07-30 18:06:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/fact-sheet-biden-harris-administration-actions-to-keep-children-and-families-safely-together-and-supported/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/fact-sheet-biden-harris-administration-actions-to-keep-children-and-families-safely-together-and-supported/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions to Keep Children and\
   \ Families Safely Together and\_Supported"
@@ -120,7 +120,7 @@ that:
 **THE BIDEN-HARRIS RECORD ON CHILD WELFARE**
 
 The Biden-Harris Administration has a [long record of
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-biden-harris-administration-announces-new-actions-to-support-children-and-families-in-foster-care/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-biden-harris-administration-announces-new-actions-to-support-children-and-families-in-foster-care/)
 consistent with its commitment to keeping families together safely,
 providing supports as an alternative to child removals, and increasing
 the use of kinship care and other foster care best practices:
@@ -142,14 +142,14 @@ the use of kinship care and other foster care best practices:
     transparency in the review process.
 -   **Respecting Tribal sovereignty**. The Administration [expanded the
     scope of Public Law 102-477
-    plans](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/),
+    plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/),
     which now deliver over $300 million in flexible funding to 298
     Indian Tribes to strengthen the economic stability and mobility of
     families in Indian Country – including by braiding child welfare
     funding with workforce funding to help preserve families. And just
     over a year ago, the [President celebrated the Supreme Court’s
     decision in Haaland v.
-    Brackeen](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-supreme-court-decision-in-haaland-v-brackeen/),
+    Brackeen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-supreme-court-decision-in-haaland-v-brackeen/),
     which upheld the Indian Child Welfare Act as a necessary safeguard
     to ensure that whenever possible, children should be kept with their
     extended families or community.
@@ -205,7 +205,7 @@ the use of kinship care and other foster care best practices:
     about their disability.
 -   **Cutting child poverty. The Biden-Harris Administration saved
     nearly **[40 million working
-    families ](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-state-by-state-analysis-of-american-rescue-plan-tax-credits-for-families-and-workers/)with
+    families ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-state-by-state-analysis-of-american-rescue-plan-tax-credits-for-families-and-workers/)with
     **65 million children an average of $2,600** by expanding the Child
     Tax Credit in 2021—helping to cut child poverty nearly in half,
     lifting 1.2 million Hispanic children, 800,000 Black children, and
@@ -214,23 +214,23 @@ the use of kinship care and other foster care best practices:
     secured nearly a 50% increase in child care funding, keeping
     providers [open during the pandemic and bolstering women’s labor
     force
-    participation](https://www.whitehouse.gov/cea/written-materials/2023/11/07/child-care-stabilization/).
+    participation](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/07/child-care-stabilization/).
     HHS made changes to the [child care subsidy program to lower costs
     for families with
-    low-incomes](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/#:~:text=The%20final%20rule%20will%20reduce,consistent%20with%20HHS%27s%20longstanding%20recommendation.)
+    low-incomes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/#:~:text=The%20final%20rule%20will%20reduce,consistent%20with%20HHS%27s%20longstanding%20recommendation.)
     by capping their out of pocket child care costs to 7% of their
     income. 
 -   **Providing housing relief for families**. **The Biden-Harris
     Administration has provided rental assistance** to more** **than 5
     million households, including an additional [100,000 low-income
-    families](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/).
+    families](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/).
     The Administration established a ceiling for annual rent increases
     for the two million apartments that are financed by federal tax
     credits—reducing the maximum allowable annual rent increase for
     those renters by an average of nearly $500 this year. And during the
     pandemic, the Administration p**rovided rental assistance to **[8
     million
-    renters](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/the-american-rescue-plan-arp-top-highlights-from-3-years-of-recovery/)** **to
+    renters](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/the-american-rescue-plan-arp-top-highlights-from-3-years-of-recovery/)** **to
     help [pay
-    rent](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/),
+    rent](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/),
     keep them in their homes, and cover utilities bills.

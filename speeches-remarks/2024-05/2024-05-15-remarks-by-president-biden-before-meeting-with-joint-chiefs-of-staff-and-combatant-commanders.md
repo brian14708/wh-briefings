@@ -2,7 +2,7 @@
 date: '2024-05-15'
 modified_time: 2024-05-16 10:34:14-04:00
 published_time: 2024-05-15 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/15/remarks-by-president-biden-before-meeting-with-joint-chiefs-of-staff-and-combatant-commanders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/15/remarks-by-president-biden-before-meeting-with-joint-chiefs-of-staff-and-combatant-commanders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting with Joint Chiefs of Staff and\
   \ Combatant\_Commanders"

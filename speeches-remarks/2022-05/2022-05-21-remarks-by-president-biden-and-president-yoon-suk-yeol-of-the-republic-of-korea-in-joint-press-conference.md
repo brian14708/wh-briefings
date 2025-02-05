@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 19:53:40-04:00
 published_time: 2022-05-21 19:52:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/21/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/21/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea in Joint Press\_Conference"

@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-11 21:36:37-04:00
 published_time: 2024-07-11 21:36:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/11/remarks-by-apnsa-jake-sullivan-at-the-nato-public-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/11/remarks-by-apnsa-jake-sullivan-at-the-nato-public-forum/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan at the NATO Public\_Forum"
 ---

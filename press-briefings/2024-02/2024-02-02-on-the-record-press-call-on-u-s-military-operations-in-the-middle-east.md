@@ -2,7 +2,7 @@
 date: '2024-02-02'
 modified_time: 2024-02-02 22:02:46-05:00
 published_time: 2024-02-02 22:02:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/02/on-the-record-press-call-on-u-s-military-operations-in-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/02/on-the-record-press-call-on-u-s-military-operations-in-the-middle-east/
 tags: press-briefings
 title: "On-the-Record Press Call on U.S. Military Operations in the Middle\_East"
 ---

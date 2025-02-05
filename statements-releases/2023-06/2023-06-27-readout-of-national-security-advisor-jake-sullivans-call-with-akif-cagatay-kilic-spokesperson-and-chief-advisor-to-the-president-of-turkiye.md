@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-27 21:00:07-04:00
 published_time: 2023-06-27 21:00:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/readout-of-national-security-advisor-jake-sullivans-call-with-akif-cagatay-kilic-spokesperson-and-chief-advisor-to-the-president-of-turkiye/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/readout-of-national-security-advisor-jake-sullivans-call-with-akif-cagatay-kilic-spokesperson-and-chief-advisor-to-the-president-of-turkiye/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Akif Ca\u011F\
   atay Kili\xE7, Spokesperson and Chief Advisor to the President of\_T\xFCrkiye"

@@ -2,7 +2,7 @@
 date: '2022-04-14'
 modified_time: 2022-04-14 16:26:49-04:00
 published_time: 2022-04-14 16:26:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/14/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/14/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-7/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

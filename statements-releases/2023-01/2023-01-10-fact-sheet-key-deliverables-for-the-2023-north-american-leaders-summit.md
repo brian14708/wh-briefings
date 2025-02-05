@@ -2,7 +2,7 @@
 date: '2023-01-10'
 modified_time: 2023-01-10 00:28:08-05:00
 published_time: 2023-01-10 06:31:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/10/fact-sheet-key-deliverables-for-the-2023-north-american-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/10/fact-sheet-key-deliverables-for-the-2023-north-american-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: Key Deliverables for the 2023 North American Leaders\u2019\_Summit"
 ---

@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-13 10:23:56-05:00
 published_time: 2022-11-13 10:23:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-meeting-with-prime-minister-kishida-fumio-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-meeting-with-prime-minister-kishida-fumio-of-japan/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Kishida\
   \ Fumio of\_Japan"

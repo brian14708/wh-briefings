@@ -1,7 +1,7 @@
 ---
 date: '2024-10-18'
 published_time: 2024-10-18 16:48:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-vice-president-harris-at-a-campaign-event-grand-rapids-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-vice-president-harris-at-a-campaign-event-grand-rapids-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Grand Rapids,\_MI"
 ---

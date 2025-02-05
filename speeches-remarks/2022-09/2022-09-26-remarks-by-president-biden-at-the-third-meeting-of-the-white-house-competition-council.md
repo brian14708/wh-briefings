@@ -1,7 +1,7 @@
 ---
 date: '2022-09-26'
 published_time: 2022-09-26 18:22:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-president-biden-at-the-third-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-president-biden-at-the-third-meeting-of-the-white-house-competition-council/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Third Meeting of the White\_House Competition\_\
   Council"

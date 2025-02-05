@@ -1,7 +1,7 @@
 ---
 date: '2022-04-07'
 published_time: 2022-04-07 13:27:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/07/fact-sheet-the-biden-administrations-commitment-to-global-health-in-the-fy-2023-presidents-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/07/fact-sheet-the-biden-administrations-commitment-to-global-health-in-the-fy-2023-presidents-budget/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration\u2019s Commitment to Global Health in\
   \ the FY 2023 President\u2019s\_Budget"

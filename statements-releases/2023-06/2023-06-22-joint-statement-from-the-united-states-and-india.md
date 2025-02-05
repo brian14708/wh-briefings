@@ -2,7 +2,7 @@
 date: '2023-06-22'
 modified_time: 2023-06-29 15:42:03-04:00
 published_time: 2023-06-22 15:46:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/joint-statement-from-the-united-states-and-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/joint-statement-from-the-united-states-and-india/
 tags: statements-releases
 title: "Joint Statement from the United\_States and\_India"
 ---

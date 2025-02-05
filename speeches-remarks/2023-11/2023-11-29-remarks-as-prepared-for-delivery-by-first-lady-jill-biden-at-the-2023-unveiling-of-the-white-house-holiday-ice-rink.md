@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-29 21:14:08-05:00
 published_time: 2023-11-29 21:14:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/29/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2023-unveiling-of-the-white-house-holiday-ice-rink/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/29/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2023-unveiling-of-the-white-house-holiday-ice-rink/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2023 Unveiling\
   \ of the White\_House Holiday Ice\_Rink"

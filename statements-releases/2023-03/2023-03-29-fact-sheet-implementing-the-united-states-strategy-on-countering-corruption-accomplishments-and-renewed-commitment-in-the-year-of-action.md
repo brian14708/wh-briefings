@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 18:21:16-04:00
 published_time: 2023-03-29 18:21:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-implementing-the-united-states-strategy-on-countering-corruption-accomplishments-and-renewed-commitment-in-the-year-of-action/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-implementing-the-united-states-strategy-on-countering-corruption-accomplishments-and-renewed-commitment-in-the-year-of-action/
 tags: statements-releases
 title: "FACT SHEET: Implementing the United\_States Strategy on Countering Corruption:\
   \ Accomplishments and Renewed Commitment in the Year of\_Action"
@@ -10,12 +10,12 @@ title: "FACT SHEET: Implementing the United\_States Strategy on Countering Corru
  
 On December 6, 2021, President Biden issued the first [United States
 Strategy on Countering
-Corruption](https://www.whitehouse.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf) to
+Corruption](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf) to
 meet the grave threat transnational corruption poses to U.S. national
 security.  The Strategy resulted from an interagency study the President
 mandated when he made combating corruption a core U.S. priority in his
 first [National Security Study
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/). 
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/). 
 Organized in five pillars, the Strategy establishes specific lines of
 work to support people and institutions that fight corruption, direct
 action against corrupt actors, and impede corrupt actors’ abuse of our

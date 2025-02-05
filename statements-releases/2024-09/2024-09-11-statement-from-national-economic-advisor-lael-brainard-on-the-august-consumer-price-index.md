@@ -2,7 +2,7 @@
 date: '2024-09-11'
 modified_time: 2024-09-11 09:12:09-04:00
 published_time: 2024-09-11 09:12:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/11/statement-from-national-economic-advisor-lael-brainard-on-the-august-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/11/statement-from-national-economic-advisor-lael-brainard-on-the-august-consumer-price-index/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on the August Consumer\
   \ Price\_Index"

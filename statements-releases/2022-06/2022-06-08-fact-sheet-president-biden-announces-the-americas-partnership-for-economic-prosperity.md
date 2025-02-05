@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 09:17:48-04:00
 published_time: 2022-06-08 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-president-biden-announces-the-americas-partnership-for-economic-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-president-biden-announces-the-americas-partnership-for-economic-prosperity/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces the Americas Partnership for Economic\_\
   Prosperity"

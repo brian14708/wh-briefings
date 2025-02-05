@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 23:43:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/28/remarks-by-president-biden-at-a-pennsylvania-democratic-party-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/28/remarks-by-president-biden-at-a-pennsylvania-democratic-party-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Pennsylvania Democratic Party\_Reception"
 ---

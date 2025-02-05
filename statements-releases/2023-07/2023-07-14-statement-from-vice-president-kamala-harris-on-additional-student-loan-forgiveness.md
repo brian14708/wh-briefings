@@ -1,7 +1,7 @@
 ---
 date: '2023-07-14'
 published_time: 2023-07-14 09:45:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/statement-from-vice-president-kamala-harris-on-additional-student-loan-forgiveness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/statement-from-vice-president-kamala-harris-on-additional-student-loan-forgiveness/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Additional Student Loan\_\
   Forgiveness"

@@ -2,7 +2,7 @@
 date: '2023-12-28'
 modified_time: 2023-12-28 14:19:50-05:00
 published_time: 2023-12-28 14:09:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/28/statement-from-president-joe-biden-on-judith-weinstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/28/statement-from-president-joe-biden-on-judith-weinstein/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Judy\_Weinstein"
 ---

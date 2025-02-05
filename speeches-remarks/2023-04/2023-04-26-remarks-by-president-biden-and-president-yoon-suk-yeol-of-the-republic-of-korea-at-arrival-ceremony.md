@@ -1,7 +1,7 @@
 ---
 date: '2023-04-26'
 published_time: 2023-04-26 12:15:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/26/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/26/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea at Arrival\_Ceremony"

@@ -2,7 +2,7 @@
 date: '2022-05-15'
 modified_time: 2022-05-15 23:46:12-04:00
 published_time: 2022-05-15 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/15/background-press-call-by-senior-administration-officials-on-the-u-s-eu-trade-and-technology-council-meeting-in-paris/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/15/background-press-call-by-senior-administration-officials-on-the-u-s-eu-trade-and-technology-council-meeting-in-paris/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the U.S.-EU Trade\
   \ and Technology Council Meeting in\_Paris"

@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 14:02:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Situation\
   \ in and in Relation to\_Burma"

@@ -2,7 +2,7 @@
 date: '2023-10-02'
 modified_time: 2023-10-02 21:19:06-04:00
 published_time: 2023-10-02 21:19:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/02/remarks-by-president-biden-to-celebrate-the-americans-with-disabilities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/02/remarks-by-president-biden-to-celebrate-the-americans-with-disabilities-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to Celebrate the Americans With Disabilities\_\
   Act"

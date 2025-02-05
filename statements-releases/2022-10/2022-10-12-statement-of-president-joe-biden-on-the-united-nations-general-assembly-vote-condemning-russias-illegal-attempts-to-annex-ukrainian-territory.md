@@ -2,7 +2,7 @@
 date: '2022-10-12'
 modified_time: 2022-10-12 19:36:10-04:00
 published_time: 2022-10-12 19:36:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/statement-of-president-joe-biden-on-the-united-nations-general-assembly-vote-condemning-russias-illegal-attempts-to-annex-ukrainian-territory/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/statement-of-president-joe-biden-on-the-united-nations-general-assembly-vote-condemning-russias-illegal-attempts-to-annex-ukrainian-territory/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the United Nations General Assembly Vote\
   \ Condemning Russia\u2019s Illegal Attempts to Annex Ukrainian\_Territory"

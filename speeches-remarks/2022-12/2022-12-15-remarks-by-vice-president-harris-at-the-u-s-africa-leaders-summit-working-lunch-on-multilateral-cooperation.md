@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 published_time: 2022-12-15 18:30:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-vice-president-harris-at-the-u-s-africa-leaders-summit-working-lunch-on-multilateral-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-vice-president-harris-at-the-u-s-africa-leaders-summit-working-lunch-on-multilateral-cooperation/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the U.S.-Africa Leaders Summit Working\
   \ Lunch on Multilateral\_Cooperation"

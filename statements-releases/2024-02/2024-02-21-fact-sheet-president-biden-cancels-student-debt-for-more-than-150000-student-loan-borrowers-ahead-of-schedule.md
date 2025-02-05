@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-20 19:07:13-05:00
 published_time: 2024-02-21 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-president-biden-cancels-student-debt-for-more-than-150000-student-loan-borrowers-ahead-of-schedule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-president-biden-cancels-student-debt-for-more-than-150000-student-loan-borrowers-ahead-of-schedule/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Cancels Student Debt for more than 150,000 Student\
   \ Loan Borrowers Ahead of\_Schedule"
@@ -71,7 +71,7 @@ borrowers are enrolled in the SAVE Plan, and 4.3 million borrowers have
 a $0 monthly payment.  
 
 Today, the White House Council of Economic Advisers released an [issue
-brief](https://www.whitehouse.gov/cea/written-materials/2024/02/21/issue-brief-the-benefits-of-save/)
+brief](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/02/21/issue-brief-the-benefits-of-save/)
 highlighting how low and middle-income borrowers enrolled in SAVE could
 see significant saving in terms of interest saved over time and
 principal forgiven as a result of SAVE’s early forgiveness provisions.

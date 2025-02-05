@@ -1,7 +1,7 @@
 ---
 date: '2024-04-30'
 published_time: 2024-04-30 21:03:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-partnering-for-peace-through-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-partnering-for-peace-through-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
 tags: statements-releases
 title: "FACT SHEET: Partnering for Peace through the U.S. Strategy to Prevent Conflict\
   \ and Promote\_Stability"

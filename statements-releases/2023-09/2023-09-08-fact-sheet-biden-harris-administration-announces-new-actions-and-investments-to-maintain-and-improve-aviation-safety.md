@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 10:19:59-04:00
 published_time: 2023-09-08 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-maintain-and-improve-aviation-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/08/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-maintain-and-improve-aviation-safety/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions and Investments\
   \ to Maintain and Improve Aviation\_Safety"

@@ -2,7 +2,7 @@
 date: '2023-03-14'
 modified_time: 2023-03-14 16:58:46-04:00
 published_time: 2023-03-14 17:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/statement-from-president-joe-biden-on-the-passing-of-former-congresswoman-pat-schroeder/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/statement-from-president-joe-biden-on-the-passing-of-former-congresswoman-pat-schroeder/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former Congresswoman\
   \ Pat\_Schroeder"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-31'
 modified_time: 2022-01-31 16:40:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/statement-by-president-joe-biden-marking-one-year-since-the-coup-in-burma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/statement-by-president-joe-biden-marking-one-year-since-the-coup-in-burma/
 published_time: 2022-01-31 17:00:00-05:00
 title: "Statement by President Joe\_Biden Marking One Year Since the Coup in\_Burma"
 ---

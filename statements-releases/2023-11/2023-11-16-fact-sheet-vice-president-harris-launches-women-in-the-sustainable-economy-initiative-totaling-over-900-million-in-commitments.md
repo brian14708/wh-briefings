@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-15 23:16:55-05:00
 published_time: 2023-11-16 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/
 tags: statements-releases
 title: "Fact Sheet: Vice President Harris Launches Women in the Sustainable Economy\
   \ Initiative, Totaling Over $900 Million in\_Commitments"

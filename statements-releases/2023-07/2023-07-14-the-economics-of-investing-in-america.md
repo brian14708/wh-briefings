@@ -2,7 +2,7 @@
 date: '2023-07-14'
 modified_time: 2023-07-14 14:36:07-04:00
 published_time: 2023-07-14 11:04:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/
 tags: statements-releases
 title: "The Economics of Investing in\_America"
 ---
@@ -10,7 +10,7 @@ title: "The Economics of Investing in\_America"
 The President took office determined to move beyond failed trickle-down
 policies and fundamentally change the economic direction of our country.
 His
-plan—[Bidenomics](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/)—is
+plan—[Bidenomics](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/)—is
 rooted in the recognition that the best way to grow the economy is from
 the middle out and the bottom up.
 
@@ -29,7 +29,7 @@ America.**
 
 Today, the National Economic Council and the Investing in America Chief
 Economist [released a
-brief](https://www.whitehouse.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf) that
+brief](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf) that
 outlines the *economic case* for this approach—both the investments the
 President is making and his approach to making them in a way that
 benefits the middle class.  
@@ -81,6 +81,6 @@ vehicle charging network, Bidenomics is leading to new investments in
 communities all across America.  
   
 To read the full brief,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf>
 
 \###

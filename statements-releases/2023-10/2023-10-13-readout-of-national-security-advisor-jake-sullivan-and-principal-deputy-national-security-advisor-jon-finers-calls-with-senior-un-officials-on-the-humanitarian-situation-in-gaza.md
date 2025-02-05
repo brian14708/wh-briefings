@@ -2,7 +2,7 @@
 date: '2023-10-13'
 modified_time: 2023-10-13 19:05:40-04:00
 published_time: 2023-10-13 19:05:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/13/readout-of-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finers-calls-with-senior-un-officials-on-the-humanitarian-situation-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/13/readout-of-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finers-calls-with-senior-un-officials-on-the-humanitarian-situation-in-gaza/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan and Principal Deputy National\
   \ Security Advisor Jon Finer\u2019s Calls with Senior UN Officials on the Humanitarian\

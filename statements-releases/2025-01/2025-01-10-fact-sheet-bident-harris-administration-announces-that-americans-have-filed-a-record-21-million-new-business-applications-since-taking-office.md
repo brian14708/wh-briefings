@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 12:06:38-05:00
 published_time: 2025-01-10 12:06:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/fact-sheet-bident-harris-administration-announces-that-americans-have-filed-a-record-21-million-new-business-applications-since-taking-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/fact-sheet-bident-harris-administration-announces-that-americans-have-filed-a-record-21-million-new-business-applications-since-taking-office/
 tags: statements-releases
 title: "FACT SHEET: Bident-Harris Administration Announces that Americans have Filed\
   \ a Record 21 Million New Business Applications Since Taking\_Office"
@@ -55,7 +55,7 @@ behind small businesses, powering the small business boom by:
     previous Administration, [increased loans to small businesses in low
     to moderate income communities by 67%, rural small businesses by
     40%, and businesses with less than 20 employees by
-    35%.](https://www.whitehouse.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf)
+    35%.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf)
      Further, through the Restaurant Revitalization Fund, the SBA
     provided more than 100,000 restaurants, bars, and other eligible
     small businesses a total of over $28 billion, including $18 billion

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-10'
 published_time: 2024-01-10 17:12:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/10/nominations-press-release-attached/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/10/nominations-press-release-attached/
 tags: presidential-actions
 title: "Nominations Press Release\_Attached"
 ---

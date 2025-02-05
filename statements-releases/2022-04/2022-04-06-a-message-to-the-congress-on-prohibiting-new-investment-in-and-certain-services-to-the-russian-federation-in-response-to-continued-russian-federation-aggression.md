@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 15:27:55-04:00
 published_time: 2022-04-06 15:22:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/a-message-to-the-congress-on-prohibiting-new-investment-in-and-certain-services-to-the-russian-federation-in-response-to-continued-russian-federation-aggression/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/a-message-to-the-congress-on-prohibiting-new-investment-in-and-certain-services-to-the-russian-federation-in-response-to-continued-russian-federation-aggression/
 tags: statements-releases
 title: "A Message to the Congress, on Prohibiting New Investment in and Certain Services\
   \ to the Russian Federation in Response to Continued Russian Federation\_Aggression"

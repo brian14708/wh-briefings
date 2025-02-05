@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-24'
 modified_time: 2022-03-24 00:23:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/
 published_time: 2022-03-24 06:00:00-04:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Releases Report on Native American\
   \ Voting\_Rights"
@@ -60,7 +60,7 @@ rights, and state and local election officials in jurisdictions with
 sizable Native populations.  These sessions revealed recurring,
 unnecessary, and unacceptable impediments to the franchise. [The report
 released
-today ](https://www.whitehouse.gov/wp-content/uploads/2022/03/Tribal-Voting-Report-FINAL.pdf)chronicles
+today ](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Tribal-Voting-Report-FINAL.pdf)chronicles
 the barriers Native voters face and recommends actions for policymakers
 at every level to help break these barriers down.  To live up to the
 recommendations of the report, the Department of the Interior is taking

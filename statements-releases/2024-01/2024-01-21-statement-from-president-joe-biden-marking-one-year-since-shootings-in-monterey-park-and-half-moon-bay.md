@@ -2,7 +2,7 @@
 date: '2024-01-21'
 modified_time: 2024-01-20 18:30:15-05:00
 published_time: 2024-01-21 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/21/statement-from-president-joe-biden-marking-one-year-since-shootings-in-monterey-park-and-half-moon-bay/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/21/statement-from-president-joe-biden-marking-one-year-since-shootings-in-monterey-park-and-half-moon-bay/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking One Year Since Shootings in Monterey\
   \ Park and Half Moon\_Bay"

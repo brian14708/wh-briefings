@@ -2,7 +2,7 @@
 date: '2022-11-04'
 modified_time: 2022-11-04 09:41:22-04:00
 published_time: 2022-11-04 09:41:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/statement-by-president-joe-biden-on-the-october-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/04/statement-by-president-joe-biden-on-the-october-jobs-report/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the October Jobs\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 11:16:18-04:00
 published_time: 2022-06-28 05:31:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-president-biden-and-g7-leaders-announce-further-efforts-to-counter-putins-attack-on-food-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-president-biden-and-g7-leaders-announce-further-efforts-to-counter-putins-attack-on-food-security/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and G7 Leaders Announce Further Efforts to Counter\
   \ Putin\u2019s Attack on Food\_Security"

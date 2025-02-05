@@ -1,7 +1,7 @@
 ---
 date: '2024-04-29'
 published_time: 2024-04-29 12:19:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/g7-leaders-statement-on-synthetic-drugs-threats/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/g7-leaders-statement-on-synthetic-drugs-threats/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on Synthetic Drugs\_Threats"
 ---

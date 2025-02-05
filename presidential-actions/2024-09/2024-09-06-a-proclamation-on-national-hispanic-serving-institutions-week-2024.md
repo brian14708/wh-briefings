@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 16:42:13-04:00
 published_time: 2024-09-06 16:42:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-hispanic-serving-institutions-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-hispanic-serving-institutions-week-2024/
 tags: presidential-actions
 title: "A Proclamation on National Hispanic-Serving Institutions Week,\_2024"
 ---

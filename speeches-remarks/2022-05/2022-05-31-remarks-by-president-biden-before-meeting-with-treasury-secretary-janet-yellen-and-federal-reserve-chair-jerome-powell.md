@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-06-02 08:35:01-04:00
 published_time: 2022-05-31 15:47:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/31/remarks-by-president-biden-before-meeting-with-treasury-secretary-janet-yellen-and-federal-reserve-chair-jerome-powell/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/31/remarks-by-president-biden-before-meeting-with-treasury-secretary-janet-yellen-and-federal-reserve-chair-jerome-powell/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting With Treasury Secretary Janet Yellen\
   \ and Federal Reserve Chair Jerome\_Powell"

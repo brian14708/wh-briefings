@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 published_time: 2024-02-01 12:04:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/statement-from-national-security-advisor-jake-sullivan-on-action-to-promote-peace-security-and-stability-in-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/01/statement-from-national-security-advisor-jake-sullivan-on-action-to-promote-peace-security-and-stability-in-the-west-bank/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Action to Promote\
   \ Peace, Security, and Stability in the West\_Bank"

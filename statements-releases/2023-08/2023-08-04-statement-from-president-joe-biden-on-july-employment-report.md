@@ -2,7 +2,7 @@
 date: '2023-08-04'
 modified_time: 2023-08-04 09:38:06-04:00
 published_time: 2023-08-04 09:38:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/statement-from-president-joe-biden-on-july-employment-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/statement-from-president-joe-biden-on-july-employment-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on July Employment\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2023-08-18'
 modified_time: 2023-08-18 16:13:15-04:00
 published_time: 2023-08-18 16:13:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/18/fact-sheet-the-trilateral-leaders-summit-at-camp-david/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/18/fact-sheet-the-trilateral-leaders-summit-at-camp-david/
 tags: statements-releases
 title: "FACT SHEET: The Trilateral Leaders\u2019 Summit at Camp\_David"
 ---

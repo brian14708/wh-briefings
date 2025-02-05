@@ -1,7 +1,7 @@
 ---
 date: '2024-11-21'
 published_time: 2024-11-21 18:29:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/statement-from-president-joe-biden-on-warrants-issued-by-the-international-criminal-court/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/21/statement-from-president-joe-biden-on-warrants-issued-by-the-international-criminal-court/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Warrants Issued by the International\
   \ Criminal\_Court"

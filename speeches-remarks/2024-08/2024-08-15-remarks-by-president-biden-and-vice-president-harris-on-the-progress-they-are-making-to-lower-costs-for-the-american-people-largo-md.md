@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-16 10:12:44-04:00
 published_time: 2024-08-15 22:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-on-the-progress-they-are-making-to-lower-costs-for-the-american-people-largo-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-on-the-progress-they-are-making-to-lower-costs-for-the-american-people-largo-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris on the Progress They\
   \ Are Making to Lower Costs for the American People | Largo,\_MD"

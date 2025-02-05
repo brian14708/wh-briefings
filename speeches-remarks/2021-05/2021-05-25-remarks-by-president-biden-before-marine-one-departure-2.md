@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-05-25'
 modified_time: 2021-05-26 09:06:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/25/remarks-by-president-biden-before-marine-one-departure-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/25/remarks-by-president-biden-before-marine-one-departure-2/
 published_time: 2021-05-25 09:03:00-04:00
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

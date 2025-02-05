@@ -2,7 +2,7 @@
 date: '2024-06-21'
 modified_time: 2024-06-21 08:13:57-04:00
 published_time: 2024-06-21 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/21/fact-sheet-biden-harris-administration-announces-over-one-million-pensions-protected-thanks-to-the-american-rescue-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/21/fact-sheet-biden-harris-administration-announces-over-one-million-pensions-protected-thanks-to-the-american-rescue-plan/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Over One Million Pensions\
   \ Protected Thanks to the American Rescue\_Plan"

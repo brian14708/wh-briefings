@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 08:41:46-04:00
 published_time: 2022-07-12 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-biden-administration-outlines-strategy-to-manage-ba-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-biden-administration-outlines-strategy-to-manage-ba-5/
 tags: statements-releases
 title: "Fact Sheet: Biden Administration Outlines Strategy to Manage\_BA.5"
 ---

@@ -1,13 +1,13 @@
 ---
 date: '2023-04-13'
 published_time: 2023-04-13 19:51:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/readout-of-white-house-state-legislative-convening-on-maternal-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/readout-of-white-house-state-legislative-convening-on-maternal-health/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Maternal\_Health"
 ---
  
 Today, as part of [Black Maternal Health
-Week](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/10/a-proclamation-on-black-maternal-health-week-2023/),
+Week](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/10/a-proclamation-on-black-maternal-health-week-2023/),
 Julie Chavez Rodriguez, Senior Advisor to the President and Director of
 the White House Office of Intergovernmental Affairs, Ambassador Susan
 Rice, Assistant to the President and Domestic Policy Advisor, and
@@ -18,12 +18,12 @@ working to advance legislation to improve maternal health.
 The Biden-Harris Administration has long prioritized improving maternal
 health, including releasing a [Blueprint for Addressing the Maternal
 Health
-Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
 which provides a whole-of-government strategy to combatting maternal
 mortality and morbidity, reducing persistent disparities, and improving
 the overall experience of pregnancy, birth, and postpartum for women in
 this country. The [President’s Budget for Fiscal Year
-2024](https://www.whitehouse.gov/wp-content/uploads/2023/03/budget_fy2024.pdf)
+2024](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/budget_fy2024.pdf)
 includes $471 million to support ongoing implementation of the Blueprint
 and requires all States to provide continuous Medicaid coverage for 12
 months postpartum, eliminating gaps in health insurance at a critical

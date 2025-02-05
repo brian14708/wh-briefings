@@ -2,7 +2,7 @@
 date: '2023-02-16'
 modified_time: 2023-02-16 09:24:10-05:00
 published_time: 2023-02-16 09:21:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: presidential-actions
 title: "Executive Order on Further Advancing Racial Equity and Support for Underserved\
   \ Communities Through The Federal\_Government"

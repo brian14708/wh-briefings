@@ -2,7 +2,7 @@
 date: '2024-06-25'
 modified_time: 2024-06-25 19:04:15-04:00
 published_time: 2024-06-25 19:04:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/25/readout-of-white-house-roundtable-with-latino-business-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/25/readout-of-white-house-roundtable-with-latino-business-leaders/
 tags: statements-releases
 title: "Readout of White\_House Roundtable with Latino Business\_Leaders"
 ---

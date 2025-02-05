@@ -1,7 +1,7 @@
 ---
 date: '2022-07-29'
 published_time: 2022-07-29 12:01:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/statement-from-cea-chair-cecilia-rouse-on-pce-inflation-data/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/statement-from-cea-chair-cecilia-rouse-on-pce-inflation-data/
 tags: statements-releases
 title: "Statement from CEA Chair Cecilia Rouse on PCE Inflation\_Data"
 ---

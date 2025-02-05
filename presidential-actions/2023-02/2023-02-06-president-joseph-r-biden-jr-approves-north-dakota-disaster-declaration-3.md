@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 11:42:16-05:00
 published_time: 2023-02-06 11:42:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/06/president-joseph-r-biden-jr-approves-north-dakota-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/06/president-joseph-r-biden-jr-approves-north-dakota-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves North Dakota Disaster\_Declaration"
 ---

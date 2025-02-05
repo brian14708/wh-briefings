@@ -2,7 +2,7 @@
 date: '2024-11-04'
 modified_time: 2024-11-04 17:36:36-05:00
 published_time: 2024-11-04 17:36:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/04/statement-from-vice-president-kamala-harris-on-the-passing-of-quincy-jones/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/04/statement-from-vice-president-kamala-harris-on-the-passing-of-quincy-jones/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Quincy\_Jones"
 ---

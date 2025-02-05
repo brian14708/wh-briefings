@@ -1,7 +1,7 @@
 ---
 date: '2022-11-15'
 published_time: 2022-11-15 10:24:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/statement-by-president-joe-biden-on-the-producer-price-index-ppi-in-october/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/statement-by-president-joe-biden-on-the-producer-price-index-ppi-in-october/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Producer Price Index (PPI) in\_October"
 ---

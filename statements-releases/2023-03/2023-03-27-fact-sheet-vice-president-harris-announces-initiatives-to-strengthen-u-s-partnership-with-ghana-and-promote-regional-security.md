@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-27 02:51:42-04:00
 published_time: 2023-03-27 02:51:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-vice-president-harris-announces-initiatives-to-strengthen-u-s-partnership-with-ghana-and-promote-regional-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-vice-president-harris-announces-initiatives-to-strengthen-u-s-partnership-with-ghana-and-promote-regional-security/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Initiatives to Strengthen U.S.\
   \ Partnership with Ghana and Promote Regional\_Security"

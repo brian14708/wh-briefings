@@ -1,7 +1,7 @@
 ---
 date: '2022-05-02'
 published_time: 2022-05-02 14:34:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/02/statement-from-press-secretary-to-the-vice-president-kirsten-allen-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/02/statement-from-press-secretary-to-the-vice-president-kirsten-allen-2/
 tags: statements-releases
 title: "Statement from Press Secretary to the Vice President Kirsten\_Allen"
 ---

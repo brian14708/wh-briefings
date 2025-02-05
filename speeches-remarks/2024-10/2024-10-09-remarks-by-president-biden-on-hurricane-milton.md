@@ -2,7 +2,7 @@
 date: '2024-10-09'
 modified_time: 2024-10-10 11:59:45-04:00
 published_time: 2024-10-09 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/09/remarks-by-president-biden-on-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/09/remarks-by-president-biden-on-hurricane-milton/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Hurricane\_Milton"
 ---

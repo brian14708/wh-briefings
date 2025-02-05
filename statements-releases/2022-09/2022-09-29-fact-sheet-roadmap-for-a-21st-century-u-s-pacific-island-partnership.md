@@ -2,7 +2,7 @@
 date: '2022-09-29'
 modified_time: 2022-10-03 17:56:38-04:00
 published_time: 2022-09-29 09:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-roadmap-for-a-21st-century-u-s-pacific-island-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-roadmap-for-a-21st-century-u-s-pacific-island-partnership/
 tags: statements-releases
 title: "FACT SHEET:\_Roadmap for a 21st-Century U.S.-Pacific Island\_Partnership"
 ---

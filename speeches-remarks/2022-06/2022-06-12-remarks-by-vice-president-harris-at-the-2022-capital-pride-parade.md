@@ -2,7 +2,7 @@
 date: '2022-06-12'
 modified_time: 2022-06-14 11:11:18-04:00
 published_time: 2022-06-12 13:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/12/remarks-by-vice-president-harris-at-the-2022-capital-pride-parade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/12/remarks-by-vice-president-harris-at-the-2022-capital-pride-parade/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the 2022 Capital Pride\_Parade"
 ---

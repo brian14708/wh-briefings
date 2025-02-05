@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 13:55:10-04:00
 published_time: 2023-05-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Strategies to Train\
   \ and Connect American Workers to Jobs Created by the President\u2019s Investing\
@@ -14,7 +14,7 @@ ensure all Americans can access the good jobs created by the President’s
 Investing in America agenda, including the American Rescue Plan, the
 Bipartisan Infrastructure Law, the CHIPS and Science Act, and the
 Inflation Reduction Act. These strategies build off the Administration’s
-[Roadmap](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
+[Roadmap](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
 to Support Good Jobs, a collaborative agency effort to align on
 guideposts to build our workforce by ensuring every American—whether
 they go to college or not—will have equitable access to high-quality
@@ -181,12 +181,12 @@ Through prior workforce sprints, the Administration has driven
 commitments to equitable workforce development and job quality
 improvement to address critical needs. These include efforts to expand
 Registered Apprenticeships in
-[trucking](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/)
+[trucking](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/)
 and
-[cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
+[cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
 and to build pathways into good jobs and careers in broadband,
 electrification, and construction through the [Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
 
 **Today, the Administration is announcing a new sprint in advanced
 manufacturing**. Advanced manufacturing spans critical technologies of

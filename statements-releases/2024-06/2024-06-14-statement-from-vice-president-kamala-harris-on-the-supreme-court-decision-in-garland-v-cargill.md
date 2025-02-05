@@ -1,7 +1,7 @@
 ---
 date: '2024-06-14'
 published_time: 2024-06-14 11:49:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/14/statement-from-vice-president-kamala-harris-on-the-supreme-court-decision-in-garland-v-cargill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/14/statement-from-vice-president-kamala-harris-on-the-supreme-court-decision-in-garland-v-cargill/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Supreme Court Decision\
   \ in Garland v.\_Cargill"

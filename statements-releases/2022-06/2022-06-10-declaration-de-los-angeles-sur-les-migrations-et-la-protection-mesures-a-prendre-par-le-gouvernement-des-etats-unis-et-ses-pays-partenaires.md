@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-11 07:02:59-04:00
 published_time: 2022-06-10 07:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/declaration-de-los-angeles-sur-les-migrations-et-la-protection-mesures-a-prendre-par-le-gouvernement-des-etats-unis-et-ses-pays-partenaires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/declaration-de-los-angeles-sur-les-migrations-et-la-protection-mesures-a-prendre-par-le-gouvernement-des-etats-unis-et-ses-pays-partenaires/
 tags: statements-releases
 title: "D\xE9claration de Los Angeles sur les migrations et la protection: Mesures\
   \ \xE0 prendre par le gouvernement des \xC9tats-Unis et ses pays\_partenaires"

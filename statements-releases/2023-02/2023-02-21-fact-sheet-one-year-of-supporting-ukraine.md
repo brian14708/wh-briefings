@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 published_time: 2023-02-21 10:06:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/21/fact-sheet-one-year-of-supporting-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/21/fact-sheet-one-year-of-supporting-ukraine/
 tags: statements-releases
 title: "FACT SHEET: One Year of Supporting\_Ukraine"
 ---
@@ -123,7 +123,7 @@ Anti-Corruption Assistance</span>**
 
 To defend human rights in Ukraine and its neighbors, President Biden
 launched the [European Democratic Resilience Initiative
-(EDRI)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-the-biden-administration-announces-new-humanitarian-development-and-democracy-assistance-to-ukraine-and-the-surrounding-region/)
+(EDRI)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-the-biden-administration-announces-new-humanitarian-development-and-democracy-assistance-to-ukraine-and-the-surrounding-region/)
 in March 2022. Through EDRI, we have provided nearly $220 million for
 Ukraine to support media freedom and enable Ukrainian media outlets to
 continue operating during the war, to counter disinformation, increase

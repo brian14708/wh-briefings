@@ -1,7 +1,7 @@
 ---
 date: '2023-06-27'
 published_time: 2023-06-27 16:16:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/readout-of-white-house-celebration-of-the-pregnant-workers-fairness-act-and-the-pump-for-nursing-mothers-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/readout-of-white-house-celebration-of-the-pregnant-workers-fairness-act-and-the-pump-for-nursing-mothers-act/
 tags: statements-releases
 title: "Readout of White\_House Celebration of the Pregnant Workers Fairness Act and\
   \ the PUMP for Nursing Mothers\_Act"

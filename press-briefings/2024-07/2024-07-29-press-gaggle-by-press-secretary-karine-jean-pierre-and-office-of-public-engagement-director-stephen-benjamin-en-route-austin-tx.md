@@ -1,7 +1,7 @@
 ---
 date: '2024-07-29'
 published_time: 2024-07-29 23:38:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/29/press-gaggle-by-press-secretary-karine-jean-pierre-and-office-of-public-engagement-director-stephen-benjamin-en-route-austin-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/29/press-gaggle-by-press-secretary-karine-jean-pierre-and-office-of-public-engagement-director-stephen-benjamin-en-route-austin-tx/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Office of Public Engagement\
   \ Director Stephen Benjamin en Route Austin,\_TX"

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-20'
 published_time: 2023-10-20 15:18:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/statement-from-president-joe-biden-on-securing-the-release-of-two-americans-taken-hostage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/statement-from-president-joe-biden-on-securing-the-release-of-two-americans-taken-hostage/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Securing the Release of Two Americans\
   \ Taken\_Hostage"

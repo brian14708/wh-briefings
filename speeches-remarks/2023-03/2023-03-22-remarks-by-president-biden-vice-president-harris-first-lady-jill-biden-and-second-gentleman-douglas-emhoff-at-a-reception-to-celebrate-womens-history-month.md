@@ -2,7 +2,7 @@
 date: '2023-03-22'
 modified_time: 2023-03-23 12:33:22-04:00
 published_time: 2023-03-22 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/22/remarks-by-president-biden-vice-president-harris-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-womens-history-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/22/remarks-by-president-biden-vice-president-harris-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-womens-history-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Vice President Harris, First Lady Jill\_Biden,\
   \ and Second Gentleman Douglas Emhoff at a Reception to Celebrate Women\u2019s History\_\

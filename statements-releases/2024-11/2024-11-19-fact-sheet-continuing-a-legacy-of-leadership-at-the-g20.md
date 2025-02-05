@@ -2,7 +2,7 @@
 date: '2024-11-19'
 modified_time: 2024-11-19 18:33:23-05:00
 published_time: 2024-11-19 08:15:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-continuing-a-legacy-of-leadership-at-the-g20/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-continuing-a-legacy-of-leadership-at-the-g20/
 tags: statements-releases
 title: "FACT SHEET: Continuing a Legacy of Leadership at the\_G20"
 ---
@@ -123,7 +123,7 @@ solutions to support the clean energy transition.
 
 **Launching the Brazil-U.S. Partnership for the Energy
 Transition.**  Presidents Biden and Lula announced [a new
-partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/)
+partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/)
 to elevate ongoing bilateral efforts in clean energy production, clean
 energy supply chain development, and green industrialization.
  This partnership builds on longstanding efforts under the U.S.-Brazil
@@ -142,9 +142,9 @@ in a number of bilateral clean energy industrial partnerships President
 Biden has established, including the new Brazil-U.S. Partnership for the
 Energy Transition, [Roadmap For U.S.-India Initiative to Build Safe and
 Secure Global Clean Energy Supply
-Chains](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains/),
+Chains](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/21/roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains/),
 and [U.S.-Kenya Climate and Clean Energy Industrial
-Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/united-states-kenya-joint-leaders-statement/).
+Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/united-states-kenya-joint-leaders-statement/).
  These efforts are further cemented in the multilateral Clean Energy
 Finance Mission Statement released on the margins of the G20 under the
 leadership of the United Kingdom and Brazil to mobilize finance

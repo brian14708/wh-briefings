@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-28 21:32:36-04:00
 published_time: 2023-06-27 14:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/
 tags: statements-releases
 title: "FACT SHEET: National Strategy for Countering Domestic Terrorism Strategic\
   \ Implementation\_Update"
@@ -209,7 +209,7 @@ Americans stand united to heal divides, we can help prevent acts of hate
 and violence. The Summit mobilized communities across the country to
 make commitments towards advancing an inclusive and bipartisan vision
 for a more united America. See this [Fact
-Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-the-united-we-stand-summit-taking-action-to-prevent-and-address-hate-motivated-violence-and-foster-unity/) for
+Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-the-united-we-stand-summit-taking-action-to-prevent-and-address-hate-motivated-violence-and-foster-unity/) for
 more information.
 
 **Presidential Initiatives to Address Antisemitism, Islamophobia and
@@ -227,7 +227,7 @@ next year to counter antisemitism, as well as over 100 calls to action
 for Congress, state and local governments, companies, technology
 platforms, students, teachers and academics, civil society and faith
 leaders, and others to counter antisemitism. See [this Fact
-Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/) for
+Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/) for
 more information on the key strategy actions.  
 
 \###

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-19'
 published_time: 2022-04-19 17:59:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/readout-of-white-house-meeting-on-reproductive-health-and-rights-with-state-legislators-from-missouri-nebraska-and-oklahoma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/readout-of-white-house-meeting-on-reproductive-health-and-rights-with-state-legislators-from-missouri-nebraska-and-oklahoma/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Reproductive Health and Rights with State\
   \ Legislators from Missouri, Nebraska, and\_Oklahoma"

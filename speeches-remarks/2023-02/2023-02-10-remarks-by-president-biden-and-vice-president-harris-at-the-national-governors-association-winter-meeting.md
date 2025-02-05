@@ -1,7 +1,7 @@
 ---
 date: '2023-02-10'
 published_time: 2023-02-10 18:43:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/10/remarks-by-president-biden-and-vice-president-harris-at-the-national-governors-association-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/10/remarks-by-president-biden-and-vice-president-harris-at-the-national-governors-association-winter-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at the National Governors\
   \ Association Winter\_Meeting"

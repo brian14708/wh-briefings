@@ -2,7 +2,7 @@
 date: '2022-06-23'
 modified_time: 2022-06-22 22:59:13-04:00
 published_time: 2022-06-23 08:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/
 tags: statements-releases
 title: "FACT SHEET:\_Biden Administration Launches New Federal-State Offshore Wind\
   \ Partnership to Grow American-Made Clean\_Energy"

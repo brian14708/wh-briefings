@@ -2,7 +2,7 @@
 date: '2024-12-17'
 modified_time: 2024-12-17 10:57:16-05:00
 published_time: 2024-12-17 10:57:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/17/press-release-bill-signed-s-3960/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/17/press-release-bill-signed-s-3960/
 tags: presidential-actions
 title: "Press Release: Bill Signed: S.\_3960"
 ---

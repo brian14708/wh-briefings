@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 published_time: 2023-05-18 13:28:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/readout-of-national-climate-advisor-ali-zaidis-meeting-with-clean-energy-manufacturing-companies-who-support-president-bidens-climate-and-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/readout-of-national-climate-advisor-ali-zaidis-meeting-with-clean-energy-manufacturing-companies-who-support-president-bidens-climate-and-investing-in-america-agenda/
 tags: statements-releases
 title: "Readout of National Climate Advisor Ali Zaidi\u2019s Meeting with Clean Energy\
   \ Manufacturing Companies Who Support President\_Biden\u2019s Climate and Investing\

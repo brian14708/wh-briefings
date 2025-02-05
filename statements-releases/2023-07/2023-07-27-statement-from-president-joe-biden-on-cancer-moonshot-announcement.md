@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 11:31:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/statement-from-president-joe-biden-on-cancer-moonshot-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/statement-from-president-joe-biden-on-cancer-moonshot-announcement/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Cancer Moonshot\_Announcement"
 ---

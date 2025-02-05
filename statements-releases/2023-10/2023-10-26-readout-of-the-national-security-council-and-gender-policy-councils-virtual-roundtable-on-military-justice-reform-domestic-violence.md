@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-26 08:20:24-04:00
 published_time: 2023-10-26 08:15:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/26/readout-of-the-national-security-council-and-gender-policy-councils-virtual-roundtable-on-military-justice-reform-domestic-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/26/readout-of-the-national-security-council-and-gender-policy-councils-virtual-roundtable-on-military-justice-reform-domestic-violence/
 tags: statements-releases
 title: "Readout of the National Security Council and Gender Policy Council\u2019s\
   \ Virtual Roundtable on Military Justice Reform & Domestic\_Violence"
@@ -23,7 +23,7 @@ toll on individuals, are fundamentally incompatible with military
 values, and degrade mission readiness, President Biden has prioritized
 military justice reform since Day One of the Administration, and in
 July, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) implementing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) implementing
 historic, bipartisan reforms that significantly strengthen how the
 military handles sexual assault, domestic violence, murder, and other
 serious offenses. The Executive Order transferred key decision-making

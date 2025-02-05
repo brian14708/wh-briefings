@@ -2,7 +2,7 @@
 date: '2024-03-13'
 modified_time: 2024-03-12 18:32:14-04:00
 published_time: 2024-03-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Over $3 Billion to Reconnect Communities\
   \ That Have Been Left Behind and Divided by Transportation Infrastructure"
@@ -50,15 +50,15 @@ past transportation projects and drive economic growth in communities in
 every corner of the country. This program is a key component of the
 Administration’s commitment to advancing racial equity and support for
 underserved communities as defined in [President Biden’s executive
-order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/#:~:text=The%20Equity%20Action%20Plan%20shall,14008%2C%20and%20Executive%20Order%2014020.).
+order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/#:~:text=The%20Equity%20Action%20Plan%20shall,14008%2C%20and%20Executive%20Order%2014020.).
 This program also advances the President’s commitment to delivering a
 convenient, efficient, and clean transportation system, including in
 proximity to affordable housing. Additionally, this program is a key
 component of the Administration’s commitment to [environmental
-justice](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/),
+justice](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/),
 including to deliver for disadvantaged communities as part of President
 Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 
 **In Milwaukee, President Biden will announce $36 million for the
 6<sup>th</sup> Street Complete Streets Project**.

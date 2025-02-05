@@ -2,7 +2,7 @@
 date: '2024-07-07'
 modified_time: 2024-07-10 14:26:37-04:00
 published_time: 2024-07-07 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/07/remarks-by-president-biden-sen-john-fetterman-rep-madeleine-dean-and-noelle-daniels-at-a-campaign-event-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/07/remarks-by-president-biden-sen-john-fetterman-rep-madeleine-dean-and-noelle-daniels-at-a-campaign-event-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Sen. John Fetterman, Rep. Madeleine Dean, and\
   \ No\xEBlle Daniels at a Campaign Event | Philadelphia,\_PA"

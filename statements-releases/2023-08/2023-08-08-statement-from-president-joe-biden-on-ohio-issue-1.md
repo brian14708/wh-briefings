@@ -1,7 +1,7 @@
 ---
 date: '2023-08-08'
 published_time: 2023-08-08 22:29:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/statement-from-president-joe-biden-on-ohio-issue-1/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/statement-from-president-joe-biden-on-ohio-issue-1/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Ohio Issue\_1"
 ---

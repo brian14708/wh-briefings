@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 23:51:18-04:00
 published_time: 2022-05-31 23:51:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/31/press-briefing-by-press-secretary-karine-jean-pierre-members-of-bts-and-national-economic-council-director-brian-deese-may-31-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/31/press-briefing-by-press-secretary-karine-jean-pierre-members-of-bts-and-national-economic-council-director-brian-deese-may-31-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Members of BTS, and\
   \ National Economic Council Director Brian Deese, May 31,\_2022"

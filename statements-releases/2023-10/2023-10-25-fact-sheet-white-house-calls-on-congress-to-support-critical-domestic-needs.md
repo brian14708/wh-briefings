@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 16:21:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-white-house-calls-on-congress-to-support-critical-domestic-needs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-white-house-calls-on-congress-to-support-critical-domestic-needs/
 tags: statements-releases
 title: "FACT SHEET: White\_House Calls on Congress to Support Critical Domestic\_\
   Needs"
@@ -30,7 +30,7 @@ these needs as well as today’s supplemental funding request.
 **In the meantime, in order to advance critical domestic priorities and
 address urgent needs, the Biden-Harris Administration is calling on
 Congress to provide [additional domestic
-resources](https://www.whitehouse.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) that
+resources](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) that
 will:**
 
 ***<u>Support Communities Facing Extreme Weather and Climate
@@ -117,7 +117,7 @@ high costs create a barrier and tens of millions of families, students,
 and seniors are left without access to high-speed internet, or have to
 sacrifice other necessities to pay their internet bill, exacerbating
 underlying inequities. The [Affordable Connectivity
-Program](https://www.whitehouse.gov/getinternet/), enacted under the
+Program](https://bidenwhitehouse.archives.gov/getinternet/), enacted under the
 Bipartisan Infrastructure Law, is already helping over 21 million
 households save over $500 million per month on their monthly internet
 bills. The program is also critical for the Administration’s high-speed
@@ -132,7 +132,7 @@ December 2024.
 *<u>Protect American Security and Bolster Energy Independence</u>***  
   
 Alongside the [Administration’s
-request](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) for
+request](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) for
 funding to address the challenges we face abroad, the Biden-Harris
 Administration is calling on Congress to provide supplemental funding to
 strengthen our security at home, including by protecting communities at
@@ -179,7 +179,7 @@ from over and additional resources are needed to continue the
 Administration’s aggressive action to save lives. As part of the
 Administration’s *National Drug Control Strategy *supported by
 the [National Security Supplemental
-package](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) released
+package](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) released
 last week to crack down on the trafficking of illicit fentanyl, **the
 Administration’s Domestic Supplemental request includes funding for
 grants to States, Territories and Tribes through the Department of
@@ -199,7 +199,7 @@ Humanitarian needs worldwide remain at unprecedented levels due to more
 frequent and severe natural disasters and worsening food security.
 Putin’s war on Ukraine is having a devastating impact on global food
 availability and costs. Alongside the [$10 billion in humanitarian
-aid](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) in
+aid](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/) in
 the National Security Supplemental request, **the Administration is also
 requesting funding that will:**
 

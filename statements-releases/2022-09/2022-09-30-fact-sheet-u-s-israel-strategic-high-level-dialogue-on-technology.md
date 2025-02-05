@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 08:47:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-u-s-israel-strategic-high-level-dialogue-on-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-u-s-israel-strategic-high-level-dialogue-on-technology/
 tags: statements-releases
 title: "FACT SHEET: U.S.-Israel Strategic High-Level Dialogue on\_Technology"
 ---

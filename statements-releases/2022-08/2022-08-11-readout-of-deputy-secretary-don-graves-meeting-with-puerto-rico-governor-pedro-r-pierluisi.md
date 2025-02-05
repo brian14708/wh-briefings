@@ -1,7 +1,7 @@
 ---
 date: '2022-08-11'
 published_time: 2022-08-11 12:48:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/readout-of-deputy-secretary-don-graves-meeting-with-puerto-rico-governor-pedro-r-pierluisi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/11/readout-of-deputy-secretary-don-graves-meeting-with-puerto-rico-governor-pedro-r-pierluisi/
 tags: statements-releases
 title: "Readout of Deputy Secretary Don Graves\u2019 Meeting with Puerto Rico Governor\
   \ Pedro R.\_Pierluisi"

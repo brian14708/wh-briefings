@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 18:12:54-04:00
 published_time: 2023-09-06 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/06/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-invictus-games-in-dusseldorf-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/06/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-invictus-games-in-dusseldorf-germany/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to attend the Opening Ceremony\
   \ of the Invictus Games in D\xFCsseldorf,\_Germany"

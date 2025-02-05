@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 published_time: 2023-06-01 18:32:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-israeli-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-israeli-officials/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Israeli\_\
   Officials"

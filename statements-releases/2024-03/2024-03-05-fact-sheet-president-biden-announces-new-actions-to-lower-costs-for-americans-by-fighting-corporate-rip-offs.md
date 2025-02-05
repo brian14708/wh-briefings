@@ -2,7 +2,7 @@
 date: '2024-03-05'
 modified_time: 2024-03-05 09:38:05-05:00
 published_time: 2024-03-05 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-president-biden-announces-new-actions-to-lower-costs-for-americans-by-fighting-corporate-rip-offs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-president-biden-announces-new-actions-to-lower-costs-for-americans-by-fighting-corporate-rip-offs/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Lower Costs for Americans\
   \ by Fighting Corporate\_Rip-Offs"
@@ -19,7 +19,7 @@ practices that keep prices high. Under the President’s leadership,
 agencies across the Administration are working to promote competition,
 protect consumers, and lower prices by implementing the President’s
 [Executive Order on Promoting Competition in the American
-Economy](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/).  
+Economy](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/).  
   
 **Today, President Biden will launch a new Strike Force to crack down on
 unfair and illegal pricing.** President Biden is committed to making
@@ -61,7 +61,7 @@ junk fees will save Americans more than $20 billion each year:**
     interest](https://www.consumerfinance.gov/about-us/newsroom/cfpb-report-finds-large-banks-charge-higher-credit-card-interest-rates-than-small-banks-and-credit-unions/)
     than smaller banks.
 -   **Saving consumers more than $20 billion in junk fees.** A new
-    [blog](https://www.whitehouse.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/)
+    [blog](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/)
     published today by the Council of Economic Advisers (CEA) finds that
     actions from the Biden-Harris Administration will help eliminate
     more than $20 billion in junk fees annually going forward. Analysis
@@ -110,7 +110,7 @@ including:**
 
 -   **Cracking down on junk fees that cost consumers $90 billion each
     year.** [The FTC has proposed a
-    rule](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/biden-harris-administration-announces-broad-new-actions-to-protect-consumers-from-billions-in-junk-fees/)
+    rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/biden-harris-administration-announces-broad-new-actions-to-protect-consumers-from-billions-in-junk-fees/)
     that, if finalized as proposed, would ban companies from charging
     hidden and surprise junk fees and require that prices are listed
     upfront when consumers make purchases. In addition, [the FTC
@@ -120,7 +120,7 @@ including:**
     consumers and to stop auto dealers from charging hidden junk fees
     for services that provide no additional value. The [Department of
     Labor also proposed a
-    rule](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-to-announce-new-actions-to-protect-retirement-security-by-cracking-down-on-junk-fees-in-retirement-investment-advice/)
+    rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-to-announce-new-actions-to-protect-retirement-security-by-cracking-down-on-junk-fees-in-retirement-investment-advice/)
     that would reduce junk fees in retirement products and help ensure
     that the financial advice that Americans get about their retirement
     is in their best interest. Finally, the [FCC proposed a
@@ -204,7 +204,7 @@ including:**
     fair, open, and competitive markets as the two agencies review
     mergers that come before them. Further, the Office of Information
     and Regulatory Affairs [released new
-    guidance](https://www.whitehouse.gov/omb/briefing-room/2023/10/11/promoting-competitive-markets-through-regulatory-design/)
+    guidance](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/11/promoting-competitive-markets-through-regulatory-design/)
     to ensure that competition continues to be at the center of future
     federal rulemaking.
 -   **Lowering costs and improving access in the communications

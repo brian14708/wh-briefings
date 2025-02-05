@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 17:21:38-04:00
 published_time: 2022-08-09 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/09/remarks-by-president-biden-at-signing-of-h-r-4346-the-chips-and-science-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/09/remarks-by-president-biden-at-signing-of-h-r-4346-the-chips-and-science-act-of-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of H.R. 4346, \u201CThe CHIPS and Science\
   \ Act of\_2022\u201D"

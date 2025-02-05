@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 published_time: 2022-10-13 16:28:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-president-biden-in-press-gaggle-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-president-biden-in-press-gaggle-6/
 tags: speeches-remarks
 title: "Remarks By President\_Biden in Press\_Gaggle"
 ---

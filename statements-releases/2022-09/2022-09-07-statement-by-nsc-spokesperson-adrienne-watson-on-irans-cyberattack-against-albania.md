@@ -2,7 +2,7 @@
 date: '2022-09-07'
 modified_time: 2022-09-07 07:35:36-04:00
 published_time: 2022-09-07 07:35:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/07/statement-by-nsc-spokesperson-adrienne-watson-on-irans-cyberattack-against-albania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/07/statement-by-nsc-spokesperson-adrienne-watson-on-irans-cyberattack-against-albania/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Iran\u2019s Cyberattack against\_\
   Albania"

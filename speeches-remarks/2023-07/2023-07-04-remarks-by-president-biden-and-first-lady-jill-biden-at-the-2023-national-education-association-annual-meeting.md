@@ -2,7 +2,7 @@
 date: '2023-07-04'
 modified_time: 2023-07-04 16:11:16-04:00
 published_time: 2023-07-04 16:11:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/04/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-national-education-association-annual-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/04/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-national-education-association-annual-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2023 National\
   \ Education Association Annual\_Meeting"

@@ -2,7 +2,7 @@
 date: '2024-11-18'
 modified_time: 2024-11-18 13:35:34-05:00
 published_time: 2024-11-18 13:35:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/18/readout-of-president-joe-bidens-meeting-with-prime-minister-justin-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/18/readout-of-president-joe-bidens-meeting-with-prime-minister-justin-trudeau-of-canada/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Justin\
   \ Trudeau of\_Canada"

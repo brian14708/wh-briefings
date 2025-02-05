@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-09-30'
 modified_time: 2021-09-30 11:10:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-manufacturing-day-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/30/a-proclamation-on-national-manufacturing-day-2021/
 published_time: 2021-09-30 11:10:09-04:00
 title: "A Proclamation on National Manufacturing Day,\_2021"
 ---

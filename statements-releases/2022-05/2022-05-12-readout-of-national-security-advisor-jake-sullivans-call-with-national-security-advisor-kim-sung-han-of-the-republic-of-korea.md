@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 12:22:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/readout-of-national-security-advisor-jake-sullivans-call-with-national-security-advisor-kim-sung-han-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/readout-of-national-security-advisor-jake-sullivans-call-with-national-security-advisor-kim-sung-han-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with National\
   \ Security Advisor Kim Sung-han of the Republic of\_Korea"

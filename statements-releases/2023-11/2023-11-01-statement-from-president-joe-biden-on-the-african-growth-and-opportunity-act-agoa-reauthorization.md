@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 22:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-reauthorization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-reauthorization/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the African Growth and Opportunity\
   \ Act (AGOA) Reauthorization"

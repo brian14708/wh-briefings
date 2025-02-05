@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-08 15:44:06-04:00
 published_time: 2022-07-06 17:39:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/06/president-biden-announces-fifteenth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/06/president-biden-announces-fifteenth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Fifteenth Operation Fly Formula\_Mission"
 ---
@@ -52,9 +52,9 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg"
 class="wp-image-56896" loading="lazy"
 sizes="(max-width: 483px) 100vw, 483px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg 483w, https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=1200,1200 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg 483w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/BABY-FORM.jpg?resize=1200,1200 1200w"
 width="483" height="483" />
 </figure>

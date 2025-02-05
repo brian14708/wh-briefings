@@ -2,7 +2,7 @@
 date: '2022-07-27'
 modified_time: 2022-07-27 23:43:44-04:00
 published_time: 2022-07-27 23:43:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/27/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/27/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-4/
 tags: speeches-remarks
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John\_Kirby"

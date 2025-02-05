@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-09-23'
 modified_time: 2021-09-23 11:19:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/
 published_time: 2021-09-23 11:14:47-04:00
 title: "When the Chips Are Down: Preventing and Addressing Supply Chain\_Disruptions"
 ---
@@ -126,7 +126,7 @@ address supply chain vulnerabilities since he came into office. In
 February, he ordered a 100-day review of supply chains for select
 critical products and a 1-year review of vulnerabilities in the supply
 chains for select critical sectors. [The 100-day
-report](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf),
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf),
 published in June, lays out a framework for closing supply chain
 vulnerabilities by investing in U.S. workers, communities, and
 innovation. It also makes the case for a new federal toolbox for closing
@@ -206,7 +206,7 @@ it from happening in the first place.
 https://slate.com/business/2020/04/yeast-shortage-supermarkets-coronavirus.html
 
 \[2\] [Why the Pandemic Has Disrupted Supply Chains | The White
-House](https://www.whitehouse.gov/cea/blog/2021/06/17/why-the-pandemic-has-disrupted-supply-chains/)
+House](https://bidenwhitehouse.archives.gov/cea/blog/2021/06/17/why-the-pandemic-has-disrupted-supply-chains/)
 
 \[3\] Spencer Hill, Goldman Sachs, US Daily: A Semi-Troubling Shortage
 (Apr. 24, 2021).

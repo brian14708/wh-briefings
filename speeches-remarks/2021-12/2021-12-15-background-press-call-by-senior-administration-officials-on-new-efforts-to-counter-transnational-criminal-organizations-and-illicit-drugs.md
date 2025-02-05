@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-12-15'
 modified_time: 2021-12-16 08:47:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/15/background-press-call-by-senior-administration-officials-on-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/15/background-press-call-by-senior-administration-officials-on-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
 published_time: 2021-12-15 14:00:00-05:00
 title: "Background Press Call by Senior Administration Officials on New Efforts to\
   \ Counter Transnational Criminal Organizations and Illicit\_Drugs"

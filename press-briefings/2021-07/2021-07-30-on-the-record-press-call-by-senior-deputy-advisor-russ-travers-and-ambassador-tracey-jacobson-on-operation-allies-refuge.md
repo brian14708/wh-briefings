@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-07-30'
 modified_time: 2021-07-29 19:42:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/30/on-the-record-press-call-by-senior-deputy-advisor-russ-travers-and-ambassador-tracey-jacobson-on-operation-allies-refuge/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/07/30/on-the-record-press-call-by-senior-deputy-advisor-russ-travers-and-ambassador-tracey-jacobson-on-operation-allies-refuge/
 published_time: 2021-07-30 05:00:00-04:00
 title: "On-the-Record Press Call by Senior Deputy Advisor Russ Travers and Ambassador\
   \ Tracey Jacobson on Operation Allies\_Refuge"

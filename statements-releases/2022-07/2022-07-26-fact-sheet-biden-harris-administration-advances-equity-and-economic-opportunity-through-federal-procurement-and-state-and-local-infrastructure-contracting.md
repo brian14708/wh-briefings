@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 17:59:34-04:00
 published_time: 2022-07-26 17:59:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Advances Equity And Economic\
   \ Opportunity Through Federal Procurement And State And Local Infrastructure\_Contracting"
@@ -22,7 +22,7 @@ Administration is committed to ensuring that federal investments build
 wealth and opportunity for underserved entrepreneurs and small business
 owners. On the centennial of the Tulsa Race Massacre, President Biden
 announced [a number of
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
 to narrow the racial wealth gap, including setting a goal of increasing
 the share of federal contracts going to small disadvantaged businesses
 (SDBs) to 15 percent by 2025 – a 50 percent increase from most recent
@@ -86,7 +86,7 @@ Year 2021 and the launching of [a new government-wide acquisition
 contract that exclusively engaged information technology
 SDBs](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-awards-the-8a-stars-iii-gwac-06172021). 
 In December 2021, the administration [released a
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
 to further increase equity in federal procurement over the next several
 years.
 

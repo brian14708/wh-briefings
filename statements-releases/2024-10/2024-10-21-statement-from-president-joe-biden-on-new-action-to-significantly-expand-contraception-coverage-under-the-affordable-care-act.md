@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-20 18:50:31-04:00
 published_time: 2024-10-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/statement-from-president-joe-biden-on-new-action-to-significantly-expand-contraception-coverage-under-the-affordable-care-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/statement-from-president-joe-biden-on-new-action-to-significantly-expand-contraception-coverage-under-the-affordable-care-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Action to Significantly Expand\
   \ Contraception Coverage Under the Affordable Care\_Act"

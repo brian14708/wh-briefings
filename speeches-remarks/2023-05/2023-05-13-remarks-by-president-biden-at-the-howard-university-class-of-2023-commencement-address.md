@@ -2,7 +2,7 @@
 date: '2023-05-13'
 modified_time: 2023-05-13 18:00:53-04:00
 published_time: 2023-05-13 18:00:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/13/remarks-by-president-biden-at-the-howard-university-class-of-2023-commencement-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/13/remarks-by-president-biden-at-the-howard-university-class-of-2023-commencement-address/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Howard University Class of 2023 Commencement\_\
   Address"

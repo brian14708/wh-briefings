@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 08:26:21-05:00
 published_time: 2023-12-20 05:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/press-call-by-vice-president-harris-on-the-biden-harris-administrations-commitment-to-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/press-call-by-vice-president-harris-on-the-biden-harris-administrations-commitment-to-environmental-justice/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris on the Biden-\u2060Harris Administration\u2019\
   s Commitment to Environmental\_Justice"

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 17:11:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/23/background-press-call-previewing-the-vice-presidents-upcoming-travel-to-japan-and-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/23/background-press-call-previewing-the-vice-presidents-upcoming-travel-to-japan-and-the-republic-of-korea/
 tags: press-briefings
 title: "Background Press Call Previewing the Vice President\u2019s Upcoming Travel\
   \ to Japan and the Republic of\_Korea"

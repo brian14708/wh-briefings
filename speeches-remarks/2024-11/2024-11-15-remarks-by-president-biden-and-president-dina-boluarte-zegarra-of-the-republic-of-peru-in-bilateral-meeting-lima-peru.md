@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-15 17:00:44-05:00
 published_time: 2024-11-15 17:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/15/remarks-by-president-biden-and-president-dina-boluarte-zegarra-of-the-republic-of-peru-in-bilateral-meeting-lima-peru/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/15/remarks-by-president-biden-and-president-dina-boluarte-zegarra-of-the-republic-of-peru-in-bilateral-meeting-lima-peru/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Dina Boluarte Zegarra of the Republic\
   \ of Peru in Bilateral Meeting | Lima,\_Peru"

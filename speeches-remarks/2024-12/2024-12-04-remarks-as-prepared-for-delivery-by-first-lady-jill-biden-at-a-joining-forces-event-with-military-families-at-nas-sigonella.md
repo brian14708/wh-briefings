@@ -1,7 +1,7 @@
 ---
 date: '2024-12-04'
 published_time: 2024-12-04 05:05:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-joining-forces-event-with-military-families-at-nas-sigonella/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-joining-forces-event-with-military-families-at-nas-sigonella/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Joining Forces\
   \ Event with Military Families at NAS\_Sigonella"

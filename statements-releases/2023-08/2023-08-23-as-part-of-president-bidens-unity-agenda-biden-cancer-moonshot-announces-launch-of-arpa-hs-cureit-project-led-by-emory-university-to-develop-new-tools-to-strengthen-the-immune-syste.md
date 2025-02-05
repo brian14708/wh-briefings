@@ -2,7 +2,7 @@
 date: '2023-08-23'
 modified_time: 2023-08-23 08:45:57-04:00
 published_time: 2023-08-23 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/23/as-part-of-president-bidens-unity-agenda-biden-cancer-moonshot-announces-launch-of-arpa-hs-cureit-project-led-by-emory-university-to-develop-new-tools-to-strengthen-the-immune-syste/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/23/as-part-of-president-bidens-unity-agenda-biden-cancer-moonshot-announces-launch-of-arpa-hs-cureit-project-led-by-emory-university-to-develop-new-tools-to-strengthen-the-immune-syste/
 tags: statements-releases
 title: "As Part of President\_Biden\u2019s Unity Agenda, Biden Cancer Moonshot Announces\
   \ Launch of ARPA-H\u2019s CUREIT Project Led by Emory University to Develop New\

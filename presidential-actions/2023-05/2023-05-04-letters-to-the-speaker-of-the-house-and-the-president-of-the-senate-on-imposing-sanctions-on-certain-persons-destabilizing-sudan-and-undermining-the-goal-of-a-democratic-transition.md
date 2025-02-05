@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 10:42:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/04/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/04/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and the President of the Senate on Imposing\
   \ Sanctions on Certain Persons Destabilizing Sudan and Undermining the Goal of a\

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-18'
 published_time: 2022-07-18 10:10:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/18/president-biden-announces-seventeenth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/18/president-biden-announces-seventeenth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Seventeenth Operation Fly Formula\_Mission"
 ---
@@ -52,10 +52,10 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/07/finalformula.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/finalformula.png"
 class="wp-image-56992" loading="lazy"
 sizes="(max-width: 801px) 100vw, 801px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/07/finalformula.png 801w, https://www.whitehouse.gov/wp-content/uploads/2022/07/finalformula.png?resize=615,369 615w, https://www.whitehouse.gov/wp-content/uploads/2022/07/finalformula.png?resize=768,461 768w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/finalformula.png 801w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/finalformula.png?resize=615,369 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/finalformula.png?resize=768,461 768w"
 width="801" height="481" />
 </figure>
 

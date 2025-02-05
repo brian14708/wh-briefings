@@ -1,7 +1,7 @@
 ---
 date: '2022-08-12'
 published_time: 2022-08-12 16:23:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/12/on-the-record-press-call-by-kurt-campbell-deputy-assistant-to-the-president-and-coordinator-for-the-indo-pacific/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/12/on-the-record-press-call-by-kurt-campbell-deputy-assistant-to-the-president-and-coordinator-for-the-indo-pacific/
 tags: press-briefings
 title: "On-the-Record Press Call by Kurt Campbell, Deputy Assistant to the President\
   \ and Coordinator for the\_Indo-Pacific"

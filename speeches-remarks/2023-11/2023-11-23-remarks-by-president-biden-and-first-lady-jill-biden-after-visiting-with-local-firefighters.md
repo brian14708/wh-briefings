@@ -2,7 +2,7 @@
 date: '2023-11-23'
 modified_time: 2023-11-24 13:57:15-05:00
 published_time: 2023-11-23 11:58:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/23/remarks-by-president-biden-and-first-lady-jill-biden-after-visiting-with-local-firefighters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/23/remarks-by-president-biden-and-first-lady-jill-biden-after-visiting-with-local-firefighters/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden After Visiting with\
   \ Local\_Firefighters"

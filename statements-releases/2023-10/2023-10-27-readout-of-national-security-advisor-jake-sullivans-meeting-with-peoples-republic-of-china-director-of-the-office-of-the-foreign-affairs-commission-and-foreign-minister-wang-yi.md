@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 19:21:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-peoples-republic-of-china-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-yi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-peoples-republic-of-china-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-yi/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with People\u2019\
   s Republic of China Director of the Office of the Foreign Affairs Commission and\

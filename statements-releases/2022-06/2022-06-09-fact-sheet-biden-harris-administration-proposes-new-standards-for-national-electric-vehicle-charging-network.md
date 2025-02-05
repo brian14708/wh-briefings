@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-12 17:15:36-04:00
 published_time: 2022-06-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Proposes New Standards for National\
   \ Electric Vehicle Charging\_Network"
@@ -49,7 +49,7 @@ in America:
     for the critical minerals supply chains necessary for batteries,
     components, materials, and recycling.
 -   United automakers and autoworkers around an [ambitious
-    target](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+    target](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
     for 50% of new vehicles sold in 2030 to be electric.
 -   Triggered a string of investment commitments of over $100 billion
     from private companies to make more EVs and their parts in America,
@@ -96,7 +96,7 @@ hand-in-hand with States, industry leaders, manufacturers, and other
 stakeholders to meet the President’s goals. And to ensure that this
 electric transformation is both timely and equitable, Vice President
 Harris launched an [EV Charging Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/)
 that fast tracks federal investments and targets equity benefits for
 disadvantaged communities – and the Department of Transportation
 released a [Rural EV

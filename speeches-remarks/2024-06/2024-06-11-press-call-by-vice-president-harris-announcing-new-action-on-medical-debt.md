@@ -1,7 +1,7 @@
 ---
 date: '2024-06-11'
 published_time: 2024-06-11 15:52:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/11/press-call-by-vice-president-harris-announcing-new-action-on-medical-debt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/11/press-call-by-vice-president-harris-announcing-new-action-on-medical-debt/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris Announcing New Action on Medical\_Debt"
 ---

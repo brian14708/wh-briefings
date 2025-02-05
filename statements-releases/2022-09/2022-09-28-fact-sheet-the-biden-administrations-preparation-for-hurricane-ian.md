@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 09:53:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-administrations-preparation-for-hurricane-ian/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-administrations-preparation-for-hurricane-ian/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration\u2019s Preparation for Hurricane\_Ian"
 ---

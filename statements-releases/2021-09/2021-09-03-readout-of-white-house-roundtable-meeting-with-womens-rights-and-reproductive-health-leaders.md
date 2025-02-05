@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-03'
 modified_time: 2021-09-03 15:37:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/readout-of-white-house-roundtable-meeting-with-womens-rights-and-reproductive-health-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/03/readout-of-white-house-roundtable-meeting-with-womens-rights-and-reproductive-health-leaders/
 published_time: 2021-09-03 16:00:00-04:00
 title: "Readout of White\_House Roundtable Meeting with Women\u2019s Rights and Reproductive\
   \ Health\_Leaders"
@@ -19,11 +19,11 @@ constitutional rights under *Roe v. Wade* and underscored the
 President’s commitment to ensuring that every person in this country has
 access to reproductive health care.  President Biden made clear in [his
 statement earlier this
-week](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/statement-by-president-joe-biden-on-texas-law-sb8/)
+week](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/01/statement-by-president-joe-biden-on-texas-law-sb8/)
 that this law will significantly impair access to care, particularly for
 communities of color and individuals with low incomes and Vice President
 Harris reiterated in [her
-statement](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/02/statement-by-vice-president-kamala-harris-on-supreme-court-ruling-on-texas-law-sb8/)
+statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/02/statement-by-vice-president-kamala-harris-on-supreme-court-ruling-on-texas-law-sb8/)
 the Administration’s commitment to use every lever to defend that right
 to safe and legal abortion and to strengthen that right.
 
@@ -54,7 +54,7 @@ explore what steps the federal government can take to ensure access to
 safe and legal abortion.  These efforts build on the President’s earlier
 commitments to a [government-wide approach to advancing gender equity
 and equality, including women’s reproductive health
-care](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/).
+care](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/).
 
    
 Women’s rights and reproductive health leaders that participated in

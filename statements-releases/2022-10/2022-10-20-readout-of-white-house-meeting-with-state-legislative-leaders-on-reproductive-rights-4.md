@@ -2,7 +2,7 @@
 date: '2022-10-20'
 modified_time: 2022-10-20 19:07:12-04:00
 published_time: 2022-10-20 19:05:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-4/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Reproductive\_\
   Rights"

@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 15:15:34-04:00
 published_time: 2022-08-03 15:05:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/president-biden-announces-eighteenth-operation-fly-formula-mission-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/president-biden-announces-eighteenth-operation-fly-formula-mission-2/
 tags: statements-releases
 title: "President\_Biden Announces Nineteenth Operation Fly Formula\_Mission"
 ---
@@ -52,9 +52,9 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?w=640"
 class="wp-image-59003" loading="lazy"
 sizes="(max-width: 955px) 100vw, 955px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png 955w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=435,615 435w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=768,1086 768w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=898,1270 898w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=453,640 453w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=905,1280 905w, https://www.whitehouse.gov/wp-content/uploads/2022/08/image.png?resize=601,850 601w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png 955w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=435,615 435w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=768,1086 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=898,1270 898w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=453,640 453w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=905,1280 905w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/image.png?resize=601,850 601w"
 width="955" height="1350" />
 </figure>

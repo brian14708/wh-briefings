@@ -2,7 +2,7 @@
 date: '2024-05-14'
 modified_time: 2024-05-14 08:34:03-04:00
 published_time: 2024-05-14 08:34:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-the-biden-harris-administration-highlights-investments-in-rural-america-invites-public-nominations-for-rural-innovators-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-the-biden-harris-administration-highlights-investments-in-rural-america-invites-public-nominations-for-rural-innovators-initiative/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Highlights Investments in\
   \ Rural America, Invites Public Nominations for Rural Innovators\_Initiative"
@@ -38,7 +38,7 @@ jobs in rural communities.
   
 Today’s *Rural Communities in Action* event builds on the [Investing in
 Rural America Regional Event
-Series](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-launches-investing-in-rural-america-regional-event-series-to-highlight-how-the-president-is-delivering-for-rural-communities/).
+Series](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-launches-investing-in-rural-america-regional-event-series-to-highlight-how-the-president-is-delivering-for-rural-communities/).
 Throughout this year, Senior Administration Officials are traveling to
 rural communities across the country to highlight how the Biden-Harris
 Administration is investing in rural America to create opportunity for
@@ -120,7 +120,7 @@ contaminated sites and advance environmental justice.
   
 In addition, the Biden-Harris Administration is leading
 a [whole-of-government
-effort](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/) to
+effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/) to
 make Western communities more resilient to climate change and the
 ongoing megadrought by harnessing the full resources of the President’s
 historic Investing in America agenda. The Inflation Reduction Act and
@@ -283,7 +283,7 @@ Competition**
   
 As part of the Biden-Harris Administration’s [Action Plan for a Fairer,
 More Competitive, and More Resilient Meat and Poultry Supply
-Chain](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/),
+Chain](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/),
 USDA invested $583 million in expanding meat and poultry processing
 capacity, $275 million to strengthen the food supply chain and create
 opportunities for small businesses and entrepreneurs in rural
@@ -360,7 +360,7 @@ communities through the Food Distribution Program on Indian Reservations
 **Improving Nutrition and Food Access for Rural Communities**  
   
 President
-Biden [set](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/white-house-announces-conference-on-hunger-nutrition-and-health-in-september/) a
+Biden [set](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/white-house-announces-conference-on-hunger-nutrition-and-health-in-september/) a
 bold goal of ending hunger and reducing diet-related diseases in the
 U.S. by 2030—all while reducing disparities. Through the [Healthy Meals
 Incentives Initiative](https://www.fns.usda.gov/school-meals/hmi), USDA
@@ -396,7 +396,7 @@ including in remote and rural areas.
 Affordable Housing in Rural America**  
   
 The [Biden-Harris Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) includes
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) includes
 legislative and administrative actions that will help close America’s
 housing supply shortfall. When aligned with other policies to reduce
 housing costs and ensure affordability, such as rental assistance and

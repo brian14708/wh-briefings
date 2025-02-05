@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 10:29:34-04:00
 published_time: 2023-04-13 10:29:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/statement-from-press-secretary-karine-jean-pierre-on-the-march-producer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/statement-from-press-secretary-karine-jean-pierre-on-the-march-producer-price-index/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the March Producer Price\_\
   Index"

@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 17:47:45-05:00
 published_time: 2023-11-17 17:47:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/17/a-proclamation-on-national-family-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/17/a-proclamation-on-national-family-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Family Week,\_2023"
 ---

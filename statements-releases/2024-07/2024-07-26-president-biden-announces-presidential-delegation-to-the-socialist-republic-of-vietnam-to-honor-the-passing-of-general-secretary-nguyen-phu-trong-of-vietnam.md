@@ -1,7 +1,7 @@
 ---
 date: '2024-07-26'
 published_time: 2024-07-26 08:34:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/president-biden-announces-presidential-delegation-to-the-socialist-republic-of-vietnam-to-honor-the-passing-of-general-secretary-nguyen-phu-trong-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/president-biden-announces-presidential-delegation-to-the-socialist-republic-of-vietnam-to-honor-the-passing-of-general-secretary-nguyen-phu-trong-of-vietnam/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Socialist Republic\
   \ of Vietnam to Honor the Passing of General Secretary Nguy\u1EC5n Ph\xFA Tr\u1ECD\

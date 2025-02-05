@@ -1,7 +1,7 @@
 ---
 date: '2022-08-08'
 published_time: 2022-08-08 22:38:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-lexington-ky/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-lexington-ky/
 tags: statements-releases
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Lexington,\_KY"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-22'
 published_time: 2023-05-22 15:30:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/statement-from-president-joe-biden-on-historic-agreement-to-protect-colorado-river-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/statement-from-president-joe-biden-on-historic-agreement-to-protect-colorado-river-system/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic Agreement to Protect Colorado\
   \ River\_System"

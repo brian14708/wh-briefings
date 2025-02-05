@@ -1,7 +1,7 @@
 ---
 date: '2024-07-24'
 published_time: 2024-07-24 08:55:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-benjamin-netanyahu-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/24/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-benjamin-netanyahu-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of Prime Minister\
   \ Benjamin Netanyahu to the White\_House"

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 16:48:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-in-roundtable-discussion-with-state-legislators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-in-roundtable-discussion-with-state-legislators/
 tags: statements-releases
 title: "Remarks by Vice President Harris in Roundtable Discussion With State\_Legislators"
 ---

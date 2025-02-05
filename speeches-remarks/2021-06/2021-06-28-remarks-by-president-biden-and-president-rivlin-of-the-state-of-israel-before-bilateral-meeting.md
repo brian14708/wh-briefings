@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-06-28'
 modified_time: 2021-06-28 18:43:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/28/remarks-by-president-biden-and-president-rivlin-of-the-state-of-israel-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/28/remarks-by-president-biden-and-president-rivlin-of-the-state-of-israel-before-bilateral-meeting/
 published_time: 2021-06-28 19:00:00-04:00
 title: "Remarks by President\_Biden and President Rivlin of the State of Israel Before\
   \ Bilateral\_Meeting"

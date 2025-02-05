@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-13 12:28:23-04:00
 published_time: 2022-04-11 18:43:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/11/remarks-by-vice-president-harris-announcing-actions-to-reduce-the-burden-of-medical-debt-on-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/11/remarks-by-vice-president-harris-announcing-actions-to-reduce-the-burden-of-medical-debt-on-american-families/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Announcing Actions to Reduce the Burden of\
   \ Medical Debt on American\_Families"

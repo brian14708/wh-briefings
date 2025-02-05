@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-06-29'
 modified_time: 2021-06-29 12:06:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/29/a-memorandum-for-the-secretary-of-commerce-on-expo-2027-minnesota-healthy-people-healthy-planet-wellness-and-well-being-for-all/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/29/a-memorandum-for-the-secretary-of-commerce-on-expo-2027-minnesota-healthy-people-healthy-planet-wellness-and-well-being-for-all/
 published_time: 2021-06-29 12:06:16-04:00
 title: "A Memorandum for the Secretary of Commerce on Expo 2027 Minnesota \u2013 Healthy\
   \ People, Healthy Planet: Wellness and Well-Being for\_All"

@@ -2,14 +2,14 @@
 date: '2025-01-06'
 modified_time: 2025-01-07 08:38:37-05:00
 published_time: 2025-01-06 20:13:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/what-they-are-saying-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/what-they-are-saying-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Protects Atlantic and Pacific Coasts\
   \ from Offshore Oil and Gas\_Drilling"
 ---
  
 Today, President Biden [took
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/)
 to protect the entire U.S. East coast, the eastern Gulf of Mexico, the
 Pacific off the coasts of Washington, Oregon, and California, and
 additional portions of the Northern Bering Sea in Alaska from future oil

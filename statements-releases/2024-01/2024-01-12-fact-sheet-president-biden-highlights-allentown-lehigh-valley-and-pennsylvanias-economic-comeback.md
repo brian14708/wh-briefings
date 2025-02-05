@@ -2,7 +2,7 @@
 date: '2024-01-12'
 modified_time: 2024-01-11 21:19:09-05:00
 published_time: 2024-01-12 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Highlights Allentown, Lehigh Valley, and Pennsylvania\u2019\
   s Economic\_Comeback"
@@ -30,7 +30,7 @@ delivered a small business boom. New Census Bureau data shows that the
 first three years of the Biden-Harris Administration are the strongest
 years on record for new business applications, with nearly 16 million
 applications filed. [Analysis by the Council of Economic
-Advisers ](https://www.whitehouse.gov/cea/written-materials/2024/01/11/new-business-surge-unveiling-the-business-application-boom-through-an-analysis-of-administrative-data/)finds
+Advisers ](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/01/11/new-business-surge-unveiling-the-business-application-boom-through-an-analysis-of-administrative-data/)finds
 that this level of record applications also reflects higher levels of
 new business formation that would lead to job growth – the highest in
 the last quarter century.

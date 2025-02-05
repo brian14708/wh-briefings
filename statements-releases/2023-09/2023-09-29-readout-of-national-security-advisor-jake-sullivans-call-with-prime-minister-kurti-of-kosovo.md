@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 20:26:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/readout-of-national-security-advisor-jake-sullivans-call-with-prime-minister-kurti-of-kosovo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/readout-of-national-security-advisor-jake-sullivans-call-with-prime-minister-kurti-of-kosovo/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Prime\
   \ Minister Kurti of\_Kosovo"

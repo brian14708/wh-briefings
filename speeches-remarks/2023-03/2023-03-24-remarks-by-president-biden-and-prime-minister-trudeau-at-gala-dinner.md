@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-25 11:54:14-04:00
 published_time: 2023-03-24 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-at-gala-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-at-gala-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Trudeau at Gala\_Dinner"
 ---

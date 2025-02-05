@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-15 21:50:14-04:00
 published_time: 2022-09-16 06:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/statement-by-nec-director-brian-deese-and-national-security-advisor-jake-sullivan-on-digital-assets-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/statement-by-nec-director-brian-deese-and-national-security-advisor-jake-sullivan-on-digital-assets-framework/
 tags: statements-releases
 title: "Statement by NEC Director Brian Deese and National Security Advisor Jake Sullivan\
   \ on Digital Assets\_Framework"
@@ -11,7 +11,7 @@ title: "Statement by NEC Director Brian Deese and National Security Advisor Jake
 At the direction of President Biden and after 180 days of determined
 work across the Biden-Harris administration, we are releasing the
 [first-ever comprehensive federal digital assets
-framework](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/(opens%20in%20a%20new%20tab))–
+framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/(opens%20in%20a%20new%20tab))–
 positioning us to keep playing a leading role in the innovation and
 governance of the digital assets ecosystem at home and abroad and in a
 way that protects consumers, is consistent with our democratic values,

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:03:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-advances-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-advances-equity/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Advances\_Equity"
 ---
@@ -34,7 +34,7 @@ economic opportunity.
     Alaska Native women. The Budget includes $471 million to support
     implementation of the [White House Blueprint for Addressing the
     Maternal Health
-    Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
+    Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
     to reduce maternal mortality and morbidity rates and address
     persistent disparities; expand maternal health initiatives in rural
     communities; implement implicit bias training for healthcare

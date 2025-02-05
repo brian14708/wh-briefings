@@ -2,7 +2,7 @@
 date: '2024-10-28'
 modified_time: 2024-10-28 10:22:24-04:00
 published_time: 2024-10-28 10:22:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-one-month-following-hurricane-helene-biden-harris-administration-spearheads-ongoing-recovery-efforts-and-support-for-survivors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-one-month-following-hurricane-helene-biden-harris-administration-spearheads-ongoing-recovery-efforts-and-support-for-survivors/
 tags: statements-releases
 title: "FACT SHEET: One Month Following Hurricane Helene, Biden-\u2060Harris Administration\
   \ Spearheads Ongoing Recovery Efforts and Support for\_Survivors"

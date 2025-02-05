@@ -2,7 +2,7 @@
 date: '2023-09-17'
 modified_time: 2023-09-18 15:27:47-04:00
 published_time: 2023-09-17 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/17/background-press-call-by-senior-administration-officials-on-the-return-of-american-detainees-from-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/17/background-press-call-by-senior-administration-officials-on-the-return-of-american-detainees-from-iran/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Return of\
   \ American Detainees from\_Iran"

@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-12 22:49:54-04:00
 published_time: 2022-09-12 22:49:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-vice-president-harris-before-a-meeting-with-civil-rights-and-reproductive-rights-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/12/remarks-by-vice-president-harris-before-a-meeting-with-civil-rights-and-reproductive-rights-leaders/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before a Meeting With Civil Rights and Reproductive\
   \ Rights\_Leaders"

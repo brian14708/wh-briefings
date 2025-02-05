@@ -1,7 +1,7 @@
 ---
 date: '2022-10-09'
 published_time: 2022-10-09 10:54:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/09/remarks-by-vice-president-harris-in-a-keynote-address-at-the-2022-texas-democratic-party-johnson-jordan-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/09/remarks-by-vice-president-harris-in-a-keynote-address-at-the-2022-texas-democratic-party-johnson-jordan-reception/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Keynote Address at the 2022 Texas Democratic\
   \ Party Johnson-Jordan\_Reception"

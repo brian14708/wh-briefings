@@ -2,7 +2,7 @@
 date: '2022-06-24'
 modified_time: 2022-06-24 16:25:29-04:00
 published_time: 2022-06-24 16:25:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/06/24/bills-signed-h-r-735-h-r-767-and-h-r-1444/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/06/24/bills-signed-h-r-735-h-r-767-and-h-r-1444/
 tags: legislation
 title: "Bills Signed: H.R. 735, H.R. 767 and \u200BH.R.\_1444"
 ---

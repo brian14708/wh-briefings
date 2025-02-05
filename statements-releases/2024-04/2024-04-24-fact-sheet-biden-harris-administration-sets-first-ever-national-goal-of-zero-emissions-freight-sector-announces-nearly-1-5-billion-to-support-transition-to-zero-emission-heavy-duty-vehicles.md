@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-23 20:10:48-04:00
 published_time: 2024-04-24 08:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-sets-first-ever-national-goal-of-zero-emissions-freight-sector-announces-nearly-1-5-billion-to-support-transition-to-zero-emission-heavy-duty-vehicles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-sets-first-ever-national-goal-of-zero-emissions-freight-sector-announces-nearly-1-5-billion-to-support-transition-to-zero-emission-heavy-duty-vehicles/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Sets First-Ever National Goal\
   \ of Zero-Emissions Freight Sector, Announces Nearly $1.5 Billion to Support Transition\
@@ -189,13 +189,13 @@ and structure to further advance environmental justice, including:
 -   **Commitment to Identifying and Investing in Disadvantaged
     Communities**: Established in his first week in office, the
     President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
     set a goal that 40 percent of the overall benefits of certain
     federal climate, clean energy, clean transit, and other investments
     flow to disadvantaged communities that are marginalized by
     underinvestment and overburdened by pollution. To date, [518
     programs across 19 federal
-    agencies](https://www.whitehouse.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/),
+    agencies](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/),
     including 74 Inflation Reduction Act-funded programs, are being
     reimagined and transformed to  meet the Justice40 goal and ensure
     the benefits reach the communities that need them most, including

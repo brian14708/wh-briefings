@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 published_time: 2024-02-01 14:45:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/01/background-press-call-on-upcoming-measures-to-address-actions-that-undermine-peace-security-and-stability-in-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/01/background-press-call-on-upcoming-measures-to-address-actions-that-undermine-peace-security-and-stability-in-the-west-bank/
 tags: press-briefings
 title: "Background Press Call On Upcoming Measures to Address Actions That Undermine\
   \ Peace, Security, and Stability in the West\_Bank"

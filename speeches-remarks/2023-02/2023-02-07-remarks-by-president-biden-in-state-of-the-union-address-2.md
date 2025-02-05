@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-08 11:20:19-05:00
 published_time: 2023-02-07 23:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-by-president-biden-in-state-of-the-union-address-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/remarks-by-president-biden-in-state-of-the-union-address-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in State of the Union\_Address"
 ---

@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 08:44:32-05:00
 published_time: 2024-02-08 08:44:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/statement-from-secretary-karine-jean-pierre-on-the-visit-of-his-majesty-king-abdullah-ii-of-jordan-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/statement-from-secretary-karine-jean-pierre-on-the-visit-of-his-majesty-king-abdullah-ii-of-jordan-to-the-white-house/
 tags: statements-releases
 title: "Statement from Secretary Karine Jean-Pierre on the Visit of His Majesty King\
   \ Abdullah II of Jordan to the White\_House"

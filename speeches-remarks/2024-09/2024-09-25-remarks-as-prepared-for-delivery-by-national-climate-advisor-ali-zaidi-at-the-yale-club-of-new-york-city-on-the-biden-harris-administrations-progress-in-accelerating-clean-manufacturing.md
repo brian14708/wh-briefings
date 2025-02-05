@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 16:33:04-04:00
 published_time: 2024-09-25 16:33:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/25/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-at-the-yale-club-of-new-york-city-on-the-biden-harris-administrations-progress-in-accelerating-clean-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/25/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-at-the-yale-club-of-new-york-city-on-the-biden-harris-administrations-progress-in-accelerating-clean-manufacturing/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by National Climate Advisor Ali Zaidi at\
   \ the Yale Club of New York City on the Biden-\u2060Harris Administration\u2019\

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-14'
 published_time: 2022-06-14 23:58:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/14/readout-from-vice-president-harriss-meeting-with-constitutional-law-privacy-and-technology-experts-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/14/readout-from-vice-president-harriss-meeting-with-constitutional-law-privacy-and-technology-experts-on-reproductive-rights/
 tags: statements-releases
 title: "Readout from Vice President Harris\u2019s Meeting with\_Constitutional Law,\
   \ Privacy, and Technology Experts on Reproductive\_Rights"

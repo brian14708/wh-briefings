@@ -1,7 +1,7 @@
 ---
 date: '2024-09-23'
 published_time: 2024-09-23 17:57:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/readout-of-vice-president-harriss-meeting-with-his-highness-president-mohamed-bin-zayed-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/readout-of-vice-president-harriss-meeting-with-his-highness-president-mohamed-bin-zayed-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with His Highness President\
   \ Mohamed bin Zayed of the United Arab\_Emirates"

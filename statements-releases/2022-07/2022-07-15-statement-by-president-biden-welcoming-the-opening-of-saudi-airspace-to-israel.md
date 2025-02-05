@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 02:42:12-04:00
 published_time: 2022-07-15 02:42:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/statement-by-president-biden-welcoming-the-opening-of-saudi-airspace-to-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/statement-by-president-biden-welcoming-the-opening-of-saudi-airspace-to-israel/
 tags: statements-releases
 title: "Statement by President\_Biden Welcoming the Opening of Saudi Airspace to\_\
   Israel"

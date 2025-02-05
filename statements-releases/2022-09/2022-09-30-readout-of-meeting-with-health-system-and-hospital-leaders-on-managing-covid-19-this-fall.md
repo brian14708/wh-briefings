@@ -2,7 +2,7 @@
 date: '2022-09-30'
 modified_time: 2022-09-30 09:40:13-04:00
 published_time: 2022-09-30 09:40:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/readout-of-meeting-with-health-system-and-hospital-leaders-on-managing-covid-19-this-fall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/readout-of-meeting-with-health-system-and-hospital-leaders-on-managing-covid-19-this-fall/
 tags: statements-releases
 title: "Readout of Meeting with Health System and Hospital Leaders on Managing COVID-\u2060\
   19 This\_Fall"

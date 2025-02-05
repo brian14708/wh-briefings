@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-11 11:41:48-04:00
 published_time: 2023-09-09 07:10:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-delivering-an-ambitious-agenda-for-the-g20/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-delivering-an-ambitious-agenda-for-the-g20/
 tags: statements-releases
 title: "FACT SHEET: Delivering an Ambitious Agenda for the\_G20"
 ---
@@ -206,7 +206,7 @@ universal health coverage.
     childhood immunization and maternal health care. To help the world
     get back on track, President Biden launched the [Global Health
     Worker
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/) in
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/) in
     2022, recognizing that a health workforce that is supported,
     equipped, and protected is necessary to reclaim lost ground from the
     pandemic and prepare for future health threats. President Biden

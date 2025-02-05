@@ -1,7 +1,7 @@
 ---
 date: '2024-11-15'
 published_time: 2024-11-15 15:40:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/15/memorandum-on-the-delegation-of-authorities-under-sections-507d-and-508a-of-the-ukraine-security-supplemental-appropriations-act-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/15/memorandum-on-the-delegation-of-authorities-under-sections-507d-and-508a-of-the-ukraine-security-supplemental-appropriations-act-2024/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authorities Under Sections 507(d) and 508(a)\
   \ of the Ukraine Security Supplemental Appropriations Act,\_2024"

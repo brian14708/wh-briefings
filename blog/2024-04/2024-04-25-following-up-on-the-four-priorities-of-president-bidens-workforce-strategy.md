@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-25 06:08:52-04:00
 published_time: 2024-04-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/
 tags: blog
 title: "Following Up on the Four Priorities of President\_Biden\u2019s Workforce\_\
   Strategy"
@@ -18,12 +18,12 @@ The President’s Investing in America agenda delivers historic public
 investments to American communities through legislation like the
 American Rescue Plan, Bipartisan Infrastructure Law, the CHIPS and
 Science Act, and the Inflation Reduction Act. These investments are
-[crowding-in](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+[crowding-in](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 private investment into critical industries—to date, private companies
 have announced $825 billion in investments in growing industries like
 semiconductors, clean energy, and electric vehicles—and [creating
 hundreds of thousands of
-jobs.](https://www.whitehouse.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/)
+jobs.](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/)
 
 Creation of high-quality jobs for American workers is central to the
 President’s economic growth agenda. Already, since President Biden took
@@ -38,7 +38,7 @@ successfully create durable, lasting industries through the Investing in
 America agenda.
 
 As described in the Administration’s [Roadmap to Support Good
-Jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/),
+Jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/),
 the Biden-Harris Administration’s workforce strategy has four central
 priorities. First, it is designed to **connect people to good jobs**,
 including through evidence-backed training solutions like registered
@@ -69,7 +69,7 @@ percent—two percentage points below the rate only a year earlier.
 However, the workforce problems did not begin with the 2020 pandemic.
 The United States had seen a multi-decade-long decline in the [labor
 force participation
-rate](https://www.whitehouse.gov/wp-content/uploads/2022/04/Chapter-1.pdf)
+rate](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Chapter-1.pdf)
 for workers between the ages of 25 to 54, falling behind many of its
 peer countries. In manufacturing communities, the
 [offshoring](https://www.nber.org/system/files/working_papers/w21906/w21906.pdf)
@@ -141,7 +141,7 @@ percent greater in “distressed” regions than in “booming” ones.
 The President’s investments to empower and educate workers are already
 paying off. After Georgia received over $37 billion in private
 investments for clean energy technology, the city of Augusta has
-[partnered](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
+[partnered](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
 with five major regional employers to develop their workforce and meet
 this increased demand through an Investing in America Workforce Hub.
 [Terrence
@@ -154,10 +154,10 @@ can deliver good paying jobs and prepare the workforce for the future.
 
 The President’s workforce strategy prioritizes job quality. An extensive
 economic
-[literature](https://www.whitehouse.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/)
+[literature](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/)
 lays out the benefits of improved job quality for workers, households,
 and businesses. By improving [job
-quality](https://www.whitehouse.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/),
+quality](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/),
 employers can more easily attract and retain workers—benefitting their
 bottom line. At the same time, improved job quality enables workers to
 bring home the pay and benefits that provide an opportunity to reach the

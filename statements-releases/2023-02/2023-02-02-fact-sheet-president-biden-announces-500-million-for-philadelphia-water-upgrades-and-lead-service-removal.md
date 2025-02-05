@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-03 11:37:05-05:00
 published_time: 2023-02-02 22:52:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-president-biden-announces-500-million-for-philadelphia-water-upgrades-and-lead-service-removal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-president-biden-announces-500-million-for-philadelphia-water-upgrades-and-lead-service-removal/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden Announces $500 Million for Philadelphia Water\
   \ Upgrades and Lead Service\_Removal"

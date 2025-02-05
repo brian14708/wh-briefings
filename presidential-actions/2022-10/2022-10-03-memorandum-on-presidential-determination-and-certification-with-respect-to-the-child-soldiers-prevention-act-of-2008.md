@@ -1,7 +1,7 @@
 ---
 date: '2022-10-03'
 published_time: 2022-10-03 16:33:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/03/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/03/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination and Certification with Respect to\
   \ the Child Soldiers Prevention Act of\_2008"

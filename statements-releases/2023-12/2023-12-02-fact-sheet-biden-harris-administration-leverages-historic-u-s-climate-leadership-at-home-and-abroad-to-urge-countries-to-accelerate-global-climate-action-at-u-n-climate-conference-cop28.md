@@ -2,7 +2,7 @@
 date: '2023-12-02'
 modified_time: 2023-12-04 16:55:02-05:00
 published_time: 2023-12-02 04:02:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Leverages Historic U.S. Climate\
   \ Leadership at Home and Abroad to Urge Countries to Accelerate Global Climate Action\
@@ -72,7 +72,7 @@ more than the annual emissions of 28 million gasoline cars. This builds
 on more than 100 additional actions that U.S. federal agencies have
 taken this year to dramatically reduce methane emissions under the [U.S.
 Methane Emissions Reduction Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf),
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf),
 including plugging wells and leaks in the oil and gas sector, reclaiming
 abandoned coal mines, reducing food waste and agricultural emissions,
 investing in cleaner buildings and industrial processes, and launching
@@ -139,7 +139,7 @@ bigger, and more effective multilateral development banks (MDBs).
 Crisis** – including galvanizing over $1.4 billion in investments from
 the U.S. government and partners through the [Women in the Sustainable
 Economy (WISE)
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/).  
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/).  
   
 **BOLSTERING GLOBAL CLIMATE RESILIENCE**  
   
@@ -358,7 +358,7 @@ COP28, the United States announced new initiatives to:
     global nuclear energy supply chains.
 
 o **[Launching a U.S. Fusion Energy International Partnership
-Strategy](https://www.whitehouse.gov/ostp/news-updates/2023/12/02/international-partnerships-in-a-new-era-of-fusion-energy-development/).**
+Strategy](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/12/02/international-partnerships-in-a-new-era-of-fusion-energy-development/).**
 This strategy will support the timely development, demonstration, and
 deployment of commercial fusion energy in strategic areas like research
 and development and harmonization of regulatory frameworks.  
@@ -586,7 +586,7 @@ Administration announced:
   
 • **<u>$1.4 Billion in Investments through the [Women in the Sustainable
 Economy (WISE)
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/),
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/),
 Including $449 Million in Additional Aligned U.S. Commitments</u>.**
 WISE, which the Vice President first launched at the APEC Economic
 Leaders’ Summit in November, aims to bolster women’s economic

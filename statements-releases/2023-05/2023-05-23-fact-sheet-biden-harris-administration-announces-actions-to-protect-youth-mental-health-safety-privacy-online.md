@@ -2,7 +2,7 @@
 date: '2023-05-23'
 modified_time: 2023-05-22 21:34:03-04:00
 published_time: 2023-05-23 06:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-announces-actions-to-protect-youth-mental-health-safety-privacy-online/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-announces-actions-to-protect-youth-mental-health-safety-privacy-online/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Actions to Protect\
   \ Youth Mental Health, Safety & Privacy\_Online"
@@ -162,7 +162,7 @@ of Health** are investing further in research to better inform our
 understanding of the harms and identify solutions through the* *Children
 and Media Research Advancement Act. Through the [**White House Task
 Force to Address Online Harassment and
-Abuse**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/),
+Abuse**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/),
 federal agencies are acting to prevent and address image-based sexual
 abuse, cyberstalking, and child sexual exploitation. **The FTC** is
 [considering rulemaking to tackle commercial

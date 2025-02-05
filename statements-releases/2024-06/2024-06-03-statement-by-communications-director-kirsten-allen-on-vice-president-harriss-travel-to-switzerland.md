@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 11:09:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/statement-by-communications-director-kirsten-allen-on-vice-president-harriss-travel-to-switzerland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/statement-by-communications-director-kirsten-allen-on-vice-president-harriss-travel-to-switzerland/
 tags: statements-releases
 title: "Statement by Communications Director Kirsten Allen on Vice President Harris\u2019\
   s Travel to\_Switzerland"

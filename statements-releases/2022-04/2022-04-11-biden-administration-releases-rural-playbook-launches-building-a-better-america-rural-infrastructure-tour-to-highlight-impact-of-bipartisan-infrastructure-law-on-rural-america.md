@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-11 09:59:38-04:00
 published_time: 2022-04-11 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/biden-administration-releases-rural-playbook-launches-building-a-better-america-rural-infrastructure-tour-to-highlight-impact-of-bipartisan-infrastructure-law-on-rural-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/biden-administration-releases-rural-playbook-launches-building-a-better-america-rural-infrastructure-tour-to-highlight-impact-of-bipartisan-infrastructure-law-on-rural-america/
 tags: statements-releases
 title: "Biden Administration Releases Rural Playbook, Launches Building A Better America\
   \ Rural Infrastructure Tour to Highlight Impact of Bipartisan Infrastructure Law\

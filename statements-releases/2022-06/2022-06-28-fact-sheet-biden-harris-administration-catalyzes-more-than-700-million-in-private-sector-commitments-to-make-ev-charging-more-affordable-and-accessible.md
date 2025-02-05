@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 08:00:25-04:00
 published_time: 2022-06-28 08:00:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-catalyzes-more-than-700-million-in-private-sector-commitments-to-make-ev-charging-more-affordable-and-accessible/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-catalyzes-more-than-700-million-in-private-sector-commitments-to-make-ev-charging-more-affordable-and-accessible/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Catalyzes more than $700 Million\
   \ in Private Sector Commitments to Make EV Charging\_More Affordable and\_Accessible"
@@ -24,13 +24,13 @@ across the country.
 President Biden’s vison, leadership and the Bipartisan Infrastructure
 Law have positioned the United States to lead the electric future and
 make it in America. The President
-[united](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+[united](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
 automakers and autoworkers around an ambitious target for 50% of new
 vehicles sold in 2030 to be electric, passed the Bipartisan
 Infrastructure Law to [build a national network of
-chargers](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/)
+chargers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/)
 for a seamless charging experience, and
-[activated](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/)
+[activated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/)
 the federal government’s purchasing power to procure more zero-emission
 vehicles by 2027 and 100% zero-emission vehicles by 2035. The
 President’s actions will make EV charging convenient, reliable, and
@@ -97,7 +97,7 @@ country.
     new Supercharger equipment that will enable non-Tesla EV drivers in
     North America to use Tesla Superchargers.  
 -   **Tritium**, who previously
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-biden-harris-administration-ensuring-future-is-made-in-america/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-biden-harris-administration-ensuring-future-is-made-in-america/)
     a Tennessee EV charger manufacturing facility at a White House event
     with President Biden, is accelerating its production schedule to
     manufacture DC fast chargers in the third quarter of 2022. They also
@@ -108,7 +108,7 @@ country.
 **<u>WORKFORCE DEVELOPMMENT AND EQUITY</u>**
 
 -   **IBEW**, as part of the Administration’s [Talent Pipeline
-    Challenge,](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/)
+    Challenge,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/)
     pledged to train 10,000 of their members through the Electric
     Vehicle Infrastructure Training Program (EVITP) by this August.
     Philanthropies, including the Hewlett Foundation, committed a total

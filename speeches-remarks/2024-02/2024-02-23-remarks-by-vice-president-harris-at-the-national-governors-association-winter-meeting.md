@@ -2,7 +2,7 @@
 date: '2024-02-23'
 modified_time: 2024-02-23 13:56:31-05:00
 published_time: 2024-02-23 13:56:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/23/remarks-by-vice-president-harris-at-the-national-governors-association-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/23/remarks-by-vice-president-harris-at-the-national-governors-association-winter-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the National Governors Association Winter\_\
   Meeting"

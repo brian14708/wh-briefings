@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-03'
 modified_time: 2021-12-02 19:19:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/
 published_time: 2021-12-03 09:00:00-05:00
 title: "FACT SHEET: The National Action Plan to Combat Human Trafficking\_(NAP)"
 ---
@@ -18,7 +18,7 @@ of our economy, and the rule of law.  The Administration is committed to
 keeping the fight to end human trafficking at the forefront of our
 national security agenda by releasing the new [**National Action Plan to
 Combat Human
-Trafficking**](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).   
+Trafficking**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).   
   
 ***What Has Changed  
 ***  

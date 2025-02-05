@@ -1,7 +1,7 @@
 ---
 date: '2023-09-02'
 published_time: 2023-09-02 14:06:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-en-route-gainesville-florida/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-en-route-gainesville-florida/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and FEMA Administrator\
   \ Deanne Criswell En Route Gainesville,\_Florida"

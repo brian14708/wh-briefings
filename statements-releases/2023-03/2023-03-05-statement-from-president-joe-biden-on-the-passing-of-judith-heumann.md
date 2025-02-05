@@ -1,7 +1,7 @@
 ---
 date: '2023-03-05'
 published_time: 2023-03-05 20:16:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/05/statement-from-president-joe-biden-on-the-passing-of-judith-heumann/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/05/statement-from-president-joe-biden-on-the-passing-of-judith-heumann/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Judith\_Heumann"
 ---

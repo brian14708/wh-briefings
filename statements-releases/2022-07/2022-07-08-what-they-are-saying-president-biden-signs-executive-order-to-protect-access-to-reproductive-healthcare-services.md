@@ -1,7 +1,7 @@
 ---
 date: '2022-07-08'
 published_time: 2022-07-08 20:53:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/what-they-are-saying-president-biden-signs-executive-order-to-protect-access-to-reproductive-healthcare-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/what-they-are-saying-president-biden-signs-executive-order-to-protect-access-to-reproductive-healthcare-services/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Signs Executive Order to Protect Access\
   \ to Reproductive Healthcare\_Services"

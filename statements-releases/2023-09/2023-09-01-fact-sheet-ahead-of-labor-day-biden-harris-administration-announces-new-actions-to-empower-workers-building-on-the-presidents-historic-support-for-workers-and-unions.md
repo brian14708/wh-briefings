@@ -2,7 +2,7 @@
 date: '2023-09-01'
 modified_time: 2023-09-08 11:30:08-04:00
 published_time: 2023-09-01 12:51:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-ahead-of-labor-day-biden-harris-administration-announces-new-actions-to-empower-workers-building-on-the-presidents-historic-support-for-workers-and-unions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-ahead-of-labor-day-biden-harris-administration-announces-new-actions-to-empower-workers-building-on-the-presidents-historic-support-for-workers-and-unions/
 tags: statements-releases
 title: "FACT SHEET: Ahead of Labor Day, Biden-\u2060Harris Administration Announces\
   \ New Actions to Empower Workers\u2014 Building on the President\u2019s Historic\
@@ -170,12 +170,12 @@ One of the Biden-Harris Administration, including:
     million](https://www.dol.gov/newsroom/releases/eta/eta20230719) in
     grants to 45 states to expand and diversify Registered
     Apprenticeships in high-demand industries.  The Administration also
-    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/)
     the Apprenticeship Ambassadors Initiative to amplify the Registered
     Apprenticeship model with private- and public-sector employers.  
 -   Launching Investing in America Workforce Hubs.In May, the
     Biden-Harris Administration
-    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
     new initiatives to train and connect more workers to the good-paying
     jobs—including union jobs—created by the President’s Investing in
     America investments. Through the Workforce Hubs Initiative, the
@@ -205,7 +205,7 @@ One of the Biden-Harris Administration, including:
     Registered Apprenticeship programs in the construction industry.  
 -   Expanding access to child care and long-term care. In April,
     President Biden issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
     with more than 50 actions to increase access to high-quality care
     and better support caregivers. The Executive Order directs all
     cabinet-level agencies with federal job-creation funds—including

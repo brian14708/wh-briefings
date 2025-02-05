@@ -1,7 +1,7 @@
 ---
 date: '2023-11-14'
 published_time: 2023-11-14 15:59:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/readout-of-national-security-advisor-sullivans-meeting-with-quad-and-ukrainian-counterparts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/readout-of-national-security-advisor-sullivans-meeting-with-quad-and-ukrainian-counterparts/
 tags: statements-releases
 title: "Readout of National Security Advisor Sullivan\u2019s Meeting with Quad and\
   \ Ukrainian\_Counterparts"

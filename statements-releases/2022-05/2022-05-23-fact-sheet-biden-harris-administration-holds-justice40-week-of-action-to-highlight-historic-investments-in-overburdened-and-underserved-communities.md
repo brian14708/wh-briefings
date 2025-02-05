@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 16:27:52-04:00
 published_time: 2022-05-23 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-biden-harris-administration-holds-justice40-week-of-action-to-highlight-historic-investments-in-overburdened-and-underserved-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-biden-harris-administration-holds-justice40-week-of-action-to-highlight-historic-investments-in-overburdened-and-underserved-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Holds Justice40 Week of Action\
   \ to Highlight Historic Investments in Overburdened and Underserved\_Communities"
@@ -13,7 +13,7 @@ have already incorporated Justice40 considerations*
 
 President Biden’s Executive Order on [Tackling the Climate Crisis at
 Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
 laid the foundation for the most ambitious environmental justice agenda
 ever undertaken by an Administration—committing to center communities
 overburdened by pollution, on the frontlines of climate impacts, and
@@ -27,12 +27,12 @@ to disadvantaged communities. In total, hundreds of federal programs,
 representing billions of dollars in annual investment—including programs
 that were funded or created in the President’s [Bipartisan
 Infrastructure
-Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)—are
+Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)—are
 being  utilized to maximize benefits to disadvantaged communities
 through the Justice40 Initiative.
 
 At the start of 2022, the Biden-Harris Administration marked [a year of
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/)
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/)
 on advancing environmental justice. Today, the Administration is
 launching a Justice40 Week of Action to highlight additional steps that
 are delivering real benefits to communities across the country. The
@@ -57,7 +57,7 @@ Administration is kicking off the week with announcements including:
 
 -   **Progress on Key Recommendations:** The White House Council on
     Environmental Quality (CEQ) released a [report submitted to
-    Congress](https://www.whitehouse.gov/ceq/news-updates/2022/05/23/biden-harris-administration-outlines-historic-progress-on-environmental-justice-in-report-submitted-to-congress-2/),
+    Congress](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/05/23/biden-harris-administration-outlines-historic-progress-on-environmental-justice-in-report-submitted-to-congress-2/),
     outlining steps the Biden-Harris Administration has taken to
     implement recommendations from the first-ever White House
     Environmental Justice Advisory Council (WHEJAC), including regarding
@@ -76,7 +76,7 @@ Administration is kicking off the week with announcements including:
 
 -   **Environmental Justice Website:** The White House launched a new
     website,
-    [WhiteHouse.gov/EnvironmentalJustice](https://www.whitehouse.gov/environmentaljustice)
+    [WhiteHouse.gov/EnvironmentalJustice](https://bidenwhitehouse.archives.gov/environmentaljustice)
     to provide a public platform and centralized location for the
     Administration’s environmental justice priorities, including the
     Justice40 Initiative.
@@ -200,7 +200,7 @@ initial wave of funding includes announcements on:
 
 -   **Building Community Resilience and Advancing Nature-Based
     Solutions.** The Federal Emergency Management Agency (FEMA)
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/)
     $1.2 billion for states, local governments, territories and Tribes,
     under the Building Resilient Infrastructure and Communities (BRIC)
     program and Flood Mitigation Assistance, to help communities build
@@ -278,7 +278,7 @@ state and community level who are using the mandate of the President’s
 Justice40 Initiative to deliver benefits to disadvantaged communities.  
   
 The White House also announced the launch of a new website,
-[WhiteHouse.gov/EnvironmentalJustice](https://www.whitehouse.gov/environmentaljustice),
+[WhiteHouse.gov/EnvironmentalJustice](https://bidenwhitehouse.archives.gov/environmentaljustice),
 which provides a public platform and centralized location for
 information about the Administration’s environmental justice priorities
 and initiatives, such as the Justice40 Initiative and the White House
@@ -296,7 +296,7 @@ released in a beta version in order to receive feedback from the public,
 Tribal Nations, and Federal agencies.  After hearing from environmental
 justice leaders, community-based organizations and allied groups, and
 members of the public from across the country, CEQ
-[extended](https://www.whitehouse.gov/ceq/news-updates/2022/04/21/ceq-extends-public-comment-period-on-beta-version-of-the-climate-and-economic-justice-screening-tool/)
+[extended](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/21/ceq-extends-public-comment-period-on-beta-version-of-the-climate-and-economic-justice-screening-tool/)
 the public comment period until May 25, 2022. An updated version of the
 screening tool, along with an updated technical support document, will
 be released after the feedback from the public comment period, Tribal

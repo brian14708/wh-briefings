@@ -2,7 +2,7 @@
 date: '2022-03-29'
 modified_time: 2022-03-29 09:53:48-04:00
 published_time: 2022-03-29 09:52:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-joseph-r-biden-jr-amends-alaska-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/29/president-joseph-r-biden-jr-amends-alaska-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends Alaska Disaster\_Declaration"
 ---

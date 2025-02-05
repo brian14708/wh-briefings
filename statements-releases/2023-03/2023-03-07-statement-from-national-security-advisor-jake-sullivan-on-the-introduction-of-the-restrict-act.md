@@ -1,7 +1,7 @@
 ---
 date: '2023-03-07'
 published_time: 2023-03-07 15:16:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/statement-from-national-security-advisor-jake-sullivan-on-the-introduction-of-the-restrict-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/statement-from-national-security-advisor-jake-sullivan-on-the-introduction-of-the-restrict-act/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Introduction\
   \ of the RESTRICT\_Act"

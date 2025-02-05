@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 07:22:58-04:00
 published_time: 2022-05-06 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/fact-sheet-biden-administration-celebrates-launch-of-am-forward-and-calls-on-congress-to-pass-bipartisan-innovation-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/06/fact-sheet-biden-administration-celebrates-launch-of-am-forward-and-calls-on-congress-to-pass-bipartisan-innovation-act/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Celebrates Launch of AM Forward and Calls\
   \ on Congress to Pass Bipartisan Innovation\_Act"

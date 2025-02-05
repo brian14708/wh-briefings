@@ -1,7 +1,7 @@
 ---
 date: '2024-01-30'
 published_time: 2024-01-30 16:41:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/30/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-john-kirby-en-route-west-palm-beach-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/30/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-john-kirby-en-route-west-palm-beach-fl/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and NSC Coordinator\
   \ John Kirby En Route West Palm Beach,\_FL"

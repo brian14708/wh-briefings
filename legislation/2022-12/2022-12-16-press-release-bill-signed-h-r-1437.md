@@ -1,7 +1,7 @@
 ---
 date: '2022-12-16'
 published_time: 2022-12-16 14:52:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/16/press-release-bill-signed-h-r-1437/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/16/press-release-bill-signed-h-r-1437/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_1437"
 ---

@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-10-31 14:49:06-04:00
 published_time: 2024-11-01 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/01/2025-2026-white-house-fellowship/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/01/2025-2026-white-house-fellowship/
 tags: statements-releases
 title: "2025-2026 White\_House\_Fellowship"
 ---
@@ -56,7 +56,7 @@ after the deadline will not be accepted.
 
 For more information, including details about the Fellowship, its
 history, and the selection process, please
-visit: [https://www.whitehouse.gov/get](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[–](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[involved/fellows/](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83).
+visit: [https://bidenwhitehouse.archives.gov/get](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[–](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83)[involved/fellows/](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=f833c8c519&e=dc8fc53d83).
 Any questions regarding the White House Fellows Program can be directed
 to
 [whitehousefellows@who.eop.gov.](mailto:whitehousefellows@who.eop.gov)

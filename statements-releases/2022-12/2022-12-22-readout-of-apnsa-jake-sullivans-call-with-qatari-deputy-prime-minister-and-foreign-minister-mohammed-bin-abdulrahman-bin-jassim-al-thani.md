@@ -1,7 +1,7 @@
 ---
 date: '2022-12-22'
 published_time: 2022-12-22 18:10:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/22/readout-of-apnsa-jake-sullivans-call-with-qatari-deputy-prime-minister-and-foreign-minister-mohammed-bin-abdulrahman-bin-jassim-al-thani/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/22/readout-of-apnsa-jake-sullivans-call-with-qatari-deputy-prime-minister-and-foreign-minister-mohammed-bin-abdulrahman-bin-jassim-al-thani/
 tags: statements-releases
 title: "Readout of APNSA Jake Sullivan\u2019s Call with Qatari Deputy Prime Minister\
   \ and Foreign Minister Mohammed bin Abdulrahman bin Jassim Al\_Thani"

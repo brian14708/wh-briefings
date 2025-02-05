@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-08 09:00:21-05:00
 published_time: 2024-03-08 06:44:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/joint-statement-from-the-european-commission-the-republic-of-cyprus-the-united-arab-emirates-the-united-kingdom-and-the-united-states-endorsing-the-activation-of-a-maritime-corridor-to-deliver-hum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/joint-statement-from-the-european-commission-the-republic-of-cyprus-the-united-arab-emirates-the-united-kingdom-and-the-united-states-endorsing-the-activation-of-a-maritime-corridor-to-deliver-hum/
 tags: statements-releases
 title: "Joint Statement from the European Commission, the Republic of Cyprus, the\
   \ United Arab Emirates, the United Kingdom, and the United\_States Endorsing the\

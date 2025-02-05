@@ -2,7 +2,7 @@
 date: '2023-03-09'
 modified_time: 2023-03-09 15:45:46-05:00
 published_time: 2023-03-09 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-canada/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Travel to\_Canada"

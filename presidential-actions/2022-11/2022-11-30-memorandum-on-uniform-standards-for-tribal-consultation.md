@@ -2,7 +2,7 @@
 date: '2022-11-30'
 modified_time: 2022-11-30 10:00:26-05:00
 published_time: 2022-11-30 10:00:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/
 tags: presidential-actions
 title: "Memorandum on Uniform Standards for Tribal\_Consultation"
 ---

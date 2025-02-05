@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 16:12:00-04:00
 published_time: 2022-06-07 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-advances-democratic-renewal-agenda-at-the-ninth-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-advances-democratic-renewal-agenda-at-the-ninth-summit-of-the-americas/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Democratic Renewal\
   \ Agenda at the Ninth Summit of the\_Americas"
@@ -24,7 +24,7 @@ transparent and equitable.
 -   **Implementing the Inter-American Action Plan on Democratic
     Governance**: The Administration announced the “[Presidential
     Initiative for Democratic
-    Renewal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)”
+    Renewal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)”
     at the December 2021 Summit of Democracy, and the Department of
     State and USAID have dedicated over $477 million to support
     democracy, human rights, fighting corruption, and the rule of law in
@@ -80,7 +80,7 @@ transparent and equitable.
     strengthening our democracies, Canada and Chile will join the United
     States as members of the [Global Partnership for Action on
     Gender-Based Online Harassment and
-    Abuse](https://www.whitehouse.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/).
+    Abuse](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/).
     First announced at the U.S. Summit for Democracy, the Global
     Partnership brings together a core set of partner countries to
     jointly commit to a Year of Action—in consultation with government

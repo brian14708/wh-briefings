@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 12:56:47-04:00
 published_time: 2022-09-08 12:56:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-the-presidents-call-with-allies-and-partners-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-the-presidents-call-with-allies-and-partners-2/
 tags: statements-releases
 title: "Readout of the President\u2019s Call with Allies and\_Partners"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-13'
 published_time: 2023-06-13 09:36:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/13/statement-from-president-joe-biden-on-may-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/13/statement-from-president-joe-biden-on-may-consumer-price-index/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on May Consumer Price\_Index"
 ---

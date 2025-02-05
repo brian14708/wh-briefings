@@ -2,7 +2,7 @@
 date: '2022-09-29'
 modified_time: 2022-09-29 10:57:16-04:00
 published_time: 2022-09-29 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-president-biden-at-a-democratic-governors-association-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-president-biden-at-a-democratic-governors-association-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic Governors Association\_Reception"
 ---

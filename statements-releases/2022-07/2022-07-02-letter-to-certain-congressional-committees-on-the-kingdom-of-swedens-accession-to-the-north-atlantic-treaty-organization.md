@@ -2,7 +2,7 @@
 date: '2022-07-02'
 modified_time: 2022-07-02 13:15:50-04:00
 published_time: 2022-07-02 13:05:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/02/letter-to-certain-congressional-committees-on-the-kingdom-of-swedens-accession-to-the-north-atlantic-treaty-organization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/02/letter-to-certain-congressional-committees-on-the-kingdom-of-swedens-accession-to-the-north-atlantic-treaty-organization/
 tags: statements-releases
 title: "Letter to Certain Congressional Committees on the Kingdom of Sweden\u2019\
   s Accession to the North Atlantic Treaty\_Organization"

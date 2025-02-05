@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-10-31 19:07:13-04:00
 published_time: 2023-10-31 19:07:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-announces-over-5-billion-to-support-rural-communities-during-investing-in-rural-america-event-series/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-announces-over-5-billion-to-support-rural-communities-during-investing-in-rural-america-event-series/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Over $5 Billion to Support Rural Communities\
   \ During Investing in Rural America Event\_Series"
@@ -133,6 +133,6 @@ Commodity Credit Corporation.
 
 To learn more about the Biden-Harris Administration’s historic
 investments in rural America, visit
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/).
 
 \###

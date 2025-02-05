@@ -1,7 +1,7 @@
 ---
 date: '2022-09-07'
 published_time: 2022-09-07 17:14:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/07/statement-from-press-secretary-kirsten-allen-on-vice-president-harriss-travel-to-japan-and-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/07/statement-from-press-secretary-kirsten-allen-on-vice-president-harriss-travel-to-japan-and-republic-of-korea/
 tags: statements-releases
 title: "Statement from Press Secretary Kirsten Allen on Vice President Harris\u2019\
   s Travel to Japan and Republic of\_Korea"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 09:21:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/13/remarks-by-president-biden-and-president-sauli-niinisto-of-the-republic-of-finland-before-bilateral-meeting-helsinki-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/13/remarks-by-president-biden-and-president-sauli-niinisto-of-the-republic-of-finland-before-bilateral-meeting-helsinki-finland/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Sauli Niinist\xF6 of the Republic\
   \ of Finland Before Bilateral Meeting | Helsinki,\_Finland"

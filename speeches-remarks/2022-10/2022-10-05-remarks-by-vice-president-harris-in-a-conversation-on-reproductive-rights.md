@@ -1,7 +1,7 @@
 ---
 date: '2022-10-05'
 published_time: 2022-10-05 15:35:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/05/remarks-by-vice-president-harris-in-a-conversation-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/05/remarks-by-vice-president-harris-in-a-conversation-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Conversation on Reproductive\_Rights"
 ---

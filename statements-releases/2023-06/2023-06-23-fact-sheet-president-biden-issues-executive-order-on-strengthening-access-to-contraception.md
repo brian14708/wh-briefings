@@ -2,7 +2,7 @@
 date: '2023-06-23'
 modified_time: 2023-06-22 21:54:24-04:00
 published_time: 2023-06-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Executive Order on Strengthening Access\
   \ to\_Contraception"

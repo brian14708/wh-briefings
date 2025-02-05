@@ -2,7 +2,7 @@
 date: '2023-10-02'
 modified_time: 2023-10-02 16:57:18-04:00
 published_time: 2023-10-02 16:57:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/02/press-briefing-by-press-secretary-karine-jean-pierre-48/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/10/02/press-briefing-by-press-secretary-karine-jean-pierre-48/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

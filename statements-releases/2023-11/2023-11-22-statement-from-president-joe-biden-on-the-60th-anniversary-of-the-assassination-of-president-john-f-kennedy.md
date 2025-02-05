@@ -2,7 +2,7 @@
 date: '2023-11-22'
 modified_time: 2023-11-21 13:47:16-05:00
 published_time: 2023-11-22 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/22/statement-from-president-joe-biden-on-the-60th-anniversary-of-the-assassination-of-president-john-f-kennedy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/22/statement-from-president-joe-biden-on-the-60th-anniversary-of-the-assassination-of-president-john-f-kennedy/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 60th Anniversary of the Assassination\
   \ of President John F.\_Kennedy"

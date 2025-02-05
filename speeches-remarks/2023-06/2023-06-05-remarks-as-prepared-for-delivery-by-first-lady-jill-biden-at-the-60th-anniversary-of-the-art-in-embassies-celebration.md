@@ -1,7 +1,7 @@
 ---
 date: '2023-06-05'
 published_time: 2023-06-05 12:12:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-60th-anniversary-of-the-art-in-embassies-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-60th-anniversary-of-the-art-in-embassies-celebration/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 60th Anniversary\
   \ of the Art in Embassies\_Celebration"

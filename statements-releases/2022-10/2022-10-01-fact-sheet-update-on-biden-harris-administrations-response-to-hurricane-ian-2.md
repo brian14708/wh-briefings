@@ -1,7 +1,7 @@
 ---
 date: '2022-10-01'
 published_time: 2022-10-01 16:12:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/01/fact-sheet-update-on-biden-harris-administrations-response-to-hurricane-ian-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/01/fact-sheet-update-on-biden-harris-administrations-response-to-hurricane-ian-2/
 tags: statements-releases
 title: "FACT SHEET: Update on Biden-\u2060Harris Administration\u2019s Response to\
   \ Hurricane\_Ian"

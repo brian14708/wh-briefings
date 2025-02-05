@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 12:01:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-a-press-call-announcing-white-house-initiative-on-womens-health-research/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-a-press-call-announcing-white-house-initiative-on-womens-health-research/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden on a Press Call\
   \ Announcing White\_House Initiative on Women\u2019s Health\_Research"

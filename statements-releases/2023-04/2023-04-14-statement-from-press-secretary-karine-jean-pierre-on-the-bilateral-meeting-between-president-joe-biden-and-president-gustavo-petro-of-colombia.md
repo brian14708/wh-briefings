@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 16:17:15-04:00
 published_time: 2023-04-14 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-gustavo-petro-of-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-gustavo-petro-of-colombia/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Bilateral Meeting\
   \ Between President Joe\_Biden and President Gustavo Petro of\_Colombia"

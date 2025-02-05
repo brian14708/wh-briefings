@@ -2,7 +2,7 @@
 date: '2023-09-22'
 modified_time: 2023-09-22 18:59:59-04:00
 published_time: 2023-09-22 18:59:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/22/remarks-by-president-biden-at-the-congressional-hispanic-caucus-institute-46th-annual-gala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/22/remarks-by-president-biden-at-the-congressional-hispanic-caucus-institute-46th-annual-gala/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Congressional Hispanic Caucus Institute\
   \ 46th Annual\_Gala"

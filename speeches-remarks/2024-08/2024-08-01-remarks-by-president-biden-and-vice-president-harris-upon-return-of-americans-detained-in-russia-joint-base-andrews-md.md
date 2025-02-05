@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-02 11:09:21-04:00
 published_time: 2024-08-01 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-president-biden-and-vice-president-harris-upon-return-of-americans-detained-in-russia-joint-base-andrews-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-president-biden-and-vice-president-harris-upon-return-of-americans-detained-in-russia-joint-base-andrews-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Upon Return of Americans\
   \ Detained in Russia | Joint Base Andrews,\_MD"

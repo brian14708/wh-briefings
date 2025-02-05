@@ -2,7 +2,7 @@
 date: '2022-12-22'
 modified_time: 2022-12-22 12:32:09-05:00
 published_time: 2022-12-22 12:46:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/22/remarks-by-president-biden-in-briefing-on-severe-winter-weather/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/22/remarks-by-president-biden-in-briefing-on-severe-winter-weather/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Briefing on Severe Winter\_Weather"
 ---

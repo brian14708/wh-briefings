@@ -2,7 +2,7 @@
 date: '2023-02-28'
 modified_time: 2023-02-28 09:05:20-05:00
 published_time: 2023-02-28 09:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/statement-by-national-security-advisor-jake-sullivan-on-the-biden-harris-administrations-support-for-the-reauthorization-of-vital-intelligence-collection-authorities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/28/statement-by-national-security-advisor-jake-sullivan-on-the-biden-harris-administrations-support-for-the-reauthorization-of-vital-intelligence-collection-authorities/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on the Biden-\u2060Harris\
   \ Administration\u2019s Support for the Reauthorization of Vital Intelligence Collection\_\

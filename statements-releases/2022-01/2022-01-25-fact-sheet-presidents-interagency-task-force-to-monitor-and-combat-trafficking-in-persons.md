@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 16:05:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons/
 published_time: 2022-01-25 16:05:27-05:00
 title: "FACT SHEET: President\u2019s Interagency Task Force to Monitor and Combat\
   \ Trafficking in\_Persons"
@@ -26,7 +26,7 @@ Trafficking Victims Protection Act (TVPA) of 2000, the PITF has primary
 responsibility for coordinating efforts across 20 Federal agencies to
 combat trafficking in persons, and implementing the recently
 released [National Action Plan to Combat Human
-Trafficking](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).
+Trafficking](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).
 PITF members were also joined by the U.S. Advisory Council on Human
 Trafficking, which provides advice and recommendations on Federal
 anti-trafficking policies.     
@@ -234,7 +234,7 @@ accomplishments from 2021 and plans for 2022.  **Additional
 references**:
 
 -   [FACT
-    Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/) on
+    Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/) on
     the National Action Plan to Combat Human Trafficking
 -   [U.S. Advisory Council on Human Trafficking Annual Report
     2021](https://www.state.gov/united-states-advisory-council-on-human-trafficking-annual-report-2021/)
@@ -261,7 +261,7 @@ references**:
     Labor](https://www.g7uk.org/g7-trade-ministers-statement-on-forced-labour/) (Released
     October 22, 2021)
 -   North American Leaders’ Summit – [Key
-    Deliverables](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-key-deliverables-for-the-2021-north-american-leaders-summit/)
+    Deliverables](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-key-deliverables-for-the-2021-north-american-leaders-summit/)
 -   [Blue Lightning
     Initiative](https://www.dhs.gov/blue-campaign/blue-lightning-initiative#:~:text=The%20Blue%20Lightning%20Initiative%20is%20an%20element%20of,to%20report%20their%20suspicions%20to%20federal%20law%20enforcement.) Training
     for Aviation Personnel and the [Transportation Leaders Against Human
@@ -270,7 +270,7 @@ references**:
     Smuggling and Trafficking in Central America (June 7,
     2021)](https://www.justice.gov/opa/pr/attorney-general-announces-initiatives-combat-human-smuggling-and-trafficking-and-fight)
 -   [FACT
-    Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/):
+    Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/):
     Summit for Democracy
 
 \###

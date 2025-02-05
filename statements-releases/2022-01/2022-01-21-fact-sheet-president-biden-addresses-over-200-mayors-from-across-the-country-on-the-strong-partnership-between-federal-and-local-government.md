@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 20:57:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-president-biden-addresses-over-200-mayors-from-across-the-country-on-the-strong-partnership-between-federal-and-local-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-president-biden-addresses-over-200-mayors-from-across-the-country-on-the-strong-partnership-between-federal-and-local-government/
 published_time: 2022-01-21 20:57:16-05:00
 title: "FACT SHEET: President\_Biden Addresses Over 200 Mayors from Across the Country\
   \ on the Strong Partnership between Federal and Local\_Government"
@@ -300,7 +300,7 @@ solutions across other sectors—for example:
 During the President’s first year in office, the Biden-Harris
 Administration has partnered with mayors across the country on actions
 to [reduce gun
-violence](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/fact-sheet-highlights-from-the-biden-administrations-historic-efforts-to-reduce-gun-violence/)
+violence](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/14/fact-sheet-highlights-from-the-biden-administrations-historic-efforts-to-reduce-gun-violence/)
 and has provided historic levels of funding for community-oriented
 policing and expanding community violence interventions (CVI) –
 neighborhood-based programs proven to combat gun violence. The

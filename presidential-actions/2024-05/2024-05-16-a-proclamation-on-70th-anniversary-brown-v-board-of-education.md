@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 10:25:32-04:00
 published_time: 2024-05-16 10:25:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/16/a-proclamation-on-70th-anniversary-brown-v-board-of-education/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/16/a-proclamation-on-70th-anniversary-brown-v-board-of-education/
 tags: presidential-actions
 title: "A Proclamation on 70th Anniversary Brown V. Board of\_Education"
 ---

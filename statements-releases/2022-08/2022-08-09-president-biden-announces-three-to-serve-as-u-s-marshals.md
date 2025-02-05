@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 16:39:20-04:00
 published_time: 2022-08-09 15:05:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/president-biden-announces-three-to-serve-as-u-s-marshals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/president-biden-announces-three-to-serve-as-u-s-marshals/
 tags: statements-releases
 title: "President\_Biden Announces Three to Serve as\_U.S.\_Marshals"
 ---

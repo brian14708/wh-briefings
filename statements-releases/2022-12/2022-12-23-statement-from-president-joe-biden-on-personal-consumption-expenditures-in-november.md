@@ -1,7 +1,7 @@
 ---
 date: '2022-12-23'
 published_time: 2022-12-23 10:08:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/23/statement-from-president-joe-biden-on-personal-consumption-expenditures-in-november/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/23/statement-from-president-joe-biden-on-personal-consumption-expenditures-in-november/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Personal Consumption Expenditures in\_\
   November"

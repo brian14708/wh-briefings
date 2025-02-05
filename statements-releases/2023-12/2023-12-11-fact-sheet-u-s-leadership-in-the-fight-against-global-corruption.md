@@ -1,7 +1,7 @@
 ---
 date: '2023-12-11'
 published_time: 2023-12-11 11:50:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-u-s-leadership-in-the-fight-against-global-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-u-s-leadership-in-the-fight-against-global-corruption/
 tags: statements-releases
 title: "FACT SHEET: U.S. Leadership in the Fight Against Global\_Corruption"
 ---
@@ -12,10 +12,10 @@ officials steal from their citizens or oligarchs flout the rule of law,
 honest businesses cannot compete, poverty grows, conflict deepens, and
 trust in government plummets. In recognition of this grave threat,
 President Biden
-[established](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-establishing-the-fight-against-corruption-as-a-core-u-s-national-security-interest/)
+[established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/03/fact-sheet-establishing-the-fight-against-corruption-as-a-core-u-s-national-security-interest/)
 countering corruption as a core U.S. national security interest and
 issued the first [United States Strategy on Countering
-Corruption](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).  
+Corruption](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).  
   
 Today, we recognize International Anti-Corruption Day and mark two years
 since the release of the Strategy, the United States is proud to host
@@ -36,10 +36,10 @@ COSP; her keynote address is available
 Following up on the commitment National Security Advisor Jake Sullivan
 made to “significant, genuine, real, tangible, recognizable progress on
 this massive problem” at the [International Anti-Corruption
-Conference](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-national-security-advisor-jake-sullivan-at-the-international-anti-corruption-conference-iacc/)
+Conference](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-national-security-advisor-jake-sullivan-at-the-international-anti-corruption-conference-iacc/)
 last year, Ambassador Thomas-Greenfield announced this morning that the
 President has signed a [Presidential
-Proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/)
+Proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/)
 restricting the entry into the United States for those who enable
 corruption. Corrupt actors and their financial facilitators undermine
 the U.S. and international financial systems – and will be held to
@@ -116,7 +116,7 @@ Fight Corruption**
 -   Today, President Biden issued a [**Presidential Proclamation on the
     Suspension of Entry as Immigrants and Nonimmigrants of Persons
     Enabling
-    Corruption**](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/).
+    Corruption**](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/).
     Through this Proclamation, the United States is the first country to
     establish a visa restriction authority for those who facilitate and
     enable significant corruption and their immediate family members.

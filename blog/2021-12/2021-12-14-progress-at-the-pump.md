@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-12-14'
 modified_time: 2022-02-23 17:11:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/12/14/progress-at-the-pump/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/12/14/progress-at-the-pump/
 published_time: 2021-12-14 16:08:15-05:00
 title: "Progress at the\_Pump"
 ---
@@ -34,10 +34,10 @@ that keeps prices elevated.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?w=640"
 class="wp-image-41917" loading="lazy"
 sizes="(max-width: 1430px) 100vw, 1430px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg 1430w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=615,346 615w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1270,714 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1138,640 1138w, https://www.whitehouse.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1038,584 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg 1430w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=615,346 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=768,432 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1270,714 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1200,675 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1138,640 1138w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/price-per-gallon-.jpg?resize=1038,584 1038w"
 width="1430" height="804" />
 </figure>
 
@@ -49,10 +49,10 @@ emerging from a once-in-a-century pandemic.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?w=640"
 class="wp-image-41919" loading="lazy"
 sizes="(max-width: 1430px) 100vw, 1430px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg 1430w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=615,346 615w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1270,714 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1138,640 1138w, https://www.whitehouse.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1038,584 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg 1430w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=615,346 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=768,432 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1270,714 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1200,675 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1138,640 1138w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/prices-preceding-decade.jpg?resize=1038,584 1038w"
 width="1430" height="804" />
 </figure>
 
@@ -68,9 +68,9 @@ with only 12 states below that threshold a month ago.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?w=640"
 class="wp-image-41921" loading="lazy"
 sizes="(max-width: 1430px) 100vw, 1430px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg 1430w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=615,346 615w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1270,714 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1138,640 1138w, https://www.whitehouse.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1038,584 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg 1430w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=615,346 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=768,432 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1270,714 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1200,675 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1138,640 1138w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gas-less-than-ave.jpg?resize=1038,584 1038w"
 width="1430" height="804" />
 </figure>

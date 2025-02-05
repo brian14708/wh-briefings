@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-08-05'
 modified_time: 2021-08-05 21:06:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/05/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-48/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/08/05/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-48/
 published_time: 2021-08-05 21:30:00-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -519,4 +519,4 @@ next week.  Thank you.
 11:40 A.M. EDT
 
 To view the COVID Press Briefing slides, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2021/08/COVID-Press-Briefing_5August2021_for-transcript-1.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/08/COVID-Press-Briefing_5August2021_for-transcript-1.pdf>

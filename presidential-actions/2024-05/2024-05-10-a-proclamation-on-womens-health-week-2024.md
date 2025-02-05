@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 12:21:36-04:00
 published_time: 2024-05-10 12:21:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-womens-health-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-womens-health-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Women\u2019s Health Week,\_2024"
 ---

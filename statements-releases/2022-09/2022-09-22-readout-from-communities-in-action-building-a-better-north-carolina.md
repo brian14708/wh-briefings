@@ -1,7 +1,7 @@
 ---
 date: '2022-09-22'
 published_time: 2022-09-22 21:06:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/22/readout-from-communities-in-action-building-a-better-north-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/22/readout-from-communities-in-action-building-a-better-north-carolina/
 tags: statements-releases
 title: "Readout from Communities in Action: Building A Better North\_Carolina"
 ---

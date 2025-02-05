@@ -2,7 +2,7 @@
 date: '2022-04-14'
 modified_time: 2022-04-14 14:21:27-04:00
 published_time: 2022-04-14 14:21:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/14/remarks-by-president-biden-before-air-force-one-departure-14/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/14/remarks-by-president-biden-before-air-force-one-departure-14/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

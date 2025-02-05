@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-03 22:41:32-04:00
 published_time: 2022-05-04 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/fact-sheet-president-biden-announces-two-presidential-directives-advancing-quantum-technologies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/fact-sheet-president-biden-announces-two-presidential-directives-advancing-quantum-technologies/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Two Presidential Directives Advancing\
   \ Quantum\_Technologies"

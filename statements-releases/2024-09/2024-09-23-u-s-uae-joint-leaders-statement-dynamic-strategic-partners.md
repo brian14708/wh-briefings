@@ -1,7 +1,7 @@
 ---
 date: '2024-09-23'
 published_time: 2024-09-23 15:57:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/u-s-uae-joint-leaders-statement-dynamic-strategic-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/u-s-uae-joint-leaders-statement-dynamic-strategic-partners/
 tags: statements-releases
 title: "U.S.-UAE Joint Leaders\u2019 Statement Dynamic Strategic\_Partners"
 ---

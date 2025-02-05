@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 10:07:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/03/statement-from-president-joe-biden-on-the-october-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/03/statement-from-president-joe-biden-on-the-october-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the October Jobs\_Report"
 ---

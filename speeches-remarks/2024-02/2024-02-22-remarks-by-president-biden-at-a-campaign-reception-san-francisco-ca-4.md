@@ -1,7 +1,7 @@
 ---
 date: '2024-02-22'
 published_time: 2024-02-22 12:48:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca-4/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | San Francisco,\_CA"
 ---

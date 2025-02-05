@@ -1,7 +1,7 @@
 ---
 date: '2022-06-02'
 published_time: 2022-06-02 12:47:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/readout-of-meeting-with-religious-denominational-leaders-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/readout-of-meeting-with-religious-denominational-leaders-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Meeting with Religious Denominational Leaders on Reproductive\_\
   Rights"

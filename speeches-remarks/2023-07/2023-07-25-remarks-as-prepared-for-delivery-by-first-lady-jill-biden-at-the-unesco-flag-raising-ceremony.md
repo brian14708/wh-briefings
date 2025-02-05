@@ -2,7 +2,7 @@
 date: '2023-07-25'
 modified_time: 2023-07-31 10:52:52-04:00
 published_time: 2023-07-25 10:43:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unesco-flag-raising-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unesco-flag-raising-ceremony/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the UNESCO Flag-Raising\_\
   Ceremony"

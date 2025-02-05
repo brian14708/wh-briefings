@@ -2,7 +2,7 @@
 date: '2022-09-24'
 modified_time: 2022-09-24 09:39:57-04:00
 published_time: 2022-09-24 09:39:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/24/statement-from-press-secretary-karine-jean-pierre-on-arizonas-court-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/24/statement-from-press-secretary-karine-jean-pierre-on-arizonas-court-decision/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on\_Arizona\u2019s Court\_\
   Decision"

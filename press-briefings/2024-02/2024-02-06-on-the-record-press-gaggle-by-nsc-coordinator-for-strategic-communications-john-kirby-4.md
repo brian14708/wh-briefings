@@ -1,7 +1,7 @@
 ---
 date: '2024-02-06'
 published_time: 2024-02-06 16:00:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/06/on-the-record-press-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/06/on-the-record-press-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-4/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by NSC Coordinator for Strategic Communications\
   \ John\_Kirby"

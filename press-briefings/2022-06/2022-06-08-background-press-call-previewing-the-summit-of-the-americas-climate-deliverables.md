@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-09 14:36:13-04:00
 published_time: 2022-06-08 19:35:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/08/background-press-call-previewing-the-summit-of-the-americas-climate-deliverables/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/08/background-press-call-previewing-the-summit-of-the-americas-climate-deliverables/
 tags: press-briefings
 title: "Background Press Call Previewing the Summit of the Americas Climate\_Deliverables"
 ---

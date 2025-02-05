@@ -2,7 +2,7 @@
 date: '2024-02-16'
 modified_time: 2024-02-16 10:55:50-05:00
 published_time: 2024-02-16 10:55:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/16/vice-president-harris-rejects-isolationism-authoritarianism-and-recent-attacks-on-nato-while-making-forceful-case-for-americas-continued-global-leadership-during-munich-security-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/16/vice-president-harris-rejects-isolationism-authoritarianism-and-recent-attacks-on-nato-while-making-forceful-case-for-americas-continued-global-leadership-during-munich-security-conference/
 tags: statements-releases
 title: "Vice President Harris Rejects Isolationism, Authoritarianism, and Recent Attacks\
   \ on NATO While Making Forceful Case for America\u2019s Continued Global Leadership\
@@ -18,7 +18,7 @@ foreign trip and third time at the Munich Security Conference*
 **MUNICH –** Today, Vice President Kamala Harris
 [made](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=67a8dc8f67&e=6f914ef5a5)
 a forceful
-[case](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-vice-president-harris-at-the-munich-security-conference-munich-germany/)
+[case](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-vice-president-harris-at-the-munich-security-conference-munich-germany/)
 for America’s continued global leadership and the Biden-Harris
 Administration’s worldview while strongly rejecting the failed
 ideologies of isolationism, authoritarianism, and unilateralism. During

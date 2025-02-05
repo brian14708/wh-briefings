@@ -1,7 +1,7 @@
 ---
 date: '2024-02-13'
 published_time: 2024-02-13 10:20:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-the-january-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-the-january-consumer-price-index/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the January Consumer Price\_Index"
 ---

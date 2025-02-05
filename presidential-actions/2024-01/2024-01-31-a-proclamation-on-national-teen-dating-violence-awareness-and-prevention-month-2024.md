@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 14:35:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Teen Dating Violence Awareness and Prevention Month,\_\
   2024"

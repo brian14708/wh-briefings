@@ -2,7 +2,7 @@
 date: '2024-06-07'
 modified_time: 2024-06-07 10:00:28-04:00
 published_time: 2024-06-07 09:57:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/07/excerpts-from-president-joe-biden-speech-on-80thanniversary-of-d-day-at-pointe-du-hoc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/07/excerpts-from-president-joe-biden-speech-on-80thanniversary-of-d-day-at-pointe-du-hoc/
 tags: speeches-remarks
 title: "Excerpts from President Joe\_Biden Speech on 80th Anniversary of D-Day at\
   \ Pointe du\_Hoc"

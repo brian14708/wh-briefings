@@ -1,7 +1,7 @@
 ---
 date: '2024-03-26'
 published_time: 2024-03-26 15:51:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/26/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-raleigh-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/26/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-raleigh-nc/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Raleigh,\_NC"
 ---

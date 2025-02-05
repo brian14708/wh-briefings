@@ -1,7 +1,7 @@
 ---
 date: '2022-06-08'
 published_time: 2022-06-08 15:09:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/08/memorandum-on-delegation-of-authority-under-the-european-energy-security-and-diversification-act-of-2019/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/08/memorandum-on-delegation-of-authority-under-the-european-energy-security-and-diversification-act-of-2019/
 tags: presidential-actions
 title: "Memorandum on  Delegation of Authority Under the European Energy Security\
   \ and Diversification Act of\_2019"

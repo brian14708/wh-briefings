@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 06:19:03-05:00
 published_time: 2022-11-15 06:19:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/united-states-indonesia-eu-joint-statement-on-partnership-for-global-infrastructure-and-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/united-states-indonesia-eu-joint-statement-on-partnership-for-global-infrastructure-and-investment/
 tags: statements-releases
 title: "United\_States-Indonesia-EU Joint Statement on Partnership for Global Infrastructure\
   \ and\_Investment"
@@ -42,7 +42,7 @@ transportation.
   
 During the event, we also launched the [ground-breaking new Just Energy
 Transition Partnership
-(JETP)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/indonesia-and-international-partners-secure-groundbreaking-climate-targets-and-associated-financing/) with
+(JETP)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/indonesia-and-international-partners-secure-groundbreaking-climate-targets-and-associated-financing/) with
 President Joko Widodo of Indonesia co-led by the United States and Japan
 on behalf of the G7 and the International Partnership Group (IPG),
 including Canada, Denmark, the European Union, France, Germany, Italy,
@@ -88,7 +88,7 @@ countries. The launched Just Energy Transition Partnership with
 Indonesia is a critical example.*  
   
 Investments announced by the United States of America can be
-found [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/).  
+found [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/).  
   
 Investments announced by the European Commission can be
 found [here](https://ec.europa.eu/commission/presscorner/detail/en/FS_22_6884).  

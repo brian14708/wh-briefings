@@ -2,7 +2,7 @@
 date: '2022-08-17'
 modified_time: 2022-08-17 16:04:33-04:00
 published_time: 2022-08-17 16:04:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-how-the-inflation-reduction-act-helps-rural-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-how-the-inflation-reduction-act-helps-rural-communities/
 tags: statements-releases
 title: "FACT SHEET: How the Inflation Reduction Act Helps Rural\_Communities"
 ---

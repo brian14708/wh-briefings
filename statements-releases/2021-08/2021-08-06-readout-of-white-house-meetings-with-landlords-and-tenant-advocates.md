@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-06'
 modified_time: 2021-08-06 09:55:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/06/readout-of-white-house-meetings-with-landlords-and-tenant-advocates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/06/readout-of-white-house-meetings-with-landlords-and-tenant-advocates/
 published_time: 2021-08-06 09:55:21-04:00
 title: "Readout of White\_House Meetings with Landlords and Tenant\_Advocates"
 ---
@@ -33,9 +33,9 @@ reach Americans in need. 
 
 The meetings with these groups are part of continued engagement by the
 Administration to [raise awareness among tenants and
-landlords](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
+landlords](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
 on available resources and [increase the pace of
-distribution](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+distribution](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
 of the billions in emergency rental assistance that is available to
 state and local governments to prevent evictions and make landlords
 whole.

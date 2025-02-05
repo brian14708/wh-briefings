@@ -2,7 +2,7 @@
 date: '2023-05-04'
 modified_time: 2023-05-07 20:04:17-04:00
 published_time: 2023-05-04 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-national-standards-strategy-for-critical-and-emerging-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-national-standards-strategy-for-critical-and-emerging-technology/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces National Standards\
   \ Strategy for Critical and Emerging\_Technology"
@@ -11,7 +11,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Announces National Standar
 Today, the Biden-Harris Administration released the United States
 Government’s [National Standards Strategy for Critical and Emerging
 Technology
-(Strategy)](https://www.whitehouse.gov/wp-content/uploads/2023/05/US-Gov-National-Standards-Strategy-2023.pdf),
+(Strategy)](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/US-Gov-National-Standards-Strategy-2023.pdf),
 which will strengthen both the United States’ foundation to safeguard
 American consumers’ technology and U.S. leadership and competitiveness
 in international standards development.
@@ -76,7 +76,7 @@ system that has supercharged economic growth and worked for people of
 all nations.
 
 The[ CHIPS and Science Act of
-2022](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/) (Pub.
+2022](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/) (Pub.
 L. 117–167) provided $52.7 billion for American semiconductor research,
 development, manufacturing, and workforce development. The legislation
 also codifies NIST’s role in leading information exchange and
@@ -159,9 +159,9 @@ include: 
 
 The actions laid out in the Strategy align with principles set forth in
 the [National Security
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf), [the
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf), [the
 National Cybersecurity
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
 and ANSI’s [United States Standards
 Strategy](https://share.ansi.org/Shared%20Documents/Standards%20Activities/NSSC/USSS-2020/USSS-2020-Edition.pdf),
 and will not only protect the integrity of standards development, but

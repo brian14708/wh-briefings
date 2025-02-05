@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 13:31:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-announces-over-25-billion-in-american-rescue-plan-funding-to-help-ensure-every-american-has-access-to-high-speed-affordable-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-announces-over-25-billion-in-american-rescue-plan-funding-to-help-ensure-every-american-has-access-to-high-speed-affordable-internet/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Over $25 Billion in\
   \ American Rescue Plan Funding to Help Ensure Every American Has Access to High\
@@ -13,9 +13,9 @@ American Rescue Plan to help provide every American with access to
 affordable, high-speed internet. The American Rescue Plan funding is in
 addition to the $65 billion investment in high-speed Internet access in
 the [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/bipartisan-infrastructure-law/#internetaccess)
+Law](https://bidenwhitehouse.archives.gov/bipartisan-infrastructure-law/#internetaccess)
 and [recent
-announcements](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/09/fact-sheet-president-biden-and-vice-president-harris-reduce-high-speed-internet-costs-for-millions-of-americans/)
+announcements](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/09/fact-sheet-president-biden-and-vice-president-harris-reduce-high-speed-internet-costs-for-millions-of-americans/)
 to lower the cost of high-speed internet for tens of millions of
 American families. These investments will bring down costs for families,
 help small businesses, and boost education for America’s kids.

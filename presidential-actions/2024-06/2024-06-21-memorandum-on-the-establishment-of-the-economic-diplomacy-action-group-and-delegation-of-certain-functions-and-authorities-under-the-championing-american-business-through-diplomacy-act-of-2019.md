@@ -2,7 +2,7 @@
 date: '2024-06-21'
 modified_time: 2024-06-21 16:43:24-04:00
 published_time: 2024-06-21 16:43:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/21/memorandum-on-the-establishment-of-the-economic-diplomacy-action-group-and-delegation-of-certain-functions-and-authorities-under-the-championing-american-business-through-diplomacy-act-of-2019/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/21/memorandum-on-the-establishment-of-the-economic-diplomacy-action-group-and-delegation-of-certain-functions-and-authorities-under-the-championing-american-business-through-diplomacy-act-of-2019/
 tags: presidential-actions
 title: "Memorandum on the Establishment of the Economic Diplomacy Action Group and\
   \ Delegation of Certain Functions and Authorities Under the Championing American\

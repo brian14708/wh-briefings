@@ -2,7 +2,7 @@
 date: '2024-11-17'
 modified_time: 2024-11-17 11:21:19-05:00
 published_time: 2024-11-17 11:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/17/on-the-record-press-gaggle-by-apnsa-jake-sullivan-on-president-bidens-meeting-with-president-xi-jinping/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/17/on-the-record-press-gaggle-by-apnsa-jake-sullivan-on-president-bidens-meeting-with-president-xi-jinping/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by APNSA Jake Sullivan on President\_Biden\u2019\
   s Meeting with President Xi\_Jinping"

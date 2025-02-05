@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-17 18:30:18-04:00
 published_time: 2023-03-17 18:30:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/readout-of-the-presidents-national-infrastructure-advisory-council-niac-quarterly-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/readout-of-the-presidents-national-infrastructure-advisory-council-niac-quarterly-meeting/
 tags: statements-releases
 title: "Readout of the President\u2019s National Infrastructure Advisory Council (NIAC)\
   \ Quarterly\_Meeting"

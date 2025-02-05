@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-08 16:33:55-04:00
 published_time: 2024-04-08 16:33:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-madison-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-madison-wisconsin/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Madison,\_Wisconsin"
 ---

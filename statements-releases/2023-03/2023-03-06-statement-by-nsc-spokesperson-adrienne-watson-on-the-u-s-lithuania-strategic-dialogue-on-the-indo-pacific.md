@@ -2,7 +2,7 @@
 date: '2023-03-06'
 modified_time: 2023-03-11 12:56:22-05:00
 published_time: 2023-03-06 22:28:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/06/statement-by-nsc-spokesperson-adrienne-watson-on-the-u-s-lithuania-strategic-dialogue-on-the-indo-pacific/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/06/statement-by-nsc-spokesperson-adrienne-watson-on-the-u-s-lithuania-strategic-dialogue-on-the-indo-pacific/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the U.S.-Lithuania Strategic\
   \ Dialogue on the\_Indo-Pacific"

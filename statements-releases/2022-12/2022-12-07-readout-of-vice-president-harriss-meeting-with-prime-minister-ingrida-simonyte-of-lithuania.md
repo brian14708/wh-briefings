@@ -1,7 +1,7 @@
 ---
 date: '2022-12-07'
 published_time: 2022-12-07 18:18:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/07/readout-of-vice-president-harriss-meeting-with-prime-minister-ingrida-simonyte-of-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/07/readout-of-vice-president-harriss-meeting-with-prime-minister-ingrida-simonyte-of-lithuania/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Ingrida\
   \ Simonyte of\_Lithuania"

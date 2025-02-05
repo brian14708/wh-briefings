@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-17 12:24:54-04:00
 published_time: 2022-09-16 12:22:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-vice-president-harris-at-a-political-event-with-governor-j-b-pritzker/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-vice-president-harris-at-a-political-event-with-governor-j-b-pritzker/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_at a Political Event with Governor J.B.\_\
   Pritzker"

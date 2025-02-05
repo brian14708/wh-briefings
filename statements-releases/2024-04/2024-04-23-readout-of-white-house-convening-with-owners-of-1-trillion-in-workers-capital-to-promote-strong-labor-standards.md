@@ -1,7 +1,7 @@
 ---
 date: '2024-04-23'
 published_time: 2024-04-23 17:32:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-convening-with-owners-of-1-trillion-in-workers-capital-to-promote-strong-labor-standards/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-convening-with-owners-of-1-trillion-in-workers-capital-to-promote-strong-labor-standards/
 tags: statements-releases
 title: "Readout of White\_House Convening with Owners of $1 Trillion in Worker\u2019\
   s Capital to Promote Strong Labor\_Standards"

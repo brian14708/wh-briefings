@@ -1,7 +1,7 @@
 ---
 date: '2022-07-23'
 published_time: 2022-07-23 17:57:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/23/statement-from-raj-panjabi-director-of-white-house-pandemic-preparedness-office-on-world-health-organization-declaration-on-monkeypox/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/23/statement-from-raj-panjabi-director-of-white-house-pandemic-preparedness-office-on-world-health-organization-declaration-on-monkeypox/
 tags: statements-releases
 title: "Statement from Raj Panjabi, Director of White\_House Pandemic Preparedness\
   \ Office, on World Health Organization Declaration on\_Monkeypox"

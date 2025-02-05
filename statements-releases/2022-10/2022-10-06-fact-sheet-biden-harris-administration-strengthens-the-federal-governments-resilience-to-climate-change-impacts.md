@@ -2,7 +2,7 @@
 date: '2022-10-06'
 modified_time: 2022-10-06 09:16:03-04:00
 published_time: 2022-10-06 09:01:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/06/fact-sheet-biden-harris-administration-strengthens-the-federal-governments-resilience-to-climate-change-impacts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/06/fact-sheet-biden-harris-administration-strengthens-the-federal-governments-resilience-to-climate-change-impacts/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Strengthens the Federal Government\u2019\
   s Resilience to Climate Change\_Impacts"
@@ -34,10 +34,10 @@ mission.
 In February 2021, President Biden charged agencies to revitalize Federal
 climate adaptation efforts through [*Executive Order 14008 on Tackling
 the Climate Crisis at Home and
-Abroad*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
+Abroad*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
 
 In October 2021, Federal agencies [released climate adaptation
-plans](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
+plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
 that identified and addressed their most significant climate risks.
 Through these plans, agencies initiated actions to address a broad range
 of risks, including to programs, facilities, worker safety, supply
@@ -60,9 +60,9 @@ communities, economies, and infrastructure from the most severe impacts
 of climate change. Further, the Administration has worked closely with
 Congress to provide key adaptation investments supported by President
 Biden’s [Inflation Reduction
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
 and [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/bipartisan-infrastructure-law/),
+Law](https://bidenwhitehouse.archives.gov/bipartisan-infrastructure-law/),
 including $50 billion in investments to protect American infrastructure
 against catastrophic wildfires, heat, and floods, and $4.5 billion for
 drought preparedness.  

@@ -2,7 +2,7 @@
 date: '2022-08-18'
 modified_time: 2022-08-18 12:52:10-04:00
 published_time: 2022-08-18 12:51:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/18/press-briefing-by-white-house-monkeypox-response-team-and-public-health-officials-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/18/press-briefing-by-white-house-monkeypox-response-team-and-public-health-officials-2/
 tags: speeches-remarks
 title: "Press Briefing by White\_House Monkeypox Response Team and Public Health\_\
   Officials"

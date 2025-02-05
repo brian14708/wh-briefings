@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-25 15:46:40-05:00
 published_time: 2024-01-25 15:23:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/25/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-duluth-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/25/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-duluth-wi/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and NSC Coordinator\
   \ For Strategic Communications John Kirby En Route Duluth,\_WI"

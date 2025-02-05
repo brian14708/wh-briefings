@@ -1,7 +1,7 @@
 ---
 date: '2023-06-27'
 published_time: 2023-06-27 15:42:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-moore-v-harper/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-moore-v-harper/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Supreme Court Ruling in\
   \ Moore v.\_Harper"

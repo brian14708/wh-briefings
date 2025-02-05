@@ -1,7 +1,7 @@
 ---
 date: '2022-04-13'
 published_time: 2022-04-13 09:58:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
 tags: statements-releases
 title: "Notice on the Continuation Of The National Emergency With Respect To Specified\
   \ Harmful Foreign Activities Of The Government Of The Russian\_Federation"

@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 11:55:39-04:00
 published_time: 2024-05-10 11:55:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-national-defense-transportation-day-and-national-transportation-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-national-defense-transportation-day-and-national-transportation-week-2024/
 tags: presidential-actions
 title: "A Proclamation on National Defense Transportation Day and National Transportation\
   \ Week,\_2024"

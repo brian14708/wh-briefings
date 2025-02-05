@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 18:13:09-04:00
 published_time: 2022-04-06 18:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/readout-of-congressional-briefing-on-national-security-impact-of-semiconductor-supply-chain-and-importance-of-passing-bipartisan-innovation-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/readout-of-congressional-briefing-on-national-security-impact-of-semiconductor-supply-chain-and-importance-of-passing-bipartisan-innovation-act/
 tags: statements-releases
 title: "Readout of Congressional Briefing on National Security Impact of Semiconductor\
   \ Supply Chain and Importance of Passing Bipartisan Innovation\_Act"

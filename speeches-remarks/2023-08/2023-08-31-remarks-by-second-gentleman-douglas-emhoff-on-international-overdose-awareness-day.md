@@ -1,7 +1,7 @@
 ---
 date: '2023-08-31'
 published_time: 2023-08-31 17:41:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/31/remarks-by-second-gentleman-douglas-emhoff-on-international-overdose-awareness-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/31/remarks-by-second-gentleman-douglas-emhoff-on-international-overdose-awareness-day/
 tags: speeches-remarks
 title: "Remarks by Second Gentleman Douglas Emhoff on International Overdose Awareness\_\
   Day"

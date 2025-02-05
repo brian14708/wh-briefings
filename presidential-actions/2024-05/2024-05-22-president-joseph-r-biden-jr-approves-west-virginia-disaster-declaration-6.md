@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-22 20:48:02-04:00
 published_time: 2024-05-22 20:47:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/22/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/22/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves West Virginia Disaster\_Declaration"
 ---

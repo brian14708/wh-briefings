@@ -1,7 +1,7 @@
 ---
 date: '2022-05-19'
 published_time: 2022-05-19 21:20:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/statement-from-press-secretary-karine-jean-pierre-on-the-oklahoma-abortion-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/statement-from-press-secretary-karine-jean-pierre-on-the-oklahoma-abortion-bill/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Oklahoma Abortion\_\
   Bill"

@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-05 15:55:08-04:00
 published_time: 2022-05-05 15:55:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/readout-of-task-force-on-worker-organizing-and-empowerment-meeting-with-grassroots-worker-organizers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/readout-of-task-force-on-worker-organizing-and-empowerment-meeting-with-grassroots-worker-organizers/
 tags: statements-releases
 title: "Readout of Task Force on Worker Organizing and Empowerment Meeting with Grassroots\
   \ Worker\_Organizers"

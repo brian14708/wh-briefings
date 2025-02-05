@@ -2,7 +2,7 @@
 date: '2024-12-30'
 modified_time: 2024-12-30 14:33:55-05:00
 published_time: 2024-12-30 14:33:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/30/message-to-the-congress-on-death-of-james-earl-carter-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/30/message-to-the-congress-on-death-of-james-earl-carter-jr/
 tags: presidential-actions
 title: "Message to the Congress on Death of James Earl Carter,\_Jr."
 ---

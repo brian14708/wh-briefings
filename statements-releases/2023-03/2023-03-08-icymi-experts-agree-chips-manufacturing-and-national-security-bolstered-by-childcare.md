@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-08 17:29:59-05:00
 published_time: 2023-03-08 17:29:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/
 tags: statements-releases
 title: "ICYMI: Experts Agree: Chips Manufacturing and National Security Bolstered\
   \ by\_Childcare"

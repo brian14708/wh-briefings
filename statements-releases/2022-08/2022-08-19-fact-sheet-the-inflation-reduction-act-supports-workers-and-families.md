@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-19 15:07:59-04:00
 published_time: 2022-08-19 15:07:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/
 tags: statements-releases
 title: "FACT SHEET: The Inflation Reduction Act Supports Workers and\_Families"
 ---

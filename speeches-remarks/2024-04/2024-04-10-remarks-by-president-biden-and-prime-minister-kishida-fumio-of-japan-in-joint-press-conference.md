@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-10 15:59:30-04:00
 published_time: 2024-04-10 15:59:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida Fumio of Japan in Joint\
   \ Press\_Conference"

@@ -2,7 +2,7 @@
 date: '2022-04-29'
 modified_time: 2022-05-02 09:24:18-04:00
 published_time: 2022-04-29 21:10:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/readout-of-vice-president-harriss-meeting-with-caribbean-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/readout-of-vice-president-harriss-meeting-with-caribbean-leaders/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Caribbean\_Leaders"
 ---

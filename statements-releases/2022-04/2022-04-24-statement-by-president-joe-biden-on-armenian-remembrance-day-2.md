@@ -2,7 +2,7 @@
 date: '2022-04-24'
 modified_time: 2022-04-22 16:23:58-04:00
 published_time: 2022-04-24 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/24/statement-by-president-joe-biden-on-armenian-remembrance-day-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/24/statement-by-president-joe-biden-on-armenian-remembrance-day-2/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Armenian Remembrance\_Day"
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 21:30:20-04:00
 published_time: 2022-04-22 21:30:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/22/remarks-by-president-biden-on-lowering-costs-for-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/22/remarks-by-president-biden-on-lowering-costs-for-american-families/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering Costs for American\_Families"
 ---

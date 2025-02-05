@@ -2,7 +2,7 @@
 date: '2024-08-14'
 modified_time: 2024-08-14 15:30:41-04:00
 published_time: 2024-08-14 15:30:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/14/remarks-by-president-biden-at-white-house-creator-economy-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/14/remarks-by-president-biden-at-white-house-creator-economy-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at White\_House Creator Economy\_Conference"
 ---

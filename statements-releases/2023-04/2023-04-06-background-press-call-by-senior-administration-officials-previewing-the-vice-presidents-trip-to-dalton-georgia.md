@@ -1,7 +1,7 @@
 ---
 date: '2023-04-06'
 published_time: 2023-04-06 19:19:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/background-press-call-by-senior-administration-officials-previewing-the-vice-presidents-trip-to-dalton-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/background-press-call-by-senior-administration-officials-previewing-the-vice-presidents-trip-to-dalton-georgia/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials Previewing the Vice\
   \ President\u2019s Trip to Dalton,\_Georgia"

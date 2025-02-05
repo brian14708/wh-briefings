@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 12:38:42-04:00
 published_time: 2022-05-12 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/u-s-fact-sheet-the-2nd-global-covid-%e2%81%a019-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/u-s-fact-sheet-the-2nd-global-covid-%e2%81%a019-summit/
 tags: statements-releases
 title: "U.S. FACT SHEET: The 2nd Global COVID-\u206019\_Summit:"
 ---
@@ -50,7 +50,7 @@ the world made bold new commitments to control COVID-19 and prevent
 future health crises.  The U.S. announced new commitments to the global
 COVID-19 response and pandemic preparedness, building on substantial
 U.S. commitments made to date and during the [last global COVID-19
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/):
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/):
 
 -   **Additional funding for a pandemic preparedness \[and global health
     security\] fund housed at the World Bank. ** Building on its initial
@@ -135,7 +135,7 @@ Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/
 -   **Expanding dose donation types to include boosters and pediatric
     doses to accelerate global vaccine coverage**. The United States is
     [expanding Pfizer vaccine dose
-    types](https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/05/press-briefing-by-white-house-covid-19-response-team-and-hhs-public-health-officials-april-5-2022/)
+    types](https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/05/press-briefing-by-white-house-covid-19-response-team-and-hhs-public-health-officials-april-5-2022/)
     being donated globally to now include boosters and pediatric doses,
     as part of our 1 billion Pfizer dose donation commitment. This will
     help accelerate progress towards the 70% vaccination target and

@@ -2,7 +2,7 @@
 date: '2024-09-16'
 modified_time: 2024-09-16 14:16:25-04:00
 published_time: 2024-09-16 14:02:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-president-biden-at-the-2024-phoenix-awards-dinner-september-14-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-president-biden-at-the-2024-phoenix-awards-dinner-september-14-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2024 Phoenix Awards Dinner (September 14,\_\
   2024)"

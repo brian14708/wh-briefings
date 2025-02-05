@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-21 17:48:16-04:00
 published_time: 2024-10-21 17:48:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/21/remarks-by-vice-president-harris-and-liz-cheney-at-a-campaign-event-malvern-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/21/remarks-by-vice-president-harris-and-liz-cheney-at-a-campaign-event-malvern-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Liz Cheney at a Campaign Event | Malvern,\_\
   PA"

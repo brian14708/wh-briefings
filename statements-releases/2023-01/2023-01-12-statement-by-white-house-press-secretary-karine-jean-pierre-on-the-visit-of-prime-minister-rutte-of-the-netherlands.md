@@ -2,7 +2,7 @@
 date: '2023-01-12'
 modified_time: 2023-01-12 15:46:33-05:00
 published_time: 2023-01-12 15:46:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/12/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-rutte-of-the-netherlands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/12/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-rutte-of-the-netherlands/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Prime Minister Rutte of the\_Netherlands"

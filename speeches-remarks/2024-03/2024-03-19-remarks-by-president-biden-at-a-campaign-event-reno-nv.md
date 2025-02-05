@@ -2,7 +2,7 @@
 date: '2024-03-19'
 modified_time: 2024-03-19 17:07:00-04:00
 published_time: 2024-03-19 17:06:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/19/remarks-by-president-biden-at-a-campaign-event-reno-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/19/remarks-by-president-biden-at-a-campaign-event-reno-nv/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Reno,\_NV"
 ---

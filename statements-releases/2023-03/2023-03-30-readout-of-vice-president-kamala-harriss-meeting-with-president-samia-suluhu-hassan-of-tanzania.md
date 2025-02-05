@@ -1,7 +1,7 @@
 ---
 date: '2023-03-30'
 published_time: 2023-03-30 12:03:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/readout-of-vice-president-kamala-harriss-meeting-with-president-samia-suluhu-hassan-of-tanzania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/readout-of-vice-president-kamala-harriss-meeting-with-president-samia-suluhu-hassan-of-tanzania/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with President Samia\
   \ Suluhu Hassan of\_Tanzania"

@@ -2,7 +2,7 @@
 date: '2024-11-18'
 modified_time: 2024-11-18 17:54:06-05:00
 published_time: 2024-11-18 18:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/18/remarks-by-president-biden-during-the-first-session-of-the-g20-summit-rio-de-janeiro-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/18/remarks-by-president-biden-during-the-first-session-of-the-g20-summit-rio-de-janeiro-brazil/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During the First Session of the G20 Summit | Rio\
   \ de Janeiro,\_Brazil"

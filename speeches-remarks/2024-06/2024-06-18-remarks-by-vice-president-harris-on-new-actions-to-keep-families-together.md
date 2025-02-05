@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-19 14:10:51-04:00
 published_time: 2024-06-18 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/18/remarks-by-vice-president-harris-on-new-actions-to-keep-families-together/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/18/remarks-by-vice-president-harris-on-new-actions-to-keep-families-together/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on New Actions to Keep Families\_Together"
 ---

@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-15 12:27:23-05:00
 published_time: 2023-12-14 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/14/background-press-call-on-national-security-advisor-jake-sullivans-travel-to-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/14/background-press-call-on-national-security-advisor-jake-sullivans-travel-to-israel/
 tags: press-briefings
 title: "Background Press Call on National Security Advisor Jake Sullivan\u2019s Travel\
   \ to\_Israel"

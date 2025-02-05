@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-12-10'
 modified_time: 2021-12-11 13:32:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/10/press-briefing-by-press-secretary-jen-psaki-december-10-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/12/10/press-briefing-by-press-secretary-jen-psaki-december-10-2021/
 published_time: 2021-12-10 20:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, December 10,\_2021"
 ---
@@ -967,7 +967,7 @@ efforts, and failed to address the root causes of irregular migration.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/image-1.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/image-1.gif"
 title="Anchor" class="wp-image-41619" loading="lazy" width="1"
 height="1" />
 </figure>

@@ -2,7 +2,7 @@
 date: '2024-10-09'
 modified_time: 2024-10-09 18:17:17-04:00
 published_time: 2024-10-09 18:17:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/09/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/09/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-5/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and FEMA Administrator\
   \ Deanne\_Criswell"

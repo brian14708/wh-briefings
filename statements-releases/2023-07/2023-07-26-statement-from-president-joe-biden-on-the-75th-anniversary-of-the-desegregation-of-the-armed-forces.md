@@ -1,7 +1,7 @@
 ---
 date: '2023-07-26'
 published_time: 2023-07-26 09:17:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/statement-from-president-joe-biden-on-the-75th-anniversary-of-the-desegregation-of-the-armed-forces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/statement-from-president-joe-biden-on-the-75th-anniversary-of-the-desegregation-of-the-armed-forces/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 75th Anniversary of the Desegregation\
   \ of the Armed\_Forces"

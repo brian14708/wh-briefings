@@ -1,7 +1,7 @@
 ---
 date: '2022-11-30'
 published_time: 2022-11-30 13:11:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/a-proclamation-on-world-aids-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/a-proclamation-on-world-aids-day-2022/
 tags: presidential-actions
 title: "A Proclamation on World AIDS Day,\_2022"
 ---

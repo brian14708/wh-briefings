@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 22:26:06-05:00
 published_time: 2025-01-06 22:26:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/06/remarks-of-national-security-advisor-jake-sullivan-a-new-frontier-for-the-u-s-india-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/06/remarks-of-national-security-advisor-jake-sullivan-a-new-frontier-for-the-u-s-india-partnership/
 tags: speeches-remarks
 title: "Remarks of National Security Advisor Jake Sullivan A New Frontier for the\
   \ U.S.-India\_Partnership"

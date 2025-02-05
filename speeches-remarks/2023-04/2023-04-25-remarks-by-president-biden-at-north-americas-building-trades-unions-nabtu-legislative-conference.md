@@ -1,7 +1,7 @@
 ---
 date: '2023-04-25'
 published_time: 2023-04-25 15:59:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-president-biden-at-north-americas-building-trades-unions-nabtu-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-president-biden-at-north-americas-building-trades-unions-nabtu-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at North America\u2019s Building Trades Unions\
   \ (NABTU) Legislative\_Conference"

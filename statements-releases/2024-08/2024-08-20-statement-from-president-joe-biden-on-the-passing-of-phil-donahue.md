@@ -2,7 +2,7 @@
 date: '2024-08-20'
 modified_time: 2024-08-20 13:43:07-04:00
 published_time: 2024-08-20 13:43:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/20/statement-from-president-joe-biden-on-the-passing-of-phil-donahue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/20/statement-from-president-joe-biden-on-the-passing-of-phil-donahue/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Phil\_Donahue"
 ---

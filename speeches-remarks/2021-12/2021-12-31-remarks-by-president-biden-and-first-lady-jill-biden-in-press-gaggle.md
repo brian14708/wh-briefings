@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-12-31'
 modified_time: 2021-12-31 17:16:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/31/remarks-by-president-biden-and-first-lady-jill-biden-in-press-gaggle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/31/remarks-by-president-biden-and-first-lady-jill-biden-in-press-gaggle/
 published_time: 2021-12-31 17:15:00-05:00
 title: "Remarks by President\_Biden and First Lady Jill\_Biden in Press\_Gaggle"
 ---

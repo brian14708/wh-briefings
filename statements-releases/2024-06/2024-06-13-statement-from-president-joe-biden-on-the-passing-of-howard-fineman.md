@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 09:05:13-04:00
 published_time: 2024-06-13 09:05:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-the-passing-of-howard-fineman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-the-passing-of-howard-fineman/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Howard\_Fineman"
 ---

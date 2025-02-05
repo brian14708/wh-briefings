@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-20 10:10:58-04:00
 published_time: 2022-05-20 10:10:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/20/a-proclamation-on-national-maritime-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/20/a-proclamation-on-national-maritime-day-2022/
 tags: presidential-actions
 title: "A Proclamation on National Maritime Day,\_2022"
 ---

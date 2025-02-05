@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 03:00:42-04:00
 published_time: 2022-05-23 03:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/japan-u-s-joint-leaders-statement-strengthening-the-free-and-open-international-order/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/japan-u-s-joint-leaders-statement-strengthening-the-free-and-open-international-order/
 tags: statements-releases
 title: "Japan-U.S. Joint\_Leaders\u2019\_Statement: Strengthening\_the Free and Open\
   \ International\_Order"
@@ -218,7 +218,7 @@ economic security.
   
 The two leaders applauded the work to date under the [Competitiveness
 and Resilience (CoRe)
-Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-the-u-s-japan-competitiveness-and-resilience-core-partnership/)
+Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-the-u-s-japan-competitiveness-and-resilience-core-partnership/)
 announced last year, and expressed their intention to hold the
 Japan-U.S. Economic Policy Consultative Committee (the Economic “2+2”)
 at the Ministerial level in July 2022.  
@@ -317,7 +317,7 @@ implementing ambitious 2030 nationally determined contributions under
 the Paris Agreement and 2050 net zero emission goals. In service of
 these goals, the two leaders affirmed their intent to enhance
 cooperation under the [Japan US Climate
-Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/u-s-japan-climate-partnership-fact-sheet/).  
+Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/u-s-japan-climate-partnership-fact-sheet/).  
   
 The two leaders recognized the importance of nuclear energy as a
 critical and reliable source of carbon-free electricity and process

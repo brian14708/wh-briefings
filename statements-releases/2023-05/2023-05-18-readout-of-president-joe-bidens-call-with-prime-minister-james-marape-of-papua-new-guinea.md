@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 published_time: 2023-05-18 06:41:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/readout-of-president-joe-bidens-call-with-prime-minister-james-marape-of-papua-new-guinea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/readout-of-president-joe-bidens-call-with-prime-minister-james-marape-of-papua-new-guinea/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s call with Prime Minister James Marape\
   \ of Papua New\_Guinea"

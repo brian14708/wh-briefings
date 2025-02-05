@@ -2,7 +2,7 @@
 date: '2023-04-01'
 modified_time: 2023-04-01 22:57:17-04:00
 published_time: 2023-04-01 22:57:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-in-meeting-with-private-sector-and-philanthropic-leaders-on-digital-inclusion-in-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-in-meeting-with-private-sector-and-philanthropic-leaders-on-digital-inclusion-in-africa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Meeting with Private Sector and Philanthropic\
   \ Leaders on Digital Inclusion in\_Africa"

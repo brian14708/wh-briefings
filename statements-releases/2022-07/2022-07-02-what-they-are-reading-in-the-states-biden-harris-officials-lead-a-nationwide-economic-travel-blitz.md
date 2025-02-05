@@ -2,7 +2,7 @@
 date: '2022-07-02'
 modified_time: 2022-07-02 15:45:57-04:00
 published_time: 2022-07-02 15:45:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/02/what-they-are-reading-in-the-states-biden-harris-officials-lead-a-nationwide-economic-travel-blitz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/02/what-they-are-reading-in-the-states-biden-harris-officials-lead-a-nationwide-economic-travel-blitz/
 tags: statements-releases
 title: "What They are Reading in the States: Biden-\u2060Harris Officials Lead a Nationwide\
   \ Economic Travel\_Blitz"

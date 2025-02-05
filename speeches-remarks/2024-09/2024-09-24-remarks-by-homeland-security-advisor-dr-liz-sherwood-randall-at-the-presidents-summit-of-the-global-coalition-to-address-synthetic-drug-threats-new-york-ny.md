@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-24 22:45:00-04:00
 published_time: 2024-09-24 22:44:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-at-the-presidents-summit-of-the-global-coalition-to-address-synthetic-drug-threats-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-at-the-presidents-summit-of-the-global-coalition-to-address-synthetic-drug-threats-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by Homeland Security Advisor Dr. Liz Sherwood-Randall at the President\u2019\
   s Summit of the Global Coalition to Address Synthetic Drug Threats | New York,\_\

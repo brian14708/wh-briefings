@@ -1,7 +1,7 @@
 ---
 date: '2022-12-24'
 published_time: 2022-12-24 11:32:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/24/statement-from-president-joe-biden-on-the-election-of-sitiveni-rabuka-as-prime-minister-of-fiji/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/24/statement-from-president-joe-biden-on-the-election-of-sitiveni-rabuka-as-prime-minister-of-fiji/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Election of Sitiveni Rabuka as\
   \ Prime Minister of\_Fiji"

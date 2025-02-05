@@ -2,7 +2,7 @@
 date: '2022-06-20'
 modified_time: 2022-06-21 07:11:50-04:00
 published_time: 2022-06-20 07:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/20/remarks-by-president-biden-during-press-gaggle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/20/remarks-by-president-biden-during-press-gaggle/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Press\_Gaggle"
 ---

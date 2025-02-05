@@ -2,7 +2,7 @@
 date: '2023-09-10'
 modified_time: 2023-09-10 05:35:10-04:00
 published_time: 2023-09-10 05:35:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/10/readout-of-president-bidens-engagement-with-nigerian-president-bola-tinubu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/10/readout-of-president-bidens-engagement-with-nigerian-president-bola-tinubu/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Engagement with Nigerian President Bola\_\
   Tinubu"

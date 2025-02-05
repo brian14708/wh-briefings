@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-09 22:43:31-04:00
 published_time: 2022-06-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/10/background-press-call-by-a-senior-administration-official-previewing-the-summit-of-the-americas-migration-deliverables-and-accomplishments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/10/background-press-call-by-a-senior-administration-official-previewing-the-summit-of-the-americas-migration-deliverables-and-accomplishments/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official Previewing the Summit\
   \ of the Americas Migration Deliverables and\_Accomplishments"

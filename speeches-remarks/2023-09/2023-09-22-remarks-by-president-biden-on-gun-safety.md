@@ -1,7 +1,7 @@
 ---
 date: '2023-09-22'
 published_time: 2023-09-22 18:33:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/22/remarks-by-president-biden-on-gun-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/22/remarks-by-president-biden-on-gun-safety/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Gun\_Safety"
 ---

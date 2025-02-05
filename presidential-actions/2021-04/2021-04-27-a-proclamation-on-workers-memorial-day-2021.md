@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-04-27'
 modified_time: 2021-04-27 17:34:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/a-proclamation-on-workers-memorial-day-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/a-proclamation-on-workers-memorial-day-2021/
 published_time: 2021-04-27 17:34:55-04:00
 title: "A Proclamation on Workers Memorial Day,\_2021"
 ---

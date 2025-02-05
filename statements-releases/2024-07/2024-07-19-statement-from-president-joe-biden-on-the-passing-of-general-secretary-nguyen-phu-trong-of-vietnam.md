@@ -1,7 +1,7 @@
 ---
 date: '2024-07-19'
 published_time: 2024-07-19 11:25:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/statement-from-president-joe-biden-on-the-passing-of-general-secretary-nguyen-phu-trong-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/statement-from-president-joe-biden-on-the-passing-of-general-secretary-nguyen-phu-trong-of-vietnam/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of General Secretary Nguy\u1EC5\
   n Ph\xFA Tr\u1ECDng of\_Vietnam"

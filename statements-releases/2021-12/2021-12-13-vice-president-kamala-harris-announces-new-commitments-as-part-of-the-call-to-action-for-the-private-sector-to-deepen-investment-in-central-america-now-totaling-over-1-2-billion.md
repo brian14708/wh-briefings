@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-13'
 modified_time: 2021-12-14 12:19:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/
 published_time: 2021-12-13 06:33:33-05:00
 title: "Vice President Kamala\_Harris Announces New Commitments as Part of the Call\
   \ to Action for the Private Sector to Deepen Investment in Central America, Now\
@@ -328,7 +328,7 @@ at ***[***jointhecall@state.gov***](mailto:jointhecall@state.gov)***.***
   
 More information can also be found in the [initial Fact Sheet announcing
 the Call to Action on May
-27](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/).
+27](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/).
 More information about the Partnership for Central America can be found
 at www.centampartnership.org. The Partnership can be contacted
 at <support@centampartnership.org>.

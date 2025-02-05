@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-29 14:55:47-04:00
 published_time: 2023-09-29 14:55:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/29/a-proclamation-on-child-health-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/29/a-proclamation-on-child-health-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Child Health Day,\_2023"
 ---

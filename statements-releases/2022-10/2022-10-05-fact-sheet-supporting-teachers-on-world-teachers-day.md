@@ -2,7 +2,7 @@
 date: '2022-10-05'
 modified_time: 2022-10-05 07:02:47-04:00
 published_time: 2022-10-05 06:02:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-supporting-teachers-on-world-teachers-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-supporting-teachers-on-world-teachers-day/
 tags: statements-releases
 title: "FACT SHEET: Supporting Teachers on World Teachers\u2019\_Day"
 ---

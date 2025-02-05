@@ -1,7 +1,7 @@
 ---
 date: '2022-05-25'
 published_time: 2022-05-25 20:46:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/25/remarks-by-president-biden-and-vice-president-harris-at-signing-of-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/25/remarks-by-president-biden-and-vice-president-harris-at-signing-of-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at Signing of Executive\
   \ Order to Advance Effective, Accountable Policing and Strengthen Public\_Safety"

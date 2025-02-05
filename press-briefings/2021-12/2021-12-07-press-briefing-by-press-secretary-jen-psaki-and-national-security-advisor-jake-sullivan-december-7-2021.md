@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-12-07'
 modified_time: 2021-12-07 18:31:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/07/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-december-7-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/12/07/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-december-7-2021/
 published_time: 2021-12-07 18:45:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
   \ Jake Sullivan, December 7,\_2021"
@@ -878,7 +878,7 @@ about, “What are the lessons you learned from 2014?” 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/image.gif"
 title="Anchor" class="wp-image-41093" loading="lazy" width="1"
 height="1" />
 </figure>

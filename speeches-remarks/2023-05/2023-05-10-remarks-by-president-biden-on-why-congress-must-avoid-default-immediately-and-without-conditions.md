@@ -2,7 +2,7 @@
 date: '2023-05-10'
 modified_time: 2023-05-10 20:58:04-04:00
 published_time: 2023-05-10 19:42:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-president-biden-on-why-congress-must-avoid-default-immediately-and-without-conditions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-president-biden-on-why-congress-must-avoid-default-immediately-and-without-conditions/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Why Congress Must Avoid Default Immediately\
   \ and Without\_Conditions"

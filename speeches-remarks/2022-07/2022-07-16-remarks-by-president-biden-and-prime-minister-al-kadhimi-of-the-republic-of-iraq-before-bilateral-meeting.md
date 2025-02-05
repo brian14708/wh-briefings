@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 11:51:25-04:00
 published_time: 2022-07-16 11:51:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-president-biden-and-prime-minister-al-kadhimi-of-the-republic-of-iraq-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-president-biden-and-prime-minister-al-kadhimi-of-the-republic-of-iraq-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Al-Kadhimi of the Republic\
   \ of Iraq Before Bilateral\_Meeting"

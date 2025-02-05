@@ -1,7 +1,7 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 13:34:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/readout-of-vice-president-harriss-meeting-with-consumer-protection-labor-and-civil-rights-leaders-on-ai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/readout-of-vice-president-harriss-meeting-with-consumer-protection-labor-and-civil-rights-leaders-on-ai/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Consumer Protection,\
   \ Labor, and Civil Rights Leaders on\_AI"
@@ -37,7 +37,7 @@ government, the private sector, and civil society is urgently needed to
 develop and ensure safeguards and protections consistent with the
 Administration’s efforts to implement the principles and practices
 outlined in the [White House Blueprint for an AI Bill of
-Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/), including
+Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/), including
 proactively ensuring that AI tools do not drive harm or discrimination.
 
 **Participants:**

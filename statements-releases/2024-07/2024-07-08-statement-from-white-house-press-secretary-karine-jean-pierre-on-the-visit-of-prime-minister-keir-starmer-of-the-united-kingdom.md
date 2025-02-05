@@ -2,7 +2,7 @@
 date: '2024-07-08'
 modified_time: 2024-07-08 15:46:43-04:00
 published_time: 2024-07-08 15:46:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/08/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-keir-starmer-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/08/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-keir-starmer-of-the-united-kingdom/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Prime Minister Keir Starmer of the United\_Kingdom"

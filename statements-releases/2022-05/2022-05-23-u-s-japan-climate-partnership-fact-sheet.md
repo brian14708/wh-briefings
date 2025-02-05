@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 01:37:28-04:00
 published_time: 2022-05-23 01:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/u-s-japan-climate-partnership-fact-sheet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/u-s-japan-climate-partnership-fact-sheet/
 tags: statements-releases
 title: "FACT SHEET: U.S.- Japan Climate\_Partnership"
 ---

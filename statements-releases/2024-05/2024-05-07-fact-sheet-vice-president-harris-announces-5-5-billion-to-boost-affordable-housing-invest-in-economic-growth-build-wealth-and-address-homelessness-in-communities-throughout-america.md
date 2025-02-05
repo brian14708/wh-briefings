@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 09:52:14-04:00
 published_time: 2024-05-07 09:52:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-vice-president-harris-announces-5-5-billion-to-boost-affordable-housing-invest-in-economic-growth-build-wealth-and-address-homelessness-in-communities-throughout-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-vice-president-harris-announces-5-5-billion-to-boost-affordable-housing-invest-in-economic-growth-build-wealth-and-address-homelessness-in-communities-throughout-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces $5.5 Billion to Boost Affordable\
   \ Housing, Invest in Economic Growth, Build Wealth, and Address Homelessness in\
@@ -31,7 +31,7 @@ to trade up or downsize.
   
 Yesterday, Vice President Harris was in Detroit, MI for the second stop
 on her nationwide Economic Opportunity Tour. During
-her [speech](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/),
+her [speech](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/),
 the Vice President highlighted the Administration’s plan to cut housing
 costs, boost supply, and expand access to affordable housing. She also
 discussed the Administration’s work to address racial bias in home
@@ -43,9 +43,9 @@ address the country’s critical housing needs: $5.5 billion in grants to
 Puerto Rico, and local organizations across the country. These grants
 build on ongoing efforts by the Administration, the [White House Housing
 Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) and
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) and
 the [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf),
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf),
 boost housing supply, lower housing costs, expand rental assistance,
 enhance renter protections, and invest in stronger, more resilient
 communities for all.       
@@ -168,7 +168,7 @@ housing solutions and expand affordable housing:
 
 Today’s announcement follows the first two stops of the Vice President’s
 nationwide [Economic Opportunity
-Tour](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
+Tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
 which is taking her back to several states across the country as she
 highlights how the policies of the Biden-Harris Administration have
 delivered for the American people. During each stop, the Vice President
@@ -176,7 +176,7 @@ is highlighting how the Biden-Harris Administration has delivered
 historic investments that have supported communities and helped people
 thrive. This includes improving access to housing while making it more
 affordable. The tour kicked off last week with a [moderated
-conversation](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-rashad-bilal-and-troy-millings-during-the-nationwide-economic-opportunity-tour/) in
+conversation](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-rashad-bilal-and-troy-millings-during-the-nationwide-economic-opportunity-tour/) in
 Atlanta, GA.  
   
 Today’s announcement builds on the Vice President’s career of working to

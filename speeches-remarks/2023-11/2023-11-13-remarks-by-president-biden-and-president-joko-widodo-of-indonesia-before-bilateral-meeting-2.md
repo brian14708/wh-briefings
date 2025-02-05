@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 18:20:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-and-president-joko-widodo-of-indonesia-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-and-president-joko-widodo-of-indonesia-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Joko Widodo of Indonesia Before\
   \ Bilateral\_Meeting"

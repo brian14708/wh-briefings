@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 published_time: 2022-10-13 09:45:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/13/statement-by-president-joe-biden-on-the-september-consumer-price-index-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/13/statement-by-president-joe-biden-on-the-september-consumer-price-index-report/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the September Consumer Price Index\_\
   Report"

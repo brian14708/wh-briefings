@@ -2,7 +2,7 @@
 date: '2022-10-05'
 modified_time: 2022-10-05 11:24:52-04:00
 published_time: 2022-10-05 11:24:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/statement-from-national-security-advisor-jake-sullivan-and-nec-director-brian-deese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/statement-from-national-security-advisor-jake-sullivan-and-nec-director-brian-deese/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan and NEC Director Brian\_\
   Deese"

@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-14 10:05:07-04:00
 published_time: 2024-08-13 14:04:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to Export Control\_Regulations"

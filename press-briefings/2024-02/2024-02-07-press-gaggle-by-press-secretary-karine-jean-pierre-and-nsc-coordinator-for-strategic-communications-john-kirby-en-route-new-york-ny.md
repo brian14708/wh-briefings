@@ -2,7 +2,7 @@
 date: '2024-02-07'
 modified_time: 2024-02-07 15:15:52-05:00
 published_time: 2024-02-07 15:15:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/07/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/07/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-new-york-ny/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route New York,\_NY"

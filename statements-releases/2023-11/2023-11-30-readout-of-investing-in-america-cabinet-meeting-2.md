@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 17:45:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/readout-of-investing-in-america-cabinet-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/readout-of-investing-in-america-cabinet-meeting-2/
 tags: statements-releases
 title: "Readout of Investing in America Cabinet\_Meeting"
 ---

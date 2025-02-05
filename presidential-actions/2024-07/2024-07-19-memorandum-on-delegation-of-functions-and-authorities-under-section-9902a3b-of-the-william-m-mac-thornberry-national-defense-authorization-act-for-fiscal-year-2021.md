@@ -2,7 +2,7 @@
 date: '2024-07-19'
 modified_time: 2024-07-19 16:57:26-04:00
 published_time: 2024-07-19 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/19/memorandum-on-delegation-of-functions-and-authorities-under-section-9902a3b-of-the-william-m-mac-thornberry-national-defense-authorization-act-for-fiscal-year-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/19/memorandum-on-delegation-of-functions-and-authorities-under-section-9902a3b-of-the-william-m-mac-thornberry-national-defense-authorization-act-for-fiscal-year-2021/
 tags: presidential-actions
 title: "Memorandum on Delegation of Functions and Authorities Under Section 9902(a)(3)(B)\
   \ of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal\

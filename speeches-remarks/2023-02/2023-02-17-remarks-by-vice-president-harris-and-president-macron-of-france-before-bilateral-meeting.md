@@ -2,7 +2,7 @@
 date: '2023-02-17'
 modified_time: 2023-02-18 14:51:04-05:00
 published_time: 2023-02-17 18:48:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/17/remarks-by-vice-president-harris-and-president-macron-of-france-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/17/remarks-by-vice-president-harris-and-president-macron-of-france-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Macron of France Before Bilateral\_\
   Meeting"

@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-09-22'
 modified_time: 2021-09-22 18:38:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/22/press-briefing-by-press-secretary-jen-psaki-september-22-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/09/22/press-briefing-by-press-secretary-jen-psaki-september-22-2021/
 published_time: 2021-09-22 18:38:18-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, September 22,\_2021"
 ---

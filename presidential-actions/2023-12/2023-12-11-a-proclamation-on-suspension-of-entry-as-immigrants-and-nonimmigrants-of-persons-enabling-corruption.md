@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-11 10:10:38-05:00
 published_time: 2023-12-11 10:10:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/11/a-proclamation-on-suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-enabling-corruption/
 tags: presidential-actions
 title: "A Proclamation on Suspension of Entry as Immigrants and Nonimmigrants of Persons\
   \ Enabling\_Corruption"

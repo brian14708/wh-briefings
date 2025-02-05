@@ -2,7 +2,7 @@
 date: '2024-10-26'
 modified_time: 2024-10-28 17:17:23-04:00
 published_time: 2024-10-26 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-vice-president-harris-in-press-gaggle-battle-creek-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-vice-president-harris-in-press-gaggle-battle-creek-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle | Battle Creek,\_MI"
 ---

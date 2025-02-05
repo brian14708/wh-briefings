@@ -2,7 +2,7 @@
 date: '2023-05-17'
 modified_time: 2023-05-17 20:00:55-04:00
 published_time: 2023-05-17 20:00:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/17/remarks-by-president-biden-at-medal-of-valor-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/17/remarks-by-president-biden-at-medal-of-valor-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Medal of Valor\_Ceremony"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 10:59:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-president-biden-after-operation-briefing-brownsville-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-president-biden-after-operation-briefing-brownsville-tx/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Operation Briefing | Brownsville,\_TX"
 ---

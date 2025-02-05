@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 16:22:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-dover-delaware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-dover-delaware/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Dover,\_Delaware"
 ---

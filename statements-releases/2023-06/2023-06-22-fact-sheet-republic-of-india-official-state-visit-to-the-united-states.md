@@ -2,7 +2,7 @@
 date: '2023-06-22'
 modified_time: 2023-06-29 15:41:02-04:00
 published_time: 2023-06-22 15:54:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/fact-sheet-republic-of-india-official-state-visit-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/fact-sheet-republic-of-india-official-state-visit-to-the-united-states/
 tags: statements-releases
 title: "FACT SHEET: Republic of India Official State Visit to the United\_States"
 ---

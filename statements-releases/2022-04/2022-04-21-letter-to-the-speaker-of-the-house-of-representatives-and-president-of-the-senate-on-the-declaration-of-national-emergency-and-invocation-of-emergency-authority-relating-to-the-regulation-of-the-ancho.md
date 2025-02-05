@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 published_time: 2022-04-21 10:39:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-declaration-of-national-emergency-and-invocation-of-emergency-authority-relating-to-the-regulation-of-the-ancho/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-declaration-of-national-emergency-and-invocation-of-emergency-authority-relating-to-the-regulation-of-the-ancho/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives and President of the\
   \ Senate on the Declaration of National Emergency and Invocation of Emergency Authority\

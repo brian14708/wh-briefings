@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 18:05:13-04:00
 published_time: 2024-09-20 18:05:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-celebration-of-the-25th-anniversary-of-the-west-wing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-celebration-of-the-25th-anniversary-of-the-west-wing/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Celebration\
   \ of the 25th Anniversary of The West\_Wing"

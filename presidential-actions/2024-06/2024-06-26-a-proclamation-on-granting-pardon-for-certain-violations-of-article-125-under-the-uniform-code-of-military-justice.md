@@ -1,7 +1,7 @@
 ---
 date: '2024-06-26'
 published_time: 2024-06-26 09:12:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/26/a-proclamation-on-granting-pardon-for-certain-violations-of-article-125-under-the-uniform-code-of-military-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/26/a-proclamation-on-granting-pardon-for-certain-violations-of-article-125-under-the-uniform-code-of-military-justice/
 tags: presidential-actions
 title: "A Proclamation on Granting Pardon for Certain Violations of Article 125 Under\
   \ the Uniform Code of Military\_Justice"

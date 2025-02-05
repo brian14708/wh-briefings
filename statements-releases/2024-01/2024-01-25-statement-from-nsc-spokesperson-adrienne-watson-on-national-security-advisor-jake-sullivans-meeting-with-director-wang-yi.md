@@ -1,7 +1,7 @@
 ---
 date: '2024-01-25'
 published_time: 2024-01-25 20:09:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-director-wang-yi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-director-wang-yi/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Director Wang\_Yi"

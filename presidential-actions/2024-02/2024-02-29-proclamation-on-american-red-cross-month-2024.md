@@ -1,7 +1,7 @@
 ---
 date: '2024-02-29'
 published_time: 2024-02-29 13:33:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/29/proclamation-on-american-red-cross-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/29/proclamation-on-american-red-cross-month-2024/
 tags: presidential-actions
 title: "Proclamation on American Red Cross Month,\_2024"
 ---

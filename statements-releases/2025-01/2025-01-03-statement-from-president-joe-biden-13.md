@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-03 08:02:42-05:00
 published_time: 2025-01-03 08:02:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/03/statement-from-president-joe-biden-13/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/03/statement-from-president-joe-biden-13/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

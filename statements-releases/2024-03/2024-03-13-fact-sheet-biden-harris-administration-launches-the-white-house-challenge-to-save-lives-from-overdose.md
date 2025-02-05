@@ -2,7 +2,7 @@
 date: '2024-03-13'
 modified_time: 2024-03-13 08:05:11-04:00
 published_time: 2024-03-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-save-lives-from-overdose/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-save-lives-from-overdose/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches the White\_House Challenge\
   \ to Save Lives from\_Overdose"
@@ -10,10 +10,10 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Launches the White\_House 
  
 Today, in support of President Biden’s [Unity Agenda efforts to beat the
 overdose
-crisis](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/),
+crisis](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/),
 the Biden-Harris Administration is announcing the White House Challenge
 to Save Lives from Overdose. The
-[Challenge](https://www.whitehouse.gov/savelivesfromoverdose) is a
+[Challenge](https://bidenwhitehouse.archives.gov/savelivesfromoverdose) is a
 nationwide call-to-action to stakeholders across all sectors to save
 lives by committing to increase training on and access to lifesaving
 opioid overdose reversal medications.
@@ -43,9 +43,9 @@ medications to employees and customers so they might save a life at
 home, work, or in their communities.
 
 Organizations may make a commitment
-[*here*](https://www.whitehouse.gov/savelivesfromoverdose/make-a-commitment/)
+[*here*](https://bidenwhitehouse.archives.gov/savelivesfromoverdose/make-a-commitment/)
 and share a story of how their efforts saved a life
-[*here*](https://www.whitehouse.gov/savelivesfromoverdose/tell-your-story/).
+[*here*](https://bidenwhitehouse.archives.gov/savelivesfromoverdose/tell-your-story/).
 Several organizations and businesses are already stepping up across
 industries by taking the following actions and making the following
 commitments:
@@ -211,7 +211,7 @@ State & Local Transit Systems
 
 Expanding access to opioid overdose reversal medications is a key part
 of the [*National Drug Control
-Strategy*](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
+Strategy*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
 and the Biden-Harris Administration has made historic investments and
 taken historic action over the past three years to deliver on this
 priority. This includes:
@@ -308,7 +308,7 @@ priority. This includes:
 <!-- -->
 
 -   The White House and the U.S. Department of Education [called
-    on](https://www.whitehouse.gov/wp-content/uploads/2023/10/Letter-to-Schools.pdf)
+    on](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Letter-to-Schools.pdf)
     schools, colleges, and universities to have opioid overdose reversal
     medications on-site and ensure that students and employees are
     prepared to use these medications to save a life on or near their
@@ -324,7 +324,7 @@ investing $83 billion in treatment, which is 42% more than was made
 under the previous Administration.
 
 Saving lives is the North Star of the [National Drug Control
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
 and this effort requires more than just federal resources. We must come
 together. In memory of those we have lost and to protect those at risk
 of overdose, the Administration is refocusing the Nation’s attention on

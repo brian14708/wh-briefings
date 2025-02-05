@@ -1,7 +1,7 @@
 ---
 date: '2022-06-29'
 published_time: 2022-06-29 10:06:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/29/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-madrid-spain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/29/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-madrid-spain/
 tags: press-briefings
 title: "Remarks by President\_Biden and NATO Secretary General Jens Stoltenberg |\
   \ Madrid,\_Spain"

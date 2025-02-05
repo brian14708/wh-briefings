@@ -2,7 +2,7 @@
 date: '2024-07-22'
 modified_time: 2024-07-22 13:49:28-04:00
 published_time: 2024-07-22 13:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/22/biden-harris-administration-announces-the-michigan-maritime-manufacturing-m3-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/22/biden-harris-administration-announces-the-michigan-maritime-manufacturing-m3-initiative/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Michigan Maritime Manufacturing\
   \ (M3)\_Initiative"

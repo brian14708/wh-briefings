@@ -2,7 +2,7 @@
 date: '2025-01-05'
 modified_time: 2025-01-06 15:19:39-05:00
 published_time: 2025-01-05 22:18:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/05/remarks-by-president-biden-at-reception-for-new-democratic-members-of-congress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/05/remarks-by-president-biden-at-reception-for-new-democratic-members-of-congress/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Reception for New Democratic Members of\_Congress"
 ---

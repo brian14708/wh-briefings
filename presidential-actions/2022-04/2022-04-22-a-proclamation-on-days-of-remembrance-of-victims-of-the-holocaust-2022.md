@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 15:21:12-04:00
 published_time: 2022-04-22 15:21:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/a-proclamation-on-days-of-remembrance-of-victims-of-the-holocaust-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/22/a-proclamation-on-days-of-remembrance-of-victims-of-the-holocaust-2022/
 tags: presidential-actions
 title: "A Proclamation on Days Of Remembrance Of Victims Of The Holocaust,\_2022"
 ---

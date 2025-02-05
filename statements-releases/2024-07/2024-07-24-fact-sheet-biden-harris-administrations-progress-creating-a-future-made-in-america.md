@@ -2,7 +2,7 @@
 date: '2024-07-24'
 modified_time: 2024-07-23 20:03:03-04:00
 published_time: 2024-07-24 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administrations-progress-creating-a-future-made-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administrations-progress-creating-a-future-made-in-america/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Progress Creating a Future\
   \ Made in\_America"
@@ -12,9 +12,9 @@ Since day one, President Biden and Vice President Harris have worked to
 make “Made in America” a reality. In his first week in office, President
 Biden signed his [*Executive Order on Ensuring the Future is Made in All
 of America by All of America’s
-Workers*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/),
+Workers*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/),
 which established the first ever [Made in America
-Office](https://www.whitehouse.gov/omb/briefing-room/2022/01/25/one-year-anniversary-of-the-made-in-america-office/)
+Office](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/01/25/one-year-anniversary-of-the-made-in-america-office/)
 at the White House Office of Management and Budget, and launched a
 whole-of-government initiative to support American manufacturing. The
 President and Vice President secured historic legislation to make “Made
@@ -32,7 +32,7 @@ funded infrastructure projects are produced in the America. The *CHIPS
 and Science Act* is making the United States once again a world leader
 in manufacturing semiconductors that power our lives. And the *Inflation
 Reduction Act* is powering a [manufacturing
-revolution](https://www.whitehouse.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/)
+revolution](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/)
 in clean energy industries of the future.
 
 Under President Biden and Vice President Harris, businesses are building
@@ -90,7 +90,7 @@ Administration that are making “Made in America” a reality.
 <!-- -->
 
 -   **Buy American:** In 2022, the Biden-Harris Administration
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/)
     the most robust updates to the implementation of the Buy American
     Act in nearly 70 years to ensure taxpayer dollars create good-paying
     jobs here at home, and strengthen critical supply chains. This rule
@@ -105,7 +105,7 @@ Administration that are making “Made in America” a reality.
 <!-- -->
 
 -   **Broadband:** The Biden-Harris [Investing in
-    America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+    America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
     agenda includes historic funding for high-speed internet access,
     spurring [hundreds of
     millions](https://www.ntia.gov/blog/2024/american-made-internet-all)
@@ -118,7 +118,7 @@ Administration that are making “Made in America” a reality.
     thousands of good-paying manufacturing jobs across the
     [country](https://www.ntia.gov/sites/default/files/2024-02/baba-map-updated-022124.png)
     — from
-    [Kenosha](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/),
+    [Kenosha](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/),
     Wisconsin to Hickory, North Carolina and Gilbert, Arizona. Workers
     in these communities are now producing broadband equipment, like
     fiber optic cable and key electronics, necessary to bring
@@ -126,10 +126,10 @@ Administration that are making “Made in America” a reality.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png"
 class="wp-image-102984" decoding="async" loading="lazy"
 sizes="(max-width: 944px) 100vw, 944px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png 944w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=615,475 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=768,593 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=414,320 414w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=829,640 829w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png 944w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=615,475 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=768,593 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=414,320 414w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1_6eaf74.png?resize=829,640 829w"
 width="944" height="729" />
 </figure>
 
@@ -147,10 +147,10 @@ width="944" height="729" />
     [*Executive Order on Amending Regulations Relating to the
     Safeguarding of Vessels, Harbors, Ports, and Waterfront Facilities
     of the United
-    States*](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/)
+    States*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/)
     to bolster the security of the nation’s ports, and [tariffs to
     protect American workers and businesses from China’s unfair trade
-    practices](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/),
+    practices](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/),
     these investments will support and better secure America’s critical
     infrastructure.  
 -   **High Speed Rail:** The Brightline West High Speed Rail project is
@@ -177,7 +177,7 @@ width="944" height="729" />
     bolts of the growing clean energy economy. Since President Biden and
     Vice President Harris took office, companies have announced [more
     than $250
-    billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+    billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
     in investments in American clean energy and electric vehicle
     manufacturing, creating new U.S. manufacturing jobs and helping
     communities that have been left behind make a comeback. While
@@ -216,7 +216,7 @@ benefit from the Buy America preference.”
 
 -   **Tech Hubs:** The Department of Commerce Economic Development
     Administration [recently
-    awarded](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-biden-harris-administration-announces-investment-in-twelve-regional-technology-hubs-creating-good-paying-jobs-and-driving-economic-opportunity-and-innovation-in-communities-across-the-cou/)
+    awarded](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-biden-harris-administration-announces-investment-in-twelve-regional-technology-hubs-creating-good-paying-jobs-and-driving-economic-opportunity-and-innovation-in-communities-across-the-cou/)
     $504 million to 12 Regional Technology and Innovation Hubs to
     accelerate the growth of manufacturing and innovative industries,
     such as clean energy, biotechnology, artificial intelligence, and
@@ -228,7 +228,7 @@ benefit from the Buy America preference.”
     middle-out.  
 -   **Industrial Mobilization:** The Office of Management and Budget
     issued guidance to agencies to [better
-    leverage](https://www.whitehouse.gov/omb/briefing-room/2024/03/13/omb-announces-pilot-to-better-leverage-federal-acquisition-to-strengthen-americas-critical-supply-chains/)
+    leverage](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/13/omb-announces-pilot-to-better-leverage-federal-acquisition-to-strengthen-americas-critical-supply-chains/)
     federal procurement dollars to strengthen domestic sourcing for
     critical products and supply chains. This action is in furtherance
     of the President’s directive to develop enhanced price preferences
@@ -240,7 +240,7 @@ benefit from the Buy America preference.”
 -   **Invent it Here Make it Here:** The President’s [*Executive Order
     on Federal Research and Development in Support of Domestic
     Manufacturing and United States
-    Jobs*](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-amidst-manufacturing-boom-president-biden-will-sign-an-executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs-to-encourage/)
+    Jobs*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-amidst-manufacturing-boom-president-biden-will-sign-an-executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs-to-encourage/)
     furthers America’s policy of “invent it here, make it here”—
     benefitting American workers, communities, and global supply chain
     resilience. The EO will boost the incentive to manufacture new
@@ -259,7 +259,7 @@ benefit from the Buy America preference.”
     funds, from copper and aluminum to fiber optic cable, lumber, and
     drywall, are made in America. The Biden-Harris Administration has
     since [delivered on that
-    commitment](https://www.whitehouse.gov/omb/briefing-room/2023/08/14/biden-harris-administration-releases-final-guidance-to-bolster-american-made-goods-in-federal-infrastructure-projects/),
+    commitment](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/08/14/biden-harris-administration-releases-final-guidance-to-bolster-american-made-goods-in-federal-infrastructure-projects/),
     and these standards now apply to virtually all infrastructure
     spending supported by Federal financial assistance. Meanwhile,
     thanks to the historic investments in the Biden-Harris climate law,

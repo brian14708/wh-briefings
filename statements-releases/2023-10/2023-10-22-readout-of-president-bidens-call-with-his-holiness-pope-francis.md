@@ -1,7 +1,7 @@
 ---
 date: '2023-10-22'
 published_time: 2023-10-22 13:46:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/22/readout-of-president-bidens-call-with-his-holiness-pope-francis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/22/readout-of-president-bidens-call-with-his-holiness-pope-francis/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with His Holiness Pope\_Francis"
 ---

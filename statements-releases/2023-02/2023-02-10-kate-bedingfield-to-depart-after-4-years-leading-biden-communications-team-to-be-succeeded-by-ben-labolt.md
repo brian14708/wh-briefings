@@ -1,7 +1,7 @@
 ---
 date: '2023-02-10'
 published_time: 2023-02-10 10:14:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/kate-bedingfield-to-depart-after-4-years-leading-biden-communications-team-to-be-succeeded-by-ben-labolt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/kate-bedingfield-to-depart-after-4-years-leading-biden-communications-team-to-be-succeeded-by-ben-labolt/
 tags: statements-releases
 title: "Kate Bedingfield to Depart After 4 Years Leading Biden Communications Team;\
   \ to be Succeeded by Ben\_LaBolt"

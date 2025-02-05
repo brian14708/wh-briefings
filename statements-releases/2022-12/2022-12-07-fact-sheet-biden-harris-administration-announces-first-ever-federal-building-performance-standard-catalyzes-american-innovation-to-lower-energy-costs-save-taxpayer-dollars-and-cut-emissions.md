@@ -2,7 +2,7 @@
 date: '2022-12-07'
 modified_time: 2022-12-08 15:47:18-05:00
 published_time: 2022-12-07 12:02:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/07/fact-sheet-biden-harris-administration-announces-first-ever-federal-building-performance-standard-catalyzes-american-innovation-to-lower-energy-costs-save-taxpayer-dollars-and-cut-emissions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/07/fact-sheet-biden-harris-administration-announces-first-ever-federal-building-performance-standard-catalyzes-american-innovation-to-lower-energy-costs-save-taxpayer-dollars-and-cut-emissions/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces First-Ever Federal\
   \ Building Performance Standard, Catalyzes American Innovation to Lower Energy Costs,\
@@ -73,7 +73,7 @@ reduce reliance on imported fossil fuels from volatile parts of the
 world and cut millions of tons of GHG emissions. **Funding provided
 through the President’s** Bipartisan Infrastructure Law**, agency
 operating budgets, and the** [Climate Smart Buildings
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-white-house-takes-action-on-climate-by-accelerating-energy-efficiency-projects-across-federal-government/#:~:text=The%20Climate%20Smart%20Buildings%20Initiative%20is%20an%20integral,by%202032%20and%20achieve%20net-zero%20emissions%20by%202045.)
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-white-house-takes-action-on-climate-by-accelerating-energy-efficiency-projects-across-federal-government/#:~:text=The%20Climate%20Smart%20Buildings%20Initiative%20is%20an%20integral,by%202032%20and%20achieve%20net-zero%20emissions%20by%202045.)
 **will aid implementation.** To further reduce costs and maximize
 efficiencies, agencies will apply electrification strategies in
 conjunction with deep energy retrofits, energy use and water use
@@ -120,7 +120,7 @@ efficiency. Further, the Inflation Reduction Act expanded eligibility
 for the deduction to a broader range of organizations, including
 non-profits and Tribal governments. The [Department of Treasury
 (Treasury) recently announced that it will release
-notices ](https://www.whitehouse.gov/cleanenergy/clean-energy-updates/2022/11/07/how-to-engage-with-treasury-on-clean-energy-tax-incentives/#incentives-for-homes-and-buildings)to
+notices ](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-updates/2022/11/07/how-to-engage-with-treasury-on-clean-energy-tax-incentives/#incentives-for-homes-and-buildings)to
 collect input from stakeholders, experts, and the public on key climate
 and energy tax provisions of the law.
 

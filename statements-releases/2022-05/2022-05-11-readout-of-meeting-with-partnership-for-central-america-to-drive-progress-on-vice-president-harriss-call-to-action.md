@@ -1,7 +1,7 @@
 ---
 date: '2022-05-11'
 published_time: 2022-05-11 16:47:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/readout-of-meeting-with-partnership-for-central-america-to-drive-progress-on-vice-president-harriss-call-to-action/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/readout-of-meeting-with-partnership-for-central-america-to-drive-progress-on-vice-president-harriss-call-to-action/
 tags: statements-releases
 title: "Readout of Meeting with Partnership for Central America to Drive Progress\
   \ on Vice President Harris\u2019s\_Call to\_Action"

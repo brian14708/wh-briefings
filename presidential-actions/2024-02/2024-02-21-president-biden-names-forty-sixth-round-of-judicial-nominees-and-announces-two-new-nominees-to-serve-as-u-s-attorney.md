@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-21 09:35:48-05:00
 published_time: 2024-02-21 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/21/president-biden-names-forty-sixth-round-of-judicial-nominees-and-announces-two-new-nominees-to-serve-as-u-s-attorney/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/21/president-biden-names-forty-sixth-round-of-judicial-nominees-and-announces-two-new-nominees-to-serve-as-u-s-attorney/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Sixth Round of Judicial Nominees and Announces\
   \ Two New Nominees to Serve as U.S.\_Attorney"

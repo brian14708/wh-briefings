@@ -1,7 +1,7 @@
 ---
 date: '2022-07-22'
 published_time: 2022-07-22 13:25:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/22/a-proclamation-on-made-in-america-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/22/a-proclamation-on-made-in-america-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Made in America Week,\_2022"
 ---

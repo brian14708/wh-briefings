@@ -1,7 +1,7 @@
 ---
 date: '2022-07-11'
 published_time: 2022-07-11 19:07:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/11/remarks-by-president-biden-at-an-event-commemorating-the-passage-of-the-safer-communities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/11/remarks-by-president-biden-at-an-event-commemorating-the-passage-of-the-safer-communities-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an Event Commemorating the Passage of the Safer\
   \ Communities\_Act"

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-12'
 published_time: 2023-09-12 22:20:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/12/remarks-by-first-lady-jill-biden-at-an-event-to-celebrate-the2023-praemium-imperiale-laureates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/12/remarks-by-first-lady-jill-biden-at-an-event-to-celebrate-the2023-praemium-imperiale-laureates/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at an Event to Celebrate the2023 Praemium\
   \ Imperiale\_Laureates"

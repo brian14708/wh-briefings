@@ -2,7 +2,7 @@
 date: '2024-11-14'
 modified_time: 2024-11-13 16:31:49-05:00
 published_time: 2024-11-14 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-biden-harris-administration-continues-driving-climate-investments-to-reduce-emissions-lower-home-energy-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-biden-harris-administration-continues-driving-climate-investments-to-reduce-emissions-lower-home-energy-costs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues Driving Climate Investments\
   \ to Reduce Emissions, Lower Home Energy\_Costs"
@@ -116,6 +116,6 @@ and our environment for generations to come. Additional actions the
 Administration has taken to deploy clean energy, bolster climate
 resilience, cut energy costs, revitalize American manufacturing, advance
 environmental justice, and conserve our lands and waters can be [found
-here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/).
+here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/).
 
 \###

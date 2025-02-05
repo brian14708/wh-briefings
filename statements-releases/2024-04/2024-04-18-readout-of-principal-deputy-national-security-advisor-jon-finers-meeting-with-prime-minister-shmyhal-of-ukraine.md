@@ -1,7 +1,7 @@
 ---
 date: '2024-04-18'
 published_time: 2024-04-18 22:36:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/18/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-prime-minister-shmyhal-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/18/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-prime-minister-shmyhal-of-ukraine/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Prime Minister Shmyhal of\_Ukraine"

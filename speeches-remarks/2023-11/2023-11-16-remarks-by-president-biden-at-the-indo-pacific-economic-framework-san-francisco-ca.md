@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 22:39:23-05:00
 published_time: 2023-11-16 22:39:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-the-indo-pacific-economic-framework-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-the-indo-pacific-economic-framework-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Indo-Pacific Economic Framework | San Francisco,\_\
   CA"

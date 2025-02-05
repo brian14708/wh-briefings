@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-05-21'
 modified_time: 2021-05-21 17:17:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/21/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-38/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/05/21/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-38/
 published_time: 2021-05-21 17:17:08-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -701,4 +701,4 @@ Anyway, thank you all.  Have a very happy Friday and a great weekend.
 11:37 A.M. EDT
 
 To view the COVID Press Briefing slides,
-visit <https://www.whitehouse.gov/wp-content/uploads/2021/05/COVID-Press-Briefing_21May2021-for-transcript.pdf>
+visit <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/COVID-Press-Briefing_21May2021-for-transcript.pdf>

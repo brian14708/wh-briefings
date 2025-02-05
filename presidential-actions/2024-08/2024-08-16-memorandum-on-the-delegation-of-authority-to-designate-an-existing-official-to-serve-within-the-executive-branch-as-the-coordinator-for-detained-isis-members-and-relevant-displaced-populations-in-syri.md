@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 15:25:57-04:00
 published_time: 2024-08-16 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/16/memorandum-on-the-delegation-of-authority-to-designate-an-existing-official-to-serve-within-the-executive-branch-as-the-coordinator-for-detained-isis-members-and-relevant-displaced-populations-in-syri/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/16/memorandum-on-the-delegation-of-authority-to-designate-an-existing-official-to-serve-within-the-executive-branch-as-the-coordinator-for-detained-isis-members-and-relevant-displaced-populations-in-syri/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority to Designate an Existing Official\
   \ to Serve Within the Executive Branch as the Coordinator for Detained ISIS Members\

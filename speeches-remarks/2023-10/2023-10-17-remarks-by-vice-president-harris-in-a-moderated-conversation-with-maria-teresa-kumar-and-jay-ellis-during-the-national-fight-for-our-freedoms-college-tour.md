@@ -2,7 +2,7 @@
 date: '2023-10-17'
 modified_time: 2023-10-23 19:14:49-04:00
 published_time: 2023-10-17 20:23:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/17/remarks-by-vice-president-harris-in-a-moderated-conversation-with-maria-teresa-kumar-and-jay-ellis-during-the-national-fight-for-our-freedoms-college-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/17/remarks-by-vice-president-harris-in-a-moderated-conversation-with-maria-teresa-kumar-and-jay-ellis-during-the-national-fight-for-our-freedoms-college-tour/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Maria Teresa\
   \ Kumar and Jay Ellis During the National \u201CFight for Our Freedoms\u201D College\_\

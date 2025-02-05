@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 11:13:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/04/background-press-call-on-new-artificial-intelligence-announcements/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/04/background-press-call-on-new-artificial-intelligence-announcements/
 tags: press-briefings
 title: "Background Press Call on New Artificial Intelligence\_Announcements"
 ---

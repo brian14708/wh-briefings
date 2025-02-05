@@ -1,7 +1,7 @@
 ---
 date: '2022-05-24'
 published_time: 2022-05-24 23:07:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-on-the-school-shooting-in-uvalde-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-on-the-school-shooting-in-uvalde-texas/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the School Shooting in Uvalde,\_Texas"
 ---

@@ -2,7 +2,7 @@
 date: '2022-10-07'
 modified_time: 2022-10-06 22:13:11-04:00
 published_time: 2022-10-07 10:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-president-biden-signs-executive-order-to-implement-the-european-union-u-s-data-privacy-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-president-biden-signs-executive-order-to-implement-the-european-union-u-s-data-privacy-framework/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Implement the European\
   \ Union-U.S. Data Privacy\_Framework"
@@ -12,7 +12,7 @@ Today, President Biden signed an Executive Order on Enhancing Safeguards
 for United States Signals Intelligence Activities (E.O.) directing the
 steps that the United States will take to implement the U.S. commitments
 under the European Union-U.S. Data Privacy Framework (EU-U.S. DPF)
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/25/fact-sheet-united-states-and-european-commission-announce-trans-atlantic-data-privacy-framework/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/25/fact-sheet-united-states-and-european-commission-announce-trans-atlantic-data-privacy-framework/)
 by President Biden and European Commission President von der Leyen in
 March of 2022. 
 

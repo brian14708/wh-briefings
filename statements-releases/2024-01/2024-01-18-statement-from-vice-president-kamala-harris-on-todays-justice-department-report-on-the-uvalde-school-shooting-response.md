@@ -2,7 +2,7 @@
 date: '2024-01-18'
 modified_time: 2024-01-18 19:10:54-05:00
 published_time: 2024-01-18 19:10:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/18/statement-from-vice-president-kamala-harris-on-todays-justice-department-report-on-the-uvalde-school-shooting-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/18/statement-from-vice-president-kamala-harris-on-todays-justice-department-report-on-the-uvalde-school-shooting-response/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Today\u2019s Justice Department\
   \ Report on the Uvalde School Shooting\_Response"

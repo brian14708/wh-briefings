@@ -1,7 +1,7 @@
 ---
 date: '2022-12-06'
 published_time: 2022-12-06 15:58:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/06/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-economic-council-director-brian-deese-en-route-phoenix-arizona/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/06/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-economic-council-director-brian-deese-en-route-phoenix-arizona/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Economic Council\
   \ Director Brian Deese En Route Phoenix,\_Arizona"

@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-11 09:02:49-05:00
 published_time: 2022-11-10 19:39:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-homeland-security-advisor-liz-sherwood-randall-at-the-united-nations-security-council-high-level-debate-on-counterterrorism-in-africa-an-imperative-for-peace-security-a/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-homeland-security-advisor-liz-sherwood-randall-at-the-united-nations-security-council-high-level-debate-on-counterterrorism-in-africa-an-imperative-for-peace-security-a/
 tags: speeches-remarks
 title: "Remarks by Homeland Security Advisor Dr. Liz Sherwood-Randall at the United\
   \ Nations Security Council High-Level Debate on \u201CCounterterrorism in Africa\

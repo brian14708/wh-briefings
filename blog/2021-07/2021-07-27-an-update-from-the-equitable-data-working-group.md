@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-07-27'
 modified_time: 2021-07-27 09:46:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/07/27/an-update-from-the-equitable-data-working-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/07/27/an-update-from-the-equitable-data-working-group/
 published_time: 2021-07-27 09:46:28-04:00
 title: "An Update from the Equitable Data Working\_Group"
 ---
@@ -16,7 +16,7 @@ The Equitable Data Working Group was established on the first day of the
 Biden-Harris Administration under Executive Order 13985, *[Advancing
 Racial Equity and Support for Underserved Communities Through the
 Federal
-Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/)*,
+Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/)*,
 as part of the President’s commitment to a whole-of-government approach
 to advancing equity. As the order notes, “a first step to promoting
 equity in Government action is to gather the data necessary to inform

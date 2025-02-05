@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 15:36:50-04:00
 published_time: 2023-04-25 15:36:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/statement-by-white-house-press-secretary-karine-jean-pierre-on-washington-becoming-tenth-state-to-enact-an-assault-weapons-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/statement-by-white-house-press-secretary-karine-jean-pierre-on-washington-becoming-tenth-state-to-enact-an-assault-weapons-ban/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on Washington\
   \ Becoming Tenth State to Enact an Assault Weapons\_Ban"

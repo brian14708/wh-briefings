@@ -2,7 +2,7 @@
 date: '2024-12-21'
 modified_time: 2024-12-21 12:03:20-05:00
 published_time: 2024-12-21 12:03:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/21/statement-from-president-joe-biden-on-the-bipartisan-government-funding-bill-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/21/statement-from-president-joe-biden-on-the-bipartisan-government-funding-bill-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Bipartisan Government Funding\_\
   Bill"

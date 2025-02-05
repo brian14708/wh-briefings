@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 15:07:10-04:00
 published_time: 2022-08-03 15:07:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/statement-from-president-biden-on-the-third-anniversary-of-the-el-paso-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/statement-from-president-biden-on-the-third-anniversary-of-the-el-paso-shooting/
 tags: statements-releases
 title: "Statement from President\_Biden on the Third Anniversary of the El Paso\_\
   Shooting"

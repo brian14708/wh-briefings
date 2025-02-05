@@ -2,7 +2,7 @@
 date: '2024-04-07'
 modified_time: 2024-04-08 11:39:38-04:00
 published_time: 2024-04-07 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/07/press-call-by-press-secretary-karine-jean-pierre-secretary-of-education-miguel-cardona-and-senior-administration-officials-on-president-bidens-efforts-on-student-debt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/07/press-call-by-press-secretary-karine-jean-pierre-secretary-of-education-miguel-cardona-and-senior-administration-officials-on-president-bidens-efforts-on-student-debt/
 tags: press-briefings
 title: "Press Call by Press Secretary Karine Jean-Pierre, Secretary of Education Miguel\
   \ Cardona, and Senior Administration Officials on President\_Biden\u2019s Efforts\

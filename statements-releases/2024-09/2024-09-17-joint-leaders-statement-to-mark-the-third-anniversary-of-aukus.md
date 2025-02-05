@@ -2,7 +2,7 @@
 date: '2024-09-17'
 modified_time: 2024-09-17 09:59:53-04:00
 published_time: 2024-09-17 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/17/joint-leaders-statement-to-mark-the-third-anniversary-of-aukus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/17/joint-leaders-statement-to-mark-the-third-anniversary-of-aukus/
 tags: statements-releases
 title: "Joint Leaders Statement to Mark the Third Anniversary of\_AUKUS"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-09'
 published_time: 2024-09-09 20:59:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections-2/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to Foreign Interference in or Undermining Public Confidence in United\_States\_\

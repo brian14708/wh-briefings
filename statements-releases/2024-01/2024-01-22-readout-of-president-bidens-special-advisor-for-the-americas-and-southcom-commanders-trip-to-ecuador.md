@@ -1,7 +1,7 @@
 ---
 date: '2024-01-22'
 published_time: 2024-01-22 19:45:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-bidens-special-advisor-for-the-americas-and-southcom-commanders-trip-to-ecuador/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-bidens-special-advisor-for-the-americas-and-southcom-commanders-trip-to-ecuador/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Special Advisor for the Americas and SOUTHCOM\
   \ Commander\u2019s Trip to\_Ecuador"

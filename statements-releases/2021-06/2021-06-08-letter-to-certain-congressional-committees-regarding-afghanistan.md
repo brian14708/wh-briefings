@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 16:29:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/letter-to-certain-congressional-committees-regarding-afghanistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/letter-to-certain-congressional-committees-regarding-afghanistan/
 published_time: 2021-06-08 16:29:38-04:00
 title: "Letter to Certain Congressional Committees Regarding\_Afghanistan"
 ---

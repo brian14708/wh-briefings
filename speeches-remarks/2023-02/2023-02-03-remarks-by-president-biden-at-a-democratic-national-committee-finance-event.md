@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-03 19:11:30-05:00
 published_time: 2023-02-03 19:11:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-president-biden-at-a-democratic-national-committee-finance-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-president-biden-at-a-democratic-national-committee-finance-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee Finance\_Event"
 ---

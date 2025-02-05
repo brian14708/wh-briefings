@@ -1,7 +1,7 @@
 ---
 date: '2024-06-13'
 published_time: 2024-06-13 16:11:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/13/nominations-sent-to-the-senate-149/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/13/nominations-sent-to-the-senate-149/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

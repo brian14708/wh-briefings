@@ -2,7 +2,7 @@
 date: '2024-01-08'
 modified_time: 2024-01-08 13:11:25-05:00
 published_time: 2024-01-08 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/08/president-biden-announces-key-nominees-62/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/08/president-biden-announces-key-nominees-62/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

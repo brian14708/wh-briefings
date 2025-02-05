@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-10 09:45:46-04:00
 published_time: 2024-10-10 09:30:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/statement-from-national-economic-advisor-lael-brainard-on-the-september-2024-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/statement-from-national-economic-advisor-lael-brainard-on-the-september-2024-consumer-price-index/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on the September 2024\
   \ Consumer Price\_Index"

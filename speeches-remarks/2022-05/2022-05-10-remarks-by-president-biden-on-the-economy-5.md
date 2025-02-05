@@ -1,7 +1,7 @@
 ---
 date: '2022-05-10'
 published_time: 2022-05-10 14:30:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/10/remarks-by-president-biden-on-the-economy-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/10/remarks-by-president-biden-on-the-economy-5/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_on the\_Economy"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-27'
 published_time: 2022-06-27 11:35:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/27/proclamation-on-increasing-duties-on-certain-articles-from-the-russian-federation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/27/proclamation-on-increasing-duties-on-certain-articles-from-the-russian-federation/
 tags: presidential-actions
 title: "Proclamation on Increasing Duties on Certain Articles from the Russian\_Federation"
 ---

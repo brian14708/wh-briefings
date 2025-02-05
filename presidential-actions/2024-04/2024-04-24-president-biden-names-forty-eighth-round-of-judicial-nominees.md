@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-23 22:43:03-04:00
 published_time: 2024-04-24 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/24/president-biden-names-forty-eighth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/24/president-biden-names-forty-eighth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Eighth Round of Judicial\_Nominees"
 ---

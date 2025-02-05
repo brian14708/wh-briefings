@@ -2,7 +2,7 @@
 date: '2022-11-06'
 modified_time: 2022-11-06 21:44:36-05:00
 published_time: 2022-11-06 21:44:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-vice-president-harris-at-a-get-out-the-vote-event-with-governor-pritzker/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-vice-president-harris-at-a-get-out-the-vote-event-with-governor-pritzker/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a \u201CGet Out The Vote\u201D Event with\
   \ Governor\_Pritzker"

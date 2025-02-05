@@ -1,7 +1,7 @@
 ---
 date: '2023-09-09'
 published_time: 2023-09-09 05:21:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-delivering-a-better-bigger-more-effective-world-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-delivering-a-better-bigger-more-effective-world-bank/
 tags: statements-releases
 title: "FACT SHEET: Delivering a Better, Bigger, More Effective World\_Bank"
 ---

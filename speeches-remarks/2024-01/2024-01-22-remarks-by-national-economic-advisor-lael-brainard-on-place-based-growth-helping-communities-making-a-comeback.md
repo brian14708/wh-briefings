@@ -2,7 +2,7 @@
 date: '2024-01-22'
 modified_time: 2024-01-22 12:55:01-05:00
 published_time: 2024-01-22 13:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-national-economic-advisor-lael-brainard-on-place-based-growth-helping-communities-making-a-comeback/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-national-economic-advisor-lael-brainard-on-place-based-growth-helping-communities-making-a-comeback/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Place-Based Growth:\
   \ Helping Communities Making a\_Comeback"
@@ -95,7 +95,7 @@ First, well-designed public investment in local communities is a force
 multiplier for private investment and growth. Communities often need a
 helping hand to turn around a downward spiral of disinvestment and
 declining local revenues. That is why the [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/build/guidebook/) (BIL) is designed to
+Law](https://bidenwhitehouse.archives.gov/build/guidebook/) (BIL) is designed to
 create strong economic foundations — connecting every home, school, and
 small business to high-speed internet, building resilience, and fixing
 the roads, bridges, airports, ports, and rail that are the connective
@@ -103,7 +103,7 @@ tissue of commerce all across the country.
   
 Earlier this month, the President visited small business owners in
 [Allentown,
-Pennsylvania](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/),
+Pennsylvania](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/),
 once home to major iron and steel manufacturing. The Administration has
 invested hundreds of millions of dollars in rebuilding roads and
 renovating airports in the area, alongside strategic, federal economic
@@ -121,7 +121,7 @@ is unlocking private capital and the economic potential of previously
 left-behind communities.  
   
 [Inflation Reduction
-Act](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/)
+Act](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/)
 (IRA) tax credits set aside $4 billion in additional tax benefits for
 clean energy manufacturing investments in [energy
 communities](https://energycommunities.gov/energy-community-tax-credit-bonus/)
@@ -132,7 +132,7 @@ This approach is producing results: A [Treasury
 analysis](https://home.treasury.gov/news/press-releases/jy1931) found
 that clean energy investments are growing fastest in energy communities.
 For instance, the Administration has helped drive more than [$20
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/fact-sheet-biden-harris-administration-launches-historic-20-billion-competition-to-catalyze-investment-in-clean-energy-projects-and-tackle-the-climate-crisis/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/fact-sheet-biden-harris-administration-launches-historic-20-billion-competition-to-catalyze-investment-in-clean-energy-projects-and-tackle-the-climate-crisis/)
 in federal support to the communities most affected by the energy
 transition, from Appalachia to the Four Corners.  
   
@@ -151,7 +151,7 @@ with median household incomes below the national average.
   
 And, for the first time, local, state, and Tribal governments, as well
 as non-profits, can access clean energy tax credits as [direct
-payments](https://www.whitehouse.gov/cleanenergy/directpay/), unlocking
+payments](https://bidenwhitehouse.archives.gov/cleanenergy/directpay/), unlocking
 new opportunities for local communities to invest in themselves.  
   
 <span style="text-decoration: underline">Connecting Neighborhoods to
@@ -210,7 +210,7 @@ Program](https://www.eda.gov/funding/programs/regional-technology-and-innovation
 allocates resources on a competitive basis to help innovation clusters
 around the country reach the next level. Just recently, the Department
 of Commerce [designated 31 Tech
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/)
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/)
 – coalitions of universities, labor, companies and non-profits – across
 the country, focused on building globally competitive manufacturing and
 innovation ecosystems in industries like clean energy, semiconductors,
@@ -248,7 +248,7 @@ When these programs work well, they pull together federal support for
 workers, small businesses, and new industries so that the whole is
 greater than the sum of the parts in supporting an economic comeback.  
   
-[Milwaukee](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
+[Milwaukee](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
 is a good example of how different federal programs can work together to
 benefit the whole community. BIL funding is not only removing lead pipes
 and providing clean drinking water for Milwaukee’s child care centers
@@ -260,7 +260,7 @@ designation. This is on top of efforts to increase access to affordable
 housing and healthcare.  
   
 In a recent visit to Milwaukee, the President
-[said](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-at-the-wisconsin-black-chamber-of-commerce/)
+[said](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-at-the-wisconsin-black-chamber-of-commerce/)
 that the goal is to make “sure Milwaukee is coming back – and all of
 Milwaukee \[is\] coming back.” Indeed, since the President took office,
 small business applications are up 70 percent, the share of Black people
@@ -270,10 +270,10 @@ cleanup, infrastructure, and small businesses.
   
 The Baltimore area is similarly benefitting from stacking federal
 initiatives. BIL is
-[investing](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law/)
+[investing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law/)
 $4.7 billion in Amtrak’s Frederick Douglass Tunnel, which is expected to
 create 30,000 jobs. A new [workforce
-hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
+hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
 has already generated commitments to train and place hundreds of
 Baltimore residents in apprenticeships. It will improve pathways to the
 middle class for non-college educated residents and create a skilled
@@ -295,9 +295,9 @@ to leave no community behind. It is working. Communities that had been
 left behind are making a comeback. In recent visits, the President has
 talked with workers, small business owners, and residents in communities
 like
-[Allentown](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/)
+[Allentown](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/12/fact-sheet-president-biden-highlights-allentown-lehigh-valley-and-pennsylvanias-economic-comeback/)
 and
-[Milwaukee](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
+[Milwaukee](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
 where new jobs and new small businesses are creating hope.
 
 \###

@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 11:15:28-04:00
 published_time: 2024-03-11 11:15:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-petr-fiala-of-czechia-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-petr-fiala-of-czechia-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of Prime Minister\
   \ Petr Fiala of Czechia to the White\_House"

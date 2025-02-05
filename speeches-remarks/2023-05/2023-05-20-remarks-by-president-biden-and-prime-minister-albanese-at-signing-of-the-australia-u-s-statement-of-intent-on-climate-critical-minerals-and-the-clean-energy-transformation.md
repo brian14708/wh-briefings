@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 05:14:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-and-prime-minister-albanese-at-signing-of-the-australia-u-s-statement-of-intent-on-climate-critical-minerals-and-the-clean-energy-transformation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-and-prime-minister-albanese-at-signing-of-the-australia-u-s-statement-of-intent-on-climate-critical-minerals-and-the-clean-energy-transformation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Albanese at Signing of the\
   \ Australia-U.S. Statement of Intent on Climate, Critical Minerals, and the Clean\

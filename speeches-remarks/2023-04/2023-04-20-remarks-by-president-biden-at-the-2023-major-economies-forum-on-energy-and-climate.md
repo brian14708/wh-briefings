@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 10:08:54-04:00
 published_time: 2023-04-20 10:08:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/20/remarks-by-president-biden-at-the-2023-major-economies-forum-on-energy-and-climate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/20/remarks-by-president-biden-at-the-2023-major-economies-forum-on-energy-and-climate/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2023 Major Economies Forum on Energy and\_\
   Climate"

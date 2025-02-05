@@ -2,7 +2,7 @@
 date: '2024-05-09'
 modified_time: 2024-05-09 14:54:45-04:00
 published_time: 2024-05-09 14:54:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/09/a-proclamation-on-military-spouse-appreciation-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/09/a-proclamation-on-military-spouse-appreciation-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Military Spouse Appreciation Day,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2023-05-14'
 modified_time: 2023-05-14 05:55:26-04:00
 published_time: 2023-05-14 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/14/icymi-president-joe-biden-op-ed-im-doing-everything-i-can-to-reduce-gun-violence-but-congress-must-do-more/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/14/icymi-president-joe-biden-op-ed-im-doing-everything-i-can-to-reduce-gun-violence-but-congress-must-do-more/
 tags: statements-releases
 title: "ICYMI: President Joe\_Biden Op-Ed: \u201CI\u2019m doing everything I can to\
   \ reduce gun violence, but Congress must do\_more\u201D"
@@ -61,7 +61,7 @@ the most significant gun safety legislation in nearly 30 years.
 At the bill signing, in front of families from Buffalo, Uvalde and too
 many other communities affected by gun violence, I said the new law
 was [real
-progress](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/11/remarks-by-president-biden-at-an-event-commemorating-the-passage-of-the-safer-communities-act/).
+progress](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/11/remarks-by-president-biden-at-an-event-commemorating-the-passage-of-the-safer-communities-act/).
 It strengthens firearms background checks for young people, expands the
 use of red flag laws to temporarily remove firearms from those who are a
 danger to themselves or others, helps prevent domestic abusers from

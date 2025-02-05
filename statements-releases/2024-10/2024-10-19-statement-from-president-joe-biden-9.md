@@ -1,7 +1,7 @@
 ---
 date: '2024-10-19'
 published_time: 2024-10-19 21:21:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/19/statement-from-president-joe-biden-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/19/statement-from-president-joe-biden-9/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

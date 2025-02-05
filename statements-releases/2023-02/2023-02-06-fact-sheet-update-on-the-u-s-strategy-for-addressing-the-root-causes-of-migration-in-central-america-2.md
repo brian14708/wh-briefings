@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 11:13:56-05:00
 published_time: 2023-02-06 11:13:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america-2/
 tags: statements-releases
 title: "FACT SHEET: Update on the U.S. Strategy for Addressing the Root Causes of\
   \ Migration in Central\_America"

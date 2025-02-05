@@ -2,13 +2,13 @@
 date: '2022-03-28'
 modified_time: 2022-03-28 11:12:52-04:00
 published_time: 2022-03-28 11:12:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/03/28/taking-on-gun-crime-and-violence-with-a-whole-of-government-approach/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/03/28/taking-on-gun-crime-and-violence-with-a-whole-of-government-approach/
 tags: blog
 title: "Taking on Gun Crime and Violence with a Whole-of-Government\_Approach"
 ---
  
 In his State of the Union
-[address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-president-biden-in-state-of-the-union-address/)
+[address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-president-biden-in-state-of-the-union-address/)
 earlier this month, President Biden highlighted his comprehensive
 strategy to reduce gun violence. He emphasized the $350 billion in
 American Rescue Plan funds that we’ve made available for cities,
@@ -35,7 +35,7 @@ contains five key components:
     communities instead of re-offending.
 
 You can read a full summary of the progress we’ve made
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/).
 We are pulling all of the levers of the federal government to address
 this crisis. For example:
 

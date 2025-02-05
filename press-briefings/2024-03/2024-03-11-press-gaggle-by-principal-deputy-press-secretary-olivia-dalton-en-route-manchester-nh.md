@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 17:35:15-04:00
 published_time: 2024-03-11 17:35:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/11/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-manchester-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/11/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-manchester-nh/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Manchester,\_\
   NH"

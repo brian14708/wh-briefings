@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 15:58:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-honoring-the-2023-national-student-poets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-honoring-the-2023-national-student-poets/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden Honoring the 2023\
   \ National Student\_Poets"

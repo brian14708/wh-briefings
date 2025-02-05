@@ -1,7 +1,7 @@
 ---
 date: '2023-10-26'
 published_time: 2023-10-26 11:13:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/26/statement-from-president-joe-biden-on-the-shooting-in-lewiston-maine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/26/statement-from-president-joe-biden-on-the-shooting-in-lewiston-maine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Lewiston,\_Maine"
 ---

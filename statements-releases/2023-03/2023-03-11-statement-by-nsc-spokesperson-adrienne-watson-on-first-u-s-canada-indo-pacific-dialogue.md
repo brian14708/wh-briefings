@@ -2,7 +2,7 @@
 date: '2023-03-11'
 modified_time: 2023-03-11 12:57:41-05:00
 published_time: 2023-03-11 12:55:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/11/statement-by-nsc-spokesperson-adrienne-watson-on-first-u-s-canada-indo-pacific-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/11/statement-by-nsc-spokesperson-adrienne-watson-on-first-u-s-canada-indo-pacific-dialogue/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on First U.S.-Canada Indo-Pacific\_\
   Dialogue"

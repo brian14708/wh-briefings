@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 18:53:06-04:00
 published_time: 2022-07-12 18:53:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/president-biden-and-president-lopez-obrador-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/president-biden-and-president-lopez-obrador-joint-statement/
 tags: statements-releases
 title: "President\_Biden and President Lopez Obrador Joint\_Statement"
 ---

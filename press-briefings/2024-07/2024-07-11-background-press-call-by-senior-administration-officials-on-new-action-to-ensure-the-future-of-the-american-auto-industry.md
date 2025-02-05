@@ -1,7 +1,7 @@
 ---
 date: '2024-07-11'
 published_time: 2024-07-11 07:37:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/11/background-press-call-by-senior-administration-officials-on-new-action-to-ensure-the-future-of-the-american-auto-industry/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/11/background-press-call-by-senior-administration-officials-on-new-action-to-ensure-the-future-of-the-american-auto-industry/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on New Action to\
   \ Ensure the Future of the American Auto\_Industry"

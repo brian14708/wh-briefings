@@ -2,7 +2,7 @@
 date: '2023-03-09'
 modified_time: 2023-03-10 11:10:04-05:00
 published_time: 2023-03-09 12:04:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Lowers Costs for Families and Gives\
   \ the American People More Breathing\_Room"

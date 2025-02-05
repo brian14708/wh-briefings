@@ -1,7 +1,7 @@
 ---
 date: '2023-09-30'
 published_time: 2023-09-30 21:13:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/30/statement-from-president-joe-biden-on-passage-of-the-bipartisan-bill-to-keep-the-government-open/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/30/statement-from-president-joe-biden-on-passage-of-the-bipartisan-bill-to-keep-the-government-open/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Passage of the Bipartisan Bill to Keep\
   \ the Government\_Open"

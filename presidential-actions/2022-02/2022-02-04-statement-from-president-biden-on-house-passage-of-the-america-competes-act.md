@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2022-02-04'
 modified_time: 2022-02-04 13:01:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/statement-from-president-biden-on-house-passage-of-the-america-competes-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/statement-from-president-biden-on-house-passage-of-the-america-competes-act/
 published_time: 2022-02-04 13:01:07-05:00
 title: "Statement from President\_Biden on House Passage of the America COMPETES\_\
   Act"

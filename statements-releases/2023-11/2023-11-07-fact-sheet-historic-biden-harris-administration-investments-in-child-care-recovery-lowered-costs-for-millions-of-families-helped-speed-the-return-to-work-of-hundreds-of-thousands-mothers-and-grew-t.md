@@ -1,7 +1,7 @@
 ---
 date: '2023-11-07'
 published_time: 2023-11-07 15:30:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/
 tags: statements-releases
 title: "FACT SHEET: Historic Biden-\u2060Harris Administration Investments in Child\
   \ Care Recovery Lowered Costs for Millions of Families, Helped Speed the Return\
@@ -22,7 +22,7 @@ The American Rescue Plan’s (ARP) Child Care Stabilization program
 delivered historic support to over 225,000 child care programs serving
 as many as 10 million children across the country, helping keep their
 doors open for millions of working families who rely on them. A [new
-report](https://www.whitehouse.gov/wp-content/uploads/2023/11/Child-Care-Stabilization.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Child-Care-Stabilization.pdf)
 released by the President’s Council of Economic Advisers (CEA) provides
 evidence of this critical support:
 
@@ -48,7 +48,7 @@ for Congress to deliver further investment in the child care sector.
 
 The President and Vice President have [called on Congress to provide an
 additional year of child care stabilization
-funding](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-white-house-calls-on-congress-to-support-critical-domestic-needs/#:~:text=As%20Congress%20works%20to%20reach,or%20raise%20costs%20for%20families.)
+funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-white-house-calls-on-congress-to-support-critical-domestic-needs/#:~:text=As%20Congress%20works%20to%20reach,or%20raise%20costs%20for%20families.)
 to help ensure that child care providers can remain afloat. At the same
 time, the President and Vice President have called for sustained,
 transformative investments to ensure that all families can access

@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-07 21:37:47-05:00
 published_time: 2024-03-07 21:37:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery-2/
 tags: speeches-remarks
 title: "Remarks of President Joe\_Biden \u2014 State of the Union Address As Prepared\
   \ for\_Delivery"

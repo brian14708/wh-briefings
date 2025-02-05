@@ -2,7 +2,7 @@
 date: '2023-05-10'
 modified_time: 2023-05-10 19:00:45-04:00
 published_time: 2023-05-10 19:00:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/readout-white-house-convenes-state-and-local-leaders-for-a-forum-onmental-health-and-well-being-during-mental-health-awareness-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/readout-white-house-convenes-state-and-local-leaders-for-a-forum-onmental-health-and-well-being-during-mental-health-awareness-month/
 tags: statements-releases
 title: "Readout: White\_House Convenes State and Local Leaders for a Forum on Mental\
   \ Health and Well Being During Mental Health Awareness\_Month"
@@ -20,7 +20,7 @@ White House officials participated in the convening.
 Tackling the mental health crisis is a key pillar of President Biden’s
 Unity Agenda. The Administration has focused on advancing the
 President’s [Mental Health
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) across
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) across
 its three objectives: strengthening system capacity, connecting more
 Americans to care, and creating healthy and supportive environments. As
 part of that work, the Administration has expanded access to mental

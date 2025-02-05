@@ -2,7 +2,7 @@
 date: '2023-05-19'
 modified_time: 2023-05-19 09:52:48-04:00
 published_time: 2023-05-19 04:59:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/19/g7-leaders-statement-on-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/19/g7-leaders-statement-on-ukraine/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on\_Ukraine"
 ---

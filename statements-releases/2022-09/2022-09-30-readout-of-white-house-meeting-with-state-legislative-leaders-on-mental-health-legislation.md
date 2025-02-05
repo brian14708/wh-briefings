@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 17:08:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/readout-of-white-house-meeting-with-state-legislative-leaders-on-mental-health-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/readout-of-white-house-meeting-with-state-legislative-leaders-on-mental-health-legislation/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Mental Health\
   \ Legislation"
@@ -17,12 +17,12 @@ substance use care.
 Suicide remains a leading cause of death in the United States, claiming
 the lives of more than 45,000 individuals in 2020. The Biden-Harris
 Administration has [invested unprecedented
-resources](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-actions-to-prevent-suicide/)
+resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-actions-to-prevent-suicide/)
 in improving suicide prevention and care, and in providing Americans the
 support, resources, and care they need to safeguard and strengthen their
 mental health. In May 2022, the Biden-Harris Administration released a
 [comprehensive strategy to address the national mental health
-crisis](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-highlights-strategy-to-address-the-national-mental-health-crisis/).
+crisis](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-highlights-strategy-to-address-the-national-mental-health-crisis/).
 This strategy includes supporting the launch of the “988” crisis
 response line to strengthen community-based crisis response, training
 and recruiting a diverse pipeline of behavioral health professionals,

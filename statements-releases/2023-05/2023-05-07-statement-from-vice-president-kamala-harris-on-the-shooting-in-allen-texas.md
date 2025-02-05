@@ -1,7 +1,7 @@
 ---
 date: '2023-05-07'
 published_time: 2023-05-07 18:57:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/07/statement-from-vice-president-kamala-harris-on-the-shooting-in-allen-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/07/statement-from-vice-president-kamala-harris-on-the-shooting-in-allen-texas/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Shooting in Allen,\_Texas"
 ---

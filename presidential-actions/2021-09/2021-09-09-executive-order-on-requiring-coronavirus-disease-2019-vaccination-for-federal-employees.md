@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-09-09'
 modified_time: 2021-09-30 18:09:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/
 published_time: 2021-09-09 17:38:20-04:00
 title: "Executive Order on Requiring Coronavirus Disease 2019 Vaccination for Federal\_\
   Employees"

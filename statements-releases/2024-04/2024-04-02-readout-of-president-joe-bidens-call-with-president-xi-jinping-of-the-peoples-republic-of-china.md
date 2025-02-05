@@ -1,7 +1,7 @@
 ---
 date: '2024-04-02'
 published_time: 2024-04-02 11:59:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/02/readout-of-president-joe-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/02/readout-of-president-joe-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Xi Jinping of the\
   \ People\u2019s Republic of\_China"

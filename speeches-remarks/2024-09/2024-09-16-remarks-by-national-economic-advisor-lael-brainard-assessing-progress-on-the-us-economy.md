@@ -2,7 +2,7 @@
 date: '2024-09-16'
 modified_time: 2024-09-19 12:51:25-04:00
 published_time: 2024-09-16 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-national-economic-advisor-lael-brainard-assessing-progress-on-the-us-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/16/remarks-by-national-economic-advisor-lael-brainard-assessing-progress-on-the-us-economy/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard Assessing Progress on the\
   \ US\_Economy"
@@ -241,10 +241,10 @@ opportunities for working families and the middle class.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?w=640"
 class="wp-image-105524" decoding="async" loading="lazy"
 sizes="(max-width: 1210px) 100vw, 1210px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png 1210w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=415,615 415w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=768,1139 768w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=856,1270 856w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=1035,1536 1035w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=216,320 216w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=431,640 431w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=863,1280 863w, https://www.whitehouse.gov/wp-content/uploads/2024/09/image.png?resize=573,850 573w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png 1210w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=415,615 415w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=768,1139 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=856,1270 856w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=1035,1536 1035w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=216,320 216w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=431,640 431w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=863,1280 863w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.png?resize=573,850 573w"
 width="1210" height="1795" />
 </figure>
 
@@ -256,10 +256,10 @@ decoding="async" />
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?w=640"
 class="wp-image-105567" decoding="async" loading="lazy"
 sizes="(max-width: 1980px) 100vw, 1980px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png 1980w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=615,461 615w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=768,576 768w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1270,953 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1536,1152 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=427,320 427w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=853,640 853w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1707,1280 1707w, https://www.whitehouse.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1038,779 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png 1980w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=615,461 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=768,576 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1270,953 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1536,1152 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=427,320 427w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=853,640 853w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1707,1280 1707w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/figure3_web_final.png?resize=1038,779 1038w"
 width="1980" height="1485" />
 </figure>
 

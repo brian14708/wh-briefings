@@ -1,7 +1,7 @@
 ---
 date: '2023-03-29'
 published_time: 2023-03-29 12:16:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues to Advance American\
   \ Offshore Wind\_Opportunities"
@@ -11,7 +11,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Continues to Advance Ameri
 for Workers and Communities, and Protect Biodiversity and Ocean Co-Use*
 
 Two years ago today, President Biden [set a
-goal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
+goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
 of deploying 30 gigawatts of offshore wind electricity generation by
 2030—enough to power more than 10 million American homes with clean
 energy, while creating good-paying jobs in the United States across
@@ -95,7 +95,7 @@ other federal agencies, including these ten key ways:
 3.  **Made in America Supply Chains:** The Administration is working to
     swiftly implement the Inflation Reduction Act’s historic suite of
     [clean energy tax
-    credits](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/),
+    credits](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/),
     including a manufacturing tax credit to support U.S. production of
     offshore wind components such as blades, nacelles, towers, and
     foundations. To support specialized shipbuilding, the Department of
@@ -127,7 +127,7 @@ other federal agencies, including these ten key ways:
     consultations to ensure protection of coastal and marine resources.
     Offshore wind is also a focus of the Administration’s [Permitting
     Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/),
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/),
     bringing together federal agencies, White House offices, and the
     Federal Permitting Improvement Steering Council to promote efficient
     reviews guided by the best available science and Indigenous
@@ -178,18 +178,18 @@ other federal agencies, including these ten key ways:
     and [prize
     competitions](https://americanmadechallenges.org/challenges/flowin/)
     to accelerate breakthroughs. DOI set a
-    [goal](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)
+    [goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)
     to deploy 15 GW of floating offshore wind capacity by 2035—enough to
     power over five million American homes.  
 8.  **Federal-State Offshore Wind Implementation Partnership:**
     President Biden brought together eleven East Coast governors to
-    [launch](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/)
+    [launch](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/)
     the Federal-State Offshore Wind Implementation Partnership, with
     states working alongside the Administration to maximize the benefits
     of offshore wind development for workers and communities. With
     offshore wind leasing advancing beyond the Atlantic, both California
     and Louisiana
-    [joined](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/)
+    [joined](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/)
     the Partnership to collaborate with federal agencies and other
     states on priorities including building an American supply chain and
     skilled workforce for offshore wind.  
@@ -218,7 +218,7 @@ other federal agencies, including these ten key ways:
     advancing offshore wind in concert with other priorities. These
     cross-cutting efforts include the nation’s first [Ocean Climate
     Action
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
     detailing offshore wind actions that are part of broader efforts to
     ensure a robust and sustainable ocean economy; the NOAA-BOEM draft
     joint strategy to protect and promote recovery of [North Atlantic

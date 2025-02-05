@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 14:25:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/08/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-december-7-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/08/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-december-7-2023/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby, December 7,\_2023"

@@ -2,7 +2,7 @@
 date: '2023-10-27'
 modified_time: 2023-10-27 17:48:25-04:00
 published_time: 2023-10-27 17:48:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/readout-of-white-house-meeting-on-increasing-contraception-access-and-affordability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/readout-of-white-house-meeting-on-increasing-contraception-access-and-affordability/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Increasing Contraception Access and Affordability"
 ---

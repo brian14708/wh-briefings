@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 15:49:16-05:00
 published_time: 2023-12-19 15:49:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/19/remarks-by-president-biden-at-memorial-service-for-justice-sandra-day-oconnor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/19/remarks-by-president-biden-at-memorial-service-for-justice-sandra-day-oconnor/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Memorial Service for Justice Sandra Day O\u2019\
   Connor"

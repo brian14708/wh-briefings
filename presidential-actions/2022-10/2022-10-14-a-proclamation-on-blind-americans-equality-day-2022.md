@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 11:29:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/14/a-proclamation-on-blind-americans-equality-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/14/a-proclamation-on-blind-americans-equality-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Blind Americans Equality Day,\_2022"
 ---

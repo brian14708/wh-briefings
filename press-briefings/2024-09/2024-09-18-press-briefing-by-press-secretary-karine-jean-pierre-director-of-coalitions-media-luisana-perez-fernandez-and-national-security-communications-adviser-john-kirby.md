@@ -2,7 +2,7 @@
 date: '2024-09-18'
 modified_time: 2024-09-19 09:44:22-04:00
 published_time: 2024-09-18 15:43:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/18/press-briefing-by-press-secretary-karine-jean-pierre-director-of-coalitions-media-luisana-perez-fernandez-and-national-security-communications-adviser-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/18/press-briefing-by-press-secretary-karine-jean-pierre-director-of-coalitions-media-luisana-perez-fernandez-and-national-security-communications-adviser-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Director of Coalitions\
   \ Media Luisana P\xE9rez Fern\xE1ndez, and National Security Communications Adviser\

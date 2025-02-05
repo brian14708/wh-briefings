@@ -2,7 +2,7 @@
 date: '2024-11-17'
 modified_time: 2024-11-17 16:17:40-05:00
 published_time: 2024-11-17 16:17:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/17/a-proclamation-on-international-conservation-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/17/a-proclamation-on-international-conservation-day-2024/
 tags: presidential-actions
 title: "A Proclamation on International Conservation Day,\_2024"
 ---

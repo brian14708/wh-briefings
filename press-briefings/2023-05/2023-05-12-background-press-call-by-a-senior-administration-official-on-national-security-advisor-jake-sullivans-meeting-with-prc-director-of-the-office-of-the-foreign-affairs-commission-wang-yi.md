@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 11:17:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/12/background-press-call-by-a-senior-administration-official-on-national-security-advisor-jake-sullivans-meeting-with-prc-director-of-the-office-of-the-foreign-affairs-commission-wang-yi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/12/background-press-call-by-a-senior-administration-official-on-national-security-advisor-jake-sullivans-meeting-with-prc-director-of-the-office-of-the-foreign-affairs-commission-wang-yi/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on National Security\
   \ Advisor Jake Sullivan\u2019s Meeting with PRC Director of the Office of the Foreign\

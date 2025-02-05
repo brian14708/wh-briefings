@@ -1,7 +1,7 @@
 ---
 date: '2024-12-14'
 published_time: 2024-12-14 23:01:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/14/readout-of-president-joe-bidens-virtual-meeting-with-g7-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/14/readout-of-president-joe-bidens-virtual-meeting-with-g7-leaders/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Virtual Meeting with G7\_Leaders"
 ---

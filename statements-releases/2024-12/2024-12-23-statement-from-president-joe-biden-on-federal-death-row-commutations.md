@@ -2,7 +2,7 @@
 date: '2024-12-23'
 modified_time: 2024-12-22 21:34:27-05:00
 published_time: 2024-12-23 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/23/statement-from-president-joe-biden-on-federal-death-row-commutations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/23/statement-from-president-joe-biden-on-federal-death-row-commutations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Federal Death Row\_Commutations"
 ---

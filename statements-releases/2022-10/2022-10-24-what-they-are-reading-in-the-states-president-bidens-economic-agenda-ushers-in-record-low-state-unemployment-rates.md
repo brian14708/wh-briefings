@@ -2,7 +2,7 @@
 date: '2022-10-24'
 modified_time: 2022-10-24 20:14:41-04:00
 published_time: 2022-10-24 18:58:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/what-they-are-reading-in-the-states-president-bidens-economic-agenda-ushers-in-record-low-state-unemployment-rates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/what-they-are-reading-in-the-states-president-bidens-economic-agenda-ushers-in-record-low-state-unemployment-rates/
 tags: statements-releases
 title: "What They Are Reading in the States: President\_Biden\u2019s Economic Agenda\
   \ Ushers in Record Low State Unemployment\_Rates"

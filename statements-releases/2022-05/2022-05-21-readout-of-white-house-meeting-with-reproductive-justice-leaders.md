@@ -1,7 +1,7 @@
 ---
 date: '2022-05-21'
 published_time: 2022-05-21 11:54:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/21/readout-of-white-house-meeting-with-reproductive-justice-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/21/readout-of-white-house-meeting-with-reproductive-justice-leaders/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Reproductive Justice\_Leaders"
 ---
@@ -23,7 +23,7 @@ President [met](https://twitter.com/VP/status/1527351664432525317?s=20&t=-WpEoN
 doctors and nurses to discuss the impact that overturning *Roe v.
 Wade *would have on women’s health care. Later the day, White House
 Press Secretary Karine Jean-Pierre issued
-a [statement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/statement-from-press-secretary-karine-jean-pierre-on-the-oklahoma-abortion-bill/) on
+a [statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/statement-from-press-secretary-karine-jean-pierre-on-the-oklahoma-abortion-bill/) on
 the Oklahoma legislature’s latest bill, which is one of the most extreme
 efforts yet to undo fundamental reproductive rights.  
   

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 16:25:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/25/press-briefing-by-press-secretary-karine-jean-pierre-36/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/25/press-briefing-by-press-secretary-karine-jean-pierre-36/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

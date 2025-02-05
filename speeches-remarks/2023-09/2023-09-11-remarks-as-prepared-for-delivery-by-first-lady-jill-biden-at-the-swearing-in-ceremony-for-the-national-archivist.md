@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 18:04:22-04:00
 published_time: 2023-09-11 18:04:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-swearing-in-ceremony-for-the-national-archivist/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-swearing-in-ceremony-for-the-national-archivist/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Swearing-in\
   \ Ceremony for the National\_Archivist"

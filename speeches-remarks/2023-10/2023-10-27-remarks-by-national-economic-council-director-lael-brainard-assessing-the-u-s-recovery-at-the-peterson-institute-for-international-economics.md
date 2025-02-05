@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 09:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/27/remarks-by-national-economic-council-director-lael-brainard-assessing-the-u-s-recovery-at-the-peterson-institute-for-international-economics/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/27/remarks-by-national-economic-council-director-lael-brainard-assessing-the-u-s-recovery-at-the-peterson-institute-for-international-economics/
 tags: speeches-remarks
 title: "Remarks by National Economic Council Director Lael Brainard Assessing the\
   \ U.S. Recovery at the Peterson Institute for International\_Economics"
@@ -96,7 +96,7 @@ firm conclusions, one thing is clear: the historic trifecta of the
 Bipartisan Infrastructure Law, the CHIPS and Science Act, and the clean
 energy portions of the Inflation Reduction Act are boosting the supply
 side of our economy by catalyzing [private sector
-investments](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+investments](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 in infrastructure, clean energy, and semiconductor manufacturing. The
 United States has seen high growth in business investment relative to
 other G7 countries, particularly in

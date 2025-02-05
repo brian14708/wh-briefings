@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 11:03:27-04:00
 published_time: 2023-09-09 11:03:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/memorandum-of-understanding-on-the-principles-of-an-india-middle-east-europe-economic-corridor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/memorandum-of-understanding-on-the-principles-of-an-india-middle-east-europe-economic-corridor/
 tags: statements-releases
 title: "Memorandum of Understanding on the Principles of an India \u2013 Middle East\
   \ \u2013 Europe Economic\_Corridor"

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-13'
 published_time: 2024-05-13 19:12:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/statement-from-national-security-advisor-jake-sullivan-on-the-signing-of-the-prohibiting-russian-uranium-imports-act-into-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/statement-from-national-security-advisor-jake-sullivan-on-the-signing-of-the-prohibiting-russian-uranium-imports-act-into-law/
 tags: statements-releases
 title: "Statement From National Security Advisor Jake Sullivan on the Signing of the\
   \ Prohibiting Russian Uranium Imports Act into\_Law"

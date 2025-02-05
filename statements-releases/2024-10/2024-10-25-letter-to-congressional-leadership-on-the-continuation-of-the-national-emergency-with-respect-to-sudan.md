@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 16:07:35-04:00
 published_time: 2024-10-25 16:07:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/25/letter-to-congressional-leadership-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/25/letter-to-congressional-leadership-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
 tags: statements-releases
 title: "Letter to Congressional Leadership on the Continuation of the National Emergency\
   \ With Respect to\_Sudan"

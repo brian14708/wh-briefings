@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 16:26:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/statement-from-president-joe-biden-on-the-passing-of-former-prime-minister-brian-mulroney-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/statement-from-president-joe-biden-on-the-passing-of-former-prime-minister-brian-mulroney-of-canada/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former Prime Minister\
   \ Brian Mulroney of\_Canada"

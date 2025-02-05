@@ -1,7 +1,7 @@
 ---
 date: '2024-03-25'
 published_time: 2024-03-25 19:37:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/readout-of-vice-president-harriss-roundtable-with-central-america-forward-stakeholders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/readout-of-vice-president-harriss-roundtable-with-central-america-forward-stakeholders/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Roundtable with Central America Forward\_\
   Stakeholders"
@@ -17,7 +17,7 @@ migration.
 
 The Vice President announced that CAF has now generated more than [$5.2
 billion in private sector
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-vice-president-harris-announces-public-private-partnership-has-generated-more-than-5-2-billion-in-private-sector-commitments-for-northern-central-america/) for
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-vice-president-harris-announces-public-private-partnership-has-generated-more-than-5-2-billion-in-private-sector-commitments-for-northern-central-america/) for
 El Salvador, Guatemala, and Honduras, including $1 billion of new
 commitments announced today. These private sector investments have
 already created more than 70,000 jobs in the region, provided skills

@@ -2,7 +2,7 @@
 date: '2023-02-15'
 modified_time: 2023-02-15 19:06:45-05:00
 published_time: 2023-02-15 19:05:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/icymi-biden-boom-continues-another-week-of-massive-private-sector-investments-in-american-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/icymi-biden-boom-continues-another-week-of-massive-private-sector-investments-in-american-manufacturing/
 tags: statements-releases
 title: "ICYMI: Biden Boom Continues: Another Week of Massive Private Sector Investments\
   \ in American\_Manufacturing"

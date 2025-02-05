@@ -2,7 +2,7 @@
 date: '2024-02-28'
 modified_time: 2024-02-28 16:15:56-05:00
 published_time: 2024-02-28 16:15:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/statement-from-president-joe-biden-on-senate-republican-leader-mitch-mcconnell/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/28/statement-from-president-joe-biden-on-senate-republican-leader-mitch-mcconnell/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Republican Leader Mitch\_McConnell"
 ---

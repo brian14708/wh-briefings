@@ -2,7 +2,7 @@
 date: '2023-01-10'
 modified_time: 2023-01-10 13:39:34-05:00
 published_time: 2023-01-10 13:39:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/10/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/10/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Trudeau of Canada Before Bilateral\_\
   Meeting"

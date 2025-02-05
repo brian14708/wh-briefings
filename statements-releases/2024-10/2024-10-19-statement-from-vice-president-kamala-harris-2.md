@@ -2,7 +2,7 @@
 date: '2024-10-19'
 modified_time: 2024-10-19 23:17:12-04:00
 published_time: 2024-10-19 23:16:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/19/statement-from-vice-president-kamala-harris-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/19/statement-from-vice-president-kamala-harris-2/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris"
 ---

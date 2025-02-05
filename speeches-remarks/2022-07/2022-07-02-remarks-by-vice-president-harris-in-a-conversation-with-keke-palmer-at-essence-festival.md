@@ -1,7 +1,7 @@
 ---
 date: '2022-07-02'
 published_time: 2022-07-02 21:39:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/02/remarks-by-vice-president-harris-in-a-conversation-with-keke-palmer-at-essence-festival/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/02/remarks-by-vice-president-harris-in-a-conversation-with-keke-palmer-at-essence-festival/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Conversation With Keke Palmer at Essence\_\
   Festival"

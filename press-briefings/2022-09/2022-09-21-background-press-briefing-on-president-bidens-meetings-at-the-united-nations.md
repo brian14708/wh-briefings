@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 23:16:19-04:00
 published_time: 2022-09-21 23:16:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/21/background-press-briefing-on-president-bidens-meetings-at-the-united-nations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/21/background-press-briefing-on-president-bidens-meetings-at-the-united-nations/
 tags: press-briefings
 title: "Background Press Briefing on President\_Biden\u2019s Meetings at the United\_\
   Nations"

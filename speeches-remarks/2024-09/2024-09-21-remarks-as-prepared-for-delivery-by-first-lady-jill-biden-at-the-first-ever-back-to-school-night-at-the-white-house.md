@@ -2,7 +2,7 @@
 date: '2024-09-21'
 modified_time: 2024-09-21 17:30:40-04:00
 published_time: 2024-09-21 17:28:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-first-ever-back-to-school-night-at-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-first-ever-back-to-school-night-at-the-white-house/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the First-Ever\
   \ Back-to-School Night at the White\_House"

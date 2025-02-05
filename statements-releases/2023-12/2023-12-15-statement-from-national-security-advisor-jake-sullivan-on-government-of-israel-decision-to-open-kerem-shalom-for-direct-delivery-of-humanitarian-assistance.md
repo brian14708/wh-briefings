@@ -2,7 +2,7 @@
 date: '2023-12-15'
 modified_time: 2023-12-15 09:52:22-05:00
 published_time: 2023-12-15 09:52:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/15/statement-from-national-security-advisor-jake-sullivan-on-government-of-israel-decision-to-open-kerem-shalom-for-direct-delivery-of-humanitarian-assistance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/15/statement-from-national-security-advisor-jake-sullivan-on-government-of-israel-decision-to-open-kerem-shalom-for-direct-delivery-of-humanitarian-assistance/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Government of Israel\
   \ Decision to Open Kerem Shalom for Direct Delivery of Humanitarian\_Assistance"

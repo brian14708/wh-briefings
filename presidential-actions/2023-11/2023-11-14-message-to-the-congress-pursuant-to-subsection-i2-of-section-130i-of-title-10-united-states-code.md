@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-14 18:30:06-05:00
 published_time: 2023-11-14 18:30:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/14/message-to-the-congress-pursuant-to-subsection-i2-of-section-130i-of-title-10-united-states-code/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/14/message-to-the-congress-pursuant-to-subsection-i2-of-section-130i-of-title-10-united-states-code/
 tags: presidential-actions
 title: "Message to the Congress pursuant to subsection (i)(2) of section 130i of title\
   \ 10, United\_States\_Code"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-10'
 published_time: 2023-07-10 19:44:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/10/joint-fact-sheet-president-biden-and-his-majesty-king-charles-iii-meet-with-leading-philanthropists-and-financiers-to-catalyze-climate-finance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/10/joint-fact-sheet-president-biden-and-his-majesty-king-charles-iii-meet-with-leading-philanthropists-and-financiers-to-catalyze-climate-finance/
 tags: statements-releases
 title: "JOINT FACT SHEET: President\_Biden and His Majesty King Charles III Meet with\
   \ Leading Philanthropists and Financiers to Catalyze Climate\_Finance"

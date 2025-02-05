@@ -2,7 +2,7 @@
 date: '2024-08-10'
 modified_time: 2024-08-12 14:11:28-04:00
 published_time: 2024-08-10 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/10/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-in-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/10/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-in-las-vegas-nv/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Governor Tim Walz at a Campaign Event\
   \ in Las Vegas,\_NV"

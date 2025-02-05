@@ -1,7 +1,7 @@
 ---
 date: '2022-09-01'
 published_time: 2022-09-01 14:42:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-biden-harris-administrations-launch-of-the-apprenticeship-ambassador-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-biden-harris-administrations-launch-of-the-apprenticeship-ambassador-initiative/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Biden-\u2060\
   Harris Administration\u2019s Launch of the Apprenticeship Ambassador\_Initiative"

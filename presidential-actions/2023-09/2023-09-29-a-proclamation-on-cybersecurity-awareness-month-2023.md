@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 14:25:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/29/a-proclamation-on-cybersecurity-awareness-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/29/a-proclamation-on-cybersecurity-awareness-month-2023/
 tags: presidential-actions
 title: "A Proclamation on Cybersecurity Awareness Month,\_2023"
 ---

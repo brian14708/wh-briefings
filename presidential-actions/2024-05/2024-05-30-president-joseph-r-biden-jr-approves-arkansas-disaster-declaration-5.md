@@ -2,7 +2,7 @@
 date: '2024-05-30'
 modified_time: 2024-05-30 23:39:45-04:00
 published_time: 2024-05-30 23:39:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/30/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/30/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Arkansas Disaster\_Declaration"
 ---

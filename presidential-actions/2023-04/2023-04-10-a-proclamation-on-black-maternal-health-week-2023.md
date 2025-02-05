@@ -1,7 +1,7 @@
 ---
 date: '2023-04-10'
 published_time: 2023-04-10 10:43:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/10/a-proclamation-on-black-maternal-health-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/10/a-proclamation-on-black-maternal-health-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Black Maternal Health Week,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-13 17:30:26-05:00
 published_time: 2023-11-13 17:30:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-of-mexico/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Bilateral Meeting\
   \ Between President Joe\_Biden and President Andr\xE9s Manuel L\xF3pez Obrador of\_\

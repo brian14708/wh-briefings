@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 12:24:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-summit-on-global-supply-chain-resilience-to-address-near-term-bottlenecks-and-tackle-long-term-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-summit-on-global-supply-chain-resilience-to-address-near-term-bottlenecks-and-tackle-long-term-challenges/
 published_time: 2021-10-31 12:24:26-04:00
 title: "FACT SHEET: Summit on Global Supply Chain Resilience to Address Near-Term\
   \ Bottlenecks and Tackle Long-Term\_Challenges"
@@ -21,16 +21,16 @@ materials, intermediate and finished goods, manufacturing, to shipping,
 logistics, warehousing, and distribution. The President’s Summit builds
 on recent Biden-Harris Administration actions including the [expansion
 of port operating hours on the U.S. west
-coast](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/),
+coast](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/),
 the launching of an [Early Warning
-System](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/readout-of-biden-administration-convening-to-discuss-and-address-semiconductor-supply-chain/)
+System](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/23/readout-of-biden-administration-convening-to-discuss-and-address-semiconductor-supply-chain/)
 for potential disruptions in semiconductor manufacturing, including in
 Asia, and this week’s Department of Energy announcement establishing
 Li-Bridge — a new public-private alliance committed to accelerating
 development of a robust and secure domestic supply chain for
 lithium-based batteries. Today’s announcements build on the Biden-Harris
 Administration’s ongoing work under [Executive Order (E.O.)
-14017](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
+14017](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
 to build resilient supply chains that the President issued in February.
 
 Joining the President at the Summit are Leaders and representatives from

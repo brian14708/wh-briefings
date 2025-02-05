@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 17:31:18-04:00
 published_time: 2022-05-12 17:31:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-a-senior-administration-official-previewing-new-initiatives-from-the-u-s-asean-special-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-a-senior-administration-official-previewing-new-initiatives-from-the-u-s-asean-special-summit/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official Previewing New Initiatives\
   \ from the U.S.-ASEAN Special\_Summit"

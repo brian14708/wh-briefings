@@ -1,7 +1,7 @@
 ---
 date: '2022-07-15'
 published_time: 2022-07-15 12:55:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/15/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-jeddah-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/15/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-jeddah-saudi-arabia/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Jeddah, Saudi\_Arabia"

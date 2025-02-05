@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-11 14:59:08-04:00
 published_time: 2023-07-11 14:58:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/statement-from-national-security-advisor-jake-sullivanwelcoming-iraqi-progress-toward-energy-self-sufficiency/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/statement-from-national-security-advisor-jake-sullivanwelcoming-iraqi-progress-toward-energy-self-sufficiency/
 tags: statements-releases
 title: Statement from National Security Advisor Jake Sullivan Welcoming Iraqi Progress
   Toward Energy Self-Sufficiency

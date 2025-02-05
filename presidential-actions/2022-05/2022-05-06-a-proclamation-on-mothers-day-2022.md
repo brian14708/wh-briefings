@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 16:49:55-04:00
 published_time: 2022-05-06 16:49:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/06/a-proclamation-on-mothers-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/06/a-proclamation-on-mothers-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Mother\u2019s Day,\_2022"
 ---

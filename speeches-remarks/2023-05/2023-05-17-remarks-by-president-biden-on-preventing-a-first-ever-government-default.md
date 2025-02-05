@@ -2,7 +2,7 @@
 date: '2023-05-17'
 modified_time: 2023-05-17 13:43:28-04:00
 published_time: 2023-05-17 13:43:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/17/remarks-by-president-biden-on-preventing-a-first-ever-government-default/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/17/remarks-by-president-biden-on-preventing-a-first-ever-government-default/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Preventing a First-Ever Government\_Default"
 ---

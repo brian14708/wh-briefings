@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-19 10:59:46-04:00
 published_time: 2024-04-17 17:07:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/17/remarks-by-president-biden-on-new-actions-to-protect-u-s-steel-and-shipbuilding-industry-from-chinas-unfair-practices-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/17/remarks-by-president-biden-on-new-actions-to-protect-u-s-steel-and-shipbuilding-industry-from-chinas-unfair-practices-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on New Actions to Protect U.S. Steel and Shipbuilding\
   \ Industry from China\u2019s Unfair Practices | Pittsburgh,\_PA"

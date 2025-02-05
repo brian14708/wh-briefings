@@ -2,7 +2,7 @@
 date: '2022-12-08'
 modified_time: 2022-12-08 12:20:49-05:00
 published_time: 2022-12-08 12:20:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/08/remarks-by-president-biden-on-the-release-of-brittney-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/08/remarks-by-president-biden-on-the-release-of-brittney-griner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Release of Brittney\_Griner"
 ---

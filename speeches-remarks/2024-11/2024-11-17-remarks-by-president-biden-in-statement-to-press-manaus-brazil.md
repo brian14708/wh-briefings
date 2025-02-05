@@ -2,7 +2,7 @@
 date: '2024-11-17'
 modified_time: 2024-11-17 17:37:51-05:00
 published_time: 2024-11-17 17:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/17/remarks-by-president-biden-in-statement-to-press-manaus-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/17/remarks-by-president-biden-in-statement-to-press-manaus-brazil/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Statement to Press | Manaus,\_Brazil"
 ---

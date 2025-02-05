@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 23:00:33-04:00
 published_time: 2023-06-14 22:55:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/statement-from-president-biden-on-labor-agreement-at-west-coast-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/statement-from-president-biden-on-labor-agreement-at-west-coast-ports/
 tags: statements-releases
 title: "Statement from President\_Biden on Labor Agreement at West Coast\_Ports"
 ---

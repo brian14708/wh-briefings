@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 10:48:28-04:00
 published_time: 2023-09-07 10:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/07/president-biden-announces-michael-g-whitaker-as-nominee-for-administrator-of-the-federal-aviation-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/07/president-biden-announces-michael-g-whitaker-as-nominee-for-administrator-of-the-federal-aviation-administration/
 tags: statements-releases
 title: "President\_Biden Announces Michael G. Whitaker as Nominee for Administrator\
   \ of the Federal Aviation Administration"

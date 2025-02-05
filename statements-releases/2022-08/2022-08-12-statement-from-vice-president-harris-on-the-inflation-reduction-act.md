@@ -2,7 +2,7 @@
 date: '2022-08-12'
 modified_time: 2022-08-12 19:47:24-04:00
 published_time: 2022-08-12 19:43:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/12/statement-from-vice-president-harris-on-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/12/statement-from-vice-president-harris-on-the-inflation-reduction-act/
 tags: statements-releases
 title: "Statement from Vice President Harris on the Inflation Reduction\_Act"
 ---

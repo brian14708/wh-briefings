@@ -1,7 +1,7 @@
 ---
 date: '2023-10-18'
 published_time: 2023-10-18 11:56:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/18/readout-of-president-joseph-r-biden-jr-meeting-with-prime-minister-benjamin-netanyahu-of-israel-and-the-war-cabinet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/18/readout-of-president-joseph-r-biden-jr-meeting-with-prime-minister-benjamin-netanyahu-of-israel-and-the-war-cabinet/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr. Meeting with Prime Minister Benjamin\
   \ Netanyahu of Israel and the War\_Cabinet"

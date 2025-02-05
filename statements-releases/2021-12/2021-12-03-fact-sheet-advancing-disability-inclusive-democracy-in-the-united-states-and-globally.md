@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-03'
 modified_time: 2022-03-02 11:05:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-advancing-disability-inclusive-democracy-in-the-united-states-and-globally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-advancing-disability-inclusive-democracy-in-the-united-states-and-globally/
 published_time: 2021-12-03 10:00:00-05:00
 title: "Fact Sheet: Advancing Disability Inclusive Democracy in the United\_States\
   \ and\_Globally"
@@ -18,7 +18,7 @@ community living. However, Americans with disabilities still face
 barriers in fully participating in many aspects of their lives.
 
 Today, on [International Day of Persons with
-Disabilities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2021/),
+Disabilities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2021/),
 the United States is partnering with other governments, civil society,
 and experts across the globe to discuss disability inclusive democracy
 around the world. [This
@@ -64,7 +64,7 @@ develop a more disability inclusive democracy, including:
     advancement and hiring, and reduce physical accessibility barriers.
     On November 23, the Biden-Harris Administration released its
     [Strategic Plan to Advance DEIA in the Federal
-    Workforce](https://www.whitehouse.gov/wp-content/uploads/2021/11/Strategic-Plan-to-Advance-Diversity-Equity-Inclusion-and-Accessibility-in-the-Federal-Workforce-11.23.21.pdf)
+    Workforce](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Strategic-Plan-to-Advance-Diversity-Equity-Inclusion-and-Accessibility-in-the-Federal-Workforce-11.23.21.pdf)
     to provide federal agencies a roadmap for implementation of the
     Executive Order.
 
@@ -72,7 +72,7 @@ develop a more disability inclusive democracy, including:
 
 -   **Expanding Access and Inclusion for Disabled Americans.** The
     Biden-Harris Administration has taken [significant
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/)
     to achieve a more inclusive, accessible, and equitable country for
     people with disabilities, including people with disabilities that
     experience multiple forms of discrimination and bias on the basis of

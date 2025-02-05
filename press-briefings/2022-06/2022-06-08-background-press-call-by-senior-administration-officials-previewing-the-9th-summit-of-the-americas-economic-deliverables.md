@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 15:24:16-04:00
 published_time: 2022-06-08 15:24:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/08/background-press-call-by-senior-administration-officials-previewing-the-9th-summit-of-the-americas-economic-deliverables/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/08/background-press-call-by-senior-administration-officials-previewing-the-9th-summit-of-the-americas-economic-deliverables/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the 9th\
   \ Summit of the Americas Economic\_Deliverables"

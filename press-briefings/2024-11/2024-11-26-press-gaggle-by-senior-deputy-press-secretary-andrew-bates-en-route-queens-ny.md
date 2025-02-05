@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-26 10:34:41-05:00
 published_time: 2024-11-26 10:34:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/26/press-gaggle-by-senior-deputy-press-secretary-andrew-bates-en-route-queens-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/26/press-gaggle-by-senior-deputy-press-secretary-andrew-bates-en-route-queens-ny/
 tags: press-briefings
 title: "Press Gaggle by Senior Deputy Press Secretary Andrew Bates En Route Queens,\_\
   NY"

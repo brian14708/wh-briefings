@@ -2,7 +2,7 @@
 date: '2024-11-21'
 modified_time: 2024-11-22 11:23:10-05:00
 published_time: 2024-11-21 19:08:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/21/remarks-by-president-biden-honoring-the-2024-nba-champions-the-boston-celtics/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/21/remarks-by-president-biden-honoring-the-2024-nba-champions-the-boston-celtics/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2024 NBA Champions, the Boston\_\
   Celtics"

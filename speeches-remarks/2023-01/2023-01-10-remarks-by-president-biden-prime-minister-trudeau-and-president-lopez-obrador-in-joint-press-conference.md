@@ -1,7 +1,7 @@
 ---
 date: '2023-01-10'
 published_time: 2023-01-10 23:14:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/10/remarks-by-president-biden-prime-minister-trudeau-and-president-lopez-obrador-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/10/remarks-by-president-biden-prime-minister-trudeau-and-president-lopez-obrador-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Trudeau, and President L\xF3pez\
   \ Obrador in Joint Press\_Conference"

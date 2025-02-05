@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-12 15:50:17-05:00
 published_time: 2023-12-11 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-at-a-hanukkah-holiday-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-at-a-hanukkah-holiday-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Hanukkah Holiday\_Reception"
 ---

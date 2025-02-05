@@ -2,7 +2,7 @@
 date: '2024-12-08'
 modified_time: 2024-12-08 21:13:19-05:00
 published_time: 2024-12-08 21:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-apnsa-jake-sullivan-at-the-2024-reagan-national-defense-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-apnsa-jake-sullivan-at-the-2024-reagan-national-defense-forum/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan at the 2024 Reagan National Defense\_Forum"
 ---

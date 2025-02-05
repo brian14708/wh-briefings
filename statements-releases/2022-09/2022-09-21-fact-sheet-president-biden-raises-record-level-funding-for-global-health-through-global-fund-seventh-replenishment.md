@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 21:57:43-04:00
 published_time: 2022-09-21 21:57:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-president-biden-raises-record-level-funding-for-global-health-through-global-fund-seventh-replenishment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-president-biden-raises-record-level-funding-for-global-health-through-global-fund-seventh-replenishment/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden Raises Record Level Funding for Global Health\
   \ through Global Fund Seventh\_Replenishment"

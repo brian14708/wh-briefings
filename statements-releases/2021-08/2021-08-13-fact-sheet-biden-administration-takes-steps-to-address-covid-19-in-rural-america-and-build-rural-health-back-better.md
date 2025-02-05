@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-13'
 modified_time: 2021-08-16 09:45:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-biden-administration-takes-steps-to-address-covid-19-in-rural-america-and-build-rural-health-back-better/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-biden-administration-takes-steps-to-address-covid-19-in-rural-america-and-build-rural-health-back-better/
 published_time: 2021-08-13 07:00:00-04:00
 title: "Fact Sheet: Biden Administration Takes Steps to Address COVID-\u206019 in\
   \ Rural America and Build Rural Health Back\_Better"
@@ -227,7 +227,7 @@ rural providers open.
     communities](https://www.gao.gov/products/gao-21-93), without good
     options for convenient and affordable health care service. In his
     [executive order promoting
-    competition](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/),
+    competition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/),
     the President underscored that hospital mergers that reduce health
     care access can be harmful to patients and encouraged the Justice
     Department and Federal Trade Commission to review and revise their
@@ -284,7 +284,7 @@ and recovery support services. The Administration has:
     component.** The Drug Enforcement Administration recently lifted a
     decade-long moratorium on opioid treatment programs that want to
     include a mobile component. This [rule
-    change](https://www.whitehouse.gov/ondcp/briefing-room/2021/06/29/biden-harris-administration-expands-treatment-to-underserved-communities-with-mobile-methadone-van-rule-2021/)
+    change](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/06/29/biden-harris-administration-expands-treatment-to-underserved-communities-with-mobile-methadone-van-rule-2021/)
     will help remove a critical barrier to treatment for rural and other
     underserved communities, including incarcerated individuals.
 -   **Put forward a budget to address the opioid epidemic.** The

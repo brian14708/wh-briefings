@@ -1,7 +1,7 @@
 ---
 date: '2022-06-28'
 published_time: 2022-06-28 17:41:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/statement-by-president-biden-on-trilateral-agreement-between-turkey-finland-and-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/statement-by-president-biden-on-trilateral-agreement-between-turkey-finland-and-sweden/
 tags: statements-releases
 title: "Statement by President\_Biden on Trilateral Agreement Between Turkey, Finland,\
   \ and\_Sweden"

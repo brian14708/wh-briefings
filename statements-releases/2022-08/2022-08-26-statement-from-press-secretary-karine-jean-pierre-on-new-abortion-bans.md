@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-25 18:08:09-04:00
 published_time: 2022-08-26 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/26/statement-from-press-secretary-karine-jean-pierre-on-new-abortion-bans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/26/statement-from-press-secretary-karine-jean-pierre-on-new-abortion-bans/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on New Abortion\_Bans"
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-16 12:28:19-04:00
 published_time: 2024-08-15 23:19:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-to-overflow-crowd-largo-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-and-vice-president-harris-to-overflow-crowd-largo-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris to Overflow Crowd |\
   \ Largo,\_MD"

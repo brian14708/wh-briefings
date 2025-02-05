@@ -1,7 +1,7 @@
 ---
 date: '2023-02-24'
 published_time: 2023-02-24 15:17:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-empowerment-reception-with-the-u-s-ambassador-to-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-empowerment-reception-with-the-u-s-ambassador-to-kenya/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Women\u2019\
   s Empowerment Reception with the U.S. Ambassador to\_Kenya"

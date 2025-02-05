@@ -2,7 +2,7 @@
 date: '2022-08-29'
 modified_time: 2022-08-30 07:33:53-04:00
 published_time: 2022-08-29 07:23:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/29/press-briefing-by-press-secretary-karine-jean-pierre-august-29-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/29/press-briefing-by-press-secretary-karine-jean-pierre-august-29-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, August 29,\_2022"
 ---

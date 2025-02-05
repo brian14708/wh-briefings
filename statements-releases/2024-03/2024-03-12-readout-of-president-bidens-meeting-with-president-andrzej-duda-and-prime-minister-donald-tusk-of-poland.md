@@ -1,7 +1,7 @@
 ---
 date: '2024-03-12'
 published_time: 2024-03-12 19:30:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/12/readout-of-president-bidens-meeting-with-president-andrzej-duda-and-prime-minister-donald-tusk-of-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/12/readout-of-president-bidens-meeting-with-president-andrzej-duda-and-prime-minister-donald-tusk-of-poland/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Andrzej Duda and\
   \ Prime Minister Donald Tusk of\_Poland"

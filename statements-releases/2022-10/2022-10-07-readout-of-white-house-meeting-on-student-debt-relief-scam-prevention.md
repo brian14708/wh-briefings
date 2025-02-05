@@ -1,14 +1,14 @@
 ---
 date: '2022-10-07'
 published_time: 2022-10-07 14:42:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/readout-of-white-house-meeting-on-student-debt-relief-scam-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/readout-of-white-house-meeting-on-student-debt-relief-scam-prevention/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Student Debt Relief Scam\_Prevention"
 ---
  
 This afternoon, the White House convened top Administration officials to
 discuss the Biden-Harris Administration’s [ongoing
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/)
 to protect borrowers from student debt relief scams.  During this
 meeting, the participants shared information on current and future
 efforts to combat student loan scams, and discussed how the
@@ -42,7 +42,7 @@ enforcement entities and obtaining multimillion dollar judgments against
 scammers over the last 18 months.  
   
 Earlier this week, the White House announced a [series of
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/)
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/)
 the Administration is taking to ramp up efforts to protect borrowers
 from scams.  
   

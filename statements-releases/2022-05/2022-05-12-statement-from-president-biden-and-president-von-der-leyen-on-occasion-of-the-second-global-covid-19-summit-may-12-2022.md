@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 10:01:29-04:00
 published_time: 2022-05-12 10:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-and-president-von-der-leyen-on-occasion-of-the-second-global-covid-19-summit-may-12-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-and-president-von-der-leyen-on-occasion-of-the-second-global-covid-19-summit-may-12-2022/
 tags: statements-releases
 title: "Statement from President\_Biden and President von der Leyen on occasion of\
   \ the second Global COVID-\u206019 Summit, May 12,\_2022"
@@ -12,7 +12,7 @@ The United States of America and the European Union are implementing the
 **U.S.-EU Agenda for Beating the Global Pandemic, Vaccinating the World,
 Saving Lives Now and Building Back Better Health Security** of
 [September 22,
-2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/).
+2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/).
 Today, Presidents Biden and von der Leyen reaffirmed milestones in their
 strong cooperation towards the five headline goals of the Agenda, and
 they previewed further joint action below:

@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-26 10:57:13-05:00
 published_time: 2024-11-26 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/11/26/the-biden-harris-administration-has-catalyzed-1-trillion-in-new-u-s-private-sector-clean-energy-semiconductor-and-other-advanced-manufacturing-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/11/26/the-biden-harris-administration-has-catalyzed-1-trillion-in-new-u-s-private-sector-clean-energy-semiconductor-and-other-advanced-manufacturing-investment/
 tags: blog
 title: "The Biden-\u2060Harris Administration Has Catalyzed $1 Trillion in New U.S.\
   \ Private Sector Clean Energy, Semiconductor, and Other Advanced Manufacturing\_\
@@ -14,30 +14,30 @@ title: "The Biden-\u2060Harris Administration Has Catalyzed $1 Trillion in New U
 ------------------------------------------------------------------------
 
 The Biden-Harris Administration’s Investing in America agenda is
-[making](https://www.whitehouse.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf)
+[making](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf)
 strategic public investments in American manufacturing, infrastructure,
 and clean energy to revitalize the nation’s manufacturing leadership,
 help drive [steady and
-stable](https://www.whitehouse.gov/cea/written-materials/2024/09/26/revisions-show-us-economy-grew-faster-2021-23-boosting-real-incomes/)
+stable](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/26/revisions-show-us-economy-grew-faster-2021-23-boosting-real-incomes/)
 economic
 [growth](https://www.brookings.edu/articles/place-based-industrial-strategy-responds-to-past-and-future-industrial-and-labor-market-shocks/)
 across the country, and
-[address](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
+[address](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
 the climate crisis. The President’s approach revives [a powerful
 tradition of public
-investment](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/)
+investment](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/)
 which has now
-[positioned](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/)
+[positioned](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/)
 the United States to be competitive in key industries of the future.
 This government-enabled, private-sector-led approach contributed to the
 economy
-[defying](https://www.whitehouse.gov/cea/written-materials/2024/09/17/beating-the-forecasts-how-the-us-economy-defied-expectations/)
+[defying](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/17/beating-the-forecasts-how-the-us-economy-defied-expectations/)
 economist
-[expectations](https://www.whitehouse.gov/cea/written-materials/2024/10/30/gdp-issue-brief/)
+[expectations](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/10/30/gdp-issue-brief/)
 and is [crowding
-in](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+in](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 private capital to critical sectors. New
-[data](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[data](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 released this week show that since President Biden and Vice President
 Harris took office, announcements of private sector investments in clean
 energy and manufacturing in the United States have now surpassed $1
@@ -45,25 +45,25 @@ trillion (Figure 1).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png"
 class="wp-image-109709" decoding="async" loading="lazy"
 sizes="(max-width: 975px) 100vw, 975px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png 975w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=615,476 615w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=768,594 768w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=414,320 414w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=828,640 828w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png 975w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=615,476 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=768,594 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=414,320 414w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture1_09cdc5.png?resize=828,640 828w"
 width="975" height="754" />
 </figure>
 
 The landmark pieces of legislation that make up the Investing in America
 agenda – [the Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/build/guidebook/), [the CHIPS and
+Law](https://bidenwhitehouse.archives.gov/build/guidebook/), [the CHIPS and
 Science
 Act](https://www.nist.gov/system/files/documents/2023/02/28/Vision_for_Success-Commercial_Fabrication_Facilities.pdf),
 and [the Inflation Reduction
-Act](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/)—were
+Act](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/)—were
 designed together and are being implemented together. They include grant
 and loan programs, tax credits, and other policies to catalyze private
 investment in the earliest stages of research and development through
 commercial-scale manufacturing. These investments will [drive
-innovation](https://www.whitehouse.gov/wp-content/uploads/2024/10/National_Innovation_Pathway_of_the_United_States_2024_final.pdf)
+innovation](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/National_Innovation_Pathway_of_the_United_States_2024_final.pdf)
 and productivity that fosters American economic competitiveness and
 energy security, while delivering good jobs and benefitting communities
 across the country. They improve our nation’s infrastructure, so
@@ -74,20 +74,20 @@ benefiting American workers, businesses, and families.
 The Bipartisan Infrastructure Law provides billions in foundational
 investments in infrastructure, such as roads, highways, bridges,
 drinking water and wastewater systems, with [$568 billion
-announced](https://www.whitehouse.gov/build/?utm_source=build.gov) for
+announced](https://bidenwhitehouse.archives.gov/build/?utm_source=build.gov) for
 over 66,000 projects so far. The CHIPS and Science Act provides $39
 billion in grants and other incentives to semiconductor companies to
 build fabrication plants and produce cutting-edge technology in the
 United States—of which $34 billion worth of preliminary agreements have
 been announced. And the Inflation Reduction Act includes [tax
-credits](https://www.whitehouse.gov/cleanenergy/clean-energy-tax-provisions/),
+credits](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-tax-provisions/),
 grants, and loans to spur investment and comprehensive deployment of
 clean energy, including the manufacturing of battery components and
 critical minerals right here at home. Core to the Investing in America
 model is sending clear demand signals, addressing supply-side
 constraints, and solving coordination problems, all while strengthening
 and supporting [Made in
-America](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administrations-progress-creating-a-future-made-in-america/)
+America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administrations-progress-creating-a-future-made-in-america/)
 domestic capacity.
 
 This blog lays out the industrial strategy approach of the Biden-Harris
@@ -142,10 +142,10 @@ zero percentage points to real business investment growth.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png"
 class="wp-image-109710" decoding="async" loading="lazy"
 sizes="(max-width: 1039px) 100vw, 1039px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png 1039w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=615,415 615w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=768,518 768w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=550,370 550w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=474,320 474w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=949,640 949w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png 1039w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=615,415 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=768,518 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=550,370 550w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=474,320 474w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=949,640 949w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture2_2891c4.png?resize=114,76 114w"
 width="1039" height="701" />
 </figure>
 
@@ -169,7 +169,7 @@ business formation. The near four-year period under the Biden-Harris
 Administration saw the highest number of applications to start a new
 manufacturing business since the data began being collected in 2004.
 Previous Council of Economic Advisers (CEA)
-[analysis](https://www.whitehouse.gov/cea/written-materials/2024/01/11/new-business-surge-unveiling-the-business-application-boom-through-an-analysis-of-administrative-data/)
+[analysis](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/01/11/new-business-surge-unveiling-the-business-application-boom-through-an-analysis-of-administrative-data/)
 suggests that these applications will translate into strong future
 economy activity as well as quality job creation.
 
@@ -182,7 +182,7 @@ America agenda includes
 [programs](https://www.transportation.gov/reconnecting)
 [that](https://www.eda.gov/funding/programs/recompete-pilot-program)
 encourage investment in [disadvantaged
-communities](https://www.whitehouse.gov/environmentaljustice/justice40/).
+communities](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 Early indications are that this is working: a recent Department of the
 Treasury
 [report](https://home.treasury.gov/news/featured-stories/the-inflation-reduction-act-a-place-based-analysis-updates-from-q3-and-q4-2023)
@@ -191,7 +191,7 @@ where median incomes, graduation rates, and employment rates are below
 the respective national aggregate rates. For instance, 75 percent of
 Inflation Reduction Act related private investments are in counties
 whose median household income are below the national level. CEA
-[found](https://www.whitehouse.gov/cea/written-materials/2024/06/06/investing-in-places-historically-left-behind-foreign-direct-investment-in-u-s-clean-energy-manufacturing/)
+[found](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/06/06/investing-in-places-historically-left-behind-foreign-direct-investment-in-u-s-clean-energy-manufacturing/)
 that foreign direct investment in clean energy manufacturing is going to
 areas disproportionately affected by the “China shock,” places that
 experienced [larger
@@ -216,7 +216,7 @@ times](https://www.irs.gov/pub/irs-pdf/p5855.pdf) the base amount of
 certain clean energy tax credits and deductions. This will [create
 opportunities](https://www.cjnrc.org/wp-content/uploads/2024/08/FINAL-CJNRC_IRA-Report-_8-13-2024.pdf)
 for
-[apprentices](https://www.whitehouse.gov/cea/written-materials/2024/11/20/all-aboard-the-apprenticeship-assessing-the-changing-face-of-registered-apprenticeships/),
+[apprentices](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/11/20/all-aboard-the-apprenticeship-assessing-the-changing-face-of-registered-apprenticeships/),
 union workers, and [workers without four-year college
 degrees.](https://www.thirdway.org/blog/clean-energy-investment-and-non-college-workers)
 
@@ -262,10 +262,10 @@ employment, growing to 12.4 percent.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png"
 class="wp-image-109711" decoding="async" loading="lazy"
 sizes="(max-width: 834px) 100vw, 834px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png 834w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=615,558 615w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=768,697 768w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=353,320 353w, https://www.whitehouse.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=705,640 705w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png 834w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=615,558 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=768,697 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=353,320 353w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/Picture3_7c4572.png?resize=705,640 705w"
 width="834" height="757" />
 </figure>
 
@@ -273,7 +273,7 @@ The latest Quarterly Census of Employment and Wages, which includes
 quarterly data through March 2024, shows that since the President took
 office, 33,000 power generation and supply jobs have been created. This
 sector previously had been in a [prolonged
-decline](https://www.whitehouse.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/),
+decline](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/),
 but in February 2024, the industry employed more people than at any
 other time in 20 years. Since the Inflation Reduction Act was passed,
 average weekly wages in this industry have grown 6.1 percent, 1.9
@@ -281,14 +281,14 @@ percentage points higher than inflation during the same time period.
 
 Both the number and quality of jobs are important for workers and the
 overall economy. As the President’s recent [Good Jobs Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/)
 and White House
-[blog](https://www.whitehouse.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/)
+[blog](https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/)
 underscore, the Investing in America agenda is deliberate about
 empowering workers with well-paying jobs, especially union jobs. These
 good jobs with higher compensation and safety standards in turn reduce
 turnover and increase productivity,
-[benefitting](https://www.whitehouse.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
+[benefitting](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
 workers, employers, and the overall economy.
 
 ## Conclusion

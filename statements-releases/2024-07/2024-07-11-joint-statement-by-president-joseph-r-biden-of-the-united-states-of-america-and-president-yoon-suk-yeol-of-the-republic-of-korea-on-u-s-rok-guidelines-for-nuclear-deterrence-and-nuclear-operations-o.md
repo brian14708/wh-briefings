@@ -1,7 +1,7 @@
 ---
 date: '2024-07-11'
 published_time: 2024-07-11 12:00:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/joint-statement-by-president-joseph-r-biden-of-the-united-states-of-america-and-president-yoon-suk-yeol-of-the-republic-of-korea-on-u-s-rok-guidelines-for-nuclear-deterrence-and-nuclear-operations-o/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/joint-statement-by-president-joseph-r-biden-of-the-united-states-of-america-and-president-yoon-suk-yeol-of-the-republic-of-korea-on-u-s-rok-guidelines-for-nuclear-deterrence-and-nuclear-operations-o/
 tags: statements-releases
 title: "Joint Statement by President Joseph R. Biden of the United\_States of America\
   \ and President Yoon Suk Yeol of the Republic of Korea on U.S.-ROK Guidelines for\

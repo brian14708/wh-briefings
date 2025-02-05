@@ -2,7 +2,7 @@
 date: '2023-11-10'
 modified_time: 2023-11-09 22:38:06-05:00
 published_time: 2023-11-10 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-prc-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-prc-leaders-summit/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the U.S.-PRC Leaders\_\
   Summit"

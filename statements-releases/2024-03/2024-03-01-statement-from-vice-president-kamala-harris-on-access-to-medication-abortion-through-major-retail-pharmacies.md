@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 16:29:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/statement-from-vice-president-kamala-harris-on-access-to-medication-abortion-through-major-retail-pharmacies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/statement-from-vice-president-kamala-harris-on-access-to-medication-abortion-through-major-retail-pharmacies/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Access to Medication Abortion\
   \ Through Major Retail\_Pharmacies"

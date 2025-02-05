@@ -2,7 +2,7 @@
 date: '2023-05-01'
 modified_time: 2023-05-01 16:39:38-04:00
 published_time: 2023-05-01 16:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/joint-statement-of-the-leaders-of-the-united-states-and-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/01/joint-statement-of-the-leaders-of-the-united-states-and-the-philippines/
 tags: statements-releases
 title: "Joint Statement of the Leaders of the United\_States and the\_Philippines"
 ---

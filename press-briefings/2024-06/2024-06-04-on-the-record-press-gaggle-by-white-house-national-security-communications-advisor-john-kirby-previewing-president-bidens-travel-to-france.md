@@ -1,7 +1,7 @@
 ---
 date: '2024-06-04'
 published_time: 2024-06-04 18:01:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/04/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-previewing-president-bidens-travel-to-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/04/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-previewing-president-bidens-travel-to-france/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John Kirby Previewing President\_Biden\u2019s Travel to\_France"

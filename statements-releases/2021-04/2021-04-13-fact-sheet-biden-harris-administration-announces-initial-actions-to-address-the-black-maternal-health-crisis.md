@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-13'
 modified_time: 2021-04-13 10:57:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-black-maternal-health-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-black-maternal-health-crisis/
 published_time: 2021-04-13 12:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Initial Actions to\
   \ Address the Black Maternal Health\_Crisis"
@@ -45,9 +45,9 @@ all Americans to recognize the importance of addressing the crisis of
 Black maternal mortality and morbidity in this country. And, in his
 first 100 days, President Biden issued executive orders to implement a
 [comprehensive approach to advancing racial
-equity,](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+equity,](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 and to establish the [White House Gender Policy
-Council](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) to
+Council](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/) to
 take a whole-of-government approach to gender equity.  Both of these
 interagency processes will work to end disparities that affect women and
 girls of color, including the maternal health crisis.

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-26'
 published_time: 2023-10-26 18:53:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/26/press-briefing-by-press-secretary-karine-jean-pierre-national-economic-council-director-lael-brainard-and-nsc-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/26/press-briefing-by-press-secretary-karine-jean-pierre-national-economic-council-director-lael-brainard-and-nsc-coordinator-for-strategic-communications-john-kirby/
 tags: statements-releases
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, National Economic Council\
   \ Director Lael Brainard, and NSC Coordinator for Strategic Communications John\_\

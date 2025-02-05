@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 13:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/27/executive-order-on-authority-to-order-the-ready-reserve-of-the-armed-forces-to-active-duty-to-address-international-drug-trafficking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/27/executive-order-on-authority-to-order-the-ready-reserve-of-the-armed-forces-to-active-duty-to-address-international-drug-trafficking/
 tags: presidential-actions
 title: "Executive Order on Authority to Order the Ready Reserve of the Armed Forces\
   \ to Active Duty to Address International Drug\_Trafficking"

@@ -2,7 +2,7 @@
 date: '2024-08-25'
 modified_time: 2024-08-25 16:32:04-04:00
 published_time: 2024-08-25 16:32:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/25/president-joseph-r-biden-jr-approves-new-york-emergency-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/25/president-joseph-r-biden-jr-approves-new-york-emergency-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves New York Emergency\_Declaration"
 ---

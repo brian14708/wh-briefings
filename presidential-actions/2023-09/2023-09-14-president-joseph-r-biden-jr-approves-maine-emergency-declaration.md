@@ -1,7 +1,7 @@
 ---
 date: '2023-09-14'
 published_time: 2023-09-14 22:31:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/14/president-joseph-r-biden-jr-approves-maine-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/14/president-joseph-r-biden-jr-approves-maine-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Maine Emergency\_Declaration"
 ---

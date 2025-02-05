@@ -1,7 +1,7 @@
 ---
 date: '2024-03-15'
 published_time: 2024-03-15 11:48:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/15/remarks-by-vice-president-harris-and-taoiseach-leo-varadkar-of-ireland-during-a-st-patricks-day-celebration-breakfast/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/15/remarks-by-vice-president-harris-and-taoiseach-leo-varadkar-of-ireland-during-a-st-patricks-day-celebration-breakfast/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Taoiseach Leo Varadkar of Ireland During\
   \ a St. Patrick\u2019s Day Celebration\_Breakfast"

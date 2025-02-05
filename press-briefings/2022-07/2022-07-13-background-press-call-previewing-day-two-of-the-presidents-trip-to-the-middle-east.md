@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 17:52:33-04:00
 published_time: 2022-07-13 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/13/background-press-call-previewing-day-two-of-the-presidents-trip-to-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/13/background-press-call-previewing-day-two-of-the-presidents-trip-to-the-middle-east/
 tags: press-briefings
 title: "Background Press Call Previewing Day Two of the President\u2019s Trip to the\
   \ Middle\_East"

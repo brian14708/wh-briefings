@@ -1,7 +1,7 @@
 ---
 date: '2024-12-06'
 published_time: 2024-12-06 15:15:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/06/president-joseph-r-biden-jr-amends-georgia-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/06/president-joseph-r-biden-jr-amends-georgia-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Georgia Disaster\_Declaration"
 ---

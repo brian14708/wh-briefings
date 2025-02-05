@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 12:30:42-04:00
 published_time: 2022-06-15 12:30:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/background-press-call-previewing-an-executive-order-advancing-lgbtqi-equality-during-pride-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/background-press-call-previewing-an-executive-order-advancing-lgbtqi-equality-during-pride-month/
 tags: statements-releases
 title: "Background Press Call Previewing an Executive Order Advancing LGBTQI+ Equality\
   \ During Pride\_Month"

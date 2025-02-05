@@ -2,7 +2,7 @@
 date: '2023-06-13'
 modified_time: 2023-06-14 10:06:18-04:00
 published_time: 2023-06-13 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-vice-president-harris-at-a-juneteenth-concert/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-vice-president-harris-at-a-juneteenth-concert/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Juneteenth\_Concert"
 ---

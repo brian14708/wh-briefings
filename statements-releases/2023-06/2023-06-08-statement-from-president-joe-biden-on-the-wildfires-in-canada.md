@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 13:32:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/statement-from-president-joe-biden-on-the-wildfires-in-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/statement-from-president-joe-biden-on-the-wildfires-in-canada/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Wildfires in\_Canada"
 ---

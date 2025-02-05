@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 10:12:56-04:00
 published_time: 2022-08-03 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access-2/
 tags: statements-releases
 title: "FACT SHEET:  President\_Biden Issues Executive Order at the First Meeting\
   \ of the Task Force on Reproductive Healthcare\_Access"
@@ -118,7 +118,7 @@ The Administration has also taken immediate action to:
 
 -   **Protect Access to Reproductive Healthcare Services:** The
     President issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/)
     outlining actions to safeguard access to reproductive health care
     services, including abortion and contraception; protect the privacy
     of patients and their access to accurate information; promote the
@@ -128,7 +128,7 @@ The Administration has also taken immediate action to:
 <!-- -->
 
 -   **Defend the Right to Travel:** On 6/24/22, President Biden
-    [reaffirmed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/)
+    [reaffirmed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/)
     the Attorney General’s
     [statement](https://www.justice.gov/opa/pr/attorney-general-merrick-b-garland-statement-supreme-court-ruling-dobbs-v-jackson-women-s)
     that women must remain free to travel safely to another state to

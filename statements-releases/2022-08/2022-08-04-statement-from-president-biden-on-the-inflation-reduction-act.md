@@ -2,7 +2,7 @@
 date: '2022-08-04'
 modified_time: 2022-08-04 22:31:31-04:00
 published_time: 2022-08-04 22:31:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/04/statement-from-president-biden-on-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/04/statement-from-president-biden-on-the-inflation-reduction-act/
 tags: statements-releases
 title: "Statement from President\_Biden on the Inflation Reduction\_Act"
 ---

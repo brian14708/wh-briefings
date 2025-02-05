@@ -2,7 +2,7 @@
 date: '2022-09-01'
 modified_time: 2022-09-02 12:16:34-04:00
 published_time: 2022-09-01 12:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/01/remarks-by-vice-president-harris-on-the-impact-of-the-inflation-reduction-act-on-seniors-and-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/01/remarks-by-vice-president-harris-on-the-impact-of-the-inflation-reduction-act-on-seniors-and-families/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Impact of the Inflation Reduction\
   \ Act on Seniors and\_Families"

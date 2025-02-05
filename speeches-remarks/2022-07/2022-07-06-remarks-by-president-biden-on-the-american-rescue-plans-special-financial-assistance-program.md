@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-06 19:06:59-04:00
 published_time: 2022-07-06 18:53:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/06/remarks-by-president-biden-on-the-american-rescue-plans-special-financial-assistance-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/06/remarks-by-president-biden-on-the-american-rescue-plans-special-financial-assistance-program/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the American Rescue Plan\u2019s Special Financial\
   \ Assistance\_Program"

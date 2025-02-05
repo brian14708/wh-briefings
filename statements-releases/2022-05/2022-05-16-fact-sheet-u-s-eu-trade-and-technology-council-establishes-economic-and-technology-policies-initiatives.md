@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-15 23:57:46-04:00
 published_time: 2022-05-16 07:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-u-s-eu-trade-and-technology-council-establishes-economic-and-technology-policies-initiatives/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-u-s-eu-trade-and-technology-council-establishes-economic-and-technology-policies-initiatives/
 tags: statements-releases
 title: "FACT SHEET: U.S.-EU Trade and Technology Council Establishes Economic and\
   \ Technology Policies &\_Initiatives"
@@ -12,7 +12,7 @@ title: "FACT SHEET: U.S.-EU Trade and Technology Council Establishes Economic an
 of Global Economy*
 
 *Read the U.S.-EU Joint Statement
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/05/TTC-US-text-Final-May-14.pdf).*
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/TTC-US-text-Final-May-14.pdf).*
 
 The U.S.-EU Trade and Technology Council (TTC) held its second
 ministerial meeting in Saclay – Paris, France on May 15-16, 2022. U.S.

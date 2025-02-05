@@ -2,7 +2,7 @@
 date: '2023-08-22'
 modified_time: 2023-08-21 17:44:28-04:00
 published_time: 2023-08-22 08:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/22/statement-from-vice-president-harris-on-biden-harris-administrations-new-save-plan-for-student-loan-repayment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/22/statement-from-vice-president-harris-on-biden-harris-administrations-new-save-plan-for-student-loan-repayment/
 tags: statements-releases
 title: "Statement from Vice President Harris on Biden-\u2060Harris Administration\u2019\
   s new SAVE Plan for Student Loan\_Repayment"

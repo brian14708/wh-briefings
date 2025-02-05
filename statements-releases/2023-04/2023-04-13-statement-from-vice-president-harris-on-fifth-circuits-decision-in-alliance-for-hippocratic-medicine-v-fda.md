@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 12:17:19-04:00
 published_time: 2023-04-13 12:17:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/statement-from-vice-president-harris-on-fifth-circuits-decision-in-alliance-for-hippocratic-medicine-v-fda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/statement-from-vice-president-harris-on-fifth-circuits-decision-in-alliance-for-hippocratic-medicine-v-fda/
 tags: statements-releases
 title: "Statement from Vice President Harris on Fifth Circuit\u2019s Decision in Alliance\
   \ for Hippocratic Medicine v.\_FDA"

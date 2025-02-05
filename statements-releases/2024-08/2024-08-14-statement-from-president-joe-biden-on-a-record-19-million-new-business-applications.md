@@ -2,7 +2,7 @@
 date: '2024-08-14'
 modified_time: 2024-08-14 10:32:54-04:00
 published_time: 2024-08-14 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-a-record-19-million-new-business-applications/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-a-record-19-million-new-business-applications/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on a Record 19 Million New Business\_\
   Applications"

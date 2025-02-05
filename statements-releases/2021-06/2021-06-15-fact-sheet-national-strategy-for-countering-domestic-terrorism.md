@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 09:04:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/
 published_time: 2021-06-15 06:00:00-04:00
 title: "FACT SHEET: National Strategy for Countering Domestic\_Terrorism"
 ---
@@ -13,7 +13,7 @@ efforts to address domestic terrorism, which has evolved into the most
 urgent terrorism threat the United States faces today. As a result of
 that review, the Biden Administration is releasing the first-ever
 **[National Strategy for Countering Domestic
-Terrorism](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)**
+Terrorism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)**
 to address this challenge to America’s national security and improve the
 federal government’s response.
 

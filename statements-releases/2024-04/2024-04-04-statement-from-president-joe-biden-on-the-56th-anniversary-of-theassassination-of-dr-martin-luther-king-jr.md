@@ -2,7 +2,7 @@
 date: '2024-04-04'
 modified_time: 2024-04-04 16:29:17-04:00
 published_time: 2024-04-04 16:29:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/statement-from-president-joe-biden-on-the-56th-anniversary-of-theassassination-of-dr-martin-luther-king-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/statement-from-president-joe-biden-on-the-56th-anniversary-of-theassassination-of-dr-martin-luther-king-jr/
 tags: statements-releases
 title: "Statement from President Joe\_Biden On the 56th Anniversary of theAssassination\
   \ of Dr. Martin Luther King,\_Jr."

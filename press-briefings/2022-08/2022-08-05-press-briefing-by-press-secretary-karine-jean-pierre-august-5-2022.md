@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 18:11:23-04:00
 published_time: 2022-08-05 18:11:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/05/press-briefing-by-press-secretary-karine-jean-pierre-august-5-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/05/press-briefing-by-press-secretary-karine-jean-pierre-august-5-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, August 5,\_2022"
 ---

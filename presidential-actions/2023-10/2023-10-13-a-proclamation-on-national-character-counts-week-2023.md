@@ -2,7 +2,7 @@
 date: '2023-10-13'
 modified_time: 2023-10-13 16:50:43-04:00
 published_time: 2023-10-13 16:50:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/13/a-proclamation-on-national-character-counts-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/13/a-proclamation-on-national-character-counts-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Character Counts Week,\_2023"
 ---

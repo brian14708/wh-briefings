@@ -1,7 +1,7 @@
 ---
 date: '2022-05-05'
 published_time: 2022-05-05 11:06:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/05/05/bills-signed-s-233-and-s-2629/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/05/05/bills-signed-s-233-and-s-2629/
 tags: legislation
 title: "Bills Signed: S. 233 and\_S.\_2629"
 ---

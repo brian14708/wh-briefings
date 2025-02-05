@@ -2,7 +2,7 @@
 date: '2022-12-27'
 modified_time: 2022-12-27 11:45:33-05:00
 published_time: 2022-12-27 12:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/27/statement-from-president-joe-biden-on-record-2022-healthcare-gov-enrollment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/27/statement-from-president-joe-biden-on-record-2022-healthcare-gov-enrollment/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Record 2022 HealthCare.Gov\_Enrollment"
 ---

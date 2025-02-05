@@ -2,7 +2,7 @@
 date: '2023-03-23'
 modified_time: 2023-03-23 10:12:46-04:00
 published_time: 2023-03-23 10:12:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/23/president-joseph-r-biden-jr-approves-maine-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/23/president-joseph-r-biden-jr-approves-maine-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Maine Disaster\_Declaration"
 ---

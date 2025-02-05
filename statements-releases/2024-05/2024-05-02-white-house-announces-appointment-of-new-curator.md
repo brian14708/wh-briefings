@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-01 19:12:31-04:00
 published_time: 2024-05-02 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/white-house-announces-appointment-of-new-curator/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/white-house-announces-appointment-of-new-curator/
 tags: statements-releases
 title: "White\_House Announces Appointment of New\_Curator"
 ---

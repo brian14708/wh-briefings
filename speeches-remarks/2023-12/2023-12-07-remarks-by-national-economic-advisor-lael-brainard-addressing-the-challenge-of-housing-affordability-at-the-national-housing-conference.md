@@ -2,7 +2,7 @@
 date: '2023-12-07'
 modified_time: 2023-12-07 08:57:51-05:00
 published_time: 2023-12-07 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/07/remarks-by-national-economic-advisor-lael-brainard-addressing-the-challenge-of-housing-affordability-at-the-national-housing-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/07/remarks-by-national-economic-advisor-lael-brainard-addressing-the-challenge-of-housing-affordability-at-the-national-housing-conference/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard Addressing the Challenge\
   \ of Housing Affordability At the National Housing\_Conference"

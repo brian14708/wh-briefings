@@ -2,7 +2,7 @@
 date: '2023-01-01'
 modified_time: 2023-01-01 14:54:07-05:00
 published_time: 2023-01-01 16:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/01/statement-from-president-joe-biden-on-the-160th-anniversary-of-the-emancipation-proclamation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/01/statement-from-president-joe-biden-on-the-160th-anniversary-of-the-emancipation-proclamation/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 160th Anniversary of the Emancipation\_\
   Proclamation"

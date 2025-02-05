@@ -2,7 +2,7 @@
 date: '2023-10-17'
 modified_time: 2023-10-17 16:02:07-04:00
 published_time: 2023-10-17 16:02:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/17/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/17/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to Significant Narcotics Traffickers Centered in\_Colombia"

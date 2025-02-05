@@ -1,7 +1,7 @@
 ---
 date: '2023-02-20'
 published_time: 2023-02-20 22:38:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/20/president-joseph-r-biden-jr-approves-the-oglala-sioux-tribe-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/20/president-joseph-r-biden-jr-approves-the-oglala-sioux-tribe-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves the Oglala Sioux Tribe\_Declaration"
 ---

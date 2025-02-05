@@ -1,7 +1,7 @@
 ---
 date: '2022-09-04'
 published_time: 2022-09-04 19:24:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/04/statement-by-president-biden-in-support-of-californias-agricultural-labor-relations-voting-choice-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/04/statement-by-president-biden-in-support-of-californias-agricultural-labor-relations-voting-choice-act/
 tags: statements-releases
 title: "Statement by President\_Biden in Support of California\u2019s Agricultural\
   \ Labor Relations Voting Choice\_Act"

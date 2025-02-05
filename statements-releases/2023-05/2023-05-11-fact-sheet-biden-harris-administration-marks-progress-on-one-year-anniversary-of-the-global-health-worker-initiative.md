@@ -1,7 +1,7 @@
 ---
 date: '2023-05-11'
 published_time: 2023-05-11 14:41:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Marks Progress On One Year Anniversary\
   \ of the Global Health Worker\_Initiative"
@@ -9,7 +9,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Marks Progress On One Year
  
 One year ago, the White House launched the [Global Health Worker
 Initiative
-(GHWI)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/),
+(GHWI)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/),
 recognizing that a health workforce that is supported, equipped and
 protected to provide essential public health functions is integral to
 reclaiming lost ground from the COVID-19 pandemic and preparing for
@@ -158,7 +158,7 @@ leaders who truly reflect their communities. For example:
 -   **The United States is promoting fair and timely pay for all health
     workers.** GHWI priorities are aligned with the White House
     [National Strategy on Gender Equity and
-    Equality](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/)
+    Equality](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/)
     and the Biden-Harris Administration’s enduring commitment to
     workers’ rights, in support of building the global care economy and
     care infrastructure, and strengthening women’s economic security in

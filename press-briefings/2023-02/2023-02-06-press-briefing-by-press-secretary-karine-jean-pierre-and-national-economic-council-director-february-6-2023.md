@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 19:40:25-05:00
 published_time: 2023-02-06 19:40:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/06/press-briefing-by-press-secretary-karine-jean-pierre-and-national-economic-council-director-february-6-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/06/press-briefing-by-press-secretary-karine-jean-pierre-and-national-economic-council-director-february-6-2023/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Economic\
   \ Council Director, February 6,\_2023"

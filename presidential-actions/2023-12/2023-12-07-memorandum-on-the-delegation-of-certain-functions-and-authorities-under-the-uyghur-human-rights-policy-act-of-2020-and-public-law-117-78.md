@@ -1,7 +1,7 @@
 ---
 date: '2023-12-07'
 published_time: 2023-12-07 11:14:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/07/memorandum-on-the-delegation-of-certain-functions-and-authorities-under-the-uyghur-human-rights-policy-act-of-2020-and-public-law-117-78/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/07/memorandum-on-the-delegation-of-certain-functions-and-authorities-under-the-uyghur-human-rights-policy-act-of-2020-and-public-law-117-78/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Certain Functions and Authorities Under the\
   \ Uyghur Human Rights Policy Act of 2020 and Public Law\_117-78"

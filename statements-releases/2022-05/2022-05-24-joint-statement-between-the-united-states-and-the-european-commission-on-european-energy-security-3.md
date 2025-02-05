@@ -2,7 +2,7 @@
 date: '2022-05-24'
 modified_time: 2022-05-23 18:29:21-04:00
 published_time: 2022-05-24 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/joint-statement-between-the-united-states-and-the-european-commission-on-european-energy-security-3/
 tags: statements-releases
 title: "Joint Statement Between the United\_States and the European Commission on\
   \ European Energy\_Security"

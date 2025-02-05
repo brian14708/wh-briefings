@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 08:57:31-05:00
 published_time: 2022-12-14 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/statement-from-president-joe-biden-marking-10-years-since-the-sandy-hook-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/statement-from-president-joe-biden-marking-10-years-since-the-sandy-hook-shooting/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking 10 Years Since the Sandy Hook\_\
   Shooting"

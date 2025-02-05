@@ -2,7 +2,7 @@
 date: '2022-11-16'
 modified_time: 2022-11-16 10:30:13-05:00
 published_time: 2022-11-16 10:30:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/16/g20-bali-leaders-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/16/g20-bali-leaders-declaration/
 tags: statements-releases
 title: "G20 Bali Leaders\u2019\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-27 16:38:48-04:00
 published_time: 2023-06-27 16:29:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/cea-apples-to-apfel-recent-inflation-trends-in-the-g7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/cea-apples-to-apfel-recent-inflation-trends-in-the-g7/
 tags: statements-releases
 title: "CEA: Apples to \xC4pfel: Recent Inflation Trends in the\_G7"
 ---
@@ -118,19 +118,19 @@ harmonized inflation in April than the U.S.’s early-2022 peak.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?w=640"
 class="wp-image-79419" decoding="async"
 sizes="(max-width: 2093px) 100vw, 2093px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png 2093w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=615,534 615w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=768,667 768w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1270,1103 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1536,1334 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=2048,1779 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=368,320 368w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=737,640 737w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1474,1280 1474w, https://www.whitehouse.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=979,850 979w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png 2093w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=615,534 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=768,667 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1270,1103 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1536,1334 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=2048,1779 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=368,320 368w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=737,640 737w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=1474,1280 1474w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Picture-3CEA.png?resize=979,850 979w"
 width="850" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?w=640"
 class="wp-image-79420" decoding="async" loading="lazy"
 sizes="(max-width: 2147px) 100vw, 2147px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png 2147w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=615,536 615w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=768,670 768w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1270,1107 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1536,1339 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=2048,1786 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=367,320 367w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=734,640 734w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1468,1280 1468w, https://www.whitehouse.gov/wp-content/uploads/2023/06/CEA-226.png?resize=975,850 975w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png 2147w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=615,536 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=768,670 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1270,1107 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1536,1339 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=2048,1786 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=367,320 367w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=734,640 734w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=1468,1280 1468w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/CEA-226.png?resize=975,850 975w"
 width="2147" height="1872" />
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 02:31:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-joint-leaders-statement-an-alliance-for-our-times/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-joint-leaders-statement-an-alliance-for-our-times/
 tags: statements-releases
 title: "Australia-United\_States Joint Leaders\u2019 Statement \u2013 An Alliance\
   \ for our\_Times"

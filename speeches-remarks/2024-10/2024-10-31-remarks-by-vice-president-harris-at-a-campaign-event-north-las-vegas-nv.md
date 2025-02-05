@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-11-01 19:17:50-04:00
 published_time: 2024-10-31 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-vice-president-harris-at-a-campaign-event-north-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-vice-president-harris-at-a-campaign-event-north-las-vegas-nv/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | North Las Vegas,\_\
   NV"

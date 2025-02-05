@@ -1,7 +1,7 @@
 ---
 date: '2022-11-04'
 published_time: 2022-11-04 18:49:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/04/remarks-by-president-biden-on-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/04/remarks-by-president-biden-on-the-chips-and-science-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the CHIPS and Science\_Act"
 ---

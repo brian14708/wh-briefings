@@ -2,7 +2,7 @@
 date: '2022-07-04'
 modified_time: 2022-07-05 12:33:11-04:00
 published_time: 2022-07-04 23:32:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/04/remarks-by-president-biden-and-first-lady-jill-biden-at-independence-day-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/04/remarks-by-president-biden-and-first-lady-jill-biden-at-independence-day-celebration/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at Independence Day\_\
   Celebration"

@@ -2,7 +2,7 @@
 date: '2024-02-13'
 modified_time: 2024-02-13 15:45:37-05:00
 published_time: 2024-02-13 15:45:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/13/remarks-by-president-biden-on-senate-passage-of-the-bipartisan-supplemental-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/13/remarks-by-president-biden-on-senate-passage-of-the-bipartisan-supplemental-agreement/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Senate Passage of the Bipartisan Supplemental\_\
   Agreement"

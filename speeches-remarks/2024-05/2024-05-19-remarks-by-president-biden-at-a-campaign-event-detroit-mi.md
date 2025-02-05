@@ -2,7 +2,7 @@
 date: '2024-05-19'
 modified_time: 2024-05-19 18:56:32-04:00
 published_time: 2024-05-19 18:56:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-a-campaign-event-detroit-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-a-campaign-event-detroit-mi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Detroit,\_MI"
 ---

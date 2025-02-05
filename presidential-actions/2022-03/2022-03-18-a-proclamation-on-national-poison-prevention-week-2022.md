@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2022-03-18'
 modified_time: 2022-03-18 11:18:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/18/a-proclamation-on-national-poison-prevention-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/18/a-proclamation-on-national-poison-prevention-week-2022/
 published_time: 2022-03-18 11:18:07-04:00
 title: "A Proclamation on National Poison Prevention Week,\_2022"
 ---

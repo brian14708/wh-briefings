@@ -2,7 +2,7 @@
 date: '2024-02-14'
 modified_time: 2024-02-14 19:43:03-05:00
 published_time: 2024-02-14 19:43:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons-meeting/
 tags: statements-releases
 title: "FACT SHEET: President\u2019s Interagency Task Force to Monitor and Combat\
   \ Trafficking in Persons\_Meeting"
@@ -262,9 +262,9 @@ other critical issues.
 **This fact sheet offers only a snapshot of the Administration’s plans
 for 2024**.  Numerous documents have guided our work this past year,
 including [the National Action Plan to Combat Human
-Trafficking](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf),
+Trafficking](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf),
 the October 2023 [Report of the White House H-2B Worker Protection
-Taskforce](https://www.whitehouse.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf),
+Taskforce](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf),
 the [U.S. Advisory Council on Human Trafficking Annual Report
 2022](https://www.state.gov/wp-content/uploads/2022/09/2022-Annual-Report-FINAL_Web-Version_508.pdf),
 and the [State Department’s 2023 Trafficking in Persons

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-07'
 published_time: 2024-05-07 19:12:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/readout-of-president-bidens-meeting-with-president-iohannis-of-romania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/readout-of-president-bidens-meeting-with-president-iohannis-of-romania/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Iohannis of\_Romania"
 ---

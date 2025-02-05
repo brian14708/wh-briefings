@@ -2,7 +2,7 @@
 date: '2024-06-06'
 modified_time: 2024-06-05 22:07:04-04:00
 published_time: 2024-06-06 06:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/06/joint-statement-from-the-leaders-of-the-united-states-argentina-austria-brazil-bulgaria-canada-colombia-denmark-france-germany-poland-portugal-romania-serbia-spain-thailand-and-the-uni/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/06/joint-statement-from-the-leaders-of-the-united-states-argentina-austria-brazil-bulgaria-canada-colombia-denmark-france-germany-poland-portugal-romania-serbia-spain-thailand-and-the-uni/
 tags: statements-releases
 title: "Joint Statement from the Leaders of the United\_States, Argentina, Austria,\
   \ Brazil, Bulgaria, Canada, Colombia, Denmark, France, Germany, Poland, Portugal,\

@@ -1,7 +1,7 @@
 ---
 date: '2024-02-14'
 published_time: 2024-02-14 13:51:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-to-kick-off-fourth-investing-in-america-tour-to-highlight-how-the-president-is-delivering-for-communities-in-every-corner-of-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-to-kick-off-fourth-investing-in-america-tour-to-highlight-how-the-president-is-delivering-for-communities-in-every-corner-of-america/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration to Kick off Fourth Investing\
   \ in America Tour to Highlight How the President Is Delivering for Communities in\

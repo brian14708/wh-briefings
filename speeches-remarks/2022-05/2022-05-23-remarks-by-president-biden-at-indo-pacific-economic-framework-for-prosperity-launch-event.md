@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 05:31:20-04:00
 published_time: 2022-05-23 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/23/remarks-by-president-biden-at-indo-pacific-economic-framework-for-prosperity-launch-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/23/remarks-by-president-biden-at-indo-pacific-economic-framework-for-prosperity-launch-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Indo-Pacific Economic Framework For Prosperity\
   \ Launch\_Event"

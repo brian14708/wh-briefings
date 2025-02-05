@@ -1,7 +1,7 @@
 ---
 date: '2022-08-26'
 published_time: 2022-08-26 20:07:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-before-marine-one-departure-18/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-before-marine-one-departure-18/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

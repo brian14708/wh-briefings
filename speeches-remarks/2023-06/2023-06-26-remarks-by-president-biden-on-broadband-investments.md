@@ -2,7 +2,7 @@
 date: '2023-06-26'
 modified_time: 2023-06-26 16:09:42-04:00
 published_time: 2023-06-26 15:56:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-president-biden-on-broadband-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-president-biden-on-broadband-investments/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Broadband\_Investments"
 ---

@@ -2,7 +2,7 @@
 tags: legislation
 date: '2021-03-11'
 modified_time: 2021-03-11 14:51:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/03/11/bill-signing-h-r-1319/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2021/03/11/bill-signing-h-r-1319/
 published_time: 2021-03-11 14:51:52-05:00
 title: "Bill Signing: H.R.\_1319"
 ---

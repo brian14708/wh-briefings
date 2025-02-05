@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 00:33:13-04:00
 published_time: 2024-03-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Landmark Rule to Protect Americans\
   \ from Junk Health\_Insurance"

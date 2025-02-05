@@ -2,7 +2,7 @@
 date: '2023-11-02'
 modified_time: 2023-11-02 10:52:06-04:00
 published_time: 2023-11-02 10:52:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/02/readout-of-vice-president-harriss-meeting-with-secretary-general-of-the-united-nations-antonio-guterres/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/02/readout-of-vice-president-harriss-meeting-with-secretary-general-of-the-united-nations-antonio-guterres/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Secretary General of\
   \ the United Nations Antonio\_Guterres"

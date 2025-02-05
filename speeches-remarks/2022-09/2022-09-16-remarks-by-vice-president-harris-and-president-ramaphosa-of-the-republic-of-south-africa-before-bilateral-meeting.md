@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 12:05:53-04:00
 published_time: 2022-09-16 12:05:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-vice-president-harris-and-president-ramaphosa-of-the-republic-of-south-africa-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-vice-president-harris-and-president-ramaphosa-of-the-republic-of-south-africa-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Ramaphosa of the Republic of\
   \ South Africa Before Bilateral\_Meeting"

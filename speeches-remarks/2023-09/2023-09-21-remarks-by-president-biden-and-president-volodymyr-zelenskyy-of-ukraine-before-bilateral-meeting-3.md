@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 21:12:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/21/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/21/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Volodymyr Zelenskyy of Ukraine Before\
   \ Bilateral\_Meeting"

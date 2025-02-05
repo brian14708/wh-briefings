@@ -1,7 +1,7 @@
 ---
 date: '2023-05-27'
 published_time: 2023-05-27 13:44:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/27/remarks-by-vice-president-harris-in-commencement-address-to-the-united-states-military-academy-at-west-point/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/27/remarks-by-vice-president-harris-in-commencement-address-to-the-united-states-military-academy-at-west-point/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Commencement Address to the United\_States\
   \ Military Academy at West\_Point"

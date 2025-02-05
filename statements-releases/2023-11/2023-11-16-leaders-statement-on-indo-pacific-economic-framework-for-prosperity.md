@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 20:19:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/leaders-statement-on-indo-pacific-economic-framework-for-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/leaders-statement-on-indo-pacific-economic-framework-for-prosperity/
 tags: statements-releases
 title: "Leaders\u2019 Statement on Indo-Pacific Economic Framework for\_Prosperity"
 ---

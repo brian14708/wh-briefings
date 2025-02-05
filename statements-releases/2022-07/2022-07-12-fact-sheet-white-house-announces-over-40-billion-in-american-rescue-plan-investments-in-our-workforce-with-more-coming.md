@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-14 20:03:39-04:00
 published_time: 2022-07-12 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/
 tags: statements-releases
 title: "FACT SHEET: White\_House Announces over $40 Billion in American Rescue Plan\
   \ Investments in Our Workforce \u2013 With More\_Coming"
@@ -43,7 +43,7 @@ American Rescue Plan investment:
 **1. Building a Diverse and Skilled Infrastructure Workforce:**
 President Biden and Vice President Harris have launched the
 Administration’s [Infrastructure Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/)
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/)
 to encourage immediate partnerships by the public and private sectors to
 ensure we have the diverse and strong workforce needed to help rebuild
 our infrastructure and supply chains here at home with the Bipartisan

@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 16:12:06-04:00
 published_time: 2022-05-19 16:12:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/statement-from-president-biden-on-ftc-vote-to-protect-childrens-privacy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/statement-from-president-biden-on-ftc-vote-to-protect-childrens-privacy/
 tags: statements-releases
 title: "Statement from President\_Biden on FTC Vote to Protect Children\u2019s\_Privacy"
 ---

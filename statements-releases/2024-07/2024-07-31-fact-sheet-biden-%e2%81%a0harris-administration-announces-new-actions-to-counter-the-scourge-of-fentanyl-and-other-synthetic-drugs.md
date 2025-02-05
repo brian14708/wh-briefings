@@ -2,7 +2,7 @@
 date: '2024-07-31'
 modified_time: 2024-07-30 18:47:13-04:00
 published_time: 2024-07-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-counter-the-scourge-of-fentanyl-and-other-synthetic-drugs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-counter-the-scourge-of-fentanyl-and-other-synthetic-drugs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Counter\
   \ the Scourge of Fentanyl and Other Synthetic\_Drugs"
@@ -31,7 +31,7 @@ number of actions to combat the opioid epidemic:
 <!-- -->
 
 -   The Biden-Harris Administration has made
-    [naloxone](https://www.whitehouse.gov/ondcp/briefing-room/2023/12/21/biden-harris-administration-announces-new-action-to-increase-naloxone-access-in-federal-facilities-across-the-nation/),
+    [naloxone](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/12/21/biden-harris-administration-announces-new-action-to-increase-naloxone-access-in-federal-facilities-across-the-nation/),
     a life-saving opioid overdose reversal medication, widely available
     over the counter, and has invested over $82 billion in treatment –
     40 percent more than the previous Administration.
@@ -39,7 +39,7 @@ number of actions to combat the opioid epidemic:
 <!-- -->
 
 -   In 2021, President Biden issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/)
     targeting foreign persons engaged in the global illicit drug trade
     and has since sanctioned over 300 persons and entities under this
     authority, thereby cutting them off from the United States’
@@ -94,9 +94,9 @@ Administration has taken to combat the opioid epidemic, including:**
     dozens of high-level Mexican cartel leaders, drug traffickers, and
     money launderers, including Sinaloa Cartel’s co-founder [Ismael “El
     Mayo” Zambada
-    Garcia](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/statement-from-president-joe-biden-on-the-arrest-of-two-drug-trafficker-leaders-of-the-sinaloa-cartel/),
+    Garcia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/statement-from-president-joe-biden-on-the-arrest-of-two-drug-trafficker-leaders-of-the-sinaloa-cartel/),
     Chapitos leader [Nestor Isidro “El Nini” Perez
-    Salas](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/25/statement-from-president-joe-biden-on-joint-u-s-mexican-cooperation-to-extradite-to-the-united-states-major-fentanyl-criminal/),
+    Salas](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/25/statement-from-president-joe-biden-on-joint-u-s-mexican-cooperation-to-extradite-to-the-united-states-major-fentanyl-criminal/),
     and [Cartel de Jalisco Nueva
     Generación](https://home.treasury.gov/news/press-releases/jy1936)’s
     top chemical brokers—placing dangerous drug traffickers behind bars.
@@ -105,7 +105,7 @@ Administration has taken to combat the opioid epidemic, including:**
 
 -   In November 2023, President Biden negotiated the resumption of
     [counternarcotics cooperation with the People’s Republic of China
-    (PRC)](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-continues-progress-on-fight-against-global-illicit-drug-trafficking/),
+    (PRC)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-continues-progress-on-fight-against-global-illicit-drug-trafficking/),
     spurring increased cooperation on law enforcement actions and
     ongoing efforts to shut down companies that fuel illicit fentanyl
     and synthetic drug trafficking and cause deaths in the United
@@ -114,13 +114,13 @@ Administration has taken to combat the opioid epidemic, including:**
 <!-- -->
 
 -   The Biden-Harris Administration has [engaged with leaders around the
-    world](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/g7-leaders-statement-on-synthetic-drugs-threats/)
+    world](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/g7-leaders-statement-on-synthetic-drugs-threats/)
     to spur global action in the fight against synthetic opioids,
     established a [Trilateral Fentanyl Committee with the Governments of
     Mexico and
-    Canada](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/joint-statement-from-mexico-canada-and-the-united-states-reaffirming-our-shared-commitment-to-address-the-regional-challenge-of-synthetic-drugs-and-firearms-trafficking/),
+    Canada](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/joint-statement-from-mexico-canada-and-the-united-states-reaffirming-our-shared-commitment-to-address-the-regional-challenge-of-synthetic-drugs-and-firearms-trafficking/),
     and launched a [Global Coalition to Address Synthetic Drug
-    Threats](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-launch-of-the-global-coalition-to-address-synthetic-drug-threats/)
+    Threats](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/07/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-launch-of-the-global-coalition-to-address-synthetic-drug-threats/)
     uniting more than 150 countries in this effort.
 
 <!-- -->

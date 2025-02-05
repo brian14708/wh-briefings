@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-07-28 10:09:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/
 published_time: 2021-07-28 10:00:00-04:00
 title: "FACT SHEET: Companies, Non-Profits, Government Agencies Answer Biden-\u2060\
   Harris Call: Make Combined Commitment to Alert Tens of Millions of Americans to\
@@ -39,7 +39,7 @@ Washington, D.C., territories, and in Tribal areas, and will continue to
 be available after the expiration of the CDC eviction moratorium on
 August 1, 2021. The continued Call to Action builds on the [groundwork
 laid over the past several
-months](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+months](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
 by the Administration to engage renters and landlords, including hosting
 two virtual convenings with thousands of participants to share best
 practices on eviction prevention and build local plans of action,

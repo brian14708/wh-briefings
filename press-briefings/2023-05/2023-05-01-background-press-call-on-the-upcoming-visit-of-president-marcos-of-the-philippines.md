@@ -2,7 +2,7 @@
 date: '2023-05-01'
 modified_time: 2023-04-30 21:01:33-04:00
 published_time: 2023-05-01 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/01/background-press-call-on-the-upcoming-visit-of-president-marcos-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/01/background-press-call-on-the-upcoming-visit-of-president-marcos-of-the-philippines/
 tags: press-briefings
 title: "Background Press Call on the Upcoming Visit of President Marcos of the\_Philippines"
 ---

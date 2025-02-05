@@ -1,7 +1,7 @@
 ---
 date: '2023-06-13'
 published_time: 2023-06-13 22:54:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-president-biden-at-a-juneteenth-concert/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-president-biden-at-a-juneteenth-concert/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Juneteenth\_Concert"
 ---

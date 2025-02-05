@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 16:37:56-04:00
 published_time: 2024-09-23 16:33:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-partnership-for-atlantic-cooperation-ministerial/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-partnership-for-atlantic-cooperation-ministerial/
 tags: statements-releases
 title: "FACT SHEET: Partnership for Atlantic Cooperation\_Ministerial"
 ---

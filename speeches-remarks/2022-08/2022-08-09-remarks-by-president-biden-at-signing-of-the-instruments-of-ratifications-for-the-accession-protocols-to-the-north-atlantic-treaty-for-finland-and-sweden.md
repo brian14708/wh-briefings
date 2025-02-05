@@ -1,7 +1,7 @@
 ---
 date: '2022-08-09'
 published_time: 2022-08-09 17:00:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/09/remarks-by-president-biden-at-signing-of-the-instruments-of-ratifications-for-the-accession-protocols-to-the-north-atlantic-treaty-for-finland-and-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/09/remarks-by-president-biden-at-signing-of-the-instruments-of-ratifications-for-the-accession-protocols-to-the-north-atlantic-treaty-for-finland-and-sweden/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of the Instruments of Ratifications\
   \ for the Accession Protocols to the North Atlantic Treaty for Finland and\_Sweden"

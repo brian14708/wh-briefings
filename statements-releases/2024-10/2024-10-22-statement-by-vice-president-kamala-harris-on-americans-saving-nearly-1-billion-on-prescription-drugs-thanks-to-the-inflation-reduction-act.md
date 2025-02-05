@@ -1,7 +1,7 @@
 ---
 date: '2024-10-22'
 published_time: 2024-10-22 14:52:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/22/statement-by-vice-president-kamala-harris-on-americans-saving-nearly-1-billion-on-prescription-drugs-thanks-to-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/22/statement-by-vice-president-kamala-harris-on-americans-saving-nearly-1-billion-on-prescription-drugs-thanks-to-the-inflation-reduction-act/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Americans Saving Nearly $1 Billion\
   \ on Prescription Drugs Thanks to the Inflation Reduction\_Act"

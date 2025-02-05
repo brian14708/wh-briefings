@@ -1,7 +1,7 @@
 ---
 date: '2022-09-15'
 published_time: 2022-09-15 10:56:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/15/a-proclamation-on-national-pow-mia-recognition-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/15/a-proclamation-on-national-pow-mia-recognition-day/
 tags: presidential-actions
 title: "A Proclamation on National POW/MIA Recognition\_Day"
 ---

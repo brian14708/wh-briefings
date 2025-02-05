@@ -2,7 +2,7 @@
 date: '2024-11-27'
 modified_time: 2024-11-27 16:26:20-05:00
 published_time: 2024-11-27 16:26:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/27/background-press-call-on-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/27/background-press-call-on-venezuela/
 tags: press-briefings
 title: "Background Press Call on\_Venezuela"
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-12'
 modified_time: 2024-08-12 13:57:32-04:00
 published_time: 2024-08-12 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/joint-statement-from-the-united-states-united-kingdom-france-germany-and-italy-on-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/12/joint-statement-from-the-united-states-united-kingdom-france-germany-and-italy-on-the-middle-east/
 tags: statements-releases
 title: "Joint Statement from the United\_States, United Kingdom, France, Germany,\
   \ and Italy on the Middle\_East"

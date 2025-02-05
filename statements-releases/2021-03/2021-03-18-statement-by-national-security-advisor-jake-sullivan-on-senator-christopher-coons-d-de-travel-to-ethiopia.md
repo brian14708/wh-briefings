@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-03-18'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/statement-by-national-security-advisor-jake-sullivan-on-senator-christopher-coons-d-de-travel-to-ethiopia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/18/statement-by-national-security-advisor-jake-sullivan-on-senator-christopher-coons-d-de-travel-to-ethiopia/
 published_time: 2021-03-18 10:55:43-04:00
 title: "Statement by National Security Advisor Jake Sullivan on Senator Christopher\
   \ Coons (D-DE) Travel to\_Ethiopia"

@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 19:22:25-05:00
 published_time: 2025-01-10 19:22:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/readout-of-president-bidens-call-with-prime-minister-meloni-of-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/readout-of-president-bidens-call-with-prime-minister-meloni-of-italy/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Meloni of\_Italy"
 ---

@@ -2,7 +2,7 @@
 date: '2023-07-03'
 modified_time: 2023-07-03 14:31:08-04:00
 published_time: 2023-07-03 13:14:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/03/readout-of-white-house-listening-session-with-union-leaders-on-advancing-responsible-artificial-intelligence-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/03/readout-of-white-house-listening-session-with-union-leaders-on-advancing-responsible-artificial-intelligence-innovation/
 tags: statements-releases
 title: "Readout of White\_House Listening Session with Union Leaders on Advancing\
   \ Responsible Artificial Intelligence\_Innovation"
@@ -59,15 +59,15 @@ considerable steps the Administration has taken to date to promote
 responsible innovation and mitigate the risks from AI.
 This work includes [last week’s meeting with civil society leaders in
 San
-Francisco](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-on-seizing-the-opportunities-and-managing-the-risks-of-artificial-intelligence/), [new
+Francisco](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-on-seizing-the-opportunities-and-managing-the-risks-of-artificial-intelligence/), [new
 investments to power responsible AI research and
-development](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/), [additional
+development](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/), [additional
 actions
-announced last month](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/), the [Blueprint
+announced last month](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/), the [Blueprint
 for an AI Bill of
-Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and [related
+Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) and [related
 executive
-actions](https://www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/), the [AI
+actions](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/), the [AI
 Risk Management
 Framework](https://www.nist.gov/itl/ai-risk-management-framework), a [Request
 For Information
@@ -75,7 +75,7 @@ For Information
 the impacts of automated surveillance and management technologies on
 workers, a briefing for unions on the RFI in partnership with
 AFL-CIO Tech Institute, [last month’s listening
-session](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/readout-of-white-house-listening-session-on-automated-worker-surveillance-and-management/) with
+session](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/readout-of-white-house-listening-session-on-automated-worker-surveillance-and-management/) with
 workers (including union workers), and the [roadmap for standing up a
 National AI Research
 Resource](https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf).  

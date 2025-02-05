@@ -2,7 +2,7 @@
 date: '2023-05-21'
 modified_time: 2023-05-21 01:10:11-04:00
 published_time: 2023-05-21 01:10:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/21/readout-of-president-bidens-meeting-with-prime-minister-kishida-fumio-of-japan-and-president-yoon-suk-yeol-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/21/readout-of-president-bidens-meeting-with-prime-minister-kishida-fumio-of-japan-and-president-yoon-suk-yeol-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kishida Fumio\
   \ of Japan and President Yoon Suk Yeol of the Republic of\_Korea"

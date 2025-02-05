@@ -1,7 +1,7 @@
 ---
 date: '2024-07-26'
 published_time: 2024-07-26 12:20:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-implementing-the-national-standards-strategy-for-critical-and-emerging-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-implementing-the-national-standards-strategy-for-critical-and-emerging-technology/
 tags: statements-releases
 title: "FACT SHEET: Implementing the National Standards Strategy for Critical and\
   \ Emerging\_Technology"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Implementing the National Standards Strategy for Critical an
 Today, the Biden-Harris Administration released the Implementation
 Roadmap for the U.S. Government’s May 2023 [National Standards Strategy
 for Critical and Emerging Technology (USG
-NSSCET)](https://www.whitehouse.gov/wp-content/uploads/2024/07/USG-NSSCET_Implementation_Rdmap_v7_23.pdf).
+NSSCET)](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/USG-NSSCET_Implementation_Rdmap_v7_23.pdf).
 The roadmap sustains and reinforces the U.S. Government’s commitment to
 standards development led by the private sector and enhanced by
 partnerships with public institutions and calls for robust engagement in
@@ -28,7 +28,7 @@ transactions, accelerates innovation, and enables people to work across
 disciplines and borders toward common goals.  
    
 [Critical and emerging
-technologies](https://www.whitehouse.gov/wp-content/uploads/2024/02/Critical-and-Emerging-Technologies-List-2024-Update.pdf)
+technologies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Critical-and-Emerging-Technologies-List-2024-Update.pdf)
 have been designated by the Administration as potentially significant to
 U.S. national security, including economic security and the defense of
 democratic values. Recognizing the strategic value of CETs, our

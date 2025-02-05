@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
 published_time: 2022-11-21 19:09:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-cherry-point-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-cherry-point-nc/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Cherry Point,\_\
   NC"

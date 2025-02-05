@@ -1,7 +1,7 @@
 ---
 date: '2024-10-02'
 published_time: 2024-10-02 17:40:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-with-muslim-arab-and-palestinian-american-community-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/02/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-with-muslim-arab-and-palestinian-american-community-leaders/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Meeting with Muslim, Arab, and Palestinian American Community\_Leaders"

@@ -1,7 +1,7 @@
 ---
 date: '2025-01-12'
 published_time: 2025-01-12 22:53:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/12/readout-of-president-bidens-call-with-prime-minister-ishiba-of-japan-and-president-marcos-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/12/readout-of-president-bidens-call-with-prime-minister-ishiba-of-japan-and-president-marcos-of-the-philippines/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Ishiba of Japan\
   \ and President Marcos of the\_Philippines"

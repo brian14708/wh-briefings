@@ -2,14 +2,14 @@
 date: '2022-04-14'
 modified_time: 2022-04-14 08:20:56-04:00
 published_time: 2022-04-14 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/fact-sheet-biden-harris-administration-releases-agency-equity-action-plans-to-advance-equity-and-racial-justice-across-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/14/fact-sheet-biden-harris-administration-releases-agency-equity-action-plans-to-advance-equity-and-racial-justice-across-the-federal-government/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Agency Equity Action\
   \ Plans to Advance Equity and Racial Justice Across the Federal\_Government"
 ---
  
 On his first day in office, President Biden signed [Executive Order
-13985](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+13985](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
 Advancing Racial Equity and Support for Underserved Communities Through
 the Federal Government. That historic Executive Order directed the whole
 of the federal government to advance an ambitious equity and racial
@@ -169,7 +169,7 @@ gender equality in day-to-day governing. These approaches include:
     coming weeks.  
 -   **Reducing administrative burdens and simplifying government
     services.** Under newly-released
-    [guidance](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf)
+    [guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/M-22-10.pdf)
     from the Office of Management and Budget, agencies are reducing the
     complexity of forms and enrollment procedures to address the
     often-hidden barriers to access for governmental services, ensuring

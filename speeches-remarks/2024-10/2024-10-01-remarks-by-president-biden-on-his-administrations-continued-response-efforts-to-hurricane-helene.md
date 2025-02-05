@@ -1,7 +1,7 @@
 ---
 date: '2024-10-01'
 published_time: 2024-10-01 00:02:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/01/remarks-by-president-biden-on-his-administrations-continued-response-efforts-to-hurricane-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/01/remarks-by-president-biden-on-his-administrations-continued-response-efforts-to-hurricane-helene/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Administration\u2019s Continued Response\
   \ Efforts to Hurricane\_Helene"

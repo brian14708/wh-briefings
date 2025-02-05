@@ -2,7 +2,7 @@
 date: '2022-11-09'
 modified_time: 2022-11-09 19:45:50-05:00
 published_time: 2022-11-09 19:45:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/09/remarks-by-president-biden-in-press-conference-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/09/remarks-by-president-biden-in-press-conference-8/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press\_Conference"
 ---

@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-04 10:15:55-05:00
 published_time: 2024-12-03 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/
 tags: statements-releases
 title: "FACT SHEET: Partnership for Global Infrastructure and Investment in the Lobito\
   \ Trans-Africa\_Corridor"
@@ -163,7 +163,7 @@ Corridor, the United States is investing in value-added food processing
 and connecting farmers to global markets.  These investments also
 deliver on President Biden’s commitment under the [U.S.-Africa
 Partnership to Promote Food Security and Resilient Food
-Systems](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/),
+Systems](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/),
 to step up our investments to build more resilient food systems in
 Africa and to unlock Africa’s enormous agriculture production
 potential.  

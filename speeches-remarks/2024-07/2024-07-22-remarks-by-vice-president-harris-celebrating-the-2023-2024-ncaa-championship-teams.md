@@ -1,7 +1,7 @@
 ---
 date: '2024-07-22'
 published_time: 2024-07-22 12:39:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/22/remarks-by-vice-president-harris-celebrating-the-2023-2024-ncaa-championship-teams/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/22/remarks-by-vice-president-harris-celebrating-the-2023-2024-ncaa-championship-teams/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Celebrating the 2023-2024 NCAA Championship\_\
   Teams"

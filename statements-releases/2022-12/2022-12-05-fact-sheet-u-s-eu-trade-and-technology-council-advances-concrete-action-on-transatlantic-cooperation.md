@@ -1,7 +1,7 @@
 ---
 date: '2022-12-05'
 published_time: 2022-12-05 16:24:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/05/fact-sheet-u-s-eu-trade-and-technology-council-advances-concrete-action-on-transatlantic-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/05/fact-sheet-u-s-eu-trade-and-technology-council-advances-concrete-action-on-transatlantic-cooperation/
 tags: statements-releases
 title: "FACT SHEET: U.S.-EU Trade and Technology Council Advances Concrete Action\
   \ on Transatlantic\_Cooperation"
@@ -81,7 +81,7 @@ Countries:**
 -   Working on a pilot project on privacy enhancing technologies and
     synthetic data in health and medicine.  
 -   Publishing a [joint
-    study](https://www.whitehouse.gov/cea/written-materials/2022/12/05/the-impact-of-artificial-intelligence-on-the-future-of-workforces-in-the-european-union-and-the-united-states-of-america/)
+    study](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/12/05/the-impact-of-artificial-intelligence-on-the-future-of-workforces-in-the-european-union-and-the-united-states-of-america/)
     on the impact of AI on the workforce.
 -   Establishing an expert task force on quantum information science and
     technology to reduce barriers to research collaboration, and engage

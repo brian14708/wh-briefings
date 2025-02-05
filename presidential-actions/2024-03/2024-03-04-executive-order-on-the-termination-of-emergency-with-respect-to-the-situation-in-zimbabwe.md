@@ -1,7 +1,7 @@
 ---
 date: '2024-03-04'
 published_time: 2024-03-04 10:03:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/04/executive-order-on-the-termination-of-emergency-with-respect-to-the-situation-in-zimbabwe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/04/executive-order-on-the-termination-of-emergency-with-respect-to-the-situation-in-zimbabwe/
 tags: presidential-actions
 title: "Executive Order on the Termination of Emergency With Respect to the Situation\
   \ in\_Zimbabwe"

@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 20:55:36-04:00
 published_time: 2024-10-25 20:55:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/25/g7-leaders-statement-on-extraordinary-revenue-acceleration-era-loans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/25/g7-leaders-statement-on-extraordinary-revenue-acceleration-era-loans/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on Extraordinary Revenue Acceleration (ERA)\_Loans"
 ---

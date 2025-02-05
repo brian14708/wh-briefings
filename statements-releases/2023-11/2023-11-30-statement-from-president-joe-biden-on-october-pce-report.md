@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 11:30:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/statement-from-president-joe-biden-on-october-pce-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/statement-from-president-joe-biden-on-october-pce-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on October PCE\_Report"
 ---

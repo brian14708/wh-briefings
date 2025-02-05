@@ -1,7 +1,7 @@
 ---
 date: '2022-07-10'
 published_time: 2022-07-10 18:17:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/10/remarks-by-president-biden-in-press-gaggle-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/10/remarks-by-president-biden-in-press-gaggle-5/
 tags: speeches-remarks
 title: "Remarks by President\_Biden In Press\_Gaggle"
 ---

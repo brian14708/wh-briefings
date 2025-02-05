@@ -2,7 +2,7 @@
 date: '2024-02-20'
 modified_time: 2024-02-21 11:04:26-05:00
 published_time: 2024-02-20 22:49:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/20/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/20/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-los-angeles-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Los Angeles,\_\
   CA"

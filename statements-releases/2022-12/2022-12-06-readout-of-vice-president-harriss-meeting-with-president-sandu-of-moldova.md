@@ -1,7 +1,7 @@
 ---
 date: '2022-12-06'
 published_time: 2022-12-06 17:32:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/06/readout-of-vice-president-harriss-meeting-with-president-sandu-of-moldova/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/06/readout-of-vice-president-harriss-meeting-with-president-sandu-of-moldova/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Sandu of\_\
   Moldova"

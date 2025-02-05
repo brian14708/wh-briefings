@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 18:54:22-05:00
 published_time: 2023-12-22 18:54:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/readout-of-president-bidens-call-with-president-pedro-sanchez-of-spain-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/readout-of-president-bidens-call-with-president-pedro-sanchez-of-spain-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Pedro Sanchez of\_\
   Spain"

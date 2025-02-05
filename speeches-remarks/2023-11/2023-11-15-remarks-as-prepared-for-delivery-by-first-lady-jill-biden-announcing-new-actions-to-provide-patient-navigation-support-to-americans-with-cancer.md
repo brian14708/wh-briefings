@@ -1,7 +1,7 @@
 ---
 date: '2023-11-15'
 published_time: 2023-11-15 16:17:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-announcing-new-actions-to-provide-patient-navigation-support-to-americans-with-cancer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-announcing-new-actions-to-provide-patient-navigation-support-to-americans-with-cancer/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden Announcing New\
   \ Actions to Provide Patient Navigation Support to Americans with\_Cancer"

@@ -2,7 +2,7 @@
 date: '2022-11-06'
 modified_time: 2022-11-07 13:45:38-05:00
 published_time: 2022-11-06 20:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-president-biden-at-rally-for-new-york-governor-kathy-hochul/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-president-biden-at-rally-for-new-york-governor-kathy-hochul/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Rally for New York Governor Kathy\_Hochul"
 ---

@@ -2,7 +2,7 @@
 date: '2023-12-02'
 modified_time: 2023-12-02 16:37:57-05:00
 published_time: 2023-12-02 15:52:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/statement-from-president-joe-biden-on-the-passing-of-u-s-supreme-court-justice-sandra-day-oconnor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/statement-from-president-joe-biden-on-the-passing-of-u-s-supreme-court-justice-sandra-day-oconnor/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of U.S. Supreme Court Justice\
   \ Sandra Day\_O\u2019Connor"

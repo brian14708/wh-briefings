@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-17 15:18:32-05:00
 published_time: 2023-01-17 15:18:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/readout-of-vice-president-harriss-call-with-president-sheikh-mohammed-bin-zayed-al-nahyan-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/readout-of-vice-president-harriss-call-with-president-sheikh-mohammed-bin-zayed-al-nahyan-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Sheikh Mohammed\
   \ bin Zayed Al Nahyan of the United Arab Emirates"

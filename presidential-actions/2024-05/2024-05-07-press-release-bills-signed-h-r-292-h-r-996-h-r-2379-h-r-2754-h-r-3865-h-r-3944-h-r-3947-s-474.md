@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 14:41:27-04:00
 published_time: 2024-05-07 14:34:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/07/press-release-bills-signed-h-r-292-h-r-996-h-r-2379-h-r-2754-h-r-3865-h-r-3944-h-r-3947-s-474/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/07/press-release-bills-signed-h-r-292-h-r-996-h-r-2379-h-r-2754-h-r-3865-h-r-3944-h-r-3947-s-474/
 tags: presidential-actions
 title: "Bills Signed: H.R. 292, H.R. 996, H.R. 2379, H.R. 2754, H.R. 3865, H.R. 3944,\
   \ H.R. 3947, S.\_474"

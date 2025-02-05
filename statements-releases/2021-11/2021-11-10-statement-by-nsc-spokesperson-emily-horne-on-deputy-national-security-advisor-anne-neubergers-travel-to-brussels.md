@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-10 19:20:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
 published_time: 2021-11-10 19:20:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Deputy National Security Advisor\
   \ Anne Neuberger\u2019s Travel to\_Brussels"
@@ -35,7 +35,7 @@ and partners to impose costs on nation-states for malicious cyber
 activity, and disrupt the ransomware ecosystem; and hosting an
 international counter-ransomware initiative at the White House in
 October with over 30 countries and the European Union, to [accelerate
-cooperation](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/)
+cooperation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/)
 to counter ransomware.
 
 \###

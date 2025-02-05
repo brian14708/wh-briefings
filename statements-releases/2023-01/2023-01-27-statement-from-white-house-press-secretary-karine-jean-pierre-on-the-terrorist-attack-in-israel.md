@@ -1,7 +1,7 @@
 ---
 date: '2023-01-27'
 published_time: 2023-01-27 16:17:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-terrorist-attack-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-terrorist-attack-in-israel/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Terrorist\
   \ Attack in\_Israel"

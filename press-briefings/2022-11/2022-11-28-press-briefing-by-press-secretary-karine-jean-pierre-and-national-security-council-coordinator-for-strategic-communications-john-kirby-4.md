@@ -2,7 +2,7 @@
 date: '2022-11-28'
 modified_time: 2022-11-28 18:10:16-05:00
 published_time: 2022-11-28 18:10:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/28/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/28/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-4/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Council Coordinator for Strategic Communications John\_Kirby"
@@ -317,7 +317,7 @@ activity.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/11/image-1.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/image-1.gif"
 title="Anchor" class="wp-image-65967" loading="lazy" width="1"
 height="1" />
 </figure>

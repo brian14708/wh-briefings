@@ -2,7 +2,7 @@
 date: '2022-09-20'
 modified_time: 2022-09-20 10:28:57-04:00
 published_time: 2022-09-20 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/president-biden-announces-key-nominees-34/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/president-biden-announces-key-nominees-34/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

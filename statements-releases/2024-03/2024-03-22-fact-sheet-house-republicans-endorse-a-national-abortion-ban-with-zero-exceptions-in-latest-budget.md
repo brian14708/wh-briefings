@@ -2,7 +2,7 @@
 date: '2024-03-22'
 modified_time: 2024-03-21 22:18:30-04:00
 published_time: 2024-03-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-house-republicans-endorse-a-national-abortion-ban-with-zero-exceptions-in-latest-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-house-republicans-endorse-a-national-abortion-ban-with-zero-exceptions-in-latest-budget/
 tags: statements-releases
 title: "FACT SHEET: House Republicans Endorse a National Abortion Ban with Zero Exceptions\
   \ in Latest\_Budget"
@@ -56,7 +56,7 @@ abortion ban is in place.
 
 President Biden has been clear: he will do everything in his power to
 [fight back and protect reproductive
-health](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-biden-harris-administration-continues-the-fight-for-reproductive-freedom/)
+health](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-biden-harris-administration-continues-the-fight-for-reproductive-freedom/)
 from these extreme attacks and he will continue to call on Congress to
 restore the protections of *Roe v. Wade* into federal law so that women
 can make their own health care decisions.

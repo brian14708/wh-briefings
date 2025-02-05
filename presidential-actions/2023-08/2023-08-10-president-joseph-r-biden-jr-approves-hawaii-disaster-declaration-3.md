@@ -2,7 +2,7 @@
 date: '2023-08-10'
 modified_time: 2023-08-10 13:48:25-04:00
 published_time: 2023-08-10 12:36:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Hawaii Disaster\_Declaration"
 ---

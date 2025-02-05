@@ -1,7 +1,7 @@
 ---
 date: '2024-05-02'
 published_time: 2024-05-02 16:30:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/nominations-sent-to-the-senate-144/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/nominations-sent-to-the-senate-144/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

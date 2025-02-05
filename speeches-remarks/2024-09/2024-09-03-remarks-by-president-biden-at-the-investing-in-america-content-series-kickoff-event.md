@@ -2,7 +2,7 @@
 date: '2024-09-03'
 modified_time: 2024-09-04 12:56:41-04:00
 published_time: 2024-09-03 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/03/remarks-by-president-biden-at-the-investing-in-america-content-series-kickoff-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/03/remarks-by-president-biden-at-the-investing-in-america-content-series-kickoff-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Investing in America Content Series Kickoff\_\
   Event"

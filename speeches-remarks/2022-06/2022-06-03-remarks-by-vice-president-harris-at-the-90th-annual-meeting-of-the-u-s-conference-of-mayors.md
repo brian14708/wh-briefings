@@ -1,7 +1,7 @@
 ---
 date: '2022-06-03'
 published_time: 2022-06-03 20:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/03/remarks-by-vice-president-harris-at-the-90th-annual-meeting-of-the-u-s-conference-of-mayors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/03/remarks-by-vice-president-harris-at-the-90th-annual-meeting-of-the-u-s-conference-of-mayors/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the 90th Annual Meeting of the U.S. Conference\
   \ of\_Mayors"

@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-13 09:08:42-04:00
 published_time: 2023-09-08 11:46:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/joint-statement-from-india-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/08/joint-statement-from-india-and-the-united-states/
 tags: statements-releases
 title: "Joint Statement from India and the United\_States"
 ---

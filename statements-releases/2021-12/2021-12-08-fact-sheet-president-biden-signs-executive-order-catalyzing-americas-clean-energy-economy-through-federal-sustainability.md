@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-08'
 modified_time: 2021-12-13 14:47:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/
 published_time: 2021-12-08 13:30:00-05:00
 title: "FACT SHEET: President\_Biden Signs Executive Order Catalyzing America\u2019\
   s Clean Energy Economy Through Federal\_Sustainability"
@@ -158,7 +158,7 @@ by 2050.**
     infrastructure, agency missions, and our services to the American
     people. Agencies will implement the actions identified through their
     [October 7, 2021, Climate Adaptation and Resilience
-    Plans](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
+    Plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
     and modernize federal policy, programs, operations, and
     infrastructure to support climate resilience investment. By taking
     action now to better manage and mitigate climate risks, we will
@@ -200,7 +200,7 @@ progress.**
 
 -   **Advance equity and environmental justice.** The federal government
     will advance the goals of the Administration’s [Justice40
-    Initiative](https://www.whitehouse.gov/ceq/news-updates/2021/07/20/the-path-to-achieving-justice40/)
+    Initiative](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/07/20/the-path-to-achieving-justice40/)
     by ensuring that economic equity and environmental justice are key
     considerations in operations planning and decision making. A federal
     environmental justice representative will serve on the newly
@@ -313,7 +313,7 @@ a 65 percent reduction by 2030**
 **Climate Resilient Infrastructure and Operations**
 
 -   In 2021, [more than 20 major federal agencies released
-    plans](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
+    plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
     describing how they will integrate climate-readiness across missions
     and programs and bolster resilience of Federal assets. For example,
     the **Department of Housing and Urban Development** (HUD) is

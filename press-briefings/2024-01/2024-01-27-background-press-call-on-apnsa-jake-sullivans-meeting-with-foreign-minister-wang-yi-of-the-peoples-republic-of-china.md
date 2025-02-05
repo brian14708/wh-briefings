@@ -1,7 +1,7 @@
 ---
 date: '2024-01-27'
 published_time: 2024-01-27 13:03:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/27/background-press-call-on-apnsa-jake-sullivans-meeting-with-foreign-minister-wang-yi-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/27/background-press-call-on-apnsa-jake-sullivans-meeting-with-foreign-minister-wang-yi-of-the-peoples-republic-of-china/
 tags: press-briefings
 title: "Background Press Call on APNSA Jake Sullivan\u2019s Meeting with Foreign Minister\
   \ Wang Yi of the People\u2019s Republic of\_China"

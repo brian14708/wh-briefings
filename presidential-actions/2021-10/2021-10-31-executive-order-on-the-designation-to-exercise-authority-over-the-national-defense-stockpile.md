@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-10-31'
 modified_time: 2021-10-31 10:26:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/31/executive-order-on-the-designation-to-exercise-authority-over-the-national-defense-stockpile/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/31/executive-order-on-the-designation-to-exercise-authority-over-the-national-defense-stockpile/
 published_time: 2021-10-31 10:26:44-04:00
 title: "Executive Order on the Designation to Exercise Authority Over the National\
   \ Defense\_Stockpile"

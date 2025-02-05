@@ -2,7 +2,7 @@
 date: '2023-10-24'
 modified_time: 2023-10-24 13:13:36-04:00
 published_time: 2023-10-24 13:13:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/24/president-biden-honors-leading-american-scientists-technologists-and-innovators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/24/president-biden-honors-leading-american-scientists-technologists-and-innovators/
 tags: statements-releases
 title: "President\_Biden Honors Leading American Scientists, Technologists, and\_\
   Innovators"

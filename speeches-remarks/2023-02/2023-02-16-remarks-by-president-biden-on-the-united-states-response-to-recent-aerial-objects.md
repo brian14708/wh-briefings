@@ -1,7 +1,7 @@
 ---
 date: '2023-02-16'
 published_time: 2023-02-16 18:08:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/16/remarks-by-president-biden-on-the-united-states-response-to-recent-aerial-objects/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/16/remarks-by-president-biden-on-the-united-states-response-to-recent-aerial-objects/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the United\_States\u2019 Response to Recent\
   \ Aerial\_Objects"

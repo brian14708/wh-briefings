@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2021-11-15'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-president-biden-at-the-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/15/remarks-by-president-biden-at-the-tribal-nations-summit/
 published_time: 2021-11-15 16:24:25-05:00
 title: "Remarks by President\_Biden at the Tribal Nations\_Summit"
 ---

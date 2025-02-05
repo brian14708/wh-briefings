@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-10-31 22:57:17-04:00
 published_time: 2024-11-01 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/01/statement-by-president-joe-biden-on-the-beginning-of-the-2025-aca-open-enrollment-period/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/01/statement-by-president-joe-biden-on-the-beginning-of-the-2025-aca-open-enrollment-period/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Beginning of the 2025 ACA Open Enrollment\_\
   Period"

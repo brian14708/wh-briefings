@@ -2,7 +2,7 @@
 date: '2024-01-31'
 modified_time: 2024-01-31 14:39:30-05:00
 published_time: 2024-01-31 14:39:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/31/a-proclamation-on-national-black-history-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/31/a-proclamation-on-national-black-history-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Black History Month,\_2024"
 ---

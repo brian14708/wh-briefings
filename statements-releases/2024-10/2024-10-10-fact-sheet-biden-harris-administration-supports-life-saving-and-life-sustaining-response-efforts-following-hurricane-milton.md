@@ -1,7 +1,7 @@
 ---
 date: '2024-10-10'
 published_time: 2024-10-10 21:50:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-supports-life-saving-and-life-sustaining-response-efforts-following-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-supports-life-saving-and-life-sustaining-response-efforts-following-hurricane-milton/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Supports Life-Saving and Life-Sustaining\
   \ Response Efforts following Hurricane\_Milton"
@@ -9,7 +9,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Supports Life-Saving and L
  
 Before Hurricane Milton made landfall, the Federal government
 [pre-staged personnel and
-resources](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/)
+resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/)
 to ensure a robust and immediate response effort could begin once the
 storm passed. Following Hurricane Milton’s impact on Florida, the
 Biden-Harris Administration is working alongside State and local
@@ -67,7 +67,7 @@ also spoken to officials from impacted areas.
 
 These urgent efforts are in addition to the [expansive Federal response
 and recovery
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/)
 underway across the Southeast and Appalachia following Hurricane Helene.
 
 \###

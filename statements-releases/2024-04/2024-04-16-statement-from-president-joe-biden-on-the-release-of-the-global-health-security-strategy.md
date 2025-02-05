@@ -2,7 +2,7 @@
 date: '2024-04-16'
 modified_time: 2024-04-15 18:50:11-04:00
 published_time: 2024-04-16 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/statement-from-president-joe-biden-on-the-release-of-the-global-health-security-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/statement-from-president-joe-biden-on-the-release-of-the-global-health-security-strategy/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Release of the Global Health Security\_\
   Strategy"

@@ -2,7 +2,7 @@
 date: '2022-11-20'
 modified_time: 2022-11-20 17:07:02-05:00
 published_time: 2022-11-20 17:04:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Launches New Initiatives to Strengthen U.S.-Philippines\_\
   Alliance"

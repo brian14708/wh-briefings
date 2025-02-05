@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 15:54:05-05:00
 published_time: 2022-12-15 15:54:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/u-s-africa-leaders-summit-joint-statement-on-food-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/u-s-africa-leaders-summit-joint-statement-on-food-security/
 tags: statements-releases
 title: "U.S.-Africa Leaders Summit: Joint Statement on Food\_Security"
 ---

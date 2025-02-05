@@ -1,7 +1,7 @@
 ---
 date: '2022-08-25'
 published_time: 2022-08-25 10:57:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/25/executive-order-on-the-implementation-of-the-chips-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/25/executive-order-on-the-implementation-of-the-chips-act-of-2022/
 tags: presidential-actions
 title: "Executive Order on the Implementation of the CHIPS Act of\_2022"
 ---

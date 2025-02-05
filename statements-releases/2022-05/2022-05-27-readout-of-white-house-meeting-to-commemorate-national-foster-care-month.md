@@ -2,7 +2,7 @@
 date: '2022-05-27'
 modified_time: 2022-05-27 16:51:23-04:00
 published_time: 2022-05-27 16:51:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/27/readout-of-white-house-meeting-to-commemorate-national-foster-care-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/27/readout-of-white-house-meeting-to-commemorate-national-foster-care-month/
 tags: statements-releases
 title: "Readout of White\_House Meeting to Commemorate National Foster Care\_Month"
 ---

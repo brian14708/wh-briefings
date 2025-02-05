@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-17'
 modified_time: 2021-06-03 21:16:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-the-biden-harris-administration-is-advancing-lgbtqi-human-rights-at-home-and-across-the-globe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-the-biden-harris-administration-is-advancing-lgbtqi-human-rights-at-home-and-across-the-globe/
 published_time: 2021-05-17 11:15:00-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Is Advancing LGBTQI+ Human\
   \ Rights at Home and Across the\_Globe"
@@ -19,7 +19,7 @@ International Day Against Homophobia, Transphobia and Biphobia.  The
 Biden-Harris Administration is steadily implementing the [Presidential
 Memorandum on Advancing the Human Rights of Lesbian, Gay, Bisexual,
 Transgender, Queer and Intersex (LGBTQI+) Persons Around the
-World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/).
+World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/).
  The below information outlines how U.S. diplomacy and foreign
 assistance are working to promote and protect the human rights of
 LGBTQI+ persons in line with the different areas of the Presidential

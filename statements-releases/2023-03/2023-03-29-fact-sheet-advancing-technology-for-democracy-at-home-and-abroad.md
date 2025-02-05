@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-31 10:45:30-04:00
 published_time: 2023-03-29 11:27:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: Advancing Technology for\_Democracy"
 ---
@@ -24,7 +24,7 @@ live up to democratic principles and shared values.
 
 At the first Summit for Democracy, President Biden launched the
 [*Presidential Initiative for Democratic
-Renewal*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
+Renewal*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
 an innovative, targeted expansion of U.S. Government efforts to defend
 and grow democratic resilience with likeminded partners through
 diplomacy and foreign assistance. The United States’ agenda on advancing
@@ -58,13 +58,13 @@ Our affirmative vision for the world’s technological and digital future
 is one that is free, open, secure, and aligned with respect for
 democratic principles and human rights. The [*Declaration for the Future
 of the
-Interne*](https://www.whitehouse.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf)*t*,
+Interne*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf)*t*,
 now affirmed by more than 65 countries, and the [*Blueprint for an AI
-Bill of Rights*](https://www.whitehouse.gov/ostp/ai-bill-of-rights/),
+Bill of Rights*](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/),
 both released following the first Summit for Democracy, help to lay the
 groundwork for this vision. Additionally, the Biden-Harris
 Administration’s inaugural [*National Cybersecurity
-Strategy*](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
+Strategy*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 outlines a series of actions to advance our positive vision for
 cyberspace.
 
@@ -75,10 +75,10 @@ national technology frameworks that align with human rights, and
 supporting the development of technologies that embed democratic values
 at every stage of their design and use. And the Biden-Harris
 Administration is making [historic
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-historic-bipartisan-infrastructure-deal/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-historic-bipartisan-infrastructure-deal/)
 to close the digital divide in the United States, while laying the
 [foundation to help shape
-biotechnologies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/)
+biotechnologies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/)
 in line with democratic principles and human rights.
 
 Key actions announced or highlighted at the second Summit for Democracy
@@ -86,7 +86,7 @@ include:
 
 -   **Expanding the Advancing Digital Democracy Initiative**. This USAID
     initiative
-    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
     at the first Summit aims to foster open, secure, and inclusive
     digital societies in which technology advances democratic principles
     and respect for human rights. In addition to existing pilot programs
@@ -111,7 +111,7 @@ include:
 
 -   **Growing the Multilateral Surge and Sustain Fund for
     Anti-Censorship Technology**. This Fund,
-    [created](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    [created](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
     following the first Summit for Democracy, is managed by the
     Department of State and designed to expand access to anti-censorship
     technologies for those who most need critical tools to access the
@@ -194,7 +194,7 @@ to guide governments’ use of surveillance technology; to announcing a
 new efforts to integrate a human rights lens into export controls so as
 to prevent dual-use technologies and goods from falling into the hands
 of those that may misuse them. The U.S. government is also
-[calling](https://www.whitehouse.gov/wp-content/uploads/2023/03/USG-Public-Private-Sector-Call-Anti-Censorship.pdf)
+[calling](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/USG-Public-Private-Sector-Call-Anti-Censorship.pdf)
 on the private sector to combat authoritarian use of network-level
 filtering technology for repressive censorship by supporting and
 furthering censorship-resistant technologies and technical standards.
@@ -204,13 +204,13 @@ include:
 
 -   **Executive Order Prohibiting the Use of Commercial Spyware that
     Poses Risks to National Security**. President Biden’s [new Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/)
     prohibits the operational use of commercial spyware by the U.S.
     Government when it poses significant counterintelligence or security
     risks to the United States, or significant risks of improper use by
     a foreign government or foreign person. The Executive Order
     substantially advances the Administration’s [multifaceted
-    effort](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/)
+    effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/)
     to counter the proliferation and misuse of commercial spyware and
     serves as a demonstration of the United States’ commitment to
     countering the proliferation and misuse of commercial spyware and
@@ -222,7 +222,7 @@ include:
     of Commercial Spyware**. Complementing the Executive Order, the
     United States is joining an initial group of nine partners in
     endorsing the *[Joint
-    Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/)*,
+    Statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/)*,
     which aims to deepen international cooperation on countering the
     proliferation and misuse of commercial spyware. The initial group of
     partners includes: Australia, Canada, Costa Rica, Denmark, France,
@@ -331,7 +331,7 @@ journalists and human rights defenders.
 Additionally, the Biden-Harris Administration announced, as part of the
 **Global Partnership for Action on Gender-Based Online Harassment and
 Abuse**, [a series of
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/)
 to prevent and respond to technology-facilitated gender-based violence
 and counter its chilling effects on women leaders. This includes
 committing more than $13 million in targeted funding across USAID and
@@ -348,7 +348,7 @@ and several other initiatives.
 
 Finally, in September 2022, the Administration released [**principles
 for reforms to enhance tech platform
-accountability**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/),
+accountability**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/),
 including **providing robust federal protections for Americans’
 privacy;** removing the special legal protections that broadly shield
 social media companies from liability; **and increasing transparency
@@ -383,14 +383,14 @@ for an AI Bill of Rights* that the White House Office of Science and
 Technology Policy (OSTP) released in October 2022. In February 2023, the
 President signed [Executive Order 14091 on Further Advancing Racial
 Equity and Support for Underserved Communities Through the Federal
-Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
 which directs federal agencies to root out bias in the design and use of
 new technologies, such as AI and other automated systems, and to protect
 the public from algorithmic discrimination. The Administration is also
 advancing the implementation of the President’s September 2022
 [Executive Order on Advancing Biotechnology and Biomanufacturing
 Innovation for a Sustainable, Safe, and Secure American
-Bioeconomy](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/)
+Bioeconomy](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/)
 as the foundation to engage stakeholders at home and abroad on the
 importance of shaping ethical standards for the biotechnology of the
 future.
@@ -401,7 +401,7 @@ Democracy include:
 -   **National Strategy to Advance Privacy-Preserving Data Sharing and
     Analytics**. OSTP released a *[National Strategy to Advance
     Privacy-Preserving Data Sharing and
-    Analytics](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf)*,
+    Analytics](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf)*,
     a roadmap for harnessing privacy-enhancing technologies, coupled
     with strong governance, to enable data sharing and analytics in a
     way that benefits individuals and society, while mitigating privacy
@@ -412,7 +412,7 @@ Democracy include:
 -   **National Objectives for Digital Assets Research and Development**.
     OSTP also released a set of *[National Objectives for Digital Assets
     Research and
-    Development](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Objectives-for-Digital-Assets-Research-and-Development.pdf)*,
+    Development](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Objectives-for-Digital-Assets-Research-and-Development.pdf)*,
     whichoutline its priorities for the responsible research and
     development (R&D) of digital assets. These objectives will help
     developers of digital assets better reinforce democratic principles
@@ -436,7 +436,7 @@ Democracy include:
 
 -   **International Grand Challenges on Democracy-Affirming
     Technologies**.
-    [Announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    [Announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
     at the first Summit, the United States and the United Kingdom
     carried out their joint *Privacy Enhancing Technology Prize
     Challenges.* IE University, in partnership with the U.S. Department

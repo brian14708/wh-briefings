@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-01 20:00:09-04:00
 published_time: 2024-08-01 20:00:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/01/readout-of-the-u-s-prc-bilateral-counternarcotics-working-group-senior-official-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/01/readout-of-the-u-s-prc-bilateral-counternarcotics-working-group-senior-official-meeting/
 tags: statements-releases
 title: "Readout of the U.S.-PRC Bilateral Counternarcotics Working Group Senior Official\_\
   Meeting"

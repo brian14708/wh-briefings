@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 17:50:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/08/remarks-by-vice-president-harris-at-u-s-caribbean-leaders-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/08/remarks-by-vice-president-harris-at-u-s-caribbean-leaders-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at U.S.-Caribbean Leaders\_Meeting"
 ---

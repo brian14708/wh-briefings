@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-08 10:35:47-04:00
 published_time: 2024-04-08 10:35:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/readout-of-latest-industry-stakeholder-engagements-on-the-port-of-baltimore/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/readout-of-latest-industry-stakeholder-engagements-on-the-port-of-baltimore/
 tags: statements-releases
 title: "Readout of Latest Industry Stakeholder Engagements on the Port of\_Baltimore"
 ---
@@ -21,7 +21,7 @@ Port as soon as possible. (The U.S. Army Corps of Engineers has now
 [shared](https://www.usace.army.mil/Media/News-Releases/News-Release-Article-View/Article/3731723/us-army-corps-of-engineers-develops-tentative-timeline-to-reopen-fort-mchenry-c/)
 a tentative timeline for restoring access, and several large automobile
 importers have
-[committed](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/)
+[committed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/)
 to take steps to try to return key cargo operations to the Port of
 Baltimore once it reopens.) The representatives underscored federal,
 state, and local governments’ continued efforts to reach out to impacted

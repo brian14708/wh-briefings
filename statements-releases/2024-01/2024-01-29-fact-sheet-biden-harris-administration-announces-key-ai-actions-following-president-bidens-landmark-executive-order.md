@@ -2,7 +2,7 @@
 date: '2024-01-29'
 modified_time: 2024-01-28 21:09:18-05:00
 published_time: 2024-01-29 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Key AI Actions Following\
   \ President\_Biden\u2019s Landmark Executive\_Order"
@@ -133,10 +133,10 @@ completed in response to the Executive Order.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?w=640"
 class="wp-image-91789" decoding="async" loading="lazy"
 sizes="(max-width: 1050px) 100vw, 1050px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png 1050w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=374,615 374w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=768,1264 768w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=772,1270 772w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=933,1536 933w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=194,320 194w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=389,640 389w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=778,1280 778w, https://www.whitehouse.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=516,850 516w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png 1050w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=374,615 374w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=768,1264 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=772,1270 772w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=933,1536 933w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=194,320 194w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=389,640 389w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=778,1280 778w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Picture1_3e4188.png?resize=516,850 516w"
 width="1050" height="1728" />
 </figure>
 

@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 14:12:28-04:00
 published_time: 2022-07-16 14:12:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-crown-prince-sheikh-mishal-al-ahmad-al-jabir-al-sabah-of-kuwait/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-crown-prince-sheikh-mishal-al-ahmad-al-jabir-al-sabah-of-kuwait/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Crown Prince Sheikh Mishal\
   \ Al-Ahmad Al-Jabir Al-Sabah of\_Kuwait"

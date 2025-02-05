@@ -1,7 +1,7 @@
 ---
 date: '2022-07-19'
 published_time: 2022-07-19 11:05:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/19/background-press-call-on-president-bidens-new-executive-order-to-bolster-efforts-to-bring-home-american-hostages-and-wrongful-detainees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/19/background-press-call-on-president-bidens-new-executive-order-to-bolster-efforts-to-bring-home-american-hostages-and-wrongful-detainees/
 tags: statements-releases
 title: "Background Press Call on President\_Biden\u2019s New Executive Order to Bolster\
   \ Efforts to Bring Home American Hostages and Wrongful\_Detainees"

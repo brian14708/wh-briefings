@@ -2,7 +2,7 @@
 date: '2022-07-17'
 modified_time: 2022-07-17 16:08:39-04:00
 published_time: 2022-07-17 16:08:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/17/icymi-jared-bernstein-of-the-council-of-economic-advisers-presses-for-lowering-the-costs-of-prescription-drugs-for-american-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/17/icymi-jared-bernstein-of-the-council-of-economic-advisers-presses-for-lowering-the-costs-of-prescription-drugs-for-american-people/
 tags: statements-releases
 title: "ICYMI: Jared Bernstein of the Council of Economic Advisers Presses for Lowering\
   \ the Costs of Prescription Drugs for American\_People"

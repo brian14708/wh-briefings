@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 10:26:58-04:00
 published_time: 2024-08-16 10:26:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/joint-statement-from-the-united-states-egypt-and-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/joint-statement-from-the-united-states-egypt-and-qatar/
 tags: statements-releases
 title: "Joint Statement from the United\_States, Egypt, and\_Qatar"
 ---

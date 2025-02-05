@@ -1,7 +1,7 @@
 ---
 date: '2024-12-12'
 published_time: 2024-12-12 16:11:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/12/memorandum-on-the-establishment-of-the-countering-economic-coercion-task-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/12/memorandum-on-the-establishment-of-the-countering-economic-coercion-task-force/
 tags: presidential-actions
 title: "Memorandum on the Establishment of the Countering Economic Coercion Task\_\
   Force"

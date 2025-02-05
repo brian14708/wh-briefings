@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 22:57:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-party-for-the-uss-delaware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-party-for-the-uss-delaware/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Holiday Party\
   \ for the USS\_Delaware"

@@ -2,7 +2,7 @@
 date: '2023-11-30'
 modified_time: 2023-11-29 23:43:07-05:00
 published_time: 2023-11-30 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Action to Protect\
   \ Communities from Lead\_Exposure"
@@ -16,7 +16,7 @@ The Biden-Harris Administration is working to ensure a future where
 every child and family can live safely in their communities without the
 fear and harmful effects of lead exposure. Today, as part of President
 Biden and Vice President Harris’s [vision for a lead-free
-future](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/),
+future](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/),
 the Environmental Protection Agency (EPA) **announced a proposal to
 strengthen its Lead and Copper Rule that would require water systems to
 replace lead service lines within 10 years**,** helping secure safe
@@ -35,7 +35,7 @@ color. There is no safe level of exposure to lead, particularly for
 children, and eliminating lead exposure from the air, water, and homes
 is a crucial component of the [Biden-Harris Administration’s historic
 commitment to advancing environmental
-justice](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/).
+justice](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/).
 
 In addition to taking action towards achieving **100 percent replacement
 of lead service lines**, EPA’s proposed Lead and Copper Rule
@@ -45,11 +45,11 @@ line inventories, and strengthen and streamline requirements for water
 systems to take additional actions to reduce lead health risks to
 communities. This proposal advances the Biden-Harris
 Administration’s [Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
 a whole-of-government approach to reduce all sources of lead exposure.
 
 Since the latest [progress
-update](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/) in
+update](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/) in
 January 2023, the Administration has taken the following actions to
 tackle lead exposure from water, air, food, lead paint, and other
 sources which pose risks to human health:

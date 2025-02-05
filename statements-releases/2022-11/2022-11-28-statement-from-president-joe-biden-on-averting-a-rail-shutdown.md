@@ -2,7 +2,7 @@
 date: '2022-11-28'
 modified_time: 2022-11-28 17:58:55-05:00
 published_time: 2022-11-28 17:58:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Averting a Rail\_Shutdown"
 ---

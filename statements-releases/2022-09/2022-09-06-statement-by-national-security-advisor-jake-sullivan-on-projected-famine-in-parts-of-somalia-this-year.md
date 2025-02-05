@@ -1,7 +1,7 @@
 ---
 date: '2022-09-06'
 published_time: 2022-09-06 18:42:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/06/statement-by-national-security-advisor-jake-sullivan-on-projected-famine-in-parts-of-somalia-this-year/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/06/statement-by-national-security-advisor-jake-sullivan-on-projected-famine-in-parts-of-somalia-this-year/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Projected Famine in\
   \ Parts of Somalia this\_Year"

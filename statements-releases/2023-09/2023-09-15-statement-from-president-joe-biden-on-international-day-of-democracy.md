@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 published_time: 2023-09-15 09:53:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/statement-from-president-joe-biden-on-international-day-of-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/statement-from-president-joe-biden-on-international-day-of-democracy/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on International Day of\_Democracy"
 ---

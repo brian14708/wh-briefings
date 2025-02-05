@@ -1,7 +1,7 @@
 ---
 date: '2023-06-17'
 published_time: 2023-06-17 19:26:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/17/remarks-by-president-biden-at-a-political-rally-hosted-by-union-members-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/17/remarks-by-president-biden-at-a-political-rally-hosted-by-union-members-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Rally Hosted by Union Members |\
   \ Philadelphia,\_PA"

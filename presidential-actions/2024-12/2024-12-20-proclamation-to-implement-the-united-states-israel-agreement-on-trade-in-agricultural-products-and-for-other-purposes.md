@@ -2,7 +2,7 @@
 date: '2024-12-20'
 modified_time: 2024-12-20 14:41:07-05:00
 published_time: 2024-12-20 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/20/proclamation-to-implement-the-united-states-israel-agreement-on-trade-in-agricultural-products-and-for-other-purposes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/20/proclamation-to-implement-the-united-states-israel-agreement-on-trade-in-agricultural-products-and-for-other-purposes/
 tags: presidential-actions
 title: "Proclamation to Implement the United\_States-Israel Agreement on Trade in\
   \ Agricultural Products and for Other\_Purposes"

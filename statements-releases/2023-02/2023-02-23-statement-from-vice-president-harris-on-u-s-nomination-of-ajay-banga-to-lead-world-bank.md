@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 11:29:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/statement-from-vice-president-harris-on-u-s-nomination-of-ajay-banga-to-lead-world-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/statement-from-vice-president-harris-on-u-s-nomination-of-ajay-banga-to-lead-world-bank/
 tags: statements-releases
 title: "Statement from Vice President Harris on U.S. Nomination of Ajay Banga to Lead\
   \ World\_Bank"

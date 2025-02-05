@@ -2,7 +2,7 @@
 date: '2022-11-12'
 modified_time: 2022-11-12 05:30:22-05:00
 published_time: 2022-11-12 05:30:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/12/fact-sheet-president-biden-and-asean-leaders-launch-the-u-s-asean-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/12/fact-sheet-president-biden-and-asean-leaders-launch-the-u-s-asean-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden and ASEAN Leaders\_Launch\_the U.S.-ASEAN\_\
   Comprehensive Strategic\_Partnership"

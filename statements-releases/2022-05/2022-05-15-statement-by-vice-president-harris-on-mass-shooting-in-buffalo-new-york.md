@@ -2,7 +2,7 @@
 date: '2022-05-15'
 modified_time: 2022-05-17 08:11:05-04:00
 published_time: 2022-05-15 12:02:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/15/statement-by-vice-president-harris-on-mass-shooting-in-buffalo-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/15/statement-by-vice-president-harris-on-mass-shooting-in-buffalo-new-york/
 tags: statements-releases
 title: "Statement by Vice President Harris on Mass Shooting in Buffalo, New\_York"
 ---

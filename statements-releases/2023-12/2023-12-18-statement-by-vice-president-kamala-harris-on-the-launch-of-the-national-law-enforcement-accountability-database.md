@@ -1,7 +1,7 @@
 ---
 date: '2023-12-18'
 published_time: 2023-12-18 17:45:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/18/statement-by-vice-president-kamala-harris-on-the-launch-of-the-national-law-enforcement-accountability-database/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/18/statement-by-vice-president-kamala-harris-on-the-launch-of-the-national-law-enforcement-accountability-database/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Launch of the National Law\
   \ Enforcement Accountability\_Database"

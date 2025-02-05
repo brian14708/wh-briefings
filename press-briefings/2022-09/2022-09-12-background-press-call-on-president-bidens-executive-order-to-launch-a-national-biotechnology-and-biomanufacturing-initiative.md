@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-11 22:18:25-04:00
 published_time: 2022-09-12 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/12/background-press-call-on-president-bidens-executive-order-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/12/background-press-call-on-president-bidens-executive-order-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/
 tags: press-briefings
 title: "Background Press Call on President\_Biden\u2019s Executive Order to Launch\
   \ a National Biotechnology and Biomanufacturing\_Initiative"

@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-21 15:57:03-04:00
 published_time: 2023-04-21 15:57:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/
 tags: presidential-actions
 title: "Executive Order on Revitalizing Our Nation\u2019s Commitment to Environmental\
   \ Justice for\_All"

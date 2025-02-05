@@ -1,7 +1,7 @@
 ---
 date: '2023-06-09'
 published_time: 2023-06-09 12:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/09/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-goldsboro-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/09/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-goldsboro-nc/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Goldsboro,\_\
   NC"

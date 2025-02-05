@@ -1,7 +1,7 @@
 ---
 date: '2022-06-10'
 published_time: 2022-06-10 13:03:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/statement-by-president-biden-on-consumer-price-index-cpi-in-may/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/statement-by-president-biden-on-consumer-price-index-cpi-in-may/
 tags: statements-releases
 title: "Statement by President\_Biden on Consumer Price Index (CPI) in\_May"
 ---

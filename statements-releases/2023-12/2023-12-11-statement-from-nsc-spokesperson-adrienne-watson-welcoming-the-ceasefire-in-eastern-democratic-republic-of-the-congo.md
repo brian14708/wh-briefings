@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-11 14:26:46-05:00
 published_time: 2023-12-11 14:26:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-ceasefire-in-eastern-democratic-republic-of-the-congo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-ceasefire-in-eastern-democratic-republic-of-the-congo/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson Welcoming the Ceasefire in\
   \ Eastern Democratic Republic of the\_Congo"

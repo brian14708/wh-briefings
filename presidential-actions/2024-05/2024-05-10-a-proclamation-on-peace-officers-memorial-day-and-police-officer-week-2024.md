@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 14:41:25-04:00
 published_time: 2024-05-10 12:09:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-peace-officers-memorial-day-and-police-officer-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-peace-officers-memorial-day-and-police-officer-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Peace Officers Memorial Day and Police Officer Week,\_2024"
 ---

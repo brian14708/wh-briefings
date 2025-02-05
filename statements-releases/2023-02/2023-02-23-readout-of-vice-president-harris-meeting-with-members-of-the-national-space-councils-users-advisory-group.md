@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 22:41:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/readout-of-vice-president-harris-meeting-with-members-of-the-national-space-councils-users-advisory-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/readout-of-vice-president-harris-meeting-with-members-of-the-national-space-councils-users-advisory-group/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019 Meeting with Members of the National\
   \ Space Council\u2019s Users\u2019 Advisory\_Group"

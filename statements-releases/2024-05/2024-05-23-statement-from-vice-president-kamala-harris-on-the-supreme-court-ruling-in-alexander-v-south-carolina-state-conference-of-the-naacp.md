@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 19:52:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-alexander-v-south-carolina-state-conference-of-the-naacp/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-alexander-v-south-carolina-state-conference-of-the-naacp/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Supreme Court Ruling in\
   \ Alexander v. South Carolina State Conference of the\_NAACP"

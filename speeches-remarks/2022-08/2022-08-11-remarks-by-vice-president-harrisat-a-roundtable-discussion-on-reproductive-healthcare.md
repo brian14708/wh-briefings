@@ -2,7 +2,7 @@
 date: '2022-08-11'
 modified_time: 2022-08-12 00:16:53-04:00
 published_time: 2022-08-11 00:14:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/11/remarks-by-vice-president-harrisat-a-roundtable-discussion-on-reproductive-healthcare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/11/remarks-by-vice-president-harrisat-a-roundtable-discussion-on-reproductive-healthcare/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a\_Roundtable Discussion on Reproductive\_\
   Healthcare"

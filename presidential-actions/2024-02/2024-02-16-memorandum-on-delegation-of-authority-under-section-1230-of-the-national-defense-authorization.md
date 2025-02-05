@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 15:26:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/16/memorandum-on-delegation-of-authority-under-section-1230-of-the-national-defense-authorization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/16/memorandum-on-delegation-of-authority-under-section-1230-of-the-national-defense-authorization/
 tags: presidential-actions
 title: Memorandum on Delegation of Authority Under Section 1230 of the National Defense
   Authorization

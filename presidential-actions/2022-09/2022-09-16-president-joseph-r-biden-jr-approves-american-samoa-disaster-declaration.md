@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 09:43:44-04:00
 published_time: 2022-09-16 09:43:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/16/president-joseph-r-biden-jr-approves-american-samoa-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/16/president-joseph-r-biden-jr-approves-american-samoa-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves American Samoa Disaster\_Declaration"
 ---

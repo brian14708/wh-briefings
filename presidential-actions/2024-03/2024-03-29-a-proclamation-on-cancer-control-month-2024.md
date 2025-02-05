@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-03-29 10:59:59-04:00
 published_time: 2024-03-29 10:27:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-cancer-control-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-cancer-control-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Cancer Prevention and Early Detection Month,\_\
   2024"

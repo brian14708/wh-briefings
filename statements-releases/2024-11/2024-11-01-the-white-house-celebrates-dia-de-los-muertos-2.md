@@ -1,7 +1,7 @@
 ---
 date: '2024-11-01'
 published_time: 2024-11-01 14:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/01/the-white-house-celebrates-dia-de-los-muertos-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/01/the-white-house-celebrates-dia-de-los-muertos-2/
 tags: statements-releases
 title: "The White\_House Celebrates D\xEDa de los\_Muertos"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-23'
 modified_time: 2024-07-23 10:53:48-04:00
 published_time: 2024-07-23 10:53:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-united-states-secret-service-director-kim-cheatle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-united-states-secret-service-director-kim-cheatle/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on United\_States Secret Service Director\
   \ Kim\_Cheatle"

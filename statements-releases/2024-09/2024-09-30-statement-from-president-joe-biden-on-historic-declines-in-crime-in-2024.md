@@ -1,7 +1,7 @@
 ---
 date: '2024-09-30'
 published_time: 2024-09-30 16:12:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/30/statement-from-president-joe-biden-on-historic-declines-in-crime-in-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/30/statement-from-president-joe-biden-on-historic-declines-in-crime-in-2024/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic Declines in Crime in\_2024"
 ---

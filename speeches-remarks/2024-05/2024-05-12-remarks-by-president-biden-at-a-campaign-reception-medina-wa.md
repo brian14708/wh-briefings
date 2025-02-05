@@ -2,7 +2,7 @@
 date: '2024-05-12'
 modified_time: 2024-05-12 14:40:17-04:00
 published_time: 2024-05-12 14:40:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/12/remarks-by-president-biden-at-a-campaign-reception-medina-wa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/12/remarks-by-president-biden-at-a-campaign-reception-medina-wa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Medina,\_WA"
 ---

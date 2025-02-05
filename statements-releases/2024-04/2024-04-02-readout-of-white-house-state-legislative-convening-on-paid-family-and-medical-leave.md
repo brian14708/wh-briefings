@@ -1,7 +1,7 @@
 ---
 date: '2024-04-02'
 published_time: 2024-04-02 17:39:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/02/readout-of-white-house-state-legislative-convening-on-paid-family-and-medical-leave/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/02/readout-of-white-house-state-legislative-convening-on-paid-family-and-medical-leave/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Paid Family and Medical\_\
   Leave"
@@ -23,10 +23,10 @@ Administration’s continued commitment to this work.
 
 This convening comes as the Administration marks “Month of Action on
 Care” in April, which the President designated [Care Workers Recognition
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/#:~:text=BIDEN%20JR.%2C%20President%20of%20the,as%20Care%20Workers%20Recognition%20Month) last
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/#:~:text=BIDEN%20JR.%2C%20President%20of%20the,as%20Care%20Workers%20Recognition%20Month) last
 year when he signed the historic [Executive Order on Increasing Access
 to High-Quality Care and Supporting
-Caregivers](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/). 
+Caregivers](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/). 
 It also follows the release of President Biden’s FY 2025 Budget, which
 proposes a national, comprehensive paid family and medical leave program
 to ensure that all workers can take the time they need to bond with a

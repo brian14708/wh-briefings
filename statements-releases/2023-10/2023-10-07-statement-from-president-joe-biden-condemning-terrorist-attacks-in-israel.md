@@ -2,7 +2,7 @@
 date: '2023-10-07'
 modified_time: 2023-10-07 11:06:13-04:00
 published_time: 2023-10-07 11:06:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/07/statement-from-president-joe-biden-condemning-terrorist-attacks-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/07/statement-from-president-joe-biden-condemning-terrorist-attacks-in-israel/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Condemning Terrorist Attacks in\_Israel"
 ---

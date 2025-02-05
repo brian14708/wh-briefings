@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 17:07:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During the Nationwide Economic Opportunity\_\
   Tour"

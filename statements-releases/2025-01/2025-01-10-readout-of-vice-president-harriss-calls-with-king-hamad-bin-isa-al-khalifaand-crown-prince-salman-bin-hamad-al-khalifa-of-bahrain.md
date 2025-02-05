@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 17:04:42-05:00
 published_time: 2025-01-10 17:04:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/readout-of-vice-president-harriss-calls-with-king-hamad-bin-isa-al-khalifaand-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/readout-of-vice-president-harriss-calls-with-king-hamad-bin-isa-al-khalifaand-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Calls with King Hamad bin Isa Al Khalifaand\
   \ Crown Prince Salman bin Hamad Al Khalifa of\_Bahrain"

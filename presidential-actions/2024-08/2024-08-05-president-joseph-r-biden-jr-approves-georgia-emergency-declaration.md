@@ -1,7 +1,7 @@
 ---
 date: '2024-08-05'
 published_time: 2024-08-05 23:26:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/05/president-joseph-r-biden-jr-approves-georgia-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/05/president-joseph-r-biden-jr-approves-georgia-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Georgia Emergency\_Declaration"
 ---

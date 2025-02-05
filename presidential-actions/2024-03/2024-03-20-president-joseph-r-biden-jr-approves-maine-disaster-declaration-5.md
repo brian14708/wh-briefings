@@ -1,7 +1,7 @@
 ---
 date: '2024-03-20'
 published_time: 2024-03-20 21:22:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/20/president-joseph-r-biden-jr-approves-maine-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/20/president-joseph-r-biden-jr-approves-maine-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Maine Disaster\_Declaration"
 ---

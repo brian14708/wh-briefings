@@ -2,7 +2,7 @@
 tags: legislation
 date: '2021-01-20'
 modified_time: 2021-03-12 10:04:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/01/20/president-biden-announces-american-rescue-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2021/01/20/president-biden-announces-american-rescue-plan/
 published_time: 2021-01-20 18:30:00-05:00
 title: "President\_Biden Announces American Rescue\_Plan"
 ---
@@ -49,18 +49,18 @@ COVID-19. Researchers at Columbia University estimate that these
 proposals will cut child poverty in half.
 
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?w=2360"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?w=2360"
 class="lazy-load object-fit-cover"
 data-sizes="(max-width: 2360px) 100vw, 2360px" loading="lazy"
 sizes="(max-width: 2360px) 100vw, 2360px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png 5000w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=615,308 615w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=768,384 768w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1270,635 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1536,768 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=2048,1024 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1180,590 1180w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=2360,1180 2360w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1200,600 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1038,519 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png 5000w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=615,308 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=768,384 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1270,635 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1536,768 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=2048,1024 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1180,590 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=2360,1180 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1200,600 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V31.png?resize=1038,519 1038w"
 width="2360" height="1180" />
 
 ## How will the American Rescue Plan Help<span class="dewidow"> </span>You?
 
 ------------------------------------------------------------------------
 
-<a href="https://www.whitehouse.gov/american-rescue-plan/"
+<a href="https://bidenwhitehouse.archives.gov/american-rescue-plan/"
 class="btn">Learn about the Plan</a>
 
 Specifically, President Biden’s American Rescue Plan will:

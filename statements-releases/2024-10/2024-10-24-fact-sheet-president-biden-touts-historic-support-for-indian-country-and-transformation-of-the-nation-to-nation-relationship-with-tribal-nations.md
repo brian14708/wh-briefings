@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-24 15:02:41-04:00
 published_time: 2024-10-24 15:00:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-president-biden-touts-historic-support-for-indian-country-and-transformation-of-the-nation-to-nation-relationship-with-tribal-nations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-president-biden-touts-historic-support-for-indian-country-and-transformation-of-the-nation-to-nation-relationship-with-tribal-nations/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Touts Historic Support for Indian Country and\
   \ Transformation of the Nation-to-Nation Relationship with Tribal\_Nations"
@@ -27,9 +27,9 @@ high-quality education. The President has also taken further executive
 action through two Presidential Memoranda on Tribal consultation,
 including his [2021 Memorandum on Tribal Consultation and Strengthening
 Nation-to-Nation
-Relationships](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
+Relationships](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
 and his [2022 Memorandum on Uniform Standards for Tribal
-Consultation](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
+Consultation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
 
 This executive action builds on the historic investments President Biden
 has made in Indian Country, including:
@@ -121,7 +121,7 @@ Violence in Native Communities</u>**
 -   Signing an [Executive Order to improve public safety and criminal
     justice and address the crisis of Missing and Murdered Indigenous
     People
-    (MMIP)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    (MMIP)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     by directing agencies to prioritize addressing this crisis and
     assessing what more they can do.
 -   Signed into law the Violence Against Women Act (VAWA)
@@ -215,9 +215,9 @@ Violence in Native Communities</u>**
 -   Signing two Presidential Memorandums [directing federal agencies to
     submit plans of action to implement meaningful consultation with
     Tribal
-    Nations](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
+    Nations](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
     and [establishing uniform standards for Tribal
-    Consultation](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
+    Consultation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
 
 **<u>A Whole-of-Government Approach to the Federal Trust
 Responsibility</u>**
@@ -235,37 +235,37 @@ Homelands</u>**
     importance and of cultural significance to Tribal Nations and
     Indigenous Peoples, including Bears Ears, [Grand
     Staircase-Escalante, and Northeast Canyons and Seamounts National
-    Monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/),
+    Monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/),
     as well as the [Tongass National
     Forest](https://www.usda.gov/media/press-releases/2023/01/25/biden-harris-administration-finalizes-protections-tongass-national).
 -   Designating new National Monuments that honor Tribal Nations by
     protecting sacred ancestral places and their historically and
     scientifically important features: [Camp Hale – Continental Divide
     in
-    Colorado](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/);
+    Colorado](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/);
     Avi Kwa Ame in Nevada; [Castner
-    Range](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
+    Range](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
     in Texas; and [Baaj Nwaajo I’tah Kukveni Ancestral Footprints of the
     Grand
-    Canyon](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) 
+    Canyon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) 
     in Arizona; expansion of Berryessa Snow Mountain National Monument
     and San Gabriel Mountains National Monument in California.
 -   Designated the first Indigenous-focused marine sanctuary, the
     [Chumash Heritage National Marine
-    Sanctuary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/),
+    Sanctuary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/),
     following nearly a decade of work by Tribes, Indigenous Peoples,
     community leaders, and committed to work meaningfully with
     Indigenous Peoples to help guide sanctuary management.
 -   Took [Presidential
-    action](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/)
     and reached [a historic
-    agreement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-10-year-partnership-with-tribes-and-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-i/)
+    agreement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-10-year-partnership-with-tribes-and-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-i/)
     to work in partnership with Tribes and states from the Pacific
     Northwest to restore wild salmon populations in the Columbia River
     Basin, including the issuance of a [Presidential Memorandum on
     Restoring Healthy and Abundant Salmon, Steelhead, and other Native
     Fish Populations in the Columbia River
-    Basin.](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/)
+    Basin.](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/)
 -   Signed the [Memorandum of Understanding Regarding Interagency
     Coordination and Collaboration for the Protection of Indigenous
     Sacred

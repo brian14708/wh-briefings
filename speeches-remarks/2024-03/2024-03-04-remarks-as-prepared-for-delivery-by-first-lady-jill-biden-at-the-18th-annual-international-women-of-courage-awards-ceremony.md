@@ -2,7 +2,7 @@
 date: '2024-03-04'
 modified_time: 2024-03-04 16:25:04-05:00
 published_time: 2024-03-04 16:25:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-18th-annual-international-women-of-courage-awards-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-18th-annual-international-women-of-courage-awards-ceremony/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 18th Annual\
   \ International Women of Courage Awards\_Ceremony"

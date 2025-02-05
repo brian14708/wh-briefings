@@ -1,7 +1,7 @@
 ---
 date: '2024-11-22'
 published_time: 2024-11-22 13:37:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/22/readout-of-president-bidens-call-with-president-macron-of-france-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/22/readout-of-president-bidens-call-with-president-macron-of-france-4/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Macron of\_France"
 ---

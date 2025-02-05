@@ -1,7 +1,7 @@
 ---
 date: '2023-08-18'
 published_time: 2023-08-18 14:55:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/18/the-spirit-of-camp-david-joint-statement-of-japan-the-republic-of-korea-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/18/the-spirit-of-camp-david-joint-statement-of-japan-the-republic-of-korea-and-the-united-states/
 tags: statements-releases
 title: "The Spirit of Camp David: Joint Statement of Japan, the Republic of Korea,\
   \ and the United\_States"

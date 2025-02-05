@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-07 21:17:05-05:00
 published_time: 2023-02-07 21:01:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/
 tags: speeches-remarks
 title: "Remarks of President Joe\_Biden \u2013 State of the Union Address as Prepared\
   \ for\_Delivery"

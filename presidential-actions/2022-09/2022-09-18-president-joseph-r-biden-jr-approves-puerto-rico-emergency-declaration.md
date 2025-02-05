@@ -1,7 +1,7 @@
 ---
 date: '2022-09-18'
 published_time: 2022-09-18 08:25:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/18/president-joseph-r-biden-jr-approves-puerto-rico-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/18/president-joseph-r-biden-jr-approves-puerto-rico-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Emergency\_Declaration"
 ---

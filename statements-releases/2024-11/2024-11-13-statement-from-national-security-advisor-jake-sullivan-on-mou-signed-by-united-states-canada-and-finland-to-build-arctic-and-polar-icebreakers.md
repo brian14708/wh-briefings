@@ -2,7 +2,7 @@
 date: '2024-11-13'
 modified_time: 2024-11-13 09:41:58-05:00
 published_time: 2024-11-13 10:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/13/statement-from-national-security-advisor-jake-sullivan-on-mou-signed-by-united-states-canada-and-finland-to-build-arctic-and-polar-icebreakers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/13/statement-from-national-security-advisor-jake-sullivan-on-mou-signed-by-united-states-canada-and-finland-to-build-arctic-and-polar-icebreakers/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on MOU Signed by United\_\
   States, Canada, and Finland to Build Arctic and Polar\_Icebreakers"

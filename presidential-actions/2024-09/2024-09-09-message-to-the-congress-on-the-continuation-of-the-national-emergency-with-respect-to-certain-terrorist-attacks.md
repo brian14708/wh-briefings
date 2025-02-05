@@ -2,7 +2,7 @@
 date: '2024-09-09'
 modified_time: 2024-09-09 21:12:52-04:00
 published_time: 2024-09-09 21:12:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/09/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/09/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to Certain Terrorist\_Attacks"

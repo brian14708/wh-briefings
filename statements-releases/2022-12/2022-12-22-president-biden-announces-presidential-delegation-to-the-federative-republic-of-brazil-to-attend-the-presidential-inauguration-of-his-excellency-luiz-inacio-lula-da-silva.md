@@ -2,7 +2,7 @@
 date: '2022-12-22'
 modified_time: 2022-12-22 12:03:38-05:00
 published_time: 2022-12-22 12:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/22/president-biden-announces-presidential-delegation-to-the-federative-republic-of-brazil-to-attend-the-presidential-inauguration-of-his-excellency-luiz-inacio-lula-da-silva/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/22/president-biden-announces-presidential-delegation-to-the-federative-republic-of-brazil-to-attend-the-presidential-inauguration-of-his-excellency-luiz-inacio-lula-da-silva/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Federative Republic\
   \ of Brazil to attend the Presidential Inauguration of His Excellency Luiz In\xE1\

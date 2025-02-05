@@ -2,7 +2,7 @@
 date: '2024-05-30'
 modified_time: 2024-05-30 10:15:56-04:00
 published_time: 2024-05-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/fact-sheet-biden-harris-administration-takes-action-to-expand-access-to-capital-for-small-and-medium-sized-climate-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/30/fact-sheet-biden-harris-administration-takes-action-to-expand-access-to-capital-for-small-and-medium-sized-climate-businesses/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Expand Access\
   \ to Capital for Small- and Medium-Sized Climate\_Businesses"
@@ -21,7 +21,7 @@ gas emissions in half by 2030 and reaching net zero by 2050. President
 Biden’s historic economic policies have spurred unprecedented levels of
 private investment into America’s clean energy economy. Since the start
 of the Biden-Harris Administration, the private sector has announced
-[$866 billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[$866 billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 in new investments in clean energy and manufacturing.
 
 Creating economic opportunity for all American communities,
@@ -45,7 +45,7 @@ resources to expand access to climate capital:</u>**
 **Releasing the new Climate Capital Guidebook:**
 
 The Biden-Harris Administration is releasing a new [Climate Capital
-Guidebook](https://www.whitehouse.gov/wp-content/uploads/2024/05/CLIMATE-CAPITAL-GUIDEBOOK-v5.29.2024-730pm.pdf)
+Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/CLIMATE-CAPITAL-GUIDEBOOK-v5.29.2024-730pm.pdf)
 to provide a simple, comprehensive map of capital programs across the
 federal government that are available to climate-related start-ups,
 small- and medium-sized businesses, and their investors. While larger,
@@ -68,7 +68,7 @@ jobs, and affordable clean energy to disadvantaged communities, [energy
 communities](https://energycommunities.gov/), and other communities in
 need.  The Guidebook also indicates programs that are part of President
 Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which set the goal that 40% of the overall benefits of certain federal
 climate, clean energy, and other investments flow to disadvantaged
 communities that are marginalized by underinvestment and overburdened by
@@ -120,7 +120,7 @@ actions to expand access to climate capital, including:</u>**
     Together, these investments are creating new clean energy job
     opportunities and reducing pollution in low-income and disadvantaged
     communities, as part of President Biden’s [**Justice40
-    Initiative**](https://www.whitehouse.gov/environmentaljustice/justice40/).
+    Initiative**](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 
 <!-- -->
 
@@ -138,7 +138,7 @@ actions to expand access to climate capital, including:</u>**
 <!-- -->
 
 -   Made possible by funding from the [**American Rescue
-    Plan**](https://www.whitehouse.gov/american-rescue-plan/), the
+    Plan**](https://bidenwhitehouse.archives.gov/american-rescue-plan/), the
     Department of the Treasury allocated nearly $10 billion through the
     [**State Small Business Credit
     Initiative**](https://home.treasury.gov/policy-issues/small-business-programs/state-small-business-credit-initiative-ssbci)
@@ -220,7 +220,7 @@ actions to expand access to climate capital, including:</u>**
     [**Reduction of Truck Emissions at Port Facilities
     Program**](https://highways.dot.gov/newsroom/grants-help-reduce-truck-air-pollution-ports),
     both of which help advance the [**Justice40
-    Initiative**](https://www.whitehouse.gov/environmentaljustice/justice40/).
+    Initiative**](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
     Through the Clean Ports Program, the Environmental Protection Agency
     is awarding $3 billion to fund zero-emission port equipment and
     infrastructure as well as climate and air quality planning projects
@@ -236,7 +236,7 @@ actions to expand access to climate capital, including:</u>**
     together**](https://driveelectric.gov) with states to build out the
     infrastructure for an electric mobility future while furthering the
     [**Justice40
-    Initiative**](https://www.whitehouse.gov/environmentaljustice/justice40/).
+    Initiative**](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
     The [**National Electric Vehicle Infrastructure Formula
     Program**](https://driveelectric.gov/state-plans) is providing a
     total of $5 billion over five years to states to deploy electric

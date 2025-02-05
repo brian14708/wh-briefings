@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 11:35:20-04:00
 published_time: 2022-05-12 11:35:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-senior-administration-official-previewing-the-second-global-covid-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-senior-administration-official-previewing-the-second-global-covid-summit/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Official Previewing the Second\
   \ Global COVID\_Summit"

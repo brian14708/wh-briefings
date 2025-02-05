@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-26 17:39:02-05:00
 published_time: 2024-11-26 18:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/26/remarks-by-president-biden-announcing-cessation-of-hostilities-between-israel-and-hezbollah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/26/remarks-by-president-biden-announcing-cessation-of-hostilities-between-israel-and-hezbollah/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Announcing Cessation of Hostilities Between Israel\
   \ and\_Hezbollah"

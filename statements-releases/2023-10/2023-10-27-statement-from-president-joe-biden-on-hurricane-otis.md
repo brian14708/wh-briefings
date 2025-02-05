@@ -2,7 +2,7 @@
 date: '2023-10-27'
 modified_time: 2023-10-27 22:34:49-04:00
 published_time: 2023-10-27 22:34:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-hurricane-otis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-hurricane-otis/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Hurricane\_Otis"
 ---

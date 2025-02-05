@@ -2,7 +2,7 @@
 date: '2024-01-11'
 modified_time: 2024-01-11 14:34:29-05:00
 published_time: 2024-01-11 15:05:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/11/president-biden-announces-presidential-delegation-to-the-republic-of-guatemala-to-attend-the-inauguration-of-his-excellency-bernardo-arevalo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/11/president-biden-announces-presidential-delegation-to-the-republic-of-guatemala-to-attend-the-inauguration-of-his-excellency-bernardo-arevalo/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Guatemala\
   \ to Attend the Inauguration of His Excellency Bernardo\_Ar\xE9valo"

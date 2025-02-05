@@ -2,7 +2,7 @@
 date: '2022-12-22'
 modified_time: 2022-12-22 18:05:15-05:00
 published_time: 2022-12-22 18:05:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/22/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/22/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group-2/
 tags: statements-releases
 title: "Joint Statement on the Meeting of the U.S.-Israel Strategic Consultative\_\
   Group"

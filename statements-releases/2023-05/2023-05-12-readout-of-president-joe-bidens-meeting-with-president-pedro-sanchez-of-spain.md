@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 17:15:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/12/readout-of-president-joe-bidens-meeting-with-president-pedro-sanchez-of-spain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/12/readout-of-president-joe-bidens-meeting-with-president-pedro-sanchez-of-spain/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Pedro Sanchez\
   \ of\_Spain"

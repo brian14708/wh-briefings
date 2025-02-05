@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-10-01 16:56:19-04:00
 published_time: 2024-09-30 16:30:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/30/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-adviser-dr-elizabeth-sherwood-randall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/30/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-adviser-dr-elizabeth-sherwood-randall/
 tags: press-briefings
 title: Press Briefing by Press Secretary Karine Jean-Pierre and Homeland Security
   Adviser Dr. Elizabeth Sherwood-Randall

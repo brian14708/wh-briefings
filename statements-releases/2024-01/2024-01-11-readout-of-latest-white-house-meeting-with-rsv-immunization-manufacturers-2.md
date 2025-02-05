@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 21:46:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/11/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/11/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers-2/
 tags: statements-releases
 title: "Readout of Latest White\_House Meeting with RSV Immunization Manufacturers"
 ---
@@ -12,7 +12,7 @@ Sanofi and AstraZeneca, to receive an update on supply, and to
 underscore the need for manufacturers to continue efforts to meet
 current and projected demand through the commercial market. This meeting
 follows several in-person and virtual meetings, including [last
-month](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/#:~:text=On%20Wednesday%2C%20senior%20Biden-Harris,commercial%20market%20this%20viral%20season.)
+month](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/#:~:text=On%20Wednesday%2C%20senior%20Biden-Harris,commercial%20market%20this%20viral%20season.)
 when manufacturers announced the availability of hundreds of thousands
 of additional doses at the urging of the administration, including
 230,000 additional doses, which providers and states will begin to be

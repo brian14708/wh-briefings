@@ -1,7 +1,7 @@
 ---
 date: '2022-05-31'
 published_time: 2022-05-31 13:17:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2022/
 tags: presidential-actions
 title: "A Proclamation on\_Lesbian, Gay, Bisexual, Transgender, Queer, And Intersex\
   \ Pride Month,\_2022"

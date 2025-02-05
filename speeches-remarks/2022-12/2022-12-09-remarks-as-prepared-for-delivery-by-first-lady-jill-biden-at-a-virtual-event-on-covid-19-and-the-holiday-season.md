@@ -2,7 +2,7 @@
 date: '2022-12-09'
 modified_time: 2022-12-09 16:47:00-05:00
 published_time: 2022-12-09 16:46:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-virtual-event-on-covid-19-and-the-holiday-season/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-virtual-event-on-covid-19-and-the-holiday-season/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Virtual Event\
   \ on COVID-\u206019 and the Holiday\_Season"

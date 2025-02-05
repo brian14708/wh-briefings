@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-01 20:13:46-04:00
 published_time: 2024-08-01 17:18:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-vice-president-harris-on-freeing-americans-detained-in-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-vice-president-harris-on-freeing-americans-detained-in-russia/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Freeing Americans Detained in\_Russia"
 ---

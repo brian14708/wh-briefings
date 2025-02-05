@@ -2,7 +2,7 @@
 date: '2024-09-19'
 modified_time: 2024-09-19 20:11:20-04:00
 published_time: 2024-09-19 20:19:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/19/press-briefing-by-press-secretary-karine-jean-pierre-and-chair-of-the-council-of-economic-advisers-jared-bernstein-september-19-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/19/press-briefing-by-press-secretary-karine-jean-pierre-and-chair-of-the-council-of-economic-advisers-jared-bernstein-september-19-2024/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Chair of the Council\
   \ of Economic Advisers Jared Bernstein, September 19,\_2024"

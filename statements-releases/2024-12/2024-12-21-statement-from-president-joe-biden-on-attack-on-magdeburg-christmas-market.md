@@ -2,7 +2,7 @@
 date: '2024-12-21'
 modified_time: 2024-12-21 11:46:03-05:00
 published_time: 2024-12-21 11:46:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/21/statement-from-president-joe-biden-on-attack-on-magdeburg-christmas-market/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/21/statement-from-president-joe-biden-on-attack-on-magdeburg-christmas-market/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Attack on Magdeburg Christmas\_Market"
 ---

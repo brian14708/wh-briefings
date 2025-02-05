@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 05:54:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/
 tags: statements-releases
 title: "FACT SHEET: Vice President Announces New Private and Public Sector Efforts\
   \ to Align Tens of Billions in Investments in Underserved\_Communities"
@@ -21,7 +21,7 @@ Upstart*
 Since Day One of the Biden-Harris Administration, President Biden and
 Vice President Harris have taken decisive action to lead [the most
 equitable economic recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/)
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/)
 and make long-overdue investments in communities that have historically
 been left behind. By signing into law the American Rescue Plan and the
 Bipartisan Infrastructure Law, the Biden-Harris Administration has made

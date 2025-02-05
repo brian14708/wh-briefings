@@ -1,7 +1,7 @@
 ---
 date: '2022-07-21'
 published_time: 2022-07-21 18:27:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-in-roundtable-discussion-with-nc-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-in-roundtable-discussion-with-nc-legislators-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks By Vice President Harris In Roundtable Discussion With NC Legislators\
   \ On Reproductive\_Rights"

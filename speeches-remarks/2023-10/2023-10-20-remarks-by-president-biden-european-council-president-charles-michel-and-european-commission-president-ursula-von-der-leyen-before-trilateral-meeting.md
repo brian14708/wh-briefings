@@ -1,7 +1,7 @@
 ---
 date: '2023-10-20'
 published_time: 2023-10-20 16:22:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/20/remarks-by-president-biden-european-council-president-charles-michel-and-european-commission-president-ursula-von-der-leyen-before-trilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/20/remarks-by-president-biden-european-council-president-charles-michel-and-european-commission-president-ursula-von-der-leyen-before-trilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, European Council President Charles Michel, and\
   \ European Commission President Ursula von der Leyen Before Trilateral\_Meeting"

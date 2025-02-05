@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 16:24:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-vilnius-lithuania/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Volodymyr Zelenskyy of Ukraine Before\
   \ Bilateral Meeting | Vilnius,\_Lithuania"

@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 20:48:11-04:00
 published_time: 2022-05-16 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-presidential-delegation-to-the-democratic-republic-of-timor-leste-to-attend-the-inauguration-of-his-excellency-jose-ramos-horta-and-to-attend-ceremonies-commemorating-the-twe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-presidential-delegation-to-the-democratic-republic-of-timor-leste-to-attend-the-inauguration-of-his-excellency-jose-ramos-horta-and-to-attend-ceremonies-commemorating-the-twe/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Democratic Republic\
   \ of Timor-Leste to Attend the Inauguration of His Excellency Jos\xE9 Ramos-Horta\

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-30'
 published_time: 2024-07-30 17:44:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/readout-of-president-joe-bidens-call-with-president-luiz-inacio-lula-da-silva-of-brazil-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/readout-of-president-joe-bidens-call-with-president-luiz-inacio-lula-da-silva-of-brazil-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Luiz In\xE1cio\
   \ Lula da Silva of\_Brazil"

@@ -2,7 +2,7 @@
 date: '2023-01-13'
 modified_time: 2023-01-13 10:19:05-05:00
 published_time: 2023-01-13 10:19:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/13/a-proclamation-on-martin-luther-king-jr-federal-holiday-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/13/a-proclamation-on-martin-luther-king-jr-federal-holiday-2023/
 tags: presidential-actions
 title: "A Proclamation on Martin Luther King, Jr., Federal Holiday,\_2023"
 ---

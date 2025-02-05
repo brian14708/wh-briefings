@@ -1,7 +1,7 @@
 ---
 date: '2024-01-10'
 published_time: 2024-01-10 10:27:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/10/statement-from-president-joe-biden-on-historic-20-million-enrollees-in-affordable-care-act-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/10/statement-from-president-joe-biden-on-historic-20-million-enrollees-in-affordable-care-act-health-care/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic 20 Million Enrollees in Affordable\
   \ Care Act Health\_Care"

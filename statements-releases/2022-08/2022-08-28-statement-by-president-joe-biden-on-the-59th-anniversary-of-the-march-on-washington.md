@@ -2,7 +2,7 @@
 date: '2022-08-28'
 modified_time: 2022-08-28 05:21:09-04:00
 published_time: 2022-08-28 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/28/statement-by-president-joe-biden-on-the-59th-anniversary-of-the-march-on-washington/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/28/statement-by-president-joe-biden-on-the-59th-anniversary-of-the-march-on-washington/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the 59th Anniversary of the March on\
   \ Washington"

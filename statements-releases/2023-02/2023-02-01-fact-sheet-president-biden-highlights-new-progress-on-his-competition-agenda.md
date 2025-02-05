@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 09:42:47-05:00
 published_time: 2023-02-01 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/
 tags: statements-releases
 title: "FACT SHEET:  President\_Biden Highlights New Progress on His Competition\_\
   Agenda"

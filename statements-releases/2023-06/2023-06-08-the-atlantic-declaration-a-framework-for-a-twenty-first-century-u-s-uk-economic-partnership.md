@@ -2,7 +2,7 @@
 date: '2023-06-08'
 modified_time: 2023-06-08 17:02:59-04:00
 published_time: 2023-06-08 14:29:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/the-atlantic-declaration-a-framework-for-a-twenty-first-century-u-s-uk-economic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/the-atlantic-declaration-a-framework-for-a-twenty-first-century-u-s-uk-economic-partnership/
 tags: statements-releases
 title: "The Atlantic Declaration: A Framework for a Twenty-First Century U.S.-UK Economic\_\
   Partnership"

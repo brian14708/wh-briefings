@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-14 15:23:34-04:00
 published_time: 2022-09-13 18:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/13/president-biden-announces-presidential-delegation-to-the-republic-of-angola-to-attend-the-inauguration-of-his-excellency-joao-manuel-goncalves-lourenco/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/13/president-biden-announces-presidential-delegation-to-the-republic-of-angola-to-attend-the-inauguration-of-his-excellency-joao-manuel-goncalves-lourenco/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Republic of Angola\
   \ to Attend the Inauguration of His Excellency Jo\xE3o Manuel Gon\xE7alves\_Louren\xE7\

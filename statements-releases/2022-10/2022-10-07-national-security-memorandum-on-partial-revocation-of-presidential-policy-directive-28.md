@@ -2,7 +2,7 @@
 date: '2022-10-07'
 modified_time: 2022-10-07 12:39:26-04:00
 published_time: 2022-10-07 10:56:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/national-security-memorandum-on-partial-revocation-of-presidential-policy-directive-28/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/national-security-memorandum-on-partial-revocation-of-presidential-policy-directive-28/
 tags: statements-releases
 title: "National Security Memorandum on Partial Revocation of Presidential Policy\
   \ Directive\_28"

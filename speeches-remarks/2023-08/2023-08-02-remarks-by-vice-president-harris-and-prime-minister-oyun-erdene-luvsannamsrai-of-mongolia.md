@@ -1,7 +1,7 @@
 ---
 date: '2023-08-02'
 published_time: 2023-08-02 15:31:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/02/remarks-by-vice-president-harris-and-prime-minister-oyun-erdene-luvsannamsrai-of-mongolia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/02/remarks-by-vice-president-harris-and-prime-minister-oyun-erdene-luvsannamsrai-of-mongolia/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Oyun-Erdene Luvsannamsrai\
   \ of\_Mongolia"

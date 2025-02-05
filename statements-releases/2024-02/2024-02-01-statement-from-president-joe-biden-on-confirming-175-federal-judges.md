@@ -2,7 +2,7 @@
 date: '2024-02-01'
 modified_time: 2024-02-01 14:39:05-05:00
 published_time: 2024-02-01 14:39:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/statement-from-president-joe-biden-on-confirming-175-federal-judges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/01/statement-from-president-joe-biden-on-confirming-175-federal-judges/
 tags: statements-releases
 title: "Statement from President Joe\_Biden On Confirming 175 Federal\_Judges"
 ---

@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 15:47:53-04:00
 published_time: 2023-10-11 20:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-on-protecting-consumers-at-the-national-consumer-league-trumpeter-awards/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-on-protecting-consumers-at-the-national-consumer-league-trumpeter-awards/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by NEC Director Lael Brainard on Protecting\
   \ Consumers at the National Consumer League Trumpeter\_Awards"

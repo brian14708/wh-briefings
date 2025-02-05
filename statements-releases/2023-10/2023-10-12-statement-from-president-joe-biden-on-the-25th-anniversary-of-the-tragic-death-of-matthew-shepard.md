@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-11 18:28:53-04:00
 published_time: 2023-10-12 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-tragic-death-of-matthew-shepard/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-tragic-death-of-matthew-shepard/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 25th Anniversary of the Tragic\
   \ Death of Matthew\_Shepard"

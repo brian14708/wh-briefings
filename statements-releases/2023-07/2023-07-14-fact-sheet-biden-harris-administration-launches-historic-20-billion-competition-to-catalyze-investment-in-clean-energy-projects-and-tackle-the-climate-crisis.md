@@ -2,7 +2,7 @@
 date: '2023-07-14'
 modified_time: 2023-07-13 18:12:12-04:00
 published_time: 2023-07-14 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/fact-sheet-biden-harris-administration-launches-historic-20-billion-competition-to-catalyze-investment-in-clean-energy-projects-and-tackle-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/fact-sheet-biden-harris-administration-launches-historic-20-billion-competition-to-catalyze-investment-in-clean-energy-projects-and-tackle-the-climate-crisis/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Historic $20 Billion\
   \ Competition to Catalyze Investment in Clean Energy Projects and Tackle the Climate\_\
@@ -79,7 +79,7 @@ energy for millions of low-income households.
 
 The Greenhouse Gas Reduction Program advances the Biden-Harris
 Administration’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which sets the goal that 40% of the overall benefits from certain
 federal investments flow to disadvantaged communities that are
 marginalized, underserved, and overburdened by pollution.
@@ -202,7 +202,7 @@ Projects</u>**
 <!-- -->
 
 -   In June, [**the Biden-Harris Administration
-    announced**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-driving-forward-on-convenient-reliable-made-in-america-national-network-of-electric-vehicle-chargers/)
+    announced**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-driving-forward-on-convenient-reliable-made-in-america-national-network-of-electric-vehicle-chargers/)
     that nearly $24 billion has already been committed for electric
     vehicle public charging infrastructure through 2030 as a result of
     President Biden’s Investing in America agenda, rising demand for
@@ -249,7 +249,7 @@ Projects</u>**
 
 -   In April, the Biden-Harris administration [**released a slate of new
     investments to support energy
-    communities**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/),
+    communities**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/),
     including new guidance on the Inflation Reduction Act’s energy
     communities bonus credit from Treasury to drive new clean energy
     projects, and $450 million from the Bipartisan Infrastructure Law

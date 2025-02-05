@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 published_time: 2022-09-09 13:24:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/09/a-proclamation-on-national-grandparents-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/09/a-proclamation-on-national-grandparents-day-2022/
 tags: presidential-actions
 title: "A Proclamation on National Grandparents Day,\_2022"
 ---

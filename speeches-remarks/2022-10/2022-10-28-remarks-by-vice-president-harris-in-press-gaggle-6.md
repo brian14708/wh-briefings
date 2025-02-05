@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 19:47:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/28/remarks-by-vice-president-harris-in-press-gaggle-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/28/remarks-by-vice-president-harris-in-press-gaggle-6/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press\_Gaggle"
 ---

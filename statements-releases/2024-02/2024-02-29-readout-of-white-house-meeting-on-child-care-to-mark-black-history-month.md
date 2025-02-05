@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-02-29 23:17:24-05:00
 published_time: 2024-02-29 23:17:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/readout-of-white-house-meeting-on-child-care-to-mark-black-history-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/readout-of-white-house-meeting-on-child-care-to-mark-black-history-month/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Child Care to Mark Black History\_Month"
 ---
@@ -37,11 +37,11 @@ investments](https://www.hhs.gov/sites/default/files/fy-2024-budget-in-brief.pdf
 would expand access to high-quality child care and preschool. And as
 American Rescue Plan funds dwindle, the President has also [requested
 supplemental
-funding](https://www.whitehouse.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/) to
+funding](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/) to
 sustain the child care sector and ensure support for more than 220,0000
 child care providers serving more than 10 million kids. The President
 also signed an [historic Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) in
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) in
 April 2023 directing nearly every cabinet-level agency to expand access
 to affordable, high-quality care and provide increased support for care
 workers and family caregivers. That EO has led to actions: including a
@@ -51,12 +51,12 @@ more than $10,000 on average and [lowering child care costs for service
 members](https://www.defense.gov/News/News-Stories/Article/Article/3662171/dod-reduces-on-base-child-care-fees-for-military-families/) who
 receive care on military bases. Additionally, the White House hosted
 a [White House States Convening on Child
-Care](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/),
+Care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/),
 gathering nearly 100 state legislators to discuss ways to improve child
 care governance, access, affordability, and the workforce.
 
 Also today, Vice President
-Harris [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/) that
+Harris [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/) that
 the Department of Health and Human Services finalized a rule
 strengthening the Child Care & Development Block Grant (CCDBG) program,
 lowering the cost of child care for working families and better

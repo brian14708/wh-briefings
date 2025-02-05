@@ -1,7 +1,7 @@
 ---
 date: '2024-07-01'
 published_time: 2024-07-01 17:08:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/01/a-proclamation-on-the-60th-anniversary-of-the-civil-rights-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/01/a-proclamation-on-the-60th-anniversary-of-the-civil-rights-act/
 tags: statements-releases
 title: "A Proclamation on the 60th Anniversary of the Civil Rights\_Act"
 ---

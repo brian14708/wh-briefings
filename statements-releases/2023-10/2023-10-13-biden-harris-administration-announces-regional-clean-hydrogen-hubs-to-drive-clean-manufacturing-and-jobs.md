@@ -2,7 +2,7 @@
 date: '2023-10-13'
 modified_time: 2023-10-13 10:56:07-04:00
 published_time: 2023-10-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/13/biden-harris-administration-announces-regional-clean-hydrogen-hubs-to-drive-clean-manufacturing-and-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/13/biden-harris-administration-announces-regional-clean-hydrogen-hubs-to-drive-clean-manufacturing-and-jobs/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Regional Clean Hydrogen Hubs to\
   \ Drive Clean Manufacturing and\_Jobs"
@@ -180,7 +180,7 @@ for the hubs to drive innovative end-uses of clean hydrogen.
 The Biden-Harris Administration is committed to ensuring safe hydrogen
 deployment and mitigating potential social, economic, technical, and
 environmental risks. The hubs are covered under the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which aims to ensure that 40 percent of the overall benefits of certain
 federal investments flow to disadvantaged communities that are
 marginalized by underinvestment and overburdened by pollution. Hubs have

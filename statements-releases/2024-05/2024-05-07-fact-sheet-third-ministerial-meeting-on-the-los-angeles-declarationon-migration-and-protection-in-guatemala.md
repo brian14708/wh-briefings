@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 20:50:57-04:00
 published_time: 2024-05-07 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-third-ministerial-meeting-on-the-los-angeles-declarationon-migration-and-protection-in-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-third-ministerial-meeting-on-the-los-angeles-declarationon-migration-and-protection-in-guatemala/
 tags: statements-releases
 title: "Fact Sheet: Third Ministerial Meeting on the Los Angeles DeclarationOn Migration\
   \ and Protection in\_Guatemala"

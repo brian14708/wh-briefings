@@ -2,7 +2,7 @@
 date: '2024-07-13'
 modified_time: 2024-07-13 21:39:55-04:00
 published_time: 2024-07-13 21:39:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/13/remarks-by-president-biden-rehoboth-beach-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/13/remarks-by-president-biden-rehoboth-beach-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden | Rehoboth Beach,\_DE"
 ---

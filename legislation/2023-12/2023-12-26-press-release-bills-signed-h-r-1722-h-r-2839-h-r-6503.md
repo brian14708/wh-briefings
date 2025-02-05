@@ -2,7 +2,7 @@
 date: '2023-12-26'
 modified_time: 2023-12-26 16:16:09-05:00
 published_time: 2023-12-26 16:16:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/12/26/press-release-bills-signed-h-r-1722-h-r-2839-h-r-6503/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/12/26/press-release-bills-signed-h-r-1722-h-r-2839-h-r-6503/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 1722, H.R. 2839, H.R.\_6503"
 ---

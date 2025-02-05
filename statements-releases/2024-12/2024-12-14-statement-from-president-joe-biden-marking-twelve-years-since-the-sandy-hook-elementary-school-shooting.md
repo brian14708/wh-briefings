@@ -2,7 +2,7 @@
 date: '2024-12-14'
 modified_time: 2024-12-14 09:54:44-05:00
 published_time: 2024-12-14 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/14/statement-from-president-joe-biden-marking-twelve-years-since-the-sandy-hook-elementary-school-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/14/statement-from-president-joe-biden-marking-twelve-years-since-the-sandy-hook-elementary-school-shooting/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking Twelve Years Since the Sandy Hook\
   \ Elementary School\_Shooting"

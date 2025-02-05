@@ -2,7 +2,7 @@
 date: '2024-11-04'
 modified_time: 2024-11-05 11:28:45-05:00
 published_time: 2024-11-04 23:59:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/04/remarks-by-vice-president-harris-at-a-campaign-event-allentown-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/04/remarks-by-vice-president-harris-at-a-campaign-event-allentown-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Allentown,\_PA"
 ---

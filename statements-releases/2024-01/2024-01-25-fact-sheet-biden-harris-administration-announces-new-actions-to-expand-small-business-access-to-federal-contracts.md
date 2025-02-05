@@ -1,7 +1,7 @@
 ---
 date: '2024-01-25'
 published_time: 2024-01-25 11:58:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-small-business-access-to-federal-contracts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-small-business-access-to-federal-contracts/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Expand\
   \ Small Business Access to Federal\_Contracts"
@@ -132,7 +132,7 @@ includes:
     Readiness Program is investing in small business incubators and
     accelerators.** The MBDA’s Capital Readiness Program awarded $125
     million to [43 non-profit community-based
-    organizations](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) to
+    organizations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) to
     help underserved entrepreneurs launch and scale their small
     businesses. This program, funded through the American Rescue Plan,
     is the largest-ever direct federal investment in small business

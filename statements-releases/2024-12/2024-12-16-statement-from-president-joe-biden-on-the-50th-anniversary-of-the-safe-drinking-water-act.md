@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-13 13:59:35-05:00
 published_time: 2024-12-16 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/16/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-safe-drinking-water-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/16/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-safe-drinking-water-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 50th Anniversary of the Safe Drinking\
   \ Water\_Act"

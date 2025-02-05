@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-11 09:23:02-04:00
 published_time: 2024-07-11 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/joint-statement-on-ice-pact/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/joint-statement-on-ice-pact/
 tags: statements-releases
 title: "Joint Statement on ICE\_Pact"
 ---

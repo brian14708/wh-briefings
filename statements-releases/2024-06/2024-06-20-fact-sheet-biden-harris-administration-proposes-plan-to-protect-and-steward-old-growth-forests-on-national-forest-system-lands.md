@@ -2,7 +2,7 @@
 date: '2024-06-20'
 modified_time: 2024-06-20 11:51:35-04:00
 published_time: 2024-06-20 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-proposes-plan-to-protect-and-steward-old-growth-forests-on-national-forest-system-lands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-proposes-plan-to-protect-and-steward-old-growth-forests-on-national-forest-system-lands/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Proposes Plan to Protect and\
   \ Steward Old-Growth Forests on National Forest System\_Lands"
@@ -50,9 +50,9 @@ Tropical Forest Forum in Norway.
 
 President Biden’s [*Executive Order on Strengthening the Nation’s
 Forests, Communities, and Local
-Economies*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/)
+Economies*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/)
 and the [Biden-Harris Administration’s whole-of-government
-approach](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/#:~:text=Released%20on%20Earth%20Day%202023,total%20of%20112%20million%20acres.)
+approach](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/#:~:text=Released%20on%20Earth%20Day%202023,total%20of%20112%20million%20acres.)
 are furthering efforts to safeguard and steward our nation’s forests,
 including through $50 million from the Inflation Reduction Act and the
 President’s Investing in America agenda to support old-growth

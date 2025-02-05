@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 22:14:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/25/president-joseph-r-biden-jr-approves-guam-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/25/president-joseph-r-biden-jr-approves-guam-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Guam Disaster\_Declaration"
 ---

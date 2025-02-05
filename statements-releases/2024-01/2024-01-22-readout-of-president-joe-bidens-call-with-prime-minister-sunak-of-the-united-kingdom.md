@@ -1,7 +1,7 @@
 ---
 date: '2024-01-22'
 published_time: 2024-01-22 16:32:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-joe-bidens-call-with-prime-minister-sunak-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-joe-bidens-call-with-prime-minister-sunak-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Sunak of the\
   \ United\_Kingdom"

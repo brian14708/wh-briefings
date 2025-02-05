@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 16:15:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/statement-from-president-biden-on-justice-department-findings-on-the-minneapolis-police-department/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/statement-from-president-biden-on-justice-department-findings-on-the-minneapolis-police-department/
 tags: statements-releases
 title: "Statement from President\_Biden on Justice Department Findings on the Minneapolis\
   \ Police\_Department"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-26'
 published_time: 2024-01-26 17:49:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-the-bipartisan-senate-border-security-negotiations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-the-bipartisan-senate-border-security-negotiations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden On the Bipartisan Senate Border Security\_\
   Negotiations"

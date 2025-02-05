@@ -2,7 +2,7 @@
 date: '2022-10-29'
 modified_time: 2022-10-30 11:57:23-04:00
 published_time: 2022-10-29 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/29/remarks-by-president-biden-after-voting-early-with-granddaughter-natalie-biden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/29/remarks-by-president-biden-after-voting-early-with-granddaughter-natalie-biden/
 tags: speeches-remarks
 title: "Remarks By President\_Biden After Voting Early with Granddaughter Natalie\_\
   Biden"

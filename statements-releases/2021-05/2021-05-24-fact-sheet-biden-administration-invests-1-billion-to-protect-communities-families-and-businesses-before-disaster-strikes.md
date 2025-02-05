@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-24'
 modified_time: 2021-05-24 16:54:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/
 published_time: 2021-05-24 11:30:00-04:00
 title: "FACT SHEET: Biden Administration Invests $1 Billion To Protect Communities,\
   \ Families, and Businesses Before Disaster\_Strikes"
@@ -111,7 +111,7 @@ Examples of actions to date across the federal government include:
 -   **Issuing an Executive Order on Climate-Related Financial Risk**.
     Last week, President Biden issued an [Executive Order on
     Climate-Related Financial
-    Risk](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/) that
+    Risk](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/) that
     will help the American people better understand how climate change
     can impact their financial security. It will strengthen the U.S.
     financial system and it will inform concrete decisions that the
@@ -125,7 +125,7 @@ Examples of actions to date across the federal government include:
     Administration has taken significant steps to revitalize Federal
     climate adaptation and resilience by initiating the development of
     Agency Climate Action Plans as required by [Executive Order
-    14008](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
+    14008](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
     The Plans, which are being developed by 36 agencies, broadened the
     scope of relevant climate adaptation and resilience experts to
     include acquisitions and finance professionals and focus on
@@ -151,14 +151,14 @@ Examples of actions to date across the federal government include:
     have been feeling the effect of climate change and underinvestment
     in resilience. Investments to make our infrastructure more resilient
     are a key piece of the [American Jobs
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/) and
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/) and
     the President’s FY 2022 Discretionary Request. In addition to
     supporting the goal that every dollar spent on rebuilding our
     infrastructure during the Biden administration will be used to
     prevent, reduce and withstand the impacts of the climate crisis –
     the American Jobs Plan calls for $50 billion in dedicated resilience
     investments. The [President’s FY22 Discretionary
-    Request](https://www.whitehouse.gov/wp-content/uploads/2021/04/FY2022-Discretionary-Request.pdf) also
+    Request](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/FY2022-Discretionary-Request.pdf) also
     includes significant budget increases to enable incorporation of
     climate impacts into disaster planning and projects to ensure that
     the Nation is rebuilding smarter and safer for the future.  
@@ -182,7 +182,7 @@ Examples of actions to date across the federal government include:
     its whole-of-government consideration of climate
     issues, [established an Interagency Working Group to address
     worsening drought
-    conditions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/readout-of-the-third-national-climate-task-force-meeting/) in
+    conditions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/21/readout-of-the-third-national-climate-task-force-meeting/) in
     the West and to support farmers, ranchers, Tribes, and communities
     impacted by ongoing water shortages. The Working Group is co-chaired
     by the Departments of the Interior and Agriculture and will build

@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-10 18:05:43-05:00
 published_time: 2022-11-10 18:05:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-president-biden-and-vice-president-harris-at-a-democratic-national-committee-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-president-biden-and-vice-president-harris-at-a-democratic-national-committee-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at a Democratic National\
   \ Committee\_Event"

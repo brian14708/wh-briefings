@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-27 22:25:57-04:00
 published_time: 2022-09-27 22:23:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/27/remarks-by-vice-president-harris-at-a-roundtable-discussion-with-japanese-business-executives-on-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/27/remarks-by-vice-president-harris-at-a-roundtable-discussion-with-japanese-business-executives-on-the-chips-and-science-act/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Roundtable Discussion with Japanese\
   \ Business Executives on the CHIPS and Science\_Act"

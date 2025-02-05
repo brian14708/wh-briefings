@@ -2,7 +2,7 @@
 date: '2022-04-04'
 modified_time: 2022-04-04 12:23:49-04:00
 published_time: 2022-04-04 12:19:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-president-biden-after-marine-one-arrival-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-president-biden-after-marine-one-arrival-9/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

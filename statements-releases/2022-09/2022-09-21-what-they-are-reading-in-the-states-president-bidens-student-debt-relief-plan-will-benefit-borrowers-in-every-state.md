@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 15:21:44-04:00
 published_time: 2022-09-21 15:19:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/what-they-are-reading-in-the-states-president-bidens-student-debt-relief-plan-will-benefit-borrowers-in-every-state/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/what-they-are-reading-in-the-states-president-bidens-student-debt-relief-plan-will-benefit-borrowers-in-every-state/
 tags: statements-releases
 title: "What They Are Reading in the States:\_President\_Biden\u2019s Student Debt\
   \ Relief Plan Will Benefit Borrowers in Every\_State"

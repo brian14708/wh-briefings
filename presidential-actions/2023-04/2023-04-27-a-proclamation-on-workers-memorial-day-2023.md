@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 11:41:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/27/a-proclamation-on-workers-memorial-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/27/a-proclamation-on-workers-memorial-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Workers Memorial Day,\_2023"
 ---

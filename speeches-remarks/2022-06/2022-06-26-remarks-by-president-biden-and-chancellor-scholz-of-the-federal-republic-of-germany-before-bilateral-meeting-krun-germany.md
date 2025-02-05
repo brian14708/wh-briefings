@@ -2,7 +2,7 @@
 date: '2022-06-26'
 modified_time: 2022-06-26 05:57:54-04:00
 published_time: 2022-06-26 06:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/26/remarks-by-president-biden-and-chancellor-scholz-of-the-federal-republic-of-germany-before-bilateral-meeting-krun-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/26/remarks-by-president-biden-and-chancellor-scholz-of-the-federal-republic-of-germany-before-bilateral-meeting-krun-germany/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Chancellor Scholz of the Federal Republic\
   \ of Germany Before Bilateral Meeting | Kr\xFCn,\_Germany"

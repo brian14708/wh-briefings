@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 15:00:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19-2/
 published_time: 2022-02-28 15:00:00-05:00
 title: "FACT SHEET:  President\_Biden to Lay Out Bold Commitments on Rebuilding America\u2019\
   s Crumbling Infrastructure Over the Next\_year"
@@ -24,7 +24,7 @@ investments will position the United States to win the 21st century.
 In the first 106 days since President Biden signed the Bipartisan
 Infrastructure Law, the White House Infrastructure Implementation Team
 has [hit the ground
-running](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/fact-sheet-biden-%e2%81%a0harris-administration-delivering-results-100-days-into-infrastructure-implementation/) to
+running](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/23/fact-sheet-biden-%e2%81%a0harris-administration-delivering-results-100-days-into-infrastructure-implementation/) to
 deliver concrete results for the American people. Nearly $100 billion of
 dedicated funding has been announced and is headed to states,
 territories, Tribes and local governments, with another nearly $50

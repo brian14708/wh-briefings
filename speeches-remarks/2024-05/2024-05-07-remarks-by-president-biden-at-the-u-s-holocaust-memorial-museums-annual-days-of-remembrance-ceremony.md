@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 22:54:25-04:00
 published_time: 2024-05-07 16:38:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-at-the-u-s-holocaust-memorial-museums-annual-days-of-remembrance-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-at-the-u-s-holocaust-memorial-museums-annual-days-of-remembrance-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S. Holocaust Memorial Museum\u2019s Annual\
   \ Days of Remembrance\_Ceremony"

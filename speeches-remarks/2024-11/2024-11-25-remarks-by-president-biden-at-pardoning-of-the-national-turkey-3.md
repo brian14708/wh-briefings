@@ -1,7 +1,7 @@
 ---
 date: '2024-11-25'
 published_time: 2024-11-25 12:57:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/25/remarks-by-president-biden-at-pardoning-of-the-national-turkey-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/25/remarks-by-president-biden-at-pardoning-of-the-national-turkey-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Pardoning of the National\_Turkey"
 ---

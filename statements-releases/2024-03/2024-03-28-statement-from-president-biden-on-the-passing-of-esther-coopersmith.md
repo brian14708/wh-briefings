@@ -1,7 +1,7 @@
 ---
 date: '2024-03-28'
 published_time: 2024-03-28 13:09:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/statement-from-president-biden-on-the-passing-of-esther-coopersmith/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/statement-from-president-biden-on-the-passing-of-esther-coopersmith/
 tags: statements-releases
 title: "Statement from President\_Biden on the Passing of Esther\_Coopersmith"
 ---

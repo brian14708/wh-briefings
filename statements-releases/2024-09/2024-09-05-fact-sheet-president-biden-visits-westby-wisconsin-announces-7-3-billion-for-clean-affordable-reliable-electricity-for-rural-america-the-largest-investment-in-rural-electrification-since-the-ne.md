@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-04 22:11:40-04:00
 published_time: 2024-09-05 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-president-biden-visits-westby-wisconsin-announces-7-3-billion-for-clean-affordable-reliable-electricity-for-rural-america-the-largest-investment-in-rural-electrification-since-the-ne/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-president-biden-visits-westby-wisconsin-announces-7-3-billion-for-clean-affordable-reliable-electricity-for-rural-america-the-largest-investment-in-rural-electrification-since-the-ne/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Visits Westby, Wisconsin, Announces $7.3 Billion\
   \ for Clean, Affordable, Reliable Electricity for Rural America; The Largest Investment\
@@ -187,6 +187,6 @@ future for all Wisconsinites for decades into the future:
 The progress in Wisconsin is just one example of the progress being made
 across every state in the nation. For more information about the
 progress of the President’s Investing in America Agenda, please visit
-[invest.gov](https://www.whitehouse.gov/invest/?utm_source=invest.gov). 
+[invest.gov](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov). 
 
 \###

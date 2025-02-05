@@ -1,7 +1,7 @@
 ---
 date: '2022-05-04'
 published_time: 2022-05-04 14:40:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/04/remarks-by-president-biden-at-team-usa-olympic-and-paralympic-athletes-visit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/04/remarks-by-president-biden-at-team-usa-olympic-and-paralympic-athletes-visit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Team USA Olympic and Paralympic Athletes\_\
   Visit"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-29'
 published_time: 2023-07-29 09:53:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/29/remarks-by-president-biden-at-a-campaign-reception-freeport-me/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/29/remarks-by-president-biden-at-a-campaign-reception-freeport-me/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Freeport,\_ME"
 ---
@@ -362,7 +362,7 @@ is changing. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/07/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/image.gif"
 title="Anchor" class="wp-image-81449" decoding="async" loading="lazy"
 width="1" height="1" />
 </figure>

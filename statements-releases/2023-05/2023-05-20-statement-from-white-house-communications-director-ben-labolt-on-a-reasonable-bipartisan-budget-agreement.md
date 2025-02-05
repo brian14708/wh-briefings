@@ -2,7 +2,7 @@
 date: '2023-05-20'
 modified_time: 2023-05-20 17:48:37-04:00
 published_time: 2023-05-20 17:48:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/statement-from-white-house-communications-director-ben-labolt-on-a-reasonable-bipartisan-budget-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/statement-from-white-house-communications-director-ben-labolt-on-a-reasonable-bipartisan-budget-agreement/
 tags: statements-releases
 title: "Statement from White\_House Communications Director Ben LaBolt on a Reasonable\
   \ Bipartisan Budget\_Agreement"

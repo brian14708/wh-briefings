@@ -2,7 +2,7 @@
 date: '2024-03-21'
 modified_time: 2024-03-21 00:45:38-04:00
 published_time: 2024-03-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/statement-from-president-joe-biden-on-nearly-6-billion-in-student-debt-cancellation-for-78000-public-service-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/21/statement-from-president-joe-biden-on-nearly-6-billion-in-student-debt-cancellation-for-78000-public-service-workers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Nearly $6 Billion in Student Debt Cancellation\
   \ for 78,000 Public Service\_Workers"

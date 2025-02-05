@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-27 13:25:24-04:00
 published_time: 2024-09-26 23:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/26/remarks-by-president-biden-vice-president-harris-and-mayor-woodfin-on-the-scourge-of-gun-violence-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/26/remarks-by-president-biden-vice-president-harris-and-mayor-woodfin-on-the-scourge-of-gun-violence-in-america/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Vice President Harris, and Mayor Woodfin on the\
   \ Scourge of Gun Violence in\_America"

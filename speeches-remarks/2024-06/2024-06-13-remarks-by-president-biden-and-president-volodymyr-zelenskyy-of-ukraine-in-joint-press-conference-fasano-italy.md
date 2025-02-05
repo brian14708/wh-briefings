@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 18:09:55-04:00
 published_time: 2024-06-13 18:09:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/13/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-in-joint-press-conference-fasano-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/13/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-in-joint-press-conference-fasano-italy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Volodymyr Zelenskyy of Ukraine in\
   \ Joint Press Conference | Fasano,\_Italy"

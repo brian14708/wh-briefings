@@ -2,7 +2,7 @@
 date: '2022-07-21'
 modified_time: 2022-07-21 14:08:39-04:00
 published_time: 2022-07-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-vice-president-harris-highlights-milestone-of-1-million-new-participants-on-reducing-high-speed-internet-cost-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-vice-president-harris-highlights-milestone-of-1-million-new-participants-on-reducing-high-speed-internet-cost-for-americans/
 tags: statements-releases
 title: "FACT SHEET:\_Vice President Harris Marks Important New Milestone in Administration\u2019\
   s Efforts to Cut Costs for American\_Families"
@@ -187,6 +187,6 @@ Initiative](https://www.internetforall.gov/) to ensure that every
 American has access to reliable and affordable high-speed internet. The
 Bipartisan Infrastructure Law provides a $65 billion investment in
 high-speed internet access—on top of
-[billions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-announces-over-25-billion-in-american-rescue-plan-funding-to-help-ensure-every-american-has-access-to-high-speed-affordable-internet/)
+[billions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-biden-harris-administration-announces-over-25-billion-in-american-rescue-plan-funding-to-help-ensure-every-american-has-access-to-high-speed-affordable-internet/)
 in funding for high-speed, affordable internet provided by the American
 Rescue Plan that is currently being deployed across the nation.    

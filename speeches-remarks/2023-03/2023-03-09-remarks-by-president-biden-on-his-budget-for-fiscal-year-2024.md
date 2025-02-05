@@ -2,7 +2,7 @@
 date: '2023-03-09'
 modified_time: 2023-03-09 20:19:54-05:00
 published_time: 2023-03-09 20:19:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/09/remarks-by-president-biden-on-his-budget-for-fiscal-year-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/09/remarks-by-president-biden-on-his-budget-for-fiscal-year-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Budget for Fiscal Year\_2024"
 ---

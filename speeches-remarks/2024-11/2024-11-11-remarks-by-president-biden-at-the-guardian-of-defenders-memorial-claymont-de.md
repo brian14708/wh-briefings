@@ -2,7 +2,7 @@
 date: '2024-11-11'
 modified_time: 2024-11-14 08:06:15-05:00
 published_time: 2024-11-11 15:05:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/11/remarks-by-president-biden-at-the-guardian-of-defenders-memorial-claymont-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/11/remarks-by-president-biden-at-the-guardian-of-defenders-memorial-claymont-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Guardian of Defenders Memorial | Claymont,\_\
   DE"

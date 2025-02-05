@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 14:13:09-04:00
 published_time: 2023-10-06 14:13:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/06/a-proclamation-on-leif-erikson-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/06/a-proclamation-on-leif-erikson-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Leif Erikson Day,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 13:54:54-04:00
 published_time: 2022-11-01 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/international-counter-ransomware-initiative-2022-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/international-counter-ransomware-initiative-2022-joint-statement/
 tags: statements-releases
 title: "International Counter Ransomware Initiative 2022 Joint\_Statement"
 ---

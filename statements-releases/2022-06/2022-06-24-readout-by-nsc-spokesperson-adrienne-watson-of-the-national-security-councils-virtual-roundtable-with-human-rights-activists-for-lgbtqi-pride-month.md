@@ -2,7 +2,7 @@
 date: '2022-06-24'
 modified_time: 2022-06-25 09:54:26-04:00
 published_time: 2022-06-24 21:53:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/readout-by-nsc-spokesperson-adrienne-watson-of-the-national-security-councils-virtual-roundtable-with-human-rights-activists-for-lgbtqi-pride-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/readout-by-nsc-spokesperson-adrienne-watson-of-the-national-security-councils-virtual-roundtable-with-human-rights-activists-for-lgbtqi-pride-month/
 tags: statements-releases
 title: "Readout by NSC Spokesperson Adrienne Watson of the National Security Council\u2019\
   s Virtual Roundtable with Human Rights Activists for LGBTQI+ Pride\_Month"

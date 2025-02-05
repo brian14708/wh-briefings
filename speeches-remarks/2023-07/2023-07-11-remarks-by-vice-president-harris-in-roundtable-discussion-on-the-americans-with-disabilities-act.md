@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 14:22:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-vice-president-harris-in-roundtable-discussion-on-the-americans-with-disabilities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-vice-president-harris-in-roundtable-discussion-on-the-americans-with-disabilities-act/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Roundtable Discussion on the Americans\
   \ with Disabilities\_Act"

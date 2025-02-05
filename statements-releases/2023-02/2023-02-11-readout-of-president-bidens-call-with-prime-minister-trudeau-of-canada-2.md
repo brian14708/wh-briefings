@@ -2,7 +2,7 @@
 date: '2023-02-11'
 modified_time: 2023-02-11 18:45:35-05:00
 published_time: 2023-02-11 18:45:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/11/readout-of-president-bidens-call-with-prime-minister-trudeau-of-canada-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/11/readout-of-president-bidens-call-with-prime-minister-trudeau-of-canada-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Trudeau of\_Canada"
 ---

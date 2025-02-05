@@ -2,7 +2,7 @@
 date: '2023-01-04'
 modified_time: 2023-01-04 16:51:27-05:00
 published_time: 2023-01-04 16:18:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-vice-president-harris-on-rebuilding-our-infrastructure-and-creating-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-vice-president-harris-on-rebuilding-our-infrastructure-and-creating-good-paying-jobs/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Rebuilding Our Infrastructure and Creating\
   \ Good-Paying\_Jobs"

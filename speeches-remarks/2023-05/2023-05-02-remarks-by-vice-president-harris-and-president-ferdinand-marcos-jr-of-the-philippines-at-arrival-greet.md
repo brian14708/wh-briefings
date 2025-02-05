@@ -1,7 +1,7 @@
 ---
 date: '2023-05-02'
 published_time: 2023-05-02 14:35:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/02/remarks-by-vice-president-harris-and-president-ferdinand-marcos-jr-of-the-philippines-at-arrival-greet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/02/remarks-by-vice-president-harris-and-president-ferdinand-marcos-jr-of-the-philippines-at-arrival-greet/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Ferdinand Marcos Jr. of the\
   \ Philippines at Arrival\_Greet"

@@ -2,7 +2,7 @@
 date: '2023-03-21'
 modified_time: 2023-03-23 16:24:54-04:00
 published_time: 2023-03-21 13:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/21/a-proclamation-on-establishment-of-the-avi-kwa-ame-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/21/a-proclamation-on-establishment-of-the-avi-kwa-ame-national-monument/
 tags: presidential-actions
 title: "A Proclamation Establishing the Avi Kwa Ame National\_Monument"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-01'
 modified_time: 2022-09-01 21:41:22-04:00
 published_time: 2022-09-01 21:41:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/01/readout-of-the-meeting-of-the-united-states-japanese-and-republic-of-korea-trilateral-national-security-advisors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/01/readout-of-the-meeting-of-the-united-states-japanese-and-republic-of-korea-trilateral-national-security-advisors/
 tags: statements-releases
 title: "Readout of the Meeting of the United\_States, Japanese and Republic of Korea\
   \ Trilateral National Security\_Advisors"

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-20'
 published_time: 2022-10-20 17:10:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/20/remarks-by-president-biden-on-rebuilding-our-nations-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/20/remarks-by-president-biden-on-rebuilding-our-nations-infrastructure/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Rebuilding Our Nation\u2019s\_Infrastructure"
 ---

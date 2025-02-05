@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 11:35:59-04:00
 published_time: 2022-07-26 11:17:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-department-of-energy-releases-new-notice-of-sale-as-gasoline-prices-continue-to-fall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-department-of-energy-releases-new-notice-of-sale-as-gasoline-prices-continue-to-fall/
 tags: statements-releases
 title: "FACT SHEET: Department of Energy Releases New Notice of Sale as Gasoline Prices\
   \ Continue to\_Fall"

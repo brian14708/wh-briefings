@@ -2,7 +2,7 @@
 date: '2022-11-29'
 modified_time: 2022-11-29 12:35:10-05:00
 published_time: 2022-11-29 12:35:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/readout-of-president-joe-bidens-meeting-with-congressional-leadership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/readout-of-president-joe-bidens-meeting-with-congressional-leadership/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Congressional\_Leadership"
 ---

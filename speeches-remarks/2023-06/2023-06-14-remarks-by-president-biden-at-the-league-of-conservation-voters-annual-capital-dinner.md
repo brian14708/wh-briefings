@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 23:24:52-04:00
 published_time: 2023-06-14 23:24:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/14/remarks-by-president-biden-at-the-league-of-conservation-voters-annual-capital-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/14/remarks-by-president-biden-at-the-league-of-conservation-voters-annual-capital-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the League of Conservation Voters Annual Capital\_\
   Dinner"

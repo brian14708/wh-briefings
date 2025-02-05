@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-07-30'
 modified_time: 2021-07-30 15:27:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/30/remarks-by-president-biden-and-vice-president-harris-in-virtual-meeting-with-governors-on-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/30/remarks-by-president-biden-and-vice-president-harris-in-virtual-meeting-with-governors-on-wildfires/
 published_time: 2021-07-30 15:27:40-04:00
 title: "Remarks by President\_Biden and Vice President Harris in Virtual Meeting with\
   \ Governors on\_Wildfires"

@@ -2,7 +2,7 @@
 date: '2024-08-06'
 modified_time: 2024-08-06 16:32:03-04:00
 published_time: 2024-08-06 16:32:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in-sensitive-technologies-and-products-critical-for-the-military-intelligence-surveillanc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in-sensitive-technologies-and-products-critical-for-the-military-intelligence-surveillanc/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Advancement\
   \ by Countries of Concern in Sensitive Technologies and Products Critical for the\

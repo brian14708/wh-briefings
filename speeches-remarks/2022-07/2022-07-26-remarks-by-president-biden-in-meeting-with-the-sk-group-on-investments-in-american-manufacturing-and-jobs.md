@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 17:02:27-04:00
 published_time: 2022-07-26 17:02:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-president-biden-in-meeting-with-the-sk-group-on-investments-in-american-manufacturing-and-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-president-biden-in-meeting-with-the-sk-group-on-investments-in-american-manufacturing-and-jobs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meeting with the SK Group on Investments in\
   \ American Manufacturing and\_Jobs"

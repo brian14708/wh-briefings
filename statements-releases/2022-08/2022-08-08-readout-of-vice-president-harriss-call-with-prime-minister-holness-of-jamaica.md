@@ -1,7 +1,7 @@
 ---
 date: '2022-08-08'
 published_time: 2022-08-08 21:05:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/08/readout-of-vice-president-harriss-call-with-prime-minister-holness-of-jamaica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/08/readout-of-vice-president-harriss-call-with-prime-minister-holness-of-jamaica/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Prime Minister Holness of\
   \ Jamaica"

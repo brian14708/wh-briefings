@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2021-01-20'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/reinstating-deferred-enforced-departure-for-liberians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/reinstating-deferred-enforced-departure-for-liberians/
 published_time: 2021-01-20 22:42:15-05:00
 title: "Reinstating Deferred Enforced Departure for\_Liberians"
 ---

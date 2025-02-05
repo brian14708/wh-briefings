@@ -1,7 +1,7 @@
 ---
 date: '2023-01-25'
 published_time: 2023-01-25 13:36:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/25/background-press-call-by-senior-administration-officials-on-u-s-support-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/25/background-press-call-by-senior-administration-officials-on-u-s-support-to-ukraine/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on U.S. Support to\_\
   Ukraine"

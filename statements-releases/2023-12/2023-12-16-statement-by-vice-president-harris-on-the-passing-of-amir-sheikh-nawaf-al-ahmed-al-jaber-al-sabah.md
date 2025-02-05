@@ -2,7 +2,7 @@
 date: '2023-12-16'
 modified_time: 2023-12-16 15:45:16-05:00
 published_time: 2023-12-16 15:43:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/16/statement-by-vice-president-harris-on-the-passing-of-amir-sheikh-nawaf-al-ahmed-al-jaber-al-sabah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/16/statement-by-vice-president-harris-on-the-passing-of-amir-sheikh-nawaf-al-ahmed-al-jaber-al-sabah/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Passing of Amir Sheikh Nawaf\
   \ Al-Ahmed Al-Jaber\_Al-Sabah"

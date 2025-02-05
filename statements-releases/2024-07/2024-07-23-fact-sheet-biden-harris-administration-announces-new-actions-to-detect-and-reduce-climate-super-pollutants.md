@@ -2,7 +2,7 @@
 date: '2024-07-23'
 modified_time: 2024-07-23 15:26:52-04:00
 published_time: 2024-07-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/23/fact-sheet-biden-harris-administration-announces-new-actions-to-detect-and-reduce-climate-super-pollutants/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/23/fact-sheet-biden-harris-administration-announces-new-actions-to-detect-and-reduce-climate-super-pollutants/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Detect\
   \ and Reduce Climate Super\_Pollutants"
@@ -21,7 +21,7 @@ Since Day One in office, President Biden has taken historic action to
 dramatically reduce U.S. and global super pollutant emissions. For
 example, domestically the Biden-Harris administration is implementing
 the November 2021 [U.S. Methane Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
 that takes a whole-of-government approach to cut consumer costs, protect
 workers and communities, maintain and create high-quality,
 union-friendly jobs, and promote U.S. innovation and manufacturing of
@@ -193,7 +193,7 @@ abroad.
 
 -   In 2023, the Biden-Harris Administration took [nearly 100 actions to
     dramatically reduce methane
-    emissions](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
+    emissions](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
     under the **U.S. Methane Emissions Reduction Action Plan**. These
     actions included plugging leaks and regulating emissions in the oil
     and gas sector, reclaiming abandoned coal mines, reducing food waste
@@ -286,18 +286,18 @@ abroad.
     source emissions through the [**2023 National Strategy to Advance an
     Integrated U.S. Greenhouse Gas Measurement, Monitoring and
     Information
-    System**](https://www.whitehouse.gov/wp-content/uploads/2023/11/NationalGHGMMISStrategy-2023.pdf).
+    System**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/NationalGHGMMISStrategy-2023.pdf).
 
 **International highlights include:**
 
 -   At COP26 in Glasgow, alongside European Commission President von der
     Leyen, **President Biden**
-    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/)
     the Global Methane Pledge, which now has 157 countries committed to
     the global goal of reducing methane 30 percent by 2030.
 -   At the Major Economies Forum in 2022, President Biden unveiled the
     [**Methane Finance
-    Sprint**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/),
+    Sprint**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/),
     which catalyzed over $1 billion in new grant funding in 2023 to help
     developing countries reduce methane across sectors.
 -   After the successful ratification of the Kigali Amendment, the Biden

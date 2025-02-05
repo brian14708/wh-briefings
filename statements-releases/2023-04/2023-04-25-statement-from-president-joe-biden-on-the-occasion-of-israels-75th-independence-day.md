@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 13:21:30-04:00
 published_time: 2023-04-25 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/statement-from-president-joe-biden-on-the-occasion-of-israels-75th-independence-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/statement-from-president-joe-biden-on-the-occasion-of-israels-75th-independence-day/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of Israel\u2019s 75th\
   \ Independence\_Day"

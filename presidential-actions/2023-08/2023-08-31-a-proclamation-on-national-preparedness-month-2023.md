@@ -2,7 +2,7 @@
 date: '2023-08-31'
 modified_time: 2023-08-31 12:21:28-04:00
 published_time: 2023-08-31 12:18:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/31/a-proclamation-on-national-preparedness-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/31/a-proclamation-on-national-preparedness-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Preparedness Month,\_2023"
 ---

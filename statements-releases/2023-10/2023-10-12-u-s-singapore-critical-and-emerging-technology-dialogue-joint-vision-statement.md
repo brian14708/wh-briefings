@@ -1,7 +1,7 @@
 ---
 date: '2023-10-12'
 published_time: 2023-10-12 22:42:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/u-s-singapore-critical-and-emerging-technology-dialogue-joint-vision-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/u-s-singapore-critical-and-emerging-technology-dialogue-joint-vision-statement/
 tags: statements-releases
 title: "U.S.-Singapore Critical and Emerging Technology Dialogue: Joint Vision\_Statement"
 ---

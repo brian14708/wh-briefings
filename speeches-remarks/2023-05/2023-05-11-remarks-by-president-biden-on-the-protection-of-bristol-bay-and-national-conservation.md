@@ -1,7 +1,7 @@
 ---
 date: '2023-05-11'
 published_time: 2023-05-11 20:10:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Protection of Bristol Bay and National\_\
   Conservation"

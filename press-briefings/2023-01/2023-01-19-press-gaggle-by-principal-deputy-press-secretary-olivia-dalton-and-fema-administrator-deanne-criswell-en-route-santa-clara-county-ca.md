@@ -1,7 +1,7 @@
 ---
 date: '2023-01-19'
 published_time: 2023-01-19 16:36:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/19/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-fema-administrator-deanne-criswell-en-route-santa-clara-county-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/19/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-fema-administrator-deanne-criswell-en-route-santa-clara-county-ca/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and FEMA Administrator\
   \ Deanne Criswell En Route Santa Clara County,\_CA"

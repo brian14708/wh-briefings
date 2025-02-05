@@ -1,7 +1,7 @@
 ---
 date: '2024-01-25'
 published_time: 2024-01-25 09:59:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/statement-from-president-joe-biden-on-fourth-quarter-2023-gdp-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/statement-from-president-joe-biden-on-fourth-quarter-2023-gdp-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Fourth Quarter 2023 GDP\_Report"
 ---

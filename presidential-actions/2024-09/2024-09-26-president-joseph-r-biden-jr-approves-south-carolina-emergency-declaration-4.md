@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 22:07:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/26/president-joseph-r-biden-jr-approves-south-carolina-emergency-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/26/president-joseph-r-biden-jr-approves-south-carolina-emergency-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves South Carolina Emergency\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-19 09:33:36-04:00
 published_time: 2023-09-19 09:33:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/excerpts-of-remarks-as-prepared-for-delivery-by-president-joe-biden-at-the-78th-united-nations-general-assembly/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/excerpts-of-remarks-as-prepared-for-delivery-by-president-joe-biden-at-the-78th-united-nations-general-assembly/
 tags: speeches-remarks
 title: "Excerpts of Remarks as Prepared for Delivery by President Joe\_Biden at the\
   \ 78th United Nations General\_Assembly"

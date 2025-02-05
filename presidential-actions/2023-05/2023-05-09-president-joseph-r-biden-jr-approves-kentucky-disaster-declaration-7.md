@@ -1,7 +1,7 @@
 ---
 date: '2023-05-09'
 published_time: 2023-05-09 13:08:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/09/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-7/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Kentucky Disaster\_Declaration"
 ---

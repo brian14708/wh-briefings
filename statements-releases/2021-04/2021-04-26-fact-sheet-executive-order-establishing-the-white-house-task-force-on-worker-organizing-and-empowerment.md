@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-26'
 modified_time: 2021-04-26 12:02:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/
 published_time: 2021-04-26 12:02:21-04:00
 title: "FACT SHEET:  Executive Order Establishing the White\_House Task Force on Worker\
   \ Organizing and\_Empowerment"
@@ -72,7 +72,7 @@ government.
 The Administration has already taken a number of steps to empower
 workers to organize. It has [endorsed the Protecting the Rights to
 Organize (PRO)
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/09/statement-by-president-joe-biden-on-the-house-taking-up-the-pro-act/) and
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/09/statement-by-president-joe-biden-on-the-house-taking-up-the-pro-act/) and
 other labor law reform bills, issued Executive Orders restoring
 collective bargaining in the federal sector, and rescued the hard-earned
 pensions for millions of Americans through the American Rescue Plan.

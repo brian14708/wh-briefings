@@ -1,7 +1,7 @@
 ---
 date: '2024-04-13'
 published_time: 2024-04-13 21:43:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/13/president-joseph-r-biden-jr-approves-oregon-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/13/president-joseph-r-biden-jr-approves-oregon-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Oregon Disaster\_Declaration"
 ---

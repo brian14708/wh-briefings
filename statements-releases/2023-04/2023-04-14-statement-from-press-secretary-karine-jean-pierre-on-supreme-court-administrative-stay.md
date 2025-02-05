@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 18:40:52-04:00
 published_time: 2023-04-14 18:40:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/statement-from-press-secretary-karine-jean-pierre-on-supreme-court-administrative-stay/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/statement-from-press-secretary-karine-jean-pierre-on-supreme-court-administrative-stay/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Supreme Court Administrative\_\
   Stay"

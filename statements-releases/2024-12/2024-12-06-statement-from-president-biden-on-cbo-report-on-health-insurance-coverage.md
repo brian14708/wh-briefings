@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-06 17:05:49-05:00
 published_time: 2024-12-06 17:05:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-biden-on-cbo-report-on-health-insurance-coverage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-biden-on-cbo-report-on-health-insurance-coverage/
 tags: statements-releases
 title: "Statement from President\_Biden on CBO Report on Health Insurance\_Coverage"
 ---

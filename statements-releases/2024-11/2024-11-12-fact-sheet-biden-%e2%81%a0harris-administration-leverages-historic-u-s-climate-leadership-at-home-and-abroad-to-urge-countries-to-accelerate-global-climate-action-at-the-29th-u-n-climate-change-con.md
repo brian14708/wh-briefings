@@ -2,7 +2,7 @@
 date: '2024-11-12'
 modified_time: 2024-11-12 18:52:06-05:00
 published_time: 2024-11-12 18:52:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-biden-%e2%81%a0harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-the-29th-u-n-climate-change-con/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-biden-%e2%81%a0harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-the-29th-u-n-climate-change-con/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Leverages Historic U.S. Climate\
   \ Leadership at Home and Abroad to Urge Countries to Accelerate Global Climate Action\
@@ -61,7 +61,7 @@ enhance their climate ambition.
 At COP29, the U.S. delegation will promote U.S. efforts to seize the
 economic opportunities of the clean energy transition, address the risks
 climate change [poses to our national
-security](https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/20/a-u-s-framework-for-climate-resilience-and-security/?),
+security](https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/20/a-u-s-framework-for-climate-resilience-and-security/?),
 and accelerate climate action in this decisive decade.  Key
 announcements include:
 
@@ -74,7 +74,7 @@ announcements include:
       
 -   **Accelerating Global Climate Action to Keep the 1.5°C Goal Within
     Reach** – by [driving progress on reducing
-    methane](https://www.whitehouse.gov/wp-content/uploads/2024/11/US-Methane-Action-Plan-2024-Update.pdf)
+    methane](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/US-Methane-Action-Plan-2024-Update.pdf)
     and other high-impact non-carbon dioxide (CO<sub>2</sub>) greenhouse
     gas (GHG) emissions (“super pollutants”) at a COP29 Summit on
     Methane and Non-CO2 GHGs alongside China and Azerbaijan and
@@ -121,7 +121,7 @@ announcements include:
 -   **Advancing Women’s and Girls’ Leadership in Tackling the Climate
     Crisis** – by announcing new investments to support the [Women in
     the Sustainable Economy (WISE)
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/),
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/),
     a public-private partnership launched by Vice President Harris in
     2023 through which the United States has galvanized over $2 billion
     in commitments by governments, private sector companies,
@@ -147,7 +147,7 @@ announcements include:
     CO2-equivalent by 2035, with cumulative climate benefits of up to $2
     billion. Today’s final rule is just [one of more than 100 actions
     that U.S. Federal agencies have taken in 2024
-    alone](https://www.whitehouse.gov/wp-content/uploads/2024/11/US-Methane-Action-Plan-2024-Update.pdf)
+    alone](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/US-Methane-Action-Plan-2024-Update.pdf)
     to sharply reduce methane emissions under the U.S. Methane Emissions
     Reduction Action Plan, helping to deliver on the Global Methane
     Pledge. U.S. actions this year have included plugging leaks and
@@ -175,7 +175,7 @@ announcements include:
     are part of “[*Safely and Responsibly Expanding U.S. Nuclear Energy
     to Tackle the Climate Crisis and Invest in America: Deployment
     Targets and* *a Framework for
-    Action*](https://www.whitehouse.gov/ostp/news-updates/2024/11/12/biden-%e2%81%a0harris-administration-establishes-bold-u-s-government-targets-for-safely-and-responsibly-expanding-u-s-nuclear-energy-and-announces-framework-for-action-to-achieve-these-targets/)”
+    Action*](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/11/12/biden-%e2%81%a0harris-administration-establishes-bold-u-s-government-targets-for-safely-and-responsibly-expanding-u-s-nuclear-energy-and-announces-framework-for-action-to-achieve-these-targets/)”
     that establishes a set of guiding principles for successfully
     scaling up nuclear energy in the United States in a manner that
     advances core values and commitments—including ensuring public
@@ -232,7 +232,7 @@ announcements include:
 
 -   **Releasing a National Marine Carbon Dioxide Removal Research
     Strategy** – Today, the White House is releasing a [new national
-    strategy](https://www.whitehouse.gov/ostp/news-updates/2024/11/12/white-house-office-of-science-and-technology-policy-releases-national-marine-carbon-dioxide-removal-research-strategy/)
+    strategy](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/11/12/white-house-office-of-science-and-technology-policy-releases-national-marine-carbon-dioxide-removal-research-strategy/)
     to advance research on the benefits, risks, and tradeoffs associated
     with marine carbon dioxide removal, a set of innovative technologies
     that could help address the climate crisis in concert with
@@ -242,7 +242,7 @@ announcements include:
     additional research to determine if it is a safe and effective
     climate tool.  The strategy, which responds to a key objective of
     the [Ocean Climate Action
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
     provides recommendations to guide accountable research, ensure
     community engagement, and clarify the regulatory process for
     scientific researchers.
@@ -308,7 +308,7 @@ United States announced progress in each of these key areas, including:
 -   **Implementing and expanding the effort to triple nuclear energy**
     –by co-leading a coalition of countries working to [advance the
     global goal of tripling nuclear energy capacity from 2020 levels by
-    2050](https://www.whitehouse.gov/ostp/news-updates/2024/11/12/biden-%e2%81%a0harris-administration-establishes-bold-u-s-government-targets-for-safely-and-responsibly-expanding-u-s-nuclear-energy-and-announces-framework-for-action-to-achieve-these-targets/),
+    2050](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/11/12/biden-%e2%81%a0harris-administration-establishes-bold-u-s-government-targets-for-safely-and-responsibly-expanding-u-s-nuclear-energy-and-announces-framework-for-action-to-achieve-these-targets/),
     including by setting an example that shows how the United States
     will do its part, by establishing 2050 and nearer-term domestic
     nuclear energy deployment targets and outlining a Framework for
@@ -465,9 +465,9 @@ the United States significantly scaled** **up our climate finance – from
 $1.5 billion in FY21 to over** **$9.5 billion in FY23, a more than
 sixfold increase. ** These actions build on domestic efforts to catalyze
 investments in game-changing [climate
-mitigation](https://www.whitehouse.gov/ostp/news-updates/2022/11/18/raising-ambition-for-a-rapid-and-just-net-zero-transition-with-game-changing-innovations/)
+mitigation](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/11/18/raising-ambition-for-a-rapid-and-just-net-zero-transition-with-game-changing-innovations/)
 and [climate
-resilience](https://www.whitehouse.gov/ceq/news-updates/2024/07/25/catalyzing-american-innovation-in-climate-resilience/)
+resilience](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/07/25/catalyzing-american-innovation-in-climate-resilience/)
 innovations.  At COP29, the Biden-Harris Administration is announcing
 new efforts to mobilize investment at the speed and scale the climate
 crisis requires, including:

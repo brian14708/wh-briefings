@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-13 16:00:12-04:00
 published_time: 2023-09-13 16:00:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-biden-harris-administration-celebrates-the-twenty-ninth-anniversary-of-the-violence-against-women-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-biden-harris-administration-celebrates-the-twenty-ninth-anniversary-of-the-violence-against-women-act/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates the Twenty-Ninth\
   \ Anniversary of the Violence Against Women\_Act"
@@ -16,9 +16,9 @@ preventing and addressing gender-based violence has remained a
 cornerstone of his career—from the initial passage of VAWA twenty-nine
 years ago to, in 2023 alone, implementing historic [bipartisan military
 justice
-reform](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) and
+reform](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) and
 issuing the first-ever [U.S. National
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf) to
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf) to
 End Gender-Based Violence.  
   
 Since he first championed VAWA in 1994, President Biden has worked
@@ -29,7 +29,7 @@ efforts, and inspire social change that will ensure all people are able
 to live free from violence.  
   
 Most recently, President Biden signed the [VAWA Reauthorization Act of
-2022](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/) and
+2022](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/) and
 secured the highest-ever funding level for VAWA implementation. Over the
 last year, the Biden-Harris Administration has worked to implement
 changes that were passed as part of the VAWA Reauthorization Act of 2022
@@ -75,10 +75,10 @@ by:
      
 -   **Addressing online harassment and abuse and combatting
     cybercrimes.  **Complementing the
-    Administration’s [efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/) to
+    Administration’s [efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/) to
     promote online safety through the [Task Force to Address Online
     Harassment and
-    Abuse](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
+    Abuse](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
     the bipartisan year-end omnibus allocated $8 million to implement
     initiatives addressing cybercrimes, including two programs newly
     authorized by the VAWA Reauthorization Act of 2022.   
@@ -95,7 +95,7 @@ by:
         will work to raise awareness through United States Attorneys’
         Offices about the new federal civil cause of action for the
         non-consensual distribution of [intimate
-        images](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/readout-of-white-house-state-legislative-convening-on-non-consensually-distributed-intimate-images/),
+        images](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/readout-of-white-house-state-legislative-convening-on-non-consensually-distributed-intimate-images/),
         passed into law in VAWA 2022.  
          
 -   **Promoting prevention and strengthening services for survivors of
@@ -119,7 +119,7 @@ by:
     gun violence, and established a historic restorative justice grant
     program, offering survivors alternative approaches to healing and
     justice. President
-    Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/14/fact-sheet-president-biden-announces-13-new-actions-to-reduce-gun-violence-by-maximizing-the-benefits-of-the-bipartisan-safer-communities-act/) the
+    Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/14/fact-sheet-president-biden-announces-13-new-actions-to-reduce-gun-violence-by-maximizing-the-benefits-of-the-bipartisan-safer-communities-act/) the
     Bipartisan Safer Communities Act, which narrowed the “boyfriend
     loophole” by helping to keep guns out of the hands of domestic
     abusers. DOJ is training federal law enforcement and educating state

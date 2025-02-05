@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-14 15:03:37-05:00
 published_time: 2023-12-14 15:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-10-year-partnership-with-tribes-and-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-i/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-10-year-partnership-with-tribes-and-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-i/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces 10-Year Partnership\
   \ with Tribes and States to Restore Wild Salmon, Expand Clean Energy Production,\
@@ -23,7 +23,7 @@ recognizing the important benefits that the Columbia River System
 provides to communities and businesses throughout the region. Building
 on two years of regional engagement, in September President
 Biden [directed Federal
-agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-president-biden-takes-action-to-restore-healthy-and-abundant-wild-salmon-and-steelhead-in-the-columbia-river-basin/)
+agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-president-biden-takes-action-to-restore-healthy-and-abundant-wild-salmon-and-steelhead-in-the-columbia-river-basin/)
 to prioritize the restoration of healthy and abundant salmon, steelhead,
 and other native fish populations in the Columbia River Basin. Today’s
 agreement, when combined with other funding that the Administration is

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-20'
 published_time: 2022-09-20 17:16:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/statement-by-president-joe-biden-on-the-itu-secretary-general-candidacy-of-doreen-bogdan-martin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/statement-by-president-joe-biden-on-the-itu-secretary-general-candidacy-of-doreen-bogdan-martin/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the ITU Secretary General Candidacy of\
   \ Doreen\_Bogdan-Martin"

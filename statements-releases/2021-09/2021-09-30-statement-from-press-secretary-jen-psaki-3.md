@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-30'
 modified_time: 2021-09-30 22:55:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/30/statement-from-press-secretary-jen-psaki-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/30/statement-from-press-secretary-jen-psaki-3/
 published_time: 2021-09-30 22:55:32-04:00
 title: "Statement from Press Secretary Jen\_Psaki"
 ---

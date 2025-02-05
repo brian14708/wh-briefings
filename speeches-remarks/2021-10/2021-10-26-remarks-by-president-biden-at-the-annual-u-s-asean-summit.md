@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-10-26'
 modified_time: 2021-10-26 11:16:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/26/remarks-by-president-biden-at-the-annual-u-s-asean-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/10/26/remarks-by-president-biden-at-the-annual-u-s-asean-summit/
 published_time: 2021-10-26 11:16:24-04:00
 title: "Remarks by President\_Biden at the Annual U.S.-ASEAN\_Summit"
 ---

@@ -2,7 +2,7 @@
 date: '2023-05-26'
 modified_time: 2023-05-31 10:41:59-04:00
 published_time: 2023-05-26 08:56:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/26/what-they-are-saying-bipartisan-state-and-local-leaders-faith-based-organizations-and-advocates-applaud-release-of-white-house-national-strategy-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/26/what-they-are-saying-bipartisan-state-and-local-leaders-faith-based-organizations-and-advocates-applaud-release-of-white-house-national-strategy-to-counter-antisemitism/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Bipartisan Members of Congress, State and Local Leaders,\
   \ Faith-Based Organizations, and Advocates Applaud Release of White\_House National\

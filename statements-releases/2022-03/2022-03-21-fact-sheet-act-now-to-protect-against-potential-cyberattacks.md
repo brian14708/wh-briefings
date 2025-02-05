@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-21'
 modified_time: 2022-03-22 16:13:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/
 published_time: 2022-03-21 14:00:00-04:00
 title: "FACT SHEET: Act Now to Protect Against Potential\_Cyberattacks"
 ---

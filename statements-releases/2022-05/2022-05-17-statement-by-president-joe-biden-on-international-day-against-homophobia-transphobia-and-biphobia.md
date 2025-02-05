@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-16 22:46:40-04:00
 published_time: 2022-05-17 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/statement-by-president-joe-biden-on-international-day-against-homophobia-transphobia-and-biphobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/statement-by-president-joe-biden-on-international-day-against-homophobia-transphobia-and-biphobia/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on International Day Against Homophobia,\
   \ Transphobia and\_Biphobia"

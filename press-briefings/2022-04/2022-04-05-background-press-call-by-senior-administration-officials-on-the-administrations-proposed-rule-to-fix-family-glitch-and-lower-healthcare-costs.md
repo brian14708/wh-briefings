@@ -1,7 +1,7 @@
 ---
 date: '2022-04-05'
 published_time: 2022-04-05 08:21:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/05/background-press-call-by-senior-administration-officials-on-the-administrations-proposed-rule-to-fix-family-glitch-and-lower-healthcare-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/05/background-press-call-by-senior-administration-officials-on-the-administrations-proposed-rule-to-fix-family-glitch-and-lower-healthcare-costs/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Administration\u2019\
   s Proposed Rule to Fix \u201CFamily Glitch\u201D and Lower Healthcare\_Costs"

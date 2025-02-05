@@ -1,7 +1,7 @@
 ---
 date: '2022-10-20'
 published_time: 2022-10-20 11:14:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/20/statement-by-nsc-spokesperson-adrienne-watson-on-the-biden-harris-administrations-effort-to-secure-household-internet-enabled-devices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/20/statement-by-nsc-spokesperson-adrienne-watson-on-the-biden-harris-administrations-effort-to-secure-household-internet-enabled-devices/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the Biden-\u2060Harris Administration\u2019\
   s Effort to Secure Household Internet-Enabled\_Devices"
@@ -31,7 +31,7 @@ work that has been pioneered by the private sector and the National
 Institute of Standards and Technology (NIST) to help build more secure
 Internet-connected devices. It also follows President Biden’s [Executive
 Order on Improving the Nation’s
-Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/),
+Cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/),
 which highlighted the need for improved IoT security and tasked NIST, in
 partnership with the Federal Trade Commission, to advance improved
 cybersecurity standards and standardized product labels for these

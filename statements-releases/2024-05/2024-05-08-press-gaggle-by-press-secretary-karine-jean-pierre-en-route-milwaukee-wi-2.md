@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-08 14:04:19-04:00
 published_time: 2024-05-08 14:04:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-milwaukee-wi-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-milwaukee-wi-2/
 tags: statements-releases
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Milwaukee,\_WI"
 ---

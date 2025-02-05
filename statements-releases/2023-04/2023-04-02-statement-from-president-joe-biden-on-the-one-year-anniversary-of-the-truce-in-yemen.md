@@ -2,7 +2,7 @@
 date: '2023-04-02'
 modified_time: 2023-04-02 10:34:17-04:00
 published_time: 2023-04-02 10:34:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/02/statement-from-president-joe-biden-on-the-one-year-anniversary-of-the-truce-in-yemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/02/statement-from-president-joe-biden-on-the-one-year-anniversary-of-the-truce-in-yemen/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the One-Year Anniversary of the Truce\
   \ in\_Yemen"

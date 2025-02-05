@@ -2,7 +2,7 @@
 date: '2022-10-19'
 modified_time: 2022-10-20 01:31:26-04:00
 published_time: 2022-10-19 21:58:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/readout-from-communities-in-action-building-a-better-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/readout-from-communities-in-action-building-a-better-georgia/
 tags: statements-releases
 title: "Readout from Communities in Action: Building A Better\_Georgia"
 ---

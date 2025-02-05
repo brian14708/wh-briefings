@@ -1,7 +1,7 @@
 ---
 date: '2023-09-28'
 published_time: 2023-09-28 22:18:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/readout-of-white-house-event-on-advancing-diversity-and-opportunity-in-higher-education/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/readout-of-white-house-event-on-advancing-diversity-and-opportunity-in-higher-education/
 tags: statements-releases
 title: "Readout of White\_House Event on Advancing Diversity and Opportunity in Higher\_\
   Education"

@@ -2,7 +2,7 @@
 date: '2023-08-16'
 modified_time: 2023-08-16 09:29:53-04:00
 published_time: 2023-08-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/
 tags: blog
 title: "The Economics of Public Investment Crowding in Private\_Investment"
 ---
@@ -15,15 +15,15 @@ President Biden’s economic vision—Bidenomics—is centered around making
 smart public investments, empowering and educating workers, and
 promoting fair competition to lower costs and help small businesses
 thrive. As described in a [recent
-report](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+report](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
 on the economic case for the first pillar of Bidenomics, Investing in
 America, this includes supporting critical sectors where private
 industry, on its own, has not made sufficient investments to meet our
 core economic and national security interests.
 
 Through comprehensive [supply
-chain](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
-[reviews](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/report-card-two-years-of-building-stronger-supply-chains-and-a-more-resilient-economy/)
+chain](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+[reviews](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/report-card-two-years-of-building-stronger-supply-chains-and-a-more-resilient-economy/)
 and an all-of-government strategy to combat the climate crisis, the
 Biden-Harris Administration has identified three areas that particularly
 need investment—infrastructure, semiconductors, and clean energy. In
@@ -104,10 +104,10 @@ developers, and financing institutions like banks or venture capital
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?w=640"
 class="wp-image-82079" decoding="async" loading="lazy"
 sizes="(max-width: 1950px) 100vw, 1950px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png 1950w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=615,415 615w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=768,518 768w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1270,856 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1536,1036 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=550,370 550w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=475,320 475w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=949,640 949w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1898,1280 1898w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1038,700 1038w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png 1950w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=615,415 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=768,518 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1270,856 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1536,1036 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=550,370 550w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=475,320 475w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=949,640 949w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1898,1280 1898w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=1038,700 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure1.png?resize=114,76 114w"
 width="1950" height="1315" />
 </figure>
 
@@ -136,10 +136,10 @@ chemicals, refining).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?w=640"
 class="wp-image-82080" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=615,416 615w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=768,520 768w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1270,859 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1536,1039 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=2048,1385 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=473,320 473w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=946,640 946w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1892,1280 1892w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1038,702 1038w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=615,416 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=768,520 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1270,859 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1536,1039 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=2048,1385 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=473,320 473w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=946,640 946w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1892,1280 1892w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=1038,702 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure2.png?resize=114,76 114w"
 width="2145" height="1451" />
 </figure>
 
@@ -157,7 +157,7 @@ A growing body of scholarship
 a positive role for public investments to mobilize private investments.
 This includes
 [economic](https://www.oecd-ilibrary.org/docserver/67d221b8-en.pdf?expires=1683610243&id=id&accname=ocid49017102b&checksum=17CC3D852BB7EC97166D32FC817CBD9D)
-[research](https://www.whitehouse.gov/cea/written-materials/2021/04/23/innovation-investment-and-inclusion-accelerating-the-energy-transition-and-creating-good-jobs/)
+[research](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/04/23/innovation-investment-and-inclusion-accelerating-the-energy-transition-and-creating-good-jobs/)
 that
 [has](https://www.sciencedirect.com/science/article/abs/pii/S0301421522003597)
 [shown](https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160225_cea_final_clean_energy_report.pdf)
@@ -229,7 +229,7 @@ experience all of the social benefits of their production. In these
 instances, government action, such as by lowering the cost of production
 for the firm, can correct the failure of the market to provide
 sufficient supply and improve overall
-[welfare](https://www.whitehouse.gov/wp-content/uploads/2022/04/ERP-2022.pdf).
+[welfare](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/ERP-2022.pdf).
 
 The President’s Investing in America agenda includes numerous
 intersecting investments to support increased supply of critical goods
@@ -237,7 +237,7 @@ that the market has underprovided. For example, it includes billions for
 facilities that remove, use, and store carbon; nuclear energy plants;
 the electrical grid; facilities that process battery materials; and
 more, through the [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/build/guidebook/).
+Law](https://bidenwhitehouse.archives.gov/build/guidebook/).
 
 Likewise, through the CHIPS and Science Act, the Department of Commerce
 now provides grants and other incentives to semiconductor companies to
@@ -257,7 +257,7 @@ effects](https://www.journals.uchicago.edu/doi/10.1086/719908) for the
 private sector, lowering costs for firms.
 
 Similarly, the Inflation Reduction Act includes [tax
-credits](https://www.whitehouse.gov/cleanenergy/clean-energy-tax-provisions/)
+credits](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-tax-provisions/)
 to support investment in and deployment of clean energy, including to
 manufacture components for clean energy, battery components, and
 critical minerals that private markets had underinvested in. The
@@ -281,7 +281,7 @@ cost-competitive.
 Other public investments function by sending a clear demand signal to
 the private sector, spurring private investments to meet the anticipated
 demand. For example, the Investing in America agenda includes [tax
-credits](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/)
+credits](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/)
 to increase consumer demand for electric vehicles and support
 energy-efficient upgrades to homes, including the installation of heat
 pumps or energy-efficient windows and doors. Likewise, the
@@ -298,7 +298,7 @@ instance, is working to leverage the $650 billion annual purchasing
 power of the federal government to build a market for low-carbon
 construction materials critical for reducing emissions from
 hard-to-abate sectors of the economy. [Twelve
-states](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/fact-sheet-biden-%e2%81%a0harris-administration-advances-cleaner-industrial-sector-to-boost-american-manufacturing-and-cut-emissions/)
+states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/fact-sheet-biden-%e2%81%a0harris-administration-advances-cleaner-industrial-sector-to-boost-american-manufacturing-and-cut-emissions/)
 have joined the Administration to launch a Federal-State Buy Clean
 Partnership to use their own purchasing power further advance the use of
 low-carbon construction materials.
@@ -306,7 +306,7 @@ low-carbon construction materials.
 Additionally, [domestic content
 bonuses](https://www.irs.gov/pub/irs-drop/n-23-38.pdf) in the
 legislation—along with the [Build America, Buy America
-act](https://www.whitehouse.gov/omb/management/made-in-america/build-america-buy-america-act-federal-financial-assistance/)—support
+act](https://bidenwhitehouse.archives.gov/omb/management/made-in-america/build-america-buy-america-act-federal-financial-assistance/)—support
 domestic manufacturing by increasing demand for inputs like iron and
 steel manufactured in the United States.
 
@@ -363,14 +363,14 @@ technical colleges, high schools, state and local governments, and
 others—to develop and invest in sector-based strategies for robust,
 equitable workforce development. For example, the Administration’s
 [Infrastructure Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
 garnered over 350 commitments to expand equitable workforce development
 in broadband, construction, and electrification. In parallel, the
 Administration has taken action to stand up high-quality [Registered
-Apprenticeship](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+Apprenticeship](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 and career and technical education programs. This is on top of other
 efforts to
-[connect](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[connect](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 workers and employers with quality training programs, centered in places
 that have seen significant public and private sector investments as a
 result of recent legislation.
@@ -433,7 +433,7 @@ requirements for domestic manufacturing of certain infrastructure
 inputs, and more. The Office of Clean Energy Demonstrations can provide
 financial assistance for first-of-a-kind commercial scale demonstrations
 that
-[prove](https://www.whitehouse.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
+[prove](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
 the technology works in real-world conditions and at scale. Similarly,
 the Loan Programs Office fills a key gap in the commercialization
 pathway by providing loans and loan guarantees to emerging clean energy
@@ -466,7 +466,7 @@ investments, which are being tracked by the [Department of
 Energy](https://www.energy.gov/investments-american-made-energy) for
 U.S. battery, solar, and off-shore wind manufacturing; in the White
 House tracking of [Investing in
-America](https://www.whitehouse.gov/invest/) progress; and by a
+America](https://bidenwhitehouse.archives.gov/invest/) progress; and by a
 [number](https://www.charged-the-book.com/) of 
 [private](https://www.americanprogress.org/article/investment-tracker/)
 [entities](https://www.bluegreenalliance.org/resources/clean-energy-supply-chain-analysis/).
@@ -482,7 +482,7 @@ manufacturing construction investment.
 
 These data point to a surge of private sector investment in related
 industries. There has been a wave of recent announced
-[commitments](https://www.whitehouse.gov/invest/) by businesses to
+[commitments](https://bidenwhitehouse.archives.gov/invest/) by businesses to
 invest in sectors targeted by Investing in America legislation. Since
 President Biden took office, companies have announced investments
 totaling $503 billion (Figure 3). These clean energy and manufacturing
@@ -496,10 +496,10 @@ manufacturing investments in the United States.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?w=640"
 class="wp-image-82081" decoding="async" loading="lazy"
 sizes="(max-width: 1306px) 100vw, 1306px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png 1306w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=615,508 615w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=768,634 768w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=1270,1048 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=388,320 388w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=775,640 775w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=1030,850 1030w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png 1306w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=615,508 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=768,634 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=1270,1048 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=388,320 388w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=775,640 775w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure3.png?resize=1030,850 1030w"
 width="1306" height="1078" />
 </figure>
 
@@ -531,10 +531,10 @@ tenfold increase since the President took office.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?w=640"
 class="wp-image-82083" decoding="async" loading="lazy"
 sizes="(max-width: 2161px) 100vw, 2161px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png 2161w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=615,455 615w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=768,568 768w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1270,940 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1536,1137 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=2048,1515 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=432,320 432w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=865,640 865w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1730,1280 1730w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1038,768 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png 2161w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=615,455 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=768,568 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1270,940 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1536,1137 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=2048,1515 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=432,320 432w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=865,640 865w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1730,1280 1730w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure4-1.png?resize=1038,768 1038w"
 width="2161" height="1599" />
 </figure>
 
@@ -545,14 +545,14 @@ p.p. to real GDP growth according to the Bureau of Economic Analysis’
 Advance Estimate (Figure 5). This contribution amounted to the largest
 contribution of investment in manufacturing structures to real GDP
 growth in more than [40
-years](https://www.whitehouse.gov/cea/written-materials/2023/07/27/the-advance-estimate-of-second-quarter-real-gdp/).
+years](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/27/the-advance-estimate-of-second-quarter-real-gdp/).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?w=640"
 class="wp-image-82084" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=615,440 615w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=768,549 768w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1270,908 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1536,1098 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=2048,1464 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=448,320 448w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=895,640 895w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1791,1280 1791w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1038,742 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=615,440 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=768,549 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1270,908 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1536,1098 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=2048,1464 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=448,320 448w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=895,640 895w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1791,1280 1791w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Crowding-in-Brief_Figure5.png?resize=1038,742 1038w"
 width="2145" height="1533" />
 </figure>
 
@@ -572,7 +572,7 @@ innovation,” particularly for batteries and energy efficiency.
 ## Conclusion
 
 As laid out in a recent [case
-paper](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/),
+paper](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/),
 Bidenomics makes targeted public investments in industries like
 semiconductors and clean energy that are critical for U.S. economic and
 national security. However, successfully building these industries in
@@ -584,12 +584,12 @@ private-sector investments. The early evidence suggests that the private
 sector is already responding to this agenda, with
 [rising](https://home.treasury.gov/news/featured-stories/unpacking-the-boom-in-us-construction-of-manufacturing-facilities)
 spending on construction of manufacturing facilities and over [$500
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 announced private investment since President Biden took office. Ongoing
 data collection and analysis will be necessary to continue tracking the
 progress of these major government investments.
 
 <a
-href="https://www.whitehouse.gov/wp-content/uploads/2023/08/The-Economics-of-Public-Investment-Crowding-in-Private-Investment_08162023_DOWNLOAD.pdf"
+href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/The-Economics-of-Public-Investment-Crowding-in-Private-Investment_08162023_DOWNLOAD.pdf"
 class="wp-block-file__button wp-element-button" download="">Download
 PDF</a>

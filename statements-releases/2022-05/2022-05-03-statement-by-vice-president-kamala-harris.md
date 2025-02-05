@@ -2,7 +2,7 @@
 date: '2022-05-03'
 modified_time: 2022-05-03 12:27:54-04:00
 published_time: 2022-05-03 12:27:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/03/statement-by-vice-president-kamala-harris/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/03/statement-by-vice-president-kamala-harris/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris"
 ---

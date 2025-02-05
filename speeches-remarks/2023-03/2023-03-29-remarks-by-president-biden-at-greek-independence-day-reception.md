@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 19:04:11-04:00
 published_time: 2023-03-29 19:04:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-at-greek-independence-day-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-at-greek-independence-day-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Greek Independence Day\_Reception"
 ---

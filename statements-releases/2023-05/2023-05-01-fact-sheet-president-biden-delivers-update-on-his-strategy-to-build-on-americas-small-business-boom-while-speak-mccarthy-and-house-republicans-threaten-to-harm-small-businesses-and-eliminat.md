@@ -2,7 +2,7 @@
 date: '2023-05-01'
 modified_time: 2023-05-01 14:26:01-04:00
 published_time: 2023-05-01 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-president-biden-delivers-update-on-his-strategy-to-build-on-americas-small-business-boom-while-speak-mccarthy-and-house-republicans-threaten-to-harm-small-businesses-and-eliminat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-president-biden-delivers-update-on-his-strategy-to-build-on-americas-small-business-boom-while-speak-mccarthy-and-house-republicans-threaten-to-harm-small-businesses-and-eliminat/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Delivers Update on His Strategy to Build on America\u2019\
   s Small Business Boom, while Speaker McCarthy and House Republicans Threaten to\
@@ -16,7 +16,7 @@ Today, in honor of National Small Business Week, President Biden is
 hosting small business award winners from all 50 states at the White
 House to celebrate their contributions to the dynamism and strength of
 the U.S. economy, and releasing a [report
-card](https://www.whitehouse.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
+card](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
 that highlights the small business boom taking hold as a result of the
 President’s small business agenda.  
   
@@ -25,7 +25,7 @@ to capital and leveraging billions in federal dollars from the Investing
 in America agenda, this new report card lays out how the Biden-Harris
 Administration has taken action to support small businesses.
 Additionally, the Council of Economic Advisers is releasing a [new
-analysis](https://www.whitehouse.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
+analysis](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
 that identifies the potential benefits to small businesses from the
 hundreds of billions being invested through the President’s Investing in
 America agenda.  
@@ -54,10 +54,10 @@ from all 50 states, the District of Columbia and Puerto Rico at the
 White House and announce the following:
 
 -   **A new [Small Business Report
-    Card](https://www.whitehouse.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
+    Card](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
     demonstrating across-the-board progress**. Released in April 2022,
     the [Biden-Harris Small Business
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf)
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf)
     laid out 35 initiatives designed to maintain the nation’s historic
     momentum in fostering new business creation. The report card shows
     significant progress on all 35 initiatives, including delivering

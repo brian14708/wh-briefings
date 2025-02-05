@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-12 22:40:25-04:00
 published_time: 2024-09-13 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/13/statement-from-vice-president-kamala-harris-on-the-30th-anniversary-of-the-violence-against-women-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/13/statement-from-vice-president-kamala-harris-on-the-30th-anniversary-of-the-violence-against-women-act/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the 30th Anniversary of the\
   \ Violence Against Women\_Act"

@@ -2,7 +2,7 @@
 date: '2023-05-09'
 modified_time: 2023-05-09 22:08:04-04:00
 published_time: 2023-05-09 21:51:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/09/remarks-by-president-biden-on-debt-ceiling-negotiations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/09/remarks-by-president-biden-on-debt-ceiling-negotiations/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Meeting with Congressional\_Leaders"
 ---

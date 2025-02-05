@@ -2,15 +2,15 @@
 date: '2023-07-31'
 modified_time: 2023-07-31 12:56:20-04:00
 published_time: 2023-07-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-national-cyber-workforce-and-education-strategy-unleashing-americas-cyber-talent/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-national-cyber-workforce-and-education-strategy-unleashing-americas-cyber-talent/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces National Cyber Workforce\
   \ and Education Strategy, Unleashing America\u2019s Cyber\_Talent"
 ---
  
 <a
-href="https://www.whitehouse.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf"
-data-id="https://www.whitehouse.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf"
+href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf"
+data-id="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf"
 data-type="URL">Read the full strategy here </a>
 
 Today, the Biden-Harris Administration unveiled the National Cyber
@@ -673,7 +673,7 @@ Administration’s implementation  of this Strategy is already underway.  
 
 To learn more about the strategy and ongoing efforts by our stakeholders
 – including educators,  industry, and government – visit <a
-href="https://www.whitehouse.gov/oncd/preparing-our-country-for-a-cyber-future/"
+href="https://bidenwhitehouse.archives.gov/oncd/preparing-our-country-for-a-cyber-future/"
 data-id="81369" data-type="eop_oncd">WhiteHouse.gov/cyberworkforce</a>. 
 
 \###

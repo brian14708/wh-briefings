@@ -2,19 +2,19 @@
 date: '2023-07-13'
 modified_time: 2023-07-13 07:44:38-04:00
 published_time: 2023-07-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/fact-sheet-biden-harrisadministration-publishes-thenational-cybersecurity-strategyimplementation-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/fact-sheet-biden-harrisadministration-publishes-thenational-cybersecurity-strategyimplementation-plan/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Publishes the National Cybersecurity\
   \ Strategy Implementation\_Plan"
 ---
  
 **[*Read the full Implementation Plan
-here*](https://www.whitehouse.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf)**
+here*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/National-Cybersecurity-Strategy-Implementation-Plan-WH.gov_.pdf)**
 
 President Biden has made clear that all Americans deserve the full
 benefits and potential of our digital future. The Biden-Harris
 Administration’s recently released [National Cybersecurity
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) calls
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) calls
 for two fundamental shifts in how the United States allocates roles,
 responsibilities, and resources in cyberspace:
 
@@ -40,7 +40,7 @@ manufacturing base.
 Each NCSIP initiative is assigned to a responsible agency and has a
 timeline for completion. Some initiatives, such as the issuance of
 the [Administration’s Cybersecurity Priorities for the Fiscal Year 2025
-Budget](https://www.whitehouse.gov/wp-content/uploads/2023/06/M-23-18-Administration-Cybersecurity-Priorities-for-the-FY-2025-Budget-s.pdf),
+Budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/M-23-18-Administration-Cybersecurity-Priorities-for-the-FY-2025-Budget-s.pdf),
 have been completed ahead of schedule. Other completed activities, such
 as the transmittal of the May 26th [Department of Defense 2023 Cyber
 Strategy](https://media.defense.gov/2023/May/26/2003231006/-1/-1/1/2023-DOD-CYBER-STRATEGY-FACT-SHEET.PDF) to

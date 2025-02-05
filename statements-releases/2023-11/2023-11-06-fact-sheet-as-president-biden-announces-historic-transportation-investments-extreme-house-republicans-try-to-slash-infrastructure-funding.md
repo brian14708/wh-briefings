@@ -2,7 +2,7 @@
 date: '2023-11-06'
 modified_time: 2023-11-05 21:57:58-05:00
 published_time: 2023-11-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-as-president-biden-announces-historic-transportation-investments-extreme-house-republicans-try-to-slash-infrastructure-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-as-president-biden-announces-historic-transportation-investments-extreme-house-republicans-try-to-slash-infrastructure-funding/
 tags: statements-releases
 title: "FACT SHEET: As President\_Biden Announces Historic Transportation Investments,\
   \ Extreme House Republicans Try to Slash Infrastructure\_Funding"
@@ -24,7 +24,7 @@ urban and rural—and undermining American infrastructure with an
 appropriations bill that guts funding for Amtrak and makes draconian
 cuts to transportation and infrastructure programs. As outlined in a
 [Statement of Administration
-Policy](https://www.whitehouse.gov/wp-content/uploads/2023/10/H.R.-4820-Transportation-Housing-and-Urban-Development-and-Related-Agencies-Appropriations-Act-2024-Final.pdf),
+Policy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/H.R.-4820-Transportation-Housing-and-Urban-Development-and-Related-Agencies-Appropriations-Act-2024-Final.pdf),
 the President would veto this extreme bill that would slash support for
 infrastructure in communities across the country, while at the same time
 adding billions to the deficit with give-aways to wealthy tax cheats.  
@@ -32,13 +32,13 @@ adding billions to the deficit with give-aways to wealthy tax cheats.
 Extreme House Republicans’ bill to defund infrastructure is just the
 latest example of their brutal cuts that would hurt the American
 people—following failed attempts to cut investments in infrastructure
-in [March](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-endangers-public-safety/),
-[May](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/state-fact-sheets-maga-house-republicans-default-on-america-act-would-have-devastating-impacts-across-america/),
-[June](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/statement-from-press-secretary-karine-jean-pierre-on-republican-study-committee-budget/),
+in [March](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-endangers-public-safety/),
+[May](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/02/state-fact-sheets-maga-house-republicans-default-on-america-act-would-have-devastating-impacts-across-america/),
+[June](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/statement-from-press-secretary-karine-jean-pierre-on-republican-study-committee-budget/),
 and
-[September](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/by-the-numbers-impacts-of-extreme-house-republicans-30-cuts/)
+[September](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/by-the-numbers-impacts-of-extreme-house-republicans-30-cuts/)
 and to
-[eliminate](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
+[eliminate](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
 hundreds of border patrol officers and tens of thousands of Head Start
 slots for kids. Rather than putting forward these devastating cuts,
 House Republicans need to follow the lead of the Senate and get to work

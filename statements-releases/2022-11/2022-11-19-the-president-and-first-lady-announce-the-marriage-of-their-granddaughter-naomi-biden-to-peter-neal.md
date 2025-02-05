@@ -1,7 +1,7 @@
 ---
 date: '2022-11-19'
 published_time: 2022-11-19 15:29:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/19/the-president-and-first-lady-announce-the-marriage-of-their-granddaughter-naomi-biden-to-peter-neal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/19/the-president-and-first-lady-announce-the-marriage-of-their-granddaughter-naomi-biden-to-peter-neal/
 tags: statements-releases
 title: "The President and First Lady Announce the Marriage of their Granddaughter\
   \ Naomi Biden to Peter\_Neal"

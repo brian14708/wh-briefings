@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 11:24:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/trilateral-national-security-advisors-statement-on-the-democratic-peoples-republic-of-koreas-missile-launches/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/trilateral-national-security-advisors-statement-on-the-democratic-peoples-republic-of-koreas-missile-launches/
 tags: statements-releases
 title: "Trilateral National Security Advisors Statement on the Democratic People\u2019\
   s Republic of Korea\u2019s Missile\_Launches"

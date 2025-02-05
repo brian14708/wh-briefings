@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 21:42:34-04:00
 published_time: 2022-09-15 21:42:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/15/remarks-by-president-biden-on-reaching-a-tentative-railway-labor-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/15/remarks-by-president-biden-on-reaching-a-tentative-railway-labor-agreement/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Reaching a Tentative Railway Labor\_Agreement"
 ---

@@ -2,7 +2,7 @@
 date: '2024-03-23'
 modified_time: 2024-03-25 10:22:14-04:00
 published_time: 2024-03-23 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/23/remarks-by-vice-president-harris-on-gun-violence-prevention-while-at-marjory-stoneman-douglas-high-school-parkland-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/23/remarks-by-vice-president-harris-on-gun-violence-prevention-while-at-marjory-stoneman-douglas-high-school-parkland-fl/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Highlighting Historic Gun Safety Measures\
   \ | Parkland,\_FL"

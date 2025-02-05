@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 18:09:12-05:00
 published_time: 2024-12-02 18:09:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/statement-from-national-security-advisor-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/statement-from-national-security-advisor-jake-sullivan/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake\_Sullivan"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-10'
 published_time: 2024-07-10 09:16:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/10/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/10/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-7/
 tags: presidential-actions
 title: "A Proclamation on Adjusting Imports of Steel Into the United\_States"
 ---

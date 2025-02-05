@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 23:55:15-04:00
 published_time: 2023-09-08 23:43:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/08/president-joseph-r-biden-jr-amends-hawaii-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/08/president-joseph-r-biden-jr-amends-hawaii-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Hawaii Disaster\_Declaration"
 ---

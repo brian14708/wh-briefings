@@ -2,7 +2,7 @@
 date: '2023-04-19'
 modified_time: 2023-04-19 17:08:34-04:00
 published_time: 2023-04-19 17:08:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/19/remarks-by-vice-president-harris-in-a-moderated-conversation-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/19/remarks-by-vice-president-harris-in-a-moderated-conversation-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation on Reproductive\_\
   Rights"

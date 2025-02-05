@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 17:32:49-04:00
 published_time: 2022-05-12 17:32:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-u-s-asean-special-summit-in-washington-dc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-u-s-asean-special-summit-in-washington-dc/
 tags: statements-releases
 title: "FACT SHEET: U.S.-ASEAN Special Summit in Washington,\_DC"
 ---

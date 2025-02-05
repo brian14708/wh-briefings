@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 16:53:15-04:00
 published_time: 2023-09-20 16:53:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-president-lula-of-brazil-and-director-general-houngbo-of-the-ilo-launching-the-partnership-for-workers-rights-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-president-lula-of-brazil-and-director-general-houngbo-of-the-ilo-launching-the-partnership-for-workers-rights-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, President Lula of Brazil, and Director-General\
   \ Houngbo of the ILO Launching the Partnership for Workers\u2019 Rights | New York,\_\

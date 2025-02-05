@@ -1,7 +1,7 @@
 ---
 date: '2024-11-13'
 published_time: 2024-11-13 07:43:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/13/remarks-as-delivered-by-senior-advisor-john-podesta-at-cop29/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/13/remarks-as-delivered-by-senior-advisor-john-podesta-at-cop29/
 tags: speeches-remarks
 title: "Remarks as Delivered by Senior Advisor John Podesta at\_COP29"
 ---

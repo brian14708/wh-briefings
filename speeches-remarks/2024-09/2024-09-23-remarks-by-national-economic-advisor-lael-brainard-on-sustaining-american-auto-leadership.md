@@ -1,7 +1,7 @@
 ---
 date: '2024-09-23'
 published_time: 2024-09-23 12:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-national-economic-advisor-lael-brainard-on-sustaining-american-auto-leadership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-national-economic-advisor-lael-brainard-on-sustaining-american-auto-leadership/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Sustaining American\
   \ Auto\_Leadership"

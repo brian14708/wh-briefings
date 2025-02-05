@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-09 13:20:26-05:00
 published_time: 2024-02-08 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/08/remarks-by-president-biden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/08/remarks-by-president-biden/
 tags: speeches-remarks
 title: "Remarks by President\_Biden"
 ---

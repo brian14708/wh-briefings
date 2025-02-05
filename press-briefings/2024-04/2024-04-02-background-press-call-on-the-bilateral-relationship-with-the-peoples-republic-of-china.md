@@ -2,7 +2,7 @@
 date: '2024-04-02'
 modified_time: 2024-04-02 09:24:50-04:00
 published_time: 2024-04-02 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/02/background-press-call-on-the-bilateral-relationship-with-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/02/background-press-call-on-the-bilateral-relationship-with-the-peoples-republic-of-china/
 tags: press-briefings
 title: "Background Press Call on the Bilateral Relationship with the People\u2019\
   s Republic of\_China"

@@ -2,7 +2,7 @@
 date: '2023-03-14'
 modified_time: 2023-03-14 12:36:59-04:00
 published_time: 2023-03-14 12:36:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/14/executive-order-on-reducing-gun-violence-and-making-our-communities-safer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/14/executive-order-on-reducing-gun-violence-and-making-our-communities-safer/
 tags: presidential-actions
 title: "Executive Order on Reducing Gun Violence and Making Our Communities\_Safer"
 ---

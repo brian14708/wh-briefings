@@ -1,7 +1,7 @@
 ---
 date: '2024-02-02'
 published_time: 2024-02-02 11:18:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/02/readout-of-white-house-convening-of-state-legislators-and-advocates-on-safer-states-agenda-progress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/02/readout-of-white-house-convening-of-state-legislators-and-advocates-on-safer-states-agenda-progress/
 tags: statements-releases
 title: "Readout of White\_House Convening of State Legislators and Advocates on Safer\
   \ States Agenda\_Progress"
@@ -9,7 +9,7 @@ title: "Readout of White\_House Convening of State Legislators and Advocates on 
  
 In September 2023, President Biden established the [first-ever White
 House Office of Gun Violence
-Prevention](https://www.whitehouse.gov/ogvp/), overseen by Vice
+Prevention](https://bidenwhitehouse.archives.gov/ogvp/), overseen by Vice
 President Kamala Harris. President Biden tasked the office with four key
 responsibilities, including enhancing the federal government’s
 partnerships with cities and states to help them advance their own
@@ -19,9 +19,9 @@ On Tuesday, the White House Office of Gun Violence Prevention and the
 Office of Intergovernmental Affairs convened over 150 state legislators,
 advocates, and staff to discuss progress and build momentum following
 the release of the White House [Safer States
-Agenda](https://www.whitehouse.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf) at
+Agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf) at
 the December convening of [state
-legislators. ](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-of-white-house-convening-of-state-legislators-on-advancing-gun-violence-prevention-efforts/)At
+legislators. ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/readout-of-white-house-convening-of-state-legislators-on-advancing-gun-violence-prevention-efforts/)At
 the initial convening, Vice President Kamala Harris called on
 legislators to continue their efforts heading into the 2024 legislative
 session. This follow-up conversation highlighted early successes and

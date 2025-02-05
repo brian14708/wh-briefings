@@ -2,7 +2,7 @@
 date: '2023-05-15'
 modified_time: 2023-05-15 19:48:25-04:00
 published_time: 2023-05-15 19:48:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/15/readout-of-white-house-meeting-with-civil-rights-leaders-and-health-insurance-providers-on-medicaid-and-chip/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/15/readout-of-white-house-meeting-with-civil-rights-leaders-and-health-insurance-providers-on-medicaid-and-chip/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Civil Rights Leaders and Health Insurance\
   \ Providers on Medicaid and\_CHIP"

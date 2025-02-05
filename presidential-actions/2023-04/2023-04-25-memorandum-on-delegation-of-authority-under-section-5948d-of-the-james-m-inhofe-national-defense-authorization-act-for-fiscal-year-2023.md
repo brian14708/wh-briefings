@@ -1,7 +1,7 @@
 ---
 date: '2023-04-25'
 published_time: 2023-04-25 15:37:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/25/memorandum-on-delegation-of-authority-under-section-5948d-of-the-james-m-inhofe-national-defense-authorization-act-for-fiscal-year-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/25/memorandum-on-delegation-of-authority-under-section-5948d-of-the-james-m-inhofe-national-defense-authorization-act-for-fiscal-year-2023/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Section 5948(d) of the James M.\
   \ Inhofe National Defense Authorization Act for Fiscal Year\_2023"

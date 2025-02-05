@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 10:27:15-04:00
 published_time: 2022-09-16 05:58:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/
 tags: statements-releases
 title: "FACT SHEET:\_ White\_House Releases First-Ever Comprehensive Framework for\
   \ Responsible Development of Digital\_Assets"

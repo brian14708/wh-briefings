@@ -2,7 +2,7 @@
 date: '2023-09-24'
 modified_time: 2023-09-23 13:21:47-04:00
 published_time: 2023-09-24 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/24/statement-from-president-joe-biden-on-yom-kippur/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/24/statement-from-president-joe-biden-on-yom-kippur/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Yom\_Kippur"
 ---

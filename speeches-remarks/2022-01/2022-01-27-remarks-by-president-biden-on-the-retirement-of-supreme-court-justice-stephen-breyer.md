@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-01-27'
 modified_time: 2022-01-27 15:18:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/27/remarks-by-president-biden-on-the-retirement-of-supreme-court-justice-stephen-breyer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/27/remarks-by-president-biden-on-the-retirement-of-supreme-court-justice-stephen-breyer/
 published_time: 2022-01-27 15:18:04-05:00
 title: "Remarks by President\_Biden on the Retirement of Supreme Court Justice Stephen\_\
   Breyer"

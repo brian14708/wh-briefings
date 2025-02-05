@@ -1,7 +1,7 @@
 ---
 date: '2022-10-12'
 published_time: 2022-10-12 18:16:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Situation\
   \ in and in Relation to\_Syria"

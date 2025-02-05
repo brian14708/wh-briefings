@@ -2,7 +2,7 @@
 date: '2024-02-06'
 modified_time: 2024-02-07 13:10:11-05:00
 published_time: 2024-02-06 20:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/06/remarks-by-president-biden-at-a-reception-in-recognition-of-black-history-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/06/remarks-by-president-biden-at-a-reception-in-recognition-of-black-history-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Reception in Recognition of Black History\_\
   Month"

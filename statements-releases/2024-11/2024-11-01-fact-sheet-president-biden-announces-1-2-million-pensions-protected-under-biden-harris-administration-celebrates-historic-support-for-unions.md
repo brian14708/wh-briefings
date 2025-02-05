@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-11-01 08:58:45-04:00
 published_time: 2024-11-01 08:02:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/01/fact-sheet-president-biden-announces-1-2-million-pensions-protected-under-biden-harris-administration-celebrates-historic-support-for-unions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/01/fact-sheet-president-biden-announces-1-2-million-pensions-protected-under-biden-harris-administration-celebrates-historic-support-for-unions/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces 1.2 Million Pensions Protected Under\
   \ Biden-\u2060Harris Administration, Celebrates Historic Support for\_Unions"

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-15'
 published_time: 2024-05-15 09:36:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-the-april-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-the-april-consumer-price-index/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the April Consumer Price\_Index"
 ---

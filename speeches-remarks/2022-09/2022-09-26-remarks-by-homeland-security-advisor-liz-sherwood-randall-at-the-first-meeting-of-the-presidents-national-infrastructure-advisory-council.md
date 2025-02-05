@@ -1,7 +1,7 @@
 ---
 date: '2022-09-26'
 published_time: 2022-09-26 20:50:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-homeland-security-advisor-liz-sherwood-randall-at-the-first-meeting-of-the-presidents-national-infrastructure-advisory-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-homeland-security-advisor-liz-sherwood-randall-at-the-first-meeting-of-the-presidents-national-infrastructure-advisory-council/
 tags: speeches-remarks
 title: "Remarks by Homeland Security Advisor Liz Sherwood-Randall at the First Meeting\
   \ of the President\u2019s National Infrastructure Advisory\_Council"

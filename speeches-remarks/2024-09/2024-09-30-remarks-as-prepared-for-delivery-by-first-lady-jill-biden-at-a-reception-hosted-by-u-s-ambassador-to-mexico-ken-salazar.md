@@ -1,7 +1,7 @@
 ---
 date: '2024-09-30'
 published_time: 2024-09-30 20:38:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/30/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-hosted-by-u-s-ambassador-to-mexico-ken-salazar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/30/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-hosted-by-u-s-ambassador-to-mexico-ken-salazar/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Reception\
   \ Hosted by U.S. Ambassador to Mexico, Ken\_Salazar"

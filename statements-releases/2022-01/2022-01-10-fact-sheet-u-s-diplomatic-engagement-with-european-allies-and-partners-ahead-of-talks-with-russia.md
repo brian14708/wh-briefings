@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-10'
 modified_time: 2022-01-10 18:24:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/10/fact-sheet-u-s-diplomatic-engagement-with-european-allies-and-partners-ahead-of-talks-with-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/10/fact-sheet-u-s-diplomatic-engagement-with-european-allies-and-partners-ahead-of-talks-with-russia/
 published_time: 2022-01-10 18:22:23-05:00
 title: "FACT SHEET: U.S. Diplomatic Engagement with European Allies and Partners Ahead\
   \ of Talks with\_Russia"
@@ -133,7 +133,7 @@ with Allies and partners. **Engagements with Ukraine**
 -   [November 10: National Security Advisor Sullivan’s meeting with
     Ukrainian Foreign Minister Kuleba and Head of Presidential
     Administration
-    Yermak](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-ukrainian-officials-2/)
+    Yermak](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-meeting-with-ukrainian-officials-2/)
 -   [November 10: Strategic Partnership Commission meeting in
     Washington, including Secretary Blinken and Foreign Minister
     Kuleba](https://www.state.gov/u-s-ukraine-charter-on-strategic-partnership/)
@@ -148,7 +148,7 @@ with Allies and partners. **Engagements with Ukraine**
     Zaluzhny](https://www.jcs.mil/Media/News/News-Display/Article/2851386/readout-of-chairman-of-the-joint-chiefs-of-staff-gen-mark-a-milleys-phone-call/)
 -   [November 26: National Security Advisor Sullivan’s call with Ukraine
     Head of Presidential Administration
-    Yermak](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/26/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-head-of-presidential-office-andriy-yermak-of-ukraine-2/)
+    Yermak](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/26/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-head-of-presidential-office-andriy-yermak-of-ukraine-2/)
 -   [December 2: Secretary Blinken’s meeting with Ukrainian Foreign
     Minister Kuleba](https://www.state.gov/secretary-blinkens-meeting-with-ukrainian-foreign-minister-kuleba-3/)
 -   December 2: National Security Advisor Sullivan’s call with Ukraine
@@ -156,7 +156,7 @@ with Allies and partners. **Engagements with Ukraine**
 -   [December 6: Secretary Blinken’s call with Ukrainian
     President Zelenskyy](https://www.state.gov/secretary-blinkens-call-with-ukrainian-president-zelenskyy/)
 -   [December 9: President Biden’s call with Ukrainian President
-    Zelenskyy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine/)
+    Zelenskyy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine/)
 -   [December 11: Assistant Secretary of State for European and Eurasian
     Affairs Karen Donfried travels to
     Ukraine](https://www.state.gov/assistant-secretary-donfrieds-trip-to-ukraine-russia-and-belgium/)
@@ -172,7 +172,7 @@ with Allies and partners. **Engagements with Ukraine**
 -   [December 29: Secretary Blinken’s call with Ukrainian President
     Zelenskyy](https://www.state.gov/secretary-blinkens-call-with-ukrainian-president-zelenskyy-3/)
 -   [January 2: President Biden’s call with Ukrainian President
-    Zelenskyy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/02/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine/)
+    Zelenskyy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/02/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine/)
 -   January 5: Assistant Secretary Donfried’s call with Ukraine Head of
     Presidential Administration Yermak 
 -   [January 7: Secretary Blinken’s call with Ukrainian Foreign Minister
@@ -219,7 +219,7 @@ with Allies and partners. **Engagements with Ukraine**
 
 -   [November 10: President Biden’s meeting in Washington with European
     Commission President von der
-    Leyen](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/readout-of-president-bidens-meeting-with-european-commission-president-ursula-von-der-leyen/)
+    Leyen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/readout-of-president-bidens-meeting-with-european-commission-president-ursula-von-der-leyen/)
 -   [November 17: Director of National Intelligence Haines’ meetings
     with EU officials in
     Brussels](https://twitter.com/USNATO/status/1461706924194414601)
@@ -259,7 +259,7 @@ with Allies and partners. **Engagements with Ukraine**
 
 -   [November 24: National Security Advisor Sullivan’s Call with Polish
     National Security Bureau Chief
-    Soloch](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/24/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch/)
+    Soloch](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/24/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch/)
 -   [November 25: Deputy Secretary of Defense Hicks addresses the B9
     Defense
     Ministerial](https://www.defense.gov/News/Releases/Release/Article/2854469/deputy-secretary-of-defense-kathleen-h-hicks-addresses-the-bucharest-nine-defen/)
@@ -276,19 +276,19 @@ with Allies and partners. **Engagements with Ukraine**
     Błaszczak](https://www.defense.gov/News/Releases/Release/Article/2857573/readout-of-secretary-of-defense-lloyd-j-austin-iiis-call-with-polish-minister-o/)
 -   [November 30: National Security Advisor Sullivan’s Call with
     Romanian Presidential Security Advisor
-    Oprisor](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/30/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-romanian-presidential-security-advisor-ion-oprisor/)
+    Oprisor](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/30/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-romanian-presidential-security-advisor-ion-oprisor/)
 -   [December 8: Chairman of the Joint Chiefs of Staff Milley’s meeting
     with Polish Chief of the General Staff Gen.
     Andrzejczak](https://www.jcs.mil/Media/News/News-Display/Article/2866454/readout-of-chairman-of-the-joint-chiefs-of-staff-gen-mark-a-milleys-meeting-wit)
 -   [December 9: President Biden’s Call with
-    B9 leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/readout-of-president-bidens-call-with-the-leaders-of-the-bucharest-nine-eastern-flank-nato-allies/)
+    B9 leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/readout-of-president-bidens-call-with-the-leaders-of-the-bucharest-nine-eastern-flank-nato-allies/)
 -   [December 13: Secretary of Defense Austin’s Meeting with Lithuanian
     Minister of National Defense Dr.
     Anušauskas](https://www.defense.gov/News/Releases/Release/Article/2872129/readout-of-secretary-of-defense-lloyd-j-austin-iiis-meeting-with-lithuanian-min/);
     Principal Deputy National Security Advisor Finer also met with Dr.
     Anušauskas
 -   [December 16: National Security Advisor Sullivan’s Call with B9
-    Counterparts](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-b9-counterparts/)
+    Counterparts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-b9-counterparts/)
 -   [December 17: Secretary Blinken’s call with Bulgarian Prime Minister
     Petkov](https://www.state.gov/secretary-blinkens-call-with-bulgarian-prime-minister-petkov/)
 -   [December 21: Secretary Blinken’s call with Lithuanian Prime
@@ -297,7 +297,7 @@ with Allies and partners. **Engagements with Ukraine**
 -   [December 27: National Security Advisor Sullivan’s call with Polish
     National Security Bureau Chief Soloch and Head of the International
     Policy Bureau
-    Kumoch](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch-and-head-of-the-international-policy-bureau/)
+    Kumoch](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/27/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-polish-national-security-bureau-chief-pawel-soloch-and-head-of-the-international-policy-bureau/)
 -   [December 28: Secretary Blinken’s call with Polish Foreign Minister
     Rau](https://www.state.gov/secretary-blinkens-telephone-call-with-polish-foreign-minister-rau/)
 -   [January 3: Secretary Blinken’s call with B9 Foreign
@@ -313,7 +313,7 @@ with Allies and partners. **Engagements with Ukraine**
     including European Council President Michel, German Chancellor
     Merkel, Italian Prime Minister Draghi, Greek Prime Minister
     Mitsotakis, and Spanish President
-    Sanchez](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/statement-by-vice-president-kamala-harris-on-her-trip-to-france/)
+    Sanchez](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/08/statement-by-vice-president-kamala-harris-on-her-trip-to-france/)
 -   [November 29: Secretary Blinken’s call with Austrian Foreign
     Minister
     Linhart](https://www.state.gov/secretary-blinkens-call-with-austrian-foreign-minister-linhart/)
@@ -326,13 +326,13 @@ with Allies and partners. **Engagements with Ukraine**
 -   [December 6: President Biden’s call with President Macron of France,
     then-Chancellor Merkel of Germany, Prime Minister Draghi of Italy,
     Prime Minister Johnson of the United
-    Kingdom](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/readout-of-president-joe-bidens-call-with-european-allies/)
+    Kingdom](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/readout-of-president-joe-bidens-call-with-european-allies/)
 -   [December 6: Secretary Blinken’s call with Greek Prime Minister
     Mitsotakis](https://www.state.gov/secretary-blinkens-call-with-greek-prime-minister-mitsotakis/)
 -   [December 7: President Biden’s Call with President Macron of France,
     then-Chancellor Merkel of Germany, Prime Minister Draghi of Italy,
     Prime Minister Johnson of the United
-    Kingdom](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/readout-of-president-joe-bidens-call-with-european-allies-2/)
+    Kingdom](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/readout-of-president-joe-bidens-call-with-european-allies-2/)
 -   December 7: Principal Deputy National Security Advisor Finer call
     with Ambassadors of European Allies and Partners following President
     Biden’s call with President Putin
@@ -343,7 +343,7 @@ with Allies and partners. **Engagements with Ukraine**
     Minister
     Huitfeldt](https://www.state.gov/secretary-blinkens-meeting-with-norwegian-foreign-minister-huitfeldt/)
 -   [December 10: President Biden’s Call with Chancellor Scholz of
-    Germany](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/10/readout-of-president-bidens-call-with-chancellor-olaf-scholz-of-germany/)
+    Germany](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/10/readout-of-president-bidens-call-with-chancellor-olaf-scholz-of-germany/)
 -   [December 11: Secretary Blinken’s meeting with Italian Foreign
     Minister Di
     Maio](https://www.state.gov/secretary-blinkens-meeting-with-italian-foreign-minister-di-maio-5/)
@@ -419,12 +419,12 @@ with Allies and partners. **Engagements with Ukraine**
     Permanent State Secretary
     Anttonen](https://www.state.gov/deputy-secretary-shermans-meeting-with-finnish-mfa-permanent-state-secretary-anttonen/)
 -   [December 13: President Biden’s call with President of Finland
-    Niinistö](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/readout-of-president-bidens-call-with-president-of-finland-sauli-niinisto/)
+    Niinistö](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/readout-of-president-bidens-call-with-president-of-finland-sauli-niinisto/)
 -   [December 15: Chairman of the Joint Chiefs of Staff Milley’s meeting
     with Swedish Supreme Commander Gen.
     Bydén](https://www.jcs.mil/Media/News/News-Display/Article/2875228/readout-of-chairman-of-the-joint-chiefs-of-staff-gen-mark-a-milleys-meeting-wit)
 -   [January 4: National Security Advisor Sullivan’s call with Nordic
-    Counterparts](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nordic-counterparts/)
+    Counterparts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/04/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-nordic-counterparts/)
 -   [January 5: Deputy Secretary Sherman’s call with Georgian Foreign
     Minister
     Zalkaliani](https://www.state.gov/deputy-secretary-shermans-call-with-georgian-foreign-minister-zalkaliani/)

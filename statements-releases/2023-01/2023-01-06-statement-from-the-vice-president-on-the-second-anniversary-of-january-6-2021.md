@@ -1,7 +1,7 @@
 ---
 date: '2023-01-06'
 published_time: 2023-01-06 13:52:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/statement-from-the-vice-president-on-the-second-anniversary-of-january-6-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/06/statement-from-the-vice-president-on-the-second-anniversary-of-january-6-2021/
 tags: statements-releases
 title: "Statement from the Vice President on the Second Anniversary of January 6,\_\
   2021"

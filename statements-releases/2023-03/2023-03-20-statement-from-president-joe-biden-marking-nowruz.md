@@ -2,7 +2,7 @@
 date: '2023-03-20'
 modified_time: 2023-03-20 11:58:26-04:00
 published_time: 2023-03-20 11:58:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/statement-from-president-joe-biden-marking-nowruz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/statement-from-president-joe-biden-marking-nowruz/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking\_Nowruz"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-30'
 modified_time: 2023-03-29 20:00:43-04:00
 published_time: 2023-03-30 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-deepen-the-u-s-partnership-with-tanzania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-deepen-the-u-s-partnership-with-tanzania/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Initiatives to Deepen the U.S.\
   \ Partnership with\_Tanzania"

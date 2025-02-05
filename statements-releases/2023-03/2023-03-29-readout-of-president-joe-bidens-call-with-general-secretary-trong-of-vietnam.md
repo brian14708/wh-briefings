@@ -1,7 +1,7 @@
 ---
 date: '2023-03-29'
 published_time: 2023-03-29 18:25:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/readout-of-president-joe-bidens-call-with-general-secretary-trong-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/readout-of-president-joe-bidens-call-with-general-secretary-trong-of-vietnam/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s call with General Secretary Trong of\_\
   Vietnam"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-12'
 modified_time: 2021-04-12 15:55:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/nominations-sent-to-the-senate-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/12/nominations-sent-to-the-senate-9/
 published_time: 2021-04-12 15:39:19-04:00
 title: "Nominations Sent to the\_Senate"
 ---

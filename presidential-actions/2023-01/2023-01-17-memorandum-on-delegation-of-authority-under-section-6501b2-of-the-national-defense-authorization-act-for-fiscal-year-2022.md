@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-17 12:04:28-05:00
 published_time: 2023-01-17 12:04:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/17/memorandum-on-delegation-of-authority-under-section-6501b2-of-the-national-defense-authorization-act-for-fiscal-year-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/17/memorandum-on-delegation-of-authority-under-section-6501b2-of-the-national-defense-authorization-act-for-fiscal-year-2022/
 tags: presidential-actions
 title: "Memorandum on\_Delegation of Authority Under Section 6501(b)(2) of the National\
   \ Defense Authorization Act for Fiscal Year\_2022"

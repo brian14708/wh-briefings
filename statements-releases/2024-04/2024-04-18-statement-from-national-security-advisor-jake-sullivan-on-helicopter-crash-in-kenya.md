@@ -1,7 +1,7 @@
 ---
 date: '2024-04-18'
 published_time: 2024-04-18 19:13:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/18/statement-from-national-security-advisor-jake-sullivan-on-helicopter-crash-in-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/18/statement-from-national-security-advisor-jake-sullivan-on-helicopter-crash-in-kenya/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Helicopter Crash\
   \ in\_Kenya"

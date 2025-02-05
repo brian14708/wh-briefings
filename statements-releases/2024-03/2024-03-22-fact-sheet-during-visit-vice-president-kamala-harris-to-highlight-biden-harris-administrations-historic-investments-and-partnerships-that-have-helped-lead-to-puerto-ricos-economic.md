@@ -2,7 +2,7 @@
 date: '2024-03-22'
 modified_time: 2024-03-21 22:41:23-04:00
 published_time: 2024-03-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-during-visit-vice-president-kamala-harris-to-highlight-biden-harris-administrations-historic-investments-and-partnerships-that-have-helped-lead-to-puerto-ricos-economic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-during-visit-vice-president-kamala-harris-to-highlight-biden-harris-administrations-historic-investments-and-partnerships-that-have-helped-lead-to-puerto-ricos-economic/
 tags: statements-releases
 title: "FACT SHEET: During Visit, Vice President Kamala\_Harris to Highlight Biden-\u2060\
   Harris Administration\u2019s Historic Investments and Partnerships That Have Helped\
@@ -33,7 +33,7 @@ The beginning of Puerto Rico’s economic turnaround has come as the
 Biden-Harris Administration launched the Puerto Rico Economic Dialogue
 in December 2022, an unprecedented whole of [government approach across
 17
-Departments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) that
+Departments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) that
 was organized in close collaboration with the Government of Puerto Rico.
 It is being led by Commerce’s Deputy Secretary Graves, the Puerto Rico
 Economic Recovery Coordinator. President Biden and Vice President Harris

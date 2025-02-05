@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-14 20:14:13-05:00
 published_time: 2023-11-14 20:14:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/readout-of-national-security-advisor-jake-sullivan-with-prime-minister-kallas-of-estonia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/readout-of-national-security-advisor-jake-sullivan-with-prime-minister-kallas-of-estonia/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan with Prime Minister Kallas\
   \ of\_Estonia"

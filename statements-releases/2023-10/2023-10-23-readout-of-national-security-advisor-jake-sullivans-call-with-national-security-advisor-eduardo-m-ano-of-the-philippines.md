@@ -2,7 +2,7 @@
 date: '2023-10-23'
 modified_time: 2023-10-23 11:49:09-04:00
 published_time: 2023-10-23 11:49:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/23/readout-of-national-security-advisor-jake-sullivans-call-with-national-security-advisor-eduardo-m-ano-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/23/readout-of-national-security-advisor-jake-sullivans-call-with-national-security-advisor-eduardo-m-ano-of-the-philippines/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with National\
   \ Security Advisor Eduardo M. A\xF1o of the\_Philippines"

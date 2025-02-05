@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 10:41:54-04:00
 published_time: 2023-11-01 10:36:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-by-president-joe-biden-on-the-2024-open-enrollment-period/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-by-president-joe-biden-on-the-2024-open-enrollment-period/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 2024 Open Enrollment\_Period"
 ---

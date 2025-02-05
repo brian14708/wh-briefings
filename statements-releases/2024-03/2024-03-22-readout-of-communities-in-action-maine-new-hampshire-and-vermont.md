@@ -1,7 +1,7 @@
 ---
 date: '2024-03-22'
 published_time: 2024-03-22 18:57:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/readout-of-communities-in-action-maine-new-hampshire-and-vermont/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/readout-of-communities-in-action-maine-new-hampshire-and-vermont/
 tags: statements-releases
 title: "Readout of Communities in Action: Maine, New Hampshire, and\_Vermont"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-15'
 modified_time: 2024-05-20 09:41:02-04:00
 published_time: 2024-05-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions and Resources\
   \ for Increasing Student Attendance and Engagement as Part of the White\_House Every\
@@ -26,7 +26,7 @@ are [much less
 likely](https://www.brookings.edu/articles/chronic-absenteeism-an-old-problem-in-search-of-new-answers/) to
 read at grade level and to graduate high school. According to the
 [Council of Economic
-Advisers](https://www.whitehouse.gov/cea/written-materials/2023/09/13/chronic-absenteeism-and-disrupted-learning-require-an-all-hands-on-deck-approach/),
+Advisers](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/09/13/chronic-absenteeism-and-disrupted-learning-require-an-all-hands-on-deck-approach/),
 absenteeism can account for up to 27% and 45% of the post-pandemic test
 score declines in math and reading, respectively.  
    
@@ -45,7 +45,7 @@ significant difference to absenteeism.
 We as a country should not accept chronic absenteeism as a new normal.
 Earlier this year, the Administration announced its [Improving Student
 Achievement
-Agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/).
+Agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/).
 **<u>And</u>** **<u>today at the White House, the Administration will
 host the</u>** [**Every Day Counts
 Summit**](https://youtube.com/live/EqWe0dwnm1c) **<u>featuring

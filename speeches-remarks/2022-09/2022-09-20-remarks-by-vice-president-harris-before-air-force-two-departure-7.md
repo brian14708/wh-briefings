@@ -1,7 +1,7 @@
 ---
 date: '2022-09-20'
 published_time: 2022-09-20 18:22:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/20/remarks-by-vice-president-harris-before-air-force-two-departure-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/20/remarks-by-vice-president-harris-before-air-force-two-departure-7/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Air Force Two\_Departure"
 ---

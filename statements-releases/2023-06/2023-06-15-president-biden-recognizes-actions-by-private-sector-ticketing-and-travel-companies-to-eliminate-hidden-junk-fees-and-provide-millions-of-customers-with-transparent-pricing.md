@@ -2,7 +2,7 @@
 date: '2023-06-15'
 modified_time: 2023-06-15 12:18:20-04:00
 published_time: 2023-06-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/
 tags: statements-releases
 title: "President\_Biden Recognizes Actions by Private Sector Ticketing and Travel\
   \ Companies to Eliminate Hidden Junk Fees and Provide Millions of Customers with\
@@ -23,13 +23,13 @@ check-out.
   
 Junk fees — hidden, surprise fees that companies sneak onto customer
 bills — [are a pervasive
-problem](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/) in
+problem](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/) in
 industries across the economy. That’s why the President has been calling
 on [federal
-agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
+agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
 Congress, and private companies to take action to address these fees and
 provide consumers with honest, transparent pricing. A [large body of
-research](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/) has
+research](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/) has
 shown that fees charged at the back-end of the buying process, along
 with other types of junk fees, make it harder to comparison shop, impede
 competition, and lead to consumers paying more.  
@@ -124,7 +124,7 @@ to address junk fees in every sector of the economy, including:**
     biggest banks have committed to ending bounced check fees entirely.
     In addition, earlier this year the CFPB proposed a rule that is
     projected to [cut credit card late
-    fees](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/) by
+    fees](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/) by
     75%, from $30 to $8, saving Americans up to $9 billion a year.  
      
 -   The Federal Trade Commission (FTC) [released an advanced notice of

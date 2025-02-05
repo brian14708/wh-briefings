@@ -2,7 +2,7 @@
 date: '2023-01-20'
 modified_time: 2023-01-23 16:59:49-05:00
 published_time: 2023-01-20 16:57:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/20/remarks-by-vice-president-harris-and-california-natural-resources-secretary-wade-crowfoot-on-drought-and-flood-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/20/remarks-by-vice-president-harris-and-california-natural-resources-secretary-wade-crowfoot-on-drought-and-flood-resilience/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and California Natural Resources Secretary\
   \ Wade Crowfoot on Drought and Flood\_Resilience"

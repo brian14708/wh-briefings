@@ -1,7 +1,7 @@
 ---
 date: '2023-09-07'
 published_time: 2023-09-07 13:09:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/07/statement-from-president-joe-biden-on-senate-confirmation-vote-for-the-federal-reserve-board-of-governors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/07/statement-from-president-joe-biden-on-senate-confirmation-vote-for-the-federal-reserve-board-of-governors/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Confirmation Vote for the Federal\
   \ Reserve Board of\_Governors"

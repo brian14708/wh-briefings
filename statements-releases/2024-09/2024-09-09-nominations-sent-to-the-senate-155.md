@@ -2,7 +2,7 @@
 date: '2024-09-09'
 modified_time: 2024-09-09 16:39:01-04:00
 published_time: 2024-09-09 16:39:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/09/nominations-sent-to-the-senate-155/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/09/nominations-sent-to-the-senate-155/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

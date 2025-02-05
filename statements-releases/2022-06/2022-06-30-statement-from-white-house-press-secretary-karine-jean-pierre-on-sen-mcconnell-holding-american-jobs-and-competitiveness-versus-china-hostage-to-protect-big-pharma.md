@@ -1,7 +1,7 @@
 ---
 date: '2022-06-30'
 published_time: 2022-06-30 17:44:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-from-white-house-press-secretary-karine-jean-pierre-on-sen-mcconnell-holding-american-jobs-and-competitiveness-versus-china-hostage-to-protect-big-pharma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-from-white-house-press-secretary-karine-jean-pierre-on-sen-mcconnell-holding-american-jobs-and-competitiveness-versus-china-hostage-to-protect-big-pharma/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Sen. McConnell\
   \ Holding American Jobs and Competitiveness Versus China Hostage to Protect Big\_\

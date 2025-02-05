@@ -2,7 +2,7 @@
 date: '2025-01-09'
 modified_time: 2025-01-09 19:05:37-05:00
 published_time: 2025-01-09 19:05:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/09/statement-by-press-secretary-ernesto-apreza-on-the-vice-presidents-travel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/statement-by-press-secretary-ernesto-apreza-on-the-vice-presidents-travel/
 tags: statements-releases
 title: "Statement by Press Secretary Ernesto Apreza on the Vice President\u2019s\_\
   Travel"

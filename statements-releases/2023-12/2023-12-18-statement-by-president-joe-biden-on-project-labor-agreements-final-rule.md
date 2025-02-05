@@ -2,7 +2,7 @@
 date: '2023-12-18'
 modified_time: 2023-12-18 12:06:54-05:00
 published_time: 2023-12-18 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/18/statement-by-president-joe-biden-on-project-labor-agreements-final-rule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/18/statement-by-president-joe-biden-on-project-labor-agreements-final-rule/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Project Labor Agreements Final\_Rule"
 ---

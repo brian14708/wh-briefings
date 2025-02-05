@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-12 12:08:15-04:00
 published_time: 2024-04-11 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/11/remarks-by-president-biden-president-ferdinand-marcos-jr-of-the-republic-of-the-philippines-and-prime-minister-kishida-fumio-of-japan-before-trilateral/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/11/remarks-by-president-biden-president-ferdinand-marcos-jr-of-the-republic-of-the-philippines-and-prime-minister-kishida-fumio-of-japan-before-trilateral/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, President Ferdinand Marcos Jr. of the Republic\
   \ of the Philippines, and Prime Minister Kishida Fumio of Japan Before\_Trilateral"

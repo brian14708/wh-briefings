@@ -1,7 +1,7 @@
 ---
 date: '2024-03-04'
 published_time: 2024-03-04 10:15:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/04/statement-by-national-security-council-spokesperson-adrienne-watson-on-u-s-sanctions-on-zimbabwean-individuals-and-entities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/04/statement-by-national-security-council-spokesperson-adrienne-watson-on-u-s-sanctions-on-zimbabwean-individuals-and-entities/
 tags: statements-releases
 title: "Statement by National Security Council Spokesperson Adrienne Watson on U.S.\
   \ Sanctions on Zimbabwean Individuals and\_Entities"

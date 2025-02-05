@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-12 11:46:17-04:00
 published_time: 2024-07-11 18:10:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/11/president-joe-biden-launches-the-ukraine-compact/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/11/president-joe-biden-launches-the-ukraine-compact/
 tags: presidential-actions
 title: "President Joe\_Biden Launches the Ukraine\_Compact"
 ---

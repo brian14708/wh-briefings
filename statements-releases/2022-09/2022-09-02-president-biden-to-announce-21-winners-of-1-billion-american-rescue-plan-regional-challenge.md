@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 07:27:48-04:00
 published_time: 2022-09-02 07:27:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/president-biden-to-announce-21-winners-of-1-billion-american-rescue-plan-regional-challenge/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/president-biden-to-announce-21-winners-of-1-billion-american-rescue-plan-regional-challenge/
 tags: statements-releases
 title: "President\_Biden to Announce 21 Winners of $1 Billion American Rescue Plan\
   \ Regional\_Challenge"

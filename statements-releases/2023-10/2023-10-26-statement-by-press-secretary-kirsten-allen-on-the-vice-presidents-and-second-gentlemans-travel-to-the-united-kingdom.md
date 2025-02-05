@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-25 20:18:00-04:00
 published_time: 2023-10-26 06:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/26/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-and-second-gentlemans-travel-to-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/26/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-and-second-gentlemans-travel-to-the-united-kingdom/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on the Vice President\u2019s and\
   \ Second Gentleman\u2019s Travel to the United\_Kingdom"

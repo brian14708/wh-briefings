@@ -2,7 +2,7 @@
 date: '2023-06-28'
 modified_time: 2023-06-28 17:41:40-04:00
 published_time: 2023-06-28 16:07:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Bidenomics | Chicago,\_IL"
 ---

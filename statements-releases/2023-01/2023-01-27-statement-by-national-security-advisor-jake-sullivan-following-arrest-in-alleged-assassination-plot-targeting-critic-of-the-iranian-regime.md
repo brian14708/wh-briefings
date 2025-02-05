@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 11:28:02-05:00
 published_time: 2023-01-27 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/statement-by-national-security-advisor-jake-sullivan-following-arrest-in-alleged-assassination-plot-targeting-critic-of-the-iranian-regime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/statement-by-national-security-advisor-jake-sullivan-following-arrest-in-alleged-assassination-plot-targeting-critic-of-the-iranian-regime/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan Following Arrest in Alleged\
   \ Assassination Plot Targeting Critic of the Iranian\_Regime"

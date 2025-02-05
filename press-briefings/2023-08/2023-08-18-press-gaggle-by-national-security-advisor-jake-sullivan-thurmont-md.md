@@ -1,7 +1,7 @@
 ---
 date: '2023-08-18'
 published_time: 2023-08-18 12:14:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/18/press-gaggle-by-national-security-advisor-jake-sullivan-thurmont-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/18/press-gaggle-by-national-security-advisor-jake-sullivan-thurmont-md/
 tags: press-briefings
 title: "Press Gaggle by National Security Advisor Jake Sullivan | Thurmont,\_MD"
 ---

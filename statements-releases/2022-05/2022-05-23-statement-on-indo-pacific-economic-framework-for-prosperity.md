@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 00:55:08-04:00
 published_time: 2022-05-23 15:15:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/statement-on-indo-pacific-economic-framework-for-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/statement-on-indo-pacific-economic-framework-for-prosperity/
 tags: statements-releases
 title: "Statement on Indo-Pacific Economic Framework for\_Prosperity"
 ---

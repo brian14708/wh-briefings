@@ -1,7 +1,7 @@
 ---
 date: '2022-10-25'
 published_time: 2022-10-25 20:20:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/readout-of-president-joe-bidens-call-with-prime-minister-giorgia-meloni-of-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/readout-of-president-joe-bidens-call-with-prime-minister-giorgia-meloni-of-italy/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Giorgia Meloni\
   \ of\_Italy"

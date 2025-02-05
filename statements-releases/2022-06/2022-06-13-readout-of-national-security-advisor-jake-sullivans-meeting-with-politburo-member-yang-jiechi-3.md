@@ -1,7 +1,7 @@
 ---
 date: '2022-06-13'
 published_time: 2022-06-13 14:15:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-politburo-member-yang-jiechi-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-politburo-member-yang-jiechi-3/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Politburo\
   \ Member Yang\_Jiechi"

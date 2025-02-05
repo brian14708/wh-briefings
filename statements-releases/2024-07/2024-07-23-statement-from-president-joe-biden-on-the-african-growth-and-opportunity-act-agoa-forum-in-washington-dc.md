@@ -2,7 +2,7 @@
 date: '2024-07-23'
 modified_time: 2024-07-23 18:01:25-04:00
 published_time: 2024-07-23 18:01:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-forum-in-washington-dc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-forum-in-washington-dc/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the African Growth and Opportunity\
   \ Act (AGOA) Forum in Washington,\_DC"

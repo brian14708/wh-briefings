@@ -1,7 +1,7 @@
 ---
 date: '2024-12-09'
 published_time: 2024-12-09 12:17:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/09/a-proclamation-on-the-establishment-of-the-carlisle-federal-indian-boarding-school-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/09/a-proclamation-on-the-establishment-of-the-carlisle-federal-indian-boarding-school-national-monument/
 tags: presidential-actions
 title: "A Proclamation on the Establishment of the Carlisle Federal Indian Boarding\
   \ School National\_Monument"

@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-06 15:06:09-05:00
 published_time: 2025-01-03 21:44:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/executive-order-on-providing-an-order-of-succession-within-the-department-of-homeland-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/executive-order-on-providing-an-order-of-succession-within-the-department-of-homeland-security/
 tags: presidential-actions
 title: "Executive Order on Providing an Order of Succession Within the Department\
   \ of Homeland\_Security"

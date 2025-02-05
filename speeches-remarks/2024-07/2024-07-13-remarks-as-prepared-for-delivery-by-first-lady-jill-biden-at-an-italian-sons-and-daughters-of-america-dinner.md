@@ -2,7 +2,7 @@
 date: '2024-07-13'
 modified_time: 2024-07-13 17:22:03-04:00
 published_time: 2024-07-13 17:22:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-italian-sons-and-daughters-of-america-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-italian-sons-and-daughters-of-america-dinner/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Italian Sons\
   \ and Daughters of America\_Dinner"

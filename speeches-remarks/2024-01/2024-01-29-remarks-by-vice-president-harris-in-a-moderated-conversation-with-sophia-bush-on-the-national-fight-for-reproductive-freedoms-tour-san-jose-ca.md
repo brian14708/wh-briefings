@@ -2,7 +2,7 @@
 date: '2024-01-29'
 modified_time: 2024-01-31 11:08:54-05:00
 published_time: 2024-01-29 23:11:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-sophia-bush-on-the-national-fight-for-reproductive-freedoms-tour-san-jose-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-sophia-bush-on-the-national-fight-for-reproductive-freedoms-tour-san-jose-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Sophia Bush\
   \ on the National \u201CFight for Reproductive Freedoms\u201D Tour | San Jose,\_\

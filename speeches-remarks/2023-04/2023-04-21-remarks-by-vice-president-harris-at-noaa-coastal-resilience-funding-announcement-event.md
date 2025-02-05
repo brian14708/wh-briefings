@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-21 21:08:44-04:00
 published_time: 2023-04-21 21:08:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-vice-president-harris-at-noaa-coastal-resilience-funding-announcement-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-vice-president-harris-at-noaa-coastal-resilience-funding-announcement-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at NOAA Coastal Resilience Funding Announcement\_\
   Event"

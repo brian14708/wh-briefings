@@ -2,7 +2,7 @@
 date: '2022-08-31'
 modified_time: 2022-08-31 13:49:55-04:00
 published_time: 2022-08-31 13:49:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-white-house-domestic-policy-council-meeting-to-strengthen-the-teaching-profession/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-white-house-domestic-policy-council-meeting-to-strengthen-the-teaching-profession/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the White\_\
   House Domestic Policy Council Meeting to\_Strengthen\_the Teaching\_Profession"

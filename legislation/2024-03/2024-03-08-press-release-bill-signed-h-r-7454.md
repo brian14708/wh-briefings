@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-08 16:43:51-05:00
 published_time: 2024-03-08 16:43:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/03/08/press-release-bill-signed-h-r-7454/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/03/08/press-release-bill-signed-h-r-7454/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_7454"
 ---

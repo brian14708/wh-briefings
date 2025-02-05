@@ -2,7 +2,7 @@
 date: '2023-07-28'
 modified_time: 2023-07-30 09:12:14-04:00
 published_time: 2023-07-28 13:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/28/remarks-by-vice-president-harris-during-a-moderated-conversation-on-reproductive-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/28/remarks-by-vice-president-harris-during-a-moderated-conversation-on-reproductive-health/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During a Moderated Conversation on Reproductive\_\
   Health"

@@ -2,7 +2,7 @@
 date: '2023-05-26'
 modified_time: 2023-05-26 17:48:44-04:00
 published_time: 2023-05-26 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/26/memorandum-on-rescinding-designation-of-the-department-of-homeland-security-as-lead-federal-department-for-facilitating-the-entry-of-vulnerable-afghans-into-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/26/memorandum-on-rescinding-designation-of-the-department-of-homeland-security-as-lead-federal-department-for-facilitating-the-entry-of-vulnerable-afghans-into-the-united-states/
 tags: statements-releases
 title: "Memorandum on Rescinding Designation of the Department of Homeland Security\
   \ as Lead Federal Department for Facilitating the Entry of Vulnerable Afghans into\

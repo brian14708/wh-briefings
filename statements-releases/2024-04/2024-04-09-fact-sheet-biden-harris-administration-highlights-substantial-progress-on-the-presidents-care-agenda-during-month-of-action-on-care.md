@@ -2,14 +2,14 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 12:22:23-04:00
 published_time: 2024-04-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Substantial Progress\
   \ on the President\u2019s Care Agenda During Month of Action on\_Care"
 ---
  
 During [Care Workers Recognition
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-care-workers-recognition-month-2024/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-care-workers-recognition-month-2024/),
 the Biden-Harris Administration is marking the progress we have made to
 make care more affordable for American families, support family
 caregivers, boost compensation and job quality for care workers, and
@@ -171,7 +171,7 @@ example:  
 In addition to these actions, federal agencies have taken dozens of
 others over the past year to improve family caregiving, long-term care,
 and child care. A full list can be found
-[here](https://www.whitehouse.gov/wp-content/uploads/2024/04/Progress-Summary.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Progress-Summary.pdf).
 
 **<u>Republican Officials Want to Provide Massive Taxes Cuts to the Rich
 while Making Devastating Cuts to Programs Working Families Count

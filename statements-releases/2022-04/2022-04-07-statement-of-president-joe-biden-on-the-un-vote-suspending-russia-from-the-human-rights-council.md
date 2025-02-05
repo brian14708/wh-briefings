@@ -2,7 +2,7 @@
 date: '2022-04-07'
 modified_time: 2022-04-07 16:43:44-04:00
 published_time: 2022-04-07 16:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/07/statement-of-president-joe-biden-on-the-un-vote-suspending-russia-from-the-human-rights-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/07/statement-of-president-joe-biden-on-the-un-vote-suspending-russia-from-the-human-rights-council/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the UN Vote Suspending Russia from the\
   \ Human Rights\_Council"

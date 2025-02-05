@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-27 13:50:43-05:00
 published_time: 2024-02-27 13:50:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/27/readout-of-president-biden-and-vice-president-harriss-meeting-with-congressional-leadership-on-government-funding-and-the-bipartisan-national-security-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/27/readout-of-president-biden-and-vice-president-harriss-meeting-with-congressional-leadership-on-government-funding-and-the-bipartisan-national-security-supplemental/
 tags: statements-releases
 title: "Readout of President\_Biden and Vice President Harris\u2019s Meeting with\
   \ Congressional Leadership on Government Funding and the Bipartisan National Security\_\

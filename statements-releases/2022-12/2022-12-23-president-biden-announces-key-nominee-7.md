@@ -2,7 +2,7 @@
 date: '2022-12-23'
 modified_time: 2022-12-23 15:28:46-05:00
 published_time: 2022-12-23 15:25:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/23/president-biden-announces-key-nominee-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/23/president-biden-announces-key-nominee-7/
 tags: statements-releases
 title: "President\_Biden Announces Nominee for Deputy Secretary of State for Management\
   \ and\_Resources"

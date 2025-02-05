@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 16:30:27-04:00
 published_time: 2024-09-30 18:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/30/memorandum-on-the-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/30/memorandum-on-the-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons-2/
 tags: legislation
 title: "Memorandum on the Presidential Determination with Respect to the Efforts of\
   \ Foreign Governments Regarding Trafficking in\_Persons"

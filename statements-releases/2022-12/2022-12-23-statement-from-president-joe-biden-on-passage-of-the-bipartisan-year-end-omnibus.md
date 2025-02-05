@@ -1,7 +1,7 @@
 ---
 date: '2022-12-23'
 published_time: 2022-12-23 14:10:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/23/statement-from-president-joe-biden-on-passage-of-the-bipartisan-year-end-omnibus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/23/statement-from-president-joe-biden-on-passage-of-the-bipartisan-year-end-omnibus/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Passage of the Bipartisan Year-End\_\
   Omnibus"

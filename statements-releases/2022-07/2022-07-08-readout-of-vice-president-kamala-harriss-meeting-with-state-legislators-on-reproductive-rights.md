@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 21:00:30-04:00
 published_time: 2022-07-08 21:00:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/readout-of-vice-president-kamala-harriss-meeting-with-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/readout-of-vice-president-kamala-harriss-meeting-with-state-legislators-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with State Legislators\
   \ on Reproductive\_Rights"

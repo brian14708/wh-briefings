@@ -1,7 +1,7 @@
 ---
 date: '2022-06-22'
 published_time: 2022-06-22 14:40:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/22/readout-of-the-june-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/22/readout-of-the-june-national-climate-task-force-meeting/
 tags: statements-releases
 title: "Readout of the June National Climate Task Force\_Meeting"
 ---
@@ -30,12 +30,12 @@ energy projects that will cut consumer costs.
 In addition, the Task Force discussed efforts to leverage domestic
 climate action to spur international efforts, including recent successes
 advanced through the President’s action-focused [call to world
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-president-biden-to-galvanize-global-action-to-strengthen-energy-security-and-tackle-the-climate-crisis-through-the-major-economies-forum-on-energy-and-climate/)
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-president-biden-to-galvanize-global-action-to-strengthen-energy-security-and-tackle-the-climate-crisis-through-the-major-economies-forum-on-energy-and-climate/)
 at last week’s Major Economies Forum on Energy and Climate.
 
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the Task Force is chaired by the National Climate Advisor and includes
 Cabinet-level leaders from more than 25 federal agencies to mobilize the
 Biden-Harris Administration’s implementation of a whole-of-government

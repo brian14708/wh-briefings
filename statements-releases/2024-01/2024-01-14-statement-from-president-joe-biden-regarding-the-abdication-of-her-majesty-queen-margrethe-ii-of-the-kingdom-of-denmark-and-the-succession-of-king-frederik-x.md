@@ -1,7 +1,7 @@
 ---
 date: '2024-01-14'
 published_time: 2024-01-14 15:41:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/14/statement-from-president-joe-biden-regarding-the-abdication-of-her-majesty-queen-margrethe-ii-of-the-kingdom-of-denmark-and-the-succession-of-king-frederik-x/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/14/statement-from-president-joe-biden-regarding-the-abdication-of-her-majesty-queen-margrethe-ii-of-the-kingdom-of-denmark-and-the-succession-of-king-frederik-x/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Regarding the Abdication of Her Majesty\
   \ Queen Margrethe II of the Kingdom of Denmark and the Succession of King Frederik\_\

@@ -2,7 +2,7 @@
 date: '2024-10-16'
 modified_time: 2024-10-16 18:19:33-04:00
 published_time: 2024-10-16 18:19:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/16/memorandum-on-delegation-of-authority-under-section-614a1-of-the-foreign-assistance-act-of-1961-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/16/memorandum-on-delegation-of-authority-under-section-614a1-of-the-foreign-assistance-act-of-1961-3/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Section 614(a)(1) of the Foreign\
   \ Assistance Act of\_1961"

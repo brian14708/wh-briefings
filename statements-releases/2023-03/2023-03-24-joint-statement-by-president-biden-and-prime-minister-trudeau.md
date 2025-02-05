@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-24 15:38:53-04:00
 published_time: 2023-03-24 15:38:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/joint-statement-by-president-biden-and-prime-minister-trudeau/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/joint-statement-by-president-biden-and-prime-minister-trudeau/
 tags: statements-releases
 title: "Joint Statement by President\_Biden and Prime Minister\_Trudeau"
 ---

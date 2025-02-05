@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 14:01:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/21/remarks-by-president-biden-on-historic-deficit-reduction/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/21/remarks-by-president-biden-on-historic-deficit-reduction/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Historic Deficit\_Reduction"
 ---

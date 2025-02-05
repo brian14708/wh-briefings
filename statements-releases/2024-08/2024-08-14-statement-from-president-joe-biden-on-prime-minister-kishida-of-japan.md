@@ -1,7 +1,7 @@
 ---
 date: '2024-08-14'
 published_time: 2024-08-14 15:06:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-prime-minister-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-prime-minister-kishida-of-japan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Prime Minister Kishida of\_Japan"
 ---

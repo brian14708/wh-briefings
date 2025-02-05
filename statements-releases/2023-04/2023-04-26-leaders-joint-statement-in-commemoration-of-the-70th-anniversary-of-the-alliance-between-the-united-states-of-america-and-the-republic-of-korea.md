@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-28 11:39:36-04:00
 published_time: 2023-04-26 17:25:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/leaders-joint-statement-in-commemoration-of-the-70th-anniversary-of-the-alliance-between-the-united-states-of-america-and-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/leaders-joint-statement-in-commemoration-of-the-70th-anniversary-of-the-alliance-between-the-united-states-of-america-and-the-republic-of-korea/
 tags: statements-releases
 title: "Leaders\u2019 Joint Statement in Commemoration of the 70th Anniversary of\
   \ the Alliance between the United\_States of America and the Republic of\_Korea"

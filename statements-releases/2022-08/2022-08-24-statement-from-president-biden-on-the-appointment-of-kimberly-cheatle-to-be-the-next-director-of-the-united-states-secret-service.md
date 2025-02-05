@@ -2,7 +2,7 @@
 date: '2022-08-24'
 modified_time: 2022-08-24 16:53:15-04:00
 published_time: 2022-08-24 16:53:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/statement-from-president-biden-on-the-appointment-of-kimberly-cheatle-to-be-the-next-director-of-the-united-states-secret-service/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/statement-from-president-biden-on-the-appointment-of-kimberly-cheatle-to-be-the-next-director-of-the-united-states-secret-service/
 tags: statements-releases
 title: "Statement from President\_Biden on the Appointment of Kimberly Cheatle to\
   \ be the Next Director of the United\_States Secret\_Service"

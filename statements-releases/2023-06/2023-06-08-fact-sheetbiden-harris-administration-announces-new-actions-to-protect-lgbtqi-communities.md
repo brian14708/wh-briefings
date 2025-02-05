@@ -2,7 +2,7 @@
 date: '2023-06-08'
 modified_time: 2023-06-07 22:24:24-04:00
 published_time: 2023-06-08 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheetbiden-harris-administration-announces-new-actions-to-protect-lgbtqi-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/fact-sheetbiden-harris-administration-announces-new-actions-to-protect-lgbtqi-communities/
 tags: statements-releases
 title: "FACT SHEET:Biden-\u2060Harris Administration Announces New Actions to Protect\
   \ LGBTQI+\_Communities"

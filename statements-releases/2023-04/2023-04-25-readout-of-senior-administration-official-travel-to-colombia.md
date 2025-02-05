@@ -1,7 +1,7 @@
 ---
 date: '2023-04-25'
 published_time: 2023-04-25 23:11:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/readout-of-senior-administration-official-travel-to-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/readout-of-senior-administration-official-travel-to-colombia/
 tags: statements-releases
 title: "Readout of Senior Administration Official Travel to\_Colombia"
 ---

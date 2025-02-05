@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-26 08:48:36-04:00
 published_time: 2024-10-25 23:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/25/background-press-call-on-israels-targeted-strikes-against-military-targets-in-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/25/background-press-call-on-israels-targeted-strikes-against-military-targets-in-iran/
 tags: press-briefings
 title: "Background Press Call on Israel\u2019s Targeted Strikes Against Military Targets\
   \ in\_Iran"

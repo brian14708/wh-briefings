@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 09:15:13-04:00
 published_time: 2022-07-15 09:15:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-and-president-abbas-of-the-palestinian-national-authority-in-joint-press-statement-bethlehem-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-and-president-abbas-of-the-palestinian-national-authority-in-joint-press-statement-bethlehem-west-bank/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Abbas of the Palestinian National\
   \ Authority in Joint Press Statement | Bethlehem, West\_Bank"

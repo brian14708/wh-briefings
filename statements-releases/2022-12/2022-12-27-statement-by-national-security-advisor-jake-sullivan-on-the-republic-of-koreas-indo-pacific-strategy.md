@@ -2,7 +2,7 @@
 date: '2022-12-27'
 modified_time: 2022-12-27 21:50:16-05:00
 published_time: 2022-12-27 21:50:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/27/statement-by-national-security-advisor-jake-sullivan-on-the-republic-of-koreas-indo-pacific-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/27/statement-by-national-security-advisor-jake-sullivan-on-the-republic-of-koreas-indo-pacific-strategy/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on the Republic of Korea\u2019\
   s Indo-Pacific\_Strategy"

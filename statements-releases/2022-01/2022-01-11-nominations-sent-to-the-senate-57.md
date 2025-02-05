@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-11'
 modified_time: 2022-01-11 16:46:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/11/nominations-sent-to-the-senate-57/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/11/nominations-sent-to-the-senate-57/
 published_time: 2022-01-11 16:46:38-05:00
 title: "Nominations Sent to the\_Senate"
 ---

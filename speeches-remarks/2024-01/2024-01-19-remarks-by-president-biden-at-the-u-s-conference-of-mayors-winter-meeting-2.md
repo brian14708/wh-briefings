@@ -2,7 +2,7 @@
 date: '2024-01-19'
 modified_time: 2024-01-20 18:37:06-05:00
 published_time: 2024-01-19 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/19/remarks-by-president-biden-at-the-u-s-conference-of-mayors-winter-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/19/remarks-by-president-biden-at-the-u-s-conference-of-mayors-winter-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S. Conference of Mayors Winter\_Meeting"
 ---

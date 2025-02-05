@@ -2,7 +2,7 @@
 date: '2024-05-14'
 modified_time: 2024-05-14 12:04:11-04:00
 published_time: 2024-05-14 12:04:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/14/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/14/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-2/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Yemen"

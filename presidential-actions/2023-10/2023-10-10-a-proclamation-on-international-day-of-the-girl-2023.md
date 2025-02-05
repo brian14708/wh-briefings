@@ -1,7 +1,7 @@
 ---
 date: '2023-10-10'
 published_time: 2023-10-10 17:32:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/10/a-proclamation-on-international-day-of-the-girl-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/10/a-proclamation-on-international-day-of-the-girl-2023/
 tags: presidential-actions
 title: "A Proclamation on International Day of the Girl,\_2023"
 ---

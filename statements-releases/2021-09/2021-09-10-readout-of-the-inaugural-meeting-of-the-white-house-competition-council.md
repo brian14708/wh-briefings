@@ -2,13 +2,13 @@
 tags: statements-releases
 date: '2021-09-10'
 modified_time: 2022-02-23 17:53:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/readout-of-the-inaugural-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/10/readout-of-the-inaugural-meeting-of-the-white-house-competition-council/
 published_time: 2021-09-10 14:26:04-04:00
 title: "Readout of the Inaugural Meeting of the White\_House Competition\_Council"
 ---
  
 This morning, the [White House Competition
-Council](https://www.whitehouse.gov/competition/) held its inaugural
+Council](https://bidenwhitehouse.archives.gov/competition/) held its inaugural
 meeting. The Council’s members – including eight cabinet members and the
 leaders of seven independent agencies – met to discuss the actions they
 are taking to help lower prices for American families by boosting
@@ -89,10 +89,10 @@ Participants in today’s meeting included:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?w=640"
 class="wp-image-29873" loading="lazy"
 sizes="(max-width: 3000px) 100vw, 3000px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=615,410 615w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1270,847 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=2048,1365 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=960,640 960w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1920,1280 1920w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1038,692 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg 3000w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=615,410 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=768,512 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1270,847 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1536,1024 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=2048,1365 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=960,640 960w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1920,1280 1920w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=600,400 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/P20210910KR-0279.jpg?resize=1038,692 1038w"
 width="3000" height="2000" />
 </figure>
 

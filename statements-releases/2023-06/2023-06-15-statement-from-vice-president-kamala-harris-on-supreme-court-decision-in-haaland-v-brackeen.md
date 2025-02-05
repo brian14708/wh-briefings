@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 13:14:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/statement-from-vice-president-kamala-harris-on-supreme-court-decision-in-haaland-v-brackeen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/statement-from-vice-president-kamala-harris-on-supreme-court-decision-in-haaland-v-brackeen/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Supreme Court Decision in\
   \ Haaland v.\_Brackeen"

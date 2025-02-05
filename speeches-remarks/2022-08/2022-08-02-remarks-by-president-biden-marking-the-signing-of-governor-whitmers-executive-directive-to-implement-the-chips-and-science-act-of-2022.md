@@ -1,7 +1,7 @@
 ---
 date: '2022-08-02'
 published_time: 2022-08-02 17:04:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/02/remarks-by-president-biden-marking-the-signing-of-governor-whitmers-executive-directive-to-implement-the-chips-and-science-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/02/remarks-by-president-biden-marking-the-signing-of-governor-whitmers-executive-directive-to-implement-the-chips-and-science-act-of-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Marking the Signing of Governor Whitmer\u2019\
   s Executive Directive to Implement the CHIPS and Science Act of\_2022"

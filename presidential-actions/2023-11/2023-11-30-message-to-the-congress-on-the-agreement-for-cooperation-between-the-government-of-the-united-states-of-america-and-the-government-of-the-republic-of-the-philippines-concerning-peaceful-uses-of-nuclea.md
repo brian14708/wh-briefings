@@ -2,7 +2,7 @@
 date: '2023-11-30'
 modified_time: 2023-11-30 12:50:41-05:00
 published_time: 2023-11-30 12:50:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/30/message-to-the-congress-on-the-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-the-philippines-concerning-peaceful-uses-of-nuclea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/30/message-to-the-congress-on-the-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-the-philippines-concerning-peaceful-uses-of-nuclea/
 tags: presidential-actions
 title: "Message to the Congress on the Agreement for Cooperation between the Government\
   \ of the United\_States of America and the Government of the Republic of the Philippines\

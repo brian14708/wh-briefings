@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 23:01:59-05:00
 published_time: 2024-12-11 23:01:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/11/fact-sheet-biden-harris-administration-releases-global-health-security-annual-report-demonstrating-the-impact-of-united-states-leadership-and-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/11/fact-sheet-biden-harris-administration-releases-global-health-security-annual-report-demonstrating-the-impact-of-united-states-leadership-and-investments/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Global Health Security\
   \ Annual Report Demonstrating the Impact of United\_States Leadership and\_Investments"
@@ -14,12 +14,12 @@ safe from biological threats. Today we are releasing the final annual
 global health security report of the Biden-Harris Administration, *[U.S.
 Government Support for Global Health Security – Protecting Lives and
 Safeguarding
-Economies](https://www.whitehouse.gov/wp-content/uploads/2024/12/2024-GHS-Progress-Report.pdf), which*
+Economies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/2024-GHS-Progress-Report.pdf), which*
 highlights progress in global health security and identifies remaining
 challenges.
 
 The Biden-Harris Administration has advanced a [bold
-agenda](https://www.whitehouse.gov/wp-content/uploads/2024/04/Global-Health-Security-Strategy-2024-1.pdf)
+agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Global-Health-Security-Strategy-2024-1.pdf)
 to prevent the devastating toll of outbreaks and pandemics, including
 investing more than $3 billion in strengthening global health security
 (GHS) since 2020. These investments have helped to: prepare countries
@@ -121,13 +121,13 @@ Government support has ended. Highlights from the report include:
 -   **Modernizing biorisk management:** The Administration released the
     2024 [*United States Government Policy for Oversight of Dual Use
     Research of Concern and Pathogens with Enhanced Pandemic
-    Potential*](https://www.whitehouse.gov/wp-content/uploads/2024/05/USG-Policy-for-Oversight-of-DURC-and-PEPP.pdf),
+    Potential*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/USG-Policy-for-Oversight-of-DURC-and-PEPP.pdf),
     marking a major new step in modernizing biorisk management. This
     policy streamlines and expands oversight of research of concern
     across the entire U.S. Government – setting a new global standard
     for effective research oversight. The Administration also introduced
     a new
-    [framework](https://www.whitehouse.gov/wp-content/uploads/2024/04/Nucleic-Acid_Synthesis_Screening_Framework.pdf)
+    [framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Nucleic-Acid_Synthesis_Screening_Framework.pdf)
     for biotechnology safeguards on federally funded purchases of
     synthetic DNA and RNA. These safeguards, which include
     Know-Your-Customer screening, will reduce the likelihood of misuse
@@ -180,7 +180,7 @@ health security. 
     vaccine doses to Indo-Pacific countries and almost 800 million doses
     globally; advanced health security priorities in the Indo-Pacific
     region; and recently launched the [Quad Cancer
-    Moonshot](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific/),
+    Moonshot](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-quad-countries-launch-cancer-moonshot-initiative-to-reduce-the-burden-of-cancer-in-the-indo-pacific/),
     which will deliver up to 40 million doses of the human
     papillomavirus vaccine and support other efforts to address cervical
     cancer to the Indo-Pacific. Since its inception in 2014, the United
@@ -201,7 +201,7 @@ financial crises that resulted in the deaths of over [1.2 million
 Americans](https://covid.cdc.gov/covid-data-tracker/#maps_deaths-total)
 and an estimated $14 trillion in economic losses to the U.S. economy. On
 day one, President Biden [called on his
-Administration](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/)
+Administration](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/)
 to transform the existing financing institutions and to cultivate new
 financing sources for global health security that are more effective and
 sustainable, and that are less dependent on U.S. government assistance. 
@@ -209,7 +209,7 @@ sustainable, and that are less dependent on U.S. government assistance. 
 -   **Expanding Reliable Financing for Pandemic Prevention and
     Preparedness:** The United States was instrumental in the creation
     of the [**Pandemic
-    Fund**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-pandemic-preparedness-prevention-and-response-fund-at-the-world-bank/)
+    Fund**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-pandemic-preparedness-prevention-and-response-fund-at-the-world-bank/)
     in 2022, the only multilateral financing facility dedicated
     exclusively to pandemic preparedness financing for low- and middle-
     income countries. The Pandemic Fund made significant progress in its
@@ -276,7 +276,7 @@ sustainable, and that are less dependent on U.S. government assistance. 
 
 The Biden-Harris Administration has prioritized [expanding access to
 quality medical countermeasures
-(MCMs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/))
+(MCMs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/))
 around the world, building on decades of global health and health
 security leadership by the United States. The United States has long led
 the world in innovation, research and development. The COVID-19 pandemic
@@ -305,7 +305,7 @@ products and overcome barriers to rapid access. 
     middle-income countries to sustainably produce mRNA vaccines.
     Similarly, the United States Government **invested** [**more than $2
     billion in the JYNNEOS
-    vaccine**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
+    vaccine**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
     as part of smallpox preparedness. These investments directly led to
     product licensure for both smallpox and mpox. On September 13, 2024,
     WHO announced pre-qualification of the JYNNEOS vaccine for global
@@ -319,10 +319,10 @@ products and overcome barriers to rapid access. 
 
 -   **Investments in Biotechnology:** The Biden-Harris Administration
     has prioritized [transforming our biotechnology
-    capabilities](https://www.whitehouse.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf),
+    capabilities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf),
     including catalyzing advances in science, technology, and core
     capabilities and has advanced a [whole-of-government
-    approach](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/)
+    approach](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/)
     to strengthening U.S. biotechnology and biomanufacturing, including
     for health security. The United States Government’s historic
     investments in science and technology, from basic science to
@@ -396,20 +396,20 @@ Biden-Harris Administration include:
 
 -   **COVID-19 Pandemic:** Starting in 2021, the United States [invested
     $16 billion in the global COVID-19
-    response](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/09/fact-sheet-actions-taken-by-the-biden-harris-administration-to-ensure-continued-covid-19-protections-and-surge-preparedness-after-public-health-emergency-transition/).
+    response](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/09/fact-sheet-actions-taken-by-the-biden-harris-administration-to-ensure-continued-covid-19-protections-and-surge-preparedness-after-public-health-emergency-transition/).
     The Administration accelerated global access to COVID-19 vaccines,
     including sharing nearly 700 million COVID-19 vaccine doses with
     countries around the world, as well as diagnostics and
     therapeutics, [supporting health
-    workers](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/),
+    workers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/),
     securing supply chains, and combatting mis- and disinformation on
     safe and effective COVID-19 vaccines. The United States was the
     world’s largest donor to the Access to COVID-19 Tools Accelerator
     (ACT-A) and provided global leadership to raise additional billions
     in critical funding through the
-    U.S.-[hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/)
+    U.S.-[hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/)
     and
-    [co-hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-and-president-von-der-leyen-on-occasion-of-the-second-global-covid-19-summit-may-12-2022/)
+    [co-hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-and-president-von-der-leyen-on-occasion-of-the-second-global-covid-19-summit-may-12-2022/)
     Global COVID-19 Summits to save lives globally, end the pandemic,
     and build stronger health security.
 
@@ -424,7 +424,7 @@ Biden-Harris Administration include:
     During the ongoing clade I mpox outbreak, the U.S. Government [has
     committed over $500 million to support mpox preparedness and
     response
-    activities](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
+    activities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
     in mpox-affected countries in Africa, and the U.S. Government has
     made more than one million mpox vaccine doses available for global
     use. The United States has delivered additional support through
@@ -443,7 +443,7 @@ Biden-Harris Administration include:
     doses and a small number of investigational therapeutics doses,
     [which arrived in Rwanda within a week of the U.S. Government
     learning of the
-    outbreak](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/).
+    outbreak](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/).
     The United States has also contributed hundreds of MVD tests and
     units of personal protective equipment.
 

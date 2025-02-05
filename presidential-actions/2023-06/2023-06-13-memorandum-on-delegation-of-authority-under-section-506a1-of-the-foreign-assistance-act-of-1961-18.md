@@ -1,7 +1,7 @@
 ---
 date: '2023-06-13'
 published_time: 2023-06-13 13:58:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/13/memorandum-on-delegation-of-authority-under-section-506a1-of-the-foreign-assistance-act-of-1961-18/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/13/memorandum-on-delegation-of-authority-under-section-506a1-of-the-foreign-assistance-act-of-1961-18/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Section 506(a)(1) of the Foreign\
   \ Assistance Act of\_1961"

@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 19:22:38-04:00
 published_time: 2024-10-03 19:22:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/03/statement-by-president-joe-biden-on-ila-and-usmx-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/03/statement-by-president-joe-biden-on-ila-and-usmx-agreement/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on ILA and USMX\_Agreement"
 ---

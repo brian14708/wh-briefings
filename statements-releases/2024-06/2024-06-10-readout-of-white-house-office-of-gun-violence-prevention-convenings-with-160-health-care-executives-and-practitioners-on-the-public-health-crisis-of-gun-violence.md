@@ -1,7 +1,7 @@
 ---
 date: '2024-06-10'
 published_time: 2024-06-10 15:57:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/10/readout-of-white-house-office-of-gun-violence-prevention-convenings-with-160-health-care-executives-and-practitioners-on-the-public-health-crisis-of-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/10/readout-of-white-house-office-of-gun-violence-prevention-convenings-with-160-health-care-executives-and-practitioners-on-the-public-health-crisis-of-gun-violence/
 tags: statements-releases
 title: "Readout of White\_House Office of Gun Violence Prevention Convenings with\
   \ 160 Health-Care Executives and Practitioners on the Public Health Crisis of Gun\_\
@@ -75,7 +75,7 @@ apart communities nationwide. In January, the Office of Gun Violence
 Prevention, in partnership with the U.S. Department of Education and the
 Department of Justice, also announced [new executive actions to help
 promote safe storage of
-firearms](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/) that
+firearms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/) that
 implement President Biden’s Executive Order on promoting safe gun
 storage, which has been shown to dramatically reduce children’s risk of
 self-inflicted harm and unintentional shootings.

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 21:57:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/readout-of-national-security-advisor-jake-sullivans-meeting-with-european-commission-executive-vice-presidents-margrethe-vestager-and-valdis-dombrovskis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/readout-of-national-security-advisor-jake-sullivans-meeting-with-european-commission-executive-vice-presidents-margrethe-vestager-and-valdis-dombrovskis/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with European\
   \ Commission Executive Vice Presidents Margrethe Vestager and Valdis\_Dombrovskis"

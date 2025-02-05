@@ -1,7 +1,7 @@
 ---
 date: '2024-02-08'
 published_time: 2024-02-08 17:25:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/08/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-february-8-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/08/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-february-8-2024/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby, February 8,\_2024"

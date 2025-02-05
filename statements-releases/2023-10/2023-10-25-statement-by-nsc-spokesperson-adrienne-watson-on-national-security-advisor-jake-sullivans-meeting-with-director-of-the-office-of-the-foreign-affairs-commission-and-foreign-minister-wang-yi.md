@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 19:30:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-yi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-director-of-the-office-of-the-foreign-affairs-commission-and-foreign-minister-wang-yi/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Director of the Office of the Foreign Affairs\

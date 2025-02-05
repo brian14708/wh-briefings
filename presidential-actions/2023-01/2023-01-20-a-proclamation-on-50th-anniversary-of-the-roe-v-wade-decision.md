@@ -2,7 +2,7 @@
 date: '2023-01-20'
 modified_time: 2023-01-20 10:38:19-05:00
 published_time: 2023-01-20 10:36:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/20/a-proclamation-on-50th-anniversary-of-the-roe-v-wade-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/20/a-proclamation-on-50th-anniversary-of-the-roe-v-wade-decision/
 tags: presidential-actions
 title: "A Proclamation on 50th Anniversary of the Roe v. Wade\_Decision"
 ---

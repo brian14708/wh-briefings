@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 11:47:44-04:00
 published_time: 2022-06-06 11:47:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/declaration-of-emergency-and-authorization-for-temporary-extensions-of-time-and-duty-free-importation-of-solar-cells-and-modules-from-southeast-asia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/declaration-of-emergency-and-authorization-for-temporary-extensions-of-time-and-duty-free-importation-of-solar-cells-and-modules-from-southeast-asia/
 tags: statements-releases
 title: "Declaration of Emergency and Authorization for Temporary Extensions of Time\
   \ and Duty-Free Importation of Solar Cells and Modules from Southeast\_Asia"

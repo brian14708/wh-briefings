@@ -2,7 +2,7 @@
 date: '2024-06-28'
 modified_time: 2024-06-28 13:57:19-04:00
 published_time: 2024-06-28 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/28/memorandum-on-extending-eligibility-for-deferred-enforced-departure-for-liberians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/28/memorandum-on-extending-eligibility-for-deferred-enforced-departure-for-liberians/
 tags: statements-releases
 title: "Memorandum on Extending Eligibility for Deferred Enforced Departure for\_\
   Liberians"

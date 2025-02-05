@@ -1,7 +1,7 @@
 ---
 date: '2022-12-06'
 published_time: 2022-12-06 16:59:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/06/fact-sheet-biden-harris-administration-hosts-economic-dialogue-with-the-government-of-puerto-rico-to-jointly-advance-economic-development-in-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/06/fact-sheet-biden-harris-administration-hosts-economic-dialogue-with-the-government-of-puerto-rico-to-jointly-advance-economic-development-in-2023/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hosts Economic Dialogue with\
   \ the Government of Puerto Rico to Jointly Advance Economic Development in\_2023"
@@ -14,7 +14,7 @@ for resilience, recovery, infrastructure, and economic growth. This has
 created an opportunity for Puerto Rico to make transformational change
 on the island. To seize on this moment, the President established the
 [White House Working Group on Puerto
-Rico](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/)
+Rico](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/)
 to coordinate federal efforts, co-chaired by Domestic Policy Advisor
 Susan Rice, National Economic Advisor Brian Deese, and Director of
 Intergovernmental Affairs Julie Rodriguez  
@@ -25,7 +25,7 @@ resources from the federal and Puerto Rico governments are invested
 effectively, swiftly, and equitably to benefit all residents of Puerto
 Rico. This new initiative will renew and strengthen the working
 relationship between Washington, D.C. and San Juan and [build on the
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/)
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/)
 that has already been made during this Administration to support
 inclusive prosperity and dignity, equality, and respect for Puerto
 Rico.  

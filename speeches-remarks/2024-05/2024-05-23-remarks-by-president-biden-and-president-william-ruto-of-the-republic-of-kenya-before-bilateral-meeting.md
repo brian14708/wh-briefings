@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 14:56:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President William Ruto of the Republic of\
   \ Kenya Before Bilateral\_Meeting"

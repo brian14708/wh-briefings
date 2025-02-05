@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-30 12:05:30-05:00
 published_time: 2023-11-29 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-president-biden-on-how-bidenomics-is-mobilizing-investments-in-clean-energy-manufacturing-and-creating-good-paying-jobs-in-communities-around-the-country-pueblo-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-president-biden-on-how-bidenomics-is-mobilizing-investments-in-clean-energy-manufacturing-and-creating-good-paying-jobs-in-communities-around-the-country-pueblo-co/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on How Bidenomics is Mobilizing Investments in\
   \ Clean Energy Manufacturing and Creating Good-Paying Jobs in Communities Around\

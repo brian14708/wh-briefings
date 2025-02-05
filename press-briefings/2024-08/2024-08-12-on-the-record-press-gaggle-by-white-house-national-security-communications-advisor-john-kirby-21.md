@@ -2,7 +2,7 @@
 date: '2024-08-12'
 modified_time: 2024-08-12 21:11:56-04:00
 published_time: 2024-08-12 21:11:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/12/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-21/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/12/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-21/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John\_Kirby"

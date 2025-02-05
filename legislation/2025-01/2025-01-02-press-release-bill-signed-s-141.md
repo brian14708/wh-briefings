@@ -2,7 +2,7 @@
 date: '2025-01-02'
 modified_time: 2025-01-02 18:28:45-05:00
 published_time: 2025-01-02 18:28:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2025/01/02/press-release-bill-signed-s-141/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2025/01/02/press-release-bill-signed-s-141/
 tags: legislation
 title: "Press Release: Bill Signed: S.\_141"
 ---

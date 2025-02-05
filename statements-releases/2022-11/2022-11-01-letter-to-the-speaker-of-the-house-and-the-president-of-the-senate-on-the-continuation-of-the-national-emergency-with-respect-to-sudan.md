@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 13:00:00-04:00
 published_time: 2022-11-01 12:59:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-sudan/
 tags: statements-releases
 title: "Letter to the Speaker of the House and the President of the Senate on the\
   \ Continuation of the National Emergency With Respect to\_Sudan"

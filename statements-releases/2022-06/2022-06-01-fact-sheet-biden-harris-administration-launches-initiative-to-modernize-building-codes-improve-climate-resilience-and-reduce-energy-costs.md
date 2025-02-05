@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-05-31 22:14:48-04:00
 published_time: 2022-06-01 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Initiative to Modernize\
   \ Building Codes, Improve Climate Resilience, and Reduce Energy\_Costs"
@@ -201,7 +201,7 @@ activities receiving federal funding or financing will meet or exceed
 the latest building codes to the greatest extent feasible regardless of
 local code adoption, while balancing [Administration policies to boost
 housing supply and lower upfront
-costs](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+costs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 and with flexibility for operational constraints, mission requirements,
 technical feasibility, enforcement feasibility, individual limitations,
 or Tribal, cultural, or traditional structures. The MitFLG will report
@@ -213,7 +213,7 @@ The Biden-Harris Administration will continue to expand its efforts to
 adopt ambitious, above-code resilience and energy efficiency standards
 across the federal building portfolio. As part of ongoing work to
 implement the President’s [Executive Order on Federal
-Sustainability](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/):
+Sustainability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/):
 
 -   Federal agencies will design all large new construction and
     modernization projects (above 25,000 gross square feet), starting

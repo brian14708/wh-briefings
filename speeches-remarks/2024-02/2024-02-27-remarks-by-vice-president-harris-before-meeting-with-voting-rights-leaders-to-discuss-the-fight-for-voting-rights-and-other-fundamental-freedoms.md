@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-28 09:21:22-05:00
 published_time: 2024-02-27 21:19:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-vice-president-harris-before-meeting-with-voting-rights-leaders-to-discuss-the-fight-for-voting-rights-and-other-fundamental-freedoms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-vice-president-harris-before-meeting-with-voting-rights-leaders-to-discuss-the-fight-for-voting-rights-and-other-fundamental-freedoms/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Meeting with Voting Rights Leaders\
   \ to Discuss the Fight for Voting Rights and Other Fundamental\_Freedoms"

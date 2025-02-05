@@ -2,7 +2,7 @@
 date: '2023-10-07'
 modified_time: 2023-10-08 14:02:46-04:00
 published_time: 2023-10-07 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/07/background-press-call-by-a-senior-administration-official-regarding-hamas-terrorist-attacks-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/10/07/background-press-call-by-a-senior-administration-official-regarding-hamas-terrorist-attacks-in-israel/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official Regarding Hamas\
   \ Terrorist Attacks in\_Israel"

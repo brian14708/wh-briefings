@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 14:03:00-04:00
 published_time: 2023-10-06 14:02:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/10/06/press-release-bills-signed-h-r-5110-s-112-s-2795/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/10/06/press-release-bills-signed-h-r-5110-s-112-s-2795/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 5110, S. 112, S.\_2795"
 ---

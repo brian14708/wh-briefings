@@ -2,7 +2,7 @@
 date: '2022-04-26'
 modified_time: 2022-04-25 14:55:50-04:00
 published_time: 2022-04-26 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/president-biden-announces-key-regional-appointments-for-hhs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/president-biden-announces-key-regional-appointments-for-hhs/
 tags: statements-releases
 title: "President\_Biden Announces Key Regional Appointments for\_HHS"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-20'
 published_time: 2023-02-20 05:07:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/20/statement-from-president-joe-biden-on-travel-to-kyiv-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/20/statement-from-president-joe-biden-on-travel-to-kyiv-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Travel to Kyiv,\_Ukraine"
 ---

@@ -2,7 +2,7 @@
 date: '2023-07-01'
 modified_time: 2023-07-01 13:39:30-04:00
 published_time: 2023-07-01 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/01/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-all-volunteer-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/01/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-all-volunteer-force/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 50th Anniversary of the All-Volunteer\_\
   Force"
@@ -46,7 +46,7 @@ support our nation’s veterans, including the PACT Act— the most
 significant law in our Nation’s history to help the millions of veterans
 who were exposed to fumes from burn pits or other toxic substances
 during their service. The First Lady, through
-her *[Joining Forces](https://www.whitehouse.gov/joiningforces/)* initiative,
+her *[Joining Forces](https://bidenwhitehouse.archives.gov/joiningforces/)* initiative,
 continues to support those who serve alongside our active-duty military
 members, including their family members, caregivers and survivors.  
   

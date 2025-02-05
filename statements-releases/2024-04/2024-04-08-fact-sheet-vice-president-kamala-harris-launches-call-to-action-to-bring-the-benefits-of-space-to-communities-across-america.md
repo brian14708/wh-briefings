@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-09 14:54:18-04:00
 published_time: 2024-04-08 20:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-harris-launches-call-to-action-to-bring-the-benefits-of-space-to-communities-across-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-harris-launches-call-to-action-to-bring-the-benefits-of-space-to-communities-across-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Kamala\_Harris Launches Call to Action to Bring\
   \ the Benefits of Space to Communities Across\_America"
@@ -19,7 +19,7 @@ sustainable use of space to protect our national security interests,
 address the climate crisis, foster a thriving commercial space sector,
 and more. In 2022, the Vice President announced commitments [to inspire,
 prepare, and
-employ](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/09/fact-sheet-vice-president-harris-announces-commitments-to-inspire-prepare-and-employ-the-space-workforce/)
+employ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/09/fact-sheet-vice-president-harris-announces-commitments-to-inspire-prepare-and-employ-the-space-workforce/)
 the space workforce and ensure that the U.S.’ future in space remains
 strong. Today, the Vice President issued a call to action for both the
 private and public sectors to bring the benefits of space to communities
@@ -144,14 +144,14 @@ areas. These focus areas have an emphasis on equity and include:
     require college degrees, those that do not require college degrees,
     and those that require security clearances in support of the [United
     States Space Priorities
-    Framework](https://www.whitehouse.gov/wp-content/uploads/2021/12/united-states-space-priorities-framework-_-december-1-2021.pdf).
+    Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/united-states-space-priorities-framework-_-december-1-2021.pdf).
 -   **Address the Climate Crisis** – These commitments develop and scale
     climate services that use space-based data to strengthen decision
     making as a nation. They also enable businesses, communities, and
     individuals to reduce climate risk and increase resilience in
     support of the [Administration’s goal to reduce U.S. greenhouse gas
     emissions by
-    2030](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/%5d.).
+    2030](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/%5d.).
 
 <!-- -->
 
@@ -165,7 +165,7 @@ areas. These focus areas have an emphasis on equity and include:
     federal contracting dollars going to small businesses that are owned
     and controlled by [socially and economically disadvantaged
     individuals to 15% by Fiscal Year
-    2025](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-small-business-access-to-federal-contracts/).
+    2025](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-small-business-access-to-federal-contracts/).
 
 **How to Join the Call to Action**
 

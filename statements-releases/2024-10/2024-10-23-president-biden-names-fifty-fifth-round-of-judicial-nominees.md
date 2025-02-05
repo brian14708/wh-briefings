@@ -2,7 +2,7 @@
 date: '2024-10-23'
 modified_time: 2024-10-22 14:33:37-04:00
 published_time: 2024-10-23 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/23/president-biden-names-fifty-fifth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/23/president-biden-names-fifty-fifth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Fifty-Fifth Round of Judicial\_Nominees"
 ---

@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-05 15:08:15-04:00
 published_time: 2024-09-05 15:08:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/readout-of-principal-deputy-national-security-advisor-jon-finers-trip-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/readout-of-principal-deputy-national-security-advisor-jon-finers-trip-to-ukraine/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Trip\
   \ to\_Ukraine"

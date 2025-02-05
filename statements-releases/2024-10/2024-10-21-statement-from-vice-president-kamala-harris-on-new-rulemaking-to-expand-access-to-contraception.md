@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-20 20:57:23-04:00
 published_time: 2024-10-21 05:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/statement-from-vice-president-kamala-harris-on-new-rulemaking-to-expand-access-to-contraception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/statement-from-vice-president-kamala-harris-on-new-rulemaking-to-expand-access-to-contraception/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on New Rulemaking to Expand Access\
   \ to Contraception"

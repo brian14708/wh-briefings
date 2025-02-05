@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 23:49:46-04:00
 published_time: 2022-06-09 19:09:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-at-the-opening-plenary-session-of-the-ninth-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-at-the-opening-plenary-session-of-the-ninth-summit-of-the-americas/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Opening Plenary Session of the Ninth Summit\
   \ of the\_Americas"

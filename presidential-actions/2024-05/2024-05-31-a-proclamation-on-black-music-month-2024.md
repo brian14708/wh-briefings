@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 17:06:16-04:00
 published_time: 2024-05-31 17:06:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-black-music-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-black-music-month-2024/
 tags: presidential-actions
 title: "A Proclamation on Black Music Month,\_2024"
 ---

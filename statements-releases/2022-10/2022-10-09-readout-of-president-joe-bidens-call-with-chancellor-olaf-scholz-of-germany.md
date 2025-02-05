@@ -1,7 +1,7 @@
 ---
 date: '2022-10-09'
 published_time: 2022-10-09 12:36:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/09/readout-of-president-joe-bidens-call-with-chancellor-olaf-scholz-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/09/readout-of-president-joe-bidens-call-with-chancellor-olaf-scholz-of-germany/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Chancellor Olaf Scholz of\_\
   Germany"

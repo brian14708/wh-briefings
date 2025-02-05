@@ -1,7 +1,7 @@
 ---
 date: '2023-06-22'
 published_time: 2023-06-22 17:42:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/white-house-releases-state-dinner-guest-list-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/white-house-releases-state-dinner-guest-list-2/
 tags: statements-releases
 title: "White\_House Releases State Dinner Guest\_List"
 ---

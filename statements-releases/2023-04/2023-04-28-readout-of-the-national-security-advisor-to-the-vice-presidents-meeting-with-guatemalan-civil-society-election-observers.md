@@ -1,7 +1,7 @@
 ---
 date: '2023-04-28'
 published_time: 2023-04-28 18:08:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/28/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-guatemalan-civil-society-election-observers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/28/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-guatemalan-civil-society-election-observers/
 tags: statements-releases
 title: "Readout of the National Security Advisor to the Vice President\u2019s Meeting\
   \ with Guatemalan Civil Society Election\_Observers"

@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-04 10:28:09-04:00
 published_time: 2024-10-03 13:49:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-on-response-and-recovery-efforts-following-hurricane-helene-ray-city-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-on-response-and-recovery-efforts-following-hurricane-helene-ray-city-ga/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Response and Recovery Efforts Following Hurricane\
   \ Helene | Ray City,\_GA"

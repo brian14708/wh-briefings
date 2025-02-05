@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-27 08:02:15-04:00
 published_time: 2023-07-27 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-president-biden-to-announce-new-actions-to-protect-workers-and-communities-from-extreme-heat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-president-biden-to-announce-new-actions-to-protect-workers-and-communities-from-extreme-heat/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Protect Workers and\
   \ Communities from Extreme\_Heat"
@@ -69,7 +69,7 @@ national standard for workplace heat-safety rules.
     drinking water and build resiliency for communities most impacted by
     drought. In the wake of severe drought conditions throughout the
     West, the Administration is making [coordinated
-    investments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
+    investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
     through the Bipartisan Infrastructure Law and Inflation Reduction
     Act to modernize essential water infrastructure, invest in new water
     recycling and desalination projects and expand access to clean
@@ -77,7 +77,7 @@ national standard for workplace heat-safety rules.
     contaminated water supplies.
 
 Today’s announcements build on [numerous
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-extreme-heat-fueled-by-the-climate-crisis/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-extreme-heat-fueled-by-the-climate-crisis/)
 that the Biden-Harris Administration has taken to bolster heat response
 and resilience nationwide, including providing billions of dollars
 through the Department of Housing and Urban Development to communities

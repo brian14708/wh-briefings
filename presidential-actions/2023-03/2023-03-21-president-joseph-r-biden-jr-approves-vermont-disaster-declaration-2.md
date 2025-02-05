@@ -1,7 +1,7 @@
 ---
 date: '2023-03-21'
 published_time: 2023-03-21 07:37:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/21/president-joseph-r-biden-jr-approves-vermont-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/21/president-joseph-r-biden-jr-approves-vermont-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Vermont Disaster\_Declaration"
 ---

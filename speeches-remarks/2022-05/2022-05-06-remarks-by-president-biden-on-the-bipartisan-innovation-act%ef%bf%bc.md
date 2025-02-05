@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 17:59:44-04:00
 published_time: 2022-05-06 17:59:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/06/remarks-by-president-biden-on-the-bipartisan-innovation-act%ef%bf%bc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/06/remarks-by-president-biden-on-the-bipartisan-innovation-act%ef%bf%bc/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_on the Bipartisan Innovation\_Act\uFFFC"
 ---

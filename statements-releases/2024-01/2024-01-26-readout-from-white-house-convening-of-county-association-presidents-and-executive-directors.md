@@ -2,7 +2,7 @@
 date: '2024-01-26'
 modified_time: 2024-01-26 15:39:55-05:00
 published_time: 2024-01-26 15:34:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/readout-from-white-house-convening-of-county-association-presidents-and-executive-directors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/readout-from-white-house-convening-of-county-association-presidents-and-executive-directors/
 tags: statements-releases
 title: "Readout from White\_House Convening of County Association Presidents and Executive\_\
   Directors"

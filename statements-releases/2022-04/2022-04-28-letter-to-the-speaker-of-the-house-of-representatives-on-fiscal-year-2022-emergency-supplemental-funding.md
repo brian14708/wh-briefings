@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 11:37:45-04:00
 published_time: 2022-04-28 11:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2022-emergency-supplemental-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2022-emergency-supplemental-funding/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives on Fiscal Year 2022\
   \ Emergency Supplemental\_Funding"

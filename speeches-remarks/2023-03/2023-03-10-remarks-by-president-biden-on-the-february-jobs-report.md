@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 13:28:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-president-biden-on-the-february-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-president-biden-on-the-february-jobs-report/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the February Jobs\_Report"
 ---

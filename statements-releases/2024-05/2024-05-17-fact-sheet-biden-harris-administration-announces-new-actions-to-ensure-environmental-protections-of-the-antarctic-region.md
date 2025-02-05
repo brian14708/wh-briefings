@@ -1,7 +1,7 @@
 ---
 date: '2024-05-17'
 published_time: 2024-05-17 12:06:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-biden-harris-administration-announces-new-actions-to-ensure-environmental-protections-of-the-antarctic-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-biden-harris-administration-announces-new-actions-to-ensure-environmental-protections-of-the-antarctic-region/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Ensure\
   \ Environmental Protections of the Antarctic\_Region"

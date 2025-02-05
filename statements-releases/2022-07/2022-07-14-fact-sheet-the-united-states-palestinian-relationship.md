@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 12:34:53-04:00
 published_time: 2022-07-14 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/fact-sheet-the-united-states-palestinian-relationship/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/fact-sheet-the-united-states-palestinian-relationship/
 tags: statements-releases
 title: "FACT SHEET: The United\_States-Palestinian\_Relationship"
 ---

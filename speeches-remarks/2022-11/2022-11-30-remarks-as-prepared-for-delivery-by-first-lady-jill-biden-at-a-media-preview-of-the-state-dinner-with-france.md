@@ -1,7 +1,7 @@
 ---
 date: '2022-11-30'
 published_time: 2022-11-30 16:04:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/30/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-of-the-state-dinner-with-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/30/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-of-the-state-dinner-with-france/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Media Preview\
   \ of the State Dinner with\_France"

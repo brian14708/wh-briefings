@@ -1,7 +1,7 @@
 ---
 date: '2024-01-12'
 published_time: 2024-01-12 12:37:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-martin-luther-king-jr-federal-holiday-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-martin-luther-king-jr-federal-holiday-2024/
 tags: presidential-actions
 title: "A Proclamation on Martin Luther King, Jr., Federal Holiday,\_2024"
 ---

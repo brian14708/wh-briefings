@@ -2,7 +2,7 @@
 date: '2023-04-09'
 modified_time: 2023-04-09 18:41:04-04:00
 published_time: 2023-04-09 18:41:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/09/remarks-by-vice-president-harris-at-fisk-university/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/09/remarks-by-vice-president-harris-at-fisk-university/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Fisk\_University"
 ---

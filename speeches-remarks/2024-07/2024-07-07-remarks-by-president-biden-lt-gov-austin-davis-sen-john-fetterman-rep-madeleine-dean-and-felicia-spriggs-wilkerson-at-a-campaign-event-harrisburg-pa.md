@@ -2,7 +2,7 @@
 date: '2024-07-07'
 modified_time: 2024-07-08 13:04:32-04:00
 published_time: 2024-07-07 12:49:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/07/remarks-by-president-biden-lt-gov-austin-davis-sen-john-fetterman-rep-madeleine-dean-and-felicia-spriggs-wilkerson-at-a-campaign-event-harrisburg-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/07/remarks-by-president-biden-lt-gov-austin-davis-sen-john-fetterman-rep-madeleine-dean-and-felicia-spriggs-wilkerson-at-a-campaign-event-harrisburg-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Lt. Gov. Austin Davis, Sen. John Fetterman, Rep.\
   \ Madeleine Dean, and Felicia Spriggs-Wilkerson at a Campaign Event | Harrisburg,\_\

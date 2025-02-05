@@ -1,7 +1,7 @@
 ---
 date: '2023-02-02'
 published_time: 2023-02-02 09:27:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/02/memorandum-on-supporting-access-to-leave-for-federal-employees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/02/memorandum-on-supporting-access-to-leave-for-federal-employees/
 tags: presidential-actions
 title: "Memorandum on Supporting Access to Leave for Federal\_Employees"
 ---

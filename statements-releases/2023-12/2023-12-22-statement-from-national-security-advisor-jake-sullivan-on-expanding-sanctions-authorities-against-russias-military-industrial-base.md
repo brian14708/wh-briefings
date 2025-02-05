@@ -1,7 +1,7 @@
 ---
 date: '2023-12-22'
 published_time: 2023-12-22 07:51:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-national-security-advisor-jake-sullivan-on-expanding-sanctions-authorities-against-russias-military-industrial-base/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-national-security-advisor-jake-sullivan-on-expanding-sanctions-authorities-against-russias-military-industrial-base/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Expanding Sanctions\
   \ Authorities Against Russia\u2019s Military Industrial\_Base"

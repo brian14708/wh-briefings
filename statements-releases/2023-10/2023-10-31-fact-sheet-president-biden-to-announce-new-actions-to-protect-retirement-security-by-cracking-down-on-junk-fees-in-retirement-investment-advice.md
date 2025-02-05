@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-10-31 10:07:01-04:00
 published_time: 2023-10-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-to-announce-new-actions-to-protect-retirement-security-by-cracking-down-on-junk-fees-in-retirement-investment-advice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-president-biden-to-announce-new-actions-to-protect-retirement-security-by-cracking-down-on-junk-fees-in-retirement-investment-advice/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Announce New Actions to Protect Retirement\
   \ Security by Cracking Down on Junk Fees in Retirement Investment\_Advice"
@@ -36,7 +36,7 @@ dollars per impacted middle-class saver that could otherwise have been
 lost to junk fees. For example, advice rooted in conflicts of interest
 regarding the sale of just one investment product—fixed index
 annuities—may [cost savers as much as $5 billion per
-year](https://www.whitehouse.gov/cea/written-materials/2023/10/31/retirement-rule/).
+year](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/10/31/retirement-rule/).
 This hurts workers, families, and the American economy.  
   
 **That’s why today, as part of his broader Bidenomics agenda to grow the

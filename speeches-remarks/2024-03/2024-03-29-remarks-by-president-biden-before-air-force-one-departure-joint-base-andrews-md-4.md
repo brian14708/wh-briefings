@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-03-30 10:38:59-04:00
 published_time: 2024-03-29 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/29/remarks-by-president-biden-before-air-force-one-departure-joint-base-andrews-md-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/29/remarks-by-president-biden-before-air-force-one-departure-joint-base-andrews-md-4/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Joint Base Andrews,\_\
   MD"

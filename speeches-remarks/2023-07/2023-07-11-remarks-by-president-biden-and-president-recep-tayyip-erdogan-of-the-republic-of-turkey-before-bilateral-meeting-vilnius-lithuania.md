@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 13:00:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-president-biden-and-president-recep-tayyip-erdogan-of-the-republic-of-turkey-before-bilateral-meeting-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-president-biden-and-president-recep-tayyip-erdogan-of-the-republic-of-turkey-before-bilateral-meeting-vilnius-lithuania/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Recep Tayyip Erdo\u011Fan of the\
   \ Republic of Turkey Before Bilateral Meeting | Vilnius,\_Lithuania"

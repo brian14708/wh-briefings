@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-15 18:08:30-04:00
 published_time: 2024-05-16 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-unveils-critical-steps-to-protect-workers-from-risks-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-unveils-critical-steps-to-protect-workers-from-risks-of-artificial-intelligence/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Unveils Critical Steps to Protect\
   \ Workers from Risks of Artificial\_Intelligence"
@@ -15,7 +15,7 @@ advance opportunity, while also taking action to ensure workers share in
 these gains. As part of these efforts, President Biden’s landmark
 [Executive Order on the Safe, Secure, and Trustworthy Development and
 Use of Artificial
-Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 directed the Department of Labor to establish a set of key principles
 that protect workers and ensure they have a seat at the table in
 determining how these technologies are developed and used. The

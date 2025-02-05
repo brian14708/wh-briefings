@@ -1,7 +1,7 @@
 ---
 date: '2024-06-26'
 published_time: 2024-06-26 10:44:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-trip-to-israel-and-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-trip-to-israel-and-the-west-bank/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Trip to Israel and the West\_Bank"
@@ -9,7 +9,7 @@ title: "Readout of National Security Advisor to the Vice President Phil Gordon\u
  
 National Security Advisor to the Vice President Dr. Phil Gordon visited
 Israel June 23-25 to
-deliver [remarks](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/24/remarks-by-national-security-advisor-to-the-vice-president-dr-phil-gordon-at-the-herzliya-conference/) at
+deliver [remarks](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/24/remarks-by-national-security-advisor-to-the-vice-president-dr-phil-gordon-at-the-herzliya-conference/) at
 the Herzliya Conference and to consult with Israeli officials on Gaza,
 Lebanon, and other areas. Dr. Gordon met with President Isaac Herzog,
 National Security Advisor Tzachi Hanegbi, Minister for Strategic Affairs

@@ -2,7 +2,7 @@
 date: '2024-05-17'
 modified_time: 2024-05-20 15:45:43-04:00
 published_time: 2024-05-17 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/17/national-security-memorandum-on-united-states-policy-on-the-antarctic-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/17/national-security-memorandum-on-united-states-policy-on-the-antarctic-region/
 tags: presidential-actions
 title: "National Security Memorandum on United\_States Policy on the Antarctic\_Region"
 ---

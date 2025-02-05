@@ -1,7 +1,7 @@
 ---
 date: '2023-05-24'
 published_time: 2023-05-24 17:58:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/24/remarks-by-president-biden-marking-one-year-since-the-school-shooting-in-uvalde-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/24/remarks-by-president-biden-marking-one-year-since-the-school-shooting-in-uvalde-texas/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Marking One Year Since the School Shooting in\
   \ Uvalde,\_Texas"

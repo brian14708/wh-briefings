@@ -2,7 +2,7 @@
 date: '2024-03-04'
 modified_time: 2024-03-04 10:43:05-05:00
 published_time: 2024-03-04 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/04/statement-from-president-joe-biden-on-progress-on-medicare-drug-price-negotiations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/04/statement-from-president-joe-biden-on-progress-on-medicare-drug-price-negotiations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Progress on Medicare Drug Price\_Negotiations"
 ---

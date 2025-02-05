@@ -2,7 +2,7 @@
 date: '2024-03-26'
 modified_time: 2024-03-26 14:24:21-04:00
 published_time: 2024-03-26 14:24:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-on-the-collapse-of-the-francis-scott-key-bridge/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-on-the-collapse-of-the-francis-scott-key-bridge/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Collapse of the Francis Scott Key\_Bridge"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-02'
 published_time: 2023-04-02 14:42:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/02/statement-from-president-joe-biden-on-devastating-weekend-storms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/02/statement-from-president-joe-biden-on-devastating-weekend-storms/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Devastating Weekend\_Storms"
 ---

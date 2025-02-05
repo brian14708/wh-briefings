@@ -2,7 +2,7 @@
 date: '2024-11-02'
 modified_time: 2024-11-04 13:48:02-04:00
 published_time: 2024-11-02 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/02/remarks-by-president-biden-at-a-carpenters-local-445-gotv-event-scranton-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/02/remarks-by-president-biden-at-a-carpenters-local-445-gotv-event-scranton-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Carpenters Local 445 GOTV Event | Scranton,\_\
   PA"

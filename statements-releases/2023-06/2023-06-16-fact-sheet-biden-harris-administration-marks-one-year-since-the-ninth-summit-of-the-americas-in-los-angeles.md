@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 18:12:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/fact-sheet-biden-harris-administration-marks-one-year-since-the-ninth-summit-of-the-americas-in-los-angeles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/fact-sheet-biden-harris-administration-marks-one-year-since-the-ninth-summit-of-the-americas-in-los-angeles/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Marks One Year Since the Ninth\
   \ Summit of the Americas in Los\_Angeles"
@@ -28,12 +28,12 @@ and sustainable Americas**: During the Summit of the Americas, President
 Biden, recognizing the enormous economic potential in the region, called
 for a new approach to cooperation in the hemisphere with the [**Americas
 Partnership for Economic
-Prosperity**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-president-biden-announces-the-americas-partnership-for-economic-prosperity/),
+Prosperity**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-president-biden-announces-the-americas-partnership-for-economic-prosperity/),
 a historic agreement to drive our hemisphere’s recovery and growth, and
 deliver for our working people.
 
 -   On January 27, 2023 the United States and 11 partner countries
-    [advanced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-advances-americas-partnership-for-economic-prosperity/)
+    [advanced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-advances-americas-partnership-for-economic-prosperity/)
     the Americas Partnership for Economic Prosperity when foreign
     affairs and trade ministers jointly declared our commitment to drive
     more inclusive and sustainable regional integration in a group of
@@ -173,7 +173,7 @@ challenges facing Caribbean nations. This month, the Vice President
 visited The Bahamas and in pursuit of shared prosperity and security,
 and in recognition of the close ties between our nations, the Vice
 President
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-caribbean-partnership/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-caribbean-partnership/)
 a number of new activities that address security and firearms
 trafficking, the need for an enhanced diplomatic presence in the eastern
 Caribbean, the crisis in Haiti, and the U.S.–Caribbean Partnership to

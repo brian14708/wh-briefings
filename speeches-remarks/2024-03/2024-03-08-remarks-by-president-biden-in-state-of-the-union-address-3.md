@@ -1,7 +1,7 @@
 ---
 date: '2024-03-08'
 published_time: 2024-03-08 11:34:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-state-of-the-union-address-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-state-of-the-union-address-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in State of the Union\_Address"
 ---

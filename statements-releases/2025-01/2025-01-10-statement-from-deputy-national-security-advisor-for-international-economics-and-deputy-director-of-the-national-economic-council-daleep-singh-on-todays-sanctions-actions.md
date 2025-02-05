@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 11:33:02-05:00
 published_time: 2025-01-10 10:48:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/statement-from-deputy-national-security-advisor-for-international-economics-and-deputy-director-of-the-national-economic-council-daleep-singh-on-todays-sanctions-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/statement-from-deputy-national-security-advisor-for-international-economics-and-deputy-director-of-the-national-economic-council-daleep-singh-on-todays-sanctions-actions/
 tags: statements-releases
 title: "Statement from Deputy National Security Advisor for International Economics\
   \ and Deputy Director of the National Economic Council Daleep Singh on Today\u2019\

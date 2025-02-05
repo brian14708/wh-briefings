@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-10 15:12:15-04:00
 published_time: 2024-10-10 14:58:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-celebrates-international-day-of-the-girl-and-continues-commitment-to-supporting-youth-in-the-u-s-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-celebrates-international-day-of-the-girl-and-continues-commitment-to-supporting-youth-in-the-u-s-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates International Day\
   \ of the Girl and Continues Commitment to Supporting Youth in the U.S. and\_Abroad"
@@ -16,7 +16,7 @@ host the second “Girls Leading Change” event at the White House to
 recognize outstanding young women from across the United States who are
 making a difference in their communities. This year’s event will
 honor <u>[10 young women
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/first-lady-jill-biden-announces-2024-girls-leading-change-honorees/)</u>,
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/first-lady-jill-biden-announces-2024-girls-leading-change-honorees/)</u>,
 selected by the White House Gender Policy Council, who are leading
 change and shaping a brighter future for generations to come.  
 
@@ -40,7 +40,7 @@ girls, including:
     Research program to extended-day and afterschool programming through
     21st Century Community Learning Centers. And the Administration’s
     [Improving Student Achievement Agenda for
-    2024](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
+    2024](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
     is helping accelerate academic performance for every child in
     school.
 
@@ -106,10 +106,10 @@ girls, including:
     community-led crime prevention and intervention strategies and has
     announced more executive actions to reduce gun violence than any
     other administration. Most recently, building on [life-saving
-    actions](https://www.whitehouse.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf)
+    actions](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf)
     that the Administration has already taken, President Biden signed a
     [new Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-president-biden-and-vice-president-harris-announce-additional-actions-to-reduce-gun-violence-and-save-lives/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-president-biden-and-vice-president-harris-announce-additional-actions-to-reduce-gun-violence-and-save-lives/)
     in September 2024 to improve school-based active shooter drills and
     combat emerging firearms threats. The President and Vice President
     also announced new actions to support survivors of gun violence,
@@ -125,7 +125,7 @@ girls, including:
     coastal ecosystems, strengthening urban and rural agriculture,
     investing in clean energy and energy efficiency, improving disaster
     and wildfire preparedness, and more. [More than 15,000 young
-    Americans](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/)
+    Americans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/)
     have already been put to work in high-quality, good-paying clean
     energy and climate resilience workforce training and service
     opportunities through the American Climate Corps—putting the program

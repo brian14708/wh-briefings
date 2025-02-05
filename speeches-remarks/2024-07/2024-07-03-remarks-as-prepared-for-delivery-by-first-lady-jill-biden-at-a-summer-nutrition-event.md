@@ -2,7 +2,7 @@
 date: '2024-07-03'
 modified_time: 2024-07-03 12:25:01-04:00
 published_time: 2024-07-03 12:25:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/03/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-summer-nutrition-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/03/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-summer-nutrition-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Summer Nutrition\_\
   Event"

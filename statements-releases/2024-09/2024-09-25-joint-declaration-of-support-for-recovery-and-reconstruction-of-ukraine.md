@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 22:07:45-04:00
 published_time: 2024-09-25 17:09:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/joint-declaration-of-support-for-recovery-and-reconstruction-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/joint-declaration-of-support-for-recovery-and-reconstruction-of-ukraine/
 tags: statements-releases
 title: "Joint Declaration of Support for Recovery and Reconstruction of\_Ukraine"
 ---

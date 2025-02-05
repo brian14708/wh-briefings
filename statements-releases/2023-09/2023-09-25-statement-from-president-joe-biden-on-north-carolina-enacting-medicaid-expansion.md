@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-25 16:43:50-04:00
 published_time: 2023-09-25 16:43:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-north-carolina-enacting-medicaid-expansion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-north-carolina-enacting-medicaid-expansion/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on North Carolina Enacting Medicaid\_\
   Expansion"

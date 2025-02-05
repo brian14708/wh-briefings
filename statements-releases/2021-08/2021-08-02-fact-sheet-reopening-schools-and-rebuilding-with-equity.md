@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-02'
 modified_time: 2021-08-01 19:24:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/
 published_time: 2021-08-02 06:00:00-04:00
 title: "FACT SHEET: Reopening Schools and Rebuilding With\_Equity"
 ---
@@ -19,11 +19,11 @@ the future.
 **<u>Prioritizing safe reopening</u>**  
   
 The President made clear on [Day One of this
-Administration](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
+Administration](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
 that safely reopening schools was a national priority, signing the
 [Executive Order on Supporting the Reopening and Continuing Operation of
 Schools and Early Childhood Education
-Providers,](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
+Providers,](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
 which launched a comprehensive effort across the White House, Department
 of Education, and Department of Health and Human Services to safely
 reopen schools for in-person instruction. The Department released two
@@ -210,7 +210,7 @@ against AAPI students. The Department of Education has moved swiftly to
 implement the [President’s Executive Order on Guaranteeing an
 Educational Environment Free from Discrimination on the Basis of Sex,
 Including Sexual Orientation or Gender
-Identity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/);
+Identity](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/);
 implement a [comprehensive
 plan](https://www2.ed.gov/about/offices/list/ocr/correspondence/stakeholders/20210406-titleix-eo-14021.pdf)
 to address sexual harassment, including sexual violence, in schools; and
@@ -256,6 +256,6 @@ builds on this work by investing historic and vitally-needed resources
 that unlock opportunity for millions of Americans, please see the [White
 House Fact Sheet on How the Biden-Harris Administration is Advancing
 Educational
-Equity](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/).
+Equity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/).
 
 \###

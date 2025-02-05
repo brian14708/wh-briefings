@@ -2,7 +2,7 @@
 date: '2024-11-21'
 modified_time: 2024-11-21 17:24:52-05:00
 published_time: 2024-11-21 17:24:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/11/21/press-release-bill-signed-h-r-7189/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/11/21/press-release-bill-signed-h-r-7189/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_7189"
 ---

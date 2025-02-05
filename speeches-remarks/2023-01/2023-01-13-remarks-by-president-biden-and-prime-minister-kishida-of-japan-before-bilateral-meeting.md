@@ -1,7 +1,7 @@
 ---
 date: '2023-01-13'
 published_time: 2023-01-13 14:39:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/13/remarks-by-president-biden-and-prime-minister-kishida-of-japan-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/13/remarks-by-president-biden-and-prime-minister-kishida-of-japan-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida of Japan Before Bilateral\_\
   Meeting"

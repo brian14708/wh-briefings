@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 09:33:08-04:00
 published_time: 2023-03-31 09:33:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-white-house-honors-transgender-day-of-visibility/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-white-house-honors-transgender-day-of-visibility/
 tags: statements-releases
 title: "FACT SHEET: White\_House Honors Transgender Day of\_Visibility"
 ---
@@ -98,7 +98,7 @@ transgender kids and their families by:
 -   **Signing a historic Executive Order to advance equality for LGBTQI+
     people, especially children and families.** President Biden signed a
     historic [Executive Order on Advancing Equality LGBTQI+
-    Individuals,](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
+    Individuals,](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
     establishing that it is the Administration’s policy to defend the
     rights and safety of LGBTQI+ individuals. In the Executive Order,
     the President directs relevant agencies to: address the dangerous
@@ -144,7 +144,7 @@ transgender kids and their families by:
     affirmation in the child welfare system.** In response to at least
     one state launching child abuse investigations into the loving
     families of transgender children, President Biden
-    [condemned](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/02/statement-by-president-biden-on-texas-attacks-on-transgender-youth/)
+    [condemned](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/02/statement-by-president-biden-on-texas-attacks-on-transgender-youth/)
     these investigations as callous government overreach that threatens
     families. In addition, the Department of Health and Human Services
     released guidance to state child welfare agencies through
@@ -161,7 +161,7 @@ transgender kids and their families by:
     children who identify as LGBTQI+.  
 -   **Supporting transgender students in our nation’s schools.**
     President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-guaranteeing-an-educational-environment-free-from-discrimination-on-the-basis-of-sex-including-sexual-orientation-or-gender-identity/) recommitting
     the Federal Government to fully abide by federal laws that guarantee
     educational environments free from sex discrimination, including
     discrimination on the basis of sexual orientation or gender
@@ -180,7 +180,7 @@ Americans by:
 
 -   **Directing agencies to strengthen LGBTQI+ rights.** Within hours of
     taking office, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) establishing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) establishing
     that it is the official policy of the Biden-Harris Administration to
     prevent and combat discrimination against LGBTQI+ individuals. As a
     result of that Executive Order, federal agencies  committed to
@@ -193,7 +193,7 @@ Americans by:
     state in the nation.  
 -   **Fighting for passage of the Equality Act.** President
     Biden [continues to
-    call](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
+    call](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
     Congress to pass the Equality Act, legislation which will confirm
     long overdue explicit federal civil rights protections to LGBTQI+
     Americans and their families.
@@ -236,7 +236,7 @@ members and veterans by:
 
 -   **Reversing the discriminatory ban on transgender
     servicemembers.** In his first week in office, President Biden
-    [reversed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
+    [reversed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
     the ban on transgender servicemembers serving openly in the Armed
     Forces, enabling all qualified Americans to proudly serve their
     country in uniform.  
@@ -309,7 +309,7 @@ equity for transgender Americans by:
 -   **Combatting HIV among transgender and gender diverse
     communities.** The White House Office of National AIDS Policy
     launched a revised [National HIV/AIDS
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf) and
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf) and
     includes transgender and gender diverse communities as a priority
     population in the federal government’s strategy to end the HIV
     epidemic. And the Health Resources and Services Administration
@@ -353,14 +353,14 @@ women and girls of color – by:
     anti-transgender violence.** The White House established the first
     Interagency Working Group on Safety, Opportunity, and Inclusion for
     Transgender and Gender Diverse Individuals, which released a
-    [roadmap](https://www.whitehouse.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf) highlighting
+    [roadmap](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf) highlighting
     45 key actions the Biden-Harris Administration is taking to address
     the root causes of anti-transgender violence, discrimination, and
     denial of economic opportunity.  
 -   **Increasing services for LGBTQI+ survivors of domestic violence.**
     The President championed and signed into law the reauthorization of
     the Violence Against Women Act, which [increases
-    services](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/)
+    services](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/)
     specifically for LGBTQ+ survivors of domestic violence, dating
     violence, sexual assault and stalking.  
 -   **Department of Justice civil rights enforcement actions.**  In
@@ -386,22 +386,22 @@ women and girls of color – by:
 -   **Addressing online harassment and abuse against transgender
     people.** President Biden established a White House Task Force to
     Address Online Harassment and Abuse to
-    [coordinate](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+    [coordinate](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/)
     a federal response to address the online threats and harms that
     disproportionately impact women, girls, and LGBTQI+ people –
     including LGBTQI+ youth.  
 -   **Advancing safety and justice for transgender and Two-Spirit
     Indigenous people.** President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/) to
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/) to
     address the crisis of Missing or Murdered Indigenous People,
     including LGBTQI+ and Two-Spirit Native Americans.  
 -   **Honoring transgender Americans lost to violence.** President Biden
-    [established](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/)
+    [established](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-president-biden-in-bill-signing-of-h-r-49-to-designate-the-national-pulse-memorial-into-law/)
     the National Pulse Memorial to honor the lives lost, including
     transgender Americans, at the Pulse nightclub shooting and to raise
     awareness about the impact of gun violence on LGBTQI+ communities.
     The Administration also hosted a first ever
-    [vigil](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
+    [vigil](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
     at the White House to honor the lives of transgender and gender
     diverse people lost to anti-trans violence.
 
@@ -412,7 +412,7 @@ the U.S. government’s foreign policy priorities by:
 -   **Advancing transgender equality in U.S. foreign policy and foreign
     assistance.** President Biden signed a [Presidential Memorandum on
     Advancing the Human Rights of LGBTQI+ Persons Around the
-    World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
+    World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
     directing agencies engaged abroad to ensure that United States
     diplomacy and foreign assistance promote and protect the human
     rights of LGBTQI+ people.   
@@ -473,9 +473,9 @@ and safety of transgender Americans – by:
 
 -   **Releasing a roadmap to improve LGBTQI+ data collection.** The
     Administration
-    [released ](https://www.whitehouse.gov/wp-content/uploads/2023/01/Federal-Evidence-Agenda-on-LGBTQI-Equity.pdf)the
+    [released ](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/Federal-Evidence-Agenda-on-LGBTQI-Equity.pdf)the
     first-ever [Federal Evidence
-    Agenda](https://www.whitehouse.gov/ostp/news-updates/2023/01/24/fact-sheet-biden-harris-administration-releases-first-ever-federal-evidence-agenda-on-lgbtqi-equity/)
+    Agenda](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/01/24/fact-sheet-biden-harris-administration-releases-first-ever-federal-evidence-agenda-on-lgbtqi-equity/)
     on LGBTQI+ Equity, a roadmap that federal agencies will use to
     ensure they are collecting the data and evidence they need to
     improve the lives of transgender and other LGBTQI+ Americans.  
@@ -487,14 +487,14 @@ and safety of transgender Americans – by:
 
 **Promoting visibility and inclusion for transgender Americans.**
 President Biden became the first U.S. President to issue
-a [proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
+a [proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) commemorating
 Transgender Day of Visibility. The White House has consistently uplifted
 the voices and stories of transgender Americans. The White House Press
 Secretary hosted a first-of-its-kind [national
 conversation](https://www.youtube.com/watch?v=3WsnZUAXJLA) on equality
 with transgender, gender non-conforming, and non-binary Americans, and
 the White House released a
-[toolkit](https://www.whitehouse.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf) with
+[toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf) with
 best practices for advancing inclusion, opportunity, and safety for
 transgender Americans. In 2022, Ashton Mota, a teenager and advocate for
 transgender rights, introduced President Biden at the White House’s

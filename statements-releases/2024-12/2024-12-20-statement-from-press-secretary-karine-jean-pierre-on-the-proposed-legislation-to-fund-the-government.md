@@ -1,7 +1,7 @@
 ---
 date: '2024-12-20'
 published_time: 2024-12-20 17:48:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/20/statement-from-press-secretary-karine-jean-pierre-on-the-proposed-legislation-to-fund-the-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/20/statement-from-press-secretary-karine-jean-pierre-on-the-proposed-legislation-to-fund-the-government/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Proposed Legislation\
   \ to Fund the\_Government"

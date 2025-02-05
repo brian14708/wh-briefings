@@ -1,7 +1,7 @@
 ---
 date: '2025-01-11'
 published_time: 2025-01-11 14:28:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/11/president-biden-awards-presidential-medal-of-freedom-with-distinction-to-his-holiness-pope-francis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/11/president-biden-awards-presidential-medal-of-freedom-with-distinction-to-his-holiness-pope-francis/
 tags: statements-releases
 title: "President\_Biden Awards Presidential Medal of Freedom with Distinction to\
   \ His Holiness Pope\_Francis"

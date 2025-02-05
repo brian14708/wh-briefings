@@ -1,7 +1,7 @@
 ---
 date: '2022-08-31'
 published_time: 2022-08-31 14:42:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-alternative-plan-for-pay-adjustments-for-civilian-federal-employees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/31/letter-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-alternative-plan-for-pay-adjustments-for-civilian-federal-employees/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives and the President of\
   \ the Senate on the Alternative Plan for Pay Adjustments for Civilian Federal\_\

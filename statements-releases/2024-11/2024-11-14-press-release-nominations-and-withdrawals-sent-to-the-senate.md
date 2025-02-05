@@ -1,7 +1,7 @@
 ---
 date: '2024-11-14'
 published_time: 2024-11-14 15:21:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/14/press-release-nominations-and-withdrawals-sent-to-the-senate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/14/press-release-nominations-and-withdrawals-sent-to-the-senate/
 tags: statements-releases
 title: "Press Release: Nominations and Withdrawals Sent to the\_Senate"
 ---

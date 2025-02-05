@@ -1,7 +1,7 @@
 ---
 date: '2022-04-15'
 published_time: 2022-04-15 11:30:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/statement-from-president-biden-on-state-unemployment-rates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/15/statement-from-president-biden-on-state-unemployment-rates/
 tags: statements-releases
 title: "Statement from President\_Biden on State Unemployment\_Rates"
 ---

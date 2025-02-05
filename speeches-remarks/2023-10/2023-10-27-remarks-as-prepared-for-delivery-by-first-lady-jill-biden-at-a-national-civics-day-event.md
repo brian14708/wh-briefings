@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 12:25:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-national-civics-day-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-national-civics-day-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a National Civics\
   \ Day\_Event"

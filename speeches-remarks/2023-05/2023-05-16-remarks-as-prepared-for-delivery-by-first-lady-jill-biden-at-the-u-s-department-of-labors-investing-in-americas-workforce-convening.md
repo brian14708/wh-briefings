@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 14:56:31-04:00
 published_time: 2023-05-16 14:54:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-u-s-department-of-labors-investing-in-americas-workforce-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-u-s-department-of-labors-investing-in-americas-workforce-convening/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the U.S. Department\
   \ of Labor\u2019s Investing in America\u2019s Workforce\_Convening"

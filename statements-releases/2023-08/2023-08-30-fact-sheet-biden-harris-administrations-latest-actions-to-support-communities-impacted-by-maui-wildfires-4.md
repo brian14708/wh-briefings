@@ -2,7 +2,7 @@
 date: '2023-08-30'
 modified_time: 2023-08-29 23:50:45-04:00
 published_time: 2023-08-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-4/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Latest Actions to Support\
   \ Communities Impacted by Maui\_Wildfires"

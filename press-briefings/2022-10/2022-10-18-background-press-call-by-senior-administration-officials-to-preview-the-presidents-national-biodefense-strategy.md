@@ -2,7 +2,7 @@
 date: '2022-10-18'
 modified_time: 2022-10-17 18:59:12-04:00
 published_time: 2022-10-18 09:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/18/background-press-call-by-senior-administration-officials-to-preview-the-presidents-national-biodefense-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/18/background-press-call-by-senior-administration-officials-to-preview-the-presidents-national-biodefense-strategy/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview the President\u2019\
   s National Biodefense\_Strategy"

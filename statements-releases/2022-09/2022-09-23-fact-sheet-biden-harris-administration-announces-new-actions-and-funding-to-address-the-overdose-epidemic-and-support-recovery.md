@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-22 18:03:38-04:00
 published_time: 2022-09-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/fact-sheet-biden-harris-administration-announces-new-actions-and-funding-to-address-the-overdose-epidemic-and-support-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/fact-sheet-biden-harris-administration-announces-new-actions-and-funding-to-address-the-overdose-epidemic-and-support-recovery/
 tags: statements-releases
 title: "FACT SHEET: \_Biden-\u2060Harris Administration Announces New Actions and\
   \ Funding to Address the Overdose Epidemic and Support\_Recovery"
@@ -17,13 +17,13 @@ has had on this nation – reaching large cities, small towns, tribal
 lands, and every community in between. That’s why in his first State of
 the Union, President Biden made beating the opioid crisis a key pillar
 of his Unity Agenda, and outlined [critical
-actions](https://www.whitehouse.gov/ondcp/briefing-room/2022/04/21/president-biden-releases-national-drug-control-strategy-to-save-lives-expand-treatment-and-disrupt-trafficking/) the
+actions](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/04/21/president-biden-releases-national-drug-control-strategy-to-save-lives-expand-treatment-and-disrupt-trafficking/) the
 Biden-Harris Administration is taking to address this crisis and support
 the tens of millions of Americans in recovery.
 
 Today, the White House announced the following new and recent actions as
 part of [National Recovery
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/31/a-proclamation-on-national-recovery-month-2022/):
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/31/a-proclamation-on-national-recovery-month-2022/):
 
 **Awarding $1.5 Billion for all States and Territories to Address
 Addiction and the Opioid Crisis. **The U.S Department of Health and
@@ -79,7 +79,7 @@ distributors. 
 Front Lines of the Overdose Epidemic. **In April, to support
 implementation of President Biden’s National Drug Control Strategy,
 ONDCP [announced $275
-million](https://www.whitehouse.gov/ondcp/briefing-room/2022/04/28/to-support-new-strategy-ondcp-announces-275-million-to-disrupt-drug-trafficking-and-illicit-finance/) for
+million](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/04/28/to-support-new-strategy-ondcp-announces-275-million-to-disrupt-drug-trafficking-and-illicit-finance/) for
 the High Intensity Drug Trafficking Areas (HIDTA) Program to support law
 enforcement officials working to reduce violent crime, improve data
 sharing, and dismantle illicit finance operations of drug traffickers.
@@ -101,7 +101,7 @@ time.
 **Deploying Financial Sanctions to Disrupt Global Drug Trafficking
 Operations. **Since the issuance of President Biden’s [Executive Order
 (E.O.)
-14059](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/) in
+14059](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/) in
 December, the Treasury Department’s Office of Foreign Assets Control
 (OFAC) has used this new authority to designate 27 individuals and 17
 entities involved in drug trafficking. Recent actions include
@@ -117,7 +117,7 @@ counter narcotics sanctions program,
 see [here](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/counter-narcotics-trafficking-sanctions).
 
 To support these and other efforts, President Biden’s [FY 2023
-budget](https://www.whitehouse.gov/ondcp/briefing-room/2022/03/28/president-biden-calls-for-increased-funding-to-address-addiction-and-the-overdose-epidemic/#:~:text=WASHINGTON%2C%20D.C.%20%E2%80%93%20Today%2C%20President,deaths%2C%20driven%20primarily%20by%20illicitly) request
+budget](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/03/28/president-biden-calls-for-increased-funding-to-address-addiction-and-the-overdose-epidemic/#:~:text=WASHINGTON%2C%20D.C.%20%E2%80%93%20Today%2C%20President,deaths%2C%20driven%20primarily%20by%20illicitly) request
 calls for a historic investment of $42.5 billion for National Drug
 Control Program agencies, a $3.2 billion increase over the FY 2022.
 Significant increases in funding are for critical public health
@@ -134,10 +134,10 @@ paraphernalia, including pipes.
 
 Read about additional actions the Biden-Harris Administration has taken
 to address addiction and the overdose
-epidemic [here](https://www.whitehouse.gov/ondcp/briefing-room/2022/08/31/actions-taken-by-the-biden-harris-administration-to-address-addiction-and-the-overdose-epidemic/).
+epidemic [here](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/08/31/actions-taken-by-the-biden-harris-administration-to-address-addiction-and-the-overdose-epidemic/).
 
 Read about President Biden’s *National Drug Control
-Strategy *[here](https://www.whitehouse.gov/ondcp/briefing-room/2022/04/21/president-biden-releases-national-drug-control-strategy-to-save-lives-expand-treatment-and-disrupt-trafficking/).
+Strategy *[here](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/04/21/president-biden-releases-national-drug-control-strategy-to-save-lives-expand-treatment-and-disrupt-trafficking/).
 
   
 **State Opioid Response Grant Awards FY2022**

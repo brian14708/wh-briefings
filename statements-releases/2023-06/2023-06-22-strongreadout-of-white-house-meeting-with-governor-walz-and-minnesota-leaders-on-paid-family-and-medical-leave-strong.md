@@ -1,7 +1,7 @@
 ---
 date: '2023-06-22'
 published_time: 2023-06-22 14:59:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/strongreadout-of-white-house-meeting-with-governor-walz-and-minnesota-leaders-on-paid-family-and-medical-leave-strong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/strongreadout-of-white-house-meeting-with-governor-walz-and-minnesota-leaders-on-paid-family-and-medical-leave-strong/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Governor Walz and Minnesota Leaders on\
   \ Paid Family and Medical\_Leave"

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-11'
 published_time: 2024-09-11 16:07:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/11/president-joseph-r-biden-jr-approves-pennsylvania-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/11/president-joseph-r-biden-jr-approves-pennsylvania-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Pennsylvania Disaster\_Declaration"
 ---

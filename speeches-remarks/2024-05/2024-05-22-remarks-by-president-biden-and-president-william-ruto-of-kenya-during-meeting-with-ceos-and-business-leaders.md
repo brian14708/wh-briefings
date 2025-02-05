@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-23 15:26:57-04:00
 published_time: 2024-05-22 17:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/22/remarks-by-president-biden-and-president-william-ruto-of-kenya-during-meeting-with-ceos-and-business-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/22/remarks-by-president-biden-and-president-william-ruto-of-kenya-during-meeting-with-ceos-and-business-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President William Ruto of Kenya During Meeting\
   \ with CEOs and Business\_Leaders"

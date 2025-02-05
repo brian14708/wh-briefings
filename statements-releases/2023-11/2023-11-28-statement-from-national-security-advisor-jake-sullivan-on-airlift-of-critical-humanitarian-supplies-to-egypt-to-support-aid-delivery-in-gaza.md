@@ -1,7 +1,7 @@
 ---
 date: '2023-11-28'
 published_time: 2023-11-28 16:21:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/28/statement-from-national-security-advisor-jake-sullivan-on-airlift-of-critical-humanitarian-supplies-to-egypt-to-support-aid-delivery-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/28/statement-from-national-security-advisor-jake-sullivan-on-airlift-of-critical-humanitarian-supplies-to-egypt-to-support-aid-delivery-in-gaza/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Airlift of Critical\
   \ Humanitarian Supplies to Egypt to Support Aid Delivery in\_Gaza"

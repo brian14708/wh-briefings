@@ -1,7 +1,7 @@
 ---
 date: '2023-05-01'
 published_time: 2023-05-01 17:37:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/readout-of-president-bidens-call-with-congressional-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/01/readout-of-president-bidens-call-with-congressional-leaders/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Congressional\_Leaders"
 ---

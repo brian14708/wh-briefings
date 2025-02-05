@@ -2,7 +2,7 @@
 date: '2022-05-24'
 modified_time: 2022-05-24 02:51:26-04:00
 published_time: 2022-05-24 02:51:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-prime-minister-kishida-fumio-of-japan-prime-minister-narendra-modi-of-india-and-prime-minister-anthony-albanese-of-australia-at-the-second-in-person-quad-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-prime-minister-kishida-fumio-of-japan-prime-minister-narendra-modi-of-india-and-prime-minister-anthony-albanese-of-australia-at-the-second-in-person-quad-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Kishida Fumio of Japan, Prime\
   \ Minister Narendra Modi of India, and Prime Minister Anthony Albanese of Australia\

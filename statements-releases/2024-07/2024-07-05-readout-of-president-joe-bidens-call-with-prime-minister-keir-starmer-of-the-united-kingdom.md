@@ -2,7 +2,7 @@
 date: '2024-07-05'
 modified_time: 2024-07-05 13:56:08-04:00
 published_time: 2024-07-05 13:56:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/05/readout-of-president-joe-bidens-call-with-prime-minister-keir-starmer-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/05/readout-of-president-joe-bidens-call-with-prime-minister-keir-starmer-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Keir Starmer\
   \ of the United\_Kingdom"

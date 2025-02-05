@@ -2,7 +2,7 @@
 date: '2023-08-16'
 modified_time: 2023-08-16 08:03:07-04:00
 published_time: 2023-08-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/
 tags: statements-releases
 title: "FACT SHEET: One Year In, President\_Biden\u2019s Inflation Reduction Act is\
   \ Driving Historic Climate Action and Investing in America to Create Good Paying\
@@ -125,7 +125,7 @@ security:
     justice into their grant programs to ensure low-income and
     disadvantaged communities will benefit from the Inflation Reduction
     Act, in alignment with the President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
     The Environmental Protection Agency (EPA) alone has made $650
     million available for environmental justice projects to reduce
     pollution and build the capacity of community-based organizations
@@ -193,7 +193,7 @@ good-paying union jobs, and build more resilient, secure, and trusted
 supply chains. Together with the Bipartisan Infrastructure Law and the
 CHIPS and Science Act, the law [has helped spur over $500 billion in
 private sector manufacturing
-investments](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 since President Biden and Vice President Harris took office, including
 approximately $240 billion in clean energy manufacturing investments.
 The law is driving investment to places too often left out and left

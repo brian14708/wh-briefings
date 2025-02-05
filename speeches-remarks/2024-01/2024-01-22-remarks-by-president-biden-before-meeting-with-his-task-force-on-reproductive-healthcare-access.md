@@ -1,7 +1,7 @@
 ---
 date: '2024-01-22'
 published_time: 2024-01-22 17:46:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-president-biden-before-meeting-with-his-task-force-on-reproductive-healthcare-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-president-biden-before-meeting-with-his-task-force-on-reproductive-healthcare-access/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting With His Task Force on Reproductive\
   \ Healthcare\_Access"

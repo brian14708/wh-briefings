@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-28 09:53:40-04:00
 published_time: 2022-09-27 17:51:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-honoring-the-2022-national-student-poets-and-the-10th-anniversary-of-the-national-student-poets-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-honoring-the-2022-national-student-poets-and-the-10th-anniversary-of-the-national-student-poets-program/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden Honoring the 2022\
   \ National Student Poets and the 10th Anniversary of the National Student Poets\_\

@@ -2,7 +2,7 @@
 date: '2024-04-05'
 modified_time: 2024-04-05 15:21:31-04:00
 published_time: 2024-04-05 15:21:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/what-they-are-saying-biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nati/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/05/what-they-are-saying-biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nati/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Biden-\u2060Harris Administration Announces Historic\
   \ $20 Billion in Awards to Expand Access to Clean Energy and Climate Solutions and\
@@ -13,7 +13,7 @@ Yesterday, as part of President Biden’s historic climate agenda, Vice
 President Kamala Harris and Environmental Protection Agency
 Administrator Michael Regan [announced $20 billion in awards to expand
 access to clean
-energy](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/)
+energy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/)
 and climate solutions and lower energy costs for communities across the
 nation. This investment, made possible by President Biden’s Inflation
 Reduction Act, will stand up a first-of-its-kind national network that

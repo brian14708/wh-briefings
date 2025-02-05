@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-21 20:03:43-04:00
 published_time: 2023-09-21 20:03:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/21/president-joseph-r-biden-jr-amends-hoopa-valley-tribe-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/21/president-joseph-r-biden-jr-amends-hoopa-valley-tribe-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Hoopa Valley Tribe Disaster\_Declaration"
 ---

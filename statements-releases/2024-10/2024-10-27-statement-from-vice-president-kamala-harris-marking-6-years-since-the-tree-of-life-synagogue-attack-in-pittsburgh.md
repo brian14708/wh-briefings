@@ -2,7 +2,7 @@
 date: '2024-10-27'
 modified_time: 2024-10-27 12:01:19-04:00
 published_time: 2024-10-27 12:01:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/27/statement-from-vice-president-kamala-harris-marking-6-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/27/statement-from-vice-president-kamala-harris-marking-6-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris Marking 6 Years Since the Tree\
   \ of Life Synagogue Attack in\_Pittsburgh"

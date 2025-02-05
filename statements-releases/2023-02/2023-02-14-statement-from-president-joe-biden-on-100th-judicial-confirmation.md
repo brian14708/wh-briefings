@@ -2,7 +2,7 @@
 date: '2023-02-14'
 modified_time: 2023-02-14 13:49:12-05:00
 published_time: 2023-02-14 13:25:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-100th-judicial-confirmation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-100th-judicial-confirmation/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on 100th Judicial\_Confirmation"
 ---

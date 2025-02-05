@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 10:04:09-04:00
 published_time: 2022-08-26 10:04:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/26/statement-of-president-joe-biden-on-the-anniversary-of-the-terrorist-attack-outside-kabul-airport/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/26/statement-of-president-joe-biden-on-the-anniversary-of-the-terrorist-attack-outside-kabul-airport/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Anniversary of the Terrorist Attack\
   \ Outside Kabul\_Airport"

@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-10-31 14:25:56-04:00
 published_time: 2024-10-31 14:25:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Lung Cancer Awareness Month,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-07 17:29:05-05:00
 published_time: 2022-11-07 17:29:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/07/letter-from-the-president-to-select-congressional-leadership-on-the-nations-critical-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/07/letter-from-the-president-to-select-congressional-leadership-on-the-nations-critical-infrastructure/
 tags: statements-releases
 title: "Letter from the President to Select Congressional Leadership on the Nation\u2019\
   s Critical\_Infrastructure"

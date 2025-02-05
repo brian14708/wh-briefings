@@ -2,7 +2,7 @@
 date: '2024-03-25'
 modified_time: 2024-03-24 18:04:00-04:00
 published_time: 2024-03-25 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-the-u-s-guatemala-relationship-and-address-the-root-causes-of-migration-from-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-the-u-s-guatemala-relationship-and-address-the-root-causes-of-migration-from-guatemala/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Initiatives to Strengthen\
   \ the U.S.-Guatemala Relationship and Address the Root Causes of Migration from\_\
@@ -23,7 +23,7 @@ congressional notification. 
   
 As part of the Biden-Harris Administration’s ongoing commitment under
 the [Root Causes
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf),
 the Vice President is also announcing the following:
 
 -   **Transforming Security and Justice Institutions:** Through a $50

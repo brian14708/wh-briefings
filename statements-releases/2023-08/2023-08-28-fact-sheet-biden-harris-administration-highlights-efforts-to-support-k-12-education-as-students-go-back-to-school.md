@@ -2,7 +2,7 @@
 date: '2023-08-28'
 modified_time: 2023-08-27 19:51:25-04:00
 published_time: 2023-08-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/28/fact-sheet-biden-harris-administration-highlights-efforts-to-support-k-12-education-as-students-go-back-to-school/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/28/fact-sheet-biden-harris-administration-highlights-efforts-to-support-k-12-education-as-students-go-back-to-school/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Efforts to Support\
   \ K-12 Education as Students go Back-to-School"
@@ -86,7 +86,7 @@ program supported 170 schools before 2021 it is now reaching more than
 1,700 schools serving almost 800,000 students. Additionally, agencies
 across the federal government have also identified the ways that
 [additional
-resources](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/18/fact-sheet-biden-harris-administration-announces-efforts-to-support-community-schools/)
+resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/18/fact-sheet-biden-harris-administration-announces-efforts-to-support-community-schools/)
 can support the expansion of this model and further integrate wraparound
 supports into our schools.  
   

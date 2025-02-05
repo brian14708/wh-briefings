@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 21:18:32-04:00
 published_time: 2023-04-20 21:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/what-they-are-sayingmembers-of-congress-and-organizations-rally-around-julie-sus-nomination/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/what-they-are-sayingmembers-of-congress-and-organizations-rally-around-julie-sus-nomination/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Members of Congress And Organizations Rally Around Julie\
   \ Su\u2019s\_Nomination"

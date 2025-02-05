@@ -1,7 +1,7 @@
 ---
 date: '2024-02-22'
 published_time: 2024-02-22 13:37:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/22/statement-from-president-joe-biden-on-alabama-court-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/22/statement-from-president-joe-biden-on-alabama-court-decision/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Alabama Court\_Decision"
 ---

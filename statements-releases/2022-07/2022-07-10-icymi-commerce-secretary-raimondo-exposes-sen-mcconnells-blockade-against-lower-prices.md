@@ -1,7 +1,7 @@
 ---
 date: '2022-07-10'
 published_time: 2022-07-10 15:44:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/10/icymi-commerce-secretary-raimondo-exposes-sen-mcconnells-blockade-against-lower-prices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/10/icymi-commerce-secretary-raimondo-exposes-sen-mcconnells-blockade-against-lower-prices/
 tags: statements-releases
 title: "ICYMI: Commerce Secretary Raimondo Exposes Sen. McConnell\u2019s Blockade\
   \ Against Lower\_Prices"

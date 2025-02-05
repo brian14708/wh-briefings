@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 14:30:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/readout-of-national-security-advisor-jake-sullivans-call-with-turkish-presidential-advisor-cagatay-kilic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/readout-of-national-security-advisor-jake-sullivans-call-with-turkish-presidential-advisor-cagatay-kilic/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Turkish\
   \ Presidential Advisor Cagatay\_Kilic"

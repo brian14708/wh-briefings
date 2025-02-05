@@ -1,7 +1,7 @@
 ---
 date: '2022-05-20'
 published_time: 2022-05-20 09:24:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-president-biden-after-touring-samsung-electronics-pyeongtaek-campus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-president-biden-after-touring-samsung-electronics-pyeongtaek-campus/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Touring Samsung Electronics Pyeongtaek\_\
   Campus"

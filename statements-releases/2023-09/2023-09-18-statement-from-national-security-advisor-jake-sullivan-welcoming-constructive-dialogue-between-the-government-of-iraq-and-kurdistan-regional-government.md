@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 published_time: 2023-09-18 16:14:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/18/statement-from-national-security-advisor-jake-sullivan-welcoming-constructive-dialogue-between-the-government-of-iraq-and-kurdistan-regional-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/18/statement-from-national-security-advisor-jake-sullivan-welcoming-constructive-dialogue-between-the-government-of-iraq-and-kurdistan-regional-government/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Welcoming Constructive\
   \ Dialogue Between The Government of Iraq and Kurdistan Regional\_Government"

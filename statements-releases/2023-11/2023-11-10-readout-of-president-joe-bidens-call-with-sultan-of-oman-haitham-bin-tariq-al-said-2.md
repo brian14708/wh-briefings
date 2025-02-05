@@ -1,7 +1,7 @@
 ---
 date: '2023-11-10'
 published_time: 2023-11-10 16:34:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/readout-of-president-joe-bidens-call-with-sultan-of-oman-haitham-bin-tariq-al-said-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/readout-of-president-joe-bidens-call-with-sultan-of-oman-haitham-bin-tariq-al-said-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Sultan of Oman Haitham bin\
   \ Tariq Al\_Said"

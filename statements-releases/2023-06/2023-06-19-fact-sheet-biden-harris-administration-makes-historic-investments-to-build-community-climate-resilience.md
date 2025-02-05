@@ -1,7 +1,7 @@
 ---
 date: '2023-06-19'
 published_time: 2023-06-19 20:14:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Makes Historic Investments to\
   \ Build Community Climate\_Resilience"
@@ -38,7 +38,7 @@ level rise, tidal flooding hurricanes, storm surge, among other severe
 climate impacts. The Challenge is part of the $2.6 billion in resilience
 funding for NOAA included in the Inflation Reduction Act, and is part of
 the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 
 In addition, the Bipartisan Infrastructure Law is **investing $2.3
 billion** in states, Territories, Tribes, and the District of Columbia
@@ -76,9 +76,9 @@ residents and offer a free and fair choice to join a union. The
 President’s investments are
 [upgrading](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/protect_fact_sheet.cfm)
 aging roads and bridges, providing [tax
-credits](https://www.whitehouse.gov/cleanenergy/clean-energy-updates/2022/12/22/treasury-releases-faqs-on-how-to-lower-energy-costs-when-making-home-upgrades/)
+credits](https://bidenwhitehouse.archives.gov/cleanenergy/clean-energy-updates/2022/12/22/treasury-releases-faqs-on-how-to-lower-energy-costs-when-making-home-upgrades/)
 for families to add more efficient appliances to their homes,
-[restoring](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/)
+[restoring](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/)
 critical waterways, forests, and urban greenspaces, supporting
 [resilient and climate-smart
 agriculture](https://www.nrcs.usda.gov/about/priorities/inflation-reduction-act),
@@ -86,7 +86,7 @@ bolstering [water infrastructure](https://www.usbr.gov/bil/) across the
 American West, [modernizing our electric
 grid](https://www.energy.gov/articles/biden-harris-administration-announces-13-billion-modernize-and-expand-americas-power-grid#:~:text=Grid%20Innovation%20Program%20%28%245%20billion%29%20provides%20financial%20assistance,distribution%20infrastructure%20to%20enhance%20grid%20resilience%20and%20reliability),
 and funding research to develop the latest [energy-storage
-technologies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-biden-harris-administration-driving-u-s-battery-manufacturing-and-good-paying-jobs/)
+technologies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-biden-harris-administration-driving-u-s-battery-manufacturing-and-good-paying-jobs/)
 here in America.
 
 **<u>Enhancing Drought Resilience Across the West</u>**  
@@ -94,11 +94,11 @@ The Biden-Harris Administration is leading a whole-of-government effort
 to support drought-prone communities address the ongoing megadrought in
 the West. The Inflation Reduction Act and Bipartisan Infrastructure Law
 together include $15.4 billion to [enhance drought
-resilience](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/).
+resilience](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/).
 Earlier this year, under President Biden’s leadership, the Department of
 the Interior and the seven Colorado River Basin states united around a
 historic [consensus-based
-agreement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/statement-from-president-joe-biden-on-historic-agreement-to-protect-colorado-river-system/)
+agreement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/statement-from-president-joe-biden-on-historic-agreement-to-protect-colorado-river-system/)
 to conserve water resources in the critical Colorado River System. 
 
 **<u>Combating the Growing Threat of Wildfires</u>**  
@@ -160,7 +160,7 @@ Buildings and infrastructure investments last for generations when done
 right, so it is critical to plan and build in ways that promote
 long-term decarbonization and climate resilience. President Biden’s
 [National Initiative to Advance Building
-Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/)
+Codes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/)
 is accelerating adoption of modern building codes that protect people
 from extreme-weather events and save communities an estimated [$1.6
 billion](https://www.fema.gov/emergency-managers/risk-management/building-science/building-codes-save-study)
@@ -179,12 +179,12 @@ program](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/protect_fact_she
 Extreme weather related to climate change threatens the U.S. economy and
 the financial security of families, businesses, and workers. President
 Biden’s [Executive Order on Climate-Related Financial
-Risk](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
+Risk](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
 ensures that climate risk and resilience actions are appropriately
 factored into the formulation and execution of the President’s Budget,
 thereby properly managing and protecting Federal funding on behalf of
 taxpayers. This includes [formally
-accounting](https://www.whitehouse.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/)
+accounting](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/)
 for the risks that climate change pose in the President’s Budget for the
 first time.  
   
@@ -193,17 +193,17 @@ The most severe harms from climate change [fall
 disproportionately](https://www.epa.gov/newsreleases/epa-report-shows-disproportionate-impacts-climate-change-socially-vulnerable)
 on communities that are least able to prepare for, and recover from,
 those harms. President Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 makes it a goal that 40 percent of the overall benefits of certain
 Federal investments, including investments in climate resilience, flow
 to disadvantaged communities that are marginalized and overburdened by
 pollution. The President’s [Executive Order on Revitalizing Our Nation’s
 Commitment to Environmental Justice for
-All](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
+All](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
 directs agencies to better protect overburdened communities from
 pollution and environmental harms, including climate change. President
 Biden also created a [White House Environmental Justice Advisory
-Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
+Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
 to ensure that the voices, perspectives, and lived experiences of
 communities with environmental justice concerns are heard in the White
 House and reflected in Federal policies. The Council includes a working
@@ -218,12 +218,12 @@ relocation](https://www.doi.gov/pressreleases/biden-harris-administration-makes-
 for Tribal communities severely threatened by climate change and
 accelerating coastal hazards. The Inflation Reduction Act includes
 [Tribal-specific
-funding](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/)
+funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/)
 to support climate resilience and adaptation in Native communities. The
 Administration has also [issued government-wide
-guidance](https://www.whitehouse.gov/wp-content/uploads/2022/12/OSTP-CEQ-IK-Guidance.pdf)
+guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/OSTP-CEQ-IK-Guidance.pdf)
 and an accompanying [implementation
-memorandum](https://www.whitehouse.gov/wp-content/uploads/2022/12/IK-Guidance-Implementation-Memo.pdf) for
+memorandum](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/IK-Guidance-Implementation-Memo.pdf) for
 Federal agencies on recognizing and including Indigenous Knowledge in
 Federal research, policy, and decision making.  
   
@@ -260,9 +260,9 @@ Justice Screening
 Tool](https://screeningtool.geoplatform.gov/en/#3/33.47/-97.5) (CEJST)
 to help identify communities that will benefit from programs included in
 the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/);
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/);
 developing an [action
-plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/FTAC_Report_03222023_508.pdf)
+plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/FTAC_Report_03222023_508.pdf)
 to ensure that Federal agencies are producing coordinated, actionable
 climate information for end users; and increasing support for regional
 applied science and services centers, such as the U.S. Department of
@@ -277,7 +277,7 @@ capturing and storing carbon dioxide. The Administration is taking bold
 action to ensure we look to nature and fully deploy nature-based
 solutions by setting the first national conservation goal through the
 [America the Beautiful
-Initiative](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/),
+Initiative](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/),
 to conserve at least 30% of U.S. lands and waters by 2030, launching the
 [America the Beautiful
 Challenge](https://www.nfwf.org/programs/america-beautiful-challenge),
@@ -286,6 +286,6 @@ restore biodiversity, help achieve our climate goals, and ensure all
 Americans have access to nature, and improving forest health through
 President Biden’s [Executive Order on Strengthening the Nation’s
 Forests, Communities, and Local
-Economies](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/).
+Economies](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/).
 
 \### 

@@ -2,14 +2,14 @@
 date: '2024-10-29'
 modified_time: 2024-10-29 15:08:46-04:00
 published_time: 2024-10-29 15:08:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/readout-of-white-house-discussion-on-ai-and-advanced-software-solutions-to-accelerate-clean-energy-grid-integration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/readout-of-white-house-discussion-on-ai-and-advanced-software-solutions-to-accelerate-clean-energy-grid-integration/
 tags: statements-releases
 title: "Readout of White\_House Discussion on AI and Advanced Software Solutions to\
   \ Accelerate Clean Energy Grid\_Integration"
 ---
  
 Today, the [White House Task Force on AI Datacenter
-Infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-roundtable-on-u-s-leadership-in-ai-infrastructure/)
+Infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-roundtable-on-u-s-leadership-in-ai-infrastructure/)
 convened experts from power companies, grid operators, software
 companies, NGOs, and other stakeholders to explore how advanced
 computing and software solutions, including artificial intelligence

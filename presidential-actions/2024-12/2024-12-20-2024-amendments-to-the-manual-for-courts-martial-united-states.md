@@ -2,7 +2,7 @@
 date: '2024-12-20'
 modified_time: 2024-12-20 15:42:52-05:00
 published_time: 2024-12-20 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/20/2024-amendments-to-the-manual-for-courts-martial-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/20/2024-amendments-to-the-manual-for-courts-martial-united-states/
 tags: presidential-actions
 title: "2024 Amendments to the Manual for Courts-Martial, United\_States"
 ---

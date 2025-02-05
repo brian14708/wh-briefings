@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-03 10:54:32-05:00
 published_time: 2025-01-03 10:54:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/03/president-biden-to-award-medal-of-honor-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/03/president-biden-to-award-medal-of-honor-2/
 tags: statements-releases
 title: "President\_Biden to Award Medal of\_Honor"
 ---

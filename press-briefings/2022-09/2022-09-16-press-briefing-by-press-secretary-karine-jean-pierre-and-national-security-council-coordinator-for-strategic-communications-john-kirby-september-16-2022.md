@@ -1,7 +1,7 @@
 ---
 date: '2022-09-16'
 published_time: 2022-09-16 19:58:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/16/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-september-16-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/16/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-september-16-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Council Coordinator for Strategic Communications John Kirby, September 16,\_2022"

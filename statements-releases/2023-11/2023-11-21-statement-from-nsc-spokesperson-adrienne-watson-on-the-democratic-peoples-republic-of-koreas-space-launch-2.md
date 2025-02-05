@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 published_time: 2023-11-21 12:21:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/statement-from-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-space-launch-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/statement-from-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-space-launch-2/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on the Democratic People\u2019\
   s Republic of Korea\u2019s Space\_Launch"

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-31'
 published_time: 2023-10-31 14:55:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/31/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/31/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to\_Sudan"
 ---

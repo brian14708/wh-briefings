@@ -1,7 +1,7 @@
 ---
 date: '2022-11-07'
 published_time: 2022-11-07 15:37:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/07/readout-of-president-joseph-r-biden-jr-s-call-with-former-prime-minister-of-israel-benjamin-netanyahu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/07/readout-of-president-joseph-r-biden-jr-s-call-with-former-prime-minister-of-israel-benjamin-netanyahu/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Call with Former Prime Minister\
   \ of Israel Benjamin\_Netanyahu"

@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 15:30:08-05:00
 published_time: 2022-12-15 15:30:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/
 tags: statements-releases
 title: "FACT SHEET: U.S.- Africa Partnership to Promote Food Security and Resilient\
   \ Food\_Systems"
@@ -60,7 +60,7 @@ Insecurity Crisis**
 -   **Benin-Niger Regional Transport Compact and Malawi Compact**: At
     the U.S. Africa Business Forum, the Millennium Challenge
     Corporation (MCC) [signed Benin-Niger Regional Transport
-    Compacts](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/),
+    Compacts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/),
     totaling $504 million with Benin and Niger contributing an
     additional $15 million each to support MCC’s investment.  The
     compact will help reduce transportation costs and lower trade

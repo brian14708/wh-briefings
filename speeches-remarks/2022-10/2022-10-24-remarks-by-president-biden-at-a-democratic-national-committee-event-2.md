@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 18:54:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/24/remarks-by-president-biden-at-a-democratic-national-committee-event-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/24/remarks-by-president-biden-at-a-democratic-national-committee-event-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee\_Event"
 ---

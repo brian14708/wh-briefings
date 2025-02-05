@@ -2,7 +2,7 @@
 date: '2023-12-15'
 modified_time: 2023-12-16 09:28:31-05:00
 published_time: 2023-12-15 14:25:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/15/readout-of-white-house-roundtable-on-innovation-in-maternal-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/15/readout-of-white-house-roundtable-on-innovation-in-maternal-health/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Innovation in Maternal\_Health"
 ---
@@ -16,7 +16,7 @@ services start-ups, health insurance plans, digital health technology,
 investors, and Fortune 100 companies – builds on Vice President Harris’s
 continued leadership on improving the health and wellbeing of women and
 families, and advancing the White House
-[Blueprint](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
+[Blueprint](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
 for Addressing the Maternal Health Crisis that she announced last year.
 
 During the conversation, convened by the Office of the Vice President,
@@ -35,7 +35,7 @@ As part of today’s convening, Centers for Medicare and Medicaid Services
 Maternal Health (TMaH)
 Model](https://www.cms.gov/priorities/innovation/innovation-models/transforming-maternal-health-tmah-model)
 that furthers the goals of the White House
-[Blueprint](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf).
+[Blueprint](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf).
 This 10-year payment and care-delivery model will support participating
 state Medicaid agencies in developing and implementing a whole-person
 approach to pregnancy, childbirth, and postpartum care for women who
@@ -69,7 +69,7 @@ outcomes for populations disproportionately impacted by maternal
 mortality and severe maternal morbidity.
 
 Vice President Harris has
-[led](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/)
+[led](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/)
 on
 [improving](https://www.c-span.org/video/?510792-1/vice-president-harris-roundtable-black-maternal-health)
 outcomes for women and families throughout her career. While serving in
@@ -80,7 +80,7 @@ built on this work since being sworn in as Vice President. Two years
 ago, she called on states to expand Medicaid’s postpartum coverage from
 two months to 12. To date, 42 states have done so, benefiting women
 throughout the country. Last year, the Vice President
-[announced](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
+[announced](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
 a whole-of-government strategy to address the maternal health crisis.
 She has also traveled the nation and
 [used](https://www.youtube.com/watch?v=wXrLtzsedf4) her

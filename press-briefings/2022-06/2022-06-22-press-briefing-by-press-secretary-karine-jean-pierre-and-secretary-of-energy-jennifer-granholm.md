@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-22 22:54:05-04:00
 published_time: 2022-06-22 22:54:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/22/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-energy-jennifer-granholm/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/22/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-energy-jennifer-granholm/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Secretary of Energy\
   \ Jennifer\_Granholm"

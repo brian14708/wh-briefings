@@ -1,7 +1,7 @@
 ---
 date: '2022-09-05'
 published_time: 2022-09-05 18:53:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/05/remarks-by-vice-president-harris-before-roundtable-discussion-with-union-members-and-organizers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/05/remarks-by-vice-president-harris-before-roundtable-discussion-with-union-members-and-organizers/
 tags: speeches-remarks
 title: Remarks by Vice President Harris Before Roundtable Discussion With Union Members
   and Organizers

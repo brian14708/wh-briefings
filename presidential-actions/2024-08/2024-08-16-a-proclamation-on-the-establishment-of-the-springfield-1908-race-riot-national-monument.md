@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 13:02:22-04:00
 published_time: 2024-08-16 13:02:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/16/a-proclamation-on-the-establishment-of-the-springfield-1908-race-riot-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/16/a-proclamation-on-the-establishment-of-the-springfield-1908-race-riot-national-monument/
 tags: presidential-actions
 title: "A Proclamation on the Establishment of the Springfield 1908 Race Riot National\_\
   Monument"

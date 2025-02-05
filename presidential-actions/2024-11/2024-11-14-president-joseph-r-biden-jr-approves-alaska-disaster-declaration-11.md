@@ -2,7 +2,7 @@
 date: '2024-11-14'
 modified_time: 2024-11-14 09:09:20-05:00
 published_time: 2024-11-14 09:09:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/14/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/14/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-11/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---

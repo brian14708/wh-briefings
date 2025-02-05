@@ -2,7 +2,7 @@
 date: '2022-06-02'
 modified_time: 2022-06-02 16:54:39-04:00
 published_time: 2022-06-02 15:17:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/readout-of-president-biden-and-vice-president-harriss-meeting-with-nato-secretary-general-jens-stoltenberg/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/readout-of-president-biden-and-vice-president-harriss-meeting-with-nato-secretary-general-jens-stoltenberg/
 tags: statements-releases
 title: "Readout of President\_Biden and Vice President Harris\u2019s Meeting with\
   \ NATO Secretary General Jens\_Stoltenberg"

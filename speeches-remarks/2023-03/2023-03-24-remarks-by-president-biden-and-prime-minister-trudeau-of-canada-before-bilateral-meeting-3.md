@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-24 13:11:47-04:00
 published_time: 2023-03-24 13:11:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-before-bilateral-meeting-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Trudeau of Canada Before Bilateral\_\
   Meeting"

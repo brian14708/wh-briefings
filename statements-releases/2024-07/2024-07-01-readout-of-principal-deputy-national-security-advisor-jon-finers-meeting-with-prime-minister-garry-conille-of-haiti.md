@@ -2,7 +2,7 @@
 date: '2024-07-01'
 modified_time: 2024-07-01 16:36:43-04:00
 published_time: 2024-07-01 16:36:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/01/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-prime-minister-garry-conille-of-haiti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/01/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-prime-minister-garry-conille-of-haiti/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Prime Minister Garry Conille of\_Haiti"

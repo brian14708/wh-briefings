@@ -2,7 +2,7 @@
 date: '2024-12-01'
 modified_time: 2024-11-30 16:20:43-05:00
 published_time: 2024-12-01 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/01/background-press-call-on-the-presidents-travel-to-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/01/background-press-call-on-the-presidents-travel-to-angola/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s Travel to\_Angola"
 ---

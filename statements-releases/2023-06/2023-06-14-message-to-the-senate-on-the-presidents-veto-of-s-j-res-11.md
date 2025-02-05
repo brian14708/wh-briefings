@@ -1,7 +1,7 @@
 ---
 date: '2023-06-14'
 published_time: 2023-06-14 14:27:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/message-to-the-senate-on-the-presidents-veto-of-s-j-res-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/message-to-the-senate-on-the-presidents-veto-of-s-j-res-11/
 tags: statements-releases
 title: "Message to the Senate on the President\u2019s Veto of S.J. Res.\_11"
 ---

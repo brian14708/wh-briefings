@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 13:43:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/readout-of-president-joe-bidens-meeting-with-un-secretary-general-antonio-guterres/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/readout-of-president-joe-bidens-meeting-with-un-secretary-general-antonio-guterres/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with UN Secretary-General Ant\xF3\
   nio\_Guterres"

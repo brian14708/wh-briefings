@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 published_time: 2024-05-16 09:26:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/u-s-canada-joint-statement-on-the-extension-of-the-bilateral-energy-transformation-task-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/u-s-canada-joint-statement-on-the-extension-of-the-bilateral-energy-transformation-task-force/
 tags: statements-releases
 title: "U.S.-Canada Joint Statement on the Extension of the Bilateral Energy Transformation\
   \ Task\_Force"

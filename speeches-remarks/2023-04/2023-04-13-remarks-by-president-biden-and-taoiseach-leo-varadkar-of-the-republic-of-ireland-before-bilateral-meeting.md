@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 10:40:20-04:00
 published_time: 2023-04-13 10:40:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Taoiseach Leo Varadkar of the Republic of\
   \ Ireland Before Bilateral\_Meeting"

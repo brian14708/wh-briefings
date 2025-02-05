@@ -1,7 +1,7 @@
 ---
 date: '2022-11-08'
 published_time: 2022-11-08 16:57:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Threat\
   \ from Securities Investments that Finance Certain Companies of the People\u2019\

@@ -1,7 +1,7 @@
 ---
 date: '2024-08-19'
 published_time: 2024-08-19 18:10:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-chicago-il-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-chicago-il-2/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Chicago,\_IL"
 ---

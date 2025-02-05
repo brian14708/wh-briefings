@@ -1,7 +1,7 @@
 ---
 date: '2022-10-18'
 published_time: 2022-10-18 16:41:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/18/remarks-by-president-biden-at-a-political-event-at-the-howard-theatre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/18/remarks-by-president-biden-at-a-political-event-at-the-howard-theatre/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Event at the Howard\_Theatre"
 ---

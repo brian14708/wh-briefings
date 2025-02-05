@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-13 20:14:17-04:00
 published_time: 2023-09-13 20:14:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/13/background-press-call-by-a-senior-administration-official-to-preview-the-bahraini-crown-prince-and-prime-minister-salman-bin-hamad-al-khalifas-visit-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/13/background-press-call-by-a-senior-administration-official-to-preview-the-bahraini-crown-prince-and-prime-minister-salman-bin-hamad-al-khalifas-visit-to-the-white-house/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official to Preview the Bahraini\
   \ Crown Prince and Prime Minister Salman bin Hamad Al Khalifa\u2019s Visit to the\

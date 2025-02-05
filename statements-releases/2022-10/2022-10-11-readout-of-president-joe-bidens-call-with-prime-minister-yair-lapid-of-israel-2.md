@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-11 13:36:47-04:00
 published_time: 2022-10-11 13:36:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/readout-of-president-joe-bidens-call-with-prime-minister-yair-lapid-of-israel-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/readout-of-president-joe-bidens-call-with-prime-minister-yair-lapid-of-israel-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Yair Lapid\
   \ of\_Israel"

@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 13:20:57-04:00
 published_time: 2023-03-31 13:20:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/31/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-jackson-ms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/31/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-jackson-ms/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Jackson,\_MS"
 ---

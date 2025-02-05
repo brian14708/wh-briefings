@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-16 20:40:27-04:00
 published_time: 2024-04-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-overseas-telework-opportunities-streamline-approvals-for-military-spouses-employed-by-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-overseas-telework-opportunities-streamline-approvals-for-military-spouses-employed-by-the-federal-government/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Expand\
   \ Overseas Telework Opportunities & Streamline Approvals for Military Spouses Employed\
@@ -16,7 +16,7 @@ memorandum of agreement (MOA) between the Department of Defense (DoD)
 and State Department to strengthen the Domestic Employees Teleworking
 Overseas (DETO) program for military spouses who work for the federal
 government. As directed by President Biden’s [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/)
 (EO) on Advancing Economic Security for Military and Veteran Spouses,
 Military Caregivers, and Survivors, this MOA will help military spouses
 who are Federal employees maintain their careers and keep their families
@@ -49,7 +49,7 @@ The President and First Lady, as a military family, recognize the
 commitment and resilience of military families as essential to the
 recruitment, retention, and readiness of our Armed Forces. Since Day One
 of the Biden Administration, Dr. Biden, through her [*Joining
-Forces*](https://www.whitehouse.gov/joiningforces/) initiative, has
+Forces*](https://bidenwhitehouse.archives.gov/joiningforces/) initiative, has
 worked to eliminate barriers to employment and increase economic
 opportunity for military families. Meeting the economic, social, and
 emotional needs of our military and veteran families, caregivers, and
@@ -119,7 +119,7 @@ Key actions to-date include:
 
 -   **Published the Guide to Recruiting and Hiring Military Spouses.**
     In February 2024*, Joining Forces* released a
-    [Guide](https://www.whitehouse.gov/wp-content/uploads/2024/02/Military-Spouse-Hiring-Toolkit_PDF-1.pdf)
+    [Guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Military-Spouse-Hiring-Toolkit_PDF-1.pdf)
     *to Recruiting and Hiring Military Spouses* to: equip federal hiring
     managers and their staff with the knowledge, tools and resources to
     strengthen their recruitment of military spouses; build their

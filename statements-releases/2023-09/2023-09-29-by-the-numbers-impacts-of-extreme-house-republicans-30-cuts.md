@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 17:47:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/by-the-numbers-impacts-of-extreme-house-republicans-30-cuts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/by-the-numbers-impacts-of-extreme-house-republicans-30-cuts/
 tags: statements-releases
 title: "By the Numbers: Impacts of Extreme House Republicans\u2019 30%\_Cuts"
 ---

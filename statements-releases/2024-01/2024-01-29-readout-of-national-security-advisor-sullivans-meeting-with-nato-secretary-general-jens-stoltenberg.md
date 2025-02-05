@@ -1,7 +1,7 @@
 ---
 date: '2024-01-29'
 published_time: 2024-01-29 14:46:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/readout-of-national-security-advisor-sullivans-meeting-with-nato-secretary-general-jens-stoltenberg/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/readout-of-national-security-advisor-sullivans-meeting-with-nato-secretary-general-jens-stoltenberg/
 tags: statements-releases
 title: "Readout of National Security Advisor Sullivan\u2019s Meeting with NATO Secretary\
   \ General Jens\_Stoltenberg"

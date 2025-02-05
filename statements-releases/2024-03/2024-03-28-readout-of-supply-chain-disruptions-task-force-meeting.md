@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 11:25:38-04:00
 published_time: 2024-03-28 10:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/readout-of-supply-chain-disruptions-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/readout-of-supply-chain-disruptions-task-force-meeting/
 tags: statements-releases
 title: "Readout of Supply Chain Disruptions Task Force\_Meeting"
 ---
@@ -14,7 +14,7 @@ the collapse of the Francis Scott Key Bridge and partial closure of the
 Port of Baltimore.
 
 The Task Force, [launched in
-2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) to
+2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) to
 monitor and address near-term supply chain challenges, consists of
 supply chain experts across the Administration who bring the full
 capacity of the federal government to assess potential supply

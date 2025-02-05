@@ -2,7 +2,7 @@
 date: '2024-07-17'
 modified_time: 2024-07-17 21:04:20-04:00
 published_time: 2024-07-17 21:04:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/statement-from-nsc-spokesperson-adrienne-watson-welcoming-an-extension-of-the-humanitarian-truce-in-eastern-democratic-republic-of-the-congo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/statement-from-nsc-spokesperson-adrienne-watson-welcoming-an-extension-of-the-humanitarian-truce-in-eastern-democratic-republic-of-the-congo/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson Welcoming an Extension of\
   \ the Humanitarian Truce in Eastern Democratic Republic of the\_Congo"

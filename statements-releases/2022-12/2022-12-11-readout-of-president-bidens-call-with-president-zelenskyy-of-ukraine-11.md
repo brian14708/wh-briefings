@@ -2,7 +2,7 @@
 date: '2022-12-11'
 modified_time: 2022-12-11 19:30:44-05:00
 published_time: 2022-12-11 19:30:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/11/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/11/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-11/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

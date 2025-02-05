@@ -2,7 +2,7 @@
 date: '2022-09-06'
 modified_time: 2022-09-07 12:21:34-04:00
 published_time: 2022-09-06 18:53:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/06/press-briefing-by-press-secretary-karine-jean-pierre-and-commerce-secretary-gina-raimondo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/06/press-briefing-by-press-secretary-karine-jean-pierre-and-commerce-secretary-gina-raimondo/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Commerce Secretary\
   \ Gina\_Raimondo"

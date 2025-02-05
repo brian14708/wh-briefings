@@ -1,7 +1,7 @@
 ---
 date: '2023-08-18'
 published_time: 2023-08-18 15:04:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/18/camp-david-principles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/18/camp-david-principles/
 tags: statements-releases
 title: Camp David Principles
 ---

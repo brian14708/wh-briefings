@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-12'
 modified_time: 2021-08-11 21:59:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/12/fact-sheet-president-biden-calls-on-congress-to-lower-prescription-drug-prices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/12/fact-sheet-president-biden-calls-on-congress-to-lower-prescription-drug-prices/
 published_time: 2021-08-12 07:00:00-04:00
 title: "FACT SHEET: President\_Biden Calls on Congress to Lower Prescription Drug\_\
   Prices"
@@ -54,7 +54,7 @@ beneficiaries have to pay out-of-pocket for drugs each year.
 These actions would build upon steps the President has taken to make
 prescription drugs more affordable for all Americans. Last month,
 President Biden [signed an executive
-order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
 calling upon each Agency to improve competition, increase wages, and
 reduce prices—including for prescription drugs. Alongside other steps,
 the federal government will be working with states and Tribes to import

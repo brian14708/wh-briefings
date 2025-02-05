@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 published_time: 2023-05-18 07:24:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/18/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/18/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida Fumio of Japan Before\
   \ Bilateral\_Meeting"

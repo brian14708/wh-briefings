@@ -1,7 +1,7 @@
 ---
 date: '2022-09-19'
 published_time: 2022-09-19 12:16:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/19/background-press-call-by-senior-administration-officials-on-the-release-of-mark-frerichs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/19/background-press-call-by-senior-administration-officials-on-the-release-of-mark-frerichs/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Release of\
   \ Mark\_Frerichs"

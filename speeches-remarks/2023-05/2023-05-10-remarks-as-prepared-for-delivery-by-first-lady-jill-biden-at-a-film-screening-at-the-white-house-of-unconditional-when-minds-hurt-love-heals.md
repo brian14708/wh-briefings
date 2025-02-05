@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 18:21:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-film-screening-at-the-white-house-of-unconditional-when-minds-hurt-love-heals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-film-screening-at-the-white-house-of-unconditional-when-minds-hurt-love-heals/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Film Screening\
   \ at the White\_House of Unconditional: When Minds Hurt, Love\_Heals"

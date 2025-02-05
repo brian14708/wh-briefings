@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 10:03:59-04:00
 published_time: 2024-05-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/fact-sheet-president-biden-highlights-commitments-to-customers-by-internet-service-providers-to-offer-affordable-high-speed-internet-plans-calls-on-congress-to-restore-funding-for-affordable-connect/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/31/fact-sheet-president-biden-highlights-commitments-to-customers-by-internet-service-providers-to-offer-affordable-high-speed-internet-plans-calls-on-congress-to-restore-funding-for-affordable-connect/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Highlights Commitments to Customers by Internet\
   \ Service Providers to Offer Affordable High-Speed Internet Plans, Calls on Congress\
@@ -68,7 +68,7 @@ President Biden knows that even $30 is too much for some families, which
 is why he will continue calling on Congress to extend funding for the
 Affordable Connectivity Program. On October 25, 2023, the Biden-Harris
 Administration sent Congress a [supplemental
-request](https://www.whitehouse.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) for
+request](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) for
 $6 billion to extend funding for the Affordable Connectivity Program.
 Today, the President is repeating that call once again.  
 

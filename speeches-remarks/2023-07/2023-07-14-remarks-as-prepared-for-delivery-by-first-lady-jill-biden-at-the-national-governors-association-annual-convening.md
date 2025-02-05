@@ -1,7 +1,7 @@
 ---
 date: '2023-07-14'
 published_time: 2023-07-14 08:37:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-governors-association-annual-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-governors-association-annual-convening/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the National\
   \ Governor\u2019s Association Annual\_Convening"

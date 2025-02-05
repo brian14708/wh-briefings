@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 18:35:39-05:00
 published_time: 2022-12-02 18:35:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-an-international-brotherhood-of-electrical-workers-phone-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-an-international-brotherhood-of-electrical-workers-phone-bank/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an International Brotherhood of Electrical\
   \ Workers Phone\_Bank"

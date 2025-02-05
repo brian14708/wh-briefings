@@ -2,7 +2,7 @@
 date: '2024-01-10'
 modified_time: 2024-01-10 09:04:24-05:00
 published_time: 2024-01-10 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/10/president-biden-names-forty-fourth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/10/president-biden-names-forty-fourth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Fourth Round of Judicial\_Nominees"
 ---

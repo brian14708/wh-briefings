@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 19:24:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-health-research-event-at-cedars-sinai-medical-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-health-research-event-at-cedars-sinai-medical-center/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Women\u2019\
   s Health Research Event at Cedars-Sinai Medical\_Center"

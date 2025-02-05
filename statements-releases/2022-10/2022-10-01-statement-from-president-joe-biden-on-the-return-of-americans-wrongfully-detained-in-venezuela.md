@@ -1,7 +1,7 @@
 ---
 date: '2022-10-01'
 published_time: 2022-10-01 14:40:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/01/statement-from-president-joe-biden-on-the-return-of-americans-wrongfully-detained-in-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/01/statement-from-president-joe-biden-on-the-return-of-americans-wrongfully-detained-in-venezuela/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Return of Americans Wrongfully\
   \ Detained in\_Venezuela"

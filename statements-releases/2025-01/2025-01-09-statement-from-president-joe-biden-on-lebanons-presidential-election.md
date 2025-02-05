@@ -1,7 +1,7 @@
 ---
 date: '2025-01-09'
 published_time: 2025-01-09 13:52:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/09/statement-from-president-joe-biden-on-lebanons-presidential-election/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/statement-from-president-joe-biden-on-lebanons-presidential-election/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Lebanon\u2019s Presidential\_Election"
 ---

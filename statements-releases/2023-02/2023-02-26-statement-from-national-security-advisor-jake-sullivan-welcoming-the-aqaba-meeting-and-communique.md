@@ -1,7 +1,7 @@
 ---
 date: '2023-02-26'
 published_time: 2023-02-26 13:02:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/26/statement-from-national-security-advisor-jake-sullivan-welcoming-the-aqaba-meeting-and-communique/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/26/statement-from-national-security-advisor-jake-sullivan-welcoming-the-aqaba-meeting-and-communique/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Welcoming the Aqaba\
   \ Meeting and\_Communique"

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-22'
 published_time: 2024-10-22 16:08:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/22/remarks-by-president-biden-and-prime-minister-robert-golob-of-the-republic-of-slovenia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/22/remarks-by-president-biden-and-prime-minister-robert-golob-of-the-republic-of-slovenia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Robert Golob of the Republic\
   \ of Slovenia Before Bilateral\_Meeting"

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-03'
 published_time: 2023-03-03 15:16:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/03/background-press-call-by-a-senior-administration-official-previewing-german-chancellor-olaf-scholzs-visit-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/03/background-press-call-by-a-senior-administration-official-previewing-german-chancellor-olaf-scholzs-visit-to-the-white-house/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official Previewing German\
   \ Chancellor Olaf Scholz\u2019s Visit to the White\_House"

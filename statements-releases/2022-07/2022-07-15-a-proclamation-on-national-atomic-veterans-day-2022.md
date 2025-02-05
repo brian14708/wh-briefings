@@ -1,7 +1,7 @@
 ---
 date: '2022-07-15'
 published_time: 2022-07-15 10:52:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/a-proclamation-on-national-atomic-veterans-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/a-proclamation-on-national-atomic-veterans-day-2022/
 tags: statements-releases
 title: "A Proclamation on  National Atomic Veterans Day,\_2022"
 ---

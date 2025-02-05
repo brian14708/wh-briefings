@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 22:13:54-04:00
 published_time: 2022-08-03 19:46:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/statement-statement-from-president-biden-on-senate-ratification-of-the-nato-accession-protocols-for-sweden-and-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/statement-statement-from-president-biden-on-senate-ratification-of-the-nato-accession-protocols-for-sweden-and-finland/
 tags: statements-releases
 title: "Statement from President\_Biden on Senate Ratification of the NATO Accession\
   \ Protocols for Sweden and\_Finland"

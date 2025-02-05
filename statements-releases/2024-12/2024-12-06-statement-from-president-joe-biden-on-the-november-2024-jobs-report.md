@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-06 09:23:14-05:00
 published_time: 2024-12-06 09:23:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-joe-biden-on-the-november-2024-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-joe-biden-on-the-november-2024-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the November 2024 Jobs\_Report"
 ---

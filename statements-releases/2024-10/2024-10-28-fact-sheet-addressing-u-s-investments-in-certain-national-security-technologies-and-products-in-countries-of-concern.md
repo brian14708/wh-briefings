@@ -2,7 +2,7 @@
 date: '2024-10-28'
 modified_time: 2024-10-28 15:22:47-04:00
 published_time: 2024-10-28 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-addressing-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-addressing-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
 tags: statements-releases
 title: "FACT SHEET: Addressing U.S. Investments in Certain National Security Technologies\
   \ and Products in Countries of\_Concern"

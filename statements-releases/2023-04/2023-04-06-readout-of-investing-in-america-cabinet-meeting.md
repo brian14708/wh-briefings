@@ -1,7 +1,7 @@
 ---
 date: '2023-04-06'
 published_time: 2023-04-06 15:21:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/readout-of-investing-in-america-cabinet-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/readout-of-investing-in-america-cabinet-meeting/
 tags: statements-releases
 title: "Readout of Investing in America Cabinet\_Meeting"
 ---

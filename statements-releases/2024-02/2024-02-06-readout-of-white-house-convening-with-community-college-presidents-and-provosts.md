@@ -2,7 +2,7 @@
 date: '2024-02-06'
 modified_time: 2024-02-06 16:33:48-05:00
 published_time: 2024-02-06 16:33:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/readout-of-white-house-convening-with-community-college-presidents-and-provosts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/readout-of-white-house-convening-with-community-college-presidents-and-provosts/
 tags: statements-releases
 title: "Readout of White\_House Convening with Community College Presidents and\_\
   Provosts"

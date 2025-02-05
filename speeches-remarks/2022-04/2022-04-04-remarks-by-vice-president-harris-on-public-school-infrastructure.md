@@ -1,7 +1,7 @@
 ---
 date: '2022-04-04'
 published_time: 2022-04-04 19:09:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-vice-president-harris-on-public-school-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-vice-president-harris-on-public-school-infrastructure/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Public School\_Infrastructure"
 ---

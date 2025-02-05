@@ -2,7 +2,7 @@
 date: '2023-02-15'
 modified_time: 2023-02-15 09:13:03-05:00
 published_time: 2023-02-15 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/president-biden-announces-xochitl-torres-small-as-nominee-for-deputy-secretary-of-agriculture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/president-biden-announces-xochitl-torres-small-as-nominee-for-deputy-secretary-of-agriculture/
 tags: statements-releases
 title: "President\_Biden Announces Xochitl Torres Small as Nominee for Deputy Secretary\
   \ of\_Agriculture"

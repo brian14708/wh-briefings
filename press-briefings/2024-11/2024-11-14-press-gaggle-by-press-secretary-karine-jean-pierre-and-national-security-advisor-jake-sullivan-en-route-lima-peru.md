@@ -2,7 +2,7 @@
 date: '2024-11-14'
 modified_time: 2024-11-15 09:19:49-05:00
 published_time: 2024-11-14 16:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/14/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-lima-peru/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/14/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-lima-peru/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Lima,\_Peru"

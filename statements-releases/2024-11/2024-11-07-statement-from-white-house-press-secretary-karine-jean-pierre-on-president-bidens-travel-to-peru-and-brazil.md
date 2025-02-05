@@ -2,7 +2,7 @@
 date: '2024-11-07'
 modified_time: 2024-11-07 17:01:56-05:00
 published_time: 2024-11-07 17:01:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/07/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-peru-and-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/07/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-peru-and-brazil/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s travel to Peru and\_Brazil"

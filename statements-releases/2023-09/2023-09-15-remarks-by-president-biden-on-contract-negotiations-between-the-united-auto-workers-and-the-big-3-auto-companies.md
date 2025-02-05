@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 published_time: 2023-09-15 14:50:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/remarks-by-president-biden-on-contract-negotiations-between-the-united-auto-workers-and-the-big-3-auto-companies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/remarks-by-president-biden-on-contract-negotiations-between-the-united-auto-workers-and-the-big-3-auto-companies/
 tags: statements-releases
 title: "Remarks by President\_Biden on Contract Negotiations Between the United Auto\
   \ Workers and the Big 3 Auto\_Companies"

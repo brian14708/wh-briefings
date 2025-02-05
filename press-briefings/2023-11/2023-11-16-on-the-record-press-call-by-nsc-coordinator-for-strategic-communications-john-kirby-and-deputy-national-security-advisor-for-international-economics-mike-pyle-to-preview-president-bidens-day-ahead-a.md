@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 15:34:58-05:00
 published_time: 2023-11-16 15:34:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/16/on-the-record-press-call-by-nsc-coordinator-for-strategic-communications-john-kirby-and-deputy-national-security-advisor-for-international-economics-mike-pyle-to-preview-president-bidens-day-ahead-a/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/16/on-the-record-press-call-by-nsc-coordinator-for-strategic-communications-john-kirby-and-deputy-national-security-advisor-for-international-economics-mike-pyle-to-preview-president-bidens-day-ahead-a/
 tags: press-briefings
 title: "On-the-Record Press Call by NSC Coordinator for Strategic Communications John\
   \ Kirby and Deputy National Security Advisor for International Economics Mike Pyle\

@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 13:43:54-04:00
 published_time: 2024-08-16 13:53:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/16/remarks-by-president-biden-at-signing-of-the-proclamation-to-designate-the-springfield-1908-race-riot-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/16/remarks-by-president-biden-at-signing-of-the-proclamation-to-designate-the-springfield-1908-race-riot-national-monument/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of the Proclamation to Designate the\
   \ Springfield 1908 Race Riot National\_Monument"

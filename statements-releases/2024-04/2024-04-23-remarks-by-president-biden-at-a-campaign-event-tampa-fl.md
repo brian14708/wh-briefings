@@ -1,7 +1,7 @@
 ---
 date: '2024-04-23'
 published_time: 2024-04-23 18:56:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/remarks-by-president-biden-at-a-campaign-event-tampa-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/remarks-by-president-biden-at-a-campaign-event-tampa-fl/
 tags: statements-releases
 title: "Remarks by President\_Biden at a Campaign Event | Tampa,\_FL"
 ---

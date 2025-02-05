@@ -2,7 +2,7 @@
 date: '2024-06-12'
 modified_time: 2024-06-11 23:32:39-04:00
 published_time: 2024-06-12 07:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/12/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-trip-to-mexico-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/12/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-trip-to-mexico-2/
 tags: statements-releases
 title: "Readout of Homeland Security Advisor Dr. Liz Sherwood-Randall\u2019s Trip\
   \ to\_Mexico"
@@ -26,7 +26,7 @@ the people of both nations and our shared Hemisphere.
 
 These meetings took place on the second anniversary of the [Los Angeles
 Declaration on Migration and
-Protection](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-third-ministerial-meeting-on-the-los-angeles-declarationon-migration-and-protection-in-guatemala/) and
+Protection](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/fact-sheet-third-ministerial-meeting-on-the-los-angeles-declarationon-migration-and-protection-in-guatemala/) and
 the Americas Partnership for Economic Prosperity, both signature
 initiatives that President Biden has successfully launched and led.
 

@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 11:16:29-05:00
 published_time: 2022-12-14 11:05:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/
 tags: statements-releases
 title: "FACT SHEET:  New Initiative on Digital Transformation with Africa\_(DTA)"
 ---
@@ -132,7 +132,7 @@ following departments and agencies:
     strengthen the business enabling environment for trade and
     investment.  For example, as part of its [Health Electrification and
     Telecommunication
-    Alliance](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/),
+    Alliance](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/),
     Power Africa will invest $10 million to improve internet access in
     rural health clinics and regional health facilities.   
 -   **The U.S. Trade and Development Agency (USTDA)** will co-lead

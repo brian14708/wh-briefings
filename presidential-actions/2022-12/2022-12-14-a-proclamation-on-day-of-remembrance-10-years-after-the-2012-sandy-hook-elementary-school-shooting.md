@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 08:19:06-05:00
 published_time: 2022-12-14 08:19:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/14/a-proclamation-on-day-of-remembrance-10-years-after-the-2012-sandy-hook-elementary-school-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/14/a-proclamation-on-day-of-remembrance-10-years-after-the-2012-sandy-hook-elementary-school-shooting/
 tags: presidential-actions
 title: "A Proclamation on Day Of Remembrance:\_10 Years After The 2012 Sandy Hook\
   \ Elementary School\_Shooting"

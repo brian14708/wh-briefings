@@ -2,7 +2,7 @@
 date: '2024-08-02'
 modified_time: 2024-08-02 12:46:45-04:00
 published_time: 2024-08-02 12:46:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/02/president-biden-announces-presidential-delegation-to-the-dominican-republic-to-attend-the-inauguration-of-his-excellency-luis-abinader/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/02/president-biden-announces-presidential-delegation-to-the-dominican-republic-to-attend-the-inauguration-of-his-excellency-luis-abinader/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Dominican Republic\
   \ to Attend the Inauguration of His Excellency Luis\_Abinader"

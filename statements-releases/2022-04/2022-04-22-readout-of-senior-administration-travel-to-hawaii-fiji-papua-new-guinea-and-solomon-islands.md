@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 11:48:20-04:00
 published_time: 2022-04-22 11:44:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/readout-of-senior-administration-travel-to-hawaii-fiji-papua-new-guinea-and-solomon-islands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/readout-of-senior-administration-travel-to-hawaii-fiji-papua-new-guinea-and-solomon-islands/
 tags: statements-releases
 title: "Readout of Senior Administration Travel to Hawaii, Fiji, Papua New Guinea,\
   \ and Solomon\_Islands"

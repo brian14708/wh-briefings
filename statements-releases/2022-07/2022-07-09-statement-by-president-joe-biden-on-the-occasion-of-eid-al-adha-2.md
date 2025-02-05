@@ -2,7 +2,7 @@
 date: '2022-07-09'
 modified_time: 2022-07-09 11:17:05-04:00
 published_time: 2022-07-09 11:16:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/09/statement-by-president-joe-biden-on-the-occasion-of-eid-al-adha-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/09/statement-by-president-joe-biden-on-the-occasion-of-eid-al-adha-2/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Occasion of\_Eid\_al-Adha"
 ---

@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-02 09:16:35-04:00
 published_time: 2022-11-01 23:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/01/closing-remarks-by-national-security-advisor-jake-sullivan-at-the-counter-ransomware-initiative-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/01/closing-remarks-by-national-security-advisor-jake-sullivan-at-the-counter-ransomware-initiative-summit/
 tags: speeches-remarks
 title: "Closing Remarks by National Security Advisor Jake Sullivan at the Counter\
   \ Ransomware Initiative\_Summit"

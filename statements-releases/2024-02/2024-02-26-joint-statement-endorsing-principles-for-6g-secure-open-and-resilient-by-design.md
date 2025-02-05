@@ -1,7 +1,7 @@
 ---
 date: '2024-02-26'
 published_time: 2024-02-26 20:01:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/joint-statement-endorsing-principles-for-6g-secure-open-and-resilient-by-design/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/26/joint-statement-endorsing-principles-for-6g-secure-open-and-resilient-by-design/
 tags: statements-releases
 title: "Joint Statement Endorsing Principles for 6G: Secure, Open, and Resilient by\_\
   Design"

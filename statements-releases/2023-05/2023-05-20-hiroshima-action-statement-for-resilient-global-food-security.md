@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 09:06:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/hiroshima-action-statement-for-resilient-global-food-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/hiroshima-action-statement-for-resilient-global-food-security/
 tags: statements-releases
 title: "Hiroshima Action Statement for Resilient Global Food\_Security"
 ---

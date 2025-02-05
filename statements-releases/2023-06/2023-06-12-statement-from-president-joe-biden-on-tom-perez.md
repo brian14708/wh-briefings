@@ -2,7 +2,7 @@
 date: '2023-06-12'
 modified_time: 2023-06-12 14:25:43-04:00
 published_time: 2023-06-12 14:25:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/12/statement-from-president-joe-biden-on-tom-perez/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/12/statement-from-president-joe-biden-on-tom-perez/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Tom\_Perez"
 ---

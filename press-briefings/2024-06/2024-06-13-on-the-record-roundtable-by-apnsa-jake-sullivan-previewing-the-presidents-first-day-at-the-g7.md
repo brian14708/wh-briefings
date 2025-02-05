@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 11:53:02-04:00
 published_time: 2024-06-13 11:53:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/13/on-the-record-roundtable-by-apnsa-jake-sullivan-previewing-the-presidents-first-day-at-the-g7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/13/on-the-record-roundtable-by-apnsa-jake-sullivan-previewing-the-presidents-first-day-at-the-g7/
 tags: press-briefings
 title: "On-the-Record Roundtable by APNSA Jake Sullivan Previewing the President\u2019\
   s First Day at the\_G7"

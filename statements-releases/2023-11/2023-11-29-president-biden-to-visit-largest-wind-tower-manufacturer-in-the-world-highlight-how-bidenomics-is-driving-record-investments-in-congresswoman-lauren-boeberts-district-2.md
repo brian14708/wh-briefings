@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-28 19:19:27-05:00
 published_time: 2023-11-29 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/29/president-biden-to-visit-largest-wind-tower-manufacturer-in-the-world-highlight-how-bidenomics-is-driving-record-investments-in-congresswoman-lauren-boeberts-district-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/29/president-biden-to-visit-largest-wind-tower-manufacturer-in-the-world-highlight-how-bidenomics-is-driving-record-investments-in-congresswoman-lauren-boeberts-district-2/
 tags: statements-releases
 title: "President\_Biden to Visit Largest Wind Tower Manufacturer in the World, Highlight\
   \ How Bidenomics Is Driving Record Investments in Congresswoman Lauren Boebert\u2019\

@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-11 19:56:48-05:00
 published_time: 2024-12-12 05:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/fact-sheet-president-biden-announces-clemency-for-nearly-1500-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/fact-sheet-president-biden-announces-clemency-for-nearly-1500-americans/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Clemency for Nearly 1,500\_Americans"
 ---

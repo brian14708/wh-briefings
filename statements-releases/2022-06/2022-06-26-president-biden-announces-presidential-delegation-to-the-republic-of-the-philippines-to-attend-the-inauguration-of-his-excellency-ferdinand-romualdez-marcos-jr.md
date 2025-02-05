@@ -1,7 +1,7 @@
 ---
 date: '2022-06-26'
 published_time: 2022-06-26 16:42:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/president-biden-announces-presidential-delegation-to-the-republic-of-the-philippines-to-attend-the-inauguration-of-his-excellency-ferdinand-romualdez-marcos-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/president-biden-announces-presidential-delegation-to-the-republic-of-the-philippines-to-attend-the-inauguration-of-his-excellency-ferdinand-romualdez-marcos-jr/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Republic of the\
   \ Philippines to Attend the Inauguration of His Excellency Ferdinand Romualdez Marcos,\_\

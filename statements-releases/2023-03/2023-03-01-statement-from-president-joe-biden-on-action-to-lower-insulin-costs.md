@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 11:28:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/01/statement-from-president-joe-biden-on-action-to-lower-insulin-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/01/statement-from-president-joe-biden-on-action-to-lower-insulin-costs/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Action to Lower Insulin\_Costs"
 ---

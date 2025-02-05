@@ -1,7 +1,7 @@
 ---
 date: '2022-09-16'
 published_time: 2022-09-16 20:31:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-meetings-with-elizabeth-whelan-and-cherelle-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-meetings-with-elizabeth-whelan-and-cherelle-griner/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Meetings with Elizabeth Whelan and Cherelle\_Griner"

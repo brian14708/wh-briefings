@@ -2,7 +2,7 @@
 date: '2023-09-22'
 modified_time: 2023-09-22 18:27:30-04:00
 published_time: 2023-09-22 17:09:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-national-public-lands-day-2023-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-national-public-lands-day-2023-2/
 tags: presidential-actions
 title: "A Proclamation on National Hunting and Fishing Day,\_2023"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-06'
 published_time: 2023-04-06 21:43:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/statement-by-vice-president-kamala-harris-on-americans-continued-rebuke-of-attacks-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/statement-by-vice-president-kamala-harris-on-americans-continued-rebuke-of-attacks-on-reproductive-rights/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Americans\u2019 Continued Rebuke\
   \ of Attacks on Reproductive\_Rights"

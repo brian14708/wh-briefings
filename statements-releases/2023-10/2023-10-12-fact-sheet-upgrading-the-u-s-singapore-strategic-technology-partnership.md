@@ -1,7 +1,7 @@
 ---
 date: '2023-10-12'
 published_time: 2023-10-12 22:49:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/fact-sheet-upgrading-the-u-s-singapore-strategic-technology-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/fact-sheet-upgrading-the-u-s-singapore-strategic-technology-partnership/
 tags: statements-releases
 title: "FACT SHEET: Upgrading the U.S.-Singapore Strategic Technology\_Partnership"
 ---

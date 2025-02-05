@@ -2,7 +2,7 @@
 date: '2023-10-15'
 modified_time: 2023-10-14 19:50:34-04:00
 published_time: 2023-10-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/15/statement-from-president-joe-biden-on-medicare-open-enrollment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/15/statement-from-president-joe-biden-on-medicare-open-enrollment/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Medicare Open\_Enrollment"
 ---

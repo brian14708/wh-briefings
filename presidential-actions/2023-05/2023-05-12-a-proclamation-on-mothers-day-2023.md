@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 08:37:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/12/a-proclamation-on-mothers-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/12/a-proclamation-on-mothers-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Mother\u2019s Day,\_2023"
 ---

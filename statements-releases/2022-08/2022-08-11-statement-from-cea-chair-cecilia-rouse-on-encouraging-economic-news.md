@@ -2,7 +2,7 @@
 date: '2022-08-11'
 modified_time: 2022-08-11 11:35:17-04:00
 published_time: 2022-08-11 11:34:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/statement-from-cea-chair-cecilia-rouse-on-encouraging-economic-news/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/11/statement-from-cea-chair-cecilia-rouse-on-encouraging-economic-news/
 tags: statements-releases
 title: "Statement from CEA Chair Cecilia Rouse on Encouraging Economic\_News"
 ---

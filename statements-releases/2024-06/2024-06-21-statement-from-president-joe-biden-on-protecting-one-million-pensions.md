@@ -2,7 +2,7 @@
 date: '2024-06-21'
 modified_time: 2024-06-21 08:10:59-04:00
 published_time: 2024-06-21 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/21/statement-from-president-joe-biden-on-protecting-one-million-pensions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/21/statement-from-president-joe-biden-on-protecting-one-million-pensions/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Protecting One Million\_Pensions"
 ---

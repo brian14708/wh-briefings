@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-20 17:08:50-04:00
 published_time: 2023-09-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-advances-offshore-wind-transmission-strengthens-regional-supply-chain-buildout-and-drives-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-advances-offshore-wind-transmission-strengthens-regional-supply-chain-buildout-and-drives-innovation/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Offshore Wind Transmission,\
   \ Strengthens Regional Supply Chain Buildout, and Drives\_Innovation"
@@ -18,7 +18,7 @@ across America   *
 
 President Biden’s Investing in America agenda is growing an [American
 offshore wind
-industry](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) that
+industry](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) that
 will create thousands of good-paying union jobs across the country,
 power millions of homes with clean electricity, and strengthen our
 energy security while reducing dangerous climate pollution. This week
@@ -30,7 +30,7 @@ cutting-edge technologies.
   
 American workers across manufacturing, shipbuilding, construction, and
 other sectors are [building this new industry right
-now](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/).
+now](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/).
 The Biden-Harris Administration continues to use every tool
 available—including leveraging historic resources from President Biden’s
 Investing in America agenda, a key pillar of Bidenomics—to bring the
@@ -46,7 +46,7 @@ Administration’s newest steps include:
     the Federal-State Offshore Wind Implementation Partnership launched
     by President Biden, nine East Coast states and four federal agencies
     are announcing a new [Memorandum of
-    Understanding](https://www.whitehouse.gov/wp-content/uploads/2023/09/Federal-State-MOU-on-East-Coast-Offshore-Wind-Supply-Chain-Collaboration.pdf) (MOU)
+    Understanding](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Federal-State-MOU-on-East-Coast-Offshore-Wind-Supply-Chain-Collaboration.pdf) (MOU)
     to strengthen regional collaboration on offshore wind supply chain
     development. The MOU will help expand manufacturing facilities, port
     capabilities, workforce development, and other key supply chain
@@ -133,7 +133,7 @@ The Administration’s latest steps will help drive long-term growth
 across the American offshore wind industry—which President Biden has
 jumpstarted by taking decisive action across a [multi-prong offshore
 wind
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/).
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/).
 The Biden-Harris Administration has
 already [approved](https://www.doi.gov/pressreleases/biden-harris-administration-approves-fourth-major-offshore-wind-project) four
 commercial-scale offshore wind projects and remains on track to complete
@@ -146,7 +146,7 @@ a fifth proposed project, with more on the horizon.
 In just the last year, since President Biden signed the Inflation
 Reduction Act into law, investments in the U.S. offshore wind industry
 have [increased by $7.7
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/),
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/),
 and the number of companies looking to support this supply chain has
 risen 54% to 4,100 companies across all 50 states.
 

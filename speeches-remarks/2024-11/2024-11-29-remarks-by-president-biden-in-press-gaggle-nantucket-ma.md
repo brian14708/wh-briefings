@@ -2,7 +2,7 @@
 date: '2024-11-29'
 modified_time: 2024-11-29 11:54:48-05:00
 published_time: 2024-11-29 12:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/29/remarks-by-president-biden-in-press-gaggle-nantucket-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/29/remarks-by-president-biden-in-press-gaggle-nantucket-ma/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press Gaggle | Nantucket,\_MA"
 ---

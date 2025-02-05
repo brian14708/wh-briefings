@@ -1,7 +1,7 @@
 ---
 date: '2024-10-04'
 published_time: 2024-10-04 18:35:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/04/a-proclamation-on-child-health-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/04/a-proclamation-on-child-health-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Child Health Day,\_2024"
 ---

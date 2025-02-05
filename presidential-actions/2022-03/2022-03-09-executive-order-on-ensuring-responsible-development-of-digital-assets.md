@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2022-03-09'
 modified_time: 2022-03-09 09:41:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/
 published_time: 2022-03-09 09:41:51-05:00
 title: "Executive Order on Ensuring Responsible Development of Digital\_Assets"
 ---

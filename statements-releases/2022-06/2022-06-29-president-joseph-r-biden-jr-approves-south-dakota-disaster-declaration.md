@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 16:47:28-04:00
 published_time: 2022-06-29 16:47:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/29/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/29/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves South Dakota Disaster\_Declaration"
 ---

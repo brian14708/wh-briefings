@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 09:06:49-04:00
 published_time: 2022-06-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-announces-action-on-covid-19-pandemic-response-and-improving-health-systems-and-health-security-in-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-announces-action-on-covid-19-pandemic-response-and-improving-health-systems-and-health-security-in-the-americas/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Action on COVID-\u2060\
   19 Pandemic Response and Improving Health Systems and Health Security in the\_Americas"
@@ -27,7 +27,7 @@ implementing this Action Plan will require additional investments in our
 health systems, the Administration is proud to announce the **Americas
 Health Corps**, a new initiative aligned with the recently
 announced [Global Health Worker
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/). 
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/). 
 
 The Administration remains committed to advancing pandemic response and
 global health security and has prioritized additional activities in the

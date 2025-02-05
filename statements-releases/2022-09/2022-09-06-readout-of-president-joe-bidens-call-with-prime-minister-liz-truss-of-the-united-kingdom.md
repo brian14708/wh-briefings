@@ -1,7 +1,7 @@
 ---
 date: '2022-09-06'
 published_time: 2022-09-06 18:38:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/06/readout-of-president-joe-bidens-call-with-prime-minister-liz-truss-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/06/readout-of-president-joe-bidens-call-with-prime-minister-liz-truss-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Liz Truss\
   \ of the United\_Kingdom"

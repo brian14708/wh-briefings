@@ -1,7 +1,7 @@
 ---
 date: '2024-09-17'
 published_time: 2024-09-17 16:02:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/17/statement-from-vice-president-harris-on-senate-republicans-vote-to-once-again-block-nationwide-protections-for-ivf/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/17/statement-from-vice-president-harris-on-senate-republicans-vote-to-once-again-block-nationwide-protections-for-ivf/
 tags: statements-releases
 title: "Statement from Vice President Harris on Senate Republicans\u2019 Vote to Once\
   \ Again Block Nationwide Protections for\_IVF"

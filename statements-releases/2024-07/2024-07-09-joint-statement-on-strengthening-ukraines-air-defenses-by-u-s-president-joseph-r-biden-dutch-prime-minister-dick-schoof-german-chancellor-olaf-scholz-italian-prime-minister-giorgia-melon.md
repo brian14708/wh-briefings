@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-09 16:57:03-04:00
 published_time: 2024-07-09 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/09/joint-statement-on-strengthening-ukraines-air-defenses-by-u-s-president-joseph-r-biden-dutch-prime-minister-dick-schoof-german-chancellor-olaf-scholz-italian-prime-minister-giorgia-melon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/09/joint-statement-on-strengthening-ukraines-air-defenses-by-u-s-president-joseph-r-biden-dutch-prime-minister-dick-schoof-german-chancellor-olaf-scholz-italian-prime-minister-giorgia-melon/
 tags: statements-releases
 title: "Joint Statement on Strengthening Ukraine\u2019s Air Defenses by U.S. President\
   \ Joseph R. Biden, Dutch Prime Minister Dick Schoof, German Chancellor Olaf Scholz,\

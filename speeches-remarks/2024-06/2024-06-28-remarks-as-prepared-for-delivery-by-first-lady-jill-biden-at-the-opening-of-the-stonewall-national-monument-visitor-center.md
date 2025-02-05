@@ -1,7 +1,7 @@
 ---
 date: '2024-06-28'
 published_time: 2024-06-28 18:57:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-opening-of-the-stonewall-national-monument-visitor-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-opening-of-the-stonewall-national-monument-visitor-center/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Opening\
   \ of the Stonewall National Monument Visitor\_Center"

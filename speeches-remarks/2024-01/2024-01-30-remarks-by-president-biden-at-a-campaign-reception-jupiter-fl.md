@@ -2,7 +2,7 @@
 date: '2024-01-30'
 modified_time: 2024-01-30 16:53:30-05:00
 published_time: 2024-01-30 16:53:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/30/remarks-by-president-biden-at-a-campaign-reception-jupiter-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/30/remarks-by-president-biden-at-a-campaign-reception-jupiter-fl/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Jupiter,\_FL"
 ---

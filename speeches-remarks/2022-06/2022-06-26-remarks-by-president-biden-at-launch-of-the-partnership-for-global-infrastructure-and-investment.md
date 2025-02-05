@@ -2,7 +2,7 @@
 date: '2022-06-26'
 modified_time: 2022-06-26 12:58:11-04:00
 published_time: 2022-06-26 12:58:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/26/remarks-by-president-biden-at-launch-of-the-partnership-for-global-infrastructure-and-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/26/remarks-by-president-biden-at-launch-of-the-partnership-for-global-infrastructure-and-investment/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Launch of the Partnership for Global Infrastructure\
   \ and\_Investment"

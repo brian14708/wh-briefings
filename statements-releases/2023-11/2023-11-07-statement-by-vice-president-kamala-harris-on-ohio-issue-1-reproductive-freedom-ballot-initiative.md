@@ -1,7 +1,7 @@
 ---
 date: '2023-11-07'
 published_time: 2023-11-07 21:30:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/statement-by-vice-president-kamala-harris-on-ohio-issue-1-reproductive-freedom-ballot-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/statement-by-vice-president-kamala-harris-on-ohio-issue-1-reproductive-freedom-ballot-initiative/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Ohio Issue 1 Reproductive Freedom\
   \ Ballot\_Initiative"

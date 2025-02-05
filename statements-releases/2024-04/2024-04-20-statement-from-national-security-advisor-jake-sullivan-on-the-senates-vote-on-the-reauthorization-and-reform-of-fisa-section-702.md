@@ -1,7 +1,7 @@
 ---
 date: '2024-04-20'
 published_time: 2024-04-20 01:02:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/20/statement-from-national-security-advisor-jake-sullivan-on-the-senates-vote-on-the-reauthorization-and-reform-of-fisa-section-702/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/20/statement-from-national-security-advisor-jake-sullivan-on-the-senates-vote-on-the-reauthorization-and-reform-of-fisa-section-702/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Senate\u2019\
   s Vote on the Reauthorization and Reform of FISA Section\_702"

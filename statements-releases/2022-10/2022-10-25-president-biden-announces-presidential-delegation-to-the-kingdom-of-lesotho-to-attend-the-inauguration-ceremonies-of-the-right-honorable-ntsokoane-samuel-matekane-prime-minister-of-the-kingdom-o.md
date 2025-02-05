@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-25 17:28:35-04:00
 published_time: 2022-10-25 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/president-biden-announces-presidential-delegation-to-the-kingdom-of-lesotho-to-attend-the-inauguration-ceremonies-of-the-right-honorable-ntsokoane-samuel-matekane-prime-minister-of-the-kingdom-o/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/president-biden-announces-presidential-delegation-to-the-kingdom-of-lesotho-to-attend-the-inauguration-ceremonies-of-the-right-honorable-ntsokoane-samuel-matekane-prime-minister-of-the-kingdom-o/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Kingdom of Lesotho\
   \ to Attend the Inauguration Ceremonies of The Right Honorable Ntsokoane Samuel\_\

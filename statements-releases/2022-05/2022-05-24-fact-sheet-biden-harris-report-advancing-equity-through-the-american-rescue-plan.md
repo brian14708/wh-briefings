@@ -2,7 +2,7 @@
 date: '2022-05-24'
 modified_time: 2022-05-24 00:01:26-04:00
 published_time: 2022-05-24 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Report: \u201CAdvancing Equity Through the\
   \ American Rescue\_Plan\u201D"
@@ -15,7 +15,7 @@ Policies*
 
 Today, the American Rescue Plan Implementation Team and the Domestic
 Policy Council released their interim [American Rescue Plan Equity
-Report](https://www.whitehouse.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf).
+Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/ADVANCING-EQUITY-THROUGH-THE-AMERICAN-RESCUE-PLAN.pdf).
 It covers 32 different American Rescue Plan programs that represent
 nearly $900 billion or 60 percent of American Rescue Plan funds,
 excluding Economic Impact Payments (i.e., stimulus checks). The report,

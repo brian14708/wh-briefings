@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-17 15:22:05-04:00
 published_time: 2024-06-18 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-president-biden-announces-new-actions-to-keep-families-together/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-president-biden-announces-new-actions-to-keep-families-together/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Keep Families\_Together"
 ---

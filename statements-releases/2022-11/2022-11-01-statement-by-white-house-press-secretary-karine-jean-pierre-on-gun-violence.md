@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 22:22:32-04:00
 published_time: 2022-11-01 22:22:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/statement-by-white-house-press-secretary-karine-jean-pierre-on-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/statement-by-white-house-press-secretary-karine-jean-pierre-on-gun-violence/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on Gun\_Violence"
 ---

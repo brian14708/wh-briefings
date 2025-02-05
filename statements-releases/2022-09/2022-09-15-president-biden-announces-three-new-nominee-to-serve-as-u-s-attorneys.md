@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 16:05:03-04:00
 published_time: 2022-09-15 16:02:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/president-biden-announces-three-new-nominee-to-serve-as-u-s-attorneys/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/president-biden-announces-three-new-nominee-to-serve-as-u-s-attorneys/
 tags: statements-releases
 title: "President\_Biden Announces Three New Nominees to Serve as U.S.\_Attorneys"
 ---

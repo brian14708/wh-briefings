@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-17'
 modified_time: 2021-08-17 09:42:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/17/fact-sheet-bipartisan-infrastructure-deal-and-build-back-better-agenda-present-bright-future-for-solar-power-good-jobs-and-more-affordable-energy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/17/fact-sheet-bipartisan-infrastructure-deal-and-build-back-better-agenda-present-bright-future-for-solar-power-good-jobs-and-more-affordable-energy/
 published_time: 2021-08-17 09:30:00-04:00
 title: "FACT SHEET: Bipartisan Infrastructure Deal and Build Back Better Agenda Present\
   \ Bright Future for Solar Power, Good Jobs, and More Affordable\_Energy"
@@ -154,7 +154,7 @@ facilities can help the United States lead once again in the global
 solar market.  
   
 As [previously
-announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/),
+announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/),
 DOE is pursuing new policy to ensure that all innovations that are
 developed with taxpayer dollars through DOE’s Science and Energy
 Programs require awardees to substantially manufacture those products in

@@ -2,7 +2,7 @@
 date: '2022-11-28'
 modified_time: 2022-11-28 13:28:37-05:00
 published_time: 2022-11-28 13:28:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-roundtable-with-national-guard-families-and-state-adjutants-general/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-roundtable-with-national-guard-families-and-state-adjutants-general/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Roundtable\
   \ with National Guard Families and State Adjutants\_General"

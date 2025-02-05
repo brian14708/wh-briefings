@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 15:55:44-04:00
 published_time: 2023-04-14 12:51:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/what-they-are-saying-members-of-congress-local-leaders-immigration-advocates-and-more-celebrate-the-biden-administrations-expansion-of-the-affordable-care-act-to-daca-recipients/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/what-they-are-saying-members-of-congress-local-leaders-immigration-advocates-and-more-celebrate-the-biden-administrations-expansion-of-the-affordable-care-act-to-daca-recipients/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Members of Congress, Local Leaders, Immigration Advocates\
   \ and More Celebrate the Biden Administration\u2019s Expansion of the Affordable\
@@ -861,7 +861,7 @@ restored.”
 
 **The National Asian Pacific American Women’s Forum (NAPAWF):** “The
 Biden Administration
-is [announcing](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/fact-sheet-fact-sheet-president-biden-announces-plan-to-expand-health-coverage-to-daca-recipients/) that
+is [announcing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/fact-sheet-fact-sheet-president-biden-announces-plan-to-expand-health-coverage-to-daca-recipients/) that
 it will expand eligibility to health care benefits under the Patient
 Protection and Affordable Care Act (ACA) and Medicaid to Deferred Action
 for Childhood Arrivals (DACA) recipients…We applaud President Joe Biden

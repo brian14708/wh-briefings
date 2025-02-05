@@ -1,7 +1,7 @@
 ---
 date: '2024-09-25'
 published_time: 2024-09-25 19:42:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/readout-of-president-joe-bidens-meeting-with-general-secretary-to-lam-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/readout-of-president-joe-bidens-meeting-with-general-secretary-to-lam-of-vietnam/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with General Secretary T\xF4\
   \ L\xE2m of\_Vietnam"

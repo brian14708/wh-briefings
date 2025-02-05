@@ -1,7 +1,7 @@
 ---
 date: '2024-06-18'
 published_time: 2024-06-18 15:59:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/statement-from-vice-president-kamala-harris-on-new-actions-to-keep-families-together/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/statement-from-vice-president-kamala-harris-on-new-actions-to-keep-families-together/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on New Actions to Keep Families\_\
   Together"

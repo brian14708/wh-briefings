@@ -2,7 +2,7 @@
 date: '2024-06-10'
 modified_time: 2024-06-11 09:20:36-04:00
 published_time: 2024-06-10 09:14:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/10/fact-sheet-biden-harris-administration-bolsters-protections-for-americans-access-to-healthcare-through-strengthening-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/10/fact-sheet-biden-harris-administration-bolsters-protections-for-americans-access-to-healthcare-through-strengthening-cybersecurity/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Bolsters Protections for Americans\u2019\
   \ Access to Healthcare Through Strengthening Cybersecurity"

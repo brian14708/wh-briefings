@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-22 22:25:28-04:00
 published_time: 2022-05-23 03:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/23/on-the-record-press-call-on-the-launch-of-the-indo-pacific-economic-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/23/on-the-record-press-call-on-the-launch-of-the-indo-pacific-economic-framework/
 tags: press-briefings
 title: "On-the-Record Press Call on the Launch of the Indo-Pacific Economic\_Framework"
 ---

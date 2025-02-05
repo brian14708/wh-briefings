@@ -1,7 +1,7 @@
 ---
 date: '2022-12-13'
 published_time: 2022-12-13 14:24:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/13/executive-order-on-establishing-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/13/executive-order-on-establishing-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/
 tags: presidential-actions
 title: "Executive Order on Establishing the President\u2019s Advisory Council on African\
   \ Diaspora Engagement in the United\_States"

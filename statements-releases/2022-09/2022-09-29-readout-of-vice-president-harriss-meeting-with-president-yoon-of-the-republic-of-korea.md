@@ -2,7 +2,7 @@
 date: '2022-09-29'
 modified_time: 2022-09-29 07:23:12-04:00
 published_time: 2022-09-29 01:48:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/readout-of-vice-president-harriss-meeting-with-president-yoon-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/readout-of-vice-president-harriss-meeting-with-president-yoon-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Yoon of the\
   \ Republic of\_Korea"

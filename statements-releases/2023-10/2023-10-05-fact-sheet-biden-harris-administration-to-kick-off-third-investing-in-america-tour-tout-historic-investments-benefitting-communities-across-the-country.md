@@ -2,7 +2,7 @@
 date: '2023-10-05'
 modified_time: 2023-10-05 14:34:45-04:00
 published_time: 2023-10-05 14:34:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration to Kick Off Third Investing\
   \ in America Tour, Tout Historic Investments Benefitting Communities Across the\_\

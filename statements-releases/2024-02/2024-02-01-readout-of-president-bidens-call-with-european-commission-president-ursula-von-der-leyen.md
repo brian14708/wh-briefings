@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 published_time: 2024-02-01 14:09:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/readout-of-president-bidens-call-with-european-commission-president-ursula-von-der-leyen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/01/readout-of-president-bidens-call-with-european-commission-president-ursula-von-der-leyen/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with European Commission President\
   \ Ursula von der\_Leyen"

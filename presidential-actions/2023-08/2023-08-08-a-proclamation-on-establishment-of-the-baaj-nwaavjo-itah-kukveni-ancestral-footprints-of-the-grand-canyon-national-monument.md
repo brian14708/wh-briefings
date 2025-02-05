@@ -1,7 +1,7 @@
 ---
 date: '2023-08-08'
 published_time: 2023-08-08 15:16:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/08/a-proclamation-on-establishment-of-the-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/08/a-proclamation-on-establishment-of-the-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/
 tags: presidential-actions
 title: "A Proclamation on Establishment of the Baaj Nwaavjo I\u2019tah Kukveni-Ancestral\
   \ Footprints of the Grand Canyon National\_Monument"

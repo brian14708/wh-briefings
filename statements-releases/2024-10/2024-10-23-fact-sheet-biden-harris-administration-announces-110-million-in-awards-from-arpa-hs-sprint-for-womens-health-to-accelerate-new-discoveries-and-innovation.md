@@ -2,7 +2,7 @@
 date: '2024-10-23'
 modified_time: 2024-10-23 15:34:41-04:00
 published_time: 2024-10-23 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/23/fact-sheet-biden-harris-administration-announces-110-million-in-awards-from-arpa-hs-sprint-for-womens-health-to-accelerate-new-discoveries-and-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/23/fact-sheet-biden-harris-administration-announces-110-million-in-awards-from-arpa-hs-sprint-for-womens-health-to-accelerate-new-discoveries-and-innovation/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces $110 Million in Awards\
   \ from ARPA-H\u2019s Sprint for Women\u2019s Health to Accelerate New Discoveries\
@@ -42,15 +42,15 @@ announcement](https://www.defense.gov/News/Releases/Release/Article/3913913/dod-
 of $500 million from the U.S. Department of Defense and $200 million
 from the National Institutes of Health. Additionally, in his State of
 the Union address, President Biden [called
-on](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
+on](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
 Congress to make a bold, transformative investment of $12 billion in new
 funding for women’s health research. President Biden also signed a
 first-of-its-kind [Executive Order on Advancing Women’s Health Research
 and
-Innovation](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/),
+Innovation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/),
 directing the most comprehensive set of executive actions ever taken to
 expand and improve research on women’s health. Through the
-[Initiative](https://www.whitehouse.gov/womenshealthresearch/), federal
+[Initiative](https://bidenwhitehouse.archives.gov/womenshealthresearch/), federal
 agencies have committed to taking over 100 actions to prioritize
 investments in women’s health research and integrate women’s health
 across the federal research portfolio.

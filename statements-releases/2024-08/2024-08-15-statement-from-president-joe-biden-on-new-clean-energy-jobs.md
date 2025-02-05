@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-14 22:45:08-04:00
 published_time: 2024-08-15 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-new-clean-energy-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-new-clean-energy-jobs/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Clean Energy\_Jobs"
 ---

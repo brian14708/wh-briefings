@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-28 04:18:22-04:00
 published_time: 2023-09-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/28/excerpts-of-remarks-as-prepared-for-delivery-by-president-joe-biden-on-democracy-in-tempe-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/28/excerpts-of-remarks-as-prepared-for-delivery-by-president-joe-biden-on-democracy-in-tempe-az/
 tags: speeches-remarks
 title: "Excerpts of Remarks as Prepared for Delivery by President Joe\_Biden on Democracy\
   \ in Tempe,\_AZ"

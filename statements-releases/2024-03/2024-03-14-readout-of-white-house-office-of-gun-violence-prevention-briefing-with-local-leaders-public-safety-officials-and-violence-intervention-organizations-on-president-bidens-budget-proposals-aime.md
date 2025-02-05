@@ -1,7 +1,7 @@
 ---
 date: '2024-03-14'
 published_time: 2024-03-14 12:24:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/readout-of-white-house-office-of-gun-violence-prevention-briefing-with-local-leaders-public-safety-officials-and-violence-intervention-organizations-on-president-bidens-budget-proposals-aime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/readout-of-white-house-office-of-gun-violence-prevention-briefing-with-local-leaders-public-safety-officials-and-violence-intervention-organizations-on-president-bidens-budget-proposals-aime/
 tags: statements-releases
 title: "Readout of White\_House Office of Gun Violence Prevention Briefing with Local\
   \ Leaders, Public Safety Officials and Violence Intervention Organizations on President\_\
@@ -58,6 +58,6 @@ federal gun trafficking and straw purchasing law.
 
 More information on the President’s budget to reduce crime and make our
 communities safer can be found
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-tackles-crime-keeps-americans-safe-at-home/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-tackles-crime-keeps-americans-safe-at-home/).
 
 \###

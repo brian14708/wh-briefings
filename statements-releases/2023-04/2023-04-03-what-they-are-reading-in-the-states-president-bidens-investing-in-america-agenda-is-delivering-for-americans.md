@@ -2,7 +2,7 @@
 date: '2023-04-03'
 modified_time: 2023-04-03 11:37:05-04:00
 published_time: 2023-04-03 11:35:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/03/what-they-are-reading-in-the-states-president-bidens-investing-in-america-agenda-is-delivering-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/03/what-they-are-reading-in-the-states-president-bidens-investing-in-america-agenda-is-delivering-for-americans/
 tags: statements-releases
 title: "What They Are Reading in the States: President\_Biden\u2019s Investing in\
   \ America Agenda is Delivering for\_Americans"

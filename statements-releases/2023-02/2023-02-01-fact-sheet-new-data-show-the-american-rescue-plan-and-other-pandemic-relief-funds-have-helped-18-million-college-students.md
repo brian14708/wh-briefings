@@ -1,7 +1,7 @@
 ---
 date: '2023-02-01'
 published_time: 2023-02-01 11:54:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-new-data-show-the-american-rescue-plan-and-other-pandemic-relief-funds-have-helped-18-million-college-students/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-new-data-show-the-american-rescue-plan-and-other-pandemic-relief-funds-have-helped-18-million-college-students/
 tags: statements-releases
 title: "FACT SHEET:\_New Data Show the American Rescue Plan and Other Pandemic Relief\
   \ Funds Have Helped 18 Million College\_Students"

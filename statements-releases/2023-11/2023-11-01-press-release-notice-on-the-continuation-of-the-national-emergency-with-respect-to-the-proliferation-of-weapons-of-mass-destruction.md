@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 15:04:33-04:00
 published_time: 2023-11-01 15:04:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction/
 tags: statements-releases
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to the Proliferation of Weapons of Mass\_Destruction"

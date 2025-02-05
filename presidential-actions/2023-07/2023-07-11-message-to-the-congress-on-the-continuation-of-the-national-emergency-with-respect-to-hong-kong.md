@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 14:03:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to Hong\_Kong"

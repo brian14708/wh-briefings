@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 10:47:17-05:00
 published_time: 2023-02-06 10:41:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/statement-by-president-joe-biden-on-the-earthquakes-impacting-turkiye-and-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/statement-by-president-joe-biden-on-the-earthquakes-impacting-turkiye-and-syria/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Earthquakes Impacting Turkiye and\_\
   Syria"

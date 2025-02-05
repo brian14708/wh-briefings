@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 published_time: 2022-11-03 16:42:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/03/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-albuquerque-nm/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/03/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-albuquerque-nm/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Albuquerque,\_\
   NM"

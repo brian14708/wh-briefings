@@ -2,7 +2,7 @@
 date: '2023-08-28'
 modified_time: 2023-08-29 14:26:41-04:00
 published_time: 2023-08-28 14:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/28/press-call-by-vice-president-harris-secretary-janet-yellen-and-senior-administration-officials-on-the-treasury-worker-task-force-report-release/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/28/press-call-by-vice-president-harris-secretary-janet-yellen-and-senior-administration-officials-on-the-treasury-worker-task-force-report-release/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris, Secretary Janet Yellen, and Senior Administration\
   \ Officials on the Treasury Worker Task Force Report\_Release"

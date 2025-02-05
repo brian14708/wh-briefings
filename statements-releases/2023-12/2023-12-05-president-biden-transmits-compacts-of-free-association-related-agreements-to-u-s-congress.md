@@ -1,7 +1,7 @@
 ---
 date: '2023-12-05'
 published_time: 2023-12-05 17:42:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/president-biden-transmits-compacts-of-free-association-related-agreements-to-u-s-congress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/president-biden-transmits-compacts-of-free-association-related-agreements-to-u-s-congress/
 tags: statements-releases
 title: "President\_Biden Transmits Compacts of Free Association-Related Agreements\
   \ to U.S.\_Congress"

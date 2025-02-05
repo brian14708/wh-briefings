@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 16:46:46-04:00
 published_time: 2022-08-03 16:46:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/nominations-sent-to-the-senate-79/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/nominations-sent-to-the-senate-79/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

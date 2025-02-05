@@ -1,7 +1,7 @@
 ---
 date: '2024-02-08'
 published_time: 2024-02-08 14:35:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/readout-of-white-house-roundtable-on-clean-bus-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/readout-of-white-house-roundtable-on-clean-bus-manufacturing/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Clean Bus Manufacturing"
 ---

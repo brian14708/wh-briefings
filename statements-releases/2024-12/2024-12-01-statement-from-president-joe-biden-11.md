@@ -2,7 +2,7 @@
 date: '2024-12-01'
 modified_time: 2024-12-01 19:21:10-05:00
 published_time: 2024-12-01 19:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/01/statement-from-president-joe-biden-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/01/statement-from-president-joe-biden-11/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

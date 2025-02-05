@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-02 21:32:32-04:00
 published_time: 2024-05-02 21:32:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-national-teachers-of-the-year-state-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-national-teachers-of-the-year-state-dinner/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at National Teachers\
   \ of the Year State\_Dinner"

@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 11:31:19-04:00
 published_time: 2022-06-15 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/president-biden-announces-former-atlanta-mayor-keisha-lance-bottoms-as-senior-advisor-for-public-engagement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/president-biden-announces-former-atlanta-mayor-keisha-lance-bottoms-as-senior-advisor-for-public-engagement/
 tags: statements-releases
 title: "President\_Biden Announces Former Atlanta Mayor Keisha Lance Bottoms as Senior\
   \ Advisor for Public\_Engagement"

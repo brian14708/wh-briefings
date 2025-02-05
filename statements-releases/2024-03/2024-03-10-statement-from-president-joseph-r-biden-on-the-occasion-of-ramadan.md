@@ -1,7 +1,7 @@
 ---
 date: '2024-03-10'
 published_time: 2024-03-10 20:18:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/10/statement-from-president-joseph-r-biden-on-the-occasion-of-ramadan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/10/statement-from-president-joseph-r-biden-on-the-occasion-of-ramadan/
 tags: statements-releases
 title: "Statement from President Joseph R. Biden on the Occasion of\_Ramadan"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 08:32:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Yoon Suk Yeol of the Republic\
   \ of Korea Before Bilateral\_Meeting"

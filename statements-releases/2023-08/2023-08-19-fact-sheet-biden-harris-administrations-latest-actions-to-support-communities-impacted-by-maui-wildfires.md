@@ -1,7 +1,7 @@
 ---
 date: '2023-08-19'
 published_time: 2023-08-19 16:34:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/19/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/19/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Latest Actions to Support\
   \ Communities Impacted by Maui\_Wildfires"
@@ -12,7 +12,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Latest Actions to S
 
 Within hours of the devastating wildfires in Maui, Hawaii, President
 Biden
-[signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
+[signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
 a Major Disaster Declaration for the state and launched a
 whole-of-government effort to support residents and communities affected
 by this unprecedented tragedy. On Monday, August 21, President Biden and

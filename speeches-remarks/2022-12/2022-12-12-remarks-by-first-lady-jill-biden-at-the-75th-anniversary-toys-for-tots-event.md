@@ -1,7 +1,7 @@
 ---
 date: '2022-12-12'
 published_time: 2022-12-12 15:42:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/12/remarks-by-first-lady-jill-biden-at-the-75th-anniversary-toys-for-tots-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/12/remarks-by-first-lady-jill-biden-at-the-75th-anniversary-toys-for-tots-event/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the 75th Anniversary Toys for Tots\_\
   Event"

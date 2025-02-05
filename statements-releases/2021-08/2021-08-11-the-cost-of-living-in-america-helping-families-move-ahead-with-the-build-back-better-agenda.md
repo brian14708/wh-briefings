@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-11 13:21:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/the-cost-of-living-in-america-helping-families-move-ahead-with-the-build-back-better-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/11/the-cost-of-living-in-america-helping-families-move-ahead-with-the-build-back-better-agenda/
 published_time: 2021-08-11 13:21:01-04:00
 title: "The Cost of Living in America: Helping Families Move Ahead with the Build\
   \ Back Better\_Agenda"
@@ -35,6 +35,6 @@ policy proposals, and others put forward by the President, will help
 ensure that families can meet costs and share in a broad prosperity.
 
 Read the full report
-[here](https://www.whitehouse.gov/wp-content/uploads/2021/08/Costs-Brief.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/08/Costs-Brief.pdf).
 
 \###

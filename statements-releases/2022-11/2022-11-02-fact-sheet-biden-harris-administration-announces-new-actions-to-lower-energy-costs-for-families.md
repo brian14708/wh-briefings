@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-01 21:27:59-04:00
 published_time: 2022-11-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-energy-costs-for-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-energy-costs-for-families/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Lower\
   \ Energy Costs for\_Families"

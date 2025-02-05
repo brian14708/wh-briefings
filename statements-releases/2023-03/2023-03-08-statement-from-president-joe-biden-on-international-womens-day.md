@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-08 09:43:00-05:00
 published_time: 2023-03-08 09:42:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/statement-from-president-joe-biden-on-international-womens-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/statement-from-president-joe-biden-on-international-womens-day/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on International Women\u2019s\_Day"
 ---

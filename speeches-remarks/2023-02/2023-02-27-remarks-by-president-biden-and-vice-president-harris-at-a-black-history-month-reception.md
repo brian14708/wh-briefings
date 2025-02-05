@@ -2,7 +2,7 @@
 date: '2023-02-27'
 modified_time: 2023-02-28 08:17:08-05:00
 published_time: 2023-02-27 13:07:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/27/remarks-by-president-biden-and-vice-president-harris-at-a-black-history-month-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/27/remarks-by-president-biden-and-vice-president-harris-at-a-black-history-month-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at a Black History Month\_\
   Reception"

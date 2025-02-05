@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-16'
 modified_time: 2021-04-16 21:20:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/u-s-japan-joint-leaders-statement-u-s-japan-global-partnership-for-a-new-era/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/16/u-s-japan-joint-leaders-statement-u-s-japan-global-partnership-for-a-new-era/
 published_time: 2021-04-16 21:20:23-04:00
 title: "U.S.- Japan Joint Leaders\u2019 Statement: \u201CU.S. \u2013 JAPAN GLOBAL\
   \ PARTNERSHIP FOR A NEW\_ERA\u201D"
@@ -126,7 +126,7 @@ ERA</span>**
 Recognizing that our shared security and prosperity requires new forms
 of 21st century cooperation, President Biden and Prime Minister Suga
 have [launched a new Competitiveness and Resilience (CoRe)
-Partnership](https://www.whitehouse.gov/wp-content/uploads/2021/04/FACT-SHEET-U.S.-Japan-Competitiveness-and-Resilience-CoRe-Partnership.pdf).
+Partnership](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/FACT-SHEET-U.S.-Japan-Competitiveness-and-Resilience-CoRe-Partnership.pdf).
 Our partnership will ensure that we lead a sustainable, inclusive,
 healthy, green global economic recovery. It will also generate economic
 growth guided by open and democratic principles, supported by
@@ -173,7 +173,7 @@ aligned with efforts to limit the global temperature increase to 1.5
 degrees Celsius and 2050 greenhouse-gas emissions net-zero goals. In
 recognition of this responsibility, President Biden and Prime Minister
 Suga have [launched the U.S.-Japan Climate
-Partnership](https://www.whitehouse.gov/wp-content/uploads/2021/04/U.S.-Japan-Climate-Partnership.pdf).
+Partnership](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/U.S.-Japan-Climate-Partnership.pdf).
 This partnership has three pillars: first, Paris Agreement
 implementation and achievement of the 2030 targets/ nationally
 determined contributions (NDCs); second, clean energy technology

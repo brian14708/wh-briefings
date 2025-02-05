@@ -1,7 +1,7 @@
 ---
 date: '2024-01-04'
 published_time: 2024-01-04 14:24:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/04/background-press-call-on-recent-attacks-by-the-houthis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/04/background-press-call-on-recent-attacks-by-the-houthis/
 tags: press-briefings
 title: "Background Press Call on Recent Attacks by the\_Houthis"
 ---

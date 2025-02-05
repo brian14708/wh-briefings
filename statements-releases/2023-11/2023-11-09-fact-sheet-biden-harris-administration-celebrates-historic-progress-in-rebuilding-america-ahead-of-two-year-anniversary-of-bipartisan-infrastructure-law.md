@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 12:17:39-05:00
 published_time: 2023-11-09 13:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Historic Progress\
   \ in Rebuilding America Ahead of Two-Year Anniversary of Bipartisan Infrastructure\_\
@@ -36,9 +36,9 @@ convenient.
 To highlight the wide-ranging impact of the Bipartisan Infrastructure
 Law, the White House is also releasing updated [**state by state fact
 sheets
-today**](https://www.whitehouse.gov/build/resources/state-fact-sheets/),
+today**](https://bidenwhitehouse.archives.gov/build/resources/state-fact-sheets/),
 along with [**an updated map
-showcasing**](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+showcasing**](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 the more than 40,000 projects and awards identified or now underway.  
   
 Implementation of the Bipartisan Infrastructure Law is a key piece of
@@ -360,7 +360,7 @@ entire country, leaving no community behind as we do so:
     communities can access federal funding in the Bipartisan
     Infrastructure Law. The White House recently released an updated
     [Technical Assistance
-    Guide](https://www.whitehouse.gov/build/technical-assistance-guide/)
+    Guide](https://bidenwhitehouse.archives.gov/build/technical-assistance-guide/)
     that will help state, local, Tribal and territorial governments and
     other nongovernmental partners unlock the funding in President
     Biden’s Investing in America agenda. The updated technical

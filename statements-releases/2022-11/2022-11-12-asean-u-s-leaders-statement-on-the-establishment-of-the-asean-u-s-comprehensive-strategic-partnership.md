@@ -2,7 +2,7 @@
 date: '2022-11-12'
 modified_time: 2022-11-12 07:04:24-05:00
 published_time: 2022-11-12 07:04:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/12/asean-u-s-leaders-statement-on-the-establishment-of-the-asean-u-s-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/12/asean-u-s-leaders-statement-on-the-establishment-of-the-asean-u-s-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "ASEAN-U.S. Leaders\u2019 Statement on the Establishment of the ASEAN-U.S.\
   \ Comprehensive Strategic\_Partnership"

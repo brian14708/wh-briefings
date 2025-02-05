@@ -2,7 +2,7 @@
 date: '2022-08-07'
 modified_time: 2022-08-07 21:40:54-04:00
 published_time: 2022-08-07 20:40:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/07/remarks-by-vice-president-harris-in-press-gaggle-following-the-senate-vote-on-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/07/remarks-by-vice-president-harris-in-press-gaggle-following-the-senate-vote-on-the-inflation-reduction-act/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris In Press Gaggle Following the Senate Vote\
   \ on the Inflation Reduction\_Act"

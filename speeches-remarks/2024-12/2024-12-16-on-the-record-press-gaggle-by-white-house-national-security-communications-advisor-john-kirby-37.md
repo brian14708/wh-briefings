@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-17 11:06:37-05:00
 published_time: 2024-12-16 11:04:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/16/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-37/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/16/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-37/
 tags: speeches-remarks
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John\_Kirby"

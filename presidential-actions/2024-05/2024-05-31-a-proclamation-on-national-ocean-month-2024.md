@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 18:34:44-04:00
 published_time: 2024-05-31 18:34:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-national-ocean-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-national-ocean-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Ocean Month,\_2024"
 ---

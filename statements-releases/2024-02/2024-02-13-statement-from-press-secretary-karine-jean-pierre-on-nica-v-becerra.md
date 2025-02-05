@@ -1,7 +1,7 @@
 ---
 date: '2024-02-13'
 published_time: 2024-02-13 07:44:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-press-secretary-karine-jean-pierre-on-nica-v-becerra/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-press-secretary-karine-jean-pierre-on-nica-v-becerra/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on NICA v.\_Becerra"
 ---

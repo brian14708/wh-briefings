@@ -2,7 +2,7 @@
 date: '2024-04-12'
 modified_time: 2024-04-12 12:26:48-04:00
 published_time: 2024-04-12 12:26:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Key Progress on Efforts to Close the\
   \ Racial Wealth\_Gap"
@@ -17,7 +17,7 @@ Affordable Care Act*
 
 Nearly three years ago at a [speech to commemorate the centennial of the
 Tulsa Race
-Massacre](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
+Massacre](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
 President Biden committed to addressing racial inequities in the home
 appraisal process and increase the share of federal contract spending
 awarded to small disadvantaged businesses by 50%. Today, during remarks
@@ -63,14 +63,14 @@ the agreed-upon contract price, systemic undervaluation in communities
 of color can indicate racial bias in the appraisal process.
 
 On June 1, 2021, the [centennial of the Tulsa Race
-Massacre](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
+Massacre](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
 President Biden announced the creation of the Interagency Task Force on
 Property Appraisal and Valuation Equity (PAVE): a [first-of-its-kind
-effort](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/) to
+effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/) to
 root out bias and advance equity in the home appraisal process. Since
 releasing the [PAVE Action Plan](https://pave.hud.gov/) in March 2022,
 the Task Force has made [critical
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/)
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/)
 towards implementation, including major steps to empower consumers to
 take action against appraisal bias; prevent algorithmic bias in home
 valuation; and support a well-trained and more representative appraiser
@@ -102,7 +102,7 @@ Increasing federal investments in under-resourced businesses not only
 helps more Americans realize their entrepreneurial dreams and
 strengthens the supplier base, but also narrows persistent wealth
 disparities. According to
-[analysis](https://www.whitehouse.gov/cea/written-materials/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
+[analysis](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
 from the White House Council of Economic Advisers, eliminating racial
 disparities in business ownership rates would narrow the wealth gap by
 an additional 22% between Black and white households and by an
@@ -119,7 +119,7 @@ student loan debt for 277,000 borrowers. This brings the total amount of
 debt relief approved by the Administration to $153 billion for 4.3
 million Americans. Today’s announcement builds on the [President’s
 announcement earlier this
-week](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/),
+week](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/),
 laying out his Administration’s plans that would cancel student debt for
 tens of millions of Americans, if implemented as proposed. These plans
 would cancel runaway interest for over 25 million borrowers, cancel loan

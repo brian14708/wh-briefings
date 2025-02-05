@@ -1,7 +1,7 @@
 ---
 date: '2022-04-26'
 published_time: 2022-04-26 15:59:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/nomination-sent-to-the-senate-16/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/nomination-sent-to-the-senate-16/
 tags: statements-releases
 title: "Nomination Sent to the\_Senate"
 ---

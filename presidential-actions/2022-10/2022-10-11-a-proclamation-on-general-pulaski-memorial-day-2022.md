@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-11 11:11:09-04:00
 published_time: 2022-10-11 11:11:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/11/a-proclamation-on-general-pulaski-memorial-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/11/a-proclamation-on-general-pulaski-memorial-day-2022/
 tags: presidential-actions
 title: "A Proclamation on General Pulaski Memorial Day,\_2022"
 ---

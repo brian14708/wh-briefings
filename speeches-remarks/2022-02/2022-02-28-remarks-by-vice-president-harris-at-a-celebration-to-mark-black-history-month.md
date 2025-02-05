@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2022-02-28'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/28/remarks-by-vice-president-harris-at-a-celebration-to-mark-black-history-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/28/remarks-by-vice-president-harris-at-a-celebration-to-mark-black-history-month/
 published_time: 2022-02-28 17:28:42-05:00
 title: "Remarks by Vice President Harris at a Celebration to Mark Black History\_\
   Month"

@@ -2,7 +2,7 @@
 date: '2024-02-20'
 modified_time: 2024-02-19 23:20:00-05:00
 published_time: 2024-02-20 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Nearly $6 Billion\
   \ for Clean Drinking Water and Wastewater Infrastructure as Part of Investing in\
@@ -16,7 +16,7 @@ Wastewater Infrastructure*
 Today, Vice President Kamala Harris and Environmental Protection Agency
 (EPA) Administrator Michael Regan will travel to Pittsburgh,
 Pennsylvania as part of the Administration’s [Investing in America
-Tour](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-to-kick-off-fourth-investing-in-america-tour-to-highlight-how-the-president-is-delivering-for-communities-in-every-corner-of-america/#:~:text=Throughout%20the%20Investing%20in%20America,families%2C%20growing%20our%20clean%20energy)
+Tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-to-kick-off-fourth-investing-in-america-tour-to-highlight-how-the-president-is-delivering-for-communities-in-every-corner-of-america/#:~:text=Throughout%20the%20Investing%20in%20America,families%2C%20growing%20our%20clean%20energy)
 to **announce $5.8 billion in funding for clean water infrastructure
 from President Biden’s Investing in America agenda**. President Biden
 and Vice President Harris are committed to ensuring a future where every
@@ -44,7 +44,7 @@ and remove PFAS contamination in water. Additionally, thanks to the
 Bipartisan Infrastructure Law, nearly half of this funding will be
 provided as grants or forgivable loans to disadvantaged communities,
 advancing President Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 and ensuring that no community is left behind. Today’s announcement will
 build upon the progress President Biden and Vice President Harris have
 already made to ensure every American can access clean water. Through
@@ -126,7 +126,7 @@ delivering clean water across America:
 <!-- -->
 
 -   In November 2023, EPA proposed updates to the [**Lead and Copper
-    Rule**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
+    Rule**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
     that require water systems to replace lead service lines within 10
     years. EPA is also financing major lead pipe replacement projects
     through its WIFIA (Water Infrastructure Finance and Innovation Act)
@@ -203,7 +203,7 @@ delivering clean water across America:
     water standard for
     PFAS**](https://www.epa.gov/sdwa/and-polyfluoroalkyl-substances-pfas)
     under President Biden’s
-    [plan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
+    [plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
     to combat PFAS pollution and EPA’s [PFAS Strategic
     Roadmap](https://www.epa.gov/pfas/pfas-strategic-roadmap-epas-commitments-action-2021-2024).
     Expected to be finalized in 2024, these drinking water standards

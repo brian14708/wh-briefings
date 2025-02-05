@@ -2,7 +2,7 @@
 date: '2024-12-23'
 modified_time: 2024-12-22 21:52:27-05:00
 published_time: 2024-12-23 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/23/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices-in-the-semiconductor-sector/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/23/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices-in-the-semiconductor-sector/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Action to Protect American Workers and\
   \ Businesses from China\u2019s Unfair Trade Practices in the Semiconductor\_Sector"
@@ -90,7 +90,7 @@ Administration is:
     include chips from certain Chinese fabs and other entities of
     concern.
 -   Releasing a [Request for
-    Information](https://www.whitehouse.gov/omb/briefing-room/2024/12/10/biden-harris-administration-seeks-input-on-strengthening-domestic-supply-chains-for-american-made-semiconductors-through-federal-procurement/)
+    Information](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/12/10/biden-harris-administration-seeks-input-on-strengthening-domestic-supply-chains-for-american-made-semiconductors-through-federal-procurement/)
     (RFI) to gauge the best ways for government contractors to scale up
     their use of domestically manufactured chips, particularly for
     critical infrastructure.  The RFI intends to solicit commercial

@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 10:38:54-05:00
 published_time: 2023-11-16 10:15:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-the-presidential-determination-on-the-proposed-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-the-philippines-conc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-the-presidential-determination-on-the-proposed-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-the-philippines-conc/
 tags: presidential-actions
 title: "Memorandum on the Presidential Determination on the Proposed Agreement for\
   \ Cooperation between the Government of the United\_States of America and the Government\

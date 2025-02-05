@@ -1,7 +1,7 @@
 ---
 date: '2023-08-09'
 published_time: 2023-08-09 07:41:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/statement-from-president-joe-biden-on-the-one-year-anniversary-of-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/statement-from-president-joe-biden-on-the-one-year-anniversary-of-the-chips-and-science-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the One Year Anniversary of the CHIPS\
   \ and Science\_Act"

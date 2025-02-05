@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-17 11:40:16-04:00
 published_time: 2022-06-17 11:40:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/statement-by-president-biden-on-fda-authorization-of-the-first-covid-19-vaccines-for-americas-youngest-kids/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/statement-by-president-biden-on-fda-authorization-of-the-first-covid-19-vaccines-for-americas-youngest-kids/
 tags: statements-releases
 title: "Statement by President\_Biden on FDA Authorization of the First COVID-\u2060\
   19 Vaccines for America\u2019s Youngest\_Kids"

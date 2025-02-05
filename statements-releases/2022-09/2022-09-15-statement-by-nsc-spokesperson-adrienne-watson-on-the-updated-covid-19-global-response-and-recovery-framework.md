@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-14 23:02:40-04:00
 published_time: 2022-09-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/statement-by-nsc-spokesperson-adrienne-watson-on-the-updated-covid-19-global-response-and-recovery-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/statement-by-nsc-spokesperson-adrienne-watson-on-the-updated-covid-19-global-response-and-recovery-framework/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the Updated COVID-\u2060\
   19 Global Response and Recovery\_Framework"
@@ -57,6 +57,6 @@ United States and around the world.
    
 The full text of the Framework can be found here: [U.S. COVID-19 Global
 Response & Recovery
-Framework](https://www.whitehouse.gov/wp-content/uploads/2022/09/U.S.-COVID-19-GLOBAL-RESPONSE-RECOVERY-FRAMEWORK-_clean_9-14_7pm.pdf)
+Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/U.S.-COVID-19-GLOBAL-RESPONSE-RECOVERY-FRAMEWORK-_clean_9-14_7pm.pdf)
 
 \###

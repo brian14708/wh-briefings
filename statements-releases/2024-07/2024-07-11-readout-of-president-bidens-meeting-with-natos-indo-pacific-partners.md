@@ -1,7 +1,7 @@
 ---
 date: '2024-07-11'
 published_time: 2024-07-11 11:36:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/readout-of-president-bidens-meeting-with-natos-indo-pacific-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/readout-of-president-bidens-meeting-with-natos-indo-pacific-partners/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with NATO\u2019s Indo-Pacific\_\
   Partners"

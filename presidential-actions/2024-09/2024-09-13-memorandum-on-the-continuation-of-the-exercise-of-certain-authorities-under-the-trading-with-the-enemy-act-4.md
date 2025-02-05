@@ -1,7 +1,7 @@
 ---
 date: '2024-09-13'
 published_time: 2024-09-13 17:50:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act-4/
 tags: presidential-actions
 title: "Memorandum on the Continuation of the Exercise of Certain Authorities Under\
   \ the Trading With the Enemy\_Act"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-24'
 published_time: 2024-01-24 18:27:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/24/statement-from-nsc-spokesperson-adrienne-watson-on-reported-strikes-at-unrwa-facility-in-southern-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/24/statement-from-nsc-spokesperson-adrienne-watson-on-reported-strikes-at-unrwa-facility-in-southern-gaza/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Reported Strikes at UNRWA\
   \ Facility in Southern\_Gaza"

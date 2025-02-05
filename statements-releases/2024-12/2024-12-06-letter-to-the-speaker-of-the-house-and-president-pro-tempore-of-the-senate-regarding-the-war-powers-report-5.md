@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-06 17:23:08-05:00
 published_time: 2024-12-06 17:23:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/06/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/06/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-5/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President Pro Tempore of the Senate\
   \ Regarding the War Powers\_Report"

@@ -2,7 +2,7 @@
 date: '2024-09-19'
 modified_time: 2024-09-20 19:25:47-04:00
 published_time: 2024-09-19 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-vice-president-harris-in-a-moderated-conversation-with-oprah-winfrey-at-a-unite-for-america-2024-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-vice-president-harris-in-a-moderated-conversation-with-oprah-winfrey-at-a-unite-for-america-2024-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Oprah Winfrey\
   \ at a Unite for America 2024\_Event"

@@ -2,7 +2,7 @@
 date: '2023-01-16'
 modified_time: 2023-01-23 16:59:13-05:00
 published_time: 2023-01-16 16:51:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-vice-president-harris-at-martin-luther-king-jr-day-of-service-and-leadership-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-vice-president-harris-at-martin-luther-king-jr-day-of-service-and-leadership-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Martin Luther King Jr. Day of Service\
   \ and Leadership\_Event"

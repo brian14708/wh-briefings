@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 21:17:34-04:00
 published_time: 2023-04-14 21:17:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-before-air-force-one-departure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-before-air-force-one-departure/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Taoiseach Leo Varadkar of the Republic of\
   \ Ireland Before Air Force One\_Departure"

@@ -2,7 +2,7 @@
 date: '2023-12-05'
 modified_time: 2023-12-05 22:12:43-05:00
 published_time: 2023-12-05 22:12:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Participation at the Department\
   \ of Education\u2019s Convening on Access to Contraception for College\_Students"
@@ -41,10 +41,10 @@ The Vice President has consistently led the fight to protect the freedom
 of women to make decisions about their own bodies. She and President
 Biden have championed three Executive Orders on access to reproductive
 health care, including a June 2023 [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) on
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) on
 strengthening access to affordable, high-quality contraception and
 family planning services. Additionally,
-she [spoke](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/04/remarks-by-president-biden-and-vice-president-harris-at-the-second-meeting-of-the-task-force-on-reproductive-healthcare-access/) at
+she [spoke](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/04/remarks-by-president-biden-and-vice-president-harris-at-the-second-meeting-of-the-task-force-on-reproductive-healthcare-access/) at
 a 2022 meeting of the Task Force on Reproductive Healthcare Access where
 she called for protecting access to contraception. Today’s convening
 also follows a series of meetings about reproductive rights that Vice

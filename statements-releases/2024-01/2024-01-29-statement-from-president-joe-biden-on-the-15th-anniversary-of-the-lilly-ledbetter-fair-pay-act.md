@@ -2,7 +2,7 @@
 date: '2024-01-29'
 modified_time: 2024-01-28 15:41:41-05:00
 published_time: 2024-01-29 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/statement-from-president-joe-biden-on-the-15th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/statement-from-president-joe-biden-on-the-15th-anniversary-of-the-lilly-ledbetter-fair-pay-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 15th Anniversary of the Lilly Ledbetter\
   \ Fair Pay\_Act"

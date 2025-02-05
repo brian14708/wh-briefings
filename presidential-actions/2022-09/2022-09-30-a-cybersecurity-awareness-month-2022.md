@@ -2,7 +2,7 @@
 date: '2022-09-30'
 modified_time: 2022-09-30 17:52:27-04:00
 published_time: 2022-09-30 16:49:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/a-cybersecurity-awareness-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/a-cybersecurity-awareness-month-2022/
 tags: presidential-actions
 title: "A Proclamation\_on\_Cybersecurity Awareness Month,\_2022"
 ---

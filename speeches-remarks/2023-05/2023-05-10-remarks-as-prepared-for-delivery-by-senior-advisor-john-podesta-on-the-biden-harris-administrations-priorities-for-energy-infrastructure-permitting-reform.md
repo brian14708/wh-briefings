@@ -2,7 +2,7 @@
 date: '2023-05-10'
 modified_time: 2023-05-10 15:13:55-04:00
 published_time: 2023-05-10 11:49:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-senior-advisor-john-podesta-on-the-biden-harris-administrations-priorities-for-energy-infrastructure-permitting-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-senior-advisor-john-podesta-on-the-biden-harris-administrations-priorities-for-energy-infrastructure-permitting-reform/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by Senior Advisor John Podesta on the Biden-\u2060\
   Harris Administration\u2019s Priorities for Energy Infrastructure Permitting\_Reform"

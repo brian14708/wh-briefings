@@ -2,7 +2,7 @@
 date: '2022-08-14'
 modified_time: 2022-08-14 12:27:09-04:00
 published_time: 2022-08-14 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/14/statement-by-president-joe-biden-celebrating-the-republic-of-indias-75th-anniversary-of-independence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/14/statement-by-president-joe-biden-celebrating-the-republic-of-indias-75th-anniversary-of-independence/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Celebrating the Republic of India\u2019\
   s 75th Anniversary of\_Independence"

@@ -2,7 +2,7 @@
 date: '2023-04-11'
 modified_time: 2023-04-12 09:38:44-04:00
 published_time: 2023-04-11 16:26:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/11/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-en-route-belfast-northern-ireland-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/11/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-en-route-belfast-northern-ireland-united-kingdom/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Council\
   \ Coordinator for Strategic Communications John Kirby En Route Belfast, Northern\

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-05'
 published_time: 2022-10-05 12:05:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/what-they-are-reading-in-the-states-syracuse-post-standard-biden-microns-computer-chip-deal-in-syracuse-area-another-win-for-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/what-they-are-reading-in-the-states-syracuse-post-standard-biden-microns-computer-chip-deal-in-syracuse-area-another-win-for-america/
 tags: statements-releases
 title: "What They Are Reading in the States: Syracuse Post-Standard: Biden: Micron\u2019\
   s computer chip deal in Syracuse area \u2018another win for\_America\u2019"

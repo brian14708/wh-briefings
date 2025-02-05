@@ -2,7 +2,7 @@
 date: '2023-04-07'
 modified_time: 2023-04-07 14:05:18-04:00
 published_time: 2023-04-07 14:05:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/07/readout-of-white-house-state-legislative-convening-on-holding-gun-manufacturers-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/07/readout-of-white-house-state-legislative-convening-on-holding-gun-manufacturers-accountable/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Holding Gun Manufacturers\_\
   Accountable"
@@ -26,7 +26,7 @@ measures under consideration in states including Colorado and Illinois.
 White House officials also thanked the legislators for their leadership
 and continued partnership in the effort to protect communities across
 the country from gun violence. The convening follows a
-[meeting](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-holding-gun-manufacturers-accountable/)
+[meeting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-holding-gun-manufacturers-accountable/)
 in 2022 with legislators on holding gun manufacturers accountable as
 well as a 2021 White House meeting with state Attorneys General to
 discuss opportunities to use generally applicable state consumer

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 15:41:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/28/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-brunswick-me/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/28/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-brunswick-me/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Brunswick,\_ME"
 ---

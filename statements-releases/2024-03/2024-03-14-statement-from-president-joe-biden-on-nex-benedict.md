@@ -1,7 +1,7 @@
 ---
 date: '2024-03-14'
 published_time: 2024-03-14 13:01:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/statement-from-president-joe-biden-on-nex-benedict/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/statement-from-president-joe-biden-on-nex-benedict/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Nex\_Benedict"
 ---

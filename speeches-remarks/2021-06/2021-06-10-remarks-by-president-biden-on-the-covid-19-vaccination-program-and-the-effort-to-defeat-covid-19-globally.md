@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-06-10'
 modified_time: 2021-06-10 18:35:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/10/remarks-by-president-biden-on-the-covid-19-vaccination-program-and-the-effort-to-defeat-covid-19-globally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/10/remarks-by-president-biden-on-the-covid-19-vaccination-program-and-the-effort-to-defeat-covid-19-globally/
 published_time: 2021-06-10 18:35:19-04:00
 title: "Remarks by President\_Biden on the COVID-\u206019 Vaccination Program and\
   \ the Effort to Defeat COVID-\u206019\_Globally"

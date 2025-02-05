@@ -2,7 +2,7 @@
 date: '2024-10-07'
 modified_time: 2024-10-06 23:08:58-04:00
 published_time: 2024-10-07 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-president-joe-biden-marking-one-year-since-the-october-7th-attack/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/statement-from-president-joe-biden-marking-one-year-since-the-october-7th-attack/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking One Year Since the October 7th\_\
   Attack"

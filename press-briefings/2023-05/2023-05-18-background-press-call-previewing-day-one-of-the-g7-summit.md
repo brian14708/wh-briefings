@@ -2,7 +2,7 @@
 date: '2023-05-18'
 modified_time: 2023-05-18 15:55:02-04:00
 published_time: 2023-05-18 16:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/18/background-press-call-previewing-day-one-of-the-g7-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/18/background-press-call-previewing-day-one-of-the-g7-summit/
 tags: press-briefings
 title: "Background Press Call Previewing Day One of the G7\_Summit"
 ---

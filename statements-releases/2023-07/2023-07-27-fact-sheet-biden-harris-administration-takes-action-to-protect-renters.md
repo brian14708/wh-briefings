@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-27 13:11:46-04:00
 published_time: 2023-07-27 10:41:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-biden-harris-administration-takes-action-to-protect-renters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-biden-harris-administration-takes-action-to-protect-renters/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Protect\_Renters"
 ---
@@ -14,7 +14,7 @@ leave far too many renters with little recourse when housing providers
 fail to comply with the law or the lease agreement.  President Biden
 believes every American deserves access to safe, accessible, and
 affordable housing, reflected in the [*Blueprint for a Renters Bill of
-Rights*](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*,*
+Rights*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*,*
 which outlines principles and best practices at the federal, state and
 local level that would strengthen tenant protections and increase
 fairness in the rental market.  
@@ -40,9 +40,9 @@ persist today and are compounded by our nation’s housing affordability
 challenges. That is why the Biden-Harris Administration has taken bold
 action to address issues of housing supply and lower costs through its
 [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 including actions also [announced
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/),
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/),
 and is announcing new actions on renters protections here.  
   
 *Today’s actions include*:  
@@ -121,7 +121,7 @@ in rural areas this fall.
 
 **Announcing major private sector and state and local action.** In
 January, the White House
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/)
 its Resident-Centered Housing Challenge, a call to action to housing
 providers and other stakeholders to strengthen practices that improve
 quality of life for renters. Since then, over 100 public and private
@@ -130,7 +130,7 @@ Blueprint for a Renters Bill of Right. The Administration continues to
 rally the private and public sector, and welcomes additional actions
 from housing providers and others to meet this call. Several commitments
 were
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/)
 at the launch of the challenge; examples of new actions include:  
   
 ***Private Actors***
@@ -149,7 +149,7 @@ at the launch of the challenge; examples of new actions include:
     these “Clear and Fair” leases will be acknowledged on the site,
     which receives more than 100 million property searches each year.  
 -   Last week, **Zillow, Apartments.com, and AffordableHousing.com**
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
     they will provide consumers with total, upfront cost information on
     rental properties, which can be hundreds of dollars on top of the
     advertised rent.
@@ -196,7 +196,7 @@ at the launch of the challenge; examples of new actions include:
 
 These actions come on the heels of other Biden-Harris Administration
 actions since creating the [*Blueprint for a Renters Bill of
-Rights*](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*.*
+Rights*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*.*
 CFPB and FTC, both independent agencies, issued a [Request for
 Information](https://www.ftc.gov/news-events/news/press-releases/2023/02/ftc-cfpb-seek-public-comment-how-background-screening-may-shut-renters-out-housing)
 seeking public comment on how background screening may shut renters out
@@ -212,14 +212,14 @@ on ways it can improve its regulations and accessibility standards to
 ensure that individuals with disabilities have equal access to all
 HUD-assisted programs, activities, and facilities. In addition, the
 White House announced first-of-its-kind [funding for legal
-services](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-biden-harris-administration-takes-action-to-address-veteran-homelessness/)
+services](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-biden-harris-administration-takes-action-to-address-veteran-homelessness/)
 for veterans experiencing or at risk of homelessness in June**.** Just
 last week, President Biden announced [new
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
 to address unfair and hidden fees in the rental housing market.
 Congressional action could bolster these efforts by codifying renters’
 rights into law, and to passing the President’s [budget
-proposal](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/),
+proposal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/),
 which includes historic investments to lower housing cost and protect
 renters, expand housing supply and affordability, including funding for
 eviction prevention.

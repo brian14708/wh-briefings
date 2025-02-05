@@ -2,7 +2,7 @@
 date: '2024-12-31'
 modified_time: 2024-12-31 21:32:53-05:00
 published_time: 2024-12-31 21:32:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/31/a-proclamation-on-national-mentoring-month-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/31/a-proclamation-on-national-mentoring-month-2025/
 tags: presidential-actions
 title: "A Proclamation on National Mentoring Month ,\_2025"
 ---

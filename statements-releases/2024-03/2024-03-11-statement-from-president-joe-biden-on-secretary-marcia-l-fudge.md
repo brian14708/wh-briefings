@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 11:17:21-04:00
 published_time: 2024-03-11 12:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/statement-from-president-joe-biden-on-secretary-marcia-l-fudge/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/statement-from-president-joe-biden-on-secretary-marcia-l-fudge/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Secretary Marcia L.\_Fudge"
 ---

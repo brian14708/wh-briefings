@@ -1,7 +1,7 @@
 ---
 date: '2024-01-28'
 published_time: 2024-01-28 11:27:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/28/statement-from-president-joe-biden-on-attack-on-u-s-service-members-in-northeastern-jordan-near-the-syria-border/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/28/statement-from-president-joe-biden-on-attack-on-u-s-service-members-in-northeastern-jordan-near-the-syria-border/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Attack on U.S. Service Members in Northeastern\
   \ Jordan Near the Syria\_Border"

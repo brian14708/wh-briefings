@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-27 11:07:40-04:00
 published_time: 2023-07-27 10:41:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Actions to Lower Housing Costs\
   \ and Boost\_Supply"
@@ -15,7 +15,7 @@ President Biden’s economic vision is about building an economy from the
 middle out and bottom up, not the top down— that’s Bidenomics. A
 critical foundation of that vision, and the central goal of the
 Biden-Harris Administration’s [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/), is
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/), is
 an economy where everyone has access to a safe and affordable home. That
 vision means lowering costs, including by building and preserving more
 housing, particularly for lower- and middle-income households. Today’s
@@ -49,21 +49,21 @@ restart of the Federal Financing Bank’s Risk Sharing program, almost
   
 Today’s actions further build on the Biden-Harris Administration’s
 [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
 and [updates announced last
-fall](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
+fall](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
 and are a down payment on the historic housing investments proposed in
 the [President’s
-Budget](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/)
+Budget](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/)
 that would boost supply, lower costs and cut dangerous climate
 pollution, promote homeownership, protect renters, and promote fair
 housing. They also complement the actions by the Biden-Harris
 Administration in just the last week, including a
-[crackdown](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+[crackdown](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
 on junk fees in the rental housing market, and new steps [announced
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-biden-harris-administration-takes-action-to-protect-renters/)
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-biden-harris-administration-takes-action-to-protect-renters/)
 that build on its [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf).  
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf).  
   
 ***<u>Reducing Barriers to Build Housing Like Restrictive and Costly
 Land Use and Zoning Rules</u>***  

@@ -2,7 +2,7 @@
 date: '2024-07-12'
 modified_time: 2024-07-12 09:49:30-04:00
 published_time: 2024-07-12 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/12/president-biden-announces-presidential-delegations-to-paris-france-to-attend-the-opening-and-closing-ceremonies-of-the-paris-2024-olympic-and-paralympic-games/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/12/president-biden-announces-presidential-delegations-to-paris-france-to-attend-the-opening-and-closing-ceremonies-of-the-paris-2024-olympic-and-paralympic-games/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegations to Paris, France to Attend\
   \ the Opening and Closing Ceremonies of the Paris 2024 Olympic and Paralympic\_\

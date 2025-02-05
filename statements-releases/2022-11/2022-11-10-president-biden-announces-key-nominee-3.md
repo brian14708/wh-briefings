@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-10 13:48:08-05:00
 published_time: 2022-11-10 14:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/president-biden-announces-key-nominee-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/president-biden-announces-key-nominee-3/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominee"
 ---

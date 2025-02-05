@@ -1,7 +1,7 @@
 ---
 date: '2022-04-26'
 published_time: 2022-04-26 09:00:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-virtual-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-virtual-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-2/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Virtual\
   \ Meeting Between President Joe\_Biden and President Andr\xE9s Manuel L\xF3pez\_\

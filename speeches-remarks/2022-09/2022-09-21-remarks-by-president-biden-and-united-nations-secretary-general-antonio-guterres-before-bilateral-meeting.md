@@ -1,7 +1,7 @@
 ---
 date: '2022-09-21'
 published_time: 2022-09-21 16:07:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-and-united-nations-secretary-general-antonio-guterres-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-and-united-nations-secretary-general-antonio-guterres-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and United Nations Secretary-General Ant\xF3nio\
   \ Guterres Before Bilateral\_Meeting"

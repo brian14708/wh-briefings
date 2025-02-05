@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-10-31 10:11:39-04:00
 published_time: 2024-10-31 10:11:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-president-biden-and-president-nikos-christodoulides-of-the-republic-of-cyprus-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/31/remarks-by-president-biden-and-president-nikos-christodoulides-of-the-republic-of-cyprus-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Nikos Christodoulides of the Republic\
   \ of Cyprus Before Bilateral\_Meeting"

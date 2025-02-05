@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 published_time: 2022-12-15 06:31:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/readout-of-meeting-between-president-joseph-r-biden-jr-and-the-presidents-of-the-democratic-republic-of-the-congo-gabon-liberia-madagascar-nigeria-and-sierra-leone/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/readout-of-meeting-between-president-joseph-r-biden-jr-and-the-presidents-of-the-democratic-republic-of-the-congo-gabon-liberia-madagascar-nigeria-and-sierra-leone/
 tags: statements-releases
 title: "Readout of Meeting Between President Joseph R. Biden, Jr. and the Presidents\
   \ of the Democratic Republic of the Congo, Gabon, Liberia, Madagascar, Nigeria,\

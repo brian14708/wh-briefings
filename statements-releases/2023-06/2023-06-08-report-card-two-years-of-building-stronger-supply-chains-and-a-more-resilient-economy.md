@@ -2,7 +2,7 @@
 date: '2023-06-08'
 modified_time: 2023-06-08 10:27:25-04:00
 published_time: 2023-06-08 10:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/report-card-two-years-of-building-stronger-supply-chains-and-a-more-resilient-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/report-card-two-years-of-building-stronger-supply-chains-and-a-more-resilient-economy/
 tags: statements-releases
 title: "Report Card: Two Years of Building Stronger Supply Chains and a More Resilient\_\
   Economy"
@@ -53,7 +53,7 @@ transportation costs.
     percent since its peak in February 2022.
 
 Today, the White House Council of Economic Advisers [released a
-blog](https://www.whitehouse.gov/cea/written-materials/2023/06/08/easing-supply-chains/)
+blog](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/06/08/easing-supply-chains/)
 demonstrating that the normalization of supply chains appears to be
 driving down prices for goods, lowering inflation for families,
 consumers, and businesses.  
@@ -74,7 +74,7 @@ established an internal task force spanning more than a dozen agencies,
 consulting with hundreds of stakeholders from labor, business, academic
 institutions, Congress, and U.S. allies and partners to identify
 vulnerabilities and solutions for these supply chains. The [100-day
-review](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+review](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
 was released on June 8, 2021.  
   
 Two years later, significant progress has been made in implementing the
@@ -84,7 +84,7 @@ full battery supply chain to leveraging the Defense Production Act in
 historic ways to diversifying supply chains by supporting small- and
 medium-sized businesses. Spurred by President Biden’s Investing in
 America agenda, the private sector has invested over [$470
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 manufacturing of semiconductors, electric vehicles (EVs) and EV
 batteries, clean energy technologies, and pharmaceutical and medical
 products.  
@@ -96,6 +96,6 @@ good-paying, union jobs, and bolstering our industrial base and domestic
 manufacturing capacity.  
   
 To read the full report,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2023/06/Supply-Chain-Report-Card.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Supply-Chain-Report-Card.pdf>
 
 \###  

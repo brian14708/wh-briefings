@@ -2,7 +2,7 @@
 date: '2023-04-04'
 modified_time: 2023-04-03 18:21:45-04:00
 published_time: 2023-04-04 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/biden-harris-administration-releases-inflation-reduction-act-guidebook-for-tribes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/biden-harris-administration-releases-inflation-reduction-act-guidebook-for-tribes/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Releases Inflation Reduction Act Guidebook\
   \ for\_Tribes"
@@ -11,7 +11,7 @@ title: "Biden-\u2060Harris Administration Releases Inflation Reduction Act Guide
 Today, as part of President Biden’s Investing in America agenda, the
 White House released the first edition of a new resource, [“Guidebook to
 the Inflation Reduction Act’s Clean Energy and Climate Investments in
-Indian Country,”](https://www.whitehouse.gov/cleanenergy/tribes) which
+Indian Country,”](https://bidenwhitehouse.archives.gov/cleanenergy/tribes) which
 provides clear descriptions of the law’s tax incentives and funding
 programs for which Tribes are eligible.
 
@@ -68,6 +68,6 @@ and to fully unlock the unprecedented benefits of the law. This
 Guidebook is critical step toward delivering on that vision.
 
 To view the Guidebook in full, [click
-here](https://www.whitehouse.gov/cleanenergy/tribes).
+here](https://bidenwhitehouse.archives.gov/cleanenergy/tribes).
 
 \###

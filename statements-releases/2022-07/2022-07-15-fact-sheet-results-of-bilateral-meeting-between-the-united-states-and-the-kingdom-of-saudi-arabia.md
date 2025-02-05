@@ -1,7 +1,7 @@
 ---
 date: '2022-07-15'
 published_time: 2022-07-15 19:12:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/fact-sheet-results-of-bilateral-meeting-between-the-united-states-and-the-kingdom-of-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/fact-sheet-results-of-bilateral-meeting-between-the-united-states-and-the-kingdom-of-saudi-arabia/
 tags: statements-releases
 title: "FACT SHEET: Results of Bilateral Meeting Between the United\_States and the\
   \ Kingdom of Saudi\_Arabia"

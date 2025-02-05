@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-06-25'
 modified_time: 2021-06-28 12:10:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-vice-president-harris-secretary-of-homeland-security-mayorkas-chairman-durbin-and-representative-escobar-in-press-gaggle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/25/remarks-by-vice-president-harris-secretary-of-homeland-security-mayorkas-chairman-durbin-and-representative-escobar-in-press-gaggle/
 published_time: 2021-06-25 12:10:00-04:00
 title: "Remarks by Vice President Harris, Secretary of Homeland Security Mayorkas,\
   \ Chairman Durbin, and Representative Escobar in Press\_Gaggle"

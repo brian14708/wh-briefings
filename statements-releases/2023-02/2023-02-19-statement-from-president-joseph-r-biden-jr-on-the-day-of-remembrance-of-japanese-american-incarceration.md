@@ -2,7 +2,7 @@
 date: '2023-02-19'
 modified_time: 2023-02-19 08:09:30-05:00
 published_time: 2023-02-19 08:03:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/19/statement-from-president-joseph-r-biden-jr-on-the-day-of-remembrance-of-japanese-american-incarceration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/19/statement-from-president-joseph-r-biden-jr-on-the-day-of-remembrance-of-japanese-american-incarceration/
 tags: statements-releases
 title: "Statement from President Joseph R. Biden, Jr. on the Day of Remembrance of\
   \ Japanese American\_Incarceration"

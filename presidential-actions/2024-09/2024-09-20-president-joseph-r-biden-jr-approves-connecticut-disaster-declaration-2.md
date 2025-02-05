@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 15:11:50-04:00
 published_time: 2024-09-20 15:11:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-connecticut-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-connecticut-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Connecticut Disaster\_Declaration"
 ---

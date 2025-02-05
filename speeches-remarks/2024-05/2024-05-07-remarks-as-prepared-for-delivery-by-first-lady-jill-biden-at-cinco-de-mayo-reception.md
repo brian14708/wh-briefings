@@ -1,7 +1,7 @@
 ---
 date: '2024-05-07'
 published_time: 2024-05-07 10:32:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-cinco-de-mayo-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-cinco-de-mayo-reception/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Cinco de Mayo\_\
   Reception"

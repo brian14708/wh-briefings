@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-10 17:38:14-05:00
 published_time: 2023-03-10 17:38:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-vice-president-harris-at-the-worker-task-force-employers-roundtable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-vice-president-harris-at-the-worker-task-force-employers-roundtable/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Worker Task Force Employers\u2019\_\
   Roundtable"

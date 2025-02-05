@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 17:27:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/30/a-proclamation-on-national-impaired-driving-prevention-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/30/a-proclamation-on-national-impaired-driving-prevention-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Impaired Driving Prevention Month,\_2023"
 ---

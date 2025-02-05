@@ -2,7 +2,7 @@
 date: '2024-10-11'
 modified_time: 2024-10-11 13:01:36-04:00
 published_time: 2024-10-11 13:01:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/11/press-gaggle-by-senior-deputy-press-secretary-emilie-simons-and-environmental-protection-agency-administrator-michael-regan-en-route-milwaukee-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/11/press-gaggle-by-senior-deputy-press-secretary-emilie-simons-and-environmental-protection-agency-administrator-michael-regan-en-route-milwaukee-wi/
 tags: press-briefings
 title: "Press Gaggle by Senior Deputy Press Secretary Emilie Simons and Environmental\
   \ Protection Agency Administrator Michael Regan en Route Milwaukee,\_WI"

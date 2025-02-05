@@ -1,7 +1,7 @@
 ---
 date: '2022-11-29'
 published_time: 2022-11-29 13:55:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/background-press-call-previewing-the-upcoming-france-state-visit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/background-press-call-previewing-the-upcoming-france-state-visit/
 tags: statements-releases
 title: "Background Press Call Previewing the Upcoming France State\_Visit"
 ---

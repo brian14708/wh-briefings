@@ -1,7 +1,7 @@
 ---
 date: '2024-05-24'
 published_time: 2024-05-24 16:03:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/24/remarks-by-vice-president-harris-and-president-william-ruto-of-the-republic-of-kenya-during-a-moderated-conversation-on-digital-inclusion-in-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/24/remarks-by-vice-president-harris-and-president-william-ruto-of-the-republic-of-kenya-during-a-moderated-conversation-on-digital-inclusion-in-africa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President William Ruto of the Republic\
   \ of Kenya During a Moderated Conversation on Digital Inclusion in\_Africa"

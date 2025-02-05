@@ -2,7 +2,7 @@
 date: '2022-12-01'
 modified_time: 2022-12-01 12:47:02-05:00
 published_time: 2022-12-01 12:50:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/joint-statement-following-the-meeting-between-president-biden-and-president-macron/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/joint-statement-following-the-meeting-between-president-biden-and-president-macron/
 tags: statements-releases
 title: "Joint Statement Following the Meeting Between President\_Biden and President\_\
   Macron"

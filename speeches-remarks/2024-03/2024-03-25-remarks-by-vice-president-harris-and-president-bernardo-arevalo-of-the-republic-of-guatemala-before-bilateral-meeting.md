@@ -1,7 +1,7 @@
 ---
 date: '2024-03-25'
 published_time: 2024-03-25 17:05:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/25/remarks-by-vice-president-harris-and-president-bernardo-arevalo-of-the-republic-of-guatemala-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/25/remarks-by-vice-president-harris-and-president-bernardo-arevalo-of-the-republic-of-guatemala-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks By Vice President Harris and President Bernardo Ar\xE9valo of The\
   \ Republic of Guatemala Before Bilateral\_Meeting"

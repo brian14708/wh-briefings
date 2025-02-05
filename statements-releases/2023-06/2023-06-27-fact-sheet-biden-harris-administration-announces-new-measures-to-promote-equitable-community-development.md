@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-27 18:17:22-04:00
 published_time: 2023-06-27 17:17:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-announces-new-measures-to-promote-equitable-community-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-announces-new-measures-to-promote-equitable-community-development/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Measures to Promote\
   \ Equitable Community\_Development"
@@ -26,7 +26,7 @@ businesses. But federal investments and subsidies in underserved
 communities have historically fallen short of achieving these goals.
 Today, the Biden-Harris administration is publicly releasing a new
 [policy
-memorandum](https://www.whitehouse.gov/wp-content/uploads/2023/05/Guidance-for-Federal-Departments-and-Agencies-on-Advancing-Equitable-Community-and-Economic-Development-in-American-Cities-and-U.pdf)
+memorandum](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Guidance-for-Federal-Departments-and-Agencies-on-Advancing-Equitable-Community-and-Economic-Development-in-American-Cities-and-U.pdf)
 to all federal agencies that outlines actions federal agencies can take
 to advance equitable development in American cities and urban
 communities. The Interagency Community Investment Committee (ICIC)—a
@@ -52,11 +52,11 @@ Equitable Development</u>***
 
 Today, the Biden-Harris administration is publicly releasing a new
 [policy
-memorandum](https://www.whitehouse.gov/wp-content/uploads/2023/05/Guidance-for-Federal-Departments-and-Agencies-on-Advancing-Equitable-Community-and-Economic-Development-in-American-Cities-and-U.pdf)
+memorandum](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Guidance-for-Federal-Departments-and-Agencies-on-Advancing-Equitable-Community-and-Economic-Development-in-American-Cities-and-U.pdf)
 pursuant to a key provision in President Biden’s [Executive Order on
 Further Advancing Racial Equity and Support for Underserved Communities
 Through The
-Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+Federal Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 (Executive Order 14091), which  directs agencies to undertake efforts,
 consistent with applicable law, to strengthen urban equitable
 development policies and practices such as advancing community wealth
@@ -67,9 +67,9 @@ outcome-based metrics focused on urban equitable development in the
 design and deployment of federal programs and policies. This effort is
 complementary to the Administration’s efforts to equitably lift up rural
 and Tribal communities across the nation, including through [historic
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/17/what-they-are-saying-biden-harris-administration-announces-largest-investment-in-rural-electrification-since-the-new-deal/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/17/what-they-are-saying-biden-harris-administration-announces-largest-investment-in-rural-electrification-since-the-new-deal/)
 and [expanded access to federal
-resources](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-announces-the-rural-partners-network-to-empower-rural-communities-to-access-federal-resources/).  
+resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-announces-the-rural-partners-network-to-empower-rural-communities-to-access-federal-resources/).  
   
 The memorandum being publicly released today outlines principles to
 guide agencies on actions agencies can take to advance urban equitable
@@ -133,7 +133,7 @@ actions](https://home.treasury.gov/system/files/136/ICIC-Action-Plan-2023.pdf)
 to strengthen how federal community investment programs serve
 communities across the country that have historically lacked access to
 resources and capital. In July of last year, Vice President Harris
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
 the ICIC, a coalition of agencies with a focus on aligning federal
 investments to support economic growth in historically underserved
 communities and address economic disparities. Since its creation, the

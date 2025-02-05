@@ -1,7 +1,7 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 14:54:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/13/ordering-the-selected-reserve-and-certain-members-of-the-individual-ready-reserve-of-the-armed-forces-to-active-duty/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/13/ordering-the-selected-reserve-and-certain-members-of-the-individual-ready-reserve-of-the-armed-forces-to-active-duty/
 tags: presidential-actions
 title: "Ordering the Selected Reserve and Certain Members of the Individual Ready\
   \ Reserve of the Armed Forces to Active\_Duty"

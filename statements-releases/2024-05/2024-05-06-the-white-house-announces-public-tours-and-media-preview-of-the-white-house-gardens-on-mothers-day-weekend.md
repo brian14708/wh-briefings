@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 15:58:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/the-white-house-announces-public-tours-and-media-preview-of-the-white-house-gardens-on-mothers-day-weekend/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/the-white-house-announces-public-tours-and-media-preview-of-the-white-house-gardens-on-mothers-day-weekend/
 tags: statements-releases
 title: "The White\_House Announces Public Tours and Media Preview of the White\_House\
   \ Gardens on Mother\u2019s Day\_Weekend"

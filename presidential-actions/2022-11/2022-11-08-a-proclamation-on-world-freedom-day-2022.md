@@ -2,7 +2,7 @@
 date: '2022-11-08'
 modified_time: 2022-11-08 15:05:19-05:00
 published_time: 2022-11-08 15:05:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/08/a-proclamation-on-world-freedom-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/08/a-proclamation-on-world-freedom-day-2022/
 tags: presidential-actions
 title: "A Proclamation on World Freedom Day,\_2022"
 ---

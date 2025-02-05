@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 10:50:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-vice-president-harris-at-the-munich-security-conference-munich-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-vice-president-harris-at-the-munich-security-conference-munich-germany/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Munich Security Conference | Munich,\_\
   Germany"

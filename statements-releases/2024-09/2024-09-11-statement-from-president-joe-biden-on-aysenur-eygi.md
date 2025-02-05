@@ -2,7 +2,7 @@
 date: '2024-09-11'
 modified_time: 2024-09-11 06:23:35-04:00
 published_time: 2024-09-11 06:23:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/11/statement-from-president-joe-biden-on-aysenur-eygi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/11/statement-from-president-joe-biden-on-aysenur-eygi/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Aysenur\_Eygi"
 ---

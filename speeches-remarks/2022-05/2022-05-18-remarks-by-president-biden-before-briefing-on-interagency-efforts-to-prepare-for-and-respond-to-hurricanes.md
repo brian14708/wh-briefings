@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 16:14:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-president-biden-before-briefing-on-interagency-efforts-to-prepare-for-and-respond-to-hurricanes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-president-biden-before-briefing-on-interagency-efforts-to-prepare-for-and-respond-to-hurricanes/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Briefing on Interagency Efforts to Prepare\
   \ for and Respond to\_Hurricanes"

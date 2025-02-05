@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 09:11:12-04:00
 published_time: 2023-04-12 09:11:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/factsheet-the-biden-harris-administrations-record-on-protecting-access-to-medication-abortion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/factsheet-the-biden-harris-administrations-record-on-protecting-access-to-medication-abortion/
 tags: statements-releases
 title: "FACTSHEET: The Biden-\u2060Harris Administration\u2019s Record on Protecting\
   \ Access to Medication\_Abortion"
@@ -46,12 +46,12 @@ following steps to protect access to medication abortion:
     preserving access to medication abortion as one of two key
     priorities to guide the Administration’s immediate response to the
     ruling. President
-    Biden [directed](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/) the
+    Biden [directed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/) the
     Secretary of the Department of Health and Human Services (HHS) to
     ensure that mifepristone is as widely accessible as possible in
     light of the FDA’s determination that the drug is safe and
     effective. He
-    also [emphasized](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
+    also [emphasized](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
     need to protect access to medication abortion in the face of attacks
     and to stand with medical experts who have stressed that
     restrictions on medication abortion are not based in science. On the
@@ -63,7 +63,7 @@ following steps to protect access to medication abortion:
 -   **Issuing an Executive Order to Protect Access to Abortion,
     including Medication Abortion. **In an [Executive Order on
     Protecting Access to Reproductive
-    Healthcare Services](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/08/executive-order-on-protecting-access-to-reproductive-healthcare-services/) issued
+    Healthcare Services](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/08/executive-order-on-protecting-access-to-reproductive-healthcare-services/) issued
     in July 2022, President Biden reiterated the importance of
     medication abortion and directed the Secretary of HHS to identify
     potential actions to protect and expand access to abortion care,
@@ -74,7 +74,7 @@ following steps to protect access to medication abortion:
     care nationwide.
 -   **Addressing Barriers to Accessing Care. **In his second [Executive
     Order on Securing Access to Reproductive and Other Healthcare
-    Services](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/03/executive-order-on-securing-access-to-reproductive-and-other-healthcare-services/) issued
+    Services](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/03/executive-order-on-securing-access-to-reproductive-and-other-healthcare-services/) issued
     in August 2022, President Biden addressed the challenges that women
     have faced in accessing prescription medication at pharmacies in the
     wake of *Dobbs*, including medication abortion, which is also used
@@ -94,7 +94,7 @@ following steps to protect access to medication abortion:
     Wade* in January 2023, President Biden issued a [Presidential
     Memorandum on Further Efforts to Protect Access to Reproductive
     Healthcare
-    Services](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/) to
+    Services](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/) to
     further protect access to medication abortion. The Presidential
     Memorandum directed the Attorney General, the Secretary of the
     Department of Homeland Security, and the Secretary of HHS to
@@ -115,7 +115,7 @@ certified.
 -   **Engaging Medical Experts and Reproductive Rights Leaders to
     Underscore the Need for Medication Abortion. **In February 2023,
     Vice President
-    Harris [convened](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/24/readout-of-vice-president-harris-meeting-on-threats-to-medication-abortion/) a
+    Harris [convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/24/readout-of-vice-president-harris-meeting-on-threats-to-medication-abortion/) a
     roundtable of leading medical experts and reproductive rights
     advocates to discuss how a court decision to invalidate the approval
     of mifepristone would affect patients and providers. Participants

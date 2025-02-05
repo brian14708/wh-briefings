@@ -2,7 +2,7 @@
 date: '2022-11-21'
 modified_time: 2022-11-21 09:07:17-05:00
 published_time: 2022-11-21 09:07:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/21/readout-of-vice-president-harriss-meeting-with-president-marcos-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/21/readout-of-vice-president-harriss-meeting-with-president-marcos-of-the-philippines/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Marcos of the\_\
   Philippines"

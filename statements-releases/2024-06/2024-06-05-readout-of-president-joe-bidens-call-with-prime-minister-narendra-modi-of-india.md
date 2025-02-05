@@ -1,7 +1,7 @@
 ---
 date: '2024-06-05'
 published_time: 2024-06-05 17:53:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/05/readout-of-president-joe-bidens-call-with-prime-minister-narendra-modi-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/05/readout-of-president-joe-bidens-call-with-prime-minister-narendra-modi-of-india/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Narendra Modi\
   \ of\_India"

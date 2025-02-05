@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 14:49:16-05:00
 published_time: 2024-12-02 14:49:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/02/remarks-by-president-biden-first-lady-jill-biden-dr-daniel-driffin-and-jeanne-white-ginder-commemorating-world-aids-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/02/remarks-by-president-biden-first-lady-jill-biden-dr-daniel-driffin-and-jeanne-white-ginder-commemorating-world-aids-day/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, First Lady Jill\_Biden, Dr. Daniel Driffin, and\
   \ Jeanne White-Ginder Commemorating World AIDS\_Day"

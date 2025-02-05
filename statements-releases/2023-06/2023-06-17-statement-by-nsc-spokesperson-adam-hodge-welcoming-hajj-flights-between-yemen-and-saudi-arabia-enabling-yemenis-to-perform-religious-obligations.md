@@ -1,7 +1,7 @@
 ---
 date: '2023-06-17'
 published_time: 2023-06-17 23:24:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/17/statement-by-nsc-spokesperson-adam-hodge-welcoming-hajj-flights-between-yemen-and-saudi-arabia-enabling-yemenis-to-perform-religious-obligations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/17/statement-by-nsc-spokesperson-adam-hodge-welcoming-hajj-flights-between-yemen-and-saudi-arabia-enabling-yemenis-to-perform-religious-obligations/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adam Hodge Welcoming Hajj Flights Between Yemen\
   \ and Saudi Arabia Enabling Yemenis to Perform Religious\_Obligations"

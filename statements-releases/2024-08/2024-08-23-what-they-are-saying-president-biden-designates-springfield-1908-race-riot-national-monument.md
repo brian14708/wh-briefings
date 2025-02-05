@@ -2,14 +2,14 @@
 date: '2024-08-23'
 modified_time: 2024-08-24 10:47:19-04:00
 published_time: 2024-08-23 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/23/what-they-are-saying-president-biden-designates-springfield-1908-race-riot-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/23/what-they-are-saying-president-biden-designates-springfield-1908-race-riot-national-monument/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Designates Springfield 1908 Race Riot\
   \ National\_Monument"
 ---
  
 Last week President
-Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/) a proclamation establishing
+Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/) a proclamation establishing
 the Springfield 1908 Race Riot National Monument in Springfield,
 Illinois. The new national monument will tell the story of a horrific
 attack by a white mob on a Black community, its significance within the

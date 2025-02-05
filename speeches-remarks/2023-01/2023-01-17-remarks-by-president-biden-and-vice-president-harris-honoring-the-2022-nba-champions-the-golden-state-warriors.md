@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-17 17:36:02-05:00
 published_time: 2023-01-17 17:36:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/17/remarks-by-president-biden-and-vice-president-harris-honoring-the-2022-nba-champions-the-golden-state-warriors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/17/remarks-by-president-biden-and-vice-president-harris-honoring-the-2022-nba-champions-the-golden-state-warriors/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Honoring the 2022 NBA\
   \ Champions, the Golden State\_Warriors"

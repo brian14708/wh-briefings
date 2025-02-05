@@ -1,7 +1,7 @@
 ---
 date: '2024-12-09'
 published_time: 2024-12-09 10:26:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/09/background-press-call-on-the-situation-in-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/09/background-press-call-on-the-situation-in-syria/
 tags: press-briefings
 title: "Background Press Call on the Situation in\_Syria"
 ---

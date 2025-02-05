@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-09 21:11:17-05:00
 published_time: 2025-01-10 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/fact-sheet-biden-harris-administrations-historic-investments-in-puerto-ricos-energy-grid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/fact-sheet-biden-harris-administrations-historic-investments-in-puerto-ricos-energy-grid/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration\u2019s Historic Investments\
   \ in Puerto Rico\u2019s Energy\_Grid"

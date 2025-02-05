@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 16:38:43-05:00
 published_time: 2023-01-27 15:55:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/joint-declaration-on-the-americas-partnership-for-economic-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/joint-declaration-on-the-americas-partnership-for-economic-prosperity/
 tags: statements-releases
 title: "Joint Declaration on The Americas Partnership for Economic\_Prosperity"
 ---

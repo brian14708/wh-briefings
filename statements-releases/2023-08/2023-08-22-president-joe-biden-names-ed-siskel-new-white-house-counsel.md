@@ -2,7 +2,7 @@
 date: '2023-08-22'
 modified_time: 2023-08-21 23:28:43-04:00
 published_time: 2023-08-22 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/22/president-joe-biden-names-ed-siskel-new-white-house-counsel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/22/president-joe-biden-names-ed-siskel-new-white-house-counsel/
 tags: statements-releases
 title: "President Joe\_Biden Names Ed Siskel New White\_House\_Counsel"
 ---

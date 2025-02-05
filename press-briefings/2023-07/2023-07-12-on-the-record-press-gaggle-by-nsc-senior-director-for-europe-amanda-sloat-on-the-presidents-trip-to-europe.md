@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 05:39:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/12/on-the-record-press-gaggle-by-nsc-senior-director-for-europe-amanda-sloat-on-the-presidents-trip-to-europe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/12/on-the-record-press-gaggle-by-nsc-senior-director-for-europe-amanda-sloat-on-the-presidents-trip-to-europe/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by NSC Senior Director for Europe Amanda Sloat\
   \ on the President\u2019s Trip to\_Europe"

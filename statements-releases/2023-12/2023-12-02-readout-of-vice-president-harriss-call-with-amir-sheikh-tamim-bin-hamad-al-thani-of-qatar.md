@@ -1,7 +1,7 @@
 ---
 date: '2023-12-02'
 published_time: 2023-12-02 08:26:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Amir Sheikh Tamim Bin Hamad\
   \ Al-Thani of\_Qatar"

@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 17:30:13-05:00
 published_time: 2024-12-11 17:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/11/remarks-by-president-biden-and-first-lady-jill-biden-at-the-first-ever-white-house-conference-on-womens-health-research/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/11/remarks-by-president-biden-and-first-lady-jill-biden-at-the-first-ever-white-house-conference-on-womens-health-research/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the First-Ever White\_\
   House Conference on Women\u2019s Health\_Research"

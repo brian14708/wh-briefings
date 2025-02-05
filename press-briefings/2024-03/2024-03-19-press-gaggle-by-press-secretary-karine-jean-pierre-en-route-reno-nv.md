@@ -1,7 +1,7 @@
 ---
 date: '2024-03-19'
 published_time: 2024-03-19 15:45:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-reno-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-reno-nv/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Reno,\_NV"
 ---

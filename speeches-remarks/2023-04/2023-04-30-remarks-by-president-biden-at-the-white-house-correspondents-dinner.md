@@ -1,7 +1,7 @@
 ---
 date: '2023-04-30'
 published_time: 2023-04-30 10:05:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/30/remarks-by-president-biden-at-the-white-house-correspondents-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/30/remarks-by-president-biden-at-the-white-house-correspondents-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Correspondents\u2019\_Dinner"
 ---

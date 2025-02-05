@@ -1,7 +1,7 @@
 ---
 date: '2022-11-01'
 published_time: 2022-11-01 19:24:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-the-national-security-council-of-mongolia-jadamba-enkhbayar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-the-national-security-council-of-mongolia-jadamba-enkhbayar/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Secretary\
   \ of the National Security Council of Mongolia Jadamba\_Enkhbayar"

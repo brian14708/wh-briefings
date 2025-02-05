@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 16:24:39-04:00
 published_time: 2022-06-08 16:24:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/readout-of-white-house-meeting-with-labor-leaders-on-health-care-and-workers-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/readout-of-white-house-meeting-with-labor-leaders-on-health-care-and-workers-rights/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Labor Leaders on Health Care and Workers\u2019\
   \_Rights"

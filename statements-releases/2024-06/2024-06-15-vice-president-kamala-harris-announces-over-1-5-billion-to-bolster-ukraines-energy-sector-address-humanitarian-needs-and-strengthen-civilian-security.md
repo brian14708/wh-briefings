@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-14 22:25:03-04:00
 published_time: 2024-06-15 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/vice-president-kamala-harris-announces-over-1-5-billion-to-bolster-ukraines-energy-sector-address-humanitarian-needs-and-strengthen-civilian-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/vice-president-kamala-harris-announces-over-1-5-billion-to-bolster-ukraines-energy-sector-address-humanitarian-needs-and-strengthen-civilian-security/
 tags: statements-releases
 title: "Vice President Kamala\_Harris Announces Over $1.5 Billion to Bolster Ukraine\u2019\
   s Energy Sector, Address Humanitarian Needs, and Strengthen Civilian\_Security"

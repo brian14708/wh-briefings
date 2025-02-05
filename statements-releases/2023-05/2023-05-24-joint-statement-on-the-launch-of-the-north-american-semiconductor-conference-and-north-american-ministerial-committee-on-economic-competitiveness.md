@@ -2,7 +2,7 @@
 date: '2023-05-24'
 modified_time: 2023-05-24 11:21:08-04:00
 published_time: 2023-05-24 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/24/joint-statement-on-the-launch-of-the-north-american-semiconductor-conference-and-north-american-ministerial-committee-on-economic-competitiveness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/24/joint-statement-on-the-launch-of-the-north-american-semiconductor-conference-and-north-american-ministerial-committee-on-economic-competitiveness/
 tags: statements-releases
 title: "Joint Statement on the Launch of the North American Semiconductor Conference\
   \ and North American Ministerial Committee on Economic\_Competitiveness"

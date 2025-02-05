@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 12:16:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/01/remarks-by-president-biden-on-his-nomination-of-julie-su-to-serve-as-secretary-of-labor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/01/remarks-by-president-biden-on-his-nomination-of-julie-su-to-serve-as-secretary-of-labor/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Nomination of Julie Su to Serve as Secretary\
   \ of\_Labor"

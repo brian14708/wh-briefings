@@ -2,7 +2,7 @@
 date: '2023-03-14'
 modified_time: 2023-03-13 16:53:06-04:00
 published_time: 2023-03-14 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden Announces New Actions to Reduce Gun Violence\
   \ and Make Our Communities\_Safer"
@@ -41,7 +41,7 @@ from liability.
 As he continues to call on Congress to act, President Biden will do
 everything he can to reduce gun violence and save lives. That is why,
 over the past two years, President Biden has taken [more executive
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/)
 to reduce gun violence than any other president at this point in their
 presidency.  
   

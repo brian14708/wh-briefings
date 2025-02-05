@@ -2,7 +2,7 @@
 date: '2022-10-17'
 modified_time: 2022-10-17 11:53:15-04:00
 published_time: 2022-10-17 11:53:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/17/president-joseph-r-biden-jr-approves-illinois-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/17/president-joseph-r-biden-jr-approves-illinois-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Illinois Disaster\_Declaration"
 ---

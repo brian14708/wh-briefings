@@ -1,7 +1,7 @@
 ---
 date: '2023-10-16'
 published_time: 2023-10-16 20:54:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-israel-and-jordan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-israel-and-jordan/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to Israel and\_Jordan"

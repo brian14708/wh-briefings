@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 published_time: 2023-05-18 09:55:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/18/a-proclamation-on-national-hepatitis-testing-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/18/a-proclamation-on-national-hepatitis-testing-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National Hepatitis Testing Day,\_2023"
 ---

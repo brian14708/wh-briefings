@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 16:17:19-05:00
 published_time: 2023-02-01 16:17:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/01/remarks-by-president-biden-at-the-white-house-competition-council-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/01/remarks-by-president-biden-at-the-white-house-competition-council-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Competition Council\_Meeting"
 ---

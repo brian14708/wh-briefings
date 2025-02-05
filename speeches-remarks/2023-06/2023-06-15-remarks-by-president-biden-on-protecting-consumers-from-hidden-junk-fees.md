@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 15:57:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/15/remarks-by-president-biden-on-protecting-consumers-from-hidden-junk-fees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/15/remarks-by-president-biden-on-protecting-consumers-from-hidden-junk-fees/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Protecting Consumers from Hidden Junk\_Fees"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-01'
 modified_time: 2024-04-30 21:33:15-04:00
 published_time: 2024-05-01 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/01/statement-from-president-joe-biden-on-6-1-billion-in-student-debt-cancellation-for-317000-borrowers-who-attended-the-art-institutes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/01/statement-from-president-joe-biden-on-6-1-billion-in-student-debt-cancellation-for-317000-borrowers-who-attended-the-art-institutes/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on $6.1 Billion in Student Debt Cancellation\
   \ for 317,000 Borrowers who Attended the Art\_Institutes"

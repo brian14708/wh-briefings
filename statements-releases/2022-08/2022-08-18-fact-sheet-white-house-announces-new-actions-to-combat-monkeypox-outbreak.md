@@ -2,7 +2,7 @@
 date: '2022-08-18'
 modified_time: 2022-08-18 09:43:11-04:00
 published_time: 2022-08-18 09:43:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-white-house-announces-new-actions-to-combat-monkeypox-outbreak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-white-house-announces-new-actions-to-combat-monkeypox-outbreak/
 tags: statements-releases
 title: "FACT SHEET: White\_House Announces New Actions to Combat Monkeypox\_Outbreak"
 ---

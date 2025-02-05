@@ -2,7 +2,7 @@
 date: '2022-09-17'
 modified_time: 2022-09-17 22:11:45-04:00
 published_time: 2022-09-17 22:11:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/17/readout-of-vice-president-kamala-harriss-meeting-with-health-care-providers-students-elected-officials-and-advocates-in-chicago-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/17/readout-of-vice-president-kamala-harriss-meeting-with-health-care-providers-students-elected-officials-and-advocates-in-chicago-il/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Health Care Providers,\
   \ Students, Elected Officials, and Advocates in Chicago,\_IL"

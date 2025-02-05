@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 16:35:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/05/president-joseph-r-biden-jr-approves-alabama-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/05/president-joseph-r-biden-jr-approves-alabama-disaster-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Alabama Disaster\_Declaration"
 ---

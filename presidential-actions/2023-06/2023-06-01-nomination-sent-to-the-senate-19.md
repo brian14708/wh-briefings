@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 published_time: 2023-06-01 13:00:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/01/nomination-sent-to-the-senate-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/01/nomination-sent-to-the-senate-19/
 tags: presidential-actions
 title: "Nomination Sent to the\_Senate"
 ---

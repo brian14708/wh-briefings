@@ -1,7 +1,7 @@
 ---
 date: '2024-08-10'
 published_time: 2024-08-10 12:58:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/10/statement-from-nsc-spokesperson-sean-savett-on-israeli-strike-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/10/statement-from-nsc-spokesperson-sean-savett-on-israeli-strike-in-gaza/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Sean Savett on Israeli Strike in\_Gaza"
 ---

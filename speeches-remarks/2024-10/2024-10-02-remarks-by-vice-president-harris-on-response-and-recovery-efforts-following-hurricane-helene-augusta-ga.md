@@ -1,7 +1,7 @@
 ---
 date: '2024-10-02'
 published_time: 2024-10-02 21:57:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/02/remarks-by-vice-president-harris-on-response-and-recovery-efforts-following-hurricane-helene-augusta-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/02/remarks-by-vice-president-harris-on-response-and-recovery-efforts-following-hurricane-helene-augusta-ga/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Response and Recovery Efforts Following\
   \ Hurricane Helene | Augusta,\_GA"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-01'
 published_time: 2023-02-01 18:05:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/01/remarks-by-vice-president-harris-at-the-memorial-service-for-tyre-nichols/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/01/remarks-by-vice-president-harris-at-the-memorial-service-for-tyre-nichols/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris At the Memorial Service for Tyre\_Nichols"
 ---

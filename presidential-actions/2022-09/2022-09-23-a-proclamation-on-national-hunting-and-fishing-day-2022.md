@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-23 12:07:12-04:00
 published_time: 2022-09-23 12:07:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/23/a-proclamation-on-national-hunting-and-fishing-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/23/a-proclamation-on-national-hunting-and-fishing-day-2022/
 tags: presidential-actions
 title: "A Proclamation on National Hunting And Fishing Day,\_2022"
 ---

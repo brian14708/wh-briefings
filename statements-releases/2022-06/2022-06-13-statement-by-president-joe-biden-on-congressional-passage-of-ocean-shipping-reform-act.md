@@ -1,7 +1,7 @@
 ---
 date: '2022-06-13'
 published_time: 2022-06-13 19:18:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Congressional Passage of Ocean Shipping\
   \ Reform\_Act"

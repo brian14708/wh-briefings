@@ -1,7 +1,7 @@
 ---
 date: '2024-01-26'
 published_time: 2024-01-26 10:16:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-december-pce-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-december-pce-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on December PCE\_Report"
 ---

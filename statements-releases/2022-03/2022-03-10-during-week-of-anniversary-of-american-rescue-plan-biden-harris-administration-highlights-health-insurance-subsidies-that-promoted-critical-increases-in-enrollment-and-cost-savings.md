@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-10'
 modified_time: 2022-03-10 10:30:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/10/during-week-of-anniversary-of-american-rescue-plan-biden-harris-administration-highlights-health-insurance-subsidies-that-promoted-critical-increases-in-enrollment-and-cost-savings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/10/during-week-of-anniversary-of-american-rescue-plan-biden-harris-administration-highlights-health-insurance-subsidies-that-promoted-critical-increases-in-enrollment-and-cost-savings/
 published_time: 2022-03-10 10:00:00-05:00
 title: "During Week of Anniversary of American Rescue Plan, Biden-\u2060Harris Administration\
   \ Highlights Health Insurance Subsidies That Promoted Critical Increases in Enrollment\
@@ -59,68 +59,68 @@ HHS. Between 2016 and 2019, 3.6 million Americans lost coverage.
 
 Factsheet by State/Territory:
 
--   [Alabama](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AL.pdf)
--   [Alaska](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AK.pdf)
--   [Arizona](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AZ.pdf)
--   [Arkansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AR.pdf)
--   [California](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CA.pdf)
--   [Colorado](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CO.pdf)
--   [Connecticut](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CT.pdf)
--   [Delaware](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-DE.pdf)
--   [Florida](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-FL.pdf)
--   [Georgia](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-GA.pdf)
--   [Hawaii](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-HI.pdf)
--   [Idaho](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ID.pdf)
--   [Illinois](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IL.pdf)
--   [Indiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IN.pdf)
--   [Iowa](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IA.pdf)
--   [Kansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-KS.pdf)
--   [Kentucky](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-KY.pdf)
--   [Louisiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-LA.pdf)
--   [Maine](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ME.pdf)
--   [Maryland](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MD.pdf)
--   [Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MA.pdf)
--   [Michigan](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MI.pdf)
--   [Minnesota](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MN.pdf)
--   [Mississippi](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MS.pdf)
--   [Missouri](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MO.pdf)
--   [Montana](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MT.pdf)
--   [Nebraska](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NE.pdf)
--   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NV.pdf)
+-   [Alabama](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AL.pdf)
+-   [Alaska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AK.pdf)
+-   [Arizona](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AZ.pdf)
+-   [Arkansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-AR.pdf)
+-   [California](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CA.pdf)
+-   [Colorado](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CO.pdf)
+-   [Connecticut](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-CT.pdf)
+-   [Delaware](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-DE.pdf)
+-   [Florida](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-FL.pdf)
+-   [Georgia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-GA.pdf)
+-   [Hawaii](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-HI.pdf)
+-   [Idaho](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ID.pdf)
+-   [Illinois](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IL.pdf)
+-   [Indiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IN.pdf)
+-   [Iowa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-IA.pdf)
+-   [Kansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-KS.pdf)
+-   [Kentucky](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-KY.pdf)
+-   [Louisiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-LA.pdf)
+-   [Maine](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ME.pdf)
+-   [Maryland](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MD.pdf)
+-   [Massachusetts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MA.pdf)
+-   [Michigan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MI.pdf)
+-   [Minnesota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MN.pdf)
+-   [Mississippi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MS.pdf)
+-   [Missouri](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MO.pdf)
+-   [Montana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-MT.pdf)
+-   [Nebraska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NE.pdf)
+-   [Nevada](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NV.pdf)
 -   [New
-    Hampshire](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NH.pdf)
+    Hampshire](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NH.pdf)
 -   [New
-    Jersey](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NJ.pdf)
+    Jersey](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NJ.pdf)
 -   [New
-    Mexico](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NM.pdf)
+    Mexico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NM.pdf)
 -   [New
-    York](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NY.pdf)
+    York](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NY.pdf)
 -   [North
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NC.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-NC.pdf)
 -   [North
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ND.pdf)
--   [Ohio](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OH.pdf)
--   [Oklahoma](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OK.pdf)
--   [Oregon](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OR.pdf)
--   [Pennsylvania](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-PA.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-ND.pdf)
+-   [Ohio](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OH.pdf)
+-   [Oklahoma](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OK.pdf)
+-   [Oregon](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-OR.pdf)
+-   [Pennsylvania](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-PA.pdf)
 -   [Rhode
-    Island](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-RI.pdf)
+    Island](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-RI.pdf)
 -   [South
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-SC.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-SC.pdf)
 -   [South
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-SD.pdf)
--   [Tennessee](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-TN.pdf)
--   [Texas](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-TX.pdf)
--   [Utah](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-UT.pdf)
--   [Vermont](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-VT.pdf)
--   [Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-VA.pdf)
--   [Washington](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WA.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-SD.pdf)
+-   [Tennessee](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-TN.pdf)
+-   [Texas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-TX.pdf)
+-   [Utah](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-UT.pdf)
+-   [Vermont](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-VT.pdf)
+-   [Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-VA.pdf)
+-   [Washington](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WA.pdf)
 -   [West
-    Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WV.pdf)
--   [Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WI.pdf)
--   [Wyoming](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WY.pdf)
+    Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WV.pdf)
+-   [Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WI.pdf)
+-   [Wyoming](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-WY.pdf)
 -   [District of
-    Columbia](https://www.whitehouse.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-DC.pdf)  
+    Columbia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/American-Rescue-Plan-State-by-State-ACA-DC.pdf)  
      
 
 \###

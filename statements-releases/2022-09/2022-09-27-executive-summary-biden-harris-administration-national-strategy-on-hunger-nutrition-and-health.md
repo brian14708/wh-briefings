@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-26 19:24:03-04:00
 published_time: 2022-09-27 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/executive-summary-biden-harris-administration-national-strategy-on-hunger-nutrition-and-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/executive-summary-biden-harris-administration-national-strategy-on-hunger-nutrition-and-health/
 tags: statements-releases
 title: "EXECUTIVE SUMMARY:  Biden-\u2060Harris Administration National Strategy on\
   \ Hunger, Nutrition, and\_Health"
@@ -77,6 +77,6 @@ their part. Taken together, these collective efforts will make a
 difference and move us closer to achieving the 2030 goal. 
 
 To read the full national strategy, [click
-here](https://www.whitehouse.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).
 
 \###

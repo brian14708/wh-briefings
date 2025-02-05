@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 10:13:43-04:00
 published_time: 2023-05-16 10:13:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-un-special-envoy-for-yemen-hans-grundberg/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-un-special-envoy-for-yemen-hans-grundberg/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with UN\
   \ Special Envoy for Yemen Hans\_Grundberg"

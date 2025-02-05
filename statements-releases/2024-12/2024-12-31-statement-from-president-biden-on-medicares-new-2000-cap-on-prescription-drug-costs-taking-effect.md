@@ -2,7 +2,7 @@
 date: '2024-12-31'
 modified_time: 2024-12-31 09:31:02-05:00
 published_time: 2024-12-31 09:31:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/31/statement-from-president-biden-on-medicares-new-2000-cap-on-prescription-drug-costs-taking-effect/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/31/statement-from-president-biden-on-medicares-new-2000-cap-on-prescription-drug-costs-taking-effect/
 tags: statements-releases
 title: "Statement from President\_Biden on Medicare\u2019s New $2,000 Cap on Prescription\
   \ Drug Costs Taking\_Effect"

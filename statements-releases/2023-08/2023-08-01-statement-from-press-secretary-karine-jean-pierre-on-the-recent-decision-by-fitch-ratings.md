@@ -1,7 +1,7 @@
 ---
 date: '2023-08-01'
 published_time: 2023-08-01 18:35:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/01/statement-from-press-secretary-karine-jean-pierre-on-the-recent-decision-by-fitch-ratings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/01/statement-from-press-secretary-karine-jean-pierre-on-the-recent-decision-by-fitch-ratings/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Recent Decision by\
   \ Fitch\_Ratings"

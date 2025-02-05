@@ -1,7 +1,7 @@
 ---
 date: '2024-02-29'
 published_time: 2024-02-29 21:20:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraqs-kurdistan-regional-government-krg-masrour-barzani/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraqs-kurdistan-regional-government-krg-masrour-barzani/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with the\
   \ Prime Minister of Iraq\u2019s Kurdistan Regional Government (KRG) Masrour\_Barzani"

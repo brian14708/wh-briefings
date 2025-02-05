@@ -2,7 +2,7 @@
 date: '2022-04-24'
 modified_time: 2022-04-24 12:26:46-04:00
 published_time: 2022-04-24 12:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/24/statement-by-president-joe-biden-on-the-passing-of-former-senator-orrin-hatch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/24/statement-by-president-joe-biden-on-the-passing-of-former-senator-orrin-hatch/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Passing of Former Senator Orrin\_\
   Hatch"

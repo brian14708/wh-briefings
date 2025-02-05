@@ -1,7 +1,7 @@
 ---
 date: '2024-09-27'
 published_time: 2024-09-27 09:13:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/27/statement-from-president-joe-biden-on-the-august-pce-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/27/statement-from-president-joe-biden-on-the-august-pce-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the August PCE\_Report"
 ---

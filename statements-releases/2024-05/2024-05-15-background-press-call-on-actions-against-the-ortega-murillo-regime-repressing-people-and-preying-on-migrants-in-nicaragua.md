@@ -1,7 +1,7 @@
 ---
 date: '2024-05-15'
 published_time: 2024-05-15 13:00:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/background-press-call-on-actions-against-the-ortega-murillo-regime-repressing-people-and-preying-on-migrants-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/background-press-call-on-actions-against-the-ortega-murillo-regime-repressing-people-and-preying-on-migrants-in-nicaragua/
 tags: statements-releases
 title: "Background Press Call on Actions Against the Ortega-Murillo Regime Repressing\
   \ People and Preying on Migrants in\_Nicaragua"

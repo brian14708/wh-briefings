@@ -1,7 +1,7 @@
 ---
 date: '2022-09-14'
 published_time: 2022-09-14 11:22:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/14/a-proclamation-on-national-hispanic-heritage-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/14/a-proclamation-on-national-hispanic-heritage-month-2022/
 tags: presidential-actions
 title: "A Proclamation on National Hispanic Heritage Month,\_2022"
 ---

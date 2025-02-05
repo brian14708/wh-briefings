@@ -1,7 +1,7 @@
 ---
 date: '2023-03-14'
 published_time: 2023-03-14 22:05:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-dr-ibrahim-kalin-spokesperson-and-chief-advisor-to-the-president-of-turkiye/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-dr-ibrahim-kalin-spokesperson-and-chief-advisor-to-the-president-of-turkiye/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Dr.\
   \ Ibrahim Kalin, Spokesperson and Chief Advisor\_to the President of\_T\xFCrkiye"

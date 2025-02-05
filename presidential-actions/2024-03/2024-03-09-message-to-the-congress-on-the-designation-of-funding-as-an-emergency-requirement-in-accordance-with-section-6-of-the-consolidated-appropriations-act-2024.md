@@ -1,7 +1,7 @@
 ---
 date: '2024-03-09'
 published_time: 2024-03-09 12:42:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/09/message-to-the-congress-on-the-designation-of-funding-as-an-emergency-requirement-in-accordance-with-section-6-of-the-consolidated-appropriations-act-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/09/message-to-the-congress-on-the-designation-of-funding-as-an-emergency-requirement-in-accordance-with-section-6-of-the-consolidated-appropriations-act-2024/
 tags: presidential-actions
 title: "Message to the Congress on the Designation of Funding as an Emergency Requirement\
   \ in Accordance with Section 6 of the Consolidated Appropriations Act,\_2024"

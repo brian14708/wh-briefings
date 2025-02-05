@@ -2,7 +2,7 @@
 date: '2022-06-26'
 modified_time: 2022-06-25 19:42:40-04:00
 published_time: 2022-06-26 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/statement-by-president-joseph-r-biden-jr-on-international-day-in-support-of-victims-of-torture-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/statement-by-president-joseph-r-biden-jr-on-international-day-in-support-of-victims-of-torture-2/
 tags: statements-releases
 title: "Statement by President Joseph R. Biden, Jr. on International Day in Support\
   \ of Victims of\_Torture"

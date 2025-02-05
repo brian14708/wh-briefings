@@ -2,7 +2,7 @@
 date: '2024-11-07'
 modified_time: 2024-11-07 15:48:57-05:00
 published_time: 2024-11-07 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Threat\
   \ From Securities Investments That Finance Certain Companies of the People\u2019\

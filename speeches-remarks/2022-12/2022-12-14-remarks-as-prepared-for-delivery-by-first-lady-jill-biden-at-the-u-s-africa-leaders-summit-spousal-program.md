@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-15 16:20:12-05:00
 published_time: 2022-12-14 11:19:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-u-s-africa-leaders-summit-spousal-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-u-s-africa-leaders-summit-spousal-program/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the U.S.-Africa\
   \ Leaders Summit Spousal\_Program"

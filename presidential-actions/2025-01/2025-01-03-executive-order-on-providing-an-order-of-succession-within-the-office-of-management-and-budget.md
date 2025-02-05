@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-03 21:20:37-05:00
 published_time: 2025-01-03 21:20:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/executive-order-on-providing-an-order-of-succession-within-the-office-of-management-and-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/executive-order-on-providing-an-order-of-succession-within-the-office-of-management-and-budget/
 tags: presidential-actions
 title: "Executive Order on Providing an Order of Succession Within the Office of Management\
   \ and\_Budget"

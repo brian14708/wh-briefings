@@ -2,7 +2,7 @@
 date: '2022-06-03'
 modified_time: 2022-06-03 17:25:38-04:00
 published_time: 2022-06-03 17:25:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/03/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/03/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-2/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Reproductive\_\
   Rights"
@@ -27,7 +27,7 @@ leadership and efforts to defend reproductive freedom.
 
 Today’s engagement follows [a meeting senior White House officials held
 last
-week](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights/)
+week](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights/)
 with legislators who are advancing  legislation to protect reproductive
 rights.
 

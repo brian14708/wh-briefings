@@ -1,7 +1,7 @@
 ---
 date: '2022-10-17'
 published_time: 2022-10-17 17:12:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/17/remarks-by-president-biden-on-the-student-debt-relief-portal-beta-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/17/remarks-by-president-biden-on-the-student-debt-relief-portal-beta-test/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Student Debt Relief Portal Beta\_Test"
 ---

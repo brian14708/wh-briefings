@@ -1,7 +1,7 @@
 ---
 date: '2023-02-18'
 published_time: 2023-02-18 13:59:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-at-the-munich-security-conference-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-at-the-munich-security-conference-2/
 tags: speeches-remarks
 title: Remarks by Vice President Harris at the Munich Security Conference
 ---

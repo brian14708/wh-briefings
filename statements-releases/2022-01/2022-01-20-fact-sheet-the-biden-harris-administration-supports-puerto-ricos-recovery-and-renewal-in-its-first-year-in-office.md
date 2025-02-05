@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-20'
 modified_time: 2022-01-20 20:20:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/
 published_time: 2022-01-20 14:35:49-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Supports Puerto Rico\u2019\
   s Recovery and Renewal in its First Year in\_Office"
@@ -93,7 +93,7 @@ block grant going forward.
 **Establishing a White House Working Group on Puerto Rico**
 
 In July, the White
-House [hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) the
+House [hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) the
 inaugural meeting of the White House Working Group on Puerto Rico, a
 cabinet-level task force chaired by Domestic Policy Advisor Susan E.
 Rice, National Economic Advisor Brian Deese, and Director of
@@ -123,7 +123,7 @@ example of the President’s commitment toward parity for the island.
 
 For decades, infrastructure in Puerto Rico has suffered from a systemic
 lack of investment. The historic [Infrastructure Investment and Jobs
-Act](https://www.whitehouse.gov/wp-content/uploads/2021/08/PUERTO-RICO_Infrastructure-Investment-and-Jobs-Act-State-Fact-Sheet.pdf) (IIJA)
+Act](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/08/PUERTO-RICO_Infrastructure-Investment-and-Jobs-Act-State-Fact-Sheet.pdf) (IIJA)
 will make life better for millions of Puerto Rico residents, create a
 new generation of good-paying union jobs, and spur economic growth that
 will grow the island’s economy. In Puerto Rico, the legislation will
@@ -135,7 +135,7 @@ coverage across the island; at least $78 million in 2022 alone to
 improve water infrastructure and ensure that clean, safe drinking water
 is a right in all communities; and $102 million for airport
 infrastructure development on the island. Just this month, the
-Administration [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/) it
+Administration [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/) it
 will provide $163 million to restore the Cano Martin Pena urban tidal
 channel and surrounding areas of the San Juan Bay National Estuary – a
 project that will significantly improve the health and welfare of the

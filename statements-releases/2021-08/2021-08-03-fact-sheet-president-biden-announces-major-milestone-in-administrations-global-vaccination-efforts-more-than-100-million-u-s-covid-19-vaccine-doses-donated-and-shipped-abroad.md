@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-03'
 modified_time: 2021-08-03 07:01:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-president-biden-announces-major-milestone-in-administrations-global-vaccination-efforts-more-than-100-million-u-s-covid-19-vaccine-doses-donated-and-shipped-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-president-biden-announces-major-milestone-in-administrations-global-vaccination-efforts-more-than-100-million-u-s-covid-19-vaccine-doses-donated-and-shipped-abroad/
 published_time: 2021-08-03 07:01:34-04:00
 title: "FACT SHEET: President\_Biden\_Announces Major Milestone in Administration\u2019\
   s Global Vaccination Efforts: More Than 100 Million U.S. COVID-\u206019 Vaccine\
@@ -10,7 +10,7 @@ title: "FACT SHEET: President\_Biden\_Announces Major Milestone in Administratio
 ---
  
 Building off of last week’s announcement of [additional
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-president-biden-to-announce-new-actions-to-get-more-americans-vaccinated-and-slow-the-spread-of-the-delta-variant/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-president-biden-to-announce-new-actions-to-get-more-americans-vaccinated-and-slow-the-spread-of-the-delta-variant/)
 that we are taking to stop the spread of the Delta variant and get more
 people vaccinated in the United States, President Biden will give an
 update on another critical piece of his strategy to end the COVID-19

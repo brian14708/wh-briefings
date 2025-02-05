@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2021-04-14'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/14/remarks-by-vice-president-harris-at-virtual-roundtable-of-experts-on-the-northern-triangle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/04/14/remarks-by-vice-president-harris-at-virtual-roundtable-of-experts-on-the-northern-triangle/
 published_time: 2021-04-14 12:24:08-04:00
 title: "Remarks by Vice President Harris at Virtual Roundtable of Experts on the Northern\_\
   Triangle"

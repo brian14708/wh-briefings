@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 18:26:59-04:00
 published_time: 2023-09-07 18:26:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-ethiopia-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-ethiopia-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to\_Ethiopia"
 ---

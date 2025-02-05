@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
 published_time: 2022-11-21 06:33:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/21/president-joseph-r-biden-jr-approves-new-york-emergency-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/21/president-joseph-r-biden-jr-approves-new-york-emergency-declaration-3/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves New York Emergency\_Declaration"
 ---

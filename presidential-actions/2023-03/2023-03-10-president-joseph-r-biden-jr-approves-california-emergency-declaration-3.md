@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 12:18:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/10/president-joseph-r-biden-jr-approves-california-emergency-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/10/president-joseph-r-biden-jr-approves-california-emergency-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves California Emergency\_Declaration"
 ---

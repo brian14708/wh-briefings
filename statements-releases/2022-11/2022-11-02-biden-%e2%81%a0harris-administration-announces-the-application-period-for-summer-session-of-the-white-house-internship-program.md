@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-02 16:06:04-04:00
 published_time: 2022-11-02 16:06:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/biden-%e2%81%a0harris-administration-announces-the-application-period-for-summer-session-of-the-white-house-internship-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/biden-%e2%81%a0harris-administration-announces-the-application-period-for-summer-session-of-the-white-house-internship-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Summer\
   \ Session of the White\_House Internship\_Program"

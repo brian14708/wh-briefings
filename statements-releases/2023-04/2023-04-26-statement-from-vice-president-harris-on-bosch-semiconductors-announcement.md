@@ -1,7 +1,7 @@
 ---
 date: '2023-04-26'
 published_time: 2023-04-26 12:32:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/statement-from-vice-president-harris-on-bosch-semiconductors-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/statement-from-vice-president-harris-on-bosch-semiconductors-announcement/
 tags: statements-releases
 title: "Statement from Vice President Harris on Bosch Semiconductors\_Announcement"
 ---

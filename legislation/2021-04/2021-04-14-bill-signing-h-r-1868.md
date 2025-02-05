@@ -2,7 +2,7 @@
 tags: legislation
 date: '2021-04-14'
 modified_time: 2021-04-14 14:56:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2021/04/14/bill-signing-h-r-1868/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2021/04/14/bill-signing-h-r-1868/
 published_time: 2021-04-14 14:56:49-04:00
 title: "Bill Signing: H.R.\_1868"
 ---

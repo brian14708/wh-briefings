@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 08:49:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/07/remarks-by-vice-president-harris-at-israels-independence-day-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/07/remarks-by-vice-president-harris-at-israels-independence-day-reception/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Israel\u2019s Independence Day\_Reception"
 ---

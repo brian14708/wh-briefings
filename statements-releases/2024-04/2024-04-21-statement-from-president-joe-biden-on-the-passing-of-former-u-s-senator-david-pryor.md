@@ -1,7 +1,7 @@
 ---
 date: '2024-04-21'
 published_time: 2024-04-21 18:09:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/21/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-david-pryor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/21/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-david-pryor/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former U.S. Senator\
   \ David\_Pryor"

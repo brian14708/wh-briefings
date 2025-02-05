@@ -1,7 +1,7 @@
 ---
 date: '2023-10-26'
 published_time: 2023-10-26 09:43:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-lewiston-maine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-lewiston-maine/
 tags: presidential-actions
 title: "A Proclamation on Honoring the Victims of the Tragedy in Lewiston,\_Maine"
 ---

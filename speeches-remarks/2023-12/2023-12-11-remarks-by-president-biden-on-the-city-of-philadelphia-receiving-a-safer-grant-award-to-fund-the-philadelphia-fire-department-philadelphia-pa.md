@@ -1,7 +1,7 @@
 ---
 date: '2023-12-11'
 published_time: 2023-12-11 17:07:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-on-the-city-of-philadelphia-receiving-a-safer-grant-award-to-fund-the-philadelphia-fire-department-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-on-the-city-of-philadelphia-receiving-a-safer-grant-award-to-fund-the-philadelphia-fire-department-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the City of Philadelphia receiving a SAFER\
   \ Grant Award to Fund the Philadelphia Fire Department | Philadelphia,\_PA"

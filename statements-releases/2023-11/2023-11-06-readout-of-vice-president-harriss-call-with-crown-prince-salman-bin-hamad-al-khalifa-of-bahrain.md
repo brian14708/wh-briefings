@@ -1,7 +1,7 @@
 ---
 date: '2023-11-06'
 published_time: 2023-11-06 17:52:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/readout-of-vice-president-harriss-call-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/readout-of-vice-president-harriss-call-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Crown Prince Salman bin\
   \ Hamad Al Khalifa of\_Bahrain"

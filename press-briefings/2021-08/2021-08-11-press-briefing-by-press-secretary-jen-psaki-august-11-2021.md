@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-08-11'
 modified_time: 2021-08-11 16:28:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/11/press-briefing-by-press-secretary-jen-psaki-august-11-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/08/11/press-briefing-by-press-secretary-jen-psaki-august-11-2021/
 published_time: 2021-08-11 16:30:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, August 11,\_2021"
 ---

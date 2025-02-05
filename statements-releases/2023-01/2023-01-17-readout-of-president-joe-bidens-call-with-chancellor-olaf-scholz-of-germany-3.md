@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-17 13:46:49-05:00
 published_time: 2023-01-17 13:46:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/readout-of-president-joe-bidens-call-with-chancellor-olaf-scholz-of-germany-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/readout-of-president-joe-bidens-call-with-chancellor-olaf-scholz-of-germany-3/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Chancellor Olaf Scholz of\_\
   Germany"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 10:50:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/
 published_time: 2021-11-02 01:00:00-04:00
 title: "Fact Sheet: President\_Biden Tackles Methane Emissions, Spurs Innovations,\
   \ and Supports Sustainable Agriculture to Build a Clean Energy Economy and Create\_\
@@ -35,7 +35,7 @@ sustainable agriculture, President Biden today is announcing bold steps
 that will push the U.S. clean energy economy forward and create
 good-paying jobs. President Biden is unveiling a [**U.S. Methane
 Emissions Reduction Action
-Plan**](https://www.whitehouse.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf)
+Plan**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf)
 that redoubles efforts from across the government to dramatically reduce
 U.S. methane emissions, cut consumer costs, protect workers and
 communities, maintain and create high-quality, union-friendly jobs, and
@@ -84,7 +84,7 @@ emitters: the United States, Brazil, EU, Indonesia, Pakistan, and
 Argentina.  
   
 The new [**U.S. Methane Emissions Reduction Action
-Plan**](https://www.whitehouse.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf)
+Plan**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf)
 is an ambitious, whole-of-government initiative that uses all available
 tools – commonsense regulations, catalytic financial incentives,
 transparency and disclosure of actionable data, and public and private
@@ -330,7 +330,7 @@ greenhouse gas emissions and sequester additional carbon stocks in soils
 and vegetation. 
 
 -   **[Plan to Conserve Global
-    Forests](https://www.whitehouse.gov/wp-content/uploads/2021/11/Plan_to_Conserve_Global_Forests_final.pdf):
+    Forests](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Plan_to_Conserve_Global_Forests_final.pdf):
     Critical Carbon Sinks** This is a first of its kind,
     whole-of-government Plan that launches a decade-long effort to
     conserve forests and other terrestrial and coastal ecosystems that

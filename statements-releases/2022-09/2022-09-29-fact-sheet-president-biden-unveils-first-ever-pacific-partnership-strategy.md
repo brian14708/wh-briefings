@@ -2,13 +2,13 @@
 date: '2022-09-29'
 modified_time: 2022-09-28 23:38:37-04:00
 published_time: 2022-09-29 09:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-president-biden-unveils-first-ever-pacific-partnership-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-president-biden-unveils-first-ever-pacific-partnership-strategy/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Unveils First-Ever Pacific Partnership\_Strategy"
 ---
  
 [Read the full strategy
-here](https://www.whitehouse.gov/wp-content/uploads/2022/09/Pacific-Partnership-Strategy.pdf)
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Pacific-Partnership-Strategy.pdf)
 
 *“The United States is a proud Pacific power.  We will continue to be an
 active, engaged partner in the region.”*  

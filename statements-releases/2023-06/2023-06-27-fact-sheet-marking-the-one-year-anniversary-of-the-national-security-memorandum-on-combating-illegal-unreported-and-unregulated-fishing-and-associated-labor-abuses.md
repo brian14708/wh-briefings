@@ -1,7 +1,7 @@
 ---
 date: '2023-06-27'
 published_time: 2023-06-27 10:59:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-marking-the-one-year-anniversary-of-the-national-security-memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-marking-the-one-year-anniversary-of-the-national-security-memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
 tags: statements-releases
 title: "FACT SHEET: Marking the One Year Anniversary of the National Security Memorandum\
   \ on Combating Illegal, Unreported, and Unregulated Fishing and Associated Labor\_\
@@ -11,7 +11,7 @@ title: "FACT SHEET: Marking the One Year Anniversary of the National Security Me
 One year ago, on June 27th, 2022, President Biden signed the
 historic [National Security Memorandum on Combating Illegal, Unreported,
 and Unregulated Fishing and Associated Labor Abuses
-(NSM-11)](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/).
+(NSM-11)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/).
 
 Today, the Biden-Harris Administration is providing a status update on
 actions taken under National Security Memorandum-11 to address the
@@ -412,7 +412,7 @@ SIMP, as part of its efforts to strengthen its efforts to combat IUU
 fishing and seafood fraud.  
   
 During this [National Ocean
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-national-ocean-month-2023/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-national-ocean-month-2023/),
 these NSM-11 actions, and many more still planned or underway, showcase
 President Biden’s commitment to counter IUU fishing and associated labor
 abuses, strengthen America’s economic competitiveness, and conserve and

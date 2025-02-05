@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-10-31 14:28:12-04:00
 published_time: 2024-10-31 14:28:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2024/
 tags: presidential-actions
 title: "A Proclamation on Critical Infrastructure Security and Resilience Month,\_\
   2024"

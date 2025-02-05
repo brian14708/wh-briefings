@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 18:01:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-president-biden-in-meeting-with-vice-president-harris-and-congressional-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-president-biden-in-meeting-with-vice-president-harris-and-congressional-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meeting with Vice President Harris and Congressional\_\
   Leaders"

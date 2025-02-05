@@ -1,7 +1,7 @@
 ---
 date: '2024-12-04'
 published_time: 2024-12-04 07:40:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/04/readout-of-president-joe-bidens-meeting-with-president-hakainde-hichilema-of-zambia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/04/readout-of-president-joe-bidens-meeting-with-president-hakainde-hichilema-of-zambia/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Hakainde Hichilema\
   \ of\_Zambia"

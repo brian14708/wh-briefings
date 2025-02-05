@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-16 18:21:14-05:00
 published_time: 2022-12-14 12:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/
 tags: statements-releases
 title: "FACT SHEET: U.S.- Africa Partnership in Promoting Two-Way Trade and Investment\
   \ in\_Africa"
@@ -67,7 +67,7 @@ initiatives and investments to promote two-way trade and investment:
     first compacts, Senegal is eligible to develop a concurrent regional
     compact, and Mauritania is eligible for a threshold program.
 -   President Biden launched the [**Digital Transformation with
-    Africa**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
+    Africa**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
     **(DTA)**, a new initiative to expand digital access and literacy
     across the continent.  Working with Congress, this new initiative
     intends to invest over $350 million and mobilize over $450 million
@@ -76,7 +76,7 @@ initiatives and investments to promote two-way trade and investment:
 -   **U.S. International Development Finance Corporation (DFC)**
     announced $369 million in new investments across Africa across food
     security, renewable energy infrastructure, and [health
-    projects](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/),
+    projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/),
     including a $100 million transaction with Mirova SunFunder for the
     Mirova Gigaton Fund to support clean energy across the continent. 
 -   **The Export-Import Bank of the United States (EXIM)** currently has
@@ -101,7 +101,7 @@ initiatives and investments to promote two-way trade and investment:
     investments valued at more than $24 billion, in collaboration with
     Prosper Africa, announced the launch of the [Clean Tech Energy
     Network
-    (CTEN)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/). 
+    (CTEN)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/). 
     CTEN is a collaboration between the U.S. Government, U.S. clean tech
     energy companies, and African energy stakeholders that is expected
     to mobilize $350 million in deals.  In addition, Power Africa
@@ -148,7 +148,7 @@ initiatives and investments to promote two-way trade and investment:
     infrastructure and manufacturing, as well as digital solutions to
     drive an effective African Continental Free Trade Area (AfCFTA).
      USAID also launched its [Climate Action Infrastructure
-    Facility](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/)
+    Facility](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/)
     that aims to leverage $100 million in private investment toward
     financing climate solutions.
 -   **U.S. African Development Foundation (USADF)** announced three

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-18'
 modified_time: 2021-05-17 21:20:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-supercharges-the-future-of-transportation-and-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-supercharges-the-future-of-transportation-and-manufacturing/
 published_time: 2021-05-18 05:30:00-04:00
 title: "FACT SHEET: The American Jobs Plan Supercharges the Future of Transportation\
   \ and\_Manufacturing"
@@ -152,6 +152,6 @@ establish the U.S. as a leader in innovation and R&D. It will:
     to support innovation and productivity across the country.
 
 *To view this fact sheet in your browser,
-click [here](https://www.whitehouse.gov/wp-content/uploads/2021/05/AJP-Fact-Sheet-EVs-Manufacturing.pdf).*
+click [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/AJP-Fact-Sheet-EVs-Manufacturing.pdf).*
 
 \###

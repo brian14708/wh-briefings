@@ -2,7 +2,7 @@
 date: '2022-12-08'
 modified_time: 2022-12-09 08:51:15-05:00
 published_time: 2022-12-08 23:47:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/08/background-press-call-on-the-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/08/background-press-call-on-the-u-s-africa-leaders-summit/
 tags: press-briefings
 title: "Background Press Call on the U.S.-Africa Leaders\_Summit"
 ---

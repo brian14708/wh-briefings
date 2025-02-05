@@ -1,7 +1,7 @@
 ---
 date: '2024-10-15'
 published_time: 2024-10-15 16:53:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/15/letter-to-congressional-leadership-providing-an-update-on-developments-in-the-middle-east-and-the-u-s-governments-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/15/letter-to-congressional-leadership-providing-an-update-on-developments-in-the-middle-east-and-the-u-s-governments-response/
 tags: statements-releases
 title: "Letter to Congressional Leadership Providing an Update on Developments in\
   \ the Middle East and the U.S. Government\u2019s\_Response"

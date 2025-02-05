@@ -1,7 +1,7 @@
 ---
 date: '2023-04-06'
 published_time: 2023-04-06 21:29:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-on-investing-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-on-investing-in-america/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Investing in\_America"
 ---

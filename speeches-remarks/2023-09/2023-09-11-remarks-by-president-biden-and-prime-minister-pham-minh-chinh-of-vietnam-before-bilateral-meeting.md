@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 12:04:16-04:00
 published_time: 2023-09-11 12:04:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-and-prime-minister-pham-minh-chinh-of-vietnam-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-and-prime-minister-pham-minh-chinh-of-vietnam-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Ph\u1EA1m Minh Ch\xEDnh of\
   \ Vietnam Before Bilateral\_Meeting"

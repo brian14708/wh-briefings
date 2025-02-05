@@ -1,7 +1,7 @@
 ---
 date: '2022-03-28'
 published_time: 2022-03-28 18:27:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/28/remarks-by-president-biden-announcing-the-fiscal-year-2023-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/28/remarks-by-president-biden-announcing-the-fiscal-year-2023-budget/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Announcing the Fiscal Year 2023\_Budget"
 ---

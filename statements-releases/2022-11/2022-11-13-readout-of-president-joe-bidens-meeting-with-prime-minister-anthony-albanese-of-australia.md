@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-13 06:24:31-05:00
 published_time: 2022-11-13 06:24:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-meeting-with-prime-minister-anthony-albanese-of-australia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-meeting-with-prime-minister-anthony-albanese-of-australia/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Anthony\
   \ Albanese of\_Australia"

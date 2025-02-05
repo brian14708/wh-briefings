@@ -2,7 +2,7 @@
 date: '2024-07-26'
 modified_time: 2024-07-26 10:40:24-04:00
 published_time: 2024-07-26 10:40:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/statement-of-president-joe-biden-on-the-passing-of-ambassador-martin-s-indyk/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/statement-of-president-joe-biden-on-the-passing-of-ambassador-martin-s-indyk/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Passing of Ambassador Martin S.\_\
   Indyk"

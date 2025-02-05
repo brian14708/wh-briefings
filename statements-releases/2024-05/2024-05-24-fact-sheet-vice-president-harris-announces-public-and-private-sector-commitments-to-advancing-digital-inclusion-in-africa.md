@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-23 18:39:22-04:00
 published_time: 2024-05-24 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Public and Private Sector Commitments\
   \ to Advancing Digital Inclusion in\_Africa"
@@ -17,7 +17,7 @@ advance the extraordinary creativity, ingenuity, and dynamism on the
 continent.  
    
 As the Vice President said in her
-[speech](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/28/remarks-by-vice-president-harris-to-ghanaian-youth-at-black-star-gate/)
+[speech](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/28/remarks-by-vice-president-harris-to-ghanaian-youth-at-black-star-gate/)
 in Accra to nearly 8,000 Ghanaian youth, “African ideas and innovations
 will shape the future of the world…. And so we must invest in the
 African ingenuity and creativity, which will unlock incredible economic
@@ -30,9 +30,9 @@ innovation and entrepreneurship that is already underway.”
 As part of her trip, the Vice President worked with African partners to
 galvanize U.S., African, and global private sector investments for the
 continent, such as more than [$7
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/)
 in climate adaptation, resilience, and mitigation commitments and [$1
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/)
 in commitments to empower African women—advancing women’s economic
 security and closing the gender digital divide—including the
 announcement of the Women in the Digital Economy Fund (WiDEF).  
@@ -62,10 +62,10 @@ urban/rural, income, age, ethnicity, and ability.
 To that end, in Lusaka, the Vice President convened business and
 philanthropic leaders to promote digital inclusion across the continent.
 In this convening, the Vice President issued a [“Call to
-Action”](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-in-meeting-with-private-sector-and-philanthropic-leaders-on-digital-inclusion-in-africa/)
+Action”](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-in-meeting-with-private-sector-and-philanthropic-leaders-on-digital-inclusion-in-africa/)
 to business and philanthropic leaders to make direct investments and
 social impact commitments in support of the [Digital Transformation with
-Africa](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
+Africa](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
 (DTA) initiative. President Biden launched DTA at the U.S.-Africa
 Leaders Summit in December 2022, as part of the broader Partnership for
 Global Infrastructure and Investment, to expand digital access and

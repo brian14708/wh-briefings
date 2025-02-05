@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 08:11:58-04:00
 published_time: 2022-05-17 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-meeting-between-president-biden-and-prime-minister-andersson-of-sweden-and-president-niinisto-of-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-meeting-between-president-biden-and-prime-minister-andersson-of-sweden-and-president-niinisto-of-finland/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Meeting\
   \ Between President\_Biden and Prime Minister Andersson of Sweden and President\_\

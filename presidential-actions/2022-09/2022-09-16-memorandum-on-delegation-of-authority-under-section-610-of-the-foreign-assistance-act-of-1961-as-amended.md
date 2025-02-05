@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 18:43:52-04:00
 published_time: 2022-09-16 18:43:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/16/memorandum-on-delegation-of-authority-under-section-610-of-the-foreign-assistance-act-of-1961-as-amended/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/16/memorandum-on-delegation-of-authority-under-section-610-of-the-foreign-assistance-act-of-1961-as-amended/
 tags: presidential-actions
 title: "Memorandum on\_Delegation of Authority Under Section 610 of the\_Foreign Assistance\
   \ Act of 1961, as\_amended"

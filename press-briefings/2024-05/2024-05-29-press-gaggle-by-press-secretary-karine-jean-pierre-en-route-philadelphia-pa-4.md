@@ -2,7 +2,7 @@
 date: '2024-05-29'
 modified_time: 2024-05-29 19:56:51-04:00
 published_time: 2024-05-29 19:56:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/29/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/29/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa-4/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Philadelphia,\_\
   PA"

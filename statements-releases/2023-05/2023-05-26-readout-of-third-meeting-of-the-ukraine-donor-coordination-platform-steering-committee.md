@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 published_time: 2023-05-26 17:56:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/26/readout-of-third-meeting-of-the-ukraine-donor-coordination-platform-steering-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/26/readout-of-third-meeting-of-the-ukraine-donor-coordination-platform-steering-committee/
 tags: statements-releases
 title: "Readout of Third Meeting of the Ukraine Donor Coordination Platform Steering\_\
   Committee"

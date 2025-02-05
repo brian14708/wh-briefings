@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 19:46:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-by-president-joe-biden-on-the-united-states-commitment-to-open-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/statement-by-president-joe-biden-on-the-united-states-commitment-to-open-investment/
 published_time: 2021-06-08 19:46:53-04:00
 title: "Statement by President Joe\_Biden on the United\_States\u2019 Commitment to\
   \ Open\_Investment"

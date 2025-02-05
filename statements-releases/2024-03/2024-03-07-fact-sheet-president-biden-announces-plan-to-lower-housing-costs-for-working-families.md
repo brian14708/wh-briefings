@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-07 12:51:30-05:00
 published_time: 2024-03-07 12:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Plan to Lower Housing Costs for Working\_\
   Families"
@@ -68,7 +68,7 @@ Americans to purchase a home, including:
 The President isn’t waiting for Congress to lower costs for homebuyers
 and homeowners. Last year, the Department of Housing and Urban
 Development (HUD)
-[reduced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
+[reduced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
 the mortgage insurance premium for Federal Housing Administration (FHA)
 mortgages, saving an estimated 850,000 homebuyers and homeowners an
 estimated $800 per year. And today, the President is announcing new
@@ -113,7 +113,7 @@ homes](https://www.novoco.com/notes-from-novogradac/biden-harris-administrations
 which would close the housing supply gap and lower housing costs for
 renters and homeowners. This legislation would build on executive
 actions in the Biden-Harris Administration’s [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
 that contributed to record housing construction last year.
 
 -   **Tax Credits to Build More Housing.** President Biden is calling
@@ -153,7 +153,7 @@ that contributed to record housing construction last year.
 President Biden is also taking actions to lower costs and promote
 housing stability for renters. The White House [Blueprint for a Renters
 Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf)
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf)
 lays out the key principles of a fair rental market and has already
 catalyzed new federal actions to make those principles a reality. Today,
 President Biden is announcing new steps to crack down on unfair
@@ -188,10 +188,10 @@ practices that are driving up rental costs:
     rule that if finalized as proposed would ban misleading and hidden
     fees across the economy, including in housing rental agreements.
     Last month, HUD released
-    a [summary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/)
+    a [summary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/)
     of banned non-rent fees within their rental assistance programs.
     These actions build on voluntary
-    [commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+    [commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
     the President announced last summer from major rental housing
     platforms to provide customers with the total, upfront cost on
     rental properties on their platform.

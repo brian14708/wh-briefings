@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 19:22:43-04:00
 published_time: 2024-09-30 19:22:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-cybersecurity-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-cybersecurity-awareness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on Cybersecurity Awareness Month,\_2024"
 ---

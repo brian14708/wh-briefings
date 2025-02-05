@@ -1,7 +1,7 @@
 ---
 date: '2023-05-30'
 published_time: 2023-05-30 16:49:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/30/nominations-and-withdrawals-sent-to-the-senate-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/30/nominations-and-withdrawals-sent-to-the-senate-11/
 tags: presidential-actions
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---

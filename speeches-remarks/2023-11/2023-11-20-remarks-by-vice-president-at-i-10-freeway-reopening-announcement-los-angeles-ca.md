@@ -1,7 +1,7 @@
 ---
 date: '2023-11-20'
 published_time: 2023-11-20 10:11:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/20/remarks-by-vice-president-at-i-10-freeway-reopening-announcement-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/20/remarks-by-vice-president-at-i-10-freeway-reopening-announcement-los-angeles-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President at I-10 Freeway Reopening Announcement | Los Angeles,\_\
   CA"

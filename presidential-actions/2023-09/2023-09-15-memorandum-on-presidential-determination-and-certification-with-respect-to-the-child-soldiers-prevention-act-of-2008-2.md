@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 15:11:13-04:00
 published_time: 2023-09-15 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-2/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination and Certification with Respect to\
   \ the Child Soldiers Prevention Act of\_2008"

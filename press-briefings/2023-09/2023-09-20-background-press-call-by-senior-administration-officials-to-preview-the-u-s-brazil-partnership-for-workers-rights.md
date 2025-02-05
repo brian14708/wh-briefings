@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 11:43:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/20/background-press-call-by-senior-administration-officials-to-preview-the-u-s-brazil-partnership-for-workers-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/20/background-press-call-by-senior-administration-officials-to-preview-the-u-s-brazil-partnership-for-workers-rights/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview the U.S.-Brazil\
   \ Partnership for Workers\u2019\_Rights"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-04'
 published_time: 2023-02-04 00:39:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-with-the-crew-and-families-of-the-uss-gabrielle-giffords/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-with-the-crew-and-families-of-the-uss-gabrielle-giffords/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event with\
   \ the Crew and Families of the USS Gabrielle\_Giffords"

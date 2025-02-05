@@ -2,7 +2,7 @@
 date: '2023-12-21'
 modified_time: 2023-12-21 18:54:05-05:00
 published_time: 2023-12-21 17:56:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/21/readout-of-president-joe-bidens-call-with-president-andres-manuel-lopez-obrador-of-mexico-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/21/readout-of-president-joe-bidens-call-with-president-andres-manuel-lopez-obrador-of-mexico-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Andr\xE9s Manuel\
   \ L\xF3pez Obrador of\_Mexico"

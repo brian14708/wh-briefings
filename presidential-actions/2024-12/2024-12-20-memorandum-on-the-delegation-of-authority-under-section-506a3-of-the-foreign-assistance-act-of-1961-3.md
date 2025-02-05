@@ -2,7 +2,7 @@
 date: '2024-12-20'
 modified_time: 2024-12-20 18:39:10-05:00
 published_time: 2024-12-20 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/20/memorandum-on-the-delegation-of-authority-under-section-506a3-of-the-foreign-assistance-act-of-1961-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/20/memorandum-on-the-delegation-of-authority-under-section-506a3-of-the-foreign-assistance-act-of-1961-3/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under Section 506(a)(3) of the Foreign\
   \ Assistance Act of\_1961"

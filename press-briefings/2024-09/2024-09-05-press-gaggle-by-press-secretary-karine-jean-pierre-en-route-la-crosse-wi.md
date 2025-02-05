@@ -1,7 +1,7 @@
 ---
 date: '2024-09-05'
 published_time: 2024-09-05 18:41:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/05/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-la-crosse-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/05/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-la-crosse-wi/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route La Crosse,\_WI"
 ---

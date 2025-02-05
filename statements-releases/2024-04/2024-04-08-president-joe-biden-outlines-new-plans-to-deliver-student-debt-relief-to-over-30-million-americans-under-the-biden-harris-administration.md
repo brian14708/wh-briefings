@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-07 19:40:34-04:00
 published_time: 2024-04-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/
 tags: statements-releases
 title: "President Joe\_Biden Outlines New Plans to Deliver Student Debt Relief to\
   \ Over 30 Million Americans Under the Biden-\u2060Harris Administration"
@@ -29,7 +29,7 @@ President Biden from Day One has worked to fix the student loan system
 and make sure higher education is a ticket to the middle class – not a
 barrier to opportunity – because he knows that debt cancellation not
 only benefits borrowers, it
-[benefits](https://www.whitehouse.gov/cea/written-materials/2024/04/08/the-economics-of-administration-action-on-student-debt/)
+[benefits](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/04/08/the-economics-of-administration-action-on-student-debt/)
 the entire economy.  
 
 To date, the Biden-Harris Administration has approved $146 billion in

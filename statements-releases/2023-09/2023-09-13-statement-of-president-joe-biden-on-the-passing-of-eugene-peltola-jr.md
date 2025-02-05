@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-14 10:22:27-04:00
 published_time: 2023-09-13 21:05:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/statement-of-president-joe-biden-on-the-passing-of-eugene-peltola-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/statement-of-president-joe-biden-on-the-passing-of-eugene-peltola-jr/
 tags: statements-releases
 title: "Statement of President Joe\_Biden On the Passing of Eugene Peltola,\_Jr."
 ---

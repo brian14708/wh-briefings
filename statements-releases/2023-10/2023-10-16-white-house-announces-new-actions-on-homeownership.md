@@ -2,7 +2,7 @@
 date: '2023-10-16'
 modified_time: 2023-10-22 21:02:53-04:00
 published_time: 2023-10-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/white-house-announces-new-actions-on-homeownership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/white-house-announces-new-actions-on-homeownership/
 tags: statements-releases
 title: "White\_House Announces New Actions on Homeownership"
 ---
@@ -134,7 +134,7 @@ includes:
 
 The announcement builds on prior work across the Administration,
 including [a policy announced earlier this
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/) that
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/) that
 reduced the mortgage insurance fees for borrowers receiving FHA loans,
 saving them on average $800 per year on housing costs. HUD has also made
 it easier for first-time homebuyers to qualify for FHA-insured mortgage
@@ -149,7 +149,7 @@ driving first time homeownership. This policy can expand access to
 capital for first time homebuyers.  And this work builds on efforts by
 the Administration’s Interagency Task Force on Property Appraisal and
 Valuation Equity (PAVE), which is making [critical
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/23/fact-sheet-biden-harris-administration-tackles-racial-and-ethnic-bias-in-home-valuations/) toward
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/23/fact-sheet-biden-harris-administration-tackles-racial-and-ethnic-bias-in-home-valuations/) toward
 ensuring there is equity in the home appraisal process. The
 Administration is committed to affirmatively furthering fair housing in
 its work, because everyone should have fair housing choice and access to

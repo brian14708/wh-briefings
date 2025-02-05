@@ -2,7 +2,7 @@
 date: '2022-07-19'
 modified_time: 2022-07-19 08:57:24-04:00
 published_time: 2022-07-19 08:57:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/19/press-briefing-by-press-secretary-karine-jean-pierre-and-cea-member-jared-bernstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/19/press-briefing-by-press-secretary-karine-jean-pierre-and-cea-member-jared-bernstein/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and CEA Member Jared\_\
   Bernstein"

@@ -1,7 +1,7 @@
 ---
 date: '2024-12-24'
 published_time: 2024-12-24 15:03:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/24/press-release-bill-signed-hr-663/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/24/press-release-bill-signed-hr-663/
 tags: statements-releases
 title: "Press Release: Bill Signed: HR\_663"
 ---

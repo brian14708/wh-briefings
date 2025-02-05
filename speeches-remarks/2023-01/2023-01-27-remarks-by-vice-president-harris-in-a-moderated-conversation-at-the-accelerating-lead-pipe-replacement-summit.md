@@ -1,7 +1,7 @@
 ---
 date: '2023-01-27'
 published_time: 2023-01-27 18:01:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/27/remarks-by-vice-president-harris-in-a-moderated-conversation-at-the-accelerating-lead-pipe-replacement-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/27/remarks-by-vice-president-harris-in-a-moderated-conversation-at-the-accelerating-lead-pipe-replacement-summit/
 tags: speeches-remarks
 title: Remarks by Vice President Harris in a Moderated Conversation at the Accelerating
   Lead Pipe Replacement Summit

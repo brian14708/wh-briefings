@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-10 21:39:29-04:00
 published_time: 2024-04-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/11/background-press-call-previewing-the-bilateral-meeting-of-president-biden-and-president-marcos-of-the-philippines-and-the-trilateral-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/11/background-press-call-previewing-the-bilateral-meeting-of-president-biden-and-president-marcos-of-the-philippines-and-the-trilateral-leaders-summit/
 tags: press-briefings
 title: "Background Press Call Previewing the Bilateral Meeting of President\_Biden\
   \ and President Marcos of the Philippines and the Trilateral Leaders\u2019\_Summit"

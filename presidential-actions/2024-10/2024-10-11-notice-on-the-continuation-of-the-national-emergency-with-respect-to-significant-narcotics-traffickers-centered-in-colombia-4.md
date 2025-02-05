@@ -1,7 +1,7 @@
 ---
 date: '2024-10-11'
 published_time: 2024-10-11 13:09:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Significant\
   \ Narcotics Traffickers Centered in\_Colombia"

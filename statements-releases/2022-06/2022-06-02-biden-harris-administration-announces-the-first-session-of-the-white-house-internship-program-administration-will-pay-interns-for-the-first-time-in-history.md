@@ -2,7 +2,7 @@
 date: '2022-06-02'
 modified_time: 2022-06-02 14:54:27-04:00
 published_time: 2022-06-02 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/biden-harris-administration-announces-the-first-session-of-the-white-house-internship-program-administration-will-pay-interns-for-the-first-time-in-history/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/biden-harris-administration-announces-the-first-session-of-the-white-house-internship-program-administration-will-pay-interns-for-the-first-time-in-history/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the First Session of the White\_\
   House Internship Program, Administration Will Pay Interns for the First Time in\_\

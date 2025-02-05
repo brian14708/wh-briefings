@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 07:15:17-04:00
 published_time: 2023-09-09 07:15:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-india-brazil-and-south-africa-on-the-g20/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-india-brazil-and-south-africa-on-the-g20/
 tags: statements-releases
 title: "Joint Statement from the United\_States, India, Brazil, and South Africa on\
   \ the\_G20"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-22'
 published_time: 2023-12-22 09:12:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-with-respect-to-the-russian-federations-harmful-activities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/22/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-with-respect-to-the-russian-federations-harmful-activities/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on Taking\
   \ Additional Steps With Respect to the Russian Federation\u2019s Harmful\_Activities"

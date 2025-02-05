@@ -2,7 +2,7 @@
 date: '2024-12-07'
 modified_time: 2024-12-07 04:23:13-05:00
 published_time: 2024-12-07 04:23:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-doha-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-doha-forum/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2024 Doha\_\
   Forum"

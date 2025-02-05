@@ -2,7 +2,7 @@
 date: '2024-04-19'
 modified_time: 2024-04-22 11:48:34-04:00
 published_time: 2024-04-19 21:13:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/19/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-morongo-band-of-mission-indians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/19/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-morongo-band-of-mission-indians/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Morongo\
   \ Band of Mission\_Indians"

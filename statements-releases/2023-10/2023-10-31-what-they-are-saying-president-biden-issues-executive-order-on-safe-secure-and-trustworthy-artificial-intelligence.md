@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-11-03 10:20:51-04:00
 published_time: 2023-10-31 10:12:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/what-they-are-saying-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/what-they-are-saying-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Issues Executive Order on Safe, Secure,\
   \ and Trustworthy Artificial\_Intelligence"

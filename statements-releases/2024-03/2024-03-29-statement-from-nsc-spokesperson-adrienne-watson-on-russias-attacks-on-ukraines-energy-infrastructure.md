@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-03-29 17:30:16-04:00
 published_time: 2024-03-29 17:30:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/statement-from-nsc-spokesperson-adrienne-watson-on-russias-attacks-on-ukraines-energy-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/statement-from-nsc-spokesperson-adrienne-watson-on-russias-attacks-on-ukraines-energy-infrastructure/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Russia\u2019s Attacks on\
   \ Ukraine\u2019s Energy Infrastructure"

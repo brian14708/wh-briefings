@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-18 07:20:35-05:00
 published_time: 2023-01-17 22:52:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/readout-of-national-security-advisor-jake-sullivan-call-with-national-security-advisor-eduardo-m-ano-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/readout-of-national-security-advisor-jake-sullivan-call-with-national-security-advisor-eduardo-m-ano-of-the-philippines/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan Call with National Security\
   \ Advisor Eduardo M. A\xF1o of the\_Philippines"

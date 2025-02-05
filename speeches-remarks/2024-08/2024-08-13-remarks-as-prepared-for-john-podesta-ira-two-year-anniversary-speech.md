@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 13:59:20-04:00
 published_time: 2024-08-13 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/13/remarks-as-prepared-for-john-podesta-ira-two-year-anniversary-speech/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/13/remarks-as-prepared-for-john-podesta-ira-two-year-anniversary-speech/
 tags: speeches-remarks
 title: "Remarks as Prepared for John Podesta at Third Way on Inflation Reduction Act\u2019\
   s Two-Year\_Anniversary"

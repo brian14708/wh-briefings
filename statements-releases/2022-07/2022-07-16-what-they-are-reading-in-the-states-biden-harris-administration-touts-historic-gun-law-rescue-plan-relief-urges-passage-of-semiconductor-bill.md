@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 11:23:01-04:00
 published_time: 2022-07-16 11:23:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/what-they-are-reading-in-the-states-biden-harris-administration-touts-historic-gun-law-rescue-plan-relief-urges-passage-of-semiconductor-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/what-they-are-reading-in-the-states-biden-harris-administration-touts-historic-gun-law-rescue-plan-relief-urges-passage-of-semiconductor-bill/
 tags: statements-releases
 title: "What They Are Reading in the States: Biden-\u2060Harris Administration Touts\
   \ Historic Gun Law & Rescue Plan Relief; Urges Passage of Semiconductor\_Bill"

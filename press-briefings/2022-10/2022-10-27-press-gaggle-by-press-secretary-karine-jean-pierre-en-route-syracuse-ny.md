@@ -1,7 +1,7 @@
 ---
 date: '2022-10-27'
 published_time: 2022-10-27 17:38:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/27/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-syracuse-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/27/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-syracuse-ny/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Syracuse,\_NY"
 ---

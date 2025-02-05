@@ -1,7 +1,7 @@
 ---
 date: '2024-04-24'
 published_time: 2024-04-24 13:26:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/24/remarks-by-president-biden-on-the-passage-of-h-r-815-the-national-security-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/24/remarks-by-president-biden-on-the-passage-of-h-r-815-the-national-security-supplemental/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Passage of H.R. 815, the National Security\_\
   Supplemental"

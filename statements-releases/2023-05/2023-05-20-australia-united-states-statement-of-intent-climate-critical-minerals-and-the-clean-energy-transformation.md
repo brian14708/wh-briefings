@@ -2,7 +2,7 @@
 date: '2023-05-20'
 modified_time: 2023-05-20 03:47:16-04:00
 published_time: 2023-05-20 02:32:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-statement-of-intent-climate-critical-minerals-and-the-clean-energy-transformation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-statement-of-intent-climate-critical-minerals-and-the-clean-energy-transformation/
 tags: statements-releases
 title: "United\_States \u2013 Australia Statement of Intent: Climate, Critical Minerals,\
   \ and the Clean Energy\_Transformation"

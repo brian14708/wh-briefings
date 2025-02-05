@@ -2,7 +2,7 @@
 date: '2024-09-22'
 modified_time: 2024-09-21 13:46:56-04:00
 published_time: 2024-09-22 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/22/statement-from-vice-president-harris-on-the-anniversary-of-the-white-house-office-of-gun-violence-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/22/statement-from-vice-president-harris-on-the-anniversary-of-the-white-house-office-of-gun-violence-prevention/
 tags: statements-releases
 title: "Statement from Vice President Harris on the Anniversary of the White\_House\
   \ Office of Gun Violence\_Prevention"

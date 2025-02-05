@@ -1,7 +1,7 @@
 ---
 date: '2023-05-03'
 published_time: 2023-05-03 14:35:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/03/readout-of-white-house-listening-session-on-islamophobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/03/readout-of-white-house-listening-session-on-islamophobia/
 tags: statements-releases
 title: "Readout of White\_House Listening Session on\_Islamophobia"
 ---

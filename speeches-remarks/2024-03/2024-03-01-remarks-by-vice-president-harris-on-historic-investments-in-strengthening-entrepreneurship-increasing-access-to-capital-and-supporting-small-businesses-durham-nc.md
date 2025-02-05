@@ -2,7 +2,7 @@
 date: '2024-03-01'
 modified_time: 2024-03-01 14:00:58-05:00
 published_time: 2024-03-01 14:00:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-vice-president-harris-on-historic-investments-in-strengthening-entrepreneurship-increasing-access-to-capital-and-supporting-small-businesses-durham-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-vice-president-harris-on-historic-investments-in-strengthening-entrepreneurship-increasing-access-to-capital-and-supporting-small-businesses-durham-nc/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Historic Investments in Strengthening\
   \ Entrepreneurship, Increasing Access to Capital, and Supporting Small Businesses\

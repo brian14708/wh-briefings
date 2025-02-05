@@ -1,7 +1,7 @@
 ---
 date: '2022-10-31'
 published_time: 2022-10-31 15:43:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/31/background-press-call-by-a-senior-administration-official-previewing-the-second-international-counter-ransomware-initiative-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/31/background-press-call-by-a-senior-administration-official-previewing-the-second-international-counter-ransomware-initiative-summit/
 tags: speeches-remarks
 title: "Background Press Call by a Senior Administration Official Previewing the Second\
   \ International Counter Ransomware Initiative\_Summit"

@@ -2,7 +2,7 @@
 date: '2023-03-21'
 modified_time: 2023-03-21 19:01:09-04:00
 published_time: 2023-03-21 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/21/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-on-the-economic-case-for-junk-fees-policies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/21/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-on-the-economic-case-for-junk-fees-policies/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by NEC Director Lael Brainard on the Economic\
   \ Case for Junk Fees\_Policies"

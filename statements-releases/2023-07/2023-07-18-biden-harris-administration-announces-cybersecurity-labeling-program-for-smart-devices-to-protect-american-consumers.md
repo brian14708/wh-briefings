@@ -2,7 +2,7 @@
 date: '2023-07-18'
 modified_time: 2023-07-18 14:50:13-04:00
 published_time: 2023-07-18 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Cybersecurity Labeling Program\
   \ for Smart Devices to Protect American\_Consumers"

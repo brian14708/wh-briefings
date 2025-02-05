@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 16:44:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/joint-leaders-statement-to-mark-one-year-of-aukus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/joint-leaders-statement-to-mark-one-year-of-aukus/
 tags: statements-releases
 title: "Joint Leaders Statement to Mark One Year of\_AUKUS"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-14 12:25:48-04:00
 published_time: 2023-03-13 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-at-a-democratic-national-committee-reception-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-at-a-democratic-national-committee-reception-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee\_Reception"
 ---

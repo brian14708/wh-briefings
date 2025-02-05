@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-12 17:49:12-04:00
 published_time: 2023-09-11 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-to-service-members-first-responders-and-their-families-on-the-anniversary-of-9-11-anchorage-ak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-to-service-members-first-responders-and-their-families-on-the-anniversary-of-9-11-anchorage-ak/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to Service Members, First Responders, and Their\
   \ Families on the Anniversary of 9/11 | Anchorage,\_AK"

@@ -2,7 +2,7 @@
 date: '2024-04-30'
 modified_time: 2024-04-30 15:48:53-04:00
 published_time: 2024-04-30 15:48:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/a-proclamation-on-national-physical-fitness-and-sports-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/30/a-proclamation-on-national-physical-fitness-and-sports-month-2024/
 tags: statements-releases
 title: "A Proclamation on National Physical Fitness and Sports Month,\_2024"
 ---

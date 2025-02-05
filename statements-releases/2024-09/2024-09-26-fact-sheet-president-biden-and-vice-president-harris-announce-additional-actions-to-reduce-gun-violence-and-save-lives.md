@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-25 22:04:39-04:00
 published_time: 2024-09-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-president-biden-and-vice-president-harris-announce-additional-actions-to-reduce-gun-violence-and-save-lives/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-president-biden-and-vice-president-harris-announce-additional-actions-to-reduce-gun-violence-and-save-lives/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Vice President Harris Announce Additional\
   \ Actions to Reduce Gun Violence and Save\_Lives"
@@ -50,7 +50,7 @@ meaningful actions to reduce gun violence and save lives. This
 announcement builds on the numerous additional life-saving actions the
 Biden-Harris Administration has taken, as detailed in the Office’s [Year
 One Progress
-Report](https://www.whitehouse.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf).
+Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf).
 
 **<u>President Biden is signing an Executive Order to accelerate
 progress on two key priorities: combating emerging firearms threats and
@@ -150,7 +150,7 @@ are taking the following actions:**
     schools, school boards, and policymakers with a new tool to promote
     safe gun storage in their communities. Following up on its [initial
     safe storage
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/),
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/),
     the Department of Education is publishing an [interactive
     website](https://safesupportivelearning.ed.gov/safe-firearm-storage)
     that highlights examples of state, community, and school district
@@ -204,7 +204,7 @@ are taking the following actions:**
     Administration has secured for CVIPI. CVIPI is only one part of how
     the Administration funds community violence interventions. This
     [fact
-    sheet](https://www.whitehouse.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf)
+    sheet](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf)
     lists the full range of federal resources available to address
     community violence.
 -   <span style="text-decoration: underline">Clarifying Medicaid
@@ -229,7 +229,7 @@ are taking the following actions:**
     laws that prevent state officials from fully responding to enhanced
     background check inquiries. The Biden-Harris Administration’s [Safer
     States
-    Agenda](https://www.whitehouse.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf)
+    Agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf)
     made fixing this issue a top priority for states, and Connecticut,
     Vermont, Nevada, Texas, and Kentucky have all recently made
     necessary changes. Today, the Department of Justice is issuing model

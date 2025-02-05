@@ -2,7 +2,7 @@
 date: '2024-07-16'
 modified_time: 2024-07-16 09:53:11-04:00
 published_time: 2024-07-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/16/fact-sheet-president-biden-announces-major-new-actions-to-lower-housing-costs-by-limiting-rent-increases-and-building-more-homes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/16/fact-sheet-president-biden-announces-major-new-actions-to-lower-housing-costs-by-limiting-rent-increases-and-building-more-homes/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Major New Actions to Lower Housing\
   \ Costs by Limiting Rent Increases and Building More\_Homes"
@@ -25,7 +25,7 @@ to lower housing costs, including:
 
 The President called on Congress to make the American Dream a reality
 for more families by passing the [Biden-Harris Housing
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/),
 which would build 2 million homes, and provide $10,000 in mortgage
 relief to unlock homeownership for millions of Americans. Already, more
 units are under construction than at any time in over 50 years, and the
@@ -35,7 +35,7 @@ Administration.
 The Biden-Harris Administration is using all available tools to lower
 housing costs, including limiting rent increases on rentals built with
 federal tax
-credits; [supporting](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/) local
+credits; [supporting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/) local
 communities that are building more housing; standing up to price-fixing
 by corporate landlords setting high rents for [tens of millions of
 apartments](https://www.ftc.gov/business-guidance/blog/2024/03/price-fixing-algorithm-still-price-fixing);

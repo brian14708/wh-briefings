@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 21:54:25-05:00
 published_time: 2022-11-18 21:54:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/statement-by-vice-president-kamala-harris-on-speaker-nancy-pelosi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/statement-by-vice-president-kamala-harris-on-speaker-nancy-pelosi/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Speaker Nancy\_Pelosi"
 ---

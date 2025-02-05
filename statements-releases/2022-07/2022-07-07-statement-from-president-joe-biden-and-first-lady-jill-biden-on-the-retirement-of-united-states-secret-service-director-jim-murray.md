@@ -2,7 +2,7 @@
 date: '2022-07-07'
 modified_time: 2022-07-07 15:23:31-04:00
 published_time: 2022-07-07 15:23:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/07/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-retirement-of-united-states-secret-service-director-jim-murray/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/07/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-retirement-of-united-states-secret-service-director-jim-murray/
 tags: statements-releases
 title: "Statement from President Joe\_Biden and First Lady Jill\_Biden on the Retirement\
   \ of United\_States Secret Service Director Jim\_Murray"

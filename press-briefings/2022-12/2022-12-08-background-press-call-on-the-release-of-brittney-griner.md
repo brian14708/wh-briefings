@@ -2,7 +2,7 @@
 date: '2022-12-08'
 modified_time: 2022-12-08 13:48:23-05:00
 published_time: 2022-12-08 13:48:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/08/background-press-call-on-the-release-of-brittney-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/08/background-press-call-on-the-release-of-brittney-griner/
 tags: press-briefings
 title: "Background Press Call on the Release of Brittney\_Griner"
 ---

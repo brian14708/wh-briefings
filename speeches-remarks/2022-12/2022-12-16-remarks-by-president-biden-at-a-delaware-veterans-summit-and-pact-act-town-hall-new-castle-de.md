@@ -1,7 +1,7 @@
 ---
 date: '2022-12-16'
 published_time: 2022-12-16 23:08:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/16/remarks-by-president-biden-at-a-delaware-veterans-summit-and-pact-act-town-hall-new-castle-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/16/remarks-by-president-biden-at-a-delaware-veterans-summit-and-pact-act-town-hall-new-castle-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Delaware Veterans Summit and PACT Act Town\
   \ Hall | New Castle,\_DE"

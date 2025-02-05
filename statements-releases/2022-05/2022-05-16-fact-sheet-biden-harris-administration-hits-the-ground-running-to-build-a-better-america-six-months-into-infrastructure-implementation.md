@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-15 20:48:55-04:00
 published_time: 2022-05-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-biden-harris-administration-hits-the-ground-running-to-build-a-better-america-six-months-into-infrastructure-implementation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-biden-harris-administration-hits-the-ground-running-to-build-a-better-america-six-months-into-infrastructure-implementation/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hits the Ground Running to Build\
   \ a Better America Six Months into Infrastructure\_Implementation"
@@ -31,7 +31,7 @@ Since signing the law:
     high-speed internet. This includes funding for [over **4,300
     specific projects**, touching over **3,200 communities** across
     all **50 states**, D.C., and Puerto
-    Rico](https://www.whitehouse.gov/build/six-month-anniversary/).  
+    Rico](https://bidenwhitehouse.archives.gov/build/six-month-anniversary/).  
 
 <!-- -->
 
@@ -65,7 +65,7 @@ availability have been released. The Administration has also unveiled
 new offices and action plans that will ensure these investments are
 implemented wisely and well. To showcase the state announced allocations
 and projects, please
-visit [here](https://www.whitehouse.gov/build/six-month-anniversary/).
+visit [here](https://bidenwhitehouse.archives.gov/build/six-month-anniversary/).
 
 And, in line with the President’s Justice40 commitment, the
 Administration is ensuring that 40% of the benefits of the climate and
@@ -81,7 +81,7 @@ expanding high-speed internet. 
 **<u>ENSURING ACCOUNTABILITY </u>**
 
 In April, the Office of Management and Budget (OMB)
-released [guidance](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/fact-sheet-biden-harris-administration-prioritizes-effectiveness-accountability-and-transparency-in-bipartisan-infrastructure-law-implementation/) to
+released [guidance](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/fact-sheet-biden-harris-administration-prioritizes-effectiveness-accountability-and-transparency-in-bipartisan-infrastructure-law-implementation/) to
 federal agencies to set a strong foundation for effective, efficient,
 and equitable implementation of the Bipartisan Infrastructure Law. As
 the President said in his State of the Union, “in my administration, the
@@ -114,7 +114,7 @@ to ensure robust oversight of federal programs.
 To make the most of these historic investments and ensure infrastructure
 projects are delivered on time and on budget, the Biden-Harris
 Administration also released a new [Permitting Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/) to
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/) to
 strengthen and accelerate federal permitting and environmental reviews
 by fully leveraging existing permitting authorities, as well as new
 provisions in the Bipartisan Infrastructure Law. The Action Plan
@@ -174,12 +174,12 @@ provides states, territories, Tribes, local governments community
 members and other key partners with information on funding
 opportunities, who to contact, and how to get ready to rebuild. In
 February, the White House launched an [“Infrastructure School” webinar
-series](https://www.whitehouse.gov/build/briefing-room/2022/05/04/infrastructure-school-webinars/) to
+series](https://bidenwhitehouse.archives.gov/build/briefing-room/2022/05/04/infrastructure-school-webinars/) to
 go more in depth into each of the guidebook’s 13 chapters and allow
 communities the opportunity to ask questions to the agency experts,
 overseeing implementation of key programs. The Administration has also
 released a [fact
-sheet](https://www.whitehouse.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf) on
+sheet](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf) on
 some of the largest sources of competitive funding, particularly for
 local governments. Infrastructure Coordinator Landrieu has shared these
 resources during meetings with the National Governors Association, U.S.
@@ -265,7 +265,7 @@ LAW </u>**
     Pittsburgh, Seattle, and Memphis. Notably, this includes first time
     funding commitments for the Gateway Program and Second Avenue
     Subway. USDOT announced nearly [$1.5
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/) in
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/) in
     funding to help state and local governments purchase low and no
     emission transit buses and upgrade bus facilities.  
 -   **Airports:** The Federal Aviation Administration (FAA) at USDOT
@@ -288,7 +288,7 @@ LAW </u>**
     program.  
 -   **Ports & Waterways:** The U.S. Army Corps of Engineers (USACE)
     announced [ $17
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/) to
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/) to
     strengthen supply chains, improve waterways, and bolster climate
     resilience in fiscal year 2022 for over 500 projects across 52
     states and territories using Bipartisan Infrastructure Law funds and
@@ -314,7 +314,7 @@ LAW </u>**
 
 -   **EV Charging Infrastructure:** Vice President Harris announced
     an [EV Charging Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
     achieve the President’s goal of building a national network of
     500,000 electric vehicle chargers. USDOT and DOE also formed
     a [Joint Office of Energy &
@@ -347,7 +347,7 @@ LAW </u>**
 
 -   **Lead Pipe and Paint Action Plan:** Vice President Harris announced
     a [Lead Pipe and Paint Action
-    Plan ](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)to  accelerate
+    Plan ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)to  accelerate
     Bipartisan Infrastructure Law investments to replace all of the
     nation’s lead pipes in the next decade and expand access to clean
     drinking water.
@@ -406,7 +406,7 @@ LAW </u>**
     Infrastructure Law, and the Wildlife Restoration Program.    
 -   **Ecosystem Restoration**: The Department of the Interior, USDA, and
     DOD jointly [announced a $1 billion America the Beautiful
-    Challenge](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
+    Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
     will combine Federal funding with private and philanthropic
     contributions for conservation and restoration. The America the
     Beautiful Challenge is anchored by an initial commitment of $440

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-26 12:56:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/readout-of-white-house-roundtable-with-transgender-women-of-color-advocates/
 published_time: 2021-07-23 17:40:15-04:00
 title: "Readout of White\_House Roundtable with Transgender Women of Color\_Advocates"
 ---
@@ -13,7 +13,7 @@ with transgender women of color advocates from around the country. This
 event was the first in a series of listening sessions that will be
 convened by the White House-led Interagency Working Group on Safety,
 Inclusion, and Opportunity for Transgender Individuals, which was
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/)
 by the White House in June.
 
 Participants discussed the epidemic levels of violence and harassment

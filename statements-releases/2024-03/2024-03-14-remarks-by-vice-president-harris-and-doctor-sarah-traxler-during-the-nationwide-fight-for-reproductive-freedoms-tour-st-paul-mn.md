@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 18:11:57-04:00
 published_time: 2024-03-14 18:11:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/remarks-by-vice-president-harris-and-doctor-sarah-traxler-during-the-nationwide-fight-for-reproductive-freedoms-tour-st-paul-mn/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/remarks-by-vice-president-harris-and-doctor-sarah-traxler-during-the-nationwide-fight-for-reproductive-freedoms-tour-st-paul-mn/
 tags: statements-releases
 title: "Remarks by Vice President Harris and Doctor Sarah Traxler During the Nationwide\
   \ \u201CFight for Reproductive Freedoms\u201D Tour | St. Paul,\_MN"

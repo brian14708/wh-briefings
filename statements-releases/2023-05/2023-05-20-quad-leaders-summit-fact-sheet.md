@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 09:51:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-summit-fact-sheet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-summit-fact-sheet/
 tags: statements-releases
 title: "Quad Leaders\u2019 Summit Fact\_Sheet"
 ---

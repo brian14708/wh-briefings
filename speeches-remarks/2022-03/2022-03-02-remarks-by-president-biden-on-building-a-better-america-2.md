@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2022-03-02'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-president-biden-on-building-a-better-america-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/02/remarks-by-president-biden-on-building-a-better-america-2/
 published_time: 2022-03-02 19:53:20-05:00
 title: "Remarks By President\_Biden On Building A Better\_America"
 ---

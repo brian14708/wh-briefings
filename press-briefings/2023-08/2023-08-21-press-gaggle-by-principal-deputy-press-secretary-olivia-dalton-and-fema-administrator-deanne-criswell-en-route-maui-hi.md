@@ -2,7 +2,7 @@
 date: '2023-08-21'
 modified_time: 2023-08-21 23:25:48-04:00
 published_time: 2023-08-21 23:25:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/21/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-fema-administrator-deanne-criswell-en-route-maui-hi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/21/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-fema-administrator-deanne-criswell-en-route-maui-hi/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and FEMA Administrator\
   \ Deanne Criswell En Route Maui,\_HI"

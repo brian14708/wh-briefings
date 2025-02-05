@@ -2,7 +2,7 @@
 date: '2024-10-04'
 modified_time: 2024-10-04 20:17:15-04:00
 published_time: 2024-10-04 20:17:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/04/president-joseph-r-biden-jr-amends-south-carolina-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/04/president-joseph-r-biden-jr-amends-south-carolina-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends South Carolina Disaster\_Declaration"
 ---

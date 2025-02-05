@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 06:25:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit/
 tags: statements-releases
 title: "FACT SHEET: Partnership for Global Infrastructure and Investment at the G7\_\
   Summit"

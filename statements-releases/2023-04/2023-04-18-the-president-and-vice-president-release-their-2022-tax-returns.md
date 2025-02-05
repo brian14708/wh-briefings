@@ -1,7 +1,7 @@
 ---
 date: '2023-04-18'
 published_time: 2023-04-18 19:05:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/the-president-and-vice-president-release-their-2022-tax-returns/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/the-president-and-vice-president-release-their-2022-tax-returns/
 tags: statements-releases
 title: "The President and Vice President release their 2022 tax\_returns"
 ---
@@ -33,7 +33,7 @@ her Virginia income tax return as well, and reported paying $3,139 in
 Virginia income tax.  
    
 View the President and First Lady’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2023/04/POTUS-2022-Tax-Returns-Final-Signed-Redacted.pdf).  
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/POTUS-2022-Tax-Returns-Final-Signed-Redacted.pdf).  
    
 The Vice President and the Second Gentleman also released their 2022
 federal income tax return, as well as state income tax returns for
@@ -48,6 +48,6 @@ $9,697 in District of Columbia income tax. They contributed $23,000 to
 charity in 2022.  
    
 View the Vice President and Second Gentleman’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2023/04/VPOTUS-2022-Tax-Returns-Final-Signed-Redacted.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/VPOTUS-2022-Tax-Returns-Final-Signed-Redacted.pdf).
 
 \###

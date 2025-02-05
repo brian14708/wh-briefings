@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 19:56:06-04:00
 published_time: 2024-09-20 19:56:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/20/readout-of-president-bidens-meeting-with-prime-minister-albanese-of-australia-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/20/readout-of-president-bidens-meeting-with-prime-minister-albanese-of-australia-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Albanese of\_\
   Australia"

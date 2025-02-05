@@ -1,7 +1,7 @@
 ---
 date: '2024-05-21'
 published_time: 2024-05-21 14:35:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-merrimack-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/21/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-merrimack-nh/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Merrimack,\_NH"
 ---

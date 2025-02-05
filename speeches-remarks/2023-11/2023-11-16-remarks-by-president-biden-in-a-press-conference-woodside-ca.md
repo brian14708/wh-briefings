@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 01:02:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-in-a-press-conference-woodside-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-in-a-press-conference-woodside-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Press Conference | Woodside,\_CA"
 ---

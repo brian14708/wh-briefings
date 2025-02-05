@@ -1,7 +1,7 @@
 ---
 date: '2023-05-17'
 published_time: 2023-05-17 23:41:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-investing-in-america-event-in-alaska/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-investing-in-america-event-in-alaska/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Investing\
   \ in America Event in\_Alaska"

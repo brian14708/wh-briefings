@@ -2,7 +2,7 @@
 date: '2024-01-18'
 modified_time: 2024-01-19 14:32:27-05:00
 published_time: 2024-01-18 17:24:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/18/remarks-by-vice-president-harris-during-a-moderated-conversation-at-the-u-s-conference-of-mayors-92nd-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/18/remarks-by-vice-president-harris-during-a-moderated-conversation-at-the-u-s-conference-of-mayors-92nd-winter-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During a Moderated Conversation at the U.S.\
   \ Conference of Mayors 92nd Winter\_Meeting"

@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-27 11:12:30-04:00
 published_time: 2023-09-27 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-president-biden-takes-action-to-restore-healthy-and-abundant-wild-salmon-and-steelhead-in-the-columbia-river-basin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-president-biden-takes-action-to-restore-healthy-and-abundant-wild-salmon-and-steelhead-in-the-columbia-river-basin/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Action to Restore Healthy and Abundant\
   \ Wild Salmon and Steelhead in the Columbia River\_Basin"
@@ -64,10 +64,10 @@ meeting the many resilience needs of the region.
 
 The Presidential Memorandum builds on the Biden-Harris Administration’s
 [commitment to identify a strong and lasting path
-forward](https://www.whitehouse.gov/ceq/news-updates/2022/03/28/columbia-river-basin-fisheries-working-together-to-develop-a-path-forward/)
+forward](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/03/28/columbia-river-basin-fisheries-working-together-to-develop-a-path-forward/)
 to restore healthy and abundant wild salmon and other native fish to the
 Columbia River Basin, President Biden’s [call to
-action](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/21/remarks-by-president-biden-at-the-white-house-conservation-in-action-summit/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/21/remarks-by-president-biden-at-the-white-house-conservation-in-action-summit/)
 earlier this year, and a [historic
 agreement](https://doi.gov/pressreleases/biden-harris-administration-tribes-reach-historic-agreement-supporting-efforts-restore)
 announced last week to support Tribally led efforts to restore salmon in

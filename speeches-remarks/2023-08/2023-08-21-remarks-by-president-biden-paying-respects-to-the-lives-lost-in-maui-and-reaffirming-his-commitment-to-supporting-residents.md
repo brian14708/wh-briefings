@@ -2,7 +2,7 @@
 date: '2023-08-21'
 modified_time: 2023-08-21 21:52:58-04:00
 published_time: 2023-08-21 21:52:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/21/remarks-by-president-biden-paying-respects-to-the-lives-lost-in-maui-and-reaffirming-his-commitment-to-supporting-residents/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/21/remarks-by-president-biden-paying-respects-to-the-lives-lost-in-maui-and-reaffirming-his-commitment-to-supporting-residents/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Paying Respects to the Lives Lost in Maui and\
   \ Reaffirming His Commitment to Supporting\_Residents"

@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-15 18:21:29-04:00
 published_time: 2024-08-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Designates Springfield 1908 Race Riot National\_\
   Monument"

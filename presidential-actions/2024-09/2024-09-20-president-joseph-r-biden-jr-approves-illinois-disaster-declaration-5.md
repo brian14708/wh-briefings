@@ -1,7 +1,7 @@
 ---
 date: '2024-09-20'
 published_time: 2024-09-20 15:38:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-illinois-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-illinois-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Illinois Disaster\_Declaration"
 ---

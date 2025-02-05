@@ -2,7 +2,7 @@
 date: '2023-11-19'
 modified_time: 2023-11-20 09:53:16-05:00
 published_time: 2023-11-19 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/19/remarks-by-president-biden-before-air-force-one-departure-norfolk-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/19/remarks-by-president-biden-before-air-force-one-departure-norfolk-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Norfolk,\_VA"
 ---

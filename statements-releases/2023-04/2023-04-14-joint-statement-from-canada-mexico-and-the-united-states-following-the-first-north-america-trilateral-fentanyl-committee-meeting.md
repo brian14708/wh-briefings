@@ -1,7 +1,7 @@
 ---
 date: '2023-04-14'
 published_time: 2023-04-14 15:54:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/joint-statement-from-canada-mexico-and-the-united-states-following-the-first-north-america-trilateral-fentanyl-committee-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/joint-statement-from-canada-mexico-and-the-united-states-following-the-first-north-america-trilateral-fentanyl-committee-meeting/
 tags: statements-releases
 title: "Joint Statement from Canada, Mexico and the United\_States following the First\
   \ North America Trilateral Fentanyl Committee\_Meeting"

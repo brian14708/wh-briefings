@@ -1,7 +1,7 @@
 ---
 date: '2024-03-20'
 published_time: 2024-03-20 17:49:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-apnsa-jake-sullivan-and-head-of-the-office-of-the-president-of-ukraine-andriy-yermak-in-press-conference-kyiv-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-apnsa-jake-sullivan-and-head-of-the-office-of-the-president-of-ukraine-andriy-yermak-in-press-conference-kyiv-ukraine/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan and Head of the Office of the President of\
   \ Ukraine Andriy Yermak in Press Conference | Kyiv,\_Ukraine"

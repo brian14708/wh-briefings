@@ -1,7 +1,7 @@
 ---
 date: '2022-08-26'
 published_time: 2022-08-26 20:32:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/26/a-proclamation-on-overdose-awareness-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/26/a-proclamation-on-overdose-awareness-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Overdose Awareness Week,\_2022"
 ---

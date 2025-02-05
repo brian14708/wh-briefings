@@ -2,7 +2,7 @@
 date: '2023-10-21'
 modified_time: 2023-10-24 13:26:14-04:00
 published_time: 2023-10-21 12:11:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/21/readout-of-white-house-meeting-on-mental-health-in-the-entertainment-industry/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/21/readout-of-white-house-meeting-on-mental-health-in-the-entertainment-industry/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Mental Health in the Entertainment\_Industry"
 ---
@@ -13,7 +13,7 @@ entertainment industry to discuss the inclusion of accurate mental
 health storylines into film and series content. This roundtable is part
 of the Biden-Harris Administration’s ongoing commitment to [address the
 nationwide mental health
-crisis](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/)
+crisis](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/)
 as part of President Biden’s Unity Agenda.  
   
 Administration officials and entertainment leaders discussed recent

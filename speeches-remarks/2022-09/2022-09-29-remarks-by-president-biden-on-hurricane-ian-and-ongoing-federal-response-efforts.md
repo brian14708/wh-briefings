@@ -2,7 +2,7 @@
 date: '2022-09-29'
 modified_time: 2022-10-06 15:14:30-04:00
 published_time: 2022-09-29 17:11:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-president-biden-on-hurricane-ian-and-ongoing-federal-response-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-president-biden-on-hurricane-ian-and-ongoing-federal-response-efforts/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Hurricane Ian and Ongoing Federal Response\_\
   Efforts"

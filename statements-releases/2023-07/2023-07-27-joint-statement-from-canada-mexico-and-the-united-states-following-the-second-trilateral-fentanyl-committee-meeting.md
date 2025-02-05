@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 12:47:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/joint-statement-from-canada-mexico-and-the-united-states-following-the-second-trilateral-fentanyl-committee-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/joint-statement-from-canada-mexico-and-the-united-states-following-the-second-trilateral-fentanyl-committee-meeting/
 tags: statements-releases
 title: "Joint Statement from Canada, Mexico, and the United\_States Following the\
   \ Second Trilateral Fentanyl Committee\_Meeting"

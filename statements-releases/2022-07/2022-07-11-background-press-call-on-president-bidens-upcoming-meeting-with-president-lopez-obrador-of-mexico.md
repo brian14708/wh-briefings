@@ -2,7 +2,7 @@
 date: '2022-07-11'
 modified_time: 2022-07-12 09:55:58-04:00
 published_time: 2022-07-11 21:55:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/background-press-call-on-president-bidens-upcoming-meeting-with-president-lopez-obrador-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/background-press-call-on-president-bidens-upcoming-meeting-with-president-lopez-obrador-of-mexico/
 tags: statements-releases
 title: "Background Press Call on President\_Biden\u2019s Upcoming Meeting with President\
   \ L\xF3pez Obrador of\_Mexico"

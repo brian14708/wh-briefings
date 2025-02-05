@@ -2,7 +2,7 @@
 date: '2023-12-08'
 modified_time: 2023-12-08 20:15:28-05:00
 published_time: 2023-12-08 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Billions to Deliver World-Class High-Speed\
   \ Rail and Launch New Passenger Rail Corridors Across the\_Country"

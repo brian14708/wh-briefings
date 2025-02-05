@@ -2,7 +2,7 @@
 date: '2023-09-14'
 modified_time: 2023-09-15 10:00:31-04:00
 published_time: 2023-09-14 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/14/remarks-by-president-biden-during-a-call-with-jewish-faith-leaders-for-high-holidays/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/14/remarks-by-president-biden-during-a-call-with-jewish-faith-leaders-for-high-holidays/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During a Call with Jewish Faith Leaders for High\_\
   Holidays"

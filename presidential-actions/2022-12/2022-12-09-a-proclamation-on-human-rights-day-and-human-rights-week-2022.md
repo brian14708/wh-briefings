@@ -1,7 +1,7 @@
 ---
 date: '2022-12-09'
 published_time: 2022-12-09 11:09:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/09/a-proclamation-on-human-rights-day-and-human-rights-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/09/a-proclamation-on-human-rights-day-and-human-rights-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Human Rights Day and Human Rights Week,\_2022"
 ---

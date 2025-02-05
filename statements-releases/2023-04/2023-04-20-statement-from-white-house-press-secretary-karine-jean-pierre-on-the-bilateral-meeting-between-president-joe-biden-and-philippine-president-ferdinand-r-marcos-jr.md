@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 20:49:32-04:00
 published_time: 2023-04-20 20:49:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-philippine-president-ferdinand-r-marcos-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-philippine-president-ferdinand-r-marcos-jr/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Bilateral\
   \ Meeting Between President Joe\_Biden and Philippine President Ferdinand R. Marcos\_\

@@ -1,7 +1,7 @@
 ---
 date: '2025-01-07'
 published_time: 2025-01-07 11:42:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/07/remarks-by-president-biden-at-signing-of-the-social-security-fairness-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/07/remarks-by-president-biden-at-signing-of-the-social-security-fairness-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of the Social Security Fairness\_Act"
 ---

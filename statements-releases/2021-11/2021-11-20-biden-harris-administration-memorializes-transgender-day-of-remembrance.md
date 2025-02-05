@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-20'
 modified_time: 2021-11-19 19:27:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/
 published_time: 2021-11-20 09:00:00-05:00
 title: "Biden-\u2060Harris Administration Memorializes Transgender Day of\_Remembrance"
 ---
@@ -14,7 +14,7 @@ people—disproportionately transgender women and girls of color—who face
 brutal violence, discrimination, and harassment. At least 46 transgender
 Americans were killed by acts of fatal violence to date this year. As
 President Biden made clear in his
-[statement](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/)
+[statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/statement-by-president-biden-on-transgender-day-of-remembrance/)
 today, this somber record underscores that we must honor those who have
 lost their lives to anti-transgender violence and hate with action.  
   
@@ -33,7 +33,7 @@ those who have lost their lives to violence around the world.
 **Released a report from the Interagency Working Group on Safety,
 Opportunity, and Inclusion for Transgender and Gender Diverse
 Individuals.** Today, the White House released a
-[report](https://www.whitehouse.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf)
+[report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Report_Memorializing-Transgender-Day-of-Remembrance_FINAL-002.pdf)
 highlighting over 45 key, early actions the Biden-Harris Administration
 is taking to address the root causes of anti-transgender violence,
 discrimination, and denial of economic opportunity, including:
@@ -74,7 +74,7 @@ discrimination, and denial of economic opportunity, including:
 -   **Advancing safety and justice for transgender and Two Spirit
     missing and murdered Indigenous people*.*** President Biden signed
     an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     on Improving Public Safety and Criminal Justice for Native Americans
     and Addressing the Crisis of Missing or Murdered Indigenous People.
     The Executive Order acknowledges that LGBTQI+ Native Americans and
@@ -113,13 +113,13 @@ people lost to violence build on historic steps by the Biden-Harris
 Administration to advance LGBTQI+ equality and civil rights for
 transgender and gender diverse communities.** Since taking office, the
 Biden-Harris Administration has [taken critical
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/) to
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/) to
 advance equality for transgender and gender diverse Americans:
 
 -   **Signing One of the Most Comprehensive Executive Orders in History
     on LGBTQI+ Rights on His First Day in Office. **Within hours of
     taking the oath of office, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) Preventing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) Preventing
     and Combating Discrimination on the Basis of Gender Identity or
     Sexual Orientation. The Executive Order established that it is the
     official policy of the Biden-Harris Administration to prevent and
@@ -136,18 +136,18 @@ advance equality for transgender and gender diverse Americans:
     lending services.  
 -   **Fighting for passage of the Equality Act.** President Biden
     [continues to
-    call](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/)
+    call](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/)
     on the Senate to swiftly pass the Equality Act, legislation which
     will provide long overdue federal civil rights protections to
     LGBTQI+ Americans and their families, while strengthening some key
     civil rights laws for people of color, women, people with
     disabilities, and people of faith. As the White House has
-    [said](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/),
+    [said](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/),
     passing the Equality Act is key to addressing the epidemic levels of
     violence and discrimination that transgender people face.  
 -   **Reversing the discriminatory ban on transgender servicemembers.**
     In his first week in office, President
-    Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
+    Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/25/fact-sheet-president-biden-signs-executive-order-enabling-all-qualified-americans-to-serve-their-country-in-uniform/) an
     Executive Order reversing the ban on openly transgender
     servicemembers serving in the Armed Forces, enabling all qualified
     Americans to serve their country in uniform. President Biden
@@ -165,7 +165,7 @@ advance equality for transgender and gender diverse Americans:
 -   **Signing and Leading Implementation of a Presidential Memorandum on
     Advancing the Human Rights of LGBTQI+ Persons Around the
     World. **President
-    Biden [directed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) all
+    Biden [directed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) all
     agencies engaged abroad to ensure that United States diplomacy and
     foreign assistance promote and protect the human rights of LGBTQ+
     persons. His Memorandum establishes that it “shall be the policy of

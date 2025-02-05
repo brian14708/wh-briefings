@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-10 11:34:07-05:00
 published_time: 2023-03-10 11:34:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran-5/
 tags: presidential-actions
 title: "Notice\_on the Continuation of the National Emergency with Respect to\_Iran"
 ---

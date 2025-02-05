@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-26'
 modified_time: 2021-07-25 23:27:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/
 published_time: 2021-07-26 07:30:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Marks Anniversary of Americans\
   \ with Disabilities Act and Announces Resources to Support Individuals with Long\_\
@@ -33,7 +33,7 @@ Administration has:
 -   **Centered Equity as a Priority on Day One.** President Biden’s
     Inauguration Day Executive Order 13985 on [Advancing Racial Equity
     and Support for Underserved
-    Communities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+    Communities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
     Through the Federal Government directs the whole of federal
     government to pursue a comprehensive approach to advancing equity
     for all, including with respect to persons with disabilities.
@@ -41,7 +41,7 @@ Administration has:
     assess federal data, including on disability, to advance equity.  
 -   **Increased Access to Democracy for Voters with Disabilities.**
     Executive Order 14019 on [Voting
-    Access](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    Access](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     ensures people with disabilities can access key voting resources,
     requires an assessment of barriers to the right to vote
     independently and privately, and will help ensure that all
@@ -50,13 +50,13 @@ Administration has:
 -   **Raised Wages for Federal Contractors to $15.** In April, President
     Biden signed Executive Order 14026 raising the minimum wage for
     workers employed by [federal
-    contractors](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/),
+    contractors](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/),
     including with respect to workers with disabilities.   
 -   **Advanced Diversity, Equity, Inclusion, and Accessibility Across
     the Federal Government.** In June, President Biden signed Executive
     Order 14035 advancing diversity, equity, inclusion, and
     accessibility
-    ([DEIA](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/))
+    ([DEIA](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/))
     across the Federal government.  The EO charges agencies with
     assessing their state of DEIA to eliminate barriers employees face. 
     For federal workers with disabilities, the EO sets a path for the

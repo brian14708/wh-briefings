@@ -2,7 +2,7 @@
 date: '2024-12-18'
 modified_time: 2024-12-18 21:50:48-05:00
 published_time: 2024-12-18 21:50:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/readout-of-white-house-sustainable-freight-workshop/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/18/readout-of-white-house-sustainable-freight-workshop/
 tags: statements-releases
 title: "Readout of White\_House Sustainable Freight\_Workshop"
 ---
@@ -62,7 +62,7 @@ Decarbonization](https://www.energy.gov/eere/us-national-blueprint-energy-and-em
 the March 2024 release of a [National Zero-Emission Freight Corridor
 Strategy](https://driveelectric.gov/files/zef-corridor-strategy.pdf),
 and the April 2024
-[announcement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-sets-first-ever-national-goal-of-zero-emissions-freight-sector-announces-nearly-1-5-billion-to-support-transition-to-zero-emission-heavy-duty-vehicles/)
+[announcement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-sets-first-ever-national-goal-of-zero-emissions-freight-sector-announces-nearly-1-5-billion-to-support-transition-to-zero-emission-heavy-duty-vehicles/)
 of the first-ever national goal to transition to a zero-emissions
 freight sector. The workshop also served as an opportunity to launch the
 [Action

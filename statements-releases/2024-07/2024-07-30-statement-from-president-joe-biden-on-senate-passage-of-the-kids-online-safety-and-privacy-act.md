@@ -1,7 +1,7 @@
 ---
 date: '2024-07-30'
 published_time: 2024-07-30 15:41:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/statement-from-president-joe-biden-on-senate-passage-of-the-kids-online-safety-and-privacy-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/statement-from-president-joe-biden-on-senate-passage-of-the-kids-online-safety-and-privacy-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Passage of the Kids Online Safety\
   \ and Privacy\_Act"

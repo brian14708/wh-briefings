@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 09:46:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/28/statement-by-president-joe-biden-on-personal-consumption-expenditures-price-index-data/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/28/statement-by-president-joe-biden-on-personal-consumption-expenditures-price-index-data/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Personal Consumption Expenditures Price\
   \ Index\_Data"

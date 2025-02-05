@@ -2,7 +2,7 @@
 date: '2024-01-14'
 modified_time: 2024-01-14 15:47:38-05:00
 published_time: 2024-01-14 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/14/statement-from-president-joe-biden-marking-100-days-of-captivity-for-hostages-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/14/statement-from-president-joe-biden-marking-100-days-of-captivity-for-hostages-in-gaza/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking 100 Days of Captivity for Hostages\
   \ in\_Gaza"

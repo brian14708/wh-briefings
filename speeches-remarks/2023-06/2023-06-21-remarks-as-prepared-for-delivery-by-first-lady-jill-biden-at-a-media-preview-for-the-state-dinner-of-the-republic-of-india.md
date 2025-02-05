@@ -1,7 +1,7 @@
 ---
 date: '2023-06-21'
 published_time: 2023-06-21 18:12:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-for-the-state-dinner-of-the-republic-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-for-the-state-dinner-of-the-republic-of-india/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Media Preview\
   \ for the State Dinner of the Republic of\_India"

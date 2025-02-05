@@ -2,7 +2,7 @@
 date: '2022-07-25'
 modified_time: 2022-07-24 17:51:23-04:00
 published_time: 2022-07-25 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/25/office-of-the-national-cyber-director-announces-camille-stewart-gloster-as-deputy-national-cyber-director-for-technology-and-ecosystem-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/25/office-of-the-national-cyber-director-announces-camille-stewart-gloster-as-deputy-national-cyber-director-for-technology-and-ecosystem-security/
 tags: statements-releases
 title: "Office of the National Cyber Director Announces Camille Stewart Gloster as\
   \ Deputy National Cyber Director for Technology and Ecosystem\_Security"

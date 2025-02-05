@@ -2,7 +2,7 @@
 date: '2024-09-27'
 modified_time: 2024-09-30 13:37:49-04:00
 published_time: 2024-09-27 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/27/remarks-by-vice-president-harris-at-a-campaign-event-douglas-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/27/remarks-by-vice-president-harris-at-a-campaign-event-douglas-az/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Douglas,\_AZ"
 ---

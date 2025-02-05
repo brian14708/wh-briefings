@@ -2,7 +2,7 @@
 date: '2024-11-21'
 modified_time: 2024-11-21 10:42:50-05:00
 published_time: 2024-11-21 10:42:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/statement-from-national-security-advisor-jake-sullivan-on-further-sanctioning-russias-use-of-the-international-financial-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/21/statement-from-national-security-advisor-jake-sullivan-on-further-sanctioning-russias-use-of-the-international-financial-system/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Further Sanctioning\
   \ Russia\u2019s Use of the International Financial\_System"

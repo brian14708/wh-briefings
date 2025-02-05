@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 16:15:50-04:00
 published_time: 2022-04-05 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Accelerates Whole-of-Government Effort\
   \ to Prevent, Detect, and Treat Long\_COVID"
@@ -157,7 +157,7 @@ other medical and physical conditions. Individuals with Long COVID may
 need help doing things they did by themselves in the past, or may need
 accommodations in their daily activities based on changes in their
 abilities. In addition to the Long COVID guidance
-[package](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/)
+[package](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/26/fact-sheet-biden-harris-administration-marks-anniversary-of-americans-with-disabilities-act-and-announces-resources-to-support-individuals-with-long-covid/)
 released during the 31st anniversary of the Americans with Disabilities
 Act (ADA), the Administration is raising awareness of Long COVID as a
 potential cause of disability, and strengthening services and supports

@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-24 14:56:39-04:00
 published_time: 2024-09-24 15:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-germany-and-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-germany-and-angola/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Travel to Germany and\_Angola"

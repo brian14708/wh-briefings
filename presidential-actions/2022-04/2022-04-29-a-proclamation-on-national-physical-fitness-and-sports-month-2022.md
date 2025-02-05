@@ -2,7 +2,7 @@
 date: '2022-04-29'
 modified_time: 2022-04-29 12:47:48-04:00
 published_time: 2022-04-29 12:47:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-physical-fitness-and-sports-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-physical-fitness-and-sports-month-2022/
 tags: presidential-actions
 title: "A Proclamation on National Physical Fitness and Sports Month,\_2022"
 ---

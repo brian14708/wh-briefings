@@ -2,7 +2,7 @@
 date: '2023-08-26'
 modified_time: 2023-08-26 16:57:39-04:00
 published_time: 2023-08-26 16:57:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/26/statement-from-president-joe-biden-honoring-sacrifices-of-the-service-members-killed-in-the-terrorist-attack-during-the-withdrawal-from-afghanistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/26/statement-from-president-joe-biden-honoring-sacrifices-of-the-service-members-killed-in-the-terrorist-attack-during-the-withdrawal-from-afghanistan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Honoring Sacrifices of the Service Members\
   \ Killed in the Terrorist Attack During the Withdrawal from\_Afghanistan"

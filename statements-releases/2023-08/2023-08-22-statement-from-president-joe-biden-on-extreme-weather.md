@@ -2,7 +2,7 @@
 date: '2023-08-22'
 modified_time: 2023-08-22 16:36:19-04:00
 published_time: 2023-08-22 16:36:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/22/statement-from-president-joe-biden-on-extreme-weather/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/22/statement-from-president-joe-biden-on-extreme-weather/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Extreme\_Weather"
 ---

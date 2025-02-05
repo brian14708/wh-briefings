@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 18:05:35-05:00
 published_time: 2023-12-13 18:05:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/statement-from-president-joe-biden-on-baseless-house-republican-impeachment-stunt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/statement-from-president-joe-biden-on-baseless-house-republican-impeachment-stunt/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Baseless House Republican Impeachment\_\
   Stunt"

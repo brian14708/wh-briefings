@@ -2,7 +2,7 @@
 date: '2024-01-05'
 modified_time: 2024-01-05 23:23:57-05:00
 published_time: 2024-01-05 23:23:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/05/remarks-by-president-biden-on-the-third-anniversary-of-the-january-6th-attack-and-defending-the-sacred-cause-of-american-democracy-blue-bell-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/05/remarks-by-president-biden-on-the-third-anniversary-of-the-january-6th-attack-and-defending-the-sacred-cause-of-american-democracy-blue-bell-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Third Anniversary of the January 6th Attack\
   \ and Defending the Sacred Cause of American Democracy | Blue Bell,\_PA"

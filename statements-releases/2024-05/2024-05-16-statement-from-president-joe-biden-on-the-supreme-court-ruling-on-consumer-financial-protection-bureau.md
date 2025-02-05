@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 published_time: 2024-05-16 12:17:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/statement-from-president-joe-biden-on-the-supreme-court-ruling-on-consumer-financial-protection-bureau/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/statement-from-president-joe-biden-on-the-supreme-court-ruling-on-consumer-financial-protection-bureau/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Supreme Court Ruling on Consumer\
   \ Financial Protection\_Bureau"

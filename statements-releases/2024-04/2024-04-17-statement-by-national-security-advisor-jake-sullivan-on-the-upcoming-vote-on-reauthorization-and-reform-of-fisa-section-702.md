@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-17 09:28:24-04:00
 published_time: 2024-04-17 09:13:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/statement-by-national-security-advisor-jake-sullivan-on-the-upcoming-vote-on-reauthorization-and-reform-of-fisa-section-702/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/statement-by-national-security-advisor-jake-sullivan-on-the-upcoming-vote-on-reauthorization-and-reform-of-fisa-section-702/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on the Upcoming Vote\
   \ on Reauthorization and Reform of FISA Section\_702"

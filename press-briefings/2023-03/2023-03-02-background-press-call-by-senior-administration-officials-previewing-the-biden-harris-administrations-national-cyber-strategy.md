@@ -1,7 +1,7 @@
 ---
 date: '2023-03-02'
 published_time: 2023-03-02 12:12:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/02/background-press-call-by-senior-administration-officials-previewing-the-biden-harris-administrations-national-cyber-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/02/background-press-call-by-senior-administration-officials-previewing-the-biden-harris-administrations-national-cyber-strategy/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the Biden-\u2060\
   Harris Administration\u2019s National Cyber\_Strategy"

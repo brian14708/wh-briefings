@@ -2,7 +2,7 @@
 date: '2022-12-12'
 modified_time: 2022-12-12 17:30:48-05:00
 published_time: 2022-12-12 17:30:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/12/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-arrest-of-abu-agila-mohammad-masud-kheir-al-marimi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/12/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-arrest-of-abu-agila-mohammad-masud-kheir-al-marimi/
 tags: statements-releases
 title: "Statement from Homeland Security Advisor Dr. Liz Sherwood-Randall on Arrest\
   \ of Abu Agila Mohammad Mas\u2019ud Kheir\_Al-Marimi"

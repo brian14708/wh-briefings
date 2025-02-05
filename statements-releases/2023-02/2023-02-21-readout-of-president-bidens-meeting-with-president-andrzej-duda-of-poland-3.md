@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 published_time: 2023-02-21 10:07:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-president-andrzej-duda-of-poland-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-president-andrzej-duda-of-poland-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Andrzej Duda of\_\
   Poland"

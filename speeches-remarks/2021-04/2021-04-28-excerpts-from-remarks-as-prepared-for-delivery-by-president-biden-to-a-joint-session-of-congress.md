@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-04-28'
 modified_time: 2021-04-28 17:43:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/28/excerpts-from-remarks-as-prepared-for-delivery-by-president-biden-to-a-joint-session-of-congress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/04/28/excerpts-from-remarks-as-prepared-for-delivery-by-president-biden-to-a-joint-session-of-congress/
 published_time: 2021-04-28 17:43:51-04:00
 title: "Excerpts from Remarks as Prepared for Delivery by President\_Biden to a Joint\
   \ Session of\_Congress"

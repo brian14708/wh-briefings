@@ -1,7 +1,7 @@
 ---
 date: '2023-11-09'
 published_time: 2023-11-09 13:43:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/09/a-proclamation-on-american-education-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/09/a-proclamation-on-american-education-week-2023/
 tags: presidential-actions
 title: "A Proclamation on American Education Week,\_2023"
 ---

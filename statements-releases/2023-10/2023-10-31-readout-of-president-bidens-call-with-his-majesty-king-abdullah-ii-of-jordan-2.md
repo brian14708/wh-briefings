@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-10-31 20:27:33-04:00
 published_time: 2023-10-31 20:27:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with His Majesty King Abdullah II\
   \ of\_Jordan"

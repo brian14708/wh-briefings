@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-03-10'
 modified_time: 2022-03-10 14:41:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/10/remarks-by-vice-president-harris-and-prime-minister-trudeau-of-canada-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/10/remarks-by-vice-president-harris-and-prime-minister-trudeau-of-canada-before-bilateral-meeting/
 published_time: 2022-03-10 14:40:59-05:00
 title: "Remarks by Vice President Harris and Prime Minister Trudeau of Canada Before\
   \ Bilateral\_Meeting"

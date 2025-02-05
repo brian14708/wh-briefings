@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-26 12:30:16-04:00
 published_time: 2022-10-25 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/25/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/25/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-3/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Democratic National Committee Finance\_\
   Event"

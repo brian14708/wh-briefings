@@ -1,7 +1,7 @@
 ---
 date: '2024-10-19'
 published_time: 2024-10-19 16:48:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/19/president-joseph-r-biden-jr-approves-north-carolina-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/19/president-joseph-r-biden-jr-approves-north-carolina-disaster-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves North Carolina Disaster\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-02-29 09:42:06-05:00
 published_time: 2024-02-29 10:10:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Action to Lower Child Care Costs\
   \ for More than 100,000\_Families"
@@ -11,7 +11,7 @@ title: "FACT SHEET: Vice President Harris Announces Action to Lower Child Care C
 Vice President Harris is announcing key steps to lower the cost of child
 care for working families and better support early educators, consistent
 with the President’s historic [Executive Order on
-Care](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/).
+Care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/).
 Today, the Department of Health and Human Services (HHS) finalized a
 rule strengthening the Child Care & Development Block Grant (CCDBG)
 program, which supports over a million children and their families each
@@ -41,7 +41,7 @@ High child care co-payments strain family budgets, and parents who
 cannot afford to pay them face a barrier to employment. Working families
 with low incomes are likely to pay a greater share of their income
 toward child care costs. The President’s Council of Economic Advisers
-[found](https://www.whitehouse.gov/cea/written-materials/2023/07/18/improving-access-affordability-and-quality-in-the-early-care-and-education-ece-market/)
+[found](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/18/improving-access-affordability-and-quality-in-the-early-care-and-education-ece-market/)
 that higher-income families pay between 6-8% of their income on child
 care expenses, while families with low incomes pay as much as 31% of
 their income toward child care. CCDBG provides child care subsidies to
@@ -117,14 +117,14 @@ fought to secure the resources and policy improvements necessary to
 transform our child care system. The President’s American Rescue Plan
 (ARP) not only helped keep over 225,000 child care providers open, but
 had a [significant
-impact](https://www.whitehouse.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
+impact](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
 on the economy. That investment alone brought hundreds of thousands of
 women with young children into the workforce, lowered child care costs
 per child by $1,250, and increased wages for child care workers by 10%.
 As ARP funds dry up, the sector urgently needs more support as parents
 are at serious risk of paying more or losing access to care altogether.
 This is why the [President requested $16
-billion](https://www.whitehouse.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/)
+billion](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/)
 in supplemental funding and continues to call on Congress to act to
 sustain the child care sector. This funding request would support more
 than 220,000 child care providers across the country that serve a total
@@ -136,12 +136,12 @@ families](https://www.defense.gov/News/News-Stories/Article/Article/3662171/dod-
 and proposed [increased pay for Head Start
 teachers](https://www.usatoday.com/story/news/education/2023/11/15/head-start-teacher-pay-may-increase/71592951007/).
 In July, the White House hosted a first-of-its-kind [convening on child
-care](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/#:~:text=Today%2C%20White%20House%20officials%20welcomed,quality%20for%20child%20care%20workers.),
+care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/#:~:text=Today%2C%20White%20House%20officials%20welcomed,quality%20for%20child%20care%20workers.),
 gathering nearly 100 state legislators from across the country to
 discuss ways to improve child care governance, access, affordability,
 and the workforce. The President and Vice President have also proposed
 [major
-investments](https://www.whitehouse.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/)
+investments](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/11/02/state-breakdown-the-biden-harris-administrations-funding-request-would-help-prevent-families-across-the-country-from-losing-child-care/)
 to increase child care worker pay and limit child care costs so that
 most families pay no more than $10 a day for child care.
 

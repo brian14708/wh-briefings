@@ -2,7 +2,7 @@
 date: '2023-03-05'
 modified_time: 2023-03-05 07:04:44-05:00
 published_time: 2023-03-05 07:04:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/05/statement-by-vice-president-harris-on-the-58th-anniversary-of-bloody-sunday/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/05/statement-by-vice-president-harris-on-the-58th-anniversary-of-bloody-sunday/
 tags: statements-releases
 title: Statement by Vice President Harris on the 58th Anniversary of Bloody Sunday
 ---

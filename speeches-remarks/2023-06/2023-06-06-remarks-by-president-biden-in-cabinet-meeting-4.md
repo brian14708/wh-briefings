@@ -1,7 +1,7 @@
 ---
 date: '2023-06-06'
 published_time: 2023-06-06 17:07:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/06/remarks-by-president-biden-in-cabinet-meeting-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/06/remarks-by-president-biden-in-cabinet-meeting-4/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Cabinet\_Meeting"
 ---

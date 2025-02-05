@@ -2,7 +2,7 @@
 date: '2024-09-04'
 modified_time: 2024-09-03 20:28:26-04:00
 published_time: 2024-09-04 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/04/fact-sheet-biden-harris-administration-announces-additional-actions-to-drive-academic-success-for-all-students/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/04/fact-sheet-biden-harris-administration-announces-additional-actions-to-drive-academic-success-for-all-students/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Additional Actions\
   \ to Drive Academic Success for all\_Students"
@@ -201,7 +201,7 @@ we are announcing the following Administration actions</u>:**
 In addition to these actions by the Administration, a number of
 organizations have taken action to tackle absenteeism, as previewed
 during the [White House Every Day Counts
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/).
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/).
 These actions include a [messaging
 toolkit](https://www.adcouncil.org/learn-with-us/ad-council-research-institute/chronic-student-absenteeism)
 for states, districts, and educators based on new research around
@@ -210,7 +210,7 @@ developed by **the Ad Council Research Institute (ACRI)**, with support
 from **Overdeck Family Foundation**, available on September
 10<sup>th</sup>. Information on additional actions by organizations is
 available
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/).  
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-biden-harris-administration-announces-new-actions-and-resources-for-increasing-student-attendance-and-engagement-as-part-of-the-white-house-every-day-counts-summit/).  
   
 **These resources build on the previous Administration actions to
 promote academic achievement and student success, including:**

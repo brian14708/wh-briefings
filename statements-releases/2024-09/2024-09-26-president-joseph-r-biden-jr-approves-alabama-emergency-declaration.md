@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 18:22:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/president-joseph-r-biden-jr-approves-alabama-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/president-joseph-r-biden-jr-approves-alabama-emergency-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Alabama Emergency\_Declaration"
 ---

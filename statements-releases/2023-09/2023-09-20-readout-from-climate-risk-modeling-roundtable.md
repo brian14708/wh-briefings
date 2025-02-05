@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 10:27:20-04:00
 published_time: 2023-09-20 10:22:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/readout-from-climate-risk-modeling-roundtable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/readout-from-climate-risk-modeling-roundtable/
 tags: statements-releases
 title: "Readout from Climate Risk Modeling\_Roundtable"
 ---
@@ -21,7 +21,7 @@ managing climate risks.
 The Biden-Harris Administration recognizes the economic, financial, and
 fiscal risks posed by climate change. Shortly after taking office,
 President Biden signed an Executive Order on [Climate-Related Financial
-Risk](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
+Risk](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
 which directs agencies across the Federal government to take steps to
 quantify and manage climate-related risks. This work – along with
 broader adaptation and resilience efforts across the U.S. – requires
@@ -30,7 +30,7 @@ climate risks.
 
 Discussions focused around recommendations detailed in the April 2023
 report on [Extreme Weather Risk in a Changing
-Climate](https://www.whitehouse.gov/wp-content/uploads/2023/04/PCAST_Extreme-Weather-Report_April2023.pdf)
+Climate](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/PCAST_Extreme-Weather-Report_April2023.pdf)
 from the President’s Council of Advisers on Science and Technology. The
 report highlights the challenge of managing extreme weather risks in a
 setting where historic experience cannot be assumed to represent current

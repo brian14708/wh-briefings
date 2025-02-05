@@ -2,7 +2,7 @@
 date: '2024-08-28'
 modified_time: 2024-08-28 13:10:21-04:00
 published_time: 2024-08-28 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/28/president-biden-names-fifty-fourth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/28/president-biden-names-fifty-fourth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Fifty-Fourth Round of Judicial\_Nominees"
 ---

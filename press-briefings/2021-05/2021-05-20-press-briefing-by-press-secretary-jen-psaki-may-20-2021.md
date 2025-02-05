@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-05-20'
 modified_time: 2021-05-20 18:42:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/20/press-briefing-by-press-secretary-jen-psaki-may-20-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/05/20/press-briefing-by-press-secretary-jen-psaki-may-20-2021/
 published_time: 2021-05-20 18:42:57-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, May 20,\_2021"
 ---

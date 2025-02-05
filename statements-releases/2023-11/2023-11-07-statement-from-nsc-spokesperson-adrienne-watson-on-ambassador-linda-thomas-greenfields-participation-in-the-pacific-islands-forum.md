@@ -1,7 +1,7 @@
 ---
 date: '2023-11-07'
 published_time: 2023-11-07 07:31:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/statement-from-nsc-spokesperson-adrienne-watson-on-ambassador-linda-thomas-greenfields-participation-in-the-pacific-islands-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/statement-from-nsc-spokesperson-adrienne-watson-on-ambassador-linda-thomas-greenfields-participation-in-the-pacific-islands-forum/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Ambassador Linda Thomas-Greenfield\u2019\
   s Participation in the Pacific Islands\_Forum"

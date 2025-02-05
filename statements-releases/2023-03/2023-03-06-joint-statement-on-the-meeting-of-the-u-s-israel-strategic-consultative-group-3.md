@@ -1,7 +1,7 @@
 ---
 date: '2023-03-06'
 published_time: 2023-03-06 21:16:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/06/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/06/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group-3/
 tags: statements-releases
 title: "Joint Statement on the Meeting of the U.S.-Israel Strategic Consultative\_\
   Group"

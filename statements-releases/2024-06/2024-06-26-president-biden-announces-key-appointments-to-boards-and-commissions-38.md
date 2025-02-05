@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-25 16:06:42-04:00
 published_time: 2024-06-26 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/president-biden-announces-key-appointments-to-boards-and-commissions-38/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/president-biden-announces-key-appointments-to-boards-and-commissions-38/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

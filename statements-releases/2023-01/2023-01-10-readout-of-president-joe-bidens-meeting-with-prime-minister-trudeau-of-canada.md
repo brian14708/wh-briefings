@@ -1,7 +1,7 @@
 ---
 date: '2023-01-10'
 published_time: 2023-01-10 12:54:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/10/readout-of-president-joe-bidens-meeting-with-prime-minister-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/10/readout-of-president-joe-bidens-meeting-with-prime-minister-trudeau-of-canada/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Trudeau\
   \ of\_Canada"

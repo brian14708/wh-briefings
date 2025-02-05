@@ -1,7 +1,7 @@
 ---
 date: '2022-08-19'
 published_time: 2022-08-19 15:38:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/readout-of-white-house-meeting-with-state-legislative-leaders-on-extreme-risk-protection-order-erpo-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/readout-of-white-house-meeting-with-state-legislative-leaders-on-extreme-risk-protection-order-erpo-legislation/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Extreme\
   \ Risk Protection Order (ERPO)\_Legislation"

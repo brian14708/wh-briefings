@@ -2,7 +2,7 @@
 date: '2023-03-03'
 modified_time: 2023-03-06 21:07:31-05:00
 published_time: 2023-03-03 21:06:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-vice-president-harris-at-a-dnc-political-fundraiser/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-vice-president-harris-at-a-dnc-political-fundraiser/
 tags: speeches-remarks
 title: Remarks by Vice President Harris at a DNC Political Fundraiser
 ---

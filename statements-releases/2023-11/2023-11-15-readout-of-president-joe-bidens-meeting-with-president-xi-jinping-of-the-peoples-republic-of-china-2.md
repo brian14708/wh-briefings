@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-15 21:09:54-05:00
 published_time: 2023-11-15 21:09:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/15/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/readout-of-president-joe-bidens-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Xi Jinping of\
   \ the People\u2019s Republic of\_China"

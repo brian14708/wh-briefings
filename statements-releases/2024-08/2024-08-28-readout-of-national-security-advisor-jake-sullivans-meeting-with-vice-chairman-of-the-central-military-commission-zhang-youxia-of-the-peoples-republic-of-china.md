@@ -2,7 +2,7 @@
 date: '2024-08-28'
 modified_time: 2024-08-28 23:15:42-04:00
 published_time: 2024-08-28 23:15:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-vice-chairman-of-the-central-military-commission-zhang-youxia-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-vice-chairman-of-the-central-military-commission-zhang-youxia-of-the-peoples-republic-of-china/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Vice\
   \ Chairman of the Central Military Commission Zhang Youxia of the People\u2019s\

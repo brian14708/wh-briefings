@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 10:59:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/04/a-proclamation-on-missing-or-murdered-indigenous-persons-awareness-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/04/a-proclamation-on-missing-or-murdered-indigenous-persons-awareness-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Missing or Murdered Indigenous Persons Awareness Day,\_\
   2023"

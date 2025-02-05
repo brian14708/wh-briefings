@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 07:37:39-04:00
 published_time: 2023-03-31 07:37:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-cybersecurity-support-to-costa-rica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-cybersecurity-support-to-costa-rica/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on U.S. Cybersecurity Support\
   \ to Costa\_Rica"
@@ -31,7 +31,7 @@ emphasized the strength of the U.S.-Costa Rican partnership in
 addressing a range of regional technology issues.  
    
 This announcement came during the [Summit for
-Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/),
+Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-advancing-technology-for-democracy-at-home-and-abroad/),
 which featured Costa Rica as a co-host country, and reflects the U.S.’s
 commitment to supporting democracies’ access to secure, open, and
 reliable digital technology.

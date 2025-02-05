@@ -1,7 +1,7 @@
 ---
 date: '2023-01-24'
 published_time: 2023-01-24 18:17:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/24/readout-of-meeting-with-democratic-congressional-leadership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/24/readout-of-meeting-with-democratic-congressional-leadership/
 tags: statements-releases
 title: "Readout of Meeting with Democratic Congressional\_Leadership"
 ---

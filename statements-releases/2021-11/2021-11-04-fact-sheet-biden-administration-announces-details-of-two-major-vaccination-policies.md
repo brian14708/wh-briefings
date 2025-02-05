@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-04'
 modified_time: 2021-11-04 09:35:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/fact-sheet-biden-administration-announces-details-of-two-major-vaccination-policies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/04/fact-sheet-biden-administration-announces-details-of-two-major-vaccination-policies/
 published_time: 2021-11-04 08:45:00-04:00
 title: "Fact Sheet: Biden Administration Announces Details of Two Major Vaccination\_\
   Policies"
@@ -67,7 +67,7 @@ masks, or testing.
 The Administration is calling on all employers to ensure that as many of
 their workers are vaccinated as quickly as possible. As detailed in a
 recent [White House
-report](https://www.whitehouse.gov/wp-content/uploads/2021/10/Vaccination-Requirements-Report.pdf),
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Vaccination-Requirements-Report.pdf),
 vaccination requirements work and are good for the economy. Vaccination
 requirements have increased vaccination rates by more than 20 percentage
 points – to over 90 percent – across a wide range of businesses and

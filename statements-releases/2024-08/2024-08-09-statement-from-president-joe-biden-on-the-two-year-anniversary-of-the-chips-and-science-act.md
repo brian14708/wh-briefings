@@ -2,7 +2,7 @@
 date: '2024-08-09'
 modified_time: 2024-08-09 03:21:38-04:00
 published_time: 2024-08-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/09/statement-from-president-joe-biden-on-the-two-year-anniversary-of-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/09/statement-from-president-joe-biden-on-the-two-year-anniversary-of-the-chips-and-science-act/
 tags: statements-releases
 title: "Statement from President Joe\u202FBiden on the Two-Year Anniversary of the\
   \ CHIPS and Science\u202FAct"

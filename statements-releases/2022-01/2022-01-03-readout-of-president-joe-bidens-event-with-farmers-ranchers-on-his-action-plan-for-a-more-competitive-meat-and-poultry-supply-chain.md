@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-03'
 modified_time: 2022-01-03 19:19:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/readout-of-president-joe-bidens-event-with-farmers-ranchers-on-his-action-plan-for-a-more-competitive-meat-and-poultry-supply-chain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/readout-of-president-joe-bidens-event-with-farmers-ranchers-on-his-action-plan-for-a-more-competitive-meat-and-poultry-supply-chain/
 published_time: 2022-01-03 19:19:20-05:00
 title: "Readout of President Joe\_Biden\u2019s Event with Farmers, Ranchers on his\
   \ Action Plan for a More Competitive Meat and Poultry Supply\_Chain"
@@ -80,8 +80,8 @@ whole-of-government-commitment to tackle competition issues across
 industries. He thanked participants for their hard work and feedback.  
    
 [Click
-here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
-[](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
+here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
+[](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
 to read the full fact sheet on the Administration’s Action Plan for a
 Fairer, More Competitive, and More Resilient Meat and Poultry Supply
 Chain, and [click here](https://whitehouse.gov/competition) to learn

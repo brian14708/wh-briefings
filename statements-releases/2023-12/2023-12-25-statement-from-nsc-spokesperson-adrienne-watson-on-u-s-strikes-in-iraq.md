@@ -2,7 +2,7 @@
 date: '2023-12-25'
 modified_time: 2023-12-25 21:43:07-05:00
 published_time: 2023-12-25 21:43:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/25/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-strikes-in-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/25/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-strikes-in-iraq/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on U.S. Strikes in\_Iraq"
 ---

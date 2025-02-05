@@ -1,7 +1,7 @@
 ---
 date: '2022-08-16'
 published_time: 2022-08-16 20:31:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-how-the-inflation-reduction-act-helps-black-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-how-the-inflation-reduction-act-helps-black-communities/
 tags: statements-releases
 title: "FACT SHEET:  How the Inflation Reduction Act Helps Black\_Communities"
 ---

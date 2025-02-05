@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-13 12:35:50-05:00
 published_time: 2022-12-13 12:35:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/13/remarks-by-president-biden-on-the-administrations-efforts-to-tackle-inflation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/13/remarks-by-president-biden-on-the-administrations-efforts-to-tackle-inflation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Administration\u2019s Efforts to Tackle\_\
   Inflation"

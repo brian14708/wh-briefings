@@ -1,7 +1,7 @@
 ---
 date: '2023-05-24'
 published_time: 2023-05-24 16:10:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/24/remarks-by-vice-president-harris-at-the-jewish-democratic-council-of-america-leadership-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/24/remarks-by-vice-president-harris-at-the-jewish-democratic-council-of-america-leadership-convening/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Jewish Democratic Council of America\
   \ Leadership\_Convening"

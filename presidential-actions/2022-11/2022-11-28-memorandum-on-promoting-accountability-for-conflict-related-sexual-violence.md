@@ -2,7 +2,7 @@
 date: '2022-11-28'
 modified_time: 2022-11-28 11:11:38-05:00
 published_time: 2022-11-28 11:11:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/
 tags: presidential-actions
 title: "Memorandum on Promoting Accountability for Conflict-Related Sexual\_Violence"
 ---

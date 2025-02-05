@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 12:28:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/01/notice-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/01/notice-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to\_Zimbabwe"
 ---

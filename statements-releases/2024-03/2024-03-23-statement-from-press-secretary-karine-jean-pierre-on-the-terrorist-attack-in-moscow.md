@@ -2,7 +2,7 @@
 date: '2024-03-23'
 modified_time: 2024-03-23 15:40:58-04:00
 published_time: 2024-03-23 15:40:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/23/statement-from-press-secretary-karine-jean-pierre-on-the-terrorist-attack-in-moscow/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/23/statement-from-press-secretary-karine-jean-pierre-on-the-terrorist-attack-in-moscow/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Terrorist Attack\
   \ in\_Moscow"

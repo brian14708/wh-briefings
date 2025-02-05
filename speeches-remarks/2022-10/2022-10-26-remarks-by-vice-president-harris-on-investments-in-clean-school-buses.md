@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 published_time: 2022-10-26 15:11:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-vice-president-harris-on-investments-in-clean-school-buses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-vice-president-harris-on-investments-in-clean-school-buses/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Investments in Clean School\_Buses"
 ---

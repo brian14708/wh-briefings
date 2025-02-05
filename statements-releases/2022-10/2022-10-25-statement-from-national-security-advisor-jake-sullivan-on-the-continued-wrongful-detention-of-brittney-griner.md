@@ -1,7 +1,7 @@
 ---
 date: '2022-10-25'
 published_time: 2022-10-25 08:54:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/statement-from-national-security-advisor-jake-sullivan-on-the-continued-wrongful-detention-of-brittney-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/statement-from-national-security-advisor-jake-sullivan-on-the-continued-wrongful-detention-of-brittney-griner/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Continued Wrongful\
   \ Detention of Brittney\_Griner"

@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 12:43:21-05:00
 published_time: 2024-02-08 12:43:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/08/memorandum-on-the-delegation-of-authority-under-section-1j4-of-the-state-department-basic-authorities-act-of-1956/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/08/memorandum-on-the-delegation-of-authority-under-section-1j4-of-the-state-department-basic-authorities-act-of-1956/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under Section 1(j)(4) of the State\
   \ Department Basic Authorities Act of\_1956"

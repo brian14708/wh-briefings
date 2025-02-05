@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 published_time: 2022-09-09 15:26:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/09/remarks-by-president-biden-on-rebuilding-american-manufacturing-through-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/09/remarks-by-president-biden-on-rebuilding-american-manufacturing-through-the-chips-and-science-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Rebuilding American Manufacturing Through the\
   \ CHIPS and Science\_Act"

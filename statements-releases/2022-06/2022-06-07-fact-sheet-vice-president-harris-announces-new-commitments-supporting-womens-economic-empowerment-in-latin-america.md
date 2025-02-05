@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 05:02:20-04:00
 published_time: 2022-06-07 05:02:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-new-commitments-supporting-womens-economic-empowerment-in-latin-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-new-commitments-supporting-womens-economic-empowerment-in-latin-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Commitments Supporting\_Women\u2019\
   s Economic Empowerment in Latin\_America"
@@ -51,7 +51,7 @@ parity, and elevate women within companies across the region.**
 -   **Establishing a Gender Equity Center**: As a follow up to its
     December 2021 commitment in response to [the Vice President’s Call
     to
-    Action](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
+    Action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
     humanitarian organization CARE officially established the Center for
     Gender Equity in Central America. The Center is designed to empower
     500,000 individual women and their families–providing benefits to a

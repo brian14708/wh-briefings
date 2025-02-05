@@ -2,7 +2,7 @@
 date: '2024-08-06'
 modified_time: 2024-08-06 08:41:55-04:00
 published_time: 2024-08-06 08:41:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/06/statement-from-president-biden-thanking-u-s-special-representative-for-ukraines-economic-recovery-penny-pritzker/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/06/statement-from-president-biden-thanking-u-s-special-representative-for-ukraines-economic-recovery-penny-pritzker/
 tags: statements-releases
 title: "Statement from President\_Biden Thanking U.S. Special Representative for Ukraine\u2019\
   s Economic Recovery Penny\_Pritzker"

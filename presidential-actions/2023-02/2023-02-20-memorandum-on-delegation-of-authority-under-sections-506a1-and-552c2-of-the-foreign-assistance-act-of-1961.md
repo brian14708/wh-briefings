@@ -2,7 +2,7 @@
 date: '2023-02-20'
 modified_time: 2023-02-20 10:09:05-05:00
 published_time: 2023-02-20 12:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/20/memorandum-on-delegation-of-authority-under-sections-506a1-and-552c2-of-the-foreign-assistance-act-of-1961/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/20/memorandum-on-delegation-of-authority-under-sections-506a1-and-552c2-of-the-foreign-assistance-act-of-1961/
 tags: presidential-actions
 title: "Memorandum on\_Delegation of Authority Under Sections 506(a)(1) and 552(c)(2)\
   \ of the Foreign Assistance Act of\_1961"

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-17'
 published_time: 2022-11-17 12:46:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/17/statement-by-president-joe-biden-on-speaker-nancy-pelosi-stepping-down-from-democratic-leadership-in-the-house-of-representatives/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/17/statement-by-president-joe-biden-on-speaker-nancy-pelosi-stepping-down-from-democratic-leadership-in-the-house-of-representatives/
 tags: statements-releases
 title: "Statement by President Joe\_Biden On Speaker Nancy Pelosi Stepping Down from\
   \ Democratic Leadership in the House of\_Representatives"

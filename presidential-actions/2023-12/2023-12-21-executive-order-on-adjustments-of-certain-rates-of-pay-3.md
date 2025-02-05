@@ -2,7 +2,7 @@
 date: '2023-12-21'
 modified_time: 2023-12-21 15:47:09-05:00
 published_time: 2023-12-21 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/21/executive-order-on-adjustments-of-certain-rates-of-pay-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/21/executive-order-on-adjustments-of-certain-rates-of-pay-3/
 tags: presidential-actions
 title: "Executive Order on Adjustments of Certain Rates of\_Pay"
 ---

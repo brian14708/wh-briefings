@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-10 07:12:20-05:00
 published_time: 2022-11-10 07:12:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/president-joseph-r-biden-jr-approves-the-seminole-tribe-of-florida-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/president-joseph-r-biden-jr-approves-the-seminole-tribe-of-florida-emergency-declaration/
 tags: statements-releases
 title: "President\_Joseph R. Biden, Jr.\_Approves\_the Seminole Tribe of Florida\_\
   Emergency\_Declaration"

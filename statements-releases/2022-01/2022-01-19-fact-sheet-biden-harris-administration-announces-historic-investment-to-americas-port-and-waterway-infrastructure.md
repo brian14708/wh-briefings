@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-19'
 modified_time: 2022-01-19 08:12:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/
 published_time: 2022-01-19 08:12:20-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Historic Investment\
   \ to America\u2019s Port and Waterway\_Infrastructure"
@@ -52,7 +52,7 @@ of Federal climate and clean energy investments flow to historically
 marginalized, underserved, and overburdened communities to build their
 economies. The investments also underscore how President Biden’s
 Bipartisan Infrastructure Law is [delivering
-results](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/)
+results](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/)
 to communities across America, advancing racial equity, combatting
 climate change, and creating job opportunities for American workers.  
   
@@ -76,7 +76,7 @@ America’s ports supported more than 30 million jobs and approximately
 have strained their capacity and jeopardized supply chains.  
   
 Building on the
-[work](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
+[work](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
 this Administration has done this past year to get goods flowing from
 ships to shelves faster, the U.S. Army Corps of Engineers is committing
 **$4 billion** through the President’s Bipartisan Infrastructure Law to

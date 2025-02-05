@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-21 15:27:56-04:00
 published_time: 2024-03-20 22:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-vice-president-harris-in-a-moderated-conversation-with-senator-cory-booker-at-the-league-of-conservation-voters-capital-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-vice-president-harris-in-a-moderated-conversation-with-senator-cory-booker-at-the-league-of-conservation-voters-capital-dinner/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Senator\
   \ Cory Booker at the League Of Conservation Voters Capital\_Dinner"

@@ -2,7 +2,7 @@
 date: '2022-11-11'
 modified_time: 2022-11-11 12:03:47-05:00
 published_time: 2022-11-11 12:03:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/11/remarks-by-president-biden-and-president-abdel-fattah-el-sisi-of-egypt-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/11/remarks-by-president-biden-and-president-abdel-fattah-el-sisi-of-egypt-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Abdel Fattah El-Sisi of Egypt Before\
   \ Bilateral\_Meeting"

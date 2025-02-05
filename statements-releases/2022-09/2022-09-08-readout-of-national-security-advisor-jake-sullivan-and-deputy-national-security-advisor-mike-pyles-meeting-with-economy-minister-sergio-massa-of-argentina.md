@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 18:38:11-04:00
 published_time: 2022-09-08 18:38:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-national-security-advisor-jake-sullivan-and-deputy-national-security-advisor-mike-pyles-meeting-with-economy-minister-sergio-massa-of-argentina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-national-security-advisor-jake-sullivan-and-deputy-national-security-advisor-mike-pyles-meeting-with-economy-minister-sergio-massa-of-argentina/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan and Deputy National Security\
   \ Advisor Mike Pyle\u2019s Meeting with Economy Minister Sergio Massa of\_Argentina"

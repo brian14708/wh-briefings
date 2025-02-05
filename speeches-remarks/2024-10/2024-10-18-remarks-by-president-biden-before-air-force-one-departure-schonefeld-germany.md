@@ -1,7 +1,7 @@
 ---
 date: '2024-10-18'
 published_time: 2024-10-18 14:05:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-before-air-force-one-departure-schonefeld-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-before-air-force-one-departure-schonefeld-germany/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Sch\xF6nefeld,\_\
   Germany"

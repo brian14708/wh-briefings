@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-23'
 modified_time: 2022-03-23 16:33:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/23/statement-from-press-secretary-jen-psaki-on-idaho-law-restricting-womens-access-to-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/23/statement-from-press-secretary-jen-psaki-on-idaho-law-restricting-womens-access-to-health-care/
 published_time: 2022-03-23 16:33:33-04:00
 title: "Statement from Press Secretary Jen\_Psaki on Idaho Law Restricting Women\u2019\
   s Access to Health\_Care"

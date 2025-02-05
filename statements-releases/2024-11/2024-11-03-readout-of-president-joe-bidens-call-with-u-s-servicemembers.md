@@ -2,7 +2,7 @@
 date: '2024-11-03'
 modified_time: 2024-11-08 11:13:16-05:00
 published_time: 2024-11-03 11:08:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/03/readout-of-president-joe-bidens-call-with-u-s-servicemembers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/03/readout-of-president-joe-bidens-call-with-u-s-servicemembers/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with U.S. Servicemembers"
 ---

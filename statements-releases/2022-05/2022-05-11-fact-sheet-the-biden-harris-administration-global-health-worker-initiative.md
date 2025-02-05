@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 12:13:08-04:00
 published_time: 2022-05-11 12:13:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Global Health Worker\_Initiative"
 ---

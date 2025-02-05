@@ -1,7 +1,7 @@
 ---
 date: '2023-07-18'
 published_time: 2023-07-18 19:44:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/readout-of-president-joe-bidens-meeting-with-cardinal-matteo-zuppi-of-the-holy-see/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/18/readout-of-president-joe-bidens-meeting-with-cardinal-matteo-zuppi-of-the-holy-see/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Cardinal Matteo Zuppi\
   \ of the Holy\_See"

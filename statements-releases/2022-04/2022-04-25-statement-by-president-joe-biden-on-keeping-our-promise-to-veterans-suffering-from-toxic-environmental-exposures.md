@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 09:25:46-04:00
 published_time: 2022-04-25 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/statement-by-president-joe-biden-on-keeping-our-promise-to-veterans-suffering-from-toxic-environmental-exposures/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/statement-by-president-joe-biden-on-keeping-our-promise-to-veterans-suffering-from-toxic-environmental-exposures/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Keeping our Promise to Veterans Suffering\
   \ from Toxic Environmental\_Exposures"

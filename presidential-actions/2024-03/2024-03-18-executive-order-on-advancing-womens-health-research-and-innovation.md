@@ -1,7 +1,7 @@
 ---
 date: '2024-03-18'
 published_time: 2024-03-18 13:24:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/18/executive-order-on-advancing-womens-health-research-and-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/18/executive-order-on-advancing-womens-health-research-and-innovation/
 tags: presidential-actions
 title: "Executive Order on Advancing Women\u2019s Health Research and\_Innovation"
 ---

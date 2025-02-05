@@ -1,7 +1,7 @@
 ---
 date: '2024-03-15'
 published_time: 2024-03-15 17:48:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/15/remarks-by-president-biden-house-speaker-mike-johnson-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-at-the-annual-friends-of-ireland-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/15/remarks-by-president-biden-house-speaker-mike-johnson-and-taoiseach-leo-varadkar-of-the-republic-of-ireland-at-the-annual-friends-of-ireland-luncheon/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, House Speaker Mike Johnson, and Taoiseach Leo\
   \ Varadkar of the Republic of Ireland at the Annual Friends of Ireland\_Luncheon"

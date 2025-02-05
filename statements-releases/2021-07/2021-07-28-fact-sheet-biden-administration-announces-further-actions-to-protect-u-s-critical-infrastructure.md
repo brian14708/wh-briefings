@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-28'
 modified_time: 2021-07-27 20:37:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/
 published_time: 2021-07-28 09:00:00-04:00
 title: "FACT SHEET: Biden Administration Announces Further Actions to Protect U.S.\
   \ Critical\_Infrastructure"
@@ -50,7 +50,7 @@ implements long overdue efforts to meet the threats we face. The NSM:
     infrastructure community to facilitate the deployment of technology
     and systems that provide threat visibility, indicators, detections,
     and warnings. The Initiative [began in
-    mid-April](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/20/statement-by-nsc-spokesperson-emily-horne-on-the-biden-administrations-efforts-to-protect-u-s-critical-infrastructure/)
+    mid-April](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/20/statement-by-nsc-spokesperson-emily-horne-on-the-biden-administrations-efforts-to-protect-u-s-critical-infrastructure/)
     with an Electricity Subsector pilot, and already over 150
     electricity utilities representing almost 90 million residential
     customers are either deploying or have agreed to deploy control
@@ -81,7 +81,7 @@ The Federal Government cannot do this alone and securing our critical
 infrastructure requires a whole-of-nation effort. This NSM, the ICS
 Cybersecurity Initiative, TSA’s Security Directives and the President’s
 [Executive Order on Improving the Nation’s
-Cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
+Cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
 are parts of a focused and aggressive continuing effort to address these
 significant threats to our nation. 
 

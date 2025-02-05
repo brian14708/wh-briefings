@@ -2,7 +2,7 @@
 date: '2022-07-18'
 modified_time: 2022-07-18 11:10:24-04:00
 published_time: 2022-07-18 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/18/announcement-of-white-house-national-cyber-workforce-and-education-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/18/announcement-of-white-house-national-cyber-workforce-and-education-summit/
 tags: statements-releases
 title: "Announcement of White\_House National Cyber Workforce and Education\_Summit"
 ---

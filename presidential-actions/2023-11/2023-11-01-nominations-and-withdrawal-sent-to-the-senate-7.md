@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 14:30:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/01/nominations-and-withdrawal-sent-to-the-senate-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/01/nominations-and-withdrawal-sent-to-the-senate-7/
 tags: presidential-actions
 title: "Nominations and Withdrawal Sent to the\_Senate"
 ---

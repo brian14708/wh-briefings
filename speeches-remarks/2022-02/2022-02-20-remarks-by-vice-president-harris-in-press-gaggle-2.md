@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-02-20'
 modified_time: 2022-02-20 09:52:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/20/remarks-by-vice-president-harris-in-press-gaggle-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/20/remarks-by-vice-president-harris-in-press-gaggle-2/
 published_time: 2022-02-20 09:51:21-05:00
 title: "Remarks by Vice President Harris in Press\_Gaggle"
 ---

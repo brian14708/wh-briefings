@@ -2,7 +2,7 @@
 date: '2022-06-26'
 modified_time: 2022-06-27 18:14:30-04:00
 published_time: 2022-06-26 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and G7 Leaders Formally Launch the\_Partnership\
   \ for Global Infrastructure and\_Investment"
@@ -85,7 +85,7 @@ This includes:
 
 **President Biden will announce flagship projects of PGII, **[along with
 additional projects that have been undertaken over the past
-year.](https://www.whitehouse.gov/wp-content/uploads/2022/06/Other-PGII-projects.pdf)
+year.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Other-PGII-projects.pdf)
 **PGII will demonstrate how millions of dollars can mobilize tens or
 hundreds of millions in further investments and tens or hundreds of
 millionscan mobilize billions.**

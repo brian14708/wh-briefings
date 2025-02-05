@@ -2,7 +2,7 @@
 date: '2023-04-03'
 modified_time: 2023-04-03 05:34:41-04:00
 published_time: 2023-04-03 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/03/joint-statement-on-u-s-eu-task-force-on-energy-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/03/joint-statement-on-u-s-eu-task-force-on-energy-security/
 tags: statements-releases
 title: "Joint Statement on U.S.-EU Task Force on Energy\_Security"
 ---

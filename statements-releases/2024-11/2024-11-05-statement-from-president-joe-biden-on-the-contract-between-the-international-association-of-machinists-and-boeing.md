@@ -2,7 +2,7 @@
 date: '2024-11-05'
 modified_time: 2024-11-05 00:18:39-05:00
 published_time: 2024-11-05 00:18:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/05/statement-from-president-joe-biden-on-the-contract-between-the-international-association-of-machinists-and-boeing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/05/statement-from-president-joe-biden-on-the-contract-between-the-international-association-of-machinists-and-boeing/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Contract Between the International\
   \ Association of Machinists and\_Boeing"

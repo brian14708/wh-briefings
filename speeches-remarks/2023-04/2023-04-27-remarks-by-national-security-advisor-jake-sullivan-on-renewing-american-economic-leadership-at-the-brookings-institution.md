@@ -2,7 +2,7 @@
 date: '2023-04-27'
 modified_time: 2023-04-27 18:40:35-04:00
 published_time: 2023-04-27 17:50:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/
 tags: speeches-remarks
 title: "Remarks by National Security Advisor Jake Sullivan on Renewing American Economic\
   \ Leadership at the Brookings\_Institution"

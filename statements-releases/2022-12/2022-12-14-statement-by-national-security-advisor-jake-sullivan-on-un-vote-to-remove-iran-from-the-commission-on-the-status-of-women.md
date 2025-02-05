@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 12:13:32-05:00
 published_time: 2022-12-14 12:13:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/statement-by-national-security-advisor-jake-sullivan-on-un-vote-to-remove-iran-from-the-commission-on-the-status-of-women/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/statement-by-national-security-advisor-jake-sullivan-on-un-vote-to-remove-iran-from-the-commission-on-the-status-of-women/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on UN Vote to Remove\
   \ Iran from the Commission on the Status of\_Women"

@@ -2,7 +2,7 @@
 date: '2024-06-19'
 modified_time: 2024-06-19 12:46:24-04:00
 published_time: 2024-06-19 12:45:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/19/statement-from-president-joe-bidenon-the-passing-of-willie-mays/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/19/statement-from-president-joe-bidenon-the-passing-of-willie-mays/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Willie\_Mays"
 ---

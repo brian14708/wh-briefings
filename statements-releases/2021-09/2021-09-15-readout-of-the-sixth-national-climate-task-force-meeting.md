@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-15'
 modified_time: 2021-09-15 16:33:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/readout-of-the-sixth-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/15/readout-of-the-sixth-national-climate-task-force-meeting/
 published_time: 2021-09-15 16:33:37-04:00
 title: "Readout of the Sixth National Climate Task\_Force\_Meeting"
 ---
@@ -37,7 +37,7 @@ in new industries.
   
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the Task Force is chaired by the National Climate Advisor and includes
 Cabinet-level leaders from 21 federal agencies and senior White House
 officials to mobilize the Biden-Harris Administration’s implementation

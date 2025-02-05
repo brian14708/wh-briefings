@@ -2,7 +2,7 @@
 date: '2023-03-06'
 modified_time: 2023-03-06 18:16:53-05:00
 published_time: 2023-03-06 18:16:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-ivy-tech-community-college/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-ivy-tech-community-college/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Ivy Tech Community\
   \ College"

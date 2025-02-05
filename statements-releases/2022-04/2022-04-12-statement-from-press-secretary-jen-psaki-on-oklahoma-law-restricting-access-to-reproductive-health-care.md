@@ -1,7 +1,7 @@
 ---
 date: '2022-04-12'
 published_time: 2022-04-12 14:25:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/12/statement-from-press-secretary-jen-psaki-on-oklahoma-law-restricting-access-to-reproductive-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/12/statement-from-press-secretary-jen-psaki-on-oklahoma-law-restricting-access-to-reproductive-health-care/
 tags: statements-releases
 title: "Statement from Press Secretary Jen\_Psaki on Oklahoma Law Restricting Access\
   \ to Reproductive Health\_Care"

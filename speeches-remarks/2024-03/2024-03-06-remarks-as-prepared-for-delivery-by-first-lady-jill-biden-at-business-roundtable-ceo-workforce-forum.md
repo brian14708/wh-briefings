@@ -1,7 +1,7 @@
 ---
 date: '2024-03-06'
 published_time: 2024-03-06 12:19:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-business-roundtable-ceo-workforce-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-business-roundtable-ceo-workforce-forum/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Business Roundtable\
   \ CEO Workforce\_Forum"

@@ -1,7 +1,7 @@
 ---
 date: '2022-03-31'
 published_time: 2022-03-31 17:32:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-2/
 tags: presidential-actions
 title: "A Proclamation on Adjusting Imports of Steel into the United\_States"
 ---

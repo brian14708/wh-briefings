@@ -2,7 +2,7 @@
 date: '2022-11-14'
 modified_time: 2022-11-14 10:15:56-05:00
 published_time: 2022-11-14 10:15:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/14/a-proclamation-on-america-recycles-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/14/a-proclamation-on-america-recycles-day-2022/
 tags: presidential-actions
 title: "A Proclamation on America Recycles Day,\_2022"
 ---

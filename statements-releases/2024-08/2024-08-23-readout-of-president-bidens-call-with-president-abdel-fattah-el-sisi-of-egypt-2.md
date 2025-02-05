@@ -2,7 +2,7 @@
 date: '2024-08-23'
 modified_time: 2024-08-23 19:47:32-04:00
 published_time: 2024-08-23 19:47:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/23/readout-of-president-bidens-call-with-president-abdel-fattah-el-sisi-of-egypt-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/23/readout-of-president-bidens-call-with-president-abdel-fattah-el-sisi-of-egypt-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Abdel-Fattah El Sisi\
   \ of\_Egypt"

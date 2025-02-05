@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 15:09:42-04:00
 published_time: 2023-09-15 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-the-delegation-of-authority-under-section-404c-of-the-child-soldiers-prevention-act-of-2008/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-the-delegation-of-authority-under-section-404c-of-the-child-soldiers-prevention-act-of-2008/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under Section 404(c) of the Child\
   \ Soldiers Prevention Act of\_2008"

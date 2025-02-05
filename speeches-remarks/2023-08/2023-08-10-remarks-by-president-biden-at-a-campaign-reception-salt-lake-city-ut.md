@@ -2,7 +2,7 @@
 date: '2023-08-10'
 modified_time: 2023-08-11 13:17:34-04:00
 published_time: 2023-08-10 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/10/remarks-by-president-biden-at-a-campaign-reception-salt-lake-city-ut/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/10/remarks-by-president-biden-at-a-campaign-reception-salt-lake-city-ut/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Salt Lake City,\_UT"
 ---

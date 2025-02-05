@@ -2,7 +2,7 @@
 date: '2024-01-16'
 modified_time: 2024-01-16 12:01:10-05:00
 published_time: 2024-01-16 12:01:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/16/remarks-by-vice-president-harris-at-naacp-south-carolina-state-conference-on-martin-luther-king-jr-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/16/remarks-by-vice-president-harris-at-naacp-south-carolina-state-conference-on-martin-luther-king-jr-day/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at NAACP South Carolina State Conference\
   \ on Martin Luther King Jr.\_Day"

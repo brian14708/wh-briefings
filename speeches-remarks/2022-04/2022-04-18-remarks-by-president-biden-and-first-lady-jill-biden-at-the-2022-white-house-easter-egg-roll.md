@@ -2,7 +2,7 @@
 date: '2022-04-18'
 modified_time: 2022-04-18 12:01:44-04:00
 published_time: 2022-04-18 12:01:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2022-white-house-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2022-white-house-easter-egg-roll/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2022 White\_\
   House Easter Egg\_Roll"

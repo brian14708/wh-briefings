@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 11:35:57-05:00
 published_time: 2023-11-16 11:35:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/readout-of-senior-leadership-meeting-with-newdeal-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/readout-of-senior-leadership-meeting-with-newdeal-leaders/
 tags: statements-releases
 title: "Readout of Senior Leadership Meeting with NewDEAL\_Leaders"
 ---

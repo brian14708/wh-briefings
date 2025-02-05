@@ -2,7 +2,7 @@
 date: '2024-01-22'
 modified_time: 2024-01-23 11:16:06-05:00
 published_time: 2024-01-22 23:06:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-vice-president-harris-to-kick-off-nationwide-fight-for-reproductive-freedoms-tour-big-bend-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/22/remarks-by-vice-president-harris-to-kick-off-nationwide-fight-for-reproductive-freedoms-tour-big-bend-wi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris to Kick Off Nationwide \u201CFight for Reproductive\
   \ Freedoms\u201D Tour | Big Bend,\_WI"

@@ -2,7 +2,7 @@
 date: '2024-05-09'
 modified_time: 2024-05-09 19:51:43-04:00
 published_time: 2024-05-09 19:51:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/09/remarks-by-president-biden-and-vice-president-harris-honoring-the-2023-wnba-champions-the-las-vegas-aces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/09/remarks-by-president-biden-and-vice-president-harris-honoring-the-2023-wnba-champions-the-las-vegas-aces/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Honoring the 2023 WNBA\
   \ Champions, the Las Vegas\_Aces"

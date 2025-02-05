@@ -2,7 +2,7 @@
 date: '2024-10-18'
 modified_time: 2024-10-18 14:42:41-04:00
 published_time: 2024-10-18 14:42:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/18/readout-of-the-meeting-of-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-starmer-of-the-united-kingdom-and-president-biden-of-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/18/readout-of-the-meeting-of-president-macron-of-france-chancellor-scholz-of-germany-prime-minister-starmer-of-the-united-kingdom-and-president-biden-of-the-united-states/
 tags: statements-releases
 title: "Readout of the Meeting of President Macron of France, Chancellor Scholz of\
   \ Germany, Prime Minister Starmer of the United Kingdom, and President\_Biden of\

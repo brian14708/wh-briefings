@@ -2,7 +2,7 @@
 date: '2022-12-16'
 modified_time: 2022-12-16 13:10:55-05:00
 published_time: 2022-12-16 13:10:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/16/vice-president-harris-announces-selections-to-the-national-space-councils-users-advisory-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/16/vice-president-harris-announces-selections-to-the-national-space-councils-users-advisory-group/
 tags: statements-releases
 title: "Vice President Harris Announces Selections to the National Space Council\u2019\
   s Users Advisory\_Group"

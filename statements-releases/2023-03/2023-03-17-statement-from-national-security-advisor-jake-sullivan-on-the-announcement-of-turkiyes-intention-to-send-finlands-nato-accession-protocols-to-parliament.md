@@ -1,7 +1,7 @@
 ---
 date: '2023-03-17'
 published_time: 2023-03-17 13:42:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/statement-from-national-security-advisor-jake-sullivan-on-the-announcement-of-turkiyes-intention-to-send-finlands-nato-accession-protocols-to-parliament/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/statement-from-national-security-advisor-jake-sullivan-on-the-announcement-of-turkiyes-intention-to-send-finlands-nato-accession-protocols-to-parliament/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Announcement\
   \ of T\xFCrkiye\u2019s Intention to send Finland\u2019s NATO Accession Protocols\

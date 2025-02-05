@@ -2,7 +2,7 @@
 date: '2023-03-21'
 modified_time: 2023-03-22 19:45:29-04:00
 published_time: 2023-03-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes New Action to Conserve\
   \ and Restore America\u2019s Lands and\_Waters"
@@ -31,11 +31,11 @@ Today’s announcements include:
     demonstrates the Biden-Harris Administration’s commitment to protect
     historically and culturally significant areas and conserve our
     nation’s treasured outdoor spaces. [Avi Kwa Ame National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-avi-kwa-ame-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-avi-kwa-ame-national-monument/)
     in Nevada will honor Tribal Nations and Indigenous peoples while
     conserving our public lands and growing America’s outdoor recreation
     economy. In Texas, [Castner Range National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
     will expand access to the outdoors for the El Paso community while
     honoring our nation’s veterans and servicemembers. Together, these
     new national monuments protect nearly 514,000 acres of public
@@ -65,10 +65,10 @@ conservation, restoration, and stewardship nationwide:
     lands and waters than any president since John F. Kennedy, including
     by restoring protections for [Bears Ears, Grand Staircase-Escalante,
     and Northeast Canyons and Seamounts National
-    Monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/).
+    Monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/).
     Last year, President Biden designated his first new national
     monument, [Camp Hale – Continental
-    Divide](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/)
+    Divide](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/)
     in Colorado.  
 -   Thanks to the President’s Bipartisan Infrastructure Law and the
     Inflation Reduction Act, President Biden has, over his first two
@@ -77,7 +77,7 @@ conservation, restoration, and stewardship nationwide:
 -   Under the President’s leadership, the Administration is making
     unprecedented investments in land, water, and wildlife conservation,
     including by launching the [$1 billion America the Beautiful
-    Challenge](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/).
+    Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/).
     These investments will help meet the President’s goal – set during
     his first week in office – of conserving at least 30% of U.S. lands
     and waters by 2030.  
@@ -101,9 +101,9 @@ conservation, restoration, and stewardship nationwide:
     the [Chesapeake
     Bay](https://www.fsa.usda.gov/news-room/news-releases/2022/usda-announces-initiative-invests-225-million-in-water-quality-improvements-in-chesapeake-bay),
     the
-    [Everglades](https://www.whitehouse.gov/wp-content/uploads/2022/11/Florida-BIL-State-Fact-Sheet-Nov-22.pdf),
+    [Everglades](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Florida-BIL-State-Fact-Sheet-Nov-22.pdf),
     and the [Columbia River
-    Basin](https://www.whitehouse.gov/ceq/news-updates/2022/03/28/columbia-river-basin-fisheries-working-together-to-develop-a-path-forward/).
+    Basin](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/03/28/columbia-river-basin-fisheries-working-together-to-develop-a-path-forward/).
 
 **<u>Establishing Avi Kwa Ame National Monument in Nevada  
 </u>**  
@@ -187,7 +187,7 @@ Access to Lands and Waters</u>**
 the White House Council on Environmental Quality and the White House
 Office of Science and Technology Policy, is releasing the first-ever
 [United States Ocean Climate Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf),
 a groundbreaking roadmap to harness the power of the ocean to advance
 immediate, transformational steps to protect ocean health and address
 the climate crisis. Acknowledging that there is no path to a healthy and
@@ -198,7 +198,7 @@ communities, and ensure a robust and sustainable ocean economy.
 
 **Wildlife Corridors Guidance:** The White House Council on
 Environmental Quality is issuing [new
-guidance](https://www.whitehouse.gov/wp-content/uploads/2023/03/230318-Corridors-connectivity-guidance-memo-final-draft-formatted.pdf)
+guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/230318-Corridors-connectivity-guidance-memo-final-draft-formatted.pdf)
 to Federal agencies on how to better incorporate ecological connectivity
 and wildlife corridors into federal planning and decision-making. The
 guidance highlights the importance of connectivity across terrestrial,
@@ -272,7 +272,7 @@ collisions every year between vehicles and wildlife.
 **Nearly $200 Million to Reduce Wildfire Risk to Communities:**
 Yesterday the U.S. Department of Agriculture’s Forest Service announced
 [nearly $200 million in Community Wildfire Defense Grant (CWDG) program
-grants](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/fact-sheet-biden-harris-administration-provides-communities-resources-to-bolster-resilience-to-wildfires-in-advance-of-2023-fire-season/)
+grants](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/fact-sheet-biden-harris-administration-provides-communities-resources-to-bolster-resilience-to-wildfires-in-advance-of-2023-fire-season/)
 to communities across the country. Funded by President Biden’s
 Bipartisan Infrastructure Law, the CWDG program is designed to assist
 communities, including Tribal communities, non-profit organizations,

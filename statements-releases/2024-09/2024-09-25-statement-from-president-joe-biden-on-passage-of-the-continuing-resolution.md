@@ -1,7 +1,7 @@
 ---
 date: '2024-09-25'
 published_time: 2024-09-25 19:37:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/statement-from-president-joe-biden-on-passage-of-the-continuing-resolution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/statement-from-president-joe-biden-on-passage-of-the-continuing-resolution/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Passage of the Continuing\_Resolution"
 ---

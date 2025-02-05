@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 13:46:47-04:00
 published_time: 2022-05-18 13:40:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-may-18-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-may-18-2022/
 tags: press-briefings
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\
   \ Officials | May 18,\_2022"
@@ -905,4 +905,4 @@ again the next time we get a chance to get together. Thank you.
 11:37 A.M. EDT
 
 To view the COVID-19 press briefing slides, visit:
-https://www.whitehouse.gov/wp-content/uploads/2022/05/COVID-Press-Briefing\_18May2022.pdf
+https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/COVID-Press-Briefing\_18May2022.pdf

@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 13:28:14-04:00
 published_time: 2022-06-29 13:28:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/29/remarks-by-president-biden-and-president-recep-tayyip-erdogan-of-the-republic-of-turkey-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/29/remarks-by-president-biden-and-president-recep-tayyip-erdogan-of-the-republic-of-turkey-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Recep Tayyip Erdo\u011Fan of the\
   \ Republic of Turkey Before Bilateral\_Meeting"

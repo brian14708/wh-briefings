@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-19 16:43:55-04:00
 published_time: 2024-03-18 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Executive Order and Announces New Actions\
   \ to Advance Women\u2019s Health Research and\_Innovation"
@@ -24,7 +24,7 @@ comes to their health—from cardiovascular disease to autoimmune diseases
 to menopause-related conditions. To pioneer the next generation of
 discoveries, the President and the First Lady launched the first-ever
 [White House Initiative on Women’s Health
-Research](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/13/memorandum-on-the-white-house-initiative-on-womens-health-research/),
+Research](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/13/memorandum-on-the-white-house-initiative-on-womens-health-research/),
 which aims to fundamentally change how we approach and fund women’s
 health research in the United States.
 

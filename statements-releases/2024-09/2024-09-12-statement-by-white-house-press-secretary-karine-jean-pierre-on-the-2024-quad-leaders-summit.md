@@ -2,7 +2,7 @@
 date: '2024-09-12'
 modified_time: 2024-09-12 09:54:49-04:00
 published_time: 2024-09-12 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-2024-quad-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/12/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-2024-quad-leaders-summit/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the 2024 Quad\
   \ Leaders\_Summit"

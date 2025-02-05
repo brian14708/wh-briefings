@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 14:57:12-04:00
 published_time: 2022-06-08 14:54:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report-3/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President pro tempore of the Senate\
   \ regarding the War Powers\_Report"

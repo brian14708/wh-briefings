@@ -2,7 +2,7 @@
 date: '2023-03-02'
 modified_time: 2023-03-01 19:48:28-05:00
 published_time: 2023-03-02 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Sweeping Pandemic Anti-Fraud Proposal:\
   \ Going After Systemic Fraud, Taking on Identity Theft, Helping\_Victims"

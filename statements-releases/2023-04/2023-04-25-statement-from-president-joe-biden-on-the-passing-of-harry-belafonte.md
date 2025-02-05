@@ -1,7 +1,7 @@
 ---
 date: '2023-04-25'
 published_time: 2023-04-25 16:00:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/statement-from-president-joe-biden-on-the-passing-of-harry-belafonte/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/statement-from-president-joe-biden-on-the-passing-of-harry-belafonte/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Harry\_Belafonte"
 ---

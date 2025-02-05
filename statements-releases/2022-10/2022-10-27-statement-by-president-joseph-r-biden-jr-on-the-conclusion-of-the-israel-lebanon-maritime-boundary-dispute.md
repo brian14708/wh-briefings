@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-26 23:23:26-04:00
 published_time: 2022-10-27 09:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-joseph-r-biden-jr-on-the-conclusion-of-the-israel-lebanon-maritime-boundary-dispute/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-joseph-r-biden-jr-on-the-conclusion-of-the-israel-lebanon-maritime-boundary-dispute/
 tags: statements-releases
 title: "Statement by President\_Joseph R.\_Biden, Jr. on the Conclusion of the Israel-Lebanon\
   \ Maritime Boundary\_Dispute"

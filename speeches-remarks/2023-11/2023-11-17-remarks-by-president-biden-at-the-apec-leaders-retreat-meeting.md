@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 published_time: 2023-11-17 17:19:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-at-the-apec-leaders-retreat-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-at-the-apec-leaders-retreat-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the APEC Leaders Retreat\_Meeting"
 ---

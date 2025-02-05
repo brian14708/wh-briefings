@@ -1,7 +1,7 @@
 ---
 date: '2022-08-01'
 published_time: 2022-08-01 09:20:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/
 tags: statements-releases
 title: "Readout of\_First\_Convening of Lawyers in Defense of Reproductive Rights\_\
   and\_Justice"

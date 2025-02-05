@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 17:40:39-04:00
 published_time: 2024-09-30 17:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-at-an-event-celebrating-the-2024-u-s-olympic-and-paralympic-teams/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-at-an-event-celebrating-the-2024-u-s-olympic-and-paralympic-teams/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an Event Celebrating the 2024 U.S. Olympic\
   \ and Paralympic\_Teams"

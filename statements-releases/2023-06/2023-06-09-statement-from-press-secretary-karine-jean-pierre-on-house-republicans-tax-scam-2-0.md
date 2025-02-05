@@ -1,7 +1,7 @@
 ---
 date: '2023-06-09'
 published_time: 2023-06-09 17:36:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/statement-from-press-secretary-karine-jean-pierre-on-house-republicans-tax-scam-2-0/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/statement-from-press-secretary-karine-jean-pierre-on-house-republicans-tax-scam-2-0/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on House Republicans\u2019\
   \ Tax Scam\_2.0"

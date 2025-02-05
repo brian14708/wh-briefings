@@ -1,7 +1,7 @@
 ---
 date: '2022-09-19'
 published_time: 2022-09-19 09:29:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/19/statement-by-president-biden-on-the-release-of-mark-frerichs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/19/statement-by-president-biden-on-the-release-of-mark-frerichs/
 tags: statements-releases
 title: "Statement by President\_Biden on the Release of Mark\_Frerichs"
 ---

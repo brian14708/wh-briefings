@@ -1,7 +1,7 @@
 ---
 date: '2022-06-06'
 published_time: 2022-06-06 18:44:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/06/press-briefing-by-press-secretary-karine-jean-pierre-june-6-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/06/press-briefing-by-press-secretary-karine-jean-pierre-june-6-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, June 6,\_2022"
 ---

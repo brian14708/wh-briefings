@@ -1,7 +1,7 @@
 ---
 date: '2022-09-02'
 published_time: 2022-09-02 18:19:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/02/remarks-by-president-biden-on-american-rescue-plan-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/02/remarks-by-president-biden-on-american-rescue-plan-investments/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on American Rescue Plan\_Investments"
 ---

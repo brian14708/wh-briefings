@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-26 20:41:22-04:00
 published_time: 2023-03-27 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-extreme-maga-congressional-republicans-propose-handouts-to-rich-and-tax-hikes-for-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-extreme-maga-congressional-republicans-propose-handouts-to-rich-and-tax-hikes-for-working-families/
 tags: statements-releases
 title: "FACT SHEET: Extreme MAGA Congressional Republicans Propose Handouts to Rich\
   \ and Tax Hikes for Working\_Families"
@@ -16,7 +16,7 @@ The President’s economic vision is to invest in America and grow the
 economy from the bottom up and middle out, not the top down. As part of
 his plan to cut costs for Americans and give families more breathing
 room, **the
-President’s **[**Budget**](https://www.whitehouse.gov/omb/budget/)** cuts
+President’s **[**Budget**](https://bidenwhitehouse.archives.gov/omb/budget/)** cuts
 taxes for working people and families with children by almost $800
 billion over the next 10 years**. Like the rest of the Budget’s
 investments, these tax cuts are more than paid for by ensuring wealthy
@@ -26,7 +26,7 @@ with income below $400,000 per year.
   
 Congressional Republicans have instead offered a set of top-down tax
 proposals. Their agenda would add [over $3 trillion to the
-debt](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/) with
+debt](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/) with
 tax cuts and other giveaways skewed to the wealthy and large
 corporations. Remarkably, even as they have put forward trillions in tax
 cuts, they have also advanced proposals that would *raise* taxes on
@@ -34,10 +34,10 @@ millions of middle-class and working Americans. And now, MAGA
 Republicans
 are [demanding](https://twitter.com/freedomcaucus/status/1634205313623572480)
 [massive
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-raises-costs-for-families/) to
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-raises-costs-for-families/) to
 programs middle-class and working families, seniors, and students rely
 on — from [public
-safety](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-endangers-public-safety/) to
+safety](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-endangers-public-safety/) to
 health care to education —
 while [reportedly](https://www.reuters.com/markets/us/us-house-republicans-working-term-sheet-debt-ceiling-vote-arrington-2023-03-23/) declining
 to put forward a budget, which would show how much of these cuts are
@@ -129,7 +129,7 @@ anyone making less than $400,000 per year**. But taxes would go up for:
     that are taxed at lower rates, and sometimes not taxed at all, many
     of the wealthiest Americans are able pay an average income tax rate
     of just [8
-    percent](https://www.whitehouse.gov/cea/written-materials/2021/09/23/what-is-the-average-federal-individual-income-tax-rate-on-the-wealthiest-americans/) on
+    percent](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/09/23/what-is-the-average-federal-individual-income-tax-rate-on-the-wealthiest-americans/) on
     their full incomes — a lower rate than many firefighters or
     teachers.  
      

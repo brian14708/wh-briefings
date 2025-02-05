@@ -1,7 +1,7 @@
 ---
 date: '2022-09-26'
 published_time: 2022-09-26 14:08:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-macron-and-mrs-macron-of-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-macron-and-mrs-macron-of-france/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the State\
   \ Visit of President Macron and Mrs. Macron of\_France"

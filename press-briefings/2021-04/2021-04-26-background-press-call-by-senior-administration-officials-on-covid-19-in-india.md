@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-04-26'
 modified_time: 2021-04-26 22:19:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/26/background-press-call-by-senior-administration-officials-on-covid-19-in-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/04/26/background-press-call-by-senior-administration-officials-on-covid-19-in-india/
 published_time: 2021-04-26 22:19:44-04:00
 title: "Background Press Call by Senior Administration Officials on COVID-\u206019\
   \ in\_India"

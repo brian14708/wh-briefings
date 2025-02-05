@@ -2,7 +2,7 @@
 date: '2024-12-10'
 modified_time: 2024-12-13 11:02:01-05:00
 published_time: 2024-12-10 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/10/statement-from-vice-president-kamala-harris-on-chips-and-science-act-investments-in-micron-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/10/statement-from-vice-president-kamala-harris-on-chips-and-science-act-investments-in-micron-technology/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on CHIPS and Science Act Investments\
   \ in Micron\_Technology"

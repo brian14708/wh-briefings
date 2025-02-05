@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 published_time: 2022-09-09 10:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/09/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/09/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2022/
 tags: presidential-actions
 title: "A Proclamation on Patriot Day and National Day of Service and Remembrance,\_\
   2022"

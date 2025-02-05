@@ -1,7 +1,7 @@
 ---
 date: '2023-12-27'
 published_time: 2023-12-27 16:32:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/27/memorandum-regarding-the-presidential-determination-and-waiver-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-essential-medicines-medical-countermeasures-and-critical/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/27/memorandum-regarding-the-presidential-determination-and-waiver-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-essential-medicines-medical-countermeasures-and-critical/
 tags: presidential-actions
 title: "Memorandum regarding the Presidential Determination and Waiver Pursuant to\
   \ Section 303 of the Defense Production Act of 1950, as amended, on Essential Medicines,\

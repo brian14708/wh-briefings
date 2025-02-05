@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-11 10:21:12-05:00
 published_time: 2023-12-11 10:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/12/11/full-charge-the-economics-of-building-a-national-ev-charging-network/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/11/full-charge-the-economics-of-building-a-national-ev-charging-network/
 tags: blog
 title: "Full Charge: The Economics of Building a National EV Charging\_Network"
 ---
@@ -12,7 +12,7 @@ title: "Full Charge: The Economics of Building a National EV Charging\_Network"
 ------------------------------------------------------------------------
 
 The President’s [modern American industrial
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
 seeks to address market failures that prevent the U.S. economy from
 serving the nation’s economic and national security needs, including by
 building a clean energy economy. Transportation accounts for the largest
@@ -21,7 +21,7 @@ third](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)),
 with most transportation emissions coming from light-duty vehicles—the
 cars, small trucks, and vans that many of us drive. Meeting the
 President’s goal of [net zero emissions by
-2050](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/)
+2050](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/)
 will require large-scale adoption of electric vehicles (EVs), which can
 produce fewer—or zero—emissions.   
 
@@ -37,7 +37,7 @@ transition through his Investing in America agenda. Through the
 Inflation Reduction Act, he has worked with Congress to lower the price
 of new and used EVs by thousands of dollars and to incentivize American
 EV and battery manufacturing, attracting more than [$152
-*billion*](https://www.whitehouse.gov/invest/?utm_source=invest.gov) of
+*billion*](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) of
 investment into the sector since taking office.
 
 Market research indicates that overall consumer satisfaction with
@@ -59,7 +59,7 @@ indicates that investing in an extensive EV charging network that
 supports a variety of EV models is a relatively cost-effective way to
 overcome the market failures limiting EV adoption. To this end, the
 President has invested [$7.5
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/)
 from his Bipartisan Infrastructure Law towards building a national
 network of EV chargers.
 
@@ -92,7 +92,7 @@ on Norway’s EV incentives suggests that policies that increase access to
 charging stations may be among the best policies to increase EV sales. 
 
 President Biden’s Investing in America agenda is making [public
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
 to harness the benefits that come from a strong network of EV chargers.
 President Biden has committed to building a national network of at least
 500,000 public chargers by 2030. To this end, the Bipartisan
@@ -194,7 +194,7 @@ America](https://www.federalregister.gov/documents/2023/02/21/2023-03498/waiver-
 using domestically produced iron and steel. Starting in July 2024,
 chargers funded by federal money will also need to source the majority
 of their components [from American
-manufacturers](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/#:~:text=Beginning%20July%201%2C%202024%2C%20FHWA,out%20of%20this%20new%20industry.).
+manufacturers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/#:~:text=Beginning%20July%201%2C%202024%2C%20FHWA,out%20of%20this%20new%20industry.).
 Phasing in these requirements over a limited time both accelerates
 growth of American manufacturing capacity for these chargers and gives
 manufacturers reasonable time to reorient supply chains and construct
@@ -217,10 +217,10 @@ capacity.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?w=640"
 class="wp-image-89319" decoding="async" loading="lazy"
 sizes="(max-width: 2146px) 100vw, 2146px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png 2146w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=615,386 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=768,482 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=1270,797 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=1536,963 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=2048,1285 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=510,320 510w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=1020,640 1020w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=2041,1280 2041w, https://www.whitehouse.gov/wp-content/uploads/2023/12/figure1.png?resize=1038,651 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png 2146w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=615,386 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=768,482 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=1270,797 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=1536,963 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=2048,1285 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=510,320 510w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=1020,640 1020w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=2041,1280 2041w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/figure1.png?resize=1038,651 1038w"
 width="2146" height="1346" />
 </figure>
 

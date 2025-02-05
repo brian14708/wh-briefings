@@ -2,7 +2,7 @@
 date: '2022-07-01'
 modified_time: 2022-07-01 16:11:34-04:00
 published_time: 2022-07-01 16:11:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-richmond-and-henrico-health-districts-east-clinic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-richmond-and-henrico-health-districts-east-clinic/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Richmond and\
   \ Henrico Health District\u2019s East\_Clinic"

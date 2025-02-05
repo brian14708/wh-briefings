@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 16:36:15-04:00
 published_time: 2024-09-20 16:36:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/20/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/20/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Asian American and Native American Pacific Islander-Serving\
   \ Institutions Week,\_2024"

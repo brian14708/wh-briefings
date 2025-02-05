@@ -2,7 +2,7 @@
 date: '2024-04-18'
 modified_time: 2024-04-18 18:14:06-04:00
 published_time: 2024-04-18 18:14:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/18/nominations-sent-to-the-senate-143/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/18/nominations-sent-to-the-senate-143/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

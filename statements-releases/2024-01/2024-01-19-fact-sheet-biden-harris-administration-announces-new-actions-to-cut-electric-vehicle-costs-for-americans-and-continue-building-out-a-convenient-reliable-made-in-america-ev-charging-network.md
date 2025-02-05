@@ -2,7 +2,7 @@
 date: '2024-01-19'
 modified_time: 2024-01-19 18:45:04-05:00
 published_time: 2024-01-19 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Cut\
   \ Electric Vehicle Costs for Americans and Continue Building Out a Convenient, Reliable,\
@@ -52,7 +52,7 @@ network.
 
 The Administration’s historic investments in EV technologies are also
 spurring [private
-companies](https://www.whitehouse.gov/wp-content/uploads/2024/01/Private-Sector-EV-Charging-Announcements.pdf) to
+companies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Private-Sector-EV-Charging-Announcements.pdf) to
 invest alongside the federal government in EV charging. **More than $25
 billion of investment in the U.S. EV charging network has been announced
 to date, including more than $10 billion from the private sector.** And
@@ -64,7 +64,7 @@ office, **[**at least 40 U.S.-based EV charger
 factories**](https://www.energy.gov/invest)** have been announced or
 opened**. These facilities now have the capacity to produce [more than a
 million
-chargers](https://www.whitehouse.gov/briefing-room/blog/2023/12/11/full-charge-the-economics-of-building-a-national-ev-charging-network/) each
+chargers](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/11/full-charge-the-economics-of-building-a-national-ev-charging-network/) each
 year—including 60,000 fast chargers.  
   
 The Biden-Harris Administration is making it easier and cheaper for
@@ -73,7 +73,7 @@ benefits American workers and families. **But Republicans in Congress
 are trying to thwart this progress by passing a measure that would
 eliminate the federal government’s strong domestic manufacturing
 standards for EV chargers. The President has pledged to veto
-this **[**resolution**](https://www.whitehouse.gov/wp-content/uploads/2023/11/SAP-SJRes-38.pdf),
+this **[**resolution**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/SAP-SJRes-38.pdf),
 which would hurt American workers, undermine domestic manufacturing, and
 benefit competitor nations like the People’s Republic of China.
 
@@ -174,6 +174,6 @@ benefits communities everywhere:</span>
 **Additionally, as a result of the Biden-Harris Administration’s
 leadership, more than a dozen private companies have announced major
 commitments to expand EV charging. See a list of
-commitments **[**here**](https://www.whitehouse.gov/wp-content/uploads/2024/01/Private-Sector-EV-Charging-Announcements.pdf)**.**
+commitments **[**here**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Private-Sector-EV-Charging-Announcements.pdf)**.**
 
 \###

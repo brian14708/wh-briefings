@@ -1,7 +1,7 @@
 ---
 date: '2024-11-08'
 published_time: 2024-11-08 16:54:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/08/a-proclamation-on-world-freedom-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/08/a-proclamation-on-world-freedom-day-2024/
 tags: presidential-actions
 title: "A Proclamation on World Freedom Day,\_2024"
 ---

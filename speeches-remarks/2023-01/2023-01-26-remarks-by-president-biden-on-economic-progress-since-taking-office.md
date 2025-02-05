@@ -1,7 +1,7 @@
 ---
 date: '2023-01-26'
 published_time: 2023-01-26 20:57:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/26/remarks-by-president-biden-on-economic-progress-since-taking-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/26/remarks-by-president-biden-on-economic-progress-since-taking-office/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Economic Progress Since Taking\_Office"
 ---
@@ -435,7 +435,7 @@ of America —
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/01/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/image.gif"
 title="Anchor" class="wp-image-68580" loading="lazy" width="1"
 height="1" />
 </figure>

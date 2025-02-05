@@ -1,7 +1,7 @@
 ---
 date: '2024-01-08'
 published_time: 2024-01-08 17:05:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/08/readout-of-vice-president-harriss-call-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/08/readout-of-vice-president-harriss-call-with-crown-prince-salman-bin-hamad-al-khalifa-of-bahrain-2/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Crown Prince Salman bin\
   \ Hamad Al Khalifa of\_Bahrain"

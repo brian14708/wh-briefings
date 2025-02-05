@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 17:06:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/30/memorandum-on-delegation-of-authority-under-public-law-117-169/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/30/memorandum-on-delegation-of-authority-under-public-law-117-169/
 tags: speeches-remarks
 title: "Memorandum on Delegation of Authority Under Public Law\_117-169"
 ---

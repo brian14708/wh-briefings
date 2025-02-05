@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 14:57:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/03/fact-sheet-president-biden-hosts-inaugural-americas-partnership-for-economic-prosperity-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/03/fact-sheet-president-biden-hosts-inaugural-americas-partnership-for-economic-prosperity-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Hosts Inaugural Americas Partnership for Economic\
   \ Prosperity Leaders\u2019\_Summit"

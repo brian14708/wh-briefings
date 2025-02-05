@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 07:49:58-05:00
 published_time: 2023-02-02 06:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-on-one-year-anniversary-of-reignited-cancer-moonshot-biden-harris-administration-announces-new-actions-to-end-cancer-as-we-know-it/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-on-one-year-anniversary-of-reignited-cancer-moonshot-biden-harris-administration-announces-new-actions-to-end-cancer-as-we-know-it/
 tags: statements-releases
 title: "FACT SHEET: On One Year Anniversary of Reignited Cancer Moonshot, Biden-\u2060\
   Harris Administration Announces New Actions to End Cancer as We Know\_It"
@@ -13,7 +13,7 @@ the Cancer Moonshot, setting an ambitious, achievable goal: to reduce
 the death rate from cancer by at least 50 percent over the next 25
 years, and improve the experience of people and families living with and
 surviving cancer, ultimately [ending cancer as we know it
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).  
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).  
   
 The Cancer Moonshot has spurred tremendous action across the federal
 government and from the public and private sectors, building a strong
@@ -32,7 +32,7 @@ patients and communities, and (5) support patients and caregivers.
   
 To date, the Cancer Moonshot has [announced over 25 new programs,
 policies, and
-resources](https://www.whitehouse.gov/cancermoonshot/fact-sheets/) to
+resources](https://bidenwhitehouse.archives.gov/cancermoonshot/fact-sheets/) to
 address these five priority areas. The First Lady has traveled the
 country and the world to hear from cancer patients and their loved ones,
 as well as the researchers, physicians, nurses, and patient navigators
@@ -269,7 +269,7 @@ Expansion**
 reignited Cancer Moonshot:**
 
 -   The Administration
-    launched [WhiteHouse.gov/CancerMoonshot](https://www.whitehouse.gov/cancermoonshot/),
+    launched [WhiteHouse.gov/CancerMoonshot](https://bidenwhitehouse.archives.gov/cancermoonshot/),
     where patients can share their stories of inspiration and hope,
     people can provide their ideas on how to make progress, and
     organization, companies, and institutions can commit new actions to

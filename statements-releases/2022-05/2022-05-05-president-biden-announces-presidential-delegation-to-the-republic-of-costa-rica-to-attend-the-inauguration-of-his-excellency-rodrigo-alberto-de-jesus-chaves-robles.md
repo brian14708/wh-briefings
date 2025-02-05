@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-05 17:04:07-04:00
 published_time: 2022-05-05 17:04:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/president-biden-announces-presidential-delegation-to-the-republic-of-costa-rica-to-attend-the-inauguration-of-his-excellency-rodrigo-alberto-de-jesus-chaves-robles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/president-biden-announces-presidential-delegation-to-the-republic-of-costa-rica-to-attend-the-inauguration-of-his-excellency-rodrigo-alberto-de-jesus-chaves-robles/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Republic of Costa\
   \ Rica to Attend the Inauguration of His Excellency Rodrigo Alberto de Jes\xFAs\

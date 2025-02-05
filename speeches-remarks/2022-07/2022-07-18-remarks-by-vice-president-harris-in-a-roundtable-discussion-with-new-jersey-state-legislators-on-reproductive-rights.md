@@ -1,7 +1,7 @@
 ---
 date: '2022-07-18'
 published_time: 2022-07-18 22:32:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/18/remarks-by-vice-president-harris-in-a-roundtable-discussion-with-new-jersey-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/18/remarks-by-vice-president-harris-in-a-roundtable-discussion-with-new-jersey-state-legislators-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks By Vice President Harris\_In A Roundtable Discussion With New Jersey\
   \ State Legislators\_On Reproductive\_Rights"

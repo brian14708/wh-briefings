@@ -2,7 +2,7 @@
 date: '2023-02-24'
 modified_time: 2023-02-23 22:32:46-05:00
 published_time: 2023-02-24 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/24/fact-sheet-on-one-year-anniversary-of-russias-invasion-of-ukraine-biden-administration-announces-actions-to-support-ukraine-and-hold-russia-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/24/fact-sheet-on-one-year-anniversary-of-russias-invasion-of-ukraine-biden-administration-announces-actions-to-support-ukraine-and-hold-russia-accountable/
 tags: statements-releases
 title: "FACT SHEET: On One Year Anniversary of Russia\u2019s Invasion of Ukraine,\
   \ Biden Administration Announces Actions to Support Ukraine and Hold Russia\_Accountable"
@@ -23,7 +23,7 @@ providing Ukraine with the support it needs and holding Russia
 accountable for its war of aggression. A more comprehensive list of
 actions the U.S. has taken over the past year in response to Russia’s
 invasion is
-available [**HERE**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/21/fact-sheet-one-year-of-supporting-ukraine/).  
+available [**HERE**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/21/fact-sheet-one-year-of-supporting-ukraine/).  
   
 **<span style="text-decoration: underline">Support for
 Ukraine</span>**  

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-27'
 published_time: 2023-03-27 17:01:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/readout-of-national-security-advisor-jake-sullivans-call-with-japans-national-security-secretariat-akiba-takeo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/readout-of-national-security-advisor-jake-sullivans-call-with-japans-national-security-secretariat-akiba-takeo/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Japan\u2019\
   s National Security Secretariat Akiba\_Takeo"

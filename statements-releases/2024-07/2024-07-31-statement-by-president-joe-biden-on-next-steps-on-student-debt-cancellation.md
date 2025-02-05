@@ -2,7 +2,7 @@
 date: '2024-07-31'
 modified_time: 2024-07-31 07:38:53-04:00
 published_time: 2024-07-31 07:38:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/31/statement-by-president-joe-biden-on-next-steps-on-student-debt-cancellation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/31/statement-by-president-joe-biden-on-next-steps-on-student-debt-cancellation/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Next Steps on Student Debt\_Cancellation"
 ---

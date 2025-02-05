@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-21 23:17:08-05:00
 published_time: 2023-12-22 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/22/background-press-call-on-upcoming-action-to-continue-holding-russia-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/22/background-press-call-on-upcoming-action-to-continue-holding-russia-accountable/
 tags: press-briefings
 title: "Background Press Call on Upcoming Action to Continue Holding Russia\_Accountable"
 ---

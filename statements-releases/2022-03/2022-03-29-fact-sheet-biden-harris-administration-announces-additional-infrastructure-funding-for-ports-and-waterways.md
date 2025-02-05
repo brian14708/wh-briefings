@@ -2,7 +2,7 @@
 date: '2022-03-29'
 modified_time: 2022-03-29 19:12:30-04:00
 published_time: 2022-03-29 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/fact-sheet-biden-harris-administration-announces-additional-infrastructure-funding-for-ports-and-waterways/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/29/fact-sheet-biden-harris-administration-announces-additional-infrastructure-funding-for-ports-and-waterways/
 tags: statements-releases
 title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces Additional Infrastructure\
   \ Funding for Ports and\_Waterways"
@@ -85,7 +85,7 @@ flow to historically marginalized, underserved, and overburdened
 communities to build their economies and reduce their disproportionate
 environmental burden. The investments also underscore how President
 Biden’s Bipartisan Infrastructure Law is [delivering
-results](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/)
+results](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/)
 to communities across America, advancing racial equity, combatting
 climate change, and creating job opportunities for American workers.  
   
@@ -102,7 +102,7 @@ America’s ports supported more than 30 million jobs and approximately
 have strained their capacity and jeopardized supply chains.  
   
 Building on the
-[work](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
+[work](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
 this Administration has done this past year to get goods flowing from
 ships to shelves faster, including $6.6 billion in funding announced
 through the fiscal year 2023 Budget, today the U.S. Army Corps of
@@ -235,7 +235,7 @@ transmission and retention of traditional knowledge for both the Pueblo
 of Santa Clara and Ohkay Owingeh.
 
 The Biden-Harris Administration [Budget for Fiscal Year
-2023](https://www.whitehouse.gov/omb/briefing-room/2022/03/28/fact-sheet-the-presidents-budget-for-fiscal-year-2023/)
+2023](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/03/28/fact-sheet-the-presidents-budget-for-fiscal-year-2023/)
 will provide further opportunity to advance infrastructure needs of the
 nation through the Corps Civil Works program, including through $6.6
 billion commercial navigation improvements, flood and storm damage

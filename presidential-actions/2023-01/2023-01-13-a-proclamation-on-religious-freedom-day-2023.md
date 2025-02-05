@@ -1,7 +1,7 @@
 ---
 date: '2023-01-13'
 published_time: 2023-01-13 10:14:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/13/a-proclamation-on-religious-freedom-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/13/a-proclamation-on-religious-freedom-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Religious Freedom Day,\_2023"
 ---

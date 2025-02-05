@@ -1,7 +1,7 @@
 ---
 date: '2024-01-28'
 published_time: 2024-01-28 15:35:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/28/background-press-call-on-the-counternarcotics-working-group-trip-to-beijing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/28/background-press-call-on-the-counternarcotics-working-group-trip-to-beijing/
 tags: press-briefings
 title: "Background Press Call on the Counternarcotics Working Group Trip to\_Beijing"
 ---

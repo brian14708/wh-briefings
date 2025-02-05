@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-23 17:40:16-04:00
 published_time: 2022-09-23 17:40:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/readout-of-president-joe-biden-meeting-with-economic-team/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/readout-of-president-joe-biden-meeting-with-economic-team/
 tags: statements-releases
 title: "Readout of President Joe\_Biden Meeting with Economic\_Team"
 ---

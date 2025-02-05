@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2021-10-05'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/05/a-proclamation-on-german-american-day-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/05/a-proclamation-on-german-american-day-2021/
 published_time: 2021-10-05 10:08:02-04:00
 title: "A Proclamation on German-American Day,\_2021"
 ---

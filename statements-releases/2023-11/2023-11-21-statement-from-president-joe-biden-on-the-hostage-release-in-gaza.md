@@ -2,7 +2,7 @@
 date: '2023-11-21'
 modified_time: 2023-11-21 23:05:57-05:00
 published_time: 2023-11-21 23:05:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/statement-from-president-joe-biden-on-the-hostage-release-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/statement-from-president-joe-biden-on-the-hostage-release-in-gaza/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Hostage Release in\_Gaza"
 ---

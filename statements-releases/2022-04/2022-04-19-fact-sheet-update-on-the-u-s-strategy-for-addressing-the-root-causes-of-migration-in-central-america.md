@@ -2,7 +2,7 @@
 date: '2022-04-19'
 modified_time: 2022-04-19 18:33:20-04:00
 published_time: 2022-04-19 15:46:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
 tags: statements-releases
 title: "FACT SHEET: Update on the U.S. Strategy for Addressing the Root Causes of\
   \ Migration in Central\_America"
@@ -11,7 +11,7 @@ title: "FACT SHEET: Update on the U.S. Strategy for Addressing the Root Causes o
 **April 2022**
 
 [Vice President Harris has led the Root Causes
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/),
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/),
 which aligns U.S. Government efforts to address the economic,
 governance, and security drivers of irregular migration from Central
 America.  The Biden-Harris Administration’s comprehensive strategy
@@ -19,14 +19,14 @@ combines significant U.S. Government resources with substantial private
 sector investments to support the long-term development of the region. 
 To advance the strategy, the Vice President met with regional leaders
 and traveled to
-[Guatemala](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/07/fact-sheet-u-s-guatemala-cooperation/),
-[Mexico](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/),
+[Guatemala](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/07/fact-sheet-u-s-guatemala-cooperation/),
+[Mexico](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/),
 and
-[Honduras](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/)
+[Honduras](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/)
 to launch new initiatives that sustainably address the root causes of
 migration.  The Vice President also brought together private sector
 leaders through her [*Call to
-Action*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/#:~:text=The%20Call%20to%20Action's%20six,development%3B%20and%20public%20health%20access.)
+Action*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/#:~:text=The%20Call%20to%20Action's%20six,development%3B%20and%20public%20health%20access.)
 initiative that has generated more than $1.2 billion in commitments to
 create new jobs and opportunities for people in the region.  In
 addition, she has engaged partners around the world to generate new
@@ -162,4 +162,4 @@ As part of the Vice President’s *Call to Action*:
 
 *For additional details, please review the* [Report on the U.S. Strategy
 for Addressing the Root Causes of Migration in Central
-America.](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/report-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/)
+America.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/report-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/)

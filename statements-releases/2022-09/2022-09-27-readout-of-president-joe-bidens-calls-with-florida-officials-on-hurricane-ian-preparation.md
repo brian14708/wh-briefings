@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 12:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/readout-of-president-joe-bidens-calls-with-florida-officials-on-hurricane-ian-preparation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/readout-of-president-joe-bidens-calls-with-florida-officials-on-hurricane-ian-preparation/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Calls with Florida Officials on Hurricane\
   \ Ian\_Preparation"

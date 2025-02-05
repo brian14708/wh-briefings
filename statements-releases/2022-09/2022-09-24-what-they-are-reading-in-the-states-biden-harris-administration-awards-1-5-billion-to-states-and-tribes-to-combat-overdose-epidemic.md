@@ -2,7 +2,7 @@
 date: '2022-09-24'
 modified_time: 2022-09-24 15:05:19-04:00
 published_time: 2022-09-24 15:05:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/24/what-they-are-reading-in-the-states-biden-harris-administration-awards-1-5-billion-to-states-and-tribes-to-combat-overdose-epidemic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/24/what-they-are-reading-in-the-states-biden-harris-administration-awards-1-5-billion-to-states-and-tribes-to-combat-overdose-epidemic/
 tags: statements-releases
 title: "What They Are Reading in the States: Biden-\u2060Harris Administration Awards\
   \ $1.5 Billion to States and Tribes to Combat Overdose\_Epidemic"

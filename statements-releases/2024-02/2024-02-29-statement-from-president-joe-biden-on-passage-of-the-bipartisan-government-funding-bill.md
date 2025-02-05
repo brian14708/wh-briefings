@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-03-01 10:40:55-05:00
 published_time: 2024-02-29 20:52:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/statement-from-president-joe-biden-on-passage-of-the-bipartisan-government-funding-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/statement-from-president-joe-biden-on-passage-of-the-bipartisan-government-funding-bill/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Passage of the Bipartisan Government\
   \ Funding\_Bill"

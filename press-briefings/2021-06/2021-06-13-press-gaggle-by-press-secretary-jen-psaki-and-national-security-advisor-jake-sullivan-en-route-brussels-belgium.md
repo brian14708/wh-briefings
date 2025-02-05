@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-13'
 modified_time: 2021-06-13 18:03:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/13/press-gaggle-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-en-route-brussels-belgium/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/13/press-gaggle-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan-en-route-brussels-belgium/
 published_time: 2021-06-13 18:03:49-04:00
 title: "Press Gaggle by Press Secretary Jen\_Psaki and National Security Advisor Jake\
   \ Sullivan En Route Brussels,\_Belgium"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 published_time: 2023-05-19 10:09:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/19/g7-leaders-hiroshima-vision-on-nuclear-disarmament/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/19/g7-leaders-hiroshima-vision-on-nuclear-disarmament/
 tags: statements-releases
 title: "G7 Leaders\u2019 Hiroshima Vision on Nuclear\_Disarmament"
 ---

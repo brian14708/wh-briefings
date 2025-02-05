@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 15:45:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/readout-of-vice-president-harriss-meeting-with-prime-minister-rowley-of-trinidad-and-tobago/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/readout-of-vice-president-harriss-meeting-with-prime-minister-rowley-of-trinidad-and-tobago/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Rowley\
   \ of Trinidad and\_Tobago"

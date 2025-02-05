@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 16:16:01-04:00
 published_time: 2024-03-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/white-house-announces-theme-and-activities-for-the-2024-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/white-house-announces-theme-and-activities-for-the-2024-easter-egg-roll/
 tags: statements-releases
 title: "White\_House Announces Theme and Activities for the 2024 Easter Egg\_Roll"
 ---

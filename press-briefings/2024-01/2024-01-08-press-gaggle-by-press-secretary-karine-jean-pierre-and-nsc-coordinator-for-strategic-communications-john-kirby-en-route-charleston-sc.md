@@ -2,7 +2,7 @@
 date: '2024-01-08'
 modified_time: 2024-01-08 15:06:44-05:00
 published_time: 2024-01-08 15:06:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-charleston-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-charleston-sc/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Charleston,\_SC"

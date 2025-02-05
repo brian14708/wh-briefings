@@ -2,7 +2,7 @@
 date: '2022-12-01'
 modified_time: 2022-12-01 11:31:35-05:00
 published_time: 2022-12-01 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/fact-sheet-the-biden-harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/fact-sheet-the-biden-harris-administrations-efforts-to-end-hiv-aids-at-home-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Efforts to End HIV/AIDS\
   \ At Home and\_Abroad"
@@ -132,10 +132,10 @@ impact, including:
     and others.
 -   **Advancing equity for marginalized and underserved Americans.** On
     his first day in office, President Biden signed an [executive
-    order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) on
+    order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) on
     advancing racial equity and support for underserved communities, and
     in February 2021, he signed
-    a [memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) on
+    a [memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) on
     advancing the human rights of LGBTQI+ individuals around the world.
     To mark Pride Month 2022, the President signed the most
     significant [executive

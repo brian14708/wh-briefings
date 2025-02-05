@@ -1,7 +1,7 @@
 ---
 date: '2023-09-09'
 published_time: 2023-09-09 09:48:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/
 tags: statements-releases
 title: "FACT SHEET: World Leaders Launch a Landmark India-Middle East-Europe Economic\_\
   Corridor"
@@ -37,4 +37,4 @@ are a gateway to our future and underpin our shared vision of an open,
 secure, and prosperous future.   
    
 Read the
-MOU [here](https://www.whitehouse.gov/wp-content/uploads/2023/09/Project-Gateway-Multilateral-MOU.pdf).
+MOU [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Project-Gateway-Multilateral-MOU.pdf).

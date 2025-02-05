@@ -2,7 +2,7 @@
 date: '2023-09-02'
 modified_time: 2023-09-03 11:00:14-04:00
 published_time: 2023-09-02 17:48:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/02/statement-from-president-joe-biden-on-the-passing-of-bill-richardson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/02/statement-from-president-joe-biden-on-the-passing-of-bill-richardson/
 tags: statements-releases
 title: "Statement from President Joe\_Biden On the Passing of Bill\_Richardson"
 ---

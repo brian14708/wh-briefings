@@ -2,7 +2,7 @@
 date: '2022-08-02'
 modified_time: 2022-08-02 12:26:01-04:00
 published_time: 2022-08-02 12:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/statement-by-president-joe-biden-on-all-time-low-uninsured-rate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/statement-by-president-joe-biden-on-all-time-low-uninsured-rate/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on All-Time Low Uninsured\_Rate"
 ---

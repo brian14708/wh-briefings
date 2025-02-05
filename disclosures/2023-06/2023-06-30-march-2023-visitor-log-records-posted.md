@@ -2,7 +2,7 @@
 date: '2023-06-30'
 modified_time: 2023-06-30 16:54:07-04:00
 published_time: 2023-06-30 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/disclosures/2023/06/30/march-2023-visitor-log-records-posted/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2023/06/30/march-2023-visitor-log-records-posted/
 tags: disclosures
 title: "March 2023 Visitor Log Records\_Posted"
 ---
@@ -18,10 +18,10 @@ administration to post visitor log records from its first full year in
 office. 
 
 To learn more about the policy, read our
-<a href="https://www.whitehouse.gov/voluntary-disclosure/"
-data-id="https://www.whitehouse.gov/voluntary-disclosure/"
+<a href="https://bidenwhitehouse.archives.gov/voluntary-disclosure/"
+data-id="https://bidenwhitehouse.archives.gov/voluntary-disclosure/"
 data-type="URL">voluntary disclosure policy</a>. To view visitor log
 records, view our
-<a href="https://www.whitehouse.gov/disclosures/visitor-logs/"
-data-id="https://www.whitehouse.gov/disclosures/visitor-logs/"
+<a href="https://bidenwhitehouse.archives.gov/disclosures/visitor-logs/"
+data-id="https://bidenwhitehouse.archives.gov/disclosures/visitor-logs/"
 data-type="URL">disclosure page</a>.

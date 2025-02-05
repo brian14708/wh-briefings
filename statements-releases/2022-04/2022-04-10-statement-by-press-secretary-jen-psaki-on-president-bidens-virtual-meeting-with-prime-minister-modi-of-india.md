@@ -2,7 +2,7 @@
 date: '2022-04-10'
 modified_time: 2022-04-10 07:52:25-04:00
 published_time: 2022-04-10 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/10/statement-by-press-secretary-jen-psaki-on-president-bidens-virtual-meeting-with-prime-minister-modi-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/10/statement-by-press-secretary-jen-psaki-on-president-bidens-virtual-meeting-with-prime-minister-modi-of-india/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Virtual\
   \ Meeting with Prime Minister Modi of\_India"

@@ -2,7 +2,7 @@
 date: '2023-12-28'
 modified_time: 2023-12-28 17:57:55-05:00
 published_time: 2023-12-28 14:18:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/28/mexico-u-s-joint-communique-mexico-and-the-united-states-reaffirm-their-shared-commitments-on-an-orderly-humane-and-regular-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/28/mexico-u-s-joint-communique-mexico-and-the-united-states-reaffirm-their-shared-commitments-on-an-orderly-humane-and-regular-migration/
 tags: statements-releases
 title: "Mexico-U.S. Joint Communique: Mexico and the United\_States Reaffirm Their\
   \ Shared Commitments on an Orderly, Humane and Regular\_Migration"

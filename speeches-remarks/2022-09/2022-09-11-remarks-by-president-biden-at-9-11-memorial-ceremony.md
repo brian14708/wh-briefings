@@ -1,7 +1,7 @@
 ---
 date: '2022-09-11'
 published_time: 2022-09-11 12:30:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/11/remarks-by-president-biden-at-9-11-memorial-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/11/remarks-by-president-biden-at-9-11-memorial-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at 9/11 Memorial\_Ceremony"
 ---

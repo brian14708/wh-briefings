@@ -2,7 +2,7 @@
 date: '2023-05-21'
 modified_time: 2023-05-21 03:16:11-04:00
 published_time: 2023-05-21 03:16:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/21/readout-of-president-bidens-meeting-with-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/21/readout-of-president-bidens-meeting-with-president-volodymyr-zelenskyy-of-ukraine/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Volodymyr Zelenskyy\
   \ of\_Ukraine"

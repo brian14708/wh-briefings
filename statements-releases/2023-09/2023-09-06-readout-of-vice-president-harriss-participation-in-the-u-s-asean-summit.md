@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 10:07:31-04:00
 published_time: 2023-09-06 10:00:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/readout-of-vice-president-harriss-participation-in-the-u-s-asean-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/readout-of-vice-president-harriss-participation-in-the-u-s-asean-summit/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Participation in the U.S.-ASEAN\_\
   Summit"

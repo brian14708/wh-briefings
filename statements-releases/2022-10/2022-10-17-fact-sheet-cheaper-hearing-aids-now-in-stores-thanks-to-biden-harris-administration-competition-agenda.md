@@ -2,7 +2,7 @@
 date: '2022-10-17'
 modified_time: 2022-10-16 20:03:57-04:00
 published_time: 2022-10-17 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/
 tags: statements-releases
 title: "FACT SHEET: Cheaper Hearing Aids Now in Stores Thanks to Biden-\u2060Harris\
   \ Administration Competition\_Agenda"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Cheaper Hearing Aids Now in Stores Thanks to Biden-\u2060Har
  
 To lower the price of hearing aids and expand access, President Biden’s
 [Executive Order on Promoting Competition in the American
-Economy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+Economy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
 called on the Food and Drug Administration (FDA) to make hearing aids
 available over the counter, without a prescription. That is now reality.
 Starting today, hearings aids are now on store shelves across the

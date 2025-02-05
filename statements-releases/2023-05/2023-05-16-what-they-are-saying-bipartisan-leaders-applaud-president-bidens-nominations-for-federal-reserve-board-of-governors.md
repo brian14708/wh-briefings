@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-15 21:33:42-04:00
 published_time: 2023-05-16 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/what-they-are-saying-bipartisan-leaders-applaud-president-bidens-nominations-for-federal-reserve-board-of-governors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/what-they-are-saying-bipartisan-leaders-applaud-president-bidens-nominations-for-federal-reserve-board-of-governors/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Bipartisan Leaders Applaud President\_Biden\u2019s Nominations\
   \ for Federal Reserve Board of\_Governors"

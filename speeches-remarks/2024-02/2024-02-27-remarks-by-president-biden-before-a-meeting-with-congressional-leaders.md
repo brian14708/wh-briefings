@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-27 14:06:51-05:00
 published_time: 2024-02-27 14:06:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-president-biden-before-a-meeting-with-congressional-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-president-biden-before-a-meeting-with-congressional-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before a Meeting with Congressional\_Leaders"
 ---

@@ -2,7 +2,7 @@
 date: '2022-12-21'
 modified_time: 2022-12-21 15:53:31-05:00
 published_time: 2022-12-21 15:53:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/21/president-biden-names-twenty-eighth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/21/president-biden-names-twenty-eighth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Twenty-Eighth Round of Judicial\_Nominees"
 ---

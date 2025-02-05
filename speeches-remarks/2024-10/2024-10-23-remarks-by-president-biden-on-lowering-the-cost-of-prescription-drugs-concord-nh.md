@@ -1,7 +1,7 @@
 ---
 date: '2024-10-23'
 published_time: 2024-10-23 11:29:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-president-biden-on-lowering-the-cost-of-prescription-drugs-concord-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-president-biden-on-lowering-the-cost-of-prescription-drugs-concord-nh/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering the Cost of Prescription Drugs | Concord,\_\
   NH"

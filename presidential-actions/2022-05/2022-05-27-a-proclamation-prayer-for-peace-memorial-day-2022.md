@@ -1,7 +1,7 @@
 ---
 date: '2022-05-27'
 published_time: 2022-05-27 11:52:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/27/a-proclamation-prayer-for-peace-memorial-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/27/a-proclamation-prayer-for-peace-memorial-day-2022/
 tags: presidential-actions
 title: "A Proclamation: Prayer for Peace, Memorial Day\_2022"
 ---

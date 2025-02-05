@@ -2,7 +2,7 @@
 date: '2022-12-09'
 modified_time: 2022-12-09 12:34:39-05:00
 published_time: 2022-12-09 12:34:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-from-president-joe-biden-on-uaw-vote-in-warren-oh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/09/statement-from-president-joe-biden-on-uaw-vote-in-warren-oh/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on UAW Vote in Warren,\_OH"
 ---

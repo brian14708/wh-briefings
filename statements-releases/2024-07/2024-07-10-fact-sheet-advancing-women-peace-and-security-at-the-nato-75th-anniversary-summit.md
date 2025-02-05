@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-10 09:25:45-04:00
 published_time: 2024-07-10 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-advancing-women-peace-and-security-at-the-nato-75th-anniversary-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-advancing-women-peace-and-security-at-the-nato-75th-anniversary-summit/
 tags: statements-releases
 title: "FACT SHEET: Advancing Women, Peace and Security at the NATO 75th Anniversary\_\
   Summit"
@@ -25,10 +25,10 @@ Since the start of the Biden-Harris Administration, the President and
 Vice President have taken historic steps to strengthen women’s
 meaningful participation in national security, defense, and political
 leadership, pursuant to our [National Strategy on Gender Equity and
-Equality](https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
+Equality](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
 and through implementation of the [2023 Women, Peace, and Security (WPS)
 Strategy and National Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/11/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf),
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf),
 which aligns with NATO’s new WPS policy reflecting critical shifts in
 our global landscape—including geopolitical changes, a rise in
 climate-related crises, and advancements in technology.  The
@@ -42,7 +42,7 @@ Globally](https://www.state.gov/reports/united-states-strategy-to-prevent-and-re
   
 This week, as Allies and partners gather for the [NATO
 75<sup>th</sup> Anniversary
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-the-2024-nato-summit-in-washington/),
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-the-2024-nato-summit-in-washington/),
 the Biden-Harris Administration is proud to announce new actions and
 reaffirm our enduring commitment to advancing the Women, Peace, and
 Security agenda as integral to NATO’s core tasks.  
@@ -183,13 +183,13 @@ corresponding with the Strategy’s five lines of effort:
     violence (CRSV) is a top priority for President Biden and Vice
     President Harris.  In 2022, [President Biden signed a Memorandum on
     Promoting Accountability for Conflict-Related Sexual
-    Violence](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/) (CRSV)
+    Violence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/) (CRSV)
     and committed to fully exercising U.S. authorities—including
     sanctions, visa restrictions, and security assistance vetting—to
     promote accountability for perpetrators and enablers of CRSV.  Since
     October 7, President Biden, Vice President Harris, and
     Administration leaders
-    have [consistently](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-meeting-with-israels-chair-of-the-civil-commission-on-october-7-crimes-by-hamas-against-women-and-children/)[condemned](https://www.nytimes.com/live/2023/12/05/world/israel-hamas-war-gaza-news/biden-hamas-women-hostages?smid=url-share) Hamas’
+    have [consistently](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-meeting-with-israels-chair-of-the-civil-commission-on-october-7-crimes-by-hamas-against-women-and-children/)[condemned](https://www.nytimes.com/live/2023/12/05/world/israel-hamas-war-gaza-news/biden-hamas-women-hostages?smid=url-share) Hamas’
     horrific sexual violence. To further implement this Presidential
     Memorandum, the Administration is also:  
     -   *Holding Perpetrators Accountable Through Sanctions*. Following
@@ -220,7 +220,7 @@ corresponding with the Strategy’s five lines of effort:
          
     -   *Enhancing Documentation to Support Survivors*. In June 2024,
         the Vice
-        President [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/) the **Dignity
+        President [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/) the **Dignity
         in Documentation Initiative**, which intends to provide support
         for survivor- and civil society-led efforts to investigate and
         document CRSV in line with the Murad Code, named for Nobel

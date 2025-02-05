@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-27 22:49:30-04:00
 published_time: 2023-03-27 22:49:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-vice-president-harris-at-a-state-banquet-hosted-by-president-akufo-addo-of-ghana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-vice-president-harris-at-a-state-banquet-hosted-by-president-akufo-addo-of-ghana/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a State Banquet Hosted by President Akufo-Addo\
   \ of\_Ghana"

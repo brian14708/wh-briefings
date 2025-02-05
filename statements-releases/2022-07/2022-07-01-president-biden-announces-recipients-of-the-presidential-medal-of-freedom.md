@@ -2,7 +2,7 @@
 date: '2022-07-01'
 modified_time: 2022-07-05 17:57:32-04:00
 published_time: 2022-07-01 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/president-biden-announces-recipients-of-the-presidential-medal-of-freedom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/01/president-biden-announces-recipients-of-the-presidential-medal-of-freedom/
 tags: statements-releases
 title: "President\_Biden Announces Recipients of the Presidential Medal of\_Freedom"
 ---

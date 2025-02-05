@@ -2,7 +2,7 @@
 date: '2024-12-09'
 modified_time: 2024-12-09 14:15:55-05:00
 published_time: 2024-12-09 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-%e2%81%a0harris-administration-leads-by-example-leveraging-the-federal-government-to-catalyze-clean-energy-jobs-and-cut-costs-and-pollution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-%e2%81%a0harris-administration-leads-by-example-leveraging-the-federal-government-to-catalyze-clean-energy-jobs-and-cut-costs-and-pollution/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Leads by Example, Leveraging\
   \ the Federal Government to Catalyze Clean Energy Jobs and Cut Costs and\_Pollution"
@@ -25,7 +25,7 @@ jobs, supporting American manufacturing, and saving taxpayers money by
 cutting energy and operating costs.  
    
 The President’s [*Executive Order (E.O.)
-14057*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
+14057*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
 *on Catalyzing Clean Energy Industries and Jobs Through Federal
 Sustainability* and the accompanying [Federal Sustainability
 Plan](https://www.sustainability.gov/federalsustainabilityplan/index.html)
@@ -216,7 +216,7 @@ the world, can lead by example to reduce harmful emissions and catalyze
 climate action across its thousands of suppliers. Last month, the
 Administration released the first comprehensive measurement of
 the [Federal Government’s Scope 3 emissions
-footprint](https://www.whitehouse.gov/ceq/news-updates/2024/11/21/at-cop29-biden-harris-administration-highlights-actions-to-cut-u-s-government-emissions-lead-on-federal-sustainability/),
+footprint](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/11/21/at-cop29-biden-harris-administration-highlights-actions-to-cut-u-s-government-emissions-lead-on-federal-sustainability/),
 including the emissions associated with the $730 billion of goods and
 services that the government purchases annually. The Administration also
 released a [Federal supplier climate
@@ -232,7 +232,7 @@ that they can use to accelerate their decarbonization efforts. To
 further curb emissions, the Administration directed the Federal
 Government’s two million Federal employees to [prioritize the use of
 sustainable
-transportation](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-takes-action-to-accelerate-americas-clean-transportation-future/),
+transportation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-takes-action-to-accelerate-americas-clean-transportation-future/),
 including electric vehicles, for official and local travel. Together,
 these actions are expected to cut Federal Scope 3 emissions by 30% by
 2030 – the equivalent of 40 million metric tons of **CO2 emissions
@@ -241,7 +241,7 @@ these actions are expected to cut Federal Scope 3 emissions by 30% by
 To further advance a more sustainable supply chain, the Biden-Harris
 Administration [established the first-ever goal to phase out procurement
 of single-use plastic
-products](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/)
+products](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/)
 from all Federal operations by 2035, and directed agencies for the first
 time to prioritize the purchase of sustainable products without added
 per- and polyfluoroalkyl substances (PFAS).  
@@ -292,10 +292,10 @@ harmonized demand signal to the marketplace.
 took office, he prioritized the revitalization of Federal agencies’
 climate adaptation and resilience planning efforts. Today, [24 Federal
 agencies have adopted adaptation and resilience
-plans](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
+plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
 that address their most significant climate risks and vulnerabilities
 from [2024 to
-2027](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
+2027](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
 and outline the steps they are taking to strengthen their facilities’,
 employees’, resources’, and operations’ resilience to climate change
 impacts. For the first time, agencies have identified senior resilience
@@ -355,7 +355,7 @@ along with launching a first-of-its-kind climate adaptation training
 that has supported 1,500 Federal program acquisition managers with
 preparing for and managing climate risks. The Administration also
 established a [Presidential Federal Sustainability Awards
-program](https://www.whitehouse.gov/ceq/news-updates/2024/06/25/biden-harris-administration-honors-presidential-federal-sustainability-award-winners/)
+program](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/06/25/biden-harris-administration-honors-presidential-federal-sustainability-award-winners/)
 to recognize federal agencies and employees who have tackled complex
 challenges and delivered results for a cleaner, more efficient Federal
 Government.  
@@ -366,7 +366,7 @@ Federal Government, but to do so in ways that advance environmental
 justice and equity. For the first time ever, Federal agencies are
 required to link climate adaptation and sustainability planning efforts
 with advancing environmental justice and the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which seeks to ensure that 40 percent of the overall benefits of certain
 Federal investments flow to disadvantaged communities that are
 marginalized by underinvestment and overburdened by pollution. The

@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 01:46:14-05:00
 published_time: 2023-12-20 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Highlight How His Investing in America Agenda\
   \ Has Led to a Black Small Business\_Boom"
@@ -24,7 +24,7 @@ growing at the fastest pace in 30 years.
 President Biden will be joined by the founder and owner of Hero
 Plumbing, a Black-owned small business removing lead pipes in Milwaukee,
 which will help meet President Biden’s
-[commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
+[commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
 to remove all lead service lines in the country by the end of the decade
 and benefit from the historic $15 billion in funding through the
 Bipartisan Infrastructure Law.    
@@ -143,7 +143,7 @@ Black-owned businesses:</u>**
         incubators and accelerators.** The Minority Business Development
         Agency (MBDA) Capital Readiness Program [awarded 43 non-profit
         community-based
-        organizations](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) $125
+        organizations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) $125
         million in funding to support underserved entrepreneurs launch
         and scale their small businesses, including $3 million for
         Wisconsin.  
@@ -172,7 +172,7 @@ Black-owned businesses:</u>**
     These awards include a record $69.9 billion, or 11.4% of federal
     contracting spending, to SDBs – exceeding the Administration’s FY22
     goal. Shortly after taking office, President Biden [set a
-    goal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/) of
+    goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/) of
     increasing the share of contracts with SDBs to 15% of all federal
     contracts by FY 2025, a 50% increase from spending levels when he
     first took office.  

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 19:07:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/statement-by-national-security-advisor-jake-sullivan-on-reports-of-attack-on-cuban-embassy-in-washington-dc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/statement-by-national-security-advisor-jake-sullivan-on-reports-of-attack-on-cuban-embassy-in-washington-dc/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Reports of Attack\
   \ on Cuban Embassy in Washington,\_DC"

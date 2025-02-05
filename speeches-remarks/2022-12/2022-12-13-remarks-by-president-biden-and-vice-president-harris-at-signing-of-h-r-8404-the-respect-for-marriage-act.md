@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-14 09:09:10-05:00
 published_time: 2022-12-13 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/13/remarks-by-president-biden-and-vice-president-harris-at-signing-of-h-r-8404-the-respect-for-marriage-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/13/remarks-by-president-biden-and-vice-president-harris-at-signing-of-h-r-8404-the-respect-for-marriage-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at Signing of H.R. 8404,\
   \ the Respect for Marriage\_Act"

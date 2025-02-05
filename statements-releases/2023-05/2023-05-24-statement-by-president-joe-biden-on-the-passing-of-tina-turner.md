@@ -2,7 +2,7 @@
 date: '2023-05-24'
 modified_time: 2023-05-24 18:21:24-04:00
 published_time: 2023-05-24 18:21:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/24/statement-by-president-joe-biden-on-the-passing-of-tina-turner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/24/statement-by-president-joe-biden-on-the-passing-of-tina-turner/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Passing of Tina\_Turner"
 ---

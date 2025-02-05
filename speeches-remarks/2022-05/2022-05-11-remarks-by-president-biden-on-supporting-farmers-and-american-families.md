@@ -1,7 +1,7 @@
 ---
 date: '2022-05-11'
 published_time: 2022-05-11 16:19:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-on-supporting-farmers-and-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-on-supporting-farmers-and-american-families/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Supporting Farmers and American\_Families"
 ---

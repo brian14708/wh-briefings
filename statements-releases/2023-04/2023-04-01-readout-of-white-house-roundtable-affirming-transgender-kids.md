@@ -2,7 +2,7 @@
 date: '2023-04-01'
 modified_time: 2023-04-01 13:32:46-04:00
 published_time: 2023-04-01 13:32:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/01/readout-of-white-house-roundtable-affirming-transgender-kids/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/01/readout-of-white-house-roundtable-affirming-transgender-kids/
 tags: statements-releases
 title: "Readout of White\_House Roundtable Affirming Transgender\_Kids"
 ---

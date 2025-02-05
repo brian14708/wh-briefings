@@ -1,7 +1,7 @@
 ---
 date: '2023-06-05'
 published_time: 2023-06-05 19:11:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/05/readout-of-vice-president-harriss-meeting-with-world-bank-president-ajay-banga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/05/readout-of-vice-president-harriss-meeting-with-world-bank-president-ajay-banga/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with World Bank President\
   \ Ajay\_Banga"

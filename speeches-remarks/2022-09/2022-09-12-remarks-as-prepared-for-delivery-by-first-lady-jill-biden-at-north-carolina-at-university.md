@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-12 18:15:38-04:00
 published_time: 2022-09-12 18:13:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-north-carolina-at-university/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-north-carolina-at-university/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at North Carolina\
   \ A&T\_University"

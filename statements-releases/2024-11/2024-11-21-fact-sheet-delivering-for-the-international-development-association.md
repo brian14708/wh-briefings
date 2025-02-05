@@ -1,7 +1,7 @@
 ---
 date: '2024-11-21'
 published_time: 2024-11-21 19:55:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/fact-sheet-delivering-for-the-international-development-association/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/21/fact-sheet-delivering-for-the-international-development-association/
 tags: statements-releases
 title: "FACT SHEET: Delivering for the International Development\_Association"
 ---
@@ -59,7 +59,7 @@ creditors, and the private sector to step up support for countries with
 ambitious investment and reform plans that are unable to invest in their
 own futures due to debt service burdens.  President Biden outlined this
 agenda in the [Nairobi-Washington
-Vision](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/) he
+Vision](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/) he
 launched with President Ruto of Kenya in May.  At the Rio Summit, he
 pressed the G20 to take action on this plan so that developing
 countries’ stepped-up investments supported by IDA and other

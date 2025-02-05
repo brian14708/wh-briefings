@@ -2,14 +2,14 @@
 date: '2023-03-09'
 modified_time: 2023-03-09 12:13:17-05:00
 published_time: 2023-03-09 12:13:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-improves-customer-experience-and-service-delivery-for-the-american-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-improves-customer-experience-and-service-delivery-for-the-american-people/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Improves Customer Experience and\
   \ Service Delivery for the American\_People"
 ---
  
 During his first year in office, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
 directing a whole-of-government effort to design and deliver an
 equitable, effective, and accountable Government that delivers results
 for all Americans. Since then, more than 17 Federal agencies, through 35
@@ -44,7 +44,7 @@ Specifically, the President’s Budget:
     Services so the public can access core services online. Most
     notably, this supports the delivery on the commitment outlined in
     the [Customer Experience Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/)
     to enable Americans to renew their passport without having to go
     in-person and mail original documents.
 

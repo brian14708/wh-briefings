@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 19:38:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/statement-from-press-secretary-karine-jean-pierre-on-the-southern-district-of-ohios-decision-on-medicare-drug-price-negotiation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/statement-from-press-secretary-karine-jean-pierre-on-the-southern-district-of-ohios-decision-on-medicare-drug-price-negotiation/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Southern District\
   \ of Ohio\u2019s Decision on Medicare Drug Price\_Negotiation"

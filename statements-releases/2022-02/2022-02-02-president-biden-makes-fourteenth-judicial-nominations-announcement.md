@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-02'
 modified_time: 2022-02-02 18:57:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/president-biden-makes-fourteenth-judicial-nominations-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/02/president-biden-makes-fourteenth-judicial-nominations-announcement/
 published_time: 2022-02-02 15:40:53-05:00
 title: "President\_Biden Makes Fourteenth Judicial Nominations\_Announcement"
 ---

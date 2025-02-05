@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-01-21'
 modified_time: 2022-01-21 20:55:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/21/remarks-by-president-biden-at-the-u-s-conference-of-mayors-90th-annual-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/21/remarks-by-president-biden-at-the-u-s-conference-of-mayors-90th-annual-winter-meeting/
 published_time: 2022-01-21 18:45:00-05:00
 title: "Remarks by President\_Biden at the U.S. Conference of Mayors 90th Annual Winter\_\
   Meeting"

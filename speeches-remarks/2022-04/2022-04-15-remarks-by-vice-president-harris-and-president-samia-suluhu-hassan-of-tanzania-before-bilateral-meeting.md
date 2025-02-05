@@ -1,7 +1,7 @@
 ---
 date: '2022-04-15'
 published_time: 2022-04-15 13:12:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/15/remarks-by-vice-president-harris-and-president-samia-suluhu-hassan-of-tanzania-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/15/remarks-by-vice-president-harris-and-president-samia-suluhu-hassan-of-tanzania-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Samia Suluhu Hassan of Tanzania\
   \ Before Bilateral\_Meeting"

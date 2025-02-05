@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 13:24:49-04:00
 published_time: 2022-06-27 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/fact-sheet-president-biden-signs-national-security-memorandum-to-combat-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/fact-sheet-president-biden-signs-national-security-memorandum-to-combat-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
 tags: statements-releases
 title: "FACT SHEET:  President\_Biden Signs National Security Memorandum to Combat\
   \ Illegal, Unreported, and Unregulated Fishing and Associated Labor\_Abuses"
@@ -91,9 +91,9 @@ Ocean Conference.
 
 These new actions build on President Biden’s proclamation declaring June
 as [National Ocean
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-national-ocean-month-2022/)
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-national-ocean-month-2022/)
 and key
-[announcements](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-celebrates-world-ocean-day-with-actions-to-conserve-americas-deepest-atlantic-canyon-cut-plastic-pollution-and-create-americas-first-ever-o/)
+[announcements](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/fact-sheet-biden-harris-administration-celebrates-world-ocean-day-with-actions-to-conserve-americas-deepest-atlantic-canyon-cut-plastic-pollution-and-create-americas-first-ever-o/)
 the White House made earlier this month to conserve and restore the
 health and productivity of the ocean for the benefit of all Americans.
  These announcements included initiating the designation process for a

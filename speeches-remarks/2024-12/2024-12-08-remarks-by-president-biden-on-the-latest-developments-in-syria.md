@@ -2,7 +2,7 @@
 date: '2024-12-08'
 modified_time: 2024-12-09 11:31:57-05:00
 published_time: 2024-12-08 11:31:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-president-biden-on-the-latest-developments-in-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-president-biden-on-the-latest-developments-in-syria/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Latest Developments in\_Syria"
 ---

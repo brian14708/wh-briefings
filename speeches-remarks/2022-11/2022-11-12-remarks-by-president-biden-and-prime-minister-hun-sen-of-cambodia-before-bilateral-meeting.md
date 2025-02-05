@@ -2,7 +2,7 @@
 date: '2022-11-12'
 modified_time: 2022-11-12 10:31:23-05:00
 published_time: 2022-11-12 10:31:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/12/remarks-by-president-biden-and-prime-minister-hun-sen-of-cambodia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/12/remarks-by-president-biden-and-prime-minister-hun-sen-of-cambodia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Hun Sen of Cambodia Before\
   \ Bilateral\_Meeting"

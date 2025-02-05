@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 12:08:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/10/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/10/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to Securing the Information and Communications Technology and Services\

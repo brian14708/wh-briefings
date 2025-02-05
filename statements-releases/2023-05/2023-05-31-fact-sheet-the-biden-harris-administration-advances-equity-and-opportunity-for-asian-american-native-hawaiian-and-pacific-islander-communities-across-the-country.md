@@ -2,7 +2,7 @@
 date: '2023-05-31'
 modified_time: 2023-06-07 08:53:06-04:00
 published_time: 2023-05-31 21:22:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Asian American, Native Hawaiian, and Pacific Islander Communities Across the\_\
@@ -44,7 +44,7 @@ in the United States. In his first week in office, President Biden
 signed the **“**[**Memorandum Condemning and Combating Racism,
 Xenophobia, and Intolerance Against Asian Americans and Pacific
 Islanders in the United
-States**](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)**.”**
+States**](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)**.”**
 The memorandum directs all federal agencies to take steps to ensure
 their actions mitigate anti-Asian bias and xenophobia, especially in the
 response to the COVID-19 pandemic.  
@@ -355,7 +355,7 @@ signing into law the historic American Rescue Plan, Bipartisan
 Infrastructure Law, Inflation Reduction Act, and CHIPS and Science Act
 implementing robust regulatory reform, the Biden-Harris Administration
 has led [the most equitable economic recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
 creating more than 12 million jobs since coming to office and helping
 create new economic opportunities for all Americans, including AA and
 NHPI workers, small business owners, and entrepreneurs.
@@ -502,7 +502,7 @@ Homeowner Assistance Fund.
     from accessing or staying in housing such as the discriminatory use
     of tenant background checks and algorithms in tenant screenings.
      These actions align with a new [Blueprint for a Renters Bill of
-    Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf).
+    Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf).
     The Blueprint lays out a set of principles to drive action by the
     federal government, state and local partners, and the private sector
     to strengthen tenant protections and encourage rental affordability.
@@ -888,7 +888,7 @@ milestones toward progress.
     President’s Advisory Commission on Asian Americans, Native
     Hawaiians, and Pacific Islanders.** In May 2021, the President
     signed [Executive Order
-    14031](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/) reestablishing
+    14031](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/) reestablishing
     the White House Initiative on Asian Americans, Native Hawaiians, and
     Pacific Islanders, and delivering on the President’s commitment to
     reinstate and reinvigorate this historic Initiative. The Initiative
@@ -906,13 +906,13 @@ milestones toward progress.
     NHPI communities through federal grantmaking, and policies to
     address the barriers that AA and NHPI women, LGBTQI+ people, and
     people with disabilities face.
-     The [Commission](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/) is
+     The [Commission](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/) is
     made up of leaders who reflect the rich diversity of AA and NHPI
     communities across the country.
 -   **Advancing Diversity, Equity, Inclusion, and Accessibility (DEIA)
     in the Federal Government**. In June 2021, the President signed
     an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) advancing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) advancing
     diversity, equity, inclusion, and accessibility in the federal
     government. The Executive Order establishes that it is the policy of
     the Biden-Harris Administration to cultivate a workforce that draws
@@ -932,7 +932,7 @@ milestones toward progress.
 -   **Launching a National Strategy to Advance Equity, Justice, and
     Opportunity for AA and NHPI Communities: **In January 2023, the
     Biden-Harris Administration [released its first-ever national
-    strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/)
+    strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/)
     to promote safety and equity for AA and NHPIs. The strategy, which
     comprises action plans prepared by 32 federal agencies—including all
     15 executive departments in the President’s Cabinet—builds on the

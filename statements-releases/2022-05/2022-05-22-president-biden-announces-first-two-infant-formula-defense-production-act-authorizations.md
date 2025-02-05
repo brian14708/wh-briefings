@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-22 18:42:37-04:00
 published_time: 2022-05-22 18:42:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/22/president-biden-announces-first-two-infant-formula-defense-production-act-authorizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/22/president-biden-announces-first-two-infant-formula-defense-production-act-authorizations/
 tags: statements-releases
 title: "President\_Biden Announces First Two Infant Formula Defense Production Act\_\
   Authorizations"

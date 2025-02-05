@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 published_time: 2023-03-31 16:51:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-vice-president-harris-and-president-hichilema-of-zambia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-vice-president-harris-and-president-hichilema-of-zambia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Hichilema of Zambia Before\
   \ Bilateral\_Meeting"

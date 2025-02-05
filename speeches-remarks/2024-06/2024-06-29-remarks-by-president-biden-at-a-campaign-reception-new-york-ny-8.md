@@ -2,7 +2,7 @@
 date: '2024-06-29'
 modified_time: 2024-06-29 16:26:55-04:00
 published_time: 2024-06-29 16:26:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/29/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/29/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-8/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | New York,\_NY"
 ---

@@ -2,7 +2,7 @@
 date: '2022-12-03'
 modified_time: 2022-12-03 13:43:09-05:00
 published_time: 2022-12-03 13:43:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/03/remarks-by-president-biden-in-a-reception-for-the-democratic-senatorial-campaign-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/03/remarks-by-president-biden-in-a-reception-for-the-democratic-senatorial-campaign-committee/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Reception for the Democratic Senatorial Campaign\_\
   Committee"

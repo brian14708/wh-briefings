@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 16:54:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/readout-of-vice-president-harriss-meeting-with-activist-nazanin-boniadi-on-iran-protests/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/readout-of-vice-president-harriss-meeting-with-activist-nazanin-boniadi-on-iran-protests/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Activist Nazanin Boniadi\
   \ on Iran Protests"

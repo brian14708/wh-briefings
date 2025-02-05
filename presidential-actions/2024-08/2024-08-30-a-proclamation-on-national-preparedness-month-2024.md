@@ -2,7 +2,7 @@
 date: '2024-08-30'
 modified_time: 2024-08-30 13:11:28-04:00
 published_time: 2024-08-30 13:11:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/30/a-proclamation-on-national-preparedness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/30/a-proclamation-on-national-preparedness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Preparedness Month,\_2024"
 ---

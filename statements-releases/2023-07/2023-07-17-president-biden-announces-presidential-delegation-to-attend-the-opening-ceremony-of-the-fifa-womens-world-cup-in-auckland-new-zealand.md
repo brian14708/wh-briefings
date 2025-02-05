@@ -2,7 +2,7 @@
 date: '2023-07-17'
 modified_time: 2023-07-16 16:25:35-04:00
 published_time: 2023-07-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/17/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-fifa-womens-world-cup-in-auckland-new-zealand/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/17/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-fifa-womens-world-cup-in-auckland-new-zealand/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Attend the Opening Ceremony\
   \ of the FIFA Women\u2019s World Cup in Auckland, New\_Zealand"

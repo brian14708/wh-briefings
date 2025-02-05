@@ -1,7 +1,7 @@
 ---
 date: '2022-11-02'
 published_time: 2022-11-02 18:07:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/readout-of-national-security-advisor-jake-sullivans-participation-at-the-high-level-multi-stakeholder-hybrid-event-on-the-declaration-for-the-future-of-the-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/readout-of-national-security-advisor-jake-sullivans-participation-at-the-high-level-multi-stakeholder-hybrid-event-on-the-declaration-for-the-future-of-the-internet/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Participation at\
   \ the High-Level Multi-stakeholder Hybrid Event on the Declaration for the Future\

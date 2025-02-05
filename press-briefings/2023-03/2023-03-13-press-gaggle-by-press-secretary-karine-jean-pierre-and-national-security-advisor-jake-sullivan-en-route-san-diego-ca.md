@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 17:50:16-04:00
 published_time: 2023-03-13 17:18:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-san-diego-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-san-diego-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route San Diego,\_CA"

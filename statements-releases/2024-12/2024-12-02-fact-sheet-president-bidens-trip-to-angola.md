@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 14:47:14-05:00
 published_time: 2024-12-02 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/fact-sheet-president-bidens-trip-to-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/fact-sheet-president-bidens-trip-to-angola/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Trip to\_Angola"
 ---
@@ -254,7 +254,7 @@ systems, and ensure no one is left behind.
 -   The United States is proud to work with Angola on bolstering
     African-led solutions to current and future health emergencies.  In
     September 2024, the United States announced [$500
-    million](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
+    million](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/)
     and one million mpox vaccine doses to support African countries to
     prevent and respond to the current mpox outbreak.  We are delivering
     on that commitment, with two thirds of the more than $500 million of
@@ -263,7 +263,7 @@ systems, and ensure no one is left behind.
     doses are currently available for allocation by WHO and Africa CDC
     based on needs and demand in the region.  Angola has joined the
     United States as a [Global Health
-    Security](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%E2%81%A0harris-administration-releases-strategy-to-strengthen-global-health-security/)
+    Security](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%E2%81%A0harris-administration-releases-strategy-to-strengthen-global-health-security/)
     partner, which will foster greater collaboration as both countries
     strive to protect the health, lives, and economic well-being of our
     citizens and people throughout the world.  

@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 16:34:21-04:00
 published_time: 2023-09-20 16:34:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-and-president-luiz-inacio-lula-da-silva-of-brazil-before-bilateral-meeting-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-and-president-luiz-inacio-lula-da-silva-of-brazil-before-bilateral-meeting-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Luiz In\xE1cio Lula da Silva of\
   \ Brazil Before Bilateral Meeting | New York,\_NY"

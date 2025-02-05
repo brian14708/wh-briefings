@@ -1,7 +1,7 @@
 ---
 date: '2024-09-17'
 published_time: 2024-09-17 16:48:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/17/press-briefing-by-press-secretary-karine-jean-pierre-69/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/17/press-briefing-by-press-secretary-karine-jean-pierre-69/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

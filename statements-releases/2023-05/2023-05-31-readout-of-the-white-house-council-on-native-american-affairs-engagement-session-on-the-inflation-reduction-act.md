@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 19:30:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/readout-of-the-white-house-council-on-native-american-affairs-engagement-session-on-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/readout-of-the-white-house-council-on-native-american-affairs-engagement-session-on-the-inflation-reduction-act/
 tags: statements-releases
 title: "Readout of the White\_House Council on Native American Affairs Engagement\
   \ Session on the Inflation Reduction\_Act"
@@ -24,7 +24,7 @@ drought and sea level rise; and support Tribal efforts to transition to
 cleaner sources of energy. Senior Advisor to the President for Clean
 Energy Innovation and Implementation John Podesta highlighted the
 [Inflation Reduction Act Tribal
-Guidebook](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/),
+Guidebook](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/),
 a resource created by the Biden-Harris Administration to identify
 programs and sources of funds specifically allocated for Tribal
 communities and outline Tribal eligibility for other Inflation Reduction

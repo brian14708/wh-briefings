@@ -2,7 +2,7 @@
 date: '2022-11-29'
 modified_time: 2022-11-29 19:21:06-05:00
 published_time: 2022-11-29 19:21:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/statement-by-vice-president-kamala-harris-on-the-respect-for-marriage-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/statement-by-vice-president-kamala-harris-on-the-respect-for-marriage-act/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Respect for Marriage\_Act"
 ---

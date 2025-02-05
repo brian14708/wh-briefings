@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 09:58:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/
 published_time: 2021-11-02 10:30:00-04:00
 title: "Fact Sheet: New Strategy Outlines Five Priorities for Reducing Military and\
   \ Veteran\_Suicide"
@@ -31,7 +31,7 @@ efforts moving forward. These goals are outlined in a new national
 strategy, [**“Reducing Military and Veteran Suicide: Advancing a
 Comprehensive, Cross-Sector, Evidence-Informed Approach.”  
   
-**](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf)The
+**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf)The
 key components of this comprehensive strategy include:  
   
 **Improving Lethal Means Safety**  

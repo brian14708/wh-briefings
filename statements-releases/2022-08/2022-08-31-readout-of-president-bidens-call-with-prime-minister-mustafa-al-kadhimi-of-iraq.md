@@ -2,7 +2,7 @@
 date: '2022-08-31'
 modified_time: 2022-08-31 14:47:39-04:00
 published_time: 2022-08-31 14:47:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/readout-of-president-bidens-call-with-prime-minister-mustafa-al-kadhimi-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/31/readout-of-president-bidens-call-with-prime-minister-mustafa-al-kadhimi-of-iraq/
 tags: statements-releases
 title: "Readout of\_President\_Biden\u2019s Call with Prime Minister Mustafa Al-Kadhimi\
   \ of\_Iraq"

@@ -1,7 +1,7 @@
 ---
 date: '2022-03-29'
 published_time: 2022-03-29 17:04:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/03/29/bill-signed-h-r-55/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/03/29/bill-signed-h-r-55/
 tags: legislation
 title: "Bill Signed: H.R.\_55"
 ---

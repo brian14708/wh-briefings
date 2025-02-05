@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-20 15:58:16-04:00
 published_time: 2022-07-20 15:58:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-climate-advisor-gina-mccarthy-en-route-somerset-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-climate-advisor-gina-mccarthy-en-route-somerset-ma/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Climate Advisor\
   \ Gina McCarthy En Route Somerset,\_MA"

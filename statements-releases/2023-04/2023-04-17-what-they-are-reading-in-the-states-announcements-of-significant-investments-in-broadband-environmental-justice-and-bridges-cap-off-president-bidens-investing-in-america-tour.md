@@ -2,7 +2,7 @@
 date: '2023-04-17'
 modified_time: 2023-04-17 08:32:06-04:00
 published_time: 2023-04-17 08:32:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/what-they-are-reading-in-the-states-announcements-of-significant-investments-in-broadband-environmental-justice-and-bridges-cap-off-president-bidens-investing-in-america-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/17/what-they-are-reading-in-the-states-announcements-of-significant-investments-in-broadband-environmental-justice-and-bridges-cap-off-president-bidens-investing-in-america-tour/
 tags: statements-releases
 title: "What They Are Reading in the States: Announcements of Significant Investments\
   \ in Broadband, Environmental Justice, and Bridges, Cap off President\_Biden\u2019\

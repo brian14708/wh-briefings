@@ -1,7 +1,7 @@
 ---
 date: '2022-09-07'
 published_time: 2022-09-07 17:05:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/07/readout-from-communities-in-action-building-a-better-ohio/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/07/readout-from-communities-in-action-building-a-better-ohio/
 tags: statements-releases
 title: "Readout from Communities in Action: Building A Better\_Ohio"
 ---

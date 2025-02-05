@@ -2,7 +2,7 @@
 date: '2022-04-15'
 modified_time: 2022-04-15 14:41:11-04:00
 published_time: 2022-04-15 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/disclosures/2022/04/15/the-president-and-vice-president-release-their-2021-tax-returns/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2022/04/15/the-president-and-vice-president-release-their-2021-tax-returns/
 tags: disclosures
 title: "The President and Vice President release their 2021 tax\_returns"
 ---
@@ -29,7 +29,7 @@ Lady released her Virginia income tax return and reported paying $2,721
 in Virginia income tax.
 
 View the President and First Lady’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/04/2022-04-15-POTUS-Redacted-2021-Federal-and-State-Returns.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/2022-04-15-POTUS-Redacted-2021-Federal-and-State-Returns.pdf).
 
 The Vice President and the Second Gentleman also released their 2021
 federal income tax return, as well as state income tax returns for
@@ -44,6 +44,6 @@ income tax, and Mr. Emhoff paid $54,441 in District of Columbia income
 tax. They contributed $22,100 to charity in 2021.
 
 View the Vice President and Second Gentleman’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/04/2022-04-15-VPOTUS-Redacted-2021-Federal-and-State-Returns.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/2022-04-15-VPOTUS-Redacted-2021-Federal-and-State-Returns.pdf).
 
 \###

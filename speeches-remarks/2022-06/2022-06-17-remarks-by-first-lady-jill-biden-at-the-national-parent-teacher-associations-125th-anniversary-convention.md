@@ -1,7 +1,7 @@
 ---
 date: '2022-06-17'
 published_time: 2022-06-17 15:41:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-first-lady-jill-biden-at-the-national-parent-teacher-associations-125th-anniversary-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-first-lady-jill-biden-at-the-national-parent-teacher-associations-125th-anniversary-convention/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the National Parent Teacher Association\u2019\
   s 125th Anniversary\_Convention"

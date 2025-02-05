@@ -2,7 +2,7 @@
 date: '2022-04-07'
 modified_time: 2022-04-07 13:12:52-04:00
 published_time: 2022-04-07 13:12:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/07/statement-by-press-secretary-jen-psaki-on-unprecedented-iea-release-following-president-bidens-spr-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/07/statement-by-press-secretary-jen-psaki-on-unprecedented-iea-release-following-president-bidens-spr-announcement/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on Unprecedented IEA Release Following\
   \ President\_Biden\u2019s SPR\_Announcement"

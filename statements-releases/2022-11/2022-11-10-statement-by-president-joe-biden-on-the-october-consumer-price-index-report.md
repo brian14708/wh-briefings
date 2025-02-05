@@ -1,7 +1,7 @@
 ---
 date: '2022-11-10'
 published_time: 2022-11-10 09:44:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/statement-by-president-joe-biden-on-the-october-consumer-price-index-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/statement-by-president-joe-biden-on-the-october-consumer-price-index-report/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the October Consumer Price Index\_Report"
 ---

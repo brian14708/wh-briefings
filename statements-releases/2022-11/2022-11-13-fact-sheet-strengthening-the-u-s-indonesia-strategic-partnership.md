@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-16 15:59:56-05:00
 published_time: 2022-11-13 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/fact-sheet-strengthening-the-u-s-indonesia-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/fact-sheet-strengthening-the-u-s-indonesia-strategic-partnership/
 tags: statements-releases
 title: "FACT SHEET: Strengthening the U.S.-Indonesia Strategic\_Partnership"
 ---

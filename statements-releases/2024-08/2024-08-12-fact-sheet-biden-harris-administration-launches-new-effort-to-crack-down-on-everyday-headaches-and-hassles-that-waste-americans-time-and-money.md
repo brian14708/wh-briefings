@@ -2,7 +2,7 @@
 date: '2024-08-12'
 modified_time: 2024-08-13 09:05:53-04:00
 published_time: 2024-08-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches New Effort to Crack\
   \ Down on Everyday Headaches and Hassles That Waste Americans\u2019 Time and\_Money"
@@ -22,7 +22,7 @@ Americans are tired of being played for suckers, and President Biden and
 Vice President Harris are committed to addressing the pain points they
 face in their everyday lives. The Administration is already cracking
 down on [junk
-fees](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/)—those
+fees](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/)—those
 hidden costs and surcharges in everything from travel to banking
 services—that hit people in their pocketbooks. Now the Biden-Harris
 Administration is taking on the corporate practice of giving people the
@@ -216,7 +216,7 @@ Administration to improve customer service for people accessing
 government programs and services. In December 2021 the President signed
 an Executive Order, [*Transforming Federal Customer Experience and
 Service Delivery to Rebuild Trust in
-Government*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/),
+Government*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/),
 directing federal agencies to streamline services and simplify customer
 experiences.
 
@@ -239,6 +239,6 @@ how agencies across the federal government are improving customer
 experience and reducing burden, visit
 [performance.gov/cx](https://www.performance.gov/cx/) and the [Burden
 Reduction Initiative
-website](https://www.whitehouse.gov/omb/information-regulatory-affairs/burden-reduction-initiative/).
+website](https://bidenwhitehouse.archives.gov/omb/information-regulatory-affairs/burden-reduction-initiative/).
 
 \###

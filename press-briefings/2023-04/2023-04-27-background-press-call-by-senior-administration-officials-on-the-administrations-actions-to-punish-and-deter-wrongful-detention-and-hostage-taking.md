@@ -2,7 +2,7 @@
 date: '2023-04-27'
 modified_time: 2023-05-02 19:13:40-04:00
 published_time: 2023-04-27 16:11:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/27/background-press-call-by-senior-administration-officials-on-the-administrations-actions-to-punish-and-deter-wrongful-detention-and-hostage-taking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/27/background-press-call-by-senior-administration-officials-on-the-administrations-actions-to-punish-and-deter-wrongful-detention-and-hostage-taking/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Administration\u2019\
   s Actions to Punish and Deter Wrongful Detention and\_Hostage-Taking"

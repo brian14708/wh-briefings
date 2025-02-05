@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-08-02 10:03:43-04:00
 published_time: 2022-08-01 21:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/01/background-press-call-by-a-senior-administration-official-on-a-u-s-counterterrorism-operation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/01/background-press-call-by-a-senior-administration-official-on-a-u-s-counterterrorism-operation/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on a U.S. Counterterrorism\_\
   Operation"

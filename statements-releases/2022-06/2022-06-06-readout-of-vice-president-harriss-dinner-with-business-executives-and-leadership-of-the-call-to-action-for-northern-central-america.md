@@ -1,7 +1,7 @@
 ---
 date: '2022-06-06'
 published_time: 2022-06-06 23:59:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/readout-of-vice-president-harriss-dinner-with-business-executives-and-leadership-of-the-call-to-action-for-northern-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/readout-of-vice-president-harriss-dinner-with-business-executives-and-leadership-of-the-call-to-action-for-northern-central-america/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Dinner with Business Executives and\
   \ Leadership of the Call to Action for Northern Central\_America"

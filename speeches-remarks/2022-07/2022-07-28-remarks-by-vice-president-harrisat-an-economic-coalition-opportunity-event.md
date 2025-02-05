@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-28 19:05:39-04:00
 published_time: 2022-07-28 19:04:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-vice-president-harrisat-an-economic-coalition-opportunity-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-vice-president-harrisat-an-economic-coalition-opportunity-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at an Economic Coalition Opportunity\_Event"
 ---

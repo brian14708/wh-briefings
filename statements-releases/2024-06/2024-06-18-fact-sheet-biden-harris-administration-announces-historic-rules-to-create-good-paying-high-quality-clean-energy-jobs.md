@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-18 09:26:42-04:00
 published_time: 2024-06-18 08:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-biden-harris-administration-announces-historic-rules-to-create-good-paying-high-quality-clean-energy-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-biden-harris-administration-announces-historic-rules-to-create-good-paying-high-quality-clean-energy-jobs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Historic Rules to\
   \ Create Good-Paying, High-Quality Clean Energy\_Jobs"
@@ -96,9 +96,9 @@ the clean energy economy of the future:
     number of workers at each project who stand to benefit if taxpayers
     satisfy the prevailing wage and apprenticeship requirements.  
 -   The Biden-Harris Administration launched a
-    [series](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    [series](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
     of [Investing in America Workforce
-    Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
+    Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
     partnerships with state and local officials, employers, unions,
     community colleges, high schools, and other stakeholders in regions
     with significant investments through President Biden’s Investing in
@@ -109,7 +109,7 @@ the clean energy economy of the future:
     training opportunities, while President Biden announced four more
     hubs in April to build on the success of the first set.  
     -   The [Augusta, Georgia Workforce
-        Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
+        Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
         announced partnerships between employers, unions, nonprofits,
         philanthropy, school districts, and colleges to build workforce
         and skills development efforts to meet the needs of the energy,
@@ -118,7 +118,7 @@ the clean energy economy of the future:
 <!-- -->
 
 -   The [Pittsburgh Workforce
-    Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
+    Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
     announced hundreds of new job opportunities and training
     pathways—including registered apprenticeships—in clean energy, as
     well as in cyber occupations that support clean energy and other
@@ -126,17 +126,17 @@ the clean energy economy of the future:
 -   Building on historic investments in electric vehicle and battery
     manufacturing, President Biden launched the [Michigan Electric
     Vehicle Workforce
-    Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
+    Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/),
     building on significant efforts underway, to ensure that the
     transition to electric vehicle supports the union workers and
     communities that have driven the auto industry for generations.  
     -   Vice President Kamala Harris visited Detroit in May to announce
         a [suite of
-        actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/)
+        actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/)
         to support small- and mid-sized auto manufacturers and auto
         workers to lead the electric vehicle future.  
 -   In the [Columbus Workforce
-    Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
+    Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
     Columbus State Community College is working with partners across the
     state to quadruple the number of students trained for engineering
     technology jobs. In addition, partners are preparing at least 10,000
@@ -212,7 +212,7 @@ the clean energy economy of the future:
     announced in November, to support 17 new IACs as well as the
     inaugural cohort of 10 Building Training and Assessment Centers.   
 -   The Biden-Harris Administration launched the [Advanced Manufacturing
-    Sprint](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/),
+    Sprint](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/),
     an intensive drive to build a diverse, skilled pipeline of workers
     for needed to fill the good advanced manufacturing jobs created by
     President Biden’s Investing in America Agenda, including in clean
@@ -237,7 +237,7 @@ the clean energy economy of the future:
     apprenticeships, including for clean energy jobs.  
 -   The Biden-Harris Administration launched the [Infrastructure Talent
     Pipeline
-    Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/),
+    Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/),
     nationwide call to action that brought together more than 350
     employers, unions, education and training providers, states, local
     governments, Tribes, territories, philanthropic organizations, and

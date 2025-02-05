@@ -2,7 +2,7 @@
 date: '2024-06-27'
 modified_time: 2024-06-27 10:47:03-04:00
 published_time: 2024-06-27 10:47:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/27/statement-from-president-joe-biden-on-moyle-v-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/27/statement-from-president-joe-biden-on-moyle-v-united-states/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Moyle v. United\_States"
 ---

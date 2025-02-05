@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-07'
 modified_time: 2021-10-13 10:10:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/
 published_time: 2021-10-07 10:15:00-04:00
 title: "FACT SHEET:\_ Biden Administration Releases Agency Climate Adaptation and\
   \ Resilience Plans from Across Federal\_Government"
@@ -21,7 +21,7 @@ Force, White House Council on Environmental Quality’s (CEQ) Federal
 Chief Sustainability Officer, and the Office of Management and Budget
 (OMB) in response to President Biden’s [Executive Order on Tackling the
 Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).   
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).   
   
 Agencies face a multitude of risks caused by climate change, including
 rising costs to maintain and repair damaged infrastructure from more
@@ -40,14 +40,14 @@ decisions to drive innovation and increase resilience against supply
 chain disruptions and deliver on President Biden’s commitment to invest
 climate and clean energy dollars in environmental justice communities
 through his [Justice40
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/).  
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/).  
   
 As part of these efforts, agencies will embed adaptation and resilience
 planning and implementation throughout their operations and programs,
 and will continually update their adaptation plans. In addition to these
 plans, President Biden’s Build Back Better Agenda and the [Bipartisan
 Infrastructure
-Deal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/updated-fact-sheet-bipartisan-infrastructure-investment-and-jobs-act/)
+Deal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/02/updated-fact-sheet-bipartisan-infrastructure-investment-and-jobs-act/)
 include bold, historic, and transformational investments that will
 strengthen our nation’s resilience to climate change and extreme weather
 events, including upgrading power infrastructure, rebuilding America’s
@@ -103,7 +103,7 @@ Highlights from this year’s plans include:
     Agriculture** and **the Interior**, together with the **Office of
     Personnel Management**, are fulfilling President Biden’s commitment
     that [federal wildland firefighters will earn a minimum of $15 per
-    hour](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
+    hour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
     for their critical work. Additionally, the **Centers for Disease
     Control (CDC)** [developed a
     tool](https://ephtracking.cdc.gov/Applications/heatTracker/) that

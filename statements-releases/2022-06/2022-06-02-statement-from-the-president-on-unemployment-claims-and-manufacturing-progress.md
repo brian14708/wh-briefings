@@ -1,7 +1,7 @@
 ---
 date: '2022-06-02'
 published_time: 2022-06-02 10:48:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/statement-from-the-president-on-unemployment-claims-and-manufacturing-progress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/statement-from-the-president-on-unemployment-claims-and-manufacturing-progress/
 tags: statements-releases
 title: "Statement from the President on Unemployment Claims and Manufacturing\_Progress"
 ---

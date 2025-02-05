@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-23 19:20:50-04:00
 published_time: 2024-05-23 17:28:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/white-house-releases-state-dinner-guest-list-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/white-house-releases-state-dinner-guest-list-5/
 tags: statements-releases
 title: "White\_House Releases State Dinner Guest\_List"
 ---

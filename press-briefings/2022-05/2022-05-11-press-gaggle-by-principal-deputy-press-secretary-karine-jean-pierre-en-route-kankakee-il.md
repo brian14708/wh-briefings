@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 15:35:17-04:00
 published_time: 2022-05-11 15:35:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/11/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-kankakee-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/11/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-kankakee-il/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Kankakee,\_Il"

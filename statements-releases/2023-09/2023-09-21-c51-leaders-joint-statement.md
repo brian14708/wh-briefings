@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 16:03:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/c51-leaders-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/c51-leaders-joint-statement/
 tags: statements-releases
 title: "C5+1 Leaders\u2019 Joint\_Statement"
 ---

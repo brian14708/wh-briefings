@@ -1,7 +1,7 @@
 ---
 date: '2022-04-15'
 published_time: 2022-04-15 16:02:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/readout-of-vice-president-harriss-call-with-ray-chambers-of-the-partnership-for-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/15/readout-of-vice-president-harriss-call-with-ray-chambers-of-the-partnership-for-central-america/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Ray Chambers of the Partnership\
   \ for Central\_America"

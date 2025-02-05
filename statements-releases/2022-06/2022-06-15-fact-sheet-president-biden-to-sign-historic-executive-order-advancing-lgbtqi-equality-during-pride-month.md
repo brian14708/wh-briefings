@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 11:50:06-04:00
 published_time: 2022-06-15 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-president-biden-to-sign-historic-executive-order-advancing-lgbtqi-equality-during-pride-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-president-biden-to-sign-historic-executive-order-advancing-lgbtqi-equality-during-pride-month/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Sign Historic Executive Order Advancing LGBTQI+\
   \ Equality During Pride\_Month"
@@ -216,7 +216,7 @@ including:
 
 -   **Strengthening civil rights protections. **On his first day in
     office, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) on
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/) on
     preventing and combatting discrimination against LGBTQI+
     Americans.   
      
@@ -239,7 +239,7 @@ including:
     as unconstitutional.   
 -   **Advancing human rights for LGBTQI+ people in America’s foreign
     policy. **President Biden signed a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) on
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/) on
     Advancing the Human Rights of LGBTQI+ Persons Around the World,
     and  appointed the first Special Envoy to Advance the Human Rights
     of LGBTQI+ Persons at the State Department.   
@@ -255,14 +255,14 @@ including:
      
 -   **Fighting for passage of the Equality Act. **President
     Biden [continues to
-    call](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
+    call](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/) on
     the Senate to swiftly pass the Equality Act, legislation, which will
     provide long overdue federal civil rights protections to LGBTQI+
     Americans and their families.  
 -   **Renewing the U.S. government’s commitment to ending the HIV
     epidemic at home and around the world.  **President Biden released a
     new [National HIV/AIDS
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf) 
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf) 
     to lead us toward ending the HIV epidemic in the United States by
     2030. The President reestablished the White House Office of National
     AIDS Policy, and has made historic investments in ending the HIV
@@ -279,7 +279,7 @@ including:
     appointees identify as LGBTQI+.   
 -   **Ensuring the federal government is a model employer for LGBTQI+
     public servants.**President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) on
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) on
     Advancing Diversity, Equity, Inclusion, and Accessibility in the
     Federal Workforce, with key provisions for LGBTQI+ public
     servants.  

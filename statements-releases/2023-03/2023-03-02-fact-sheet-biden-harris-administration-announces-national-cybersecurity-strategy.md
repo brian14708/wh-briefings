@@ -2,14 +2,14 @@
 date: '2023-03-02'
 modified_time: 2023-03-01 21:27:47-05:00
 published_time: 2023-03-02 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces National Cybersecurity\_\
   Strategy"
 ---
  
 ***<u>[Read the full strategy
-here](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)</u>***
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)</u>***
 
 Today, the Biden-Harris Administration released the National
 Cybersecurity Strategy to secure the full benefits of a safe and secure

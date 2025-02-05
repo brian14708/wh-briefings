@@ -2,7 +2,7 @@
 date: '2023-04-27'
 modified_time: 2023-04-27 15:21:25-04:00
 published_time: 2023-04-27 15:21:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-vice-president-harris-at-a-state-department-luncheon-for-president-yoon-suk-yeol-and-mrs-kim-keon-hee-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-vice-president-harris-at-a-state-department-luncheon-for-president-yoon-suk-yeol-and-mrs-kim-keon-hee-of-the-republic-of-korea/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a State Department Luncheon for President\
   \ Yoon Suk Yeol and Mrs. Kim Keon Hee of the Republic of\_Korea"

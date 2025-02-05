@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 15:04:35-05:00
 published_time: 2023-12-19 15:04:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/readout-of-the-third-trilateral-fentanyl-committee-meeting-between-the-united-states-mexico-and-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/readout-of-the-third-trilateral-fentanyl-committee-meeting-between-the-united-states-mexico-and-canada/
 tags: statements-releases
 title: "Readout of the Third Trilateral Fentanyl Committee Meeting between the United\_\
   States, Mexico, and\_Canada"

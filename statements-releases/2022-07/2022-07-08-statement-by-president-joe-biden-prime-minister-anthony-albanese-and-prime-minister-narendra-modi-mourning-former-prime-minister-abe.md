@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 19:41:13-04:00
 published_time: 2022-07-08 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/statement-by-president-joe-biden-prime-minister-anthony-albanese-and-prime-minister-narendra-modi-mourning-former-prime-minister-abe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/statement-by-president-joe-biden-prime-minister-anthony-albanese-and-prime-minister-narendra-modi-mourning-former-prime-minister-abe/
 tags: statements-releases
 title: "Statement by President Joe\_Biden, Prime Minister Anthony Albanese, and Prime\
   \ Minister Narendra Modi Mourning Former Prime Minister\_Abe"

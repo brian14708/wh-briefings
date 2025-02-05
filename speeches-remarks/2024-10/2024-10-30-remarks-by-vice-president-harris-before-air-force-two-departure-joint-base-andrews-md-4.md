@@ -1,7 +1,7 @@
 ---
 date: '2024-10-30'
 published_time: 2024-10-30 16:11:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/30/remarks-by-vice-president-harris-before-air-force-two-departure-joint-base-andrews-md-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/30/remarks-by-vice-president-harris-before-air-force-two-departure-joint-base-andrews-md-4/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Air Force Two Departure | Joint Base\
   \ Andrews,\_MD"

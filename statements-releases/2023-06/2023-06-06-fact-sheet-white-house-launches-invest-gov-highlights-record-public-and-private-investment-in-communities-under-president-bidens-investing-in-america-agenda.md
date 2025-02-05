@@ -2,7 +2,7 @@
 date: '2023-06-06'
 modified_time: 2023-06-06 09:25:43-04:00
 published_time: 2023-06-06 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/06/fact-sheet-white-house-launches-invest-gov-highlights-record-public-and-private-investment-in-communities-under-president-bidens-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/06/fact-sheet-white-house-launches-invest-gov-highlights-record-public-and-private-investment-in-communities-under-president-bidens-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: White\_House Launches Invest.gov, Highlights Record Public and\
   \ Private Investment in Communities Under President\_Biden\u2019s Investing in America\_\
@@ -10,11 +10,11 @@ title: "FACT SHEET: White\_House Launches Invest.gov, Highlights Record Public a
 ---
  
 Today, the White House launched
-[Invest.gov](https://www.whitehouse.gov/invest/?utm_source=invest.gov),
+[Invest.gov](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov),
 a new website showing the historic public and private sector investments
 President Biden’s Investing in America agenda is bringing to states and
 territories across America.
-[Invest.gov](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[Invest.gov](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 features an interactive map showing infrastructure projects underway
 that are funded by President Biden’s Bipartisan Infrastructure Law as
 well as private sector investments mobilized by President Biden’s
@@ -23,19 +23,19 @@ Act, the Bipartisan Infrastructure Law, and the American Rescue Plan.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?w=640"
 class="wp-image-77921" decoding="async" loading="lazy"
 sizes="(max-width: 3444px) 100vw, 3444px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg 3444w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=615,310 615w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=768,387 768w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1270,640 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1536,774 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=2048,1032 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=590,297 590w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1180,595 1180w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=2360,1190 2360w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1038,523 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg 3444w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=615,310 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=768,387 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1270,640 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1536,774 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=2048,1032 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=590,297 590w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1180,595 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=2360,1190 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-7.jpg?resize=1038,523 1038w"
 width="3444" height="1736" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?w=640"
 class="wp-image-77920" decoding="async" loading="lazy"
 sizes="(max-width: 3425px) 100vw, 3425px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg 3425w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=615,311 615w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=768,388 768w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1270,641 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1536,776 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=2048,1034 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=590,298 590w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1180,596 1180w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=2360,1192 2360w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1038,524 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg 3425w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=615,311 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=768,388 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1270,641 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1536,776 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=2048,1034 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=590,298 590w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1180,596 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=2360,1192 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-6.jpg?resize=1038,524 1038w"
 width="3425" height="1730" />
 </figure>
 
@@ -66,10 +66,10 @@ projects, and announcements.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?w=640"
 class="wp-image-77922" decoding="async" loading="lazy"
 sizes="(max-width: 3428px) 100vw, 3428px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg 3428w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=615,311 615w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=768,388 768w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1270,642 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1536,776 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=2048,1035 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=590,298 590w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1180,596 1180w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=2360,1192 2360w, https://www.whitehouse.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1038,524 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg 3428w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=615,311 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=768,388 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1270,642 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1536,776 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=2048,1035 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=590,298 590w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1180,596 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=2360,1192 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/image-8.jpg?resize=1038,524 1038w"
 width="3428" height="1732" />
 </figure>
 
@@ -110,7 +110,7 @@ America tour. The tour will coincide with the two-week Congressional
 recess around the July 4<sup>th</sup> holiday.  
   
 Visit
-[Invest.gov](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[Invest.gov](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 to learn more about the Investing in America agenda and projects in
 every community across the country.
 

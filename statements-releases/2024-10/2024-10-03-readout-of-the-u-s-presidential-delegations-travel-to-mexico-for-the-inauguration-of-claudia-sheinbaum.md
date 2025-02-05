@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 16:47:21-04:00
 published_time: 2024-10-03 16:47:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/03/readout-of-the-u-s-presidential-delegations-travel-to-mexico-for-the-inauguration-of-claudia-sheinbaum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/03/readout-of-the-u-s-presidential-delegations-travel-to-mexico-for-the-inauguration-of-claudia-sheinbaum/
 tags: statements-releases
 title: "Readout of the U.S. Presidential Delegation\u2019s Travel to Mexico for the\
   \ Inauguration of Claudia\_Sheinbaum"

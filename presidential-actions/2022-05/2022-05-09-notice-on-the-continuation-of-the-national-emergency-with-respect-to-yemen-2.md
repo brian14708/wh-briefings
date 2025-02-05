@@ -1,7 +1,7 @@
 ---
 date: '2022-05-09'
 published_time: 2022-05-09 17:49:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to\_Yemen"
 ---

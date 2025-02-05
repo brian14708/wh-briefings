@@ -2,7 +2,7 @@
 date: '2024-12-01'
 modified_time: 2024-12-02 16:35:14-05:00
 published_time: 2024-12-01 16:32:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/01/a-proclamation-on-world-aids-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/01/a-proclamation-on-world-aids-day-2024/
 tags: presidential-actions
 title: "A Proclamation on World AIDS Day,\_2024"
 ---

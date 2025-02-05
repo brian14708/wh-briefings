@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-06 15:56:07-04:00
 published_time: 2024-05-06 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/statement-from-president-joe-biden-on-the-social-security-and-medicare-trustees-reports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/statement-from-president-joe-biden-on-the-social-security-and-medicare-trustees-reports/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Social Security and Medicare Trustees\_\
   Reports"

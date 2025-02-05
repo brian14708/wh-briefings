@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 17:34:12-04:00
 published_time: 2023-09-20 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-president-biden-issues-executive-order-to-protect-people-in-east-palestine-ohio-and-nearby-communities-and-continue-to-hold-norfolk-southern-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-president-biden-issues-executive-order-to-protect-people-in-east-palestine-ohio-and-nearby-communities-and-continue-to-hold-norfolk-southern-accountable/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Executive Order to Protect People in East\
   \ Palestine, Ohio and Nearby Communities, and Continue to Hold Norfolk Southern\_\

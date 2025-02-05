@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-16 12:10:59-04:00
 published_time: 2022-06-15 19:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/background-press-call-by-senior-administration-officials-on-presidential-action-to-establish-the-task-force-to-address-online-harassment-and-abuse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/background-press-call-by-senior-administration-officials-on-presidential-action-to-establish-the-task-force-to-address-online-harassment-and-abuse/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials on Presidential Action\
   \ to Establish the Task Force to Address Online Harassment and\_Abuse"

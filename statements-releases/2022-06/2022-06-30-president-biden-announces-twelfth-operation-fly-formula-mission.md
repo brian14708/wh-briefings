@@ -2,7 +2,7 @@
 date: '2022-06-30'
 modified_time: 2022-06-30 16:18:09-04:00
 published_time: 2022-06-30 16:07:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/president-biden-announces-twelfth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/president-biden-announces-twelfth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Twelfth Operation Fly Formula\_Mission"
 ---

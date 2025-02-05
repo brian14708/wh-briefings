@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 published_time: 2024-02-01 14:13:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/01/remarks-by-president-biden-at-the-national-prayer-breakfast-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/01/remarks-by-president-biden-at-the-national-prayer-breakfast-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Prayer\_Breakfast"
 ---

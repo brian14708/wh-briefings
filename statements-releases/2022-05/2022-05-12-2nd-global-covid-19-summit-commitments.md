@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-17 09:25:16-04:00
 published_time: 2022-05-12 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/
 tags: statements-releases
 title: "2nd Global COVID-\u206019 Summit\_Commitments"
 ---

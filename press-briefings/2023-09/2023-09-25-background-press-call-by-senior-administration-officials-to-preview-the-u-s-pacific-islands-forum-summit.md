@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-25 11:13:58-04:00
 published_time: 2023-09-25 11:13:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/25/background-press-call-by-senior-administration-officials-to-preview-the-u-s-pacific-islands-forum-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/25/background-press-call-by-senior-administration-officials-to-preview-the-u-s-pacific-islands-forum-summit/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview the U.S.-Pacific\
   \ Islands Forum\_Summit"

@@ -2,7 +2,7 @@
 date: '2024-06-11'
 modified_time: 2024-06-12 10:01:11-04:00
 published_time: 2024-06-11 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/11/remarks-by-president-biden-at-everytowns-gun-sense-university/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/11/remarks-by-president-biden-at-everytowns-gun-sense-university/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Everytown\u2019s Gun Sense\_University"
 ---

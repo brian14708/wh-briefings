@@ -2,7 +2,7 @@
 date: '2023-07-19'
 modified_time: 2023-07-19 19:42:13-04:00
 published_time: 2023-07-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes on Junk Fees in Rental\
   \ Housing to Lower Costs for\_Renters"
@@ -34,7 +34,7 @@ fees](https://www.nclc.org/wp-content/uploads/2023/03/JunkFees-Rpt.pdf)”
 charged for no clear reason at the beginning of a new calendar year.
 Hidden fees not only take money out of people’s pockets, they also make
 it more difficult to [comparison
-shop](https://www.whitehouse.gov/cea/written-materials/2023/03/21/how-junk-fees-distort-competition/#:~:text=The%20Council%20of%20Economic%20Advisers,and%20to%20competition%20more%20broadly.).
+shop](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/03/21/how-junk-fees-distort-competition/#:~:text=The%20Council%20of%20Economic%20Advisers,and%20to%20competition%20more%20broadly.).
 A prospective renter may choose one apartment over another thinking it
 is less expensive, only to learn that after fees and other add-ons the
 actual cost for their chosen apartment is much higher than they expected
@@ -62,10 +62,10 @@ costs for renters, including:
 
 These announcements build on the President’s effort to tackle junk fees
 across industries. President Biden has repeatedly called on [federal
-agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
-[Congress](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/),
+agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
+[Congress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/),
 and [private
-companies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/)
+companies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/)
 to take action to address junk fees across the economy, and ensure
 Americans are provided with honest, transparent pricing. These hidden
 fees increase the costs consumers pay: studies have found that consumers
@@ -90,7 +90,7 @@ about fees in rental housing, building on recent actions by private
 sector leaders in other sectors, including
 [airlines](https://www.transportation.gov/airconsumer/airline-customer-service-dashboard)
 and [event
-tickets](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/).
+tickets](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/).
 By providing the true costs of rent, people can make an informed
 decision about where to live and not be surprised by additional costs
 that push them over budget.  
@@ -134,10 +134,10 @@ better for renters.
   
 **<u>Recent state actions to address the hidden and unfair fees.</u>**
 In March, the White House [convened hundreds of state legislative
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/),
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/),
 and released a resource entitled, “[Guide for States: Cracking Down on
 Junk Fees to Lower Costs for
-Consumers](https://www.whitehouse.gov/wp-content/uploads/2023/03/WH-Junk-Fees-Guide-for-States.pdf).”
+Consumers](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/WH-Junk-Fees-Guide-for-States.pdf).”
 Since the President drew attention to the pervasive issue of junk fees
 throughout the economy, a number of states have already gotten to work
 to crack down on rental housing fees, including:
@@ -197,9 +197,9 @@ of their reliability.
 Today’s announcements build on the Biden-Harris Administration’s ongoing
 efforts to support renters, including through the release of a
 first-of-its-kind [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)
 and a [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 focused on boosting the supply of affordable housing—including rental
 housing. Reducing housing costs is central to Bidenomics, and recent
 data show that inflation in rental housing is abating. Moreover, experts

@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-17 08:31:17-05:00
 published_time: 2022-12-13 08:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/
 tags: statements-releases
 title: "FACT SHEET:\_U.S-Africa Partnership in Health\_Cooperation"
 ---
@@ -63,7 +63,7 @@ health security improvements that these partnerships have advanced.
 systems******  
 ***  
 In May 2022, the White House launched the [Global Health Worker
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/)
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/)
 (GHWI), recognizing that a health workforce that is supported, equipped
 and protected to provide essential public health functions is integral
 to reclaiming lost ground from the COVID-19 pandemic and preparing for
@@ -148,7 +148,7 @@ The United States continues to strengthen global, regional, and national
 capacities to prevent, detect, and respond to infectious disease
 threats.  As part of the U.S. commitment to expand [global health
 security
-partnerships](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-biden-harris-administration-announces-expansion-of-global-health-security-partnerships-and-releases-annual-progress-report/),
+partnerships](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-biden-harris-administration-announces-expansion-of-global-health-security-partnerships-and-releases-annual-progress-report/),
 the United States announced it has invested and committed to provide
 **$782 million inglobal health security programs in Africa since the
 beginning of the Administration** through USAID and CDC, alongside other
@@ -191,7 +191,7 @@ actions to advance pandemic preparedness and response include:
         procurement being sourced from African-based manufacturers**.
 -   **[Senegal Institut Pasteur de Dakar (IPD) Flexible Vaccine
     Manufacturing
-    Facility.](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/)** The
+    Facility.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/)** The
     U.S. International Development Finance Corporation (DFC), along with
     International Finance Corporation (IFC) and other like-minded
     development finance institutions, is continuing to support IPD in
@@ -220,7 +220,7 @@ actions to advance pandemic preparedness and response include:
 ***  
 G7 leaders launched the [Partnership for Global Infrastructure and
 Investment (PGII) in June
-2022](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/),
+2022](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/),
 with a goal of mobilizing hundreds of billions of dollars and delivering
 quality, sustainable infrastructure, including developing and upgrading
 the infrastructure of health systems and contributing to global health
@@ -250,7 +250,7 @@ vaccine manufacturing, programs in support of PGII include:
     program to support women’s economic empowerment in emerging markets.
 -   Power Africa announced the **[Healthcare Electrification and
     Telecommunication
-    Alliance](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/)**
+    Alliance](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/)**
     (HETA), with $10 million in funding, a $150 million partnership
     program to power up and digitally connect thousands of health
     facilities in sub-Saharan Africa, transforming them into hubs of
@@ -298,6 +298,6 @@ sector, will also help end cancer as we know it.
 
 [*Learn more about the U.S.-Africa Partnership on Cancer Prevention,
 Detection, Treatment and
-Research*](https://www.whitehouse.gov/ostp/news-updates/2022/12/14/fact-sheet-cancer-moonshot-announces-new-actions-aimed-to-reduce-the-cancer-burden-in-africa-as-part-of-the-u-s-africa-leaders-summit/)
+Research*](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/12/14/fact-sheet-cancer-moonshot-announces-new-actions-aimed-to-reduce-the-cancer-burden-in-africa-as-part-of-the-u-s-africa-leaders-summit/)
 
 \###

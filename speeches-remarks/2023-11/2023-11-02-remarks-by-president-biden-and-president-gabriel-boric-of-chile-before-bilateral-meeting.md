@@ -2,7 +2,7 @@
 date: '2023-11-02'
 modified_time: 2023-11-02 18:02:15-04:00
 published_time: 2023-11-02 18:02:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-president-biden-and-president-gabriel-boric-of-chile-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-president-biden-and-president-gabriel-boric-of-chile-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Gabriel Boric of Chile Before Bilateral\_\
   Meeting"

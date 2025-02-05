@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-09 12:03:59-05:00
 published_time: 2023-03-08 13:36:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/biden-%e2%81%a0harris-administration-announces-the-application-period-for-fall-session-of-the-white-house-internship-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/biden-%e2%81%a0harris-administration-announces-the-application-period-for-fall-session-of-the-white-house-internship-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Fall\
   \ Session of the White\_House Internship\_Program"

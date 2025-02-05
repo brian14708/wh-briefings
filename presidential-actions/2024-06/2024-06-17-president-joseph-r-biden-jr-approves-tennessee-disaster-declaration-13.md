@@ -2,7 +2,7 @@
 date: '2024-06-17'
 modified_time: 2024-06-17 20:55:22-04:00
 published_time: 2024-06-17 20:55:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/17/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-13/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/17/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-13/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Tennessee Disaster\_Declaration"
 ---

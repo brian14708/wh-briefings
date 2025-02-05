@@ -2,7 +2,7 @@
 date: '2024-10-13'
 modified_time: 2024-10-13 15:55:36-04:00
 published_time: 2024-10-13 15:55:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/13/statement-from-president-biden-congratulating-nobel-peace-prize-winners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/13/statement-from-president-biden-congratulating-nobel-peace-prize-winners/
 tags: statements-releases
 title: "Statement from President\_Biden Congratulating Nobel Peace Prize\_Winners"
 ---

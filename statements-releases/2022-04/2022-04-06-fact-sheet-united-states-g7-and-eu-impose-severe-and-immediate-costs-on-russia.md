@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 10:14:23-04:00
 published_time: 2022-04-06 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/fact-sheet-united-states-g7-and-eu-impose-severe-and-immediate-costs-on-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/fact-sheet-united-states-g7-and-eu-impose-severe-and-immediate-costs-on-russia/
 tags: statements-releases
 title: "FACT SHEET: United\_States, G7 and EU Impose Severe and Immediate Costs on\_\
   Russia"

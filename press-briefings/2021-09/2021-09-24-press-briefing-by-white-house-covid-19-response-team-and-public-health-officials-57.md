@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-09-24'
 modified_time: 2021-09-24 16:50:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/24/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-57/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/09/24/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-57/
 published_time: 2021-09-24 16:50:57-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -694,4 +694,4 @@ you at next week’s briefing. Thank you and have a good weekend.
 1:07 P.M. EDT
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_24September2021.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_24September2021.pdf>

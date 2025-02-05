@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 21:29:56-04:00
 published_time: 2024-09-25 21:20:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/joint-statement-by-president-biden-and-president-macron/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/joint-statement-by-president-biden-and-president-macron/
 tags: statements-releases
 title: "Joint statement by President\_Biden and President\_Macron"
 ---

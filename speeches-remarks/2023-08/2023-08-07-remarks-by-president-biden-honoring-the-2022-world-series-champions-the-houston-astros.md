@@ -1,7 +1,7 @@
 ---
 date: '2023-08-07'
 published_time: 2023-08-07 16:47:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/07/remarks-by-president-biden-honoring-the-2022-world-series-champions-the-houston-astros/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/07/remarks-by-president-biden-honoring-the-2022-world-series-champions-the-houston-astros/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2022 World Series Champions, the\
   \ Houston\_Astros"

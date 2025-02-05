@@ -2,7 +2,7 @@
 date: '2024-11-10'
 modified_time: 2024-11-10 22:18:36-05:00
 published_time: 2024-11-10 22:17:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/10/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-prabowo-subianto-of-indonesia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/10/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-prabowo-subianto-of-indonesia/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of President Prabowo Subianto of\_Indonesia"

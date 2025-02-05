@@ -2,7 +2,7 @@
 date: '2024-01-17'
 modified_time: 2024-01-17 09:44:26-05:00
 published_time: 2024-01-17 10:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/statement-from-national-security-advisor-jake-sullivan-on-the-terrorist-designation-of-the-houthis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/statement-from-national-security-advisor-jake-sullivan-on-the-terrorist-designation-of-the-houthis/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Terrorist Designation\
   \ of the\_Houthis"

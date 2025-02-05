@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 16:06:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/statement-by-press-secretary-karine-jean-pierre-announcing-the-next-white-house-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/statement-by-press-secretary-karine-jean-pierre-announcing-the-next-white-house-tribal-nations-summit/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre Announcing the Next White\_\
   House Tribal Nations\_Summit"

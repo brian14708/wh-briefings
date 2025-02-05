@@ -1,7 +1,7 @@
 ---
 date: '2023-01-05'
 published_time: 2023-01-05 13:06:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/05/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-shooting-in-enoch-city-utah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/05/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-shooting-in-enoch-city-utah/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Shooting\
   \ in Enoch City,\_Utah"
@@ -19,7 +19,7 @@ the lives of five more children in Enoch City.
    
 President Biden has taken historic executive action to reduce gun
 violence, including
-[actions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/)
+[actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/)
 to promote safe storage of firearms and prevent suicide. Last
 summer, President Biden signed the Bipartisan Safer Communities Act
 — the first significant piece of gun safety legislation in nearly 30

@@ -2,7 +2,7 @@
 date: '2024-08-23'
 modified_time: 2024-08-23 18:06:31-04:00
 published_time: 2024-08-23 18:06:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/23/a-proclamation-on-overdose-awareness-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/23/a-proclamation-on-overdose-awareness-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Overdose Awareness Week,\_2024"
 ---

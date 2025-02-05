@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-13 22:45:28-04:00
 published_time: 2022-09-13 22:45:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-president-biden-on-the-passage-of-h-r-5376-the-inflation-reduction-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-president-biden-on-the-passage-of-h-r-5376-the-inflation-reduction-act-of-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Passage of H.R. 5376, the Inflation Reduction\
   \ Act of\_2022"

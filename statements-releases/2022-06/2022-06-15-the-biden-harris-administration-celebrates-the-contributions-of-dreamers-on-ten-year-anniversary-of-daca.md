@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 11:16:33-04:00
 published_time: 2022-06-15 11:16:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/the-biden-harris-administration-celebrates-the-contributions-of-dreamers-on-ten-year-anniversary-of-daca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/the-biden-harris-administration-celebrates-the-contributions-of-dreamers-on-ten-year-anniversary-of-daca/
 tags: statements-releases
 title: "The Biden-\u2060Harris Administration Celebrates the Contributions of Dreamers\
   \ on Ten-Year Anniversary of\_DACA"
@@ -85,16 +85,16 @@ At a time when American employers are struggling to find workers in
 critical industries, providing an opportunity for DACA recipients and
 Dreamers to obtain lawful status will increase the [effective labor
 supply and boost economic
-growth](https://www.whitehouse.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/).
+growth](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/).
 Permanent protections would allow this population to contribute
 indefinitely to the economy in sectors that are heavily reliant on
 immigrant workers, such as [agriculture, construction, and leisure and
-hospitality](https://www.whitehouse.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/),
+hospitality](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/),
 while also providing increased job mobility and better employment
 options with long term trajectories for growth.  Studies show that new
 permanent residents have greater productivity than their undocumented
 counterparts and generate increased [tax
-revenues](https://www.whitehouse.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/). 
+revenues](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/). 
 
 **Conclusion**
 
@@ -103,7 +103,7 @@ exceptional talents, and work ethic.  On Day Oneof this Administration,
 President Biden directed the Department of Homeland Security and the
 Department of Justice to take [all appropriate actions to “preserve and
 fortify”
-DACA](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/).  The
+DACA](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/).  The
 Biden Administration has worked vigorously to defend DACA in court and
 is working expeditiously on a rule to codify and preserve the
 policy.  Ultimately, however, only Congress can provide the permanent

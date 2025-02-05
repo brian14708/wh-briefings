@@ -2,7 +2,7 @@
 date: '2022-12-08'
 modified_time: 2022-12-08 10:58:45-05:00
 published_time: 2022-12-08 10:58:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/08/fact-sheet-president-biden-announces-historic-relief-to-protect-hard-earned-pensions-of-hundreds-of-thousands-of-union-workers-and-retirees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/08/fact-sheet-president-biden-announces-historic-relief-to-protect-hard-earned-pensions-of-hundreds-of-thousands-of-union-workers-and-retirees/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Historic Relief to Protect Hard-Earned\
   \ Pensions of Hundreds of Thousands of Union Workers and\_Retirees"

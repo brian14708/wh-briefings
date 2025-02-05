@@ -1,7 +1,7 @@
 ---
 date: '2023-04-26'
 published_time: 2023-04-26 19:19:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/readout-of-white-house-state-legislative-convening-on-non-consensually-distributed-intimate-images/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/readout-of-white-house-state-legislative-convening-on-non-consensually-distributed-intimate-images/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Non-Consensually Distributed\
   \ Intimate\_Images"
@@ -24,10 +24,10 @@ respondents reported being threatened with the posting of
 intimate/sexual pictures without permission, and 17% reported having
 such images posted without permission. To address this scourge, on June
 16, 2022, President Biden signed a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 establishing the White House Task Force to Address Online Harassment and
 Abuse. Vice President Harris
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 the Task Force by hosting a survivor and expert roundtable.  
   
 Forty-eight states, the District of Columbia, Puerto Rico, and Guam have

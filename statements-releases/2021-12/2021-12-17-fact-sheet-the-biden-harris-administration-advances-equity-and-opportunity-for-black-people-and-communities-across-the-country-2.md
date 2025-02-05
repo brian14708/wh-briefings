@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-17'
 modified_time: 2021-12-17 12:20:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country-2/
 published_time: 2021-12-17 12:20:13-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black People and Communities Across the\_Country"
@@ -39,7 +39,7 @@ programs include:
 
 -   ***Providing Immediate Relief to Black People and Families through
     the American Rescue Plan**.*** The
-    [ARP](https://www.whitehouse.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf)
+    [ARP](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf)
     provides cash relief directly to low- and middle-income Americans,
     and has cut Black child poverty by
     [30.2%](https://www.povertycenter.columbia.edu/news-internal/monthly-poverty-october-2021),
@@ -71,7 +71,7 @@ programs include:
     <!-- -->
 
     -   EPA announced that it will allocate [$2.9
-        billion](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-vice-president-harris-on-the-biden-harris-lead-pipe-and-paint-action-plan/)
+        billion](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/16/remarks-by-vice-president-harris-on-the-biden-harris-lead-pipe-and-paint-action-plan/)
         in Bipartisan Infrastructure Law funding to states, Tribes, and
         territories for lead service line replacement in 2022. The 2022
         allocation is the first of five years of nearly $15 billion in
@@ -90,7 +90,7 @@ programs include:
         cleaning up Superfund and brownfield sites, reclaiming abandoned
         mine land, and capping orphaned oil and gas wells. More than one
         in four Black Americans live within 3 miles of a [Superfund
-        site](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)–
+        site](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)–
         a higher percentage than for Americans overall. No community
         deserves to have contamination near where they live, work, play,
         pray, and go to school.
@@ -103,7 +103,7 @@ programs include:
     50%, translating to an additional $100 billion over five years, and
     helping more Americans realize their entrepreneurial dreams. The
     Administration recently
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
     reforms to the federal procurement process to meet the President’s
     ambitious target and deliver new opportunities for Black owned and
     other small disadvantaged businesses.
@@ -173,7 +173,7 @@ programs include:
     week, President Biden signed the Transforming Federal Customer
     Experience and Service Delivery to Rebuild Trust in Government
     [*Executive
-    Order*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
+    Order*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/)
     – a commitment from federal agencies to remove red tape on critical
     government services like claiming retirement benefits or filing
     taxes and streamline and increase access to these services for all
@@ -183,7 +183,7 @@ programs include:
 Education Beyond High School.** As we continue to recover from the
 COVID-19 pandemic, President Biden has delivered the support necessary
 to enable every school to [safely
-reopen](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/#:~:text=The%20President%20made%20clear%20on%20Day%20One%20of,Services%20to%20safely%20reopen%20schools%20for%20in-person%20instruction)
+reopen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/#:~:text=The%20President%20made%20clear%20on%20Day%20One%20of,Services%20to%20safely%20reopen%20schools%20for%20in-person%20instruction)
 for full-time, in-person instruction; accelerate academic achievement;
 address the mental health needs of students; and build school
 communities where all students feel they belong. At the same time,
@@ -240,7 +240,7 @@ education for Black students. These policies and programs include:
     <!-- -->
 
     -   President Biden signed an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
         establishing the White House Initiative on Advancing Educational
         Equity, Opportunity, and Excellence through HBCUs, which will
         create a government-wide approach to support the needs of HBCUs
@@ -303,7 +303,7 @@ policies and programs include:
     <!-- -->
 
     -   Further, in December, Vice President Harris
-        [issued](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/)
+        [issued](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/)
         a nationwide call to action to both public and private sectors
         to improve health outcomes for Black mothers and their children.
         As part of this call to action, the Centers for Medicare &
@@ -322,7 +322,7 @@ policies and programs include:
 
     -   In April, President Biden issued the first ever [Presidential
         Proclamation on Black Maternal Health
-        Week](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/),
+        Week](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/),
         calling on all Americans to recognize the importance of
         addressing the crisis of Black maternal mortality and morbidity.
 -   ***Ensuring an Equitable Pandemic Response.*** Nationwide, Black
@@ -349,9 +349,9 @@ policies and programs include:
     <!-- -->
 
     -   In January, President Biden
-        [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
+        [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
         an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
         on Ensuring an Equitable Pandemic Response and Recovery,
         creating a COVID-19 Health Equity Task Force to provide specific
         recommendations to the President for mitigating the health
@@ -481,19 +481,19 @@ Access to Justice.** These policies and programs include:
 
 -   ***Signing Executive Order Promoting Access to Voter Registration
     and Voting.*** On the anniversary of Bloody Sunday, President Biden
-    [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     to leverage the resources of the federal government to provide
     information about the election process and increased access to voter
     registration opportunities. Agencies across the federal government
     have [announced
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
     they are taking to respond to the President’s call for an
     all-of-government action to enhance the ability of all eligible
     Americans to participate in our democracy, including the Centers for
     Medicare & Medicaid Services’ [recent
-    commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/)
+    commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/)
     to make it easier for consumers using HealthCare.gov to connect to
     voter registration services.
 -   ***Ensuring Compliance with Voting Rights Laws*.** The Department of
@@ -518,7 +518,7 @@ Access to Justice.** These policies and programs include:
 
 -   ***Expanding Access to Justice***. To expand the promise of equal
     justice under law, the President
-    [asked](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/18/memorandum-on-restoring-the-department-of-justices-access-to-justice-function-and-reinvigorating-the-white-house-legal-aid-interagency-roundtable/)
+    [asked](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/18/memorandum-on-restoring-the-department-of-justices-access-to-justice-function-and-reinvigorating-the-white-house-legal-aid-interagency-roundtable/)
     the Attorney General to consider expanding the Department of
     Justice’s access to justice work. In October, the Attorney
     General announced the reestablishment of the Office for Access to
@@ -592,7 +592,7 @@ Americans, as we build back better. These policies and programs include:
     they have lower college completion rates and higher student loan
     debt burdens than their white peers. The President has outlined a
     [far-reaching
-    agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/)
+    agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/)
     that will transform public education, advancing equity for Black
     students and prepare all students to succeed.
     -   The President’s proposed Build Back Better Plan would provide

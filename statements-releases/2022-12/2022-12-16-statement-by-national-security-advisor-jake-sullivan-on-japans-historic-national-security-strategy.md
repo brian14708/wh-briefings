@@ -2,7 +2,7 @@
 date: '2022-12-16'
 modified_time: 2022-12-16 04:54:05-05:00
 published_time: 2022-12-16 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/16/statement-by-national-security-advisor-jake-sullivan-on-japans-historic-national-security-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/16/statement-by-national-security-advisor-jake-sullivan-on-japans-historic-national-security-strategy/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Japan\u2019s Historic\
   \ National Security\_Strategy"

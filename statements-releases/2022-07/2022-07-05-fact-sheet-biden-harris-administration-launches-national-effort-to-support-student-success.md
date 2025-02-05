@@ -2,7 +2,7 @@
 date: '2022-07-05'
 modified_time: 2022-07-05 09:04:13-04:00
 published_time: 2022-07-05 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches National Effort to\
   \ Support Student Success"
@@ -120,7 +120,7 @@ in every district, the Administration is taking the following actions:
     American Rescue Plan’s $350 billion in State and Local Fiscal
     Recovery Funds (SLFRF) to support student success. As outlined in a
     new White House
-    [toolkit](https://www.whitehouse.gov/wp-content/uploads/2022/07/SLFRF-Learning-Loss-and-Mental-Health-Toolkit-v0630-CLEAN.pdf),
+    [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/SLFRF-Learning-Loss-and-Mental-Health-Toolkit-v0630-CLEAN.pdf),
     SLFRF can be used to hire and retain school-based staff; build the
     educator pipeline; and invest in other ways to support our students,
     including academic and mental health supports.

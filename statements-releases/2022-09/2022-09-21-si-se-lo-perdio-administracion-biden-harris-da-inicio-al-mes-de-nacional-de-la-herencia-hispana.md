@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 14:38:47-04:00
 published_time: 2022-09-21 14:38:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/si-se-lo-perdio-administracion-biden-harris-da-inicio-al-mes-de-nacional-de-la-herencia-hispana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/si-se-lo-perdio-administracion-biden-harris-da-inicio-al-mes-de-nacional-de-la-herencia-hispana/
 tags: statements-releases
 title: "Si se lo perdi\xF3: Administraci\xF3n Biden-\u2060Harris da inicio al Mes\
   \ de Nacional de la Herencia\_Hispana"
@@ -10,10 +10,10 @@ title: "Si se lo perdi\xF3: Administraci\xF3n Biden-\u2060Harris da inicio al Me
  
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg"
 class="wp-image-61885" loading="lazy"
 sizes="(max-width: 420px) 100vw, 420px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg 406w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=1200,675 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg 406w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=1200,675 1200w"
 width="420" height="237" />
 </figure>
 
@@ -36,7 +36,7 @@ Erazno y Chokolata, un programa nacional de radio en español.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/09/KDH-HHM.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/KDH-HHM.jpg"
 class="wp-image-61888" loading="lazy" width="375" height="248" />
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 17:37:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/28/executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/28/executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs/
 tags: presidential-actions
 title: "Executive Order on Federal Research and Development in Support of Domestic\
   \ Manufacturing and United\_States\_Jobs"

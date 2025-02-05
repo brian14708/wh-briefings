@@ -2,7 +2,7 @@
 date: '2024-12-21'
 modified_time: 2024-12-21 11:11:10-05:00
 published_time: 2024-12-21 11:11:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/12/21/press-release-bill-signed-h-r-10545/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/12/21/press-release-bill-signed-h-r-10545/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_10545"
 ---

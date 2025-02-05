@@ -1,7 +1,7 @@
 ---
 date: '2023-10-16'
 published_time: 2023-10-16 18:19:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-military-spouse-roundtable-at-patrick-space-force-base/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-military-spouse-roundtable-at-patrick-space-force-base/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Military Spouse\
   \ Roundtable at Patrick Space Force\_Base"

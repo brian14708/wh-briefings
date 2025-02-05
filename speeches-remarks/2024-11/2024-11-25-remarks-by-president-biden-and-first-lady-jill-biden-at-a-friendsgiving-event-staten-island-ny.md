@@ -2,7 +2,7 @@
 date: '2024-11-25'
 modified_time: 2024-11-26 11:47:44-05:00
 published_time: 2024-11-25 18:38:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/25/remarks-by-president-biden-and-first-lady-jill-biden-at-a-friendsgiving-event-staten-island-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/25/remarks-by-president-biden-and-first-lady-jill-biden-at-a-friendsgiving-event-staten-island-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at a Friendsgiving\
   \ Event | Staten Island,\_NY"

@@ -2,7 +2,7 @@
 date: '2023-12-07'
 modified_time: 2023-12-07 09:43:29-05:00
 published_time: 2023-12-07 09:43:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-health-care-and-prescription-drug-costs-by-promoting-competition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-health-care-and-prescription-drug-costs-by-promoting-competition/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Lower\
   \ Health Care and Prescription Drug Costs by Promoting\_Competition"
@@ -199,7 +199,7 @@ include:
 -   **Negotiating and lowering drug prices.** Thanks to President
     Biden’s Inflation Reduction Act, the Administration has announced
     [10 prescription
-    drugs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/)
+    drugs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/)
     for which Medicare will negotiate prices directly with participating
     manufacturers. These drugs cost people with Medicare $3.4 billion
     out of pocket in 2022. This builds on other progress to lower
@@ -267,7 +267,7 @@ include:
     without a prescription. That is now a reality. Under a [final
     rule](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
     issued by the FDA, hearing aids [are now on store
-    shelves](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/)
+    shelves](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/)
     across the country—for thousands of dollars less than before. The
     rule is also spurring competition [among
     providers,](https://www.nytimes.com/2023/10/30/health/hearing-aids-dementia.html)
@@ -277,7 +277,7 @@ include:
     equity firms and other large corporate owners purchasing nursing
     homes and slashing levels of staff to maximize profits. The
     Biden-Harris Administration has taken [numerous
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-biden-harris-administration-takes-steps-to-crack-down-on-nursing-homes-that-endanger-resident-safety/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-biden-harris-administration-takes-steps-to-crack-down-on-nursing-homes-that-endanger-resident-safety/)
     to crack down on nursing homes that put the well-being of their
     residents at risk, including proposing a rule that, if finalized as
     proposed, would establish a federal floor for safe staffing levels.
@@ -290,7 +290,7 @@ include:
     care for their loved ones.  
 -   **Reforming the organ transplant system.** President Biden recently
     [signed a bipartisan
-    law](https://www.whitehouse.gov/briefing-room/legislation/2023/09/22/bill-signed-h-r-2544/),
+    law](https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/09/22/bill-signed-h-r-2544/),
     the Securing the U.S. Organ Procurement and Transplantation Network
     Act, to break up the monopoly that has controlled the organ
     transplant system for its entire nearly four decade history. HHS

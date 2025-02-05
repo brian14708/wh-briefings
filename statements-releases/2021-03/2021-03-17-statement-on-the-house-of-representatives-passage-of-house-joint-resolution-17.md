@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-17'
 modified_time: 2021-03-17 19:52:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/17/statement-on-the-house-of-representatives-passage-of-house-joint-resolution-17/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/17/statement-on-the-house-of-representatives-passage-of-house-joint-resolution-17/
 published_time: 2021-03-17 19:52:09-04:00
 title: "Statement on the House of Representatives Passage of House Joint Resolution\_\
   17"

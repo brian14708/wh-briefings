@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-12 09:04:38-04:00
 published_time: 2024-05-10 20:57:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-president-biden-at-a-campaign-reception-palo-alto-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-president-biden-at-a-campaign-reception-palo-alto-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Palo Alto,\_CA"
 ---

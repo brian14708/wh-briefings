@@ -1,7 +1,7 @@
 ---
 date: '2024-06-16'
 published_time: 2024-06-16 14:59:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/16/statement-by-president-joe-biden-on-the-occasion-of-eid-al-adha-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/16/statement-by-president-joe-biden-on-the-occasion-of-eid-al-adha-3/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Occasion of Eid\_al-Adha"
 ---

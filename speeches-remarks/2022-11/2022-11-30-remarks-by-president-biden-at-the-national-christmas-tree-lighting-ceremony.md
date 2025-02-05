@@ -2,7 +2,7 @@
 date: '2022-11-30'
 modified_time: 2022-11-30 20:07:21-05:00
 published_time: 2022-11-30 20:07:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-president-biden-at-the-national-christmas-tree-lighting-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-president-biden-at-the-national-christmas-tree-lighting-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Christmas Tree Lighting\_Ceremony"
 ---

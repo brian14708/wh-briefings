@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2022-01-14'
 modified_time: 2022-01-14 10:06:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/14/a-proclamation-on-religious-freedom-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/01/14/a-proclamation-on-religious-freedom-day-2022/
 published_time: 2022-01-14 10:06:06-05:00
 title: "A Proclamation on Religious Freedom Day,\_2022"
 ---

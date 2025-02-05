@@ -2,17 +2,17 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 14:39:29-04:00
 published_time: 2022-09-21 14:39:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/icymi-biden-harris-administration-kicks-off-hispanic-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/icymi-biden-harris-administration-kicks-off-hispanic-heritage-month/
 tags: statements-releases
 title: "ICYMI:  Biden-\u2060Harris Administration Kicks Off Hispanic Heritage\_Month"
 ---
  
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg"
 class="wp-image-61885" loading="lazy"
 sizes="(max-width: 420px) 100vw, 420px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg 406w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=1200,675 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg 406w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/JRB-HHM.jpg?resize=1200,675 1200w"
 width="420" height="237" />
 </figure>
 
@@ -36,7 +36,7 @@ station.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/09/KDH-HHM.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/KDH-HHM.jpg"
 class="wp-image-61888" loading="lazy" width="375" height="248" />
 </figure>
 

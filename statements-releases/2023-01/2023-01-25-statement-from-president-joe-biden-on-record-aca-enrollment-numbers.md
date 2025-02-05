@@ -2,7 +2,7 @@
 date: '2023-01-25'
 modified_time: 2023-01-25 10:08:39-05:00
 published_time: 2023-01-25 10:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Record ACA Enrollment\_Numbers"
 ---

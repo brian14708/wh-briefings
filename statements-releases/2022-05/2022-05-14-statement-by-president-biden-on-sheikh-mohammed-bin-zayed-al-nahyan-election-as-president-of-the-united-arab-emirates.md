@@ -2,7 +2,7 @@
 date: '2022-05-14'
 modified_time: 2022-05-14 11:10:22-04:00
 published_time: 2022-05-14 11:10:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/14/statement-by-president-biden-on-sheikh-mohammed-bin-zayed-al-nahyan-election-as-president-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/14/statement-by-president-biden-on-sheikh-mohammed-bin-zayed-al-nahyan-election-as-president-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Statement by President\_Biden on Sheikh Mohammed bin Zayed Al Nahyan election\
   \ as President of the United Arab\_Emirates"

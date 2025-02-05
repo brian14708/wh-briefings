@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 15:41:11-05:00
 published_time: 2024-12-02 15:41:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-reception-for-national-guard-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-reception-for-national-guard-families/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Holiday Reception\
   \ for National Guard\_Families"

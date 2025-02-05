@@ -1,7 +1,7 @@
 ---
 date: '2023-06-22'
 published_time: 2023-06-22 15:13:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/22/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/22/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Modi of the Republic of India\
   \ at Arrival\_Ceremony"

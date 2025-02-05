@@ -2,7 +2,7 @@
 date: '2024-07-05'
 modified_time: 2024-07-06 00:34:05-04:00
 published_time: 2024-07-05 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/05/background-press-call-previewing-the-nato-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/05/background-press-call-previewing-the-nato-summit/
 tags: press-briefings
 title: "Background Press Call Previewing the NATO\_Summit"
 ---

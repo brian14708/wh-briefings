@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 15:17:40-05:00
 published_time: 2025-01-06 15:17:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/readout-of-president-bidens-meeting-with-president-elect-edmundo-gonzalez-urrutia-of-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/readout-of-president-bidens-meeting-with-president-elect-edmundo-gonzalez-urrutia-of-venezuela/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President-Elect Edmundo Gonzalez\
   \ Urrutia of\_Venezuela"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 published_time: 2023-05-26 19:00:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/26/readout-of-vice-president-harriss-call-with-president-giammattei-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/26/readout-of-vice-president-harriss-call-with-president-giammattei-of-guatemala/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Giammattei of\_\
   Guatemala"

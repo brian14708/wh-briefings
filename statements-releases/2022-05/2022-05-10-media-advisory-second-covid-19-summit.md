@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-10 12:01:06-04:00
 published_time: 2022-05-10 12:00:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/10/media-advisory-second-covid-19-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/10/media-advisory-second-covid-19-summit/
 tags: statements-releases
 title: "Media Advisory: Second COVID-\u206019\_Summit"
 ---

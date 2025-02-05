@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 11:29:58-04:00
 published_time: 2022-07-16 11:29:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-between-president-biden-and-egyptian-president-abdel-fattah-al-sisi-in-jeddah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-between-president-biden-and-egyptian-president-abdel-fattah-al-sisi-in-jeddah/
 tags: statements-releases
 title: "Joint Statement Following Meeting Between President\_Biden and Egyptian President\
   \ Abdel Fattah Al Sisi in\_Jeddah"

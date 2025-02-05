@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 14:54:00-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-advances-president-bidens-unity-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-advances-president-bidens-unity-agenda/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Advances President\_Biden\u2019s Unity\_\
   Agenda"
@@ -82,7 +82,7 @@ the United States annually.
 **Reiterates the Administration’s Request for Immediate Funding to
 Counter Fentanyl at the Border.** The Budget includes, and therefore
 reiterates the need for [the Administration’s October 2023 supplemental
-request](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/).
+request](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/).
 The supplemental request includes investments to build longer-term
 capacity to counter fentanyl, totaling $1.2 billion for the Department
 of Homeland Security (DHS). This amount includes $239 million to hire

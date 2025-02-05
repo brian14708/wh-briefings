@@ -2,7 +2,7 @@
 date: '2022-07-31'
 modified_time: 2022-07-31 20:23:24-04:00
 published_time: 2022-07-31 20:23:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/31/statement-by-president-joe-biden-on-the-passing-of-bill-russell/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/31/statement-by-president-joe-biden-on-the-passing-of-bill-russell/
 tags: statements-releases
 title: "Statement by President Joe\_Biden On the Passing of Bill\_Russell"
 ---

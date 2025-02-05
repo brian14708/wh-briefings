@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 20:22:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/readout-of-white-house-state-legislative-convening-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/readout-of-white-house-state-legislative-convening-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Reproductive\_Rights"
 ---
@@ -15,11 +15,11 @@ to further safeguard reproductive rights in the upcoming 2024
 legislative session.    
    
 This convening builds on [more than two
-dozen](https://www.whitehouse.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
+dozen](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
 White House-led working meetings with state legislators in the wake of
 the Supreme Court’s decision to overturn *Roe v. Wade*, including an
 in-person
-[convening](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/#:~:text=During%20the%20convening%2C%20senior%20White,work%20of%20the%20Interagency%20Task)
+[convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/#:~:text=During%20the%20convening%2C%20senior%20White,work%20of%20the%20Interagency%20Task)
 of more than 80 state legislators from 41 states in June 2023. While
 Republican elected officials continue to advance extreme abortion bans
 in states and at the national level, legislators across the country are

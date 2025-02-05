@@ -1,7 +1,7 @@
 ---
 date: '2022-10-04'
 published_time: 2022-10-04 09:48:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/statement-by-president-joe-biden-on-yom-kippur/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/statement-by-president-joe-biden-on-yom-kippur/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Yom\_Kippur"
 ---

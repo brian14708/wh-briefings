@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-05 18:37:33-05:00
 published_time: 2023-12-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Historic Executive Order to Usher in the\
   \ Next Era of Tribal Self-Determination"

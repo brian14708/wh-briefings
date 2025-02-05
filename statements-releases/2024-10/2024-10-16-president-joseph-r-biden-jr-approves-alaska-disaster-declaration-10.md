@@ -1,7 +1,7 @@
 ---
 date: '2024-10-16'
 published_time: 2024-10-16 19:28:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/16/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-10/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---

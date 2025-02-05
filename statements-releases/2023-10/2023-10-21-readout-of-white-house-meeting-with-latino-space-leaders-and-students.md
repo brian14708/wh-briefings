@@ -1,7 +1,7 @@
 ---
 date: '2023-10-21'
 published_time: 2023-10-21 12:14:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/21/readout-of-white-house-meeting-with-latino-space-leaders-and-students/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/21/readout-of-white-house-meeting-with-latino-space-leaders-and-students/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Latino Space Leaders and\_Students"
 ---

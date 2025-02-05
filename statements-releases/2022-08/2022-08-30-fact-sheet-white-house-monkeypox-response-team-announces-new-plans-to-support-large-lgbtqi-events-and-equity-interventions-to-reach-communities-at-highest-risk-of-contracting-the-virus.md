@@ -1,7 +1,7 @@
 ---
 date: '2022-08-30'
 published_time: 2022-08-30 14:10:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/30/fact-sheet-white-house-monkeypox-response-team-announces-new-plans-to-support-large-lgbtqi-events-and-equity-interventions-to-reach-communities-at-highest-risk-of-contracting-the-virus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/30/fact-sheet-white-house-monkeypox-response-team-announces-new-plans-to-support-large-lgbtqi-events-and-equity-interventions-to-reach-communities-at-highest-risk-of-contracting-the-virus/
 tags: statements-releases
 title: "FACT SHEET: White\_House Monkeypox Response Team Announces New Plans to Support\
   \ Large LGBTQI+ Events and Equity Interventions to Reach Communities at Highest\

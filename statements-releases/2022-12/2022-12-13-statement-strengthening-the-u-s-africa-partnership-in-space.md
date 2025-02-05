@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-14 09:08:02-05:00
 published_time: 2022-12-13 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/statement-strengthening-the-u-s-africa-partnership-in-space/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/statement-strengthening-the-u-s-africa-partnership-in-space/
 tags: statements-releases
 title: "STATEMENT: Strengthening the U.S.-Africa Partnership in\_Space"
 ---

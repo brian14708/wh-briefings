@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-18'
 modified_time: 2021-05-17 20:35:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-will-bolster-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-the-american-jobs-plan-will-bolster-cybersecurity/
 published_time: 2021-05-18 05:15:00-04:00
 title: "FACT SHEET: The American Jobs Plan Will Bolster\_Cybersecurity"
 ---
@@ -11,7 +11,7 @@ Cybersecurity is one of the preeminent challenges of our time, which is
 why President Biden has made strengthening U.S. cybersecurity
 capabilities a top priority and has already taken action to advance it,
 including with last week’s [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/).
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/).
 The American Jobs Plan will build on that work and deliver resilient
 infrastructure for the American people, including a renewed electric
 grid. Cybersecurity is a core part of resilience and building

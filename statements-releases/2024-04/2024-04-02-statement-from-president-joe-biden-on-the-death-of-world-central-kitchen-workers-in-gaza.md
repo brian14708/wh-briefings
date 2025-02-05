@@ -2,7 +2,7 @@
 date: '2024-04-02'
 modified_time: 2024-04-02 19:41:11-04:00
 published_time: 2024-04-02 19:41:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/02/statement-from-president-joe-biden-on-the-death-of-world-central-kitchen-workers-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/02/statement-from-president-joe-biden-on-the-death-of-world-central-kitchen-workers-in-gaza/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Death of World Central Kitchen\
   \ Workers in\_Gaza"

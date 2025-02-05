@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-12 23:52:00-05:00
 published_time: 2023-12-13 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Launches the Biden-\u2060Harris Administration\
   \ Safer States Initiative, Highlights New Executive Actions to Reduce Gun\_Violence"
@@ -17,7 +17,7 @@ efforts to reduce gun violence.
 
 Today, Vice President Harris is launching [the Biden-Harris
 Administration’s Safer States
-Initiative](https://www.whitehouse.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf) to
+Initiative](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf) to
 provide states with additional tools and the support they need to reduce
 gun violence and save lives. To kick off the initiative, the White House
 is releasing the Biden-Harris Safer States Agenda, outlining key actions

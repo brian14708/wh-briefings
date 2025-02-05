@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 15:17:25-04:00
 published_time: 2024-06-13 15:17:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-u-s-ukraine-bilateral-security-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-u-s-ukraine-bilateral-security-agreement/
 tags: statements-releases
 title: "FACT SHEET: U.S.-Ukraine Bilateral Security\_Agreement"
 ---
@@ -39,7 +39,7 @@ Ukraine will work together to:
     long-term contributor to European security.  
 -   **Strengthen Ukraine’s capacity to sustain its fight over the long
     term**, including by [building on
-    efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-the-white-house-announces-new-actions-to-strengthen-cooperation-and-co-production-between-u-s-and-ukraines-defense-industrial-bases/)
+    efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-the-white-house-announces-new-actions-to-strengthen-cooperation-and-co-production-between-u-s-and-ukraines-defense-industrial-bases/)
     to bolster in Ukraine’s defense industrial base, and supporting its
     economic recovery and energy security.  
 -   **Accelerate Ukraine’s Euro-Atlantic integration,** including
@@ -59,7 +59,7 @@ This agreement, together with the mutually reinforcing security
 agreements and arrangements Ukraine has signed with a broad network of
 partners under the G7 Joint Declaration of Support for Ukraine, is a key
 part of Ukraine’s bridge to NATO membership. As [President Biden said in
-Vilnius](https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/12/remarks-by-president-biden-prime-minister-kishida-of-japan-and-president-zelenskyy-of-ukraine-in-a-g7-joint-declaration-of-support-for-ukraine-vilnius-lithuania/)
+Vilnius](https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/12/remarks-by-president-biden-prime-minister-kishida-of-japan-and-president-zelenskyy-of-ukraine-in-a-g7-joint-declaration-of-support-for-ukraine-vilnius-lithuania/)
 last year and as NATO allies have agreed, Ukraine’s future is in NATO.
 We are not waiting for the NATO process to be completed to make
 long-term commitments to Ukraine’s security to address the immediate

@@ -2,7 +2,7 @@
 date: '2024-07-12'
 modified_time: 2024-07-12 21:49:23-04:00
 published_time: 2024-07-12 21:49:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/12/statement-from-president-joe-biden-on-s-138-the-promoting-a-resolution-to-the-tibet-china-dispute-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/12/statement-from-president-joe-biden-on-s-138-the-promoting-a-resolution-to-the-tibet-china-dispute-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on S. 138, the \u201CPromoting a Resolution\
   \ to the Tibet-China Dispute\_Act\u201D"

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-09'
 published_time: 2022-11-09 00:35:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/09/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-continued-wrongful-detention-of-american-brittney-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/09/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-continued-wrongful-detention-of-american-brittney-griner/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Continued\
   \ Wrongful Detention of American Brittney\_Griner"

@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 19:02:51-04:00
 published_time: 2024-04-15 19:02:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/readout-of-president-bidens-meeting-with-prime-minister-petr-fiala-of-the-czech-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/readout-of-president-bidens-meeting-with-prime-minister-petr-fiala-of-the-czech-republic/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Petr Fiala\
   \ of the Czech\_Republic"

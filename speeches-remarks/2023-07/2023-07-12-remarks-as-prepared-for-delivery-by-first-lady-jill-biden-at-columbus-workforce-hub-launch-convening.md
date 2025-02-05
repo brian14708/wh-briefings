@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 16:11:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-columbus-workforce-hub-launch-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-columbus-workforce-hub-launch-convening/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Columbus\u2019\
   \ Workforce Hub Launch\_Convening"

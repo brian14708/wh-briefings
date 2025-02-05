@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-07 14:03:29-05:00
 published_time: 2022-11-07 14:03:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/07/a-proclamation-on-veterans-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/07/a-proclamation-on-veterans-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Veterans Day,\_2022"
 ---

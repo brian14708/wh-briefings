@@ -2,7 +2,7 @@
 date: '2022-06-02'
 modified_time: 2022-06-02 17:42:30-04:00
 published_time: 2022-06-02 17:42:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/statement-by-president-joe-biden-on-the-outlook-for-the-social-security-and-medicare-trust-funds/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/statement-by-president-joe-biden-on-the-outlook-for-the-social-security-and-medicare-trust-funds/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Outlook for the Social Security and\
   \ Medicare Trust\_Funds"

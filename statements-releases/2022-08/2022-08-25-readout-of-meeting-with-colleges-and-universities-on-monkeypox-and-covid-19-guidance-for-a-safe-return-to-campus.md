@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 09:54:07-04:00
 published_time: 2022-08-25 09:49:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/readout-of-meeting-with-colleges-and-universities-on-monkeypox-and-covid-19-guidance-for-a-safe-return-to-campus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/readout-of-meeting-with-colleges-and-universities-on-monkeypox-and-covid-19-guidance-for-a-safe-return-to-campus/
 tags: statements-releases
 title: "Readout of Meeting with Colleges and Universities on Monkeypox and COVID-\u2060\
   19 Guidance for a Safe Return to\_Campus"

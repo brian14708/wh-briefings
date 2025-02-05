@@ -2,7 +2,7 @@
 tags: disclosures
 date: '2021-05-17'
 modified_time: 2021-05-19 12:06:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/
 published_time: 2021-05-17 17:21:45-04:00
 title: "The President and Vice President release their 2020 tax\_returns"
 ---
@@ -29,7 +29,7 @@ Lady also released her Virginia income tax return and reported paying
 $443 in Virginia income tax.
 
 View the President and First Lady’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2021/05/2021.05.17-POTUS-Redacted-2020-Federal-and-State-Returns.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/2021.05.17-POTUS-Redacted-2020-Federal-and-State-Returns.pdf).
 
 The Vice President and the Second Gentleman also released their 2020
 federal income tax return, as well as state income tax returns for both
@@ -44,6 +44,6 @@ $56,997 in District of Columbia income tax. They contributed $27,006 to
 charity in 2020.
 
 View the Vice President and Second Gentleman’s tax returns
-[here](https://www.whitehouse.gov/wp-content/uploads/2021/05/2021.05.17-VPOTUS-Redacted-2020-Federal-and-State-Returns.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/2021.05.17-VPOTUS-Redacted-2020-Federal-and-State-Returns.pdf).
 
 \###

@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-01 14:36:02-04:00
 published_time: 2024-08-01 14:36:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/01/background-press-call-on-todays-multilateral-prisoner-exchange/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/01/background-press-call-on-todays-multilateral-prisoner-exchange/
 tags: press-briefings
 title: "Background Press Call on Today\u2019s Multilateral Prisoner\_Exchange"
 ---

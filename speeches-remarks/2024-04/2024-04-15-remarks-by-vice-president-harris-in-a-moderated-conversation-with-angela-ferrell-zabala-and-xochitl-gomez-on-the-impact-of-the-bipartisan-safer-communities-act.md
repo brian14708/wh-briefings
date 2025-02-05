@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-17 02:11:05-04:00
 published_time: 2024-04-15 18:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-vice-president-harris-in-a-moderated-conversation-with-angela-ferrell-zabala-and-xochitl-gomez-on-the-impact-of-the-bipartisan-safer-communities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-vice-president-harris-in-a-moderated-conversation-with-angela-ferrell-zabala-and-xochitl-gomez-on-the-impact-of-the-bipartisan-safer-communities-act/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Angela Ferrell-Zabala\
   \ and Xochitl Gomez on the Impact of The Bipartisan Safer Communities\_Act"

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-10'
 published_time: 2022-11-10 15:29:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-releases-national-security-memorandum-to-strengthen-the-security-and-resilience-of-u-s-food-and-agriculture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-releases-national-security-memorandum-to-strengthen-the-security-and-resilience-of-u-s-food-and-agriculture/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases National Security Memorandum\
   \ to Strengthen the Security and Resilience of U.S. Food and\_Agriculture"

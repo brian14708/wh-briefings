@@ -1,7 +1,7 @@
 ---
 date: '2024-07-19'
 published_time: 2024-07-19 16:14:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/statement-from-president-joe-biden-on-agreement-between-the-association-of-professional-flight-attendants-and-american-airlines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/statement-from-president-joe-biden-on-agreement-between-the-association-of-professional-flight-attendants-and-american-airlines/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Agreement Between the Association of\
   \ Professional Flight Attendants and American\_Airlines"

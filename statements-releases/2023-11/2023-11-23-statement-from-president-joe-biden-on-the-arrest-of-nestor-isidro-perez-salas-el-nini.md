@@ -1,7 +1,7 @@
 ---
 date: '2023-11-23'
 published_time: 2023-11-23 13:55:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/23/statement-from-president-joe-biden-on-the-arrest-of-nestor-isidro-perez-salas-el-nini/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/23/statement-from-president-joe-biden-on-the-arrest-of-nestor-isidro-perez-salas-el-nini/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Arrest of N\xE9stor Isidro P\xE9\
   rez Salas (\u201CEl\_Nini\u201D)"

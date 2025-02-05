@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 09:55:09-04:00
 published_time: 2022-05-06 09:55:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/statement-by-president-biden-on-the-april-jobs-report%ef%bf%bc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/06/statement-by-president-biden-on-the-april-jobs-report%ef%bf%bc/
 tags: statements-releases
 title: "Statement by President\_Biden on the April Jobs\_Report\uFFFC"
 ---

@@ -2,7 +2,7 @@
 date: '2024-10-09'
 modified_time: 2024-10-09 11:45:37-04:00
 published_time: 2024-10-09 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/white-house-2024-fall-garden-media-preview/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/white-house-2024-fall-garden-media-preview/
 tags: statements-releases
 title: "The White\_House 2024 Fall Gardens\_Tour"
 ---

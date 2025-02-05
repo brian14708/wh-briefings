@@ -2,7 +2,7 @@
 date: '2023-01-12'
 modified_time: 2023-01-12 13:40:27-05:00
 published_time: 2023-01-12 13:40:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/12/remarks-by-president-biden-on-the-economy-and-efforts-to-tackle-inflation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/12/remarks-by-president-biden-on-the-economy-and-efforts-to-tackle-inflation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Economy and Efforts to Tackle\_Inflation"
 ---

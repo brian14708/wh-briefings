@@ -1,7 +1,7 @@
 ---
 date: '2023-05-01'
 published_time: 2023-05-01 17:00:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/01/memorandum-on-unexpected-urgent-refugee-and-migration-needs-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/01/memorandum-on-unexpected-urgent-refugee-and-migration-needs-3/
 tags: presidential-actions
 title: "Memorandum on Unexpected Urgent Refugee and Migration\_Needs"
 ---

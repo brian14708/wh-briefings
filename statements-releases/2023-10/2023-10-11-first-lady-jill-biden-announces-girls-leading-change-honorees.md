@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-10 23:45:09-04:00
 published_time: 2023-10-11 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/first-lady-jill-biden-announces-girls-leading-change-honorees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/first-lady-jill-biden-announces-girls-leading-change-honorees/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces \u201CGirls Leading Change\u201D\_Honorees"
 ---
@@ -33,7 +33,7 @@ country, and it is my hope that others can learn from the power of their
 innovation, strength, and hope.”  
   
 In addition, the Biden-Harris Administration is
-[announcing](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/)
+[announcing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/)
 a series of new actions that build on the Administration’s investment in
 young people and expand opportunities for women and girls at home and
 abroad. Since day one in office, the Administration has been committed

@@ -2,14 +2,14 @@
 date: '2024-01-27'
 modified_time: 2024-01-29 16:52:30-05:00
 published_time: 2024-01-27 16:06:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/27/what-they-are-saying-leaders-praise-biden-harris-administration-pause-on-pending-decisions-of-liquefied-natural-gas-exports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/27/what-they-are-saying-leaders-praise-biden-harris-administration-pause-on-pending-decisions-of-liquefied-natural-gas-exports/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Leaders Praise Biden-\u2060Harris Administration Pause\
   \ on Pending Decisions of Liquefied Natural Gas\_Exports"
 ---
  
 This week, the Biden-Harris Administration [announced a temporary
-pause](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/fact-sheet-biden-harris-administration-announces-temporary-pause-on-pending-approvals-of-liquefied-natural-gas-exports/)
+pause](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/fact-sheet-biden-harris-administration-announces-temporary-pause-on-pending-approvals-of-liquefied-natural-gas-exports/)
 on pending decisions for exports of Liquefied Natural Gas (LNG). During
 this period, the Department of Energy will evaluate the impacts of LNG
 exports on energy costs, America’s energy security, and climate change –

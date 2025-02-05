@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-19 17:01:02-04:00
 published_time: 2024-10-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/interested-parties-memo-biden-harris-administration-expands-coverage-of-contraception-under-the-affordable-care-act-as-republican-elected-officials-continue-attacks-on-reproductive-freedom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/interested-parties-memo-biden-harris-administration-expands-coverage-of-contraception-under-the-affordable-care-act-as-republican-elected-officials-continue-attacks-on-reproductive-freedom/
 tags: statements-releases
 title: "Interested Parties Memo: Biden-\u2060Harris Administration Expands Coverage\
   \ of Contraception Under the Affordable Care Act as Republican Elected Officials\
@@ -117,7 +117,7 @@ abortion.
 -   Republicans in Congress have proposed **four** **national abortion
     bans that would deny every woman in America the right to choose**,
     regardless of where she lives. This includes a [nationwide abortion
-    ban](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-house-republicans-endorse-a-national-abortion-ban-with-zero-exceptions-in-latest-budget/)
+    ban](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-house-republicans-endorse-a-national-abortion-ban-with-zero-exceptions-in-latest-budget/)
     with no exceptions for rape or incest that puts IVF treatment
     squarely at risk. House Republicans have also **attacked
     contraception access nationwide** by repeatedly proposing to defund

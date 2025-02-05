@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-22 12:48:17-04:00
 published_time: 2024-04-22 12:48:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-14/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-14/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-04 19:55:22-04:00
 published_time: 2022-04-05 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-biden-harris-administration-proposes-rule-to-fix-family-glitch-and-lower-health-care-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-biden-harris-administration-proposes-rule-to-fix-family-glitch-and-lower-health-care-costs/
 tags: statements-releases
 title: "FACT SHEET: Biden Harris Administration Proposes Rule to Fix \u201CFamily\
   \ Glitch\u201D and Lower Health Care\_Costs"
@@ -67,7 +67,7 @@ ACA since its enactment.
 AFFORDABLE, QUALITY HEALTH COVERAGE</u>**  
   
 Last January, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/28/executive-order-on-strengthening-medicaid-and-the-affordable-care-act/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/28/executive-order-on-strengthening-medicaid-and-the-affordable-care-act/)
 directing federal agencies to take action to strengthen Medicaid and the
 Affordable Care Act. Today, President Biden is building on that
 directive with a new Executive Order directing federal agencies to
@@ -147,7 +147,7 @@ Medicaid by lowering costs and expanding coverage.
     teams to help provide services to Medicaid beneficiaries
     experiencing a behavioral health crisis.  This new option is a key
     component in the Administration’s
-    [strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
+    [strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
     to address the Nation’s mental health crisis by ensuring that
     Medicaid beneficiaries experiencing a behavioral health crisis can
     get connected to the care they need.  

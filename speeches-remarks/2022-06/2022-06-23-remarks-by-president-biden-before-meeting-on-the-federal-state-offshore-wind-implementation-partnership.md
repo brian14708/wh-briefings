@@ -2,7 +2,7 @@
 date: '2022-06-23'
 modified_time: 2022-06-23 18:04:24-04:00
 published_time: 2022-06-23 18:04:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/23/remarks-by-president-biden-before-meeting-on-the-federal-state-offshore-wind-implementation-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/23/remarks-by-president-biden-before-meeting-on-the-federal-state-offshore-wind-implementation-partnership/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting on the Federal-State Offshore Wind\
   \ Implementation\_Partnership"

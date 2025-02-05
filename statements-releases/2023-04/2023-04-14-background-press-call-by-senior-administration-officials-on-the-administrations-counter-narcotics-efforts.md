@@ -1,7 +1,7 @@
 ---
 date: '2023-04-14'
 published_time: 2023-04-14 16:10:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/background-press-call-by-senior-administration-officials-on-the-administrations-counter-narcotics-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/background-press-call-by-senior-administration-officials-on-the-administrations-counter-narcotics-efforts/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials on the Administration\u2019\
   s Counter-Narcotics\_Efforts"

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 11:50:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-marking-5-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-marking-5-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking 5 Years Since the Tree of Life\
   \ Synagogue Attack in\_Pittsburgh"

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-04'
 published_time: 2024-03-04 10:04:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/04/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-termination-of-emergency-with-respect-to-the-situation-in-zimbabwe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/04/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-termination-of-emergency-with-respect-to-the-situation-in-zimbabwe/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on the Termination\
   \ of Emergency With Respect to the Situation in\_Zimbabwe"

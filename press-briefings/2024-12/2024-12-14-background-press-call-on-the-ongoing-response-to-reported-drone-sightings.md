@@ -2,7 +2,7 @@
 date: '2024-12-14'
 modified_time: 2024-12-15 14:52:11-05:00
 published_time: 2024-12-14 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/14/background-press-call-on-the-ongoing-response-to-reported-drone-sightings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/14/background-press-call-on-the-ongoing-response-to-reported-drone-sightings/
 tags: press-briefings
 title: "Background Press Call on the Ongoing Response to Reported Drone\_Sightings"
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-08'
 modified_time: 2022-04-08 07:09:31-04:00
 published_time: 2022-04-08 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/08/statement-by-white-house-covid-19-response-coordinator-jeff-zients-on-american-lives-saved-by-covid-19-vaccination-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/08/statement-by-white-house-covid-19-response-coordinator-jeff-zients-on-american-lives-saved-by-covid-19-vaccination-program/
 tags: statements-releases
 title: "Statement by White\_House COVID-\u206019 Response Coordinator Jeff Zients\
   \ on American Lives Saved by the COVID-\u206019 Vaccination\_Program"

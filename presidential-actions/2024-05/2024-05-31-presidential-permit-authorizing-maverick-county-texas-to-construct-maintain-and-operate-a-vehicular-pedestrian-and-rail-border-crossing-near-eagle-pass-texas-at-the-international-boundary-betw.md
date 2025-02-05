@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-06-03 11:44:40-04:00
 published_time: 2024-05-31 11:44:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/presidential-permit-authorizing-maverick-county-texas-to-construct-maintain-and-operate-a-vehicular-pedestrian-and-rail-border-crossing-near-eagle-pass-texas-at-the-international-boundary-betw/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/presidential-permit-authorizing-maverick-county-texas-to-construct-maintain-and-operate-a-vehicular-pedestrian-and-rail-border-crossing-near-eagle-pass-texas-at-the-international-boundary-betw/
 tags: presidential-actions
 title: "PRESIDENTIAL PERMIT AUTHORIZING MAVERICK COUNTY, TEXAS, TO CONSTRUCT, MAINTAIN,\
   \ AND OPERATE A VEHICULAR, PEDESTRIAN, AND RAIL BORDER CROSSING NEAR EAGLE PASS,\

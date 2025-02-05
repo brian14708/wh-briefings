@@ -2,7 +2,7 @@
 date: '2022-09-22'
 modified_time: 2022-09-22 20:35:07-04:00
 published_time: 2022-09-22 20:35:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-vice-president-harris-to-political-science-students-at-the-university-of-wisconsin-milwaukee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-vice-president-harris-to-political-science-students-at-the-university-of-wisconsin-milwaukee/
 tags: speeches-remarks
 title: Remarks by Vice President Harris to Political Science Students at the University
   of Wisconsin-Milwaukee

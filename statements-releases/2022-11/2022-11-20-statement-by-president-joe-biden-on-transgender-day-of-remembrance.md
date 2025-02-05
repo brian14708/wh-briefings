@@ -2,7 +2,7 @@
 date: '2022-11-20'
 modified_time: 2022-11-20 15:20:41-05:00
 published_time: 2022-11-20 16:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/statement-by-president-joe-biden-on-transgender-day-of-remembrance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/20/statement-by-president-joe-biden-on-transgender-day-of-remembrance/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Transgender Day of\_Remembrance"
 ---

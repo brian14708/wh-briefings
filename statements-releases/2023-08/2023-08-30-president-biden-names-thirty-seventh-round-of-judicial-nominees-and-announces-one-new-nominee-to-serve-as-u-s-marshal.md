@@ -2,7 +2,7 @@
 date: '2023-08-30'
 modified_time: 2023-08-29 20:44:36-04:00
 published_time: 2023-08-30 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/president-biden-names-thirty-seventh-round-of-judicial-nominees-and-announces-one-new-nominee-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/president-biden-names-thirty-seventh-round-of-judicial-nominees-and-announces-one-new-nominee-to-serve-as-u-s-marshal/
 tags: statements-releases
 title: "President\_Biden Names Thirty-Seventh Round of Judicial Nominees and Announces\
   \ One New Nominee to Serve as U.S.\_Marshal"

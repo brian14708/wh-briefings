@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-08'
 modified_time: 2021-12-09 08:59:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/
 published_time: 2021-12-08 13:26:43-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration is Taking Action to Restore\
   \ and Strengthen American\_Democracy"
@@ -99,10 +99,10 @@ rights and strengthen our democracy, the Biden-Harris Administration is
 using available authorities and resources to defend the right to vote.
 The Administration has also advanced a broad range of actions to repair
 the fabric of our democracy, from bolstering [workers’
-rights](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/)
+rights](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/)
 and unions, an essential bulwark of democratic societies, to combating
 [domestic violent
-extremism](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/).
+extremism](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/).
 This work includes:
 
 -   ***Ensuring Compliance with Voting Rights Laws.*** The Department of
@@ -124,9 +124,9 @@ This work includes:
 
 -   ***Making it Easier for Americans to Register to Vote.*** Federal
     agencies
-    [continue](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
+    [continue](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
     to robustly implement President Biden’s [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     on Promoting Access to Voting, including among many other things:
     -   The Centers for Medicare & Medicaid Services (CMS) will make it
         easier for consumers using HealthCare.gov to connect to voter
@@ -168,17 +168,17 @@ Since Day One, the administration has worked to earn and keep the trust
 of Americans by cracking down on corruption and promoting an accountable
 and transparent government that works for the people, from  requiring
 all appointees to take a stringent [ethics
-pledge](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/),
+pledge](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/),
 to releasing the President’s and Vice-President’s
-[taxes](https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/),
+[taxes](https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-2020-tax-returns/),
 to issuing policies to restore [DOJ’s
-independence](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/).
+independence](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/).
 In addition to the steps we’ve already taken, this week we will be
 highlighting actions including:
 
 -   ***Developing a Strategy on Countering Corruption.*** The
     Biden-Harris Administration [released the
-    first-ever](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/)
+    first-ever](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/)
     United States Strategy on Countering Corruption, outlining a
     whole-of-government approach to elevating the fight against
     corruption both at home and abroad. The Strategy includes the
@@ -211,21 +211,21 @@ of fundamental rights as a priority to ensure that all Americans are
 able to fully participate in our democracy and have a fair shot at the
 American dream. The Administration has worked to embed equity across
 many fronts, including taking concrete steps to [advance gender
-equality](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/);
+equality](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/);
 accelerate [LGBTQI+
-equality](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/);
+equality](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/);
 expand access and inclusion for Americans with disabilities; support and
 respect [Native
-communities](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/);
+communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/);
 combat [hate
-crimes](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/);
+crimes](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/);
 and reform our [criminal justice
-system](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/).
+system](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/).
 In addition to all of the work that has happened over the past year,
 this week we are proud to highlight new announcements including:
 
 -   ***Combating Human Trafficking.*** In a new [National Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/)
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/03/fact-sheet-the-national-action-plan-to-combat-human-trafficking-nap/)
     to Combat Human Trafficking, the Biden-Harris Administration is
     reaffirming its commitment to addressing this abhorrent crime, which
     disproportionately impacts some of the most vulnerable and
@@ -235,7 +235,7 @@ this week we are proud to highlight new announcements including:
 -   ***Closing the Racial Wealth Gap.*** The Biden-Harris Administration
     — the largest purchaser of goods and services in the world —
     recently [announced new
-    reforms](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+    reforms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
     to the federal procurement process that will increase equity, help
     close the racial wealth gap, and level the playing field for
     underserved small businesses. The President is delivering on his
@@ -251,7 +251,7 @@ this week we are proud to highlight new announcements including:
     Americans.*** Building on the State Department’s announcement that
     it will offer a third gender marker on U.S. passports, the White
     House is [convening an interagency policy
-    committee](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
+    committee](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/20/biden-harris-administration-memorializes-transgender-day-of-remembrance/)
     to advance a coordinated federal approach to expanding access to
     accurate and inclusive federal identity documents for transgender
     and gender diverse people.
@@ -288,11 +288,11 @@ protects all other rights.
 
 -   ***Promoting Access to Voting*.** In March, the President issued an
     [Executive Order on Promoting Access to
-    Voting](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/),
+    Voting](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/),
     launching a first-of-its-kind effort to expand access to voter
     registration and election information. Agencies across the federal
     government have
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
     initial steps they are taking to respond to the President’s call for
     a whole-of-government effort to enhance the ability of all eligible
     Americans to participate in our democracy. These steps will benefit
@@ -433,7 +433,7 @@ protects all other rights.
     groups, among others.
 -   ***Promoting Native American Voting Rights*.** President Biden’s
     [Executive Order on Promoting Access to
-    Voting](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/07/fact-sheet-president-biden-to-sign-executive-order-to-promote-voting-access/)
+    Voting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/07/fact-sheet-president-biden-to-sign-executive-order-to-promote-voting-access/)
     also created a Native American Voting Rights Steering Group and
     directed the Steering Group to engage in meaningful and robust
     consultation with Tribal Nations and Native leaders to inform a
@@ -469,7 +469,7 @@ protects all other rights.
     efforts to provide state and local election officials with the
     support and resources they need.
 -   ***Defending Against Foreign Interference***. President Biden
-    [extended](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/)
+    [extended](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/)
     the national emergency with respect to foreign interference in or
     undermining confidence in United States elections, preserving the
     ability to impose sanctions on foreign actors who meddle in U.S.
@@ -509,7 +509,7 @@ ground up.
     within underserved communities.
 -   The President issued an [Executive Order on Tackling the Climate
     Crisis at Home and
-    Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+    Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
     that directed the creation of a new Civilian Climate Corps (CCC) to
     mobilize Americans to address climate change adaptation, resiliency,
     and mitigation. As highlighted above, the Build Back Better Act will
@@ -541,7 +541,7 @@ ground up.
 **Strengthening Democracy by Advancing Workers’ Rights to Organize and
 Bargain Collectively*.*** As President Biden said in his September 8,
 2021, [Labor Day
-Address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/08/remarks-by-president-biden-in-honor-of-labor-unions/),
+Address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/09/08/remarks-by-president-biden-in-honor-of-labor-unions/),
 “\[w\]orkers who join unions gain power — power over the decisions and
 the decision-makers that affect their lives. Workers’ voices are heard
 and heeded. In a simple word, a union means there is democracy.
@@ -572,7 +572,7 @@ large corporations.
     working conditions in the sector.
 -   ***Identifying Executive Actions to Increase Worker Organizing and
     Empowerment.*** In April, President Biden issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/26/fact-sheet-executive-order-establishing-the-white-house-task-force-on-worker-organizing-and-empowerment/)
     establishing the White House Task Force on Worker Organizing and
     Empowerment, led by Vice President Harris and Secretary of Labor
     Walsh. This first-of-its-kind government-wide initiative will issue
@@ -587,7 +587,7 @@ large corporations.
     highlighting bargaining unit employee rights for federal workers.
 -   ***Restoring Federal Employees’ Organizing and Bargaining Rights.***
     On January 22, the President signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/22/executive-order-protecting-the-federal-workforce/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/22/executive-order-protecting-the-federal-workforce/)
     repealing the prior administration’s harmful actions on workplace
     protections, restoring the collective bargaining power of federal
     employee unions and protections for career civil servants and
@@ -641,7 +641,7 @@ democratic values.
 
 -   ***Implementing Safeguards for New Technology*.** The U.S. Office of
     Science and Technology Policy
-    [outlined](https://www.whitehouse.gov/ostp/news-updates/2021/10/22/icymi-wired-opinion-americans-need-a-bill-of-rights-for-an-ai-powered-world/)
+    [outlined](https://bidenwhitehouse.archives.gov/ostp/news-updates/2021/10/22/icymi-wired-opinion-americans-need-a-bill-of-rights-for-an-ai-powered-world/)
     the Biden-Harris Administration’s intent to create a Bill of Rights
     for an Automated Society that aims to clarify existing rights and
     protections for people affected by emerging technologies, inform
@@ -651,10 +651,10 @@ democratic values.
     broad stakeholder engagement process which began with the issuance
     of a request for information on public and private use of biometric
     technologies and a series of [public
-    panels](https://www.whitehouse.gov/ostp/news-updates/2021/11/10/join-the-effort-to-create-a-bill-of-rights-for-an-automated-society/)
+    panels](https://bidenwhitehouse.archives.gov/ostp/news-updates/2021/11/10/join-the-effort-to-create-a-bill-of-rights-for-an-automated-society/)
     on issues from employment to health care.
 -   ***Protecting Americans’ Data*.** The President
-    [issued](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/09/executive-order-on-protecting-americans-sensitive-data-from-foreign-adversaries/)
+    [issued](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/09/executive-order-on-protecting-americans-sensitive-data-from-foreign-adversaries/)
     an Executive Order directing Cabinet-level assessments and
     recommendations to protect against risks from foreign adversaries’
     access to Americans’ sensitive data and continuing evaluation of
@@ -663,7 +663,7 @@ democratic values.
     United States may impose consequences on those who use connected
     software applications that engage in serious human rights abuses.
     The President’s [Executive Order on Promoting
-    Competition](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
+    Competition](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
     also encouraged the FTC to establish rules on tech platforms’
     surveillance and accumulation of data to protect Americans’
     sensitive personal information.
@@ -693,7 +693,7 @@ while safeguarding bedrock American civil rights and civil liberties.
     Domestic Terrorism to improve the federal response to this
     challenge, while embracing the protections of civil rights and civil
     liberties. In June, the Administration
-    [announced](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)
+    [announced](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf)
     the government-wide effort to prevent, disrupt, and deter unlawful
     domestic terrorist violence and confront the long-term contributors
     to domestic terrorism.
@@ -753,7 +753,7 @@ opportunity, guaranteeing more fairness and justice.
 
 -   ***Passing and Implementing the American Rescue Plan (ARP)*.** This
     [landmark
-    legislation](https://www.whitehouse.gov/american-rescue-plan/)
+    legislation](https://bidenwhitehouse.archives.gov/american-rescue-plan/)
     invests in an equitable recovery for underserved communities,
     including addressing food insecurity, health equity, unemployment
     benefits, and housing insecurity. The ARP provided billions of
@@ -770,7 +770,7 @@ opportunity, guaranteeing more fairness and justice.
     equitable results.
 -   ***Delivering the Transformational Infrastructure Investment and
     Jobs Act.*** This [historic
-    legislation](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
+    legislation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
     will rebuild America’s roads, bridges, and rails; expand access to
     clean drinking water; ensure every American has access to high-speed
     internet; tackle the climate crisis; advance environmental justice;
@@ -791,7 +791,7 @@ opportunity, guaranteeing more fairness and justice.
     promoting competition is essential to building an economy that works
     for everybody and ensuring a healthy democracy. President Biden
     issued an historic [Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
     establishing a whole-of-government effort to promote competition,
     including 72 initiatives by more than a dozen federal agencies to
     promptly tackle some of the most pressing competition problems
@@ -803,7 +803,7 @@ opportunity, guaranteeing more fairness and justice.
 -   ***Improving the Federal Government’s Delivery of Services.*** In
     November, the Office of Management and Budget (OMB), with the
     President’s Management Council (PMC),
-    [issued](https://www.whitehouse.gov/omb/briefing-room/2021/11/18/office-of-management-and-budget-launches-biden-harris-management-agenda-vision/)
+    [issued](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/11/18/office-of-management-and-budget-launches-biden-harris-management-agenda-vision/)
     the Biden-Harris Management Agenda Vision, outlining the
     Administration’s roadmap for ensuring an equitable, effective, and
     accountable federal government that delivers results for all. The
@@ -828,12 +828,12 @@ to the U.S. and international financial systems.
 
 -   ***Developing a National Strategy*.** In response to President
     Biden’s [National Security Study
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/)
     establishing the fight against corruption as a core U.S. national
     security interest and a priority across the federal government, the
     Biden-Harris Administration released the first-ever [United States
     Strategy on Countering
-    Corruption](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).
+    Corruption](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).
     This strategy outlines how U.S. and its allies can curb illicit
     finance, effectively hold corrupt actors accountable, build stronger
     international partnerships, and improve foreign assistance.
@@ -872,7 +872,7 @@ from foreign interference and amplifies the voices of the people, not
 powerful special interests.
 
 -   ***Restoring Ethics in Government*.** On Day One, the President
-    [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/)
+    [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/)
     an Executive Order requiring administration officials to take a
     stringent ethics pledge, which extends lobbying bans, limits shadow
     lobbying, and makes ethics waivers more transparent. This Executive
@@ -883,15 +883,15 @@ powerful special interests.
     Department is essential to its ability to carry out its mission to
     “ensure fair and impartial administration of justice for all
     Americans.” The President issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ethics-commitments-by-executive-branch-personnel/)
     on Day One requiring administration officials to commit to
     preserving DOJ’s independence. The White House and DOJ have each
-    [issued](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/)
+    [issued](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/)
     strong policies restricting contacts between the White House and DOJ
     to prevent improper political interference in investigations and
     cases.
 -   ***Reinstating a White House Visitor Log Policy.*** President Biden
-    [reinstated](https://www.whitehouse.gov/briefing-room/disclosures/2021/05/07/biden-harris-administration-reinstates-visitor-log-policy-will-be-first-administration-to-post-records-from-first-full-year-in-office/)
+    [reinstated](https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2021/05/07/biden-harris-administration-reinstates-visitor-log-policy-will-be-first-administration-to-post-records-from-first-full-year-in-office/)
     a policy to voluntarily disclose White House visitor logs, ensuring
     that the American public knows whom the President, the Vice
     President, and their staffs meet with at the White House. The
@@ -926,7 +926,7 @@ powerful special interests.
     whether and how the whistleblower program could be further
     strengthened.
 -   ***Protecting Scientific Integrity*.** The Administration
-    [launched](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/)
     a 50-member Scientific Integrity Task Force to restore public trust
     in government data and safeguard evidence-based policy making. The
     Task Force’s mandate includes a sweeping review across government
@@ -936,7 +936,7 @@ powerful special interests.
     in scientific integrity will be implemented across government.
 -   ***Safeguarding the Census*.** On his first day in office, President
     Biden
-    [issued](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ensuring-a-lawful-and-accurate-enumeration-and-apportionment-pursuant-to-decennial-census/)
+    [issued](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-ensuring-a-lawful-and-accurate-enumeration-and-apportionment-pursuant-to-decennial-census/)
     an Executive Order to restore the ability of the Census Bureau to
     deliver a national statistical portrait including every American.
     President Biden also provided career scientists with the time and
@@ -959,7 +959,7 @@ powerful special interests.
     its agencies to develop measurable goals and track progress that
     improve the delivery of government services in key priority areas. 
     Furthermore, in June, OMB
-    [directed](https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf)
+    [directed](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/M-21-27.pdf)
     agencies to use evidence whenever possible to further mission
     through operations, and to commit to build evidence where it is
     lacking.  Agencies are required to establish Learning Agendas and
@@ -984,7 +984,7 @@ nominations.
     Racial Justice and Equity*.** On Day One, President Biden signed an
     [Executive Order on Advancing Racial Equity and Support for
     Underserved Communities Through the Federal
-    Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+    Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
     an unprecedented effort to advance equity and redress systemic
     racism in policies, laws, and programs. The EO directs agencies to
     review barriers to accessing their policies and programs, creates an
@@ -1000,7 +1000,7 @@ nominations.
     home ownership and small business ownership — in communities of
     color and disadvantaged communities. Following President Biden’s
     [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and-policies/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-redressing-our-nations-and-the-federal-governments-history-of-discriminatory-housing-practices-and-policies/)
     directing his Administration to address racial discrimination in the
     housing market, HUD published an [interim
     regulation](https://www.federalregister.gov/documents/2021/06/10/2021-12114/restoring-affirmatively-furthering-fair-housing-definitions-and-certifications)
@@ -1013,7 +1013,7 @@ nominations.
     aggressively combat housing discrimination. Recognizing that the
     federal government spends more than $650 billion each year on
     purchasing goods and services, President Biden has
-    [directed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+    [directed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
     agencies to use federal purchasing power to grow by 50% federal
     contracting with small disadvantaged businesses, including Black and
     Brown-owned businesses, translating to an additional $100 billion
@@ -1021,7 +1021,7 @@ nominations.
     entrepreneurial dreams.
 -   ***Embedding Equity into the Federal Workforce.*** In June,
     President Biden established a [government-wide
-    initiative](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+    initiative](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
     to advance diversity, equity, inclusion, and accessibility (DEIA) in
     all parts of the federal workforce. This Executive Order reaffirms
     that the United States is at its strongest and most effective when
@@ -1036,7 +1036,7 @@ nominations.
     expanding inclusive training.
 -   ***Ensuring Equity in Transformational Infrastructure Investment.***
     President Biden signed the [Infrastructure Investment and Jobs
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
     into law, baking equity explicitly into our federal infrastructure.
     The Act encompasses several provisions designed to mitigate historic
     inequities for minority and other underserved communities, including
@@ -1049,7 +1049,7 @@ nominations.
     Americans, Native Hawaiians, and Pacific Islanders*.** In
     May,President Biden re-instated and expanded the [White House
     Initiative on Asian Americans, Native Hawaiians and Pacific
-    Islanders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
+    Islanders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
     (AA and NHPIs) and expanded the Initiative’s mandate to coordinate a
     whole-of-government agenda to combat anti-Asian bias and to promote
     inclusion, belonging, and opportunity for AA and NHPIs.  For the
@@ -1063,7 +1063,7 @@ nominations.
     AA and NHPI communities continues to threaten safety and dignity of
     AA and NHPI families. The President also created a new White House
     [Senior
-    Liaison](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/president-biden-announces-erika-l-moritsugu-as-deputy-assistant-to-the-president-and-asian-american-and-pacific-islander-senior-liaison/)
+    Liaison](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/14/president-biden-announces-erika-l-moritsugu-as-deputy-assistant-to-the-president-and-asian-american-and-pacific-islander-senior-liaison/)
     charged with advancing the President’s priorities and ensuring that
     the Administration’s policies are inclusive of AA and NHPI
     communities.
@@ -1075,7 +1075,7 @@ represented at the tables at which decisions are made.
 
 -   ***Establishing the Gender Policy Council*.** In March 2021,
     President Biden issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
     creating the White House Gender Policy Council to advance gender
     equity and equality in both domestic and foreign policy.  The
     existence of the Council reflects the commitment of the Biden-Harris
@@ -1085,7 +1085,7 @@ represented at the tables at which decisions are made.
     2021, as required by the President’s Executive Order, the
     Administration issued our country’s first-ever [National Strategy
     for Gender Equity and
-    Equality](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/),
+    Equality](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/),
     making the United States one of only a handful of nations to do so.
     The strategy outlines a whole-of-government effort to improve gender
     equity and equality through both domestic and foreign policy,
@@ -1093,7 +1093,7 @@ represented at the tables at which decisions are made.
     reinforcing our country’s commitment to this issue.
 -   ***Addressing Gender-Based Online Harassment and Abuse*.** In the
     [National Strategy for Gender Equity and
-    Equality](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/),
+    Equality](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/),
     the Administration committed to convene a U.S. government task force
     to address online abuse and harassment—including against women
     politicians, journalists, and activists, which undermines political
@@ -1113,7 +1113,7 @@ beginning with one of the most comprehensive executive orders in history
 on LGBTQI+ rights.
 
 -   The President issued a Day One [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
     establishing that it is the official policy of the Administration to
     prevent and combat discrimination against LGBTQI+ individuals, and
     to fully enforce civil rights laws to prevent discrimination on the
@@ -1154,7 +1154,7 @@ on LGBTQI+ rights.
 
 -   ***Welcoming Transgender Servicemembers*.** In his first week in
     office, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
     reversing the ban on openly transgender servicemembers serving in
     the Armed Forces, enabling all qualified Americans to serve their
     country in uniform. President Biden believes that America’s strength
@@ -1171,7 +1171,7 @@ on LGBTQI+ rights.
 
 -   ***Promoting LGBTQI+ Rights at Home and Abroad*.** President Biden
     signed a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
     on Advancing the Human Rights of Lesbian, Gay, Bisexual,
     Transgender, Queer, and Intersex Persons Around the World which
     directed all agencies engaged abroad to ensure that United States
@@ -1211,7 +1211,7 @@ accessible, and equitable country for people with disabilities.
 
 -   ***Ensuring Equitable Access to Transportation***. President Biden
     fought for the [Infrastructure Investment and Jobs
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/),
     which provides several programs to help ensure equitable access to
     transportation, including enhanced funding to eliminate transit
     barriers to access for seniors and individuals with disabilities.
@@ -1252,7 +1252,7 @@ Native communities.
     deficiencies, equipping tribes to be more resilient in facing future
     pandemics and disasters. Additionally, the [Infrastructure
     Investment and Jobs
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)
     follows through on our commitments to Tribal Nations. The Act
     designates significant funding specifically to underserved Tribal
     communities across the country, for essential improvements in
@@ -1260,13 +1260,13 @@ Native communities.
     resilience.
 -   ***Honoring Indigenous People*.** On October 8, President Biden
     became the first President to recognize [Indigenous Peoples’
-    Day](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-indigenous-peoples-day-2021/),
+    Day](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-indigenous-peoples-day-2021/),
     celebrating Indigenous peoples’ resilience and strength as well as
     the immeasurable positive impact that they have made on every aspect
     of American society.
 -   ***Strengthening Nation-to-Nation Relationships*.** On January 26,
     only six days into office, the President issued a
-    [memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
+    [memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
     on Tribal Consultation and Strengthening Nation-to-Nation
     Relationships, stating that it is the Administration’s policy to
     respect Tribal sovereignty and self-governance and committing to
@@ -1279,14 +1279,14 @@ Native communities.
     plans, ensuring strong communication and constructive relationships.
 -   ***Advancing Native American Education*.** President Biden issued an
     [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/19/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black-americans/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/19/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black-americans/)
     in October establishing the White House Initiative on Advancing
     Educational Equity, Excellence, and Economic Opportunity for Native
     Americans and Strengthening Tribal Colleges and Universities.
 -   ***Improving Public Safety and Criminal Justice for Native Americans
     and Addressing the Crisis of Missing or Murdered Indigenous
     People.*** In November, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     directing the Departments of Justice, Interior, Homeland Security,
     and Health and Human Services to create a strategy to improve public
     safety and justice for Native Americans and to address the crisis of
@@ -1304,7 +1304,7 @@ Biden-Harris Administration has taken action to help prevent and improve
 the response to hate crimes and incidents.
 
 -   ***New Hate Crimes Law and Hate Incidents*.** In May, the President
-    [signed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
+    [signed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
     into law the COVID-19 Hate Crimes Act. This bipartisan legislation
     addresses the unacceptable and un-American increase in hate crimes
     and violence against Asian Americans, Native Hawaiians and Pacific
@@ -1337,7 +1337,7 @@ the response to hate crimes and incidents.
 -   ***Addressing Racism and Intolerance Against Asian Americans, Native
     Hawaiians, and Pacific Islanders*.** In his first week in office,
     the President issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)
     condemning racism, xenophobia, and intolerance against the AA and
     NHPI community, stating that the government should combat racism,
     xenophobia, and intolerance against AA and NHPIs and should work to
@@ -1354,14 +1354,14 @@ as enshrined in the United States Constitution.
 
 -   ***Ending the Muslim Ban***. On his first day in office, President
     Biden
-    [rescinded](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/)
+    [rescinded](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/)
     the prior administration’s discriminatory travel ban that prevented
     individuals from primarily Muslim and African countries from
     entering the United States.
 -   ***Reestablishing the White House Office of Faith-Based and
     Neighborhood Partnerships*.** Within weeks of taking office,
     President Biden
-    [reestablished](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/)
+    [reestablished](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/)
     the White House Office of Faith-Based and Neighborhood Partnerships,
     which was originally established by President George W. Bush and
     continued by the Obama-Biden administration. The mission of the
@@ -1375,7 +1375,7 @@ Administration reaffirmed its commitment to responding to this abhorrent
 crime that disproportionately impacts some of the most vulnerable and
 underserved members of our society by releasing a new [National Action
 Plan to Combat Human
-Trafficking](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).
+Trafficking](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf).
 The plan lays out the foundational pillars of U.S. and global
 anti-trafficking efforts — **prevention, protection, prosecution, and
 partnerships**.
@@ -1466,7 +1466,7 @@ disparities.
     $85.5 million to help formerly incarcerated adults and young people
     in 28 communities transition out of the criminal justice system and
     connect with quality jobs. The President issued an executive order
-    [directing](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+    [directing](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
     the Office of Personnel Management to evaluate the expansion of
     federal employment opportunities for formerly incarcerated persons.
     The Department of Justice posted an application for a formerly
@@ -1490,7 +1490,7 @@ disparities.
     their sentences.
 -   ***Expanding Access to Justice***. To expand the promise of equal
     justice under law, the President
-    [directed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/18/memorandum-on-restoring-the-department-of-justices-access-to-justice-function-and-reinvigorating-the-white-house-legal-aid-interagency-roundtable/)
+    [directed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/18/memorandum-on-restoring-the-department-of-justices-access-to-justice-function-and-reinvigorating-the-white-house-legal-aid-interagency-roundtable/)
     the Attorney General to consider expanding the Department of
     Justice’s access to justice work. In October, the Attorney
     General announced the reestablishment of the Office for Access to

@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 14:32:15-04:00
 published_time: 2023-04-13 10:24:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/fact-sheet-fact-sheet-president-biden-announces-plan-to-expand-health-coverage-to-daca-recipients/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/fact-sheet-fact-sheet-president-biden-announces-plan-to-expand-health-coverage-to-daca-recipients/
 tags: statements-releases
 title: "FACT SHEET: Fact Sheet: President\_Biden Announces Plan to Expand Health Coverage\
   \ to DACA\_Recipients"
@@ -23,7 +23,7 @@ every State of the Union address since. While Congress has failed to
 act, the Biden-Harris Administration has taken significant measures to
 protect Dreamers. This includes, issuing regulations by the
 Department of Homeland Security to “[preserve and
-fortify](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/)”
+fortify](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/)”
 DACA and fighting political opponents in court as they attempt to strip
 them of the only home they have ever known.  
   

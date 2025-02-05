@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 07:49:31-05:00
 published_time: 2022-12-02 07:49:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-republic-of-korea-and-japan-trilateral-designations-targeting-the-democratic-peoples-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-u-s-republic-of-korea-and-japan-trilateral-designations-targeting-the-democratic-peoples-republic-of-korea/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on U.S., Republic of Korea,\
   \ and Japan Trilateral Designations Targeting the Democratic People\u2019s Republic\

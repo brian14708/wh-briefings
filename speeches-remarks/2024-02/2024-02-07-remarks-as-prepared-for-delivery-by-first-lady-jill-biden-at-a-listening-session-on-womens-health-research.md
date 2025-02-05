@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 14:14:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-listening-session-on-womens-health-research/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-listening-session-on-womens-health-research/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Listening\
   \ Session on Women\u2019s Health\_Research"

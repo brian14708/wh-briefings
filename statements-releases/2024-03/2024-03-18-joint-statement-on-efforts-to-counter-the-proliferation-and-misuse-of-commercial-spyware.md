@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 07:06:02-04:00
 published_time: 2024-03-18 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/
 tags: statements-releases
 title: "Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial\_\
   Spyware"

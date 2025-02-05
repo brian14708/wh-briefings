@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-29 08:43:37-04:00
 published_time: 2023-03-27 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Prohibit U.S. Government\
   \ Use of Commercial Spyware that Poses Risks to National\_Security"
@@ -12,7 +12,7 @@ title: "FACT SHEET: President\_Biden Signs Executive Order to Prohibit U.S. Gove
 the Second Summit for Democracy*
 
 Today, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/)
 that prohibits, for the first time, operational use by the United States
 Government of commercial spyware that poses risks to national security
 or has been misused by foreign actors to enable human rights abuses
@@ -54,7 +54,7 @@ Democracy](https://www.state.gov/summit-for-democracy-2023/) on March
 29-30, 2023, which President Biden will co-host with the leaders of
 Costa Rica, the Netherlands, the Republic of Korea, and the Republic of
 Zambia. In furtherance of President Biden’s [National Security
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf),
 this Executive Order demonstrates the United States’ leadership in, and
 commitment to, advancing technology for democracy, including by
 countering the misuse of commercial spyware and other surveillance

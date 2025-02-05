@@ -1,7 +1,7 @@
 ---
 date: '2022-12-07'
 published_time: 2022-12-07 15:51:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/07/readout-of-the-white-house-convening-with-state-legislative-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/07/readout-of-the-white-house-convening-with-state-legislative-leaders/
 tags: statements-releases
 title: "Readout of the White\_House Convening with State Legislative\_Leaders"
 ---

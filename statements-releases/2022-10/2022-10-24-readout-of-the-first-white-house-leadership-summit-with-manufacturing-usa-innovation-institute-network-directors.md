@@ -2,7 +2,7 @@
 date: '2022-10-24'
 modified_time: 2022-10-25 09:11:45-04:00
 published_time: 2022-10-24 20:13:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/readout-of-the-first-white-house-leadership-summit-with-manufacturing-usa-innovation-institute-network-directors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/readout-of-the-first-white-house-leadership-summit-with-manufacturing-usa-innovation-institute-network-directors/
 tags: statements-releases
 title: "Readout of the First White\_House Leadership Summit with Manufacturing USA\
   \ Innovation Institute Network\_Directors"
@@ -18,16 +18,16 @@ Under Secretaries from DOD, DOE, DOC, DOL, and USDA, along with
 representatives from six additional agencies, joined this leadership
 summit to discuss the critical role the Manufacturing USA network plays
 in advancing a [modern American industrial
-strategy](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).
 
 *Manufacturing USA Institute Network:*
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/10/Picture-2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Picture-2.png"
 class="wp-image-64097" loading="lazy"
 sizes="(max-width: 624px) 100vw, 624px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/10/Picture-2.png 624w, https://www.whitehouse.gov/wp-content/uploads/2022/10/Picture-2.png?resize=615,308 615w, https://www.whitehouse.gov/wp-content/uploads/2022/10/Picture-2.png?resize=1200,600 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Picture-2.png 624w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Picture-2.png?resize=615,308 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Picture-2.png?resize=1200,600 1200w"
 width="624" height="312" />
 </figure>
 

@@ -2,7 +2,7 @@
 date: '2024-07-01'
 modified_time: 2024-07-01 18:29:36-04:00
 published_time: 2024-07-01 18:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/01/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-agreement-with-panama-to-address-irregular-migration-jointly/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/01/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-agreement-with-panama-to-address-irregular-migration-jointly/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson Welcoming the Agreement with\
   \ Panama to Address Irregular Migration\_Jointly"

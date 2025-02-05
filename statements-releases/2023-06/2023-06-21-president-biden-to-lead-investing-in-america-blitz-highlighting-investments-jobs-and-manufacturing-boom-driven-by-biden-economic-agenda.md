@@ -2,7 +2,7 @@
 date: '2023-06-21'
 modified_time: 2023-06-23 11:41:40-04:00
 published_time: 2023-06-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/21/president-biden-to-lead-investing-in-america-blitz-highlighting-investments-jobs-and-manufacturing-boom-driven-by-biden-economic-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/21/president-biden-to-lead-investing-in-america-blitz-highlighting-investments-jobs-and-manufacturing-boom-driven-by-biden-economic-agenda/
 tags: statements-releases
 title: "President\_Biden to Lead Investing in America Blitz Highlighting Investments,\
   \ Jobs, and Manufacturing Boom Driven by Biden Economic\_Agenda"

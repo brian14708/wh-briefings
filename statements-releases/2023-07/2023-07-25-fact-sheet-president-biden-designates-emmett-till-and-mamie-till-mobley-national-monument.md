@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 11:06:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Designates Emmett Till and Mamie Till-Mobley\
   \ National\_Monument"

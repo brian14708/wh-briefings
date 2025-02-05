@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 15:40:22-04:00
 published_time: 2022-09-21 15:40:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-and-prime-minister-liz-truss-of-the-united-kingdom-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-and-prime-minister-liz-truss-of-the-united-kingdom-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Liz Truss of the United Kingdom\
   \ Before Bilateral\_Meeting"

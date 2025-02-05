@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 15:58:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-mohammed-bin-abdulrahman-bin-jassim-al-thani-of-qatar-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-mohammed-bin-abdulrahman-bin-jassim-al-thani-of-qatar-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Prime\
   \ Minister Mohammed bin Abdulrahman bin Jassim Al Thani of\_Qatar"

@@ -2,7 +2,7 @@
 date: '2022-06-11'
 modified_time: 2022-06-12 14:19:39-04:00
 published_time: 2022-06-11 22:14:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/11/remarks-by-president-biden-in-an-overview-of-the-new-mexico-state-emergency-operations-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/11/remarks-by-president-biden-in-an-overview-of-the-new-mexico-state-emergency-operations-center/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in an Overview of the New Mexico State Emergency\
   \ Operations\_Center"

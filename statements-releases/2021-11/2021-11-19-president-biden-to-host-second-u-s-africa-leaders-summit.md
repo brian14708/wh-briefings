@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-11-19'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/president-biden-to-host-second-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/19/president-biden-to-host-second-u-s-africa-leaders-summit/
 published_time: 2021-11-19 13:43:54-05:00
 title: "President\_Biden to Host Second U.S. \u2013 Africa Leaders\_Summit"
 ---

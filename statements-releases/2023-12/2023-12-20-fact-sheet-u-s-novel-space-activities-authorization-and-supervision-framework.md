@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 11:44:14-05:00
 published_time: 2023-12-20 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-u-s-novel-space-activities-authorization-and-supervision-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-u-s-novel-space-activities-authorization-and-supervision-framework/
 tags: statements-releases
 title: "FACT SHEET: U.S. Novel Space Activities Authorization and Supervision\_Framework"
 ---
@@ -10,11 +10,11 @@ title: "FACT SHEET: U.S. Novel Space Activities Authorization and Supervision\_F
 Today, at the Biden-Harris Administration’s third National Space Council
 meeting, Vice President Harris will announce the [United States Novel
 Space Activities Authorization and Supervision
-Framework](https://www.whitehouse.gov/wp-content/uploads/2023/12/Novel-Space-Activities-Framework-2023.pdf),
+Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Novel-Space-Activities-Framework-2023.pdf),
 a new policy that complements the National Space Council’s (NSpC)
 legislative proposal, the “[Authorization and Supervision of Novel
 Private Sector Space Activities
-Act](https://www.whitehouse.gov/wp-content/uploads/2023/11/Authorization-and-Supervision-of-Novel-Private-Sector-Space-Activities_Legislative-Text_final.pdf)”,
+Act](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Authorization-and-Supervision-of-Novel-Private-Sector-Space-Activities_Legislative-Text_final.pdf)”,
 which was transmitted to Congress in November.  
 At the September 2022 National Space Council meeting, Vice President
 Harris tasked the NSpC to develop a proposal for the clear and

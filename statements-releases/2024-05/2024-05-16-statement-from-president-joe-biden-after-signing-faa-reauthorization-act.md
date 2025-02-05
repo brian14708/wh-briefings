@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 published_time: 2024-05-16 19:35:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/statement-from-president-joe-biden-after-signing-faa-reauthorization-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/statement-from-president-joe-biden-after-signing-faa-reauthorization-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden After Signing FAA Reauthorization\_Act"
 ---

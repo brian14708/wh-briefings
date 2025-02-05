@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-06 19:54:01-05:00
 published_time: 2023-02-07 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/quad-joint-statement-on-cooperation-to-promote-responsible-cyber-habits/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/quad-joint-statement-on-cooperation-to-promote-responsible-cyber-habits/
 tags: statements-releases
 title: "Quad Joint Statement on Cooperation to Promote Responsible Cyber\_Habits"
 ---

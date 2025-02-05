@@ -2,7 +2,7 @@
 date: '2023-01-31'
 modified_time: 2023-01-31 12:54:03-05:00
 published_time: 2023-01-31 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/31/fact-sheet-president-biden-announces-funding-for-major-transportation-projects-funded-by-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/31/fact-sheet-president-biden-announces-funding-for-major-transportation-projects-funded-by-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Funding for Major Transportation Projects\
   \ Funded by Bipartisan Infrastructure\_Law"

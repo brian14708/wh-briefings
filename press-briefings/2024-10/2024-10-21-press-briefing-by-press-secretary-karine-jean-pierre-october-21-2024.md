@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-21 18:34:34-04:00
 published_time: 2024-10-21 18:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/21/press-briefing-by-press-secretary-karine-jean-pierre-october-21-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/21/press-briefing-by-press-secretary-karine-jean-pierre-october-21-2024/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, October 21,\_2024"
 ---

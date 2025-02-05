@@ -2,7 +2,7 @@
 date: '2023-11-08'
 modified_time: 2023-11-07 20:32:29-05:00
 published_time: 2023-11-08 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%e2%81%a0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%e2%81%a0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Holds Workforce Hub Convenings\
   \ in Augusta and Pittsburgh, Announces Commitments to Expand Pathways into Good-Paying\_\
@@ -18,7 +18,7 @@ Pittsburgh for Workforce Hub convenings in each city, announcing
 commitments to equitable workforce development from dozens of Hub
 collaborators. In May, the Biden-Harris Administration named Augusta and
 Pittsburgh [two of five Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) where
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) where
 President Biden’s Investing in America agenda—including the American
 Rescue Plan, Bipartisan Infrastructure Law, CHIPS and Science Act, and
 Inflation Reduction Act—are catalyzing historic private and public

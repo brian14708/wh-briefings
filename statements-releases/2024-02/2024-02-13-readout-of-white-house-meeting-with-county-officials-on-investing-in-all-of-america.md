@@ -1,7 +1,7 @@
 ---
 date: '2024-02-13'
 published_time: 2024-02-13 14:57:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/readout-of-white-house-meeting-with-county-officials-on-investing-in-all-of-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/readout-of-white-house-meeting-with-county-officials-on-investing-in-all-of-america/
 tags: statements-releases
 title: "Readout of White\_House Meeting with County Officials on Investing in All\
   \ of\_America"

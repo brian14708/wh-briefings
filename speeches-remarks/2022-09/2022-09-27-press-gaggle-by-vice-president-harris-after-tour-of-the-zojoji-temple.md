@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-27 10:41:10-04:00
 published_time: 2022-09-27 10:41:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/27/press-gaggle-by-vice-president-harris-after-tour-of-the-zojoji-temple/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/27/press-gaggle-by-vice-president-harris-after-tour-of-the-zojoji-temple/
 tags: speeches-remarks
 title: "Press Gaggle by Vice President Harris After Tour of the Zojoji\_Temple"
 ---

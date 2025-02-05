@@ -2,7 +2,7 @@
 date: '2022-07-29'
 modified_time: 2022-07-29 13:34:46-04:00
 published_time: 2022-07-29 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/fact-sheet-biden-harris-administration-announces-two-new-actions-to-address-youth-mental-health-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/fact-sheet-biden-harris-administration-announces-two-new-actions-to-address-youth-mental-health-crisis/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Announces Two New Actions to\
   \ Address Youth Mental Health\_Crisis"
@@ -23,7 +23,7 @@ well-being.
 
 To address this crisis, President Biden put forward in his first State
 of the Union a [comprehensive national
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
 to tackle our mental health crisis, and called for a major
 transformation in how mental health is understood, accessed, treated,
 and integrated – in and out of health care settings.
@@ -191,7 +191,7 @@ authorize funding and technical assistance in the following areas:
 *Building on Progress*
 
 These actions build upon earlier investments and
-[announcements](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-improving-access-and-care-for-youth-mental-health-and-substance-use-conditions/)
+[announcements](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-improving-access-and-care-for-youth-mental-health-and-substance-use-conditions/)
 designed to expand access to mental health services for youth and
 further President Biden’s Unity Agenda. In just 18 months, President
 Biden has invested unprecedented resources in addressing the mental
@@ -204,7 +204,7 @@ use an additional $2 billion in Department of Education ARP Elementary
 and Secondary School Emergency Relief funds to hire more school
 psychologists, counselors and other mental health professionals in K-12
 schools. And the President’s [FY23
-budget](https://www.whitehouse.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
+budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
 proposes over $27 billion in discretionary funding and another $100
 billion in mandatory funding over 10 years to implement his national
 mental health strategy.

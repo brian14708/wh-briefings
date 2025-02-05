@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-25 22:26:19-04:00
 published_time: 2023-09-25 22:26:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-president-biden-and-vice-president-harris-before-meeting-with-the-presidents-board-of-advisors-on-historically-black-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-president-biden-and-vice-president-harris-before-meeting-with-the-presidents-board-of-advisors-on-historically-black-colleges-and-universities/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Before Meeting with\
   \ the President\u2019s Board of Advisors on Historically Black Colleges and\_Universities"

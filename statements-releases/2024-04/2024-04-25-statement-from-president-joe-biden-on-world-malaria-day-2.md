@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-24 23:29:37-04:00
 published_time: 2024-04-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/statement-from-president-joe-biden-on-world-malaria-day-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/statement-from-president-joe-biden-on-world-malaria-day-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on World Malaria\_Day"
 ---

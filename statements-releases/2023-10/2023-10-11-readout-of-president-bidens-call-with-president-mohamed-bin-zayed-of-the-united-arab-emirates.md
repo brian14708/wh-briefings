@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 17:39:42-04:00
 published_time: 2023-10-11 17:39:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/readout-of-president-bidens-call-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/readout-of-president-bidens-call-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Mohamed bin Zayed of\
   \ the United Arab\_Emirates"

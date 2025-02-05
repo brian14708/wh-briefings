@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 11:41:34-04:00
 published_time: 2024-07-29 05:39:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-president-biden-announces-bold-plan-to-reform-the-supreme-court-and-ensure-no-president-is-above-the-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-president-biden-announces-bold-plan-to-reform-the-supreme-court-and-ensure-no-president-is-above-the-law/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Bold Plan to Reform the Supreme Court\
   \ and Ensure No President Is Above the\_Law"

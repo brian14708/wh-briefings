@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 12:52:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/statement-from-president-joe-biden-on-the-shooting-in-raleigh-north-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/statement-from-president-joe-biden-on-the-shooting-in-raleigh-north-carolina/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Raleigh, North\_Carolina"
 ---

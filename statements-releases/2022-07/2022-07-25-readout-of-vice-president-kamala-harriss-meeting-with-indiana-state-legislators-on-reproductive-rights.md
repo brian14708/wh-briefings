@@ -2,7 +2,7 @@
 date: '2022-07-25'
 modified_time: 2022-07-26 10:46:15-04:00
 published_time: 2022-07-25 10:44:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/25/readout-of-vice-president-kamala-harriss-meeting-with-indiana-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/25/readout-of-vice-president-kamala-harriss-meeting-with-indiana-state-legislators-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Indiana State\
   \ Legislators on Reproductive\_Rights"

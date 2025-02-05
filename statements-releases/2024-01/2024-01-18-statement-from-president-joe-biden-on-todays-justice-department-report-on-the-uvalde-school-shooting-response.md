@@ -1,7 +1,7 @@
 ---
 date: '2024-01-18'
 published_time: 2024-01-18 12:43:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/18/statement-from-president-joe-biden-on-todays-justice-department-report-on-the-uvalde-school-shooting-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/18/statement-from-president-joe-biden-on-todays-justice-department-report-on-the-uvalde-school-shooting-response/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Today\u2019s Justice Department Report\
   \ on the Uvalde School Shooting\_Response"

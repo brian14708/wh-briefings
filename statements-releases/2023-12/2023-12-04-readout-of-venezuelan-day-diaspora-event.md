@@ -1,7 +1,7 @@
 ---
 date: '2023-12-04'
 published_time: 2023-12-04 14:31:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/04/readout-of-venezuelan-day-diaspora-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/04/readout-of-venezuelan-day-diaspora-event/
 tags: statements-releases
 title: "Readout of Venezuelan Day Diaspora\_Event"
 ---

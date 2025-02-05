@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-23 12:56:49-04:00
 published_time: 2024-10-24 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-strengthens-standards-to-protect-millions-from-exposure-to-lead-paint-dust-announces-new-actions-to-address-toxic-lead-exposure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-strengthens-standards-to-protect-millions-from-exposure-to-lead-paint-dust-announces-new-actions-to-address-toxic-lead-exposure/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Strengthens Standards to Protect\
   \ Millions from Exposure to Lead Paint Dust, Announces New Actions to Address Toxic\
@@ -18,7 +18,7 @@ Americans deserve to live free from fear of toxic lead exposure. Since
 Day One, the Biden-Harris Administration has marshalled a whole of
 government effort to reduce all sources of lead exposure, issuing a
 comprehensive [Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
 that guides federal action to achieve a lead-free future.
 
 Today, as we continue to mark National Lead Poisoning Prevention Week,
@@ -73,7 +73,7 @@ eliminate these exposures in several ways:
     research](https://www.hud.gov/sites/dfiles/PA/documents/LTSHHTS2024.pdf)
     on better identifying and controlling lead and other housing-related
     hazards. These awards are part of President Biden’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     which seeks to ensure that 40 percent of the overall benefits of
     certain Federal climate, clean energy, affordable and sustainable
     housing, and other investments flow to disadvantaged communities
@@ -102,14 +102,14 @@ decade:
 
 -   Earlier this month President Biden traveled to Milwaukee, Wisconsin,
     to announce a [**final
-    rule**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/)
+    rule**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/)
     **that requires drinking water systems nationwide to replace lead
     service lines within 10 years**. This rule will protect children
     from brain damage, prevent up to 900,000 infants being born with low
     birth weight, and protect 1,100 adults from premature death from
     heart disease every year.
 -   President Biden secured a historic [**$15 billion in
-    funding**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/)
+    funding**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/)
     through the Bipartisan Infrastructure Law specifically dedicated for
     replacing lead service lines, and provided an additional $2.6
     billion from his Bipartisan Infrastructure Law for drinking water
@@ -129,7 +129,7 @@ decade:
     **over 367,000 lead pipes have been replaced nationwide, benefitting
     nearly 1 million people.**
 -   Funding from the American Rescue Plan’s [$350
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
     State and Local Fiscal Recovery Fund can be used by states and
     communities to replace lead service lines and remediate lead paint.
     To date, well **over** **$20 billion** nationwide has been invested
@@ -152,12 +152,12 @@ decade:
     communities](https://www.epa.gov/water-infrastructure/lead-service-line-replacement-accelerators)
     to support lead pipe replacement.
 -   In January 2023, the [White House Summit on Accelerating Lead Pipe
-    Replacement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/)
+    Replacement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/)
     hosted by Vice President Harris, announced new actions and progress
     to deliver clean drinking water, replace lead pipes, and remediate
     lead paint to protect children and communities across America,
     including the [**Biden-Harris Get the Lead Out
-    Partnership**](https://www.whitehouse.gov/build/briefing-room/2023/01/26/biden-harris-get-the-lead-out-partnership/) comprised
+    Partnership**](https://bidenwhitehouse.archives.gov/build/briefing-room/2023/01/26/biden-harris-get-the-lead-out-partnership/) comprised
     of state and local officials, water utilities, labor unions, and
     other nongovernmental organizations who committed to advance and
     accelerate lead pipe replacement. This White House Partnership

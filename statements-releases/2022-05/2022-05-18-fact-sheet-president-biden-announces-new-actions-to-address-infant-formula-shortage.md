@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 18:00:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/fact-sheet-president-biden-announces-new-actions-to-address-infant-formula-shortage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/fact-sheet-president-biden-announces-new-actions-to-address-infant-formula-shortage/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Address Infant Formula\_\
   Shortage"

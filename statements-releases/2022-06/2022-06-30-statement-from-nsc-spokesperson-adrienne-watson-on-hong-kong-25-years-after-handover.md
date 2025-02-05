@@ -1,7 +1,7 @@
 ---
 date: '2022-06-30'
 published_time: 2022-06-30 14:02:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-from-nsc-spokesperson-adrienne-watson-on-hong-kong-25-years-after-handover/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-from-nsc-spokesperson-adrienne-watson-on-hong-kong-25-years-after-handover/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Hong Kong 25 Years After\_\
   Handover"

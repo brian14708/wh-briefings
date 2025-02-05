@@ -2,7 +2,7 @@
 date: '2022-04-27'
 modified_time: 2022-04-26 19:23:38-04:00
 published_time: 2022-04-27 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/27/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joe-biden-and-prime-minister-mario-draghi-of-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/27/statement-by-white-house-press-secretary-jen-psaki-on-the-bilateral-meeting-between-president-joe-biden-and-prime-minister-mario-draghi-of-italy/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Jen\_Psaki on the Bilateral Meeting\
   \ between President Joe\_Biden and Prime Minister Mario Draghi of\_Italy"

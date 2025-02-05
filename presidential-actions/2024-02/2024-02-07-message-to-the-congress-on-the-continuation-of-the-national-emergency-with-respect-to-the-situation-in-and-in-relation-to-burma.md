@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 14:06:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/07/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/07/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to the Situation in and in Relation to\_Burma"

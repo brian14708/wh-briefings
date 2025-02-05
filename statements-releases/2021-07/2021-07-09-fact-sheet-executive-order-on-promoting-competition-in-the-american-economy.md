@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-09'
 modified_time: 2022-01-22 14:17:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/
 published_time: 2021-07-09 06:40:00-04:00
 title: "FACT SHEET: Executive Order on Promoting Competition in the American\_Economy"
 ---
@@ -12,7 +12,7 @@ has gained more than three million jobs since the President took
 office—the most jobs created in the first five months of any presidency
 in modern history. Today, the President is building on this economic
 momentum by signing an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
 to promote competition in the American economy, which will lower prices
 for families, increase wages for workers, and promote innovation and
 even faster economic growth.

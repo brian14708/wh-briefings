@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 12:28:56-04:00
 published_time: 2023-09-11 12:28:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-and-president-vo-van-thuong-of-vietnam-at-a-state-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-and-president-vo-van-thuong-of-vietnam-at-a-state-luncheon/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President V\xF5 V\u0103n Th\u01B0\u1EDFng\
   \ of Vietnam at a State\_Luncheon"

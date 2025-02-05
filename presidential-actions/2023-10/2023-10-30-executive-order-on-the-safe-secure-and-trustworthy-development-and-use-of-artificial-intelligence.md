@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-30 16:39:12-04:00
 published_time: 2023-10-30 16:39:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
 tags: presidential-actions
 title: "Executive Order on the Safe, Secure, and Trustworthy Development and Use of\
   \ Artificial\_Intelligence"
@@ -861,13 +861,13 @@ including customer screening systems.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/image.gif"
 title="Anchor" class="wp-image-86686" decoding="async" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/image.gif"
 title="Anchor" class="wp-image-86688" decoding="async" loading="lazy"
 width="1" height="1" />
 </figure>
@@ -2416,7 +2416,7 @@ the Department of Homeland Security.  
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/image.gif"
 title="Anchor" class="wp-image-86687" decoding="async" />
 </figure>
 

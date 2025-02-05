@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 14:22:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/30/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-the-jewish-new-year/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/30/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-the-jewish-new-year/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, First Lady Jill\_Biden, and Second Gentleman\
   \ Douglas Emhoff at a Reception to Celebrate the Jewish New\_Year"

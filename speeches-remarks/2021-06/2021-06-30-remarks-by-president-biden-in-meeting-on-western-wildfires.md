@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-06-30'
 modified_time: 2021-06-30 18:08:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/30/remarks-by-president-biden-in-meeting-on-western-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/30/remarks-by-president-biden-in-meeting-on-western-wildfires/
 published_time: 2021-06-30 18:30:00-04:00
 title: "Remarks by President\_Biden in Meeting on Western\_Wildfires"
 ---

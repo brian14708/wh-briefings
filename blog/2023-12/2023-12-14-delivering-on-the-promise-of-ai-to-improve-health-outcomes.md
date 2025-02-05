@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-14 12:51:08-05:00
 published_time: 2023-12-14 10:18:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/14/delivering-on-the-promise-of-ai-to-improve-health-outcomes/
 tags: blog
 title: "Delivering on the Promise of AI to Improve Health\_Outcomes"
 ---
@@ -18,7 +18,7 @@ As President Biden has said, artificial intelligence (AI) holds
 tremendous promise and potential peril. In few domains is this truer
 than healthcare. The President has made clear, [including by signing a
 landmark Executive Order on October
-30](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/),
+30](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/),
 that the entire Biden-Harris Administration is committed to placing the
 highest urgency on governing the development and use of AI safely and
 responsibly to drive improved health outcomes for Americans while

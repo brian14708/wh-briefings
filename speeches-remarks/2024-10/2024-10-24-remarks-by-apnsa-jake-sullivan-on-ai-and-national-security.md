@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-24 21:46:46-04:00
 published_time: 2024-10-24 21:55:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/24/remarks-by-apnsa-jake-sullivan-on-ai-and-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/24/remarks-by-apnsa-jake-sullivan-on-ai-and-national-security/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan on AI and National\_Security"
 ---

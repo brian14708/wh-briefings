@@ -2,7 +2,7 @@
 date: '2022-12-26'
 modified_time: 2022-12-26 15:09:27-05:00
 published_time: 2022-12-26 15:09:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/26/readout-of-president-joe-bidens-call-with-new-york-governor-kathy-hochul/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/26/readout-of-president-joe-bidens-call-with-new-york-governor-kathy-hochul/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s call with New York Governor Kathy\_\
   Hochul"

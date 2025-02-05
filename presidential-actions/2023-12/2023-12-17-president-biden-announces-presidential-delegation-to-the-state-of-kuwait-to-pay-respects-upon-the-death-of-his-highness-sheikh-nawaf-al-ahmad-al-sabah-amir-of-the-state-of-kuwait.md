@@ -2,7 +2,7 @@
 date: '2023-12-17'
 modified_time: 2023-12-17 00:32:42-05:00
 published_time: 2023-12-17 00:32:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/17/president-biden-announces-presidential-delegation-to-the-state-of-kuwait-to-pay-respects-upon-the-death-of-his-highness-sheikh-nawaf-al-ahmad-al-sabah-amir-of-the-state-of-kuwait/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/17/president-biden-announces-presidential-delegation-to-the-state-of-kuwait-to-pay-respects-upon-the-death-of-his-highness-sheikh-nawaf-al-ahmad-al-sabah-amir-of-the-state-of-kuwait/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the State of Kuwait\
   \ To Pay Respects Upon the Death of His Highness Sheikh Nawaf al-Ahmad al-Sabah,\

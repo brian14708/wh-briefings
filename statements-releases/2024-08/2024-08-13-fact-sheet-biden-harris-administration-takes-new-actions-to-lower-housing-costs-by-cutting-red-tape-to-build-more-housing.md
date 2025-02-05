@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 09:39:39-04:00
 published_time: 2024-08-13 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes New Actions to Lower Housing\
   \ Costs by Cutting Red Tape to Build More\_Housing"
@@ -13,7 +13,7 @@ projects and funds to encourage state and local governments to reduce
 barriers to affordable housing*
 
 Since launching its all-of-government [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 the Biden-Harris Administration has been committed to using every
 available tool to build more housing and lower costs. President Biden
 and Vice President Harris have put building more homes at the center of
@@ -23,7 +23,7 @@ in housing, we are finally seeing progress under President Biden and
 Vice President Harris: more units are under construction than at any
 time in over 50 years, and the rate of new housing starts is up 17
 percent compared to the last Administration. The [Biden-Harris Housing
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
 would build over 2 million new homes to further increase supply and
 lower housing costs for Americans.
 
@@ -49,7 +49,7 @@ use awards to further develop, evaluate, and implement housing policy
 plans, improve housing strategies, and facilitate affordable housing
 production and preservation. In June, Vice President Harris announced
 the [first-ever
-grantees](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/)
+grantees](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/)
 of the program, which provided $85 million to more than 20 cities and
 states with funding to identify and overcome barriers to building more
 affordable housing.
@@ -105,7 +105,7 @@ on the credit review process for TOD loans. These efforts build on
 federal actions to make commercial to residential projects financially
 viable. Last fall, the White House released a [Commercial to Residential
 Federal Resources
-Guidebook](https://www.whitehouse.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf)
+Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf)
 with over 20 federal programs across six federal agencies that can be
 used to support zero emissions climate-resilient conversions.
 
@@ -158,7 +158,7 @@ the cost-saving benefits of manufactured housing to denser urban
 and suburban infill contexts.
 
 **Expediting housing permitting**. The [Council of Economic Advisers
-analyzed](https://www.whitehouse.gov/cea/written-materials/2024/08/13/reforming-permitting-requirements-to-lower-the-cost-of-building-new-housing-and-increase-housing-affordability/)
+analyzed](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/08/13/reforming-permitting-requirements-to-lower-the-cost-of-building-new-housing-and-increase-housing-affordability/)
 the importance of state and local government actions to permit and
 approve new developments more quickly, including examples from HUD’s PRO
 Housing grants. Permitting requirements contribute to the nationwide
@@ -172,7 +172,7 @@ Biden-Harris Administration to improve the federal programs to support
 the construction and preservation of affordable housing. As part of the
 Housing Supply Action Plan, the Administration simplified the process to
 use [American Rescue Plan State and Local Fiscal Recovery
-Funds](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/)
+Funds](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/)
 for housing, facilitating nearly $20 billion committed for housing
 projects, including over $7.5 billion to construct, preserve, or
 stabilize tens of thousands of units; improved signature federal supply

@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 21:02:30-04:00
 published_time: 2023-09-15 21:02:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues to Counter Hate-Fueled\_\
   Violence"
@@ -61,7 +61,7 @@ hate-fueled violence, including by:
 -   **Countering domestic terrorism.** The Biden-Harris Administration
     continues to implement steadfastly the first-ever [U.S. National
     Strategy for Countering Domestic
-    Terrorism](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf).
+    Terrorism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf).
     Since the strategy was released in June 2021, we have sharpened our
     understanding of the domestic terrorism threat through enhanced
     intelligence analysis, strengthened local and especially
@@ -79,7 +79,7 @@ hate-fueled violence, including by:
     Department of Justice (DOJ).  More information on these and many
     other actions the Administration has taken to implement the Strategy
     is
-    available [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/). 
+    available [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-national-strategy-for-countering-domestic-terrorism-strategic-implementation-update/). 
 -   **Helping schools prevent, address, and ameliorate the effects of
     bullying, violence, and hate. **In May 2023, the Department of
     Education (ED) and Department of Health and Human Services (HHS)
@@ -172,7 +172,7 @@ hate-fueled violence, including by:
     its first order of business, to develop a national strategy to
     counter antisemitism.  In May 2023, the White House released the
     first-ever [U.S. National Strategy to Counter
-    Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+    Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
     which includes over 100 actions that more than two dozen government
     agencies will take by May 2024 to counter antisemitism, as well as
     over 100 calls to action for Congress, state and local governments,
@@ -182,13 +182,13 @@ hate-fueled violence, including by:
     Administration  released the first-ever [National Strategy to
     Advance Equity, Justice, and Opportunity for Asian American, Native
     Hawaiian, and Pacific Islander (AA and NHPI)
-    Communities](https://www.whitehouse.gov/wp-content/uploads/2023/01/AA-and-NHPI-Strategy-2023.pdf),
+    Communities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/AA-and-NHPI-Strategy-2023.pdf),
     which includes prioritizing the response to the increasing number of
     bias incidents and discrimination against AA and NHPIs, promoting
     belonging, equity, and inclusion, and improving access to federal
     resources. More information on specific actions the Administration
     has taken to counter anti-Asian hate can be
-    found [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/).
+    found [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/).
 
 President Biden understands that addressing hate-based violence and
 fostering national unity cannot be accomplished by the government

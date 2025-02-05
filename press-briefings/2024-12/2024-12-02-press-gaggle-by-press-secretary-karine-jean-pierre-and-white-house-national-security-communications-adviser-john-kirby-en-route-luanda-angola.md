@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 16:04:36-05:00
 published_time: 2024-12-02 16:04:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-white-house-national-security-communications-adviser-john-kirby-en-route-luanda-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-white-house-national-security-communications-adviser-john-kirby-en-route-luanda-angola/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and White\_House National\
   \ Security Communications Adviser John Kirby En Route Luanda,\_Angola"

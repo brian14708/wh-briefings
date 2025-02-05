@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-01-20'
 modified_time: 2021-01-20 21:17:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-revocation-of-certain-executive-orders-concerning-federal-regulation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-revocation-of-certain-executive-orders-concerning-federal-regulation/
 published_time: 2021-01-20 21:17:13-05:00
 title: "Executive Order on Revocation of Certain Executive Orders Concerning Federal\_\
   Regulation"

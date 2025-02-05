@@ -1,7 +1,7 @@
 ---
 date: '2023-01-04'
 published_time: 2023-01-04 14:19:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/04/press-gaggle-by-press-secretary-karine-jean-pierre-and-infrastructure-implementation-coordinator-mitch-landrieu-en-route-hebron-ky/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/04/press-gaggle-by-press-secretary-karine-jean-pierre-and-infrastructure-implementation-coordinator-mitch-landrieu-en-route-hebron-ky/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Infrastructure Implementation\
   \ Coordinator Mitch Landrieu En Route Hebron,\_KY"

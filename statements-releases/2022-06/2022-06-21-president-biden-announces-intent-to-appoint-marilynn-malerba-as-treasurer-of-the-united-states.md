@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-20 21:24:38-04:00
 published_time: 2022-06-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/president-biden-announces-intent-to-appoint-marilynn-malerba-as-treasurer-of-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/president-biden-announces-intent-to-appoint-marilynn-malerba-as-treasurer-of-the-united-states/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Appoint Marilynn Malerba as Treasurer\
   \ of the United\_States"

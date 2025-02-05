@@ -2,7 +2,7 @@
 date: '2024-06-04'
 modified_time: 2024-06-05 13:23:19-04:00
 published_time: 2024-06-04 23:04:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/04/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-paris-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/04/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-paris-france/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Paris,\_France"

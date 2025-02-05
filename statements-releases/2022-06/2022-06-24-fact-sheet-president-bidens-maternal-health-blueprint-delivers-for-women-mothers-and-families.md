@@ -2,7 +2,7 @@
 date: '2022-06-24'
 modified_time: 2022-06-24 14:58:21-04:00
 published_time: 2022-06-24 11:04:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-bidens-maternal-health-blueprint-delivers-for-women-mothers-and-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-bidens-maternal-health-blueprint-delivers-for-women-mothers-and-families/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Maternal Health Blueprint Delivers for\
   \ Women, Mothers, and\_Families"
@@ -10,7 +10,7 @@ title: "FACT SHEET: President\_Biden\u2019s Maternal Health Blueprint Delivers f
  
 Today, the White House released the Biden-Harris Administration’s
  [Blueprint for Addressing the Maternal Health
-Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
 a whole-of-government approach to combatting maternal mortality and
 morbidity. For far too many mothers, complications related to pregnancy,
 childbirth, and postpartum can lead to devastating health outcomes —

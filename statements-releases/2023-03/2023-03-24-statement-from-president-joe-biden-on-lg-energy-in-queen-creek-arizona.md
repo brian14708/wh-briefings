@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-28 09:20:29-04:00
 published_time: 2023-03-24 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/statement-from-president-joe-biden-on-lg-energy-in-queen-creek-arizona/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/statement-from-president-joe-biden-on-lg-energy-in-queen-creek-arizona/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on LG Energy in Queen Creek,\_Arizona"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-18'
 published_time: 2024-06-18 13:07:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/18/a-proclamation-on-juneteenth-day-of-observance-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/18/a-proclamation-on-juneteenth-day-of-observance-2024/
 tags: presidential-actions
 title: "A Proclamation on Juneteenth Day of Observance,\_2024"
 ---
@@ -55,7 +55,7 @@ Till-Mobley National Monument to preserve historic sites and cultural
 resources in Mississippi and Illinois so that we never forget the brutal
 lynching of Emmett Till in Mississippi in 1955 and the subsequent
 courage of his mother, Mamie Till-Mobley, who made sure our Nation
-would](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/)
+would](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/)
 never forget her son.  I have honored some of our country’s greatest
 Black scholars, humanitarians, and artists, who dare to tell the good,
 bad, and truth of our Nation.  We are writing new chapters of our

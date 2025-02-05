@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-14 16:50:31-04:00
 published_time: 2024-05-13 22:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/13/background-press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-on-president-bidens-actions-to-protect-american-workers-and-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/13/background-press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-on-president-bidens-actions-to-protect-american-workers-and-businesses/
 tags: press-briefings
 title: "Background Press Call by National Economic Advisor Lael Brainard and Senior\
   \ Administration Officials on President\_Biden\u2019s Actions to Protect American\

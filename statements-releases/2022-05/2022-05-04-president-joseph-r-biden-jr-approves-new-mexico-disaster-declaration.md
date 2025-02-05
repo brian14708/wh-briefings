@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 19:34:37-04:00
 published_time: 2022-05-04 19:34:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/president-joseph-r-biden-jr-approves-new-mexico-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/president-joseph-r-biden-jr-approves-new-mexico-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves New Mexico Disaster\_Declaration"
 ---

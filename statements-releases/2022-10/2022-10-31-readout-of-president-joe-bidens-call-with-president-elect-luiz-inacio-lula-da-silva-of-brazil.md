@@ -1,7 +1,7 @@
 ---
 date: '2022-10-31'
 published_time: 2022-10-31 15:00:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/31/readout-of-president-joe-bidens-call-with-president-elect-luiz-inacio-lula-da-silva-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/31/readout-of-president-joe-bidens-call-with-president-elect-luiz-inacio-lula-da-silva-of-brazil/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President-Elect Luiz In\xE1\
   cio Lula da Silva of\_Brazil"

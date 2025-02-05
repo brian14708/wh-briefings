@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 15:48:20-04:00
 published_time: 2023-11-01 15:48:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting-london-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting-london-united-kingdom/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Rishi Sunak of the United\
   \ Kingdom Before Bilateral Meeting | London, United\_Kingdom"

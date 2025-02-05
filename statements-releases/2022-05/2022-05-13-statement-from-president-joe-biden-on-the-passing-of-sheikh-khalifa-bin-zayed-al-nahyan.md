@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-13 09:32:22-04:00
 published_time: 2022-05-13 08:41:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/statement-from-president-joe-biden-on-the-passing-of-sheikh-khalifa-bin-zayed-al-nahyan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/statement-from-president-joe-biden-on-the-passing-of-sheikh-khalifa-bin-zayed-al-nahyan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Sheikh Khalifa bin Zayed\_\
   Al\_Nahyan"

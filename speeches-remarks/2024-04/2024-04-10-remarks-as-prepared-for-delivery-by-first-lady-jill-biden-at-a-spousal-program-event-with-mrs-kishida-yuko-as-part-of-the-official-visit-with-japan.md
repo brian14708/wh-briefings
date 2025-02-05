@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-10 13:48:39-04:00
 published_time: 2024-04-10 13:48:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-spousal-program-event-with-mrs-kishida-yuko-as-part-of-the-official-visit-with-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-spousal-program-event-with-mrs-kishida-yuko-as-part-of-the-official-visit-with-japan/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Spousal Program\
   \ Event with Mrs. Kishida Yuko as part of the Official Visit with\_Japan"

@@ -2,7 +2,7 @@
 date: '2023-09-30'
 modified_time: 2023-09-30 23:48:36-04:00
 published_time: 2023-09-30 23:48:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/30/message-to-the-congress-on-designation-of-funding-as-an-emergency-requirement-in-accordance-with-section-114c-of-division-a-of-the-continuing-appropriations-act-2024-and-other-extensions-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/30/message-to-the-congress-on-designation-of-funding-as-an-emergency-requirement-in-accordance-with-section-114c-of-division-a-of-the-continuing-appropriations-act-2024-and-other-extensions-act/
 tags: presidential-actions
 title: "Message to the Congress on Designation of Funding as an Emergency Requirement\
   \ in Accordance with Section 114(c) of division A of the Continuing Appropriations\

@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 11:11:58-04:00
 published_time: 2024-09-13 11:11:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-the-national-farm-safety-and-health-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-the-national-farm-safety-and-health-week-2024/
 tags: presidential-actions
 title: "Proclamation on the National Farm Safety and Health Week,\_2024"
 ---

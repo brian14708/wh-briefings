@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 19:05:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/statement-from-white-house-press-secretary-karine-jean-pierre-on-south-carolinas-abortion-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/statement-from-white-house-press-secretary-karine-jean-pierre-on-south-carolinas-abortion-ban/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on South Carolina\u2019\
   s Abortion\_Ban"

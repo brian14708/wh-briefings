@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-09'
 modified_time: 2021-08-09 15:02:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/statement-by-president-joe-biden-on-department-of-justice-filing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/09/statement-by-president-joe-biden-on-department-of-justice-filing/
 published_time: 2021-08-09 15:02:43-04:00
 title: "Statement by President Joe\_Biden on Department of Justice\_Filing"
 ---

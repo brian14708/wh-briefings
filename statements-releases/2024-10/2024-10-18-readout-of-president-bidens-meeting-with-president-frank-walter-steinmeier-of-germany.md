@@ -1,7 +1,7 @@
 ---
 date: '2024-10-18'
 published_time: 2024-10-18 05:42:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/18/readout-of-president-bidens-meeting-with-president-frank-walter-steinmeier-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/18/readout-of-president-bidens-meeting-with-president-frank-walter-steinmeier-of-germany/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Frank-Walter Steinmeier\
   \ of\_Germany"

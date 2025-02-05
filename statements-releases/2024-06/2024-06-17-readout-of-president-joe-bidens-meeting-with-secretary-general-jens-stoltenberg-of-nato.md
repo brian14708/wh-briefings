@@ -1,7 +1,7 @@
 ---
 date: '2024-06-17'
 published_time: 2024-06-17 18:41:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/readout-of-president-joe-bidens-meeting-with-secretary-general-jens-stoltenberg-of-nato/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/readout-of-president-joe-bidens-meeting-with-secretary-general-jens-stoltenberg-of-nato/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Secretary General Jens\
   \ Stoltenberg of\_NATO"

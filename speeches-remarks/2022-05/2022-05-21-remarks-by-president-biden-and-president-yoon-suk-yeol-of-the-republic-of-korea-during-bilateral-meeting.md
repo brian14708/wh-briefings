@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 04:38:26-04:00
 published_time: 2022-05-21 04:38:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/21/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/21/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea During Bilateral\_Meeting"

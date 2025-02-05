@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 21:58:22-04:00
 published_time: 2024-10-25 21:58:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/25/remarks-by-president-biden-on-the-biden-harris-administrations-record-of-delivering-for-tribal-communities-including-keeping-his-promise-to-make-this-historic-visit-to-indian-country-lavee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/25/remarks-by-president-biden-on-the-biden-harris-administrations-record-of-delivering-for-tribal-communities-including-keeping-his-promise-to-make-this-historic-visit-to-indian-country-lavee/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Biden-\u2060Harris Administration\u2019\
   s Record of Delivering for Tribal Communities, Including Keeping His Promise to\

@@ -2,7 +2,7 @@
 date: '2023-10-16'
 modified_time: 2023-10-15 18:45:37-04:00
 published_time: 2023-10-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/president-biden-to-visit-largest-wind-tower-manufacturer-in-the-world-highlight-how-bidenomics-is-driving-record-investments-in-congresswoman-lauren-boeberts-district/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/president-biden-to-visit-largest-wind-tower-manufacturer-in-the-world-highlight-how-bidenomics-is-driving-record-investments-in-congresswoman-lauren-boeberts-district/
 tags: statements-releases
 title: "President\_Biden to Visit Largest Wind Tower Manufacturer in the World, Highlight\
   \ How Bidenomics Is Driving Record Investments in Congresswoman Lauren Boebert\u2019\
@@ -25,7 +25,7 @@ failure,” and “bad for Colorado’s Third District.”
   
 The President’s visit is part of his Administration’s [Investing in
 America
-tour](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/),
+tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/),
 where Administration leaders are traveling across the country to
 highlight how Bidenomics and the President’s Investing in America agenda
 are delivering for communities across the country and confronting the

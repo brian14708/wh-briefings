@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 14:26:41-04:00
 published_time: 2023-10-06 14:26:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/06/remarks-by-president-biden-on-the-september-jobs-report-and-national-manufacturing-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/06/remarks-by-president-biden-on-the-september-jobs-report-and-national-manufacturing-day/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the September Jobs Report and National Manufacturing\_\
   Day"

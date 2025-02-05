@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 21:31:37-04:00
 published_time: 2023-09-15 21:31:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-u-s-law-enforcement-taking-custody-of-major-narcotics-defendant/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-u-s-law-enforcement-taking-custody-of-major-narcotics-defendant/
 tags: statements-releases
 title: "Statement from Homeland Security Advisor Dr. Liz Sherwood-Randall on U.S.\
   \ Law Enforcement Taking Custody of Major Narcotics\_Defendant"

@@ -2,7 +2,7 @@
 date: '2024-04-23'
 modified_time: 2024-04-23 11:11:42-04:00
 published_time: 2024-04-23 11:11:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/what-they-are-saying-president-biden-marks-earth-day-2024-with-historic-climate-action/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/what-they-are-saying-president-biden-marks-earth-day-2024-with-historic-climate-action/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Marks Earth Day 2024 with Historic\
   \ Climate\_Action"

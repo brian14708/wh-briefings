@@ -1,7 +1,7 @@
 ---
 date: '2024-11-15'
 published_time: 2024-11-15 15:42:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/joint-statement-of-japan-the-republic-of-korea-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/joint-statement-of-japan-the-republic-of-korea-and-the-united-states/
 tags: statements-releases
 title: "Joint Statement of Japan, the Republic of Korea, and the United\_States"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-01 23:18:01-04:00
 published_time: 2024-05-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces $3 Billion to Replace\
   \ Toxic Lead Pipes and Deliver Clean Drinking Water to Communities Across the\_\
@@ -28,7 +28,7 @@ the country within a decade** and coordinated a whole of government
 effort to deploy resources and leverage every tool across federal, state
 and local government to address lead hazards through the [Lead Pipe and
 Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/).   
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/).   
   
 As part of this unprecedented commitment, President Biden is traveling
 today to Wilmington, North Carolina, to announce **$3 billion through
@@ -111,7 +111,7 @@ drinking water infrastructure alone.**
   
 In addition, last November, EPA issued a proposal to [strengthen its
 Lead and Copper
-Rule](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
+Rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
 that would require water systems to replace lead pipes within 10 years
 and drive progress nationwide toward reducing lead exposure.  
   
@@ -123,7 +123,7 @@ Administration’s investments are making an impact:
     its lead pipes within 10 years instead of the initially estimated 60
     years. The city is using a high proportion of union labor to replace
     lead pipes, and will be one of four new [White House Workforce
-    Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
     cities that were announced by President Biden last week.  
 -   Following a lead-in-water crisis, **Benton Harbor, Michigan**,
     successfully replaced all its lead pipes within just two years,
@@ -133,7 +133,7 @@ Administration’s investments are making an impact:
     Bipartisan Infrastructure Law to replace lead pipes, and is on track
     to replace every lead pipe by 2026. [Vice President Harris visited
     the
-    city](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
+    city](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
     in February to highlight this progress in lead pipe replacement and
     announce new funding for clean water.  
 -   **St. Paul, Minnesota,** has received $16 million from the American
@@ -202,7 +202,7 @@ including deadly cancers, liver and heart damage, and developmental
 impacts in children. The Bipartisan Infrastructure Law invests $10
 billion to address toxic PFAS pollution in water. In addition, this
 month EPA announced the [first-ever national drinking water standard for
-PFAS](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
+PFAS](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
 , which will protect 100 million people from PFAS exposure.
 
 **<u>Lowering Costs for North Carolina Families</u>**

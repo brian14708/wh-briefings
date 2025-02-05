@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 11:36:56-04:00
 published_time: 2022-05-17 11:35:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/17/background-press-call-by-senior-administration-officials-on-new-cuba-policy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/17/background-press-call-by-senior-administration-officials-on-new-cuba-policy/
 tags: press-briefings
 title: "Background Press Call By Senior Administration Officials On New Cuba\_Policy"
 ---

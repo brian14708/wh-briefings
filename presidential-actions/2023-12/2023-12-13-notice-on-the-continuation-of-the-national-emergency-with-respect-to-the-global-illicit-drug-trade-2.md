@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 13:06:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to the Global\
   \ Illicit Drug\_Trade"

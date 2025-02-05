@@ -1,7 +1,7 @@
 ---
 date: '2023-12-14'
 published_time: 2023-12-14 16:08:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/14/a-proclamation-on-bill-of-rights-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/14/a-proclamation-on-bill-of-rights-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Bill of Rights Day,\_2023"
 ---

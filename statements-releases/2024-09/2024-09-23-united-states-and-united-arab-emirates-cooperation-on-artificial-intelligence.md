@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 16:17:54-04:00
 published_time: 2024-09-23 16:17:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/united-states-and-united-arab-emirates-cooperation-on-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/united-states-and-united-arab-emirates-cooperation-on-artificial-intelligence/
 tags: statements-releases
 title: "United\_States and United Arab Emirates Cooperation on Artificial\_Intelligence"
 ---

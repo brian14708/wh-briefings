@@ -2,7 +2,7 @@
 date: '2023-01-12'
 modified_time: 2023-01-13 08:56:47-05:00
 published_time: 2023-01-12 08:55:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/12/vice-president-harris-convenes-climate-leaders-at-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/12/vice-president-harris-convenes-climate-leaders-at-the-white-house/
 tags: statements-releases
 title: "Vice President Harris Convenes Climate Leaders at the White\_House"
 ---

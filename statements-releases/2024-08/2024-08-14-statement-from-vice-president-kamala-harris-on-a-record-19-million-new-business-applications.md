@@ -1,7 +1,7 @@
 ---
 date: '2024-08-14'
 published_time: 2024-08-14 11:44:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/statement-from-vice-president-kamala-harris-on-a-record-19-million-new-business-applications/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/statement-from-vice-president-kamala-harris-on-a-record-19-million-new-business-applications/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on a Record 19 Million New Business\_\
   Applications"

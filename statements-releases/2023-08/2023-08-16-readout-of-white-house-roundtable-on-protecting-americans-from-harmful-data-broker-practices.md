@@ -1,7 +1,7 @@
 ---
 date: '2023-08-16'
 published_time: 2023-08-16 18:08:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/readout-of-white-house-roundtable-on-protecting-americans-from-harmful-data-broker-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/readout-of-white-house-roundtable-on-protecting-americans-from-harmful-data-broker-practices/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Protecting Americans from Harmful Data\
   \ Broker\_Practices"

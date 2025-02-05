@@ -1,7 +1,7 @@
 ---
 date: '2024-07-02'
 published_time: 2024-07-02 17:52:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/readout-of-president-joe-bidens-call-with-president-cyril-ramaphosa-of-south-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/readout-of-president-joe-bidens-call-with-president-cyril-ramaphosa-of-south-africa/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Cyril Ramaphosa\
   \ of South\_Africa"

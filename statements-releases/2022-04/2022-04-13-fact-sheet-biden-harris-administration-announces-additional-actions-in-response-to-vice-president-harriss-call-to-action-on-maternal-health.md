@@ -2,7 +2,7 @@
 date: '2022-04-13'
 modified_time: 2022-04-13 10:34:14-04:00
 published_time: 2022-04-13 10:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/fact-sheet-biden-harris-administration-announces-additional-actions-in-response-to-vice-president-harriss-call-to-action-on-maternal-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/fact-sheet-biden-harris-administration-announces-additional-actions-in-response-to-vice-president-harriss-call-to-action-on-maternal-health/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Additional Actions\
   \ in Response to Vice President Harris\u2019s Call to Action on Maternal\_Health"

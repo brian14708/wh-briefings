@@ -1,7 +1,7 @@
 ---
 date: '2023-10-15'
 published_time: 2023-10-15 13:30:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/15/readout-of-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finers-meetings-with-arab-and-muslim-american-community-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/15/readout-of-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finers-meetings-with-arab-and-muslim-american-community-leaders/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan and Principal Deputy National\
   \ Security Advisor Jon Finer\u2019s Meetings with Arab and Muslim American Community\_\

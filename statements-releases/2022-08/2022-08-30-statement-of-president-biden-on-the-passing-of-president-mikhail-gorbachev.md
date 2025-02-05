@@ -1,7 +1,7 @@
 ---
 date: '2022-08-30'
 published_time: 2022-08-30 21:46:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/30/statement-of-president-biden-on-the-passing-of-president-mikhail-gorbachev/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/30/statement-of-president-biden-on-the-passing-of-president-mikhail-gorbachev/
 tags: statements-releases
 title: "Statement of President\_Biden                On the Passing of President Mikhail\_\
   Gorbachev"

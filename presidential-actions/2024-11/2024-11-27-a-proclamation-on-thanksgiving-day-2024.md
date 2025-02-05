@@ -2,7 +2,7 @@
 date: '2024-11-27'
 modified_time: 2024-11-27 15:44:54-05:00
 published_time: 2024-11-27 15:44:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/27/a-proclamation-on-thanksgiving-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/27/a-proclamation-on-thanksgiving-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Thanksgiving Day,\_2024"
 ---

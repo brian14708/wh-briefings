@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-11 12:05:55-04:00
 published_time: 2024-10-10 16:07:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/10/remarks-by-president-biden-on-the-initial-impacts-of-hurricane-milton-and-the-federal-governments-ongoing-support-to-state-and-local-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/10/remarks-by-president-biden-on-the-initial-impacts-of-hurricane-milton-and-the-federal-governments-ongoing-support-to-state-and-local-officials/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Initial Impacts of Hurricane Milton and\
   \ the Federal Government\u2019s Ongoing Support to State and Local\_Officials"

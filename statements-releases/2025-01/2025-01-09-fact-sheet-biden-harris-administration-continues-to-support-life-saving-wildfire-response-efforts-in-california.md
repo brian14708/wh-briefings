@@ -2,7 +2,7 @@
 date: '2025-01-09'
 modified_time: 2025-01-09 15:05:23-05:00
 published_time: 2025-01-09 15:05:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/09/fact-sheet-biden-harris-administration-continues-to-support-life-saving-wildfire-response-efforts-in-california/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/fact-sheet-biden-harris-administration-continues-to-support-life-saving-wildfire-response-efforts-in-california/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues to Support Life-Saving\
   \ Wildfire Response Efforts in\_California"

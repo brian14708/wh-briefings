@@ -1,7 +1,7 @@
 ---
 date: '2023-06-27'
 published_time: 2023-06-27 14:12:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-driving-forward-on-convenient-reliable-made-in-america-national-network-of-electric-vehicle-chargers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/fact-sheet-biden-harris-administration-driving-forward-on-convenient-reliable-made-in-america-national-network-of-electric-vehicle-chargers/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Driving Forward on Convenient,\
   \ Reliable, Made-in-America National Network of Electric Vehicle\_Chargers"
@@ -93,7 +93,7 @@ participating in the NEVI program, and the first two years of funding
 alone will electrify over 75,000 miles of the national highway system.
 
 The Administration also [set new national
-standards](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) for
+standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) for
 Federally-funded EV chargers, including NEVI-funded chargers. The
 minimum standards set a baseline to ensure the national EV charging
 network is interoperable between different charging companies, with
@@ -171,7 +171,7 @@ Since President Biden took office, EV sales have tripled and the number
 of publicly available charging ports has grown by more than 40%. There
 are now more than three million EVs on the road and over 140,000 public
 chargers across the country. Companies have recently announced [new
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/) to
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/17/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/) to
 expand their networks by thousands of public charging ports in the next
 two years, using private funds to complement Federal dollars and putting
 the nation’s EV charging goals even closer within reach.    

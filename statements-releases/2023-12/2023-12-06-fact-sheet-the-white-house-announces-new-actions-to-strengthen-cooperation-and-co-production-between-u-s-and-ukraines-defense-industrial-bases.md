@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 19:18:23-05:00
 published_time: 2023-12-06 19:18:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-the-white-house-announces-new-actions-to-strengthen-cooperation-and-co-production-between-u-s-and-ukraines-defense-industrial-bases/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-the-white-house-announces-new-actions-to-strengthen-cooperation-and-co-production-between-u-s-and-ukraines-defense-industrial-bases/
 tags: statements-releases
 title: "FACT SHEET: The White\_House Announces New Actions to Strengthen Cooperation\
   \ and Co-Production between U.S. and Ukraine\u2019s Defense Industrial\_Bases"

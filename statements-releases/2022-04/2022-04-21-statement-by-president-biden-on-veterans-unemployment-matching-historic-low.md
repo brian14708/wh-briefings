@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 published_time: 2022-04-21 12:58:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/statement-by-president-biden-on-veterans-unemployment-matching-historic-low/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/statement-by-president-biden-on-veterans-unemployment-matching-historic-low/
 tags: statements-releases
 title: "Statement by President\_Biden on Veterans Unemployment Matching Historic\_\
   Low"

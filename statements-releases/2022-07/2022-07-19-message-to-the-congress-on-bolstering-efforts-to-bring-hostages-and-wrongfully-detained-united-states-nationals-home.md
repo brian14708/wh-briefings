@@ -1,7 +1,7 @@
 ---
 date: '2022-07-19'
 published_time: 2022-07-19 10:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/19/message-to-the-congress-on-bolstering-efforts-to-bring-hostages-and-wrongfully-detained-united-states-nationals-home/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/19/message-to-the-congress-on-bolstering-efforts-to-bring-hostages-and-wrongfully-detained-united-states-nationals-home/
 tags: statements-releases
 title: "Message to the Congress on Bolstering Efforts to Bring Hostages and Wrongfully\
   \ Detained United\_States Nationals\_Home"

@@ -2,7 +2,7 @@
 date: '2024-03-12'
 modified_time: 2024-03-12 09:45:13-04:00
 published_time: 2024-03-12 09:45:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/12/statement-from-president-joe-biden-on-itay-chen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/12/statement-from-president-joe-biden-on-itay-chen/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Itay\_Chen"
 ---

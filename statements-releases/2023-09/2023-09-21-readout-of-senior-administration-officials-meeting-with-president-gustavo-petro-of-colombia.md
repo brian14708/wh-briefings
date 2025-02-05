@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-21 17:59:46-04:00
 published_time: 2023-09-21 17:59:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/readout-of-senior-administration-officials-meeting-with-president-gustavo-petro-of-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/readout-of-senior-administration-officials-meeting-with-president-gustavo-petro-of-colombia/
 tags: statements-releases
 title: "Readout of Senior Administration Officials Meeting with President Gustavo\
   \ Petro of\_Colombia"

@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 11:38:35-05:00
 published_time: 2023-02-06 11:38:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-burma/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to the Situation\
   \ in and in Relation to\_Burma"

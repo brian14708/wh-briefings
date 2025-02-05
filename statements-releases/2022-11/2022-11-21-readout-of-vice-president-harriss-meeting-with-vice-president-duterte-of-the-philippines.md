@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
 published_time: 2022-11-21 09:11:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/21/readout-of-vice-president-harriss-meeting-with-vice-president-duterte-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/21/readout-of-vice-president-harriss-meeting-with-vice-president-duterte-of-the-philippines/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Vice President Duterte\
   \ of the\_Philippines"

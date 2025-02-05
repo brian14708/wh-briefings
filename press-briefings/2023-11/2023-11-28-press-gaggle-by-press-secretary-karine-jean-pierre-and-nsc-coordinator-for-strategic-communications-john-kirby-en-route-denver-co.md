@@ -1,7 +1,7 @@
 ---
 date: '2023-11-28'
 published_time: 2023-11-28 21:53:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-denver-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-denver-co/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Denver,\_CO"

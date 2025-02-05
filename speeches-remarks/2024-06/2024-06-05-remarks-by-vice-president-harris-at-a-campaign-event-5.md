@@ -2,7 +2,7 @@
 date: '2024-06-05'
 modified_time: 2024-06-10 13:26:50-04:00
 published_time: 2024-06-05 16:39:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/05/remarks-by-vice-president-harris-at-a-campaign-event-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/05/remarks-by-vice-president-harris-at-a-campaign-event-5/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign\_Event"
 ---

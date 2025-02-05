@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 22:03:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-addressing-addiction-and-the-overdose-epidemic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-addressing-addiction-and-the-overdose-epidemic/
 published_time: 2022-03-01 22:03:42-05:00
 title: "FACT SHEET: Addressing Addiction and the Overdose\_Epidemic"
 ---
@@ -214,7 +214,7 @@ transnational and domestic criminal activities is an urgent priority for
 the Administration.
 
 -   In October, President Biden
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/)
     two Executive Orders to counter transnational criminal organizations
     and illicit drug trafficking: first, by formally establishing the
     U.S. Council on Transnational Organized Crime; and second, by
@@ -260,4 +260,4 @@ Rescue Plan. These efforts delivered critical attention and resources to
 the communities that are tackling this crisis on the front lines. **More
 information about** **actions taken by the Biden-Harris Administration
 to address addiction and the overdose epidemic can be
-found **[**HERE**](https://www.whitehouse.gov/ondcp/briefing-room/2022/01/18/white-house-releases-list-of-actions-taken-by-the-biden-harris-administration-since-january-2021-to-address-addiction-and-the-overdose-epidemic/)**.**
+found **[**HERE**](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/01/18/white-house-releases-list-of-actions-taken-by-the-biden-harris-administration-since-january-2021-to-address-addiction-and-the-overdose-epidemic/)**.**

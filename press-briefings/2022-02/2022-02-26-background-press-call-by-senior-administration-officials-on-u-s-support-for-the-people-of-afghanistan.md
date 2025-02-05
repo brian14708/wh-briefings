@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-02-26'
 modified_time: 2022-02-26 00:03:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/26/background-press-call-by-senior-administration-officials-on-u-s-support-for-the-people-of-afghanistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/02/26/background-press-call-by-senior-administration-officials-on-u-s-support-for-the-people-of-afghanistan/
 published_time: 2022-02-26 00:03:10-05:00
 title: "Background Press Call by Senior Administration Officials on U.S. Support for\
   \ the People of\_Afghanistan"

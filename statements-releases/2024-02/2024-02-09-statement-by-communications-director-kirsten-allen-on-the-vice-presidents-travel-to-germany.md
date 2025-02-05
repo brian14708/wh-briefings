@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-08 21:17:26-05:00
 published_time: 2024-02-09 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/statement-by-communications-director-kirsten-allen-on-the-vice-presidents-travel-to-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/statement-by-communications-director-kirsten-allen-on-the-vice-presidents-travel-to-germany/
 tags: statements-releases
 title: "Statement by Communications Director Kirsten Allen on the Vice President\u2019\
   s Travel to\_Germany"

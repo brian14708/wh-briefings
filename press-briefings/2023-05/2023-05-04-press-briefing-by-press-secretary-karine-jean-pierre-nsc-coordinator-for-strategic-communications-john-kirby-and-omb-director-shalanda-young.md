@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 18:29:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/04/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-omb-director-shalanda-young/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/04/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-omb-director-shalanda-young/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, NSC Coordinator for\
   \ Strategic Communications John Kirby, and OMB Director Shalanda\_Young"

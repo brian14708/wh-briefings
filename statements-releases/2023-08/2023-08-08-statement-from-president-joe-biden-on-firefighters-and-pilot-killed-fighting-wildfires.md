@@ -1,7 +1,7 @@
 ---
 date: '2023-08-08'
 published_time: 2023-08-08 12:52:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/statement-from-president-joe-biden-on-firefighters-and-pilot-killed-fighting-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/statement-from-president-joe-biden-on-firefighters-and-pilot-killed-fighting-wildfires/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Firefighters and Pilot Killed Fighting\_\
   Wildfires"

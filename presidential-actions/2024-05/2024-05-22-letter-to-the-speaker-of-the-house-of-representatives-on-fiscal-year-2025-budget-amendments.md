@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-22 17:03:49-04:00
 published_time: 2024-05-22 17:00:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/22/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2025-budget-amendments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/22/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2025-budget-amendments/
 tags: presidential-actions
 title: "Letter to the Speaker of the House of Representatives on Fiscal Year 2025\
   \ Budget\_Amendments"

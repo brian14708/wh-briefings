@@ -2,7 +2,7 @@
 date: '2022-10-13'
 modified_time: 2022-10-13 02:36:08-04:00
 published_time: 2022-10-13 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-the-biden-harris-administration-announces-action-plan-to-accelerate-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-the-biden-harris-administration-announces-action-plan-to-accelerate-infrastructure/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Announces Action Plan to\
   \ Accelerate Infrastructure"
@@ -50,7 +50,7 @@ accelerate the delivery of infrastructure. 
 
 In May, the Biden-Harris Administration released a new [Permitting
 Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf) to
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf) to
 strengthen and accelerate federal permitting and environmental reviews
 by fully leveraging existing authorities, as well as new provisions in
 the Bipartisan Infrastructure Law. The Permitting Action Plan outlines
@@ -70,7 +70,7 @@ To build on that effort, today, at the White House Accelerating
 Infrastructure Summit, the Administration and outside organizations are
 announcing [new efforts and an Action Plan to accelerate the rebuilding
 of our
-infrastructure](https://www.whitehouse.gov/build/accelerating-infrastructure/) and
+infrastructure](https://bidenwhitehouse.archives.gov/build/accelerating-infrastructure/) and
 maximize this once-in-a-generation opportunity to build a better
 America.  
 

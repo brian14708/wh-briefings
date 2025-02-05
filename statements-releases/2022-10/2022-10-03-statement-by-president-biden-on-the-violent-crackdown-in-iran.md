@@ -1,7 +1,7 @@
 ---
 date: '2022-10-03'
 published_time: 2022-10-03 17:09:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/03/statement-by-president-biden-on-the-violent-crackdown-in-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/03/statement-by-president-biden-on-the-violent-crackdown-in-iran/
 tags: statements-releases
 title: "Statement by President\_Biden on the Violent Crackdown in\_Iran"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 published_time: 2023-05-26 13:19:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/26/memorandum-on-delegation-of-authority-under-section-5583-of-the-james-m-inhofe-national-defense-authorization-act-for-fiscal-year-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/26/memorandum-on-delegation-of-authority-under-section-5583-of-the-james-m-inhofe-national-defense-authorization-act-for-fiscal-year-2023/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Section 5583 of the James M. Inhofe\
   \ National Defense Authorization Act for Fiscal Year\_2023"

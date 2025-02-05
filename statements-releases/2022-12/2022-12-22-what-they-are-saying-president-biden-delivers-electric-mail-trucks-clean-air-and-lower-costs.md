@@ -2,7 +2,7 @@
 date: '2022-12-22'
 modified_time: 2022-12-22 15:14:49-05:00
 published_time: 2022-12-22 15:14:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/22/what-they-are-saying-president-biden-delivers-electric-mail-trucks-clean-air-and-lower-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/22/what-they-are-saying-president-biden-delivers-electric-mail-trucks-clean-air-and-lower-costs/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING:  President\_Biden Delivers Electric Mail Trucks, Clean\
   \ Air, and Lower\_Costs"
@@ -13,7 +13,7 @@ nation’s climate, environmental justice, and conservation goals while
 lowering energy costs for Americans.
 
 Using funding from the Inflation Reduction Act, the U.S. Postal Service
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/)
 an historic $9.6 billion investment to put 66,000 electric delivery
 trucks on the roads over the next five years and acquire only electric
 Next Generation Delivery Vehicles starting in 2026. 
@@ -26,14 +26,14 @@ in 18,000 fewer cases of childhood asthma and 1.1 fewer lost school days
 by 2045. 
 
 The Department of Energy also
-[proposed](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/)
+[proposed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/)
 stronger efficiency standards for light bulbs to conserve energy and cut
 energy bills. With this announcement, the Administration has now taken
 more than 110 actions this year to strengthen energy efficiency
 standards and save the average family at least $100 annually.
 
 The Administration also secured a [major international
-win](https://www.whitehouse.gov/ceq/news-updates/2022/12/19/countries-follow-u-s-lead-and-set-global-goal-to-protect-at-least-30-of-lands-and-waters-by-2030/)
+win](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/12/19/countries-follow-u-s-lead-and-set-global-goal-to-protect-at-least-30-of-lands-and-waters-by-2030/)
 for conservation and biodiversity, with countries across the globe
 reaching a historic agreement to collectively commit to conserving at
 least 30 percent of lands and waters by 2030, a goal that President

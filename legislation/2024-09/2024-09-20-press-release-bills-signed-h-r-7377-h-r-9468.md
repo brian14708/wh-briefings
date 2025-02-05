@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 13:21:09-04:00
 published_time: 2024-09-20 13:20:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/20/press-release-bills-signed-h-r-7377-h-r-9468/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/20/press-release-bills-signed-h-r-7377-h-r-9468/
 tags: legislation
 title: "Bills Signed: H.R. 7377, H.R.\_9468"
 ---

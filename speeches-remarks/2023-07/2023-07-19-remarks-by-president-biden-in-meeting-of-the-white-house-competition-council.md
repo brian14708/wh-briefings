@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 17:41:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-president-biden-in-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-president-biden-in-meeting-of-the-white-house-competition-council/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meeting of the White\_House Competition\_Council"
 ---

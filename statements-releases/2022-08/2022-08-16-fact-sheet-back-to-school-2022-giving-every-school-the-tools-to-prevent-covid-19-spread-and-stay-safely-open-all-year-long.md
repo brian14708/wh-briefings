@@ -2,7 +2,7 @@
 date: '2022-08-16'
 modified_time: 2022-08-16 09:44:32-04:00
 published_time: 2022-08-16 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-back-to-school-2022-giving-every-school-the-tools-to-prevent-covid-19-spread-and-stay-safely-open-all-year-long/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-back-to-school-2022-giving-every-school-the-tools-to-prevent-covid-19-spread-and-stay-safely-open-all-year-long/
 tags: statements-releases
 title: "FACT SHEET:\_BACK TO SCHOOL 2022: Giving Every School the Tools to Prevent\
   \ COVID-\u206019 Spread and Stay Safely Open All Year\_Long"

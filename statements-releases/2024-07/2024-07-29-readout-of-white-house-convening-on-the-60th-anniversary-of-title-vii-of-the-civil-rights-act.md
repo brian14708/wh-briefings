@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 18:00:44-04:00
 published_time: 2024-07-29 18:00:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/readout-of-white-house-convening-on-the-60th-anniversary-of-title-vii-of-the-civil-rights-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/readout-of-white-house-convening-on-the-60th-anniversary-of-title-vii-of-the-civil-rights-act/
 tags: statements-releases
 title: "Readout of White\_House Convening on the 60th Anniversary of Title VII of\
   \ the Civil Rights\_Act"
@@ -17,7 +17,7 @@ discuss the importance of this landmark law in ensuring equal
 opportunity and combatting employment discrimination in the workplace.
 The convening took place as the President traveled to the Lyndon B.
 Johnson Presidential Library to underscore the Administration’s [strong
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-biden-harris-administration-commemorates-the-60th-anniversary-of-the-civil-rights-act-of-1964-and-uplifts-commitment-to-protecting-the-civil-rights-of-all-americans/)
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-biden-harris-administration-commemorates-the-60th-anniversary-of-the-civil-rights-act-of-1964-and-uplifts-commitment-to-protecting-the-civil-rights-of-all-americans/)
 on—and deep commitment to—protecting the civil rights of all Americans. 
 
 Senior Biden-Harris Administration officials discussed the progress that

@@ -2,7 +2,7 @@
 date: '2024-10-07'
 modified_time: 2024-10-07 22:33:21-04:00
 published_time: 2024-10-07 22:33:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-apnsa-jake-sullivan-on-the-anniversary-of-the-october-7th-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-apnsa-jake-sullivan-on-the-anniversary-of-the-october-7th-attacks/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan on the Anniversary of the October 7th\_Attacks"
 ---

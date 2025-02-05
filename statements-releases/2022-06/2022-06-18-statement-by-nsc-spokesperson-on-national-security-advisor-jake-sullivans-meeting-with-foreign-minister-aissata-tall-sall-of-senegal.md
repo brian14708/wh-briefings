@@ -2,7 +2,7 @@
 date: '2022-06-18'
 modified_time: 2022-06-18 11:50:29-04:00
 published_time: 2022-06-18 11:50:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/18/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-meeting-with-foreign-minister-aissata-tall-sall-of-senegal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/18/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-meeting-with-foreign-minister-aissata-tall-sall-of-senegal/
 tags: statements-releases
 title: "Statement by NSC Spokesperson on National Security Advisor Jake Sullivan\u2019\
   s Meeting with Foreign Minister A\xEFssata Tall Sall of\_Senegal"

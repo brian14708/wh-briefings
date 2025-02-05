@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-10-19'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-people-and-communities-across-the-country/
 published_time: 2021-10-19 12:41:05-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black People and Communities Across the\_Country"
@@ -19,7 +19,7 @@ not only undermine the American promise of equal opportunity, but also
 keep our entire nation from reaching its potential.  
   
 Today, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/19/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black-americans/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/19/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-black-americans/)
 on the White House Initiative on Advancing Educational Equity,
 Excellence, and Economic Opportunity for Black Americans. This is just
 the latest action taken by President Biden and Vice President Harris to
@@ -43,10 +43,10 @@ discrimination. These transformative policies and programs include:
 
 -   ***Providing Immediate Relief to Black People and Families through
     the American Rescue Plan**.*** The
-    [ARP](https://www.whitehouse.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf)
+    [ARP](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf)
     provides cash relief directly to low- and middle-income Americans,
     and is projected to cut the Black child poverty rate by [more than
-    50%](https://www.whitehouse.gov/briefing-room/blog/2021/03/23/covid-19-has-exacerbated-the-economic-inequality-and-caregiving-crisis-facing-women-of-color-heres-how-the-american-rescue-plan-helps/)
+    50%](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/03/23/covid-19-has-exacerbated-the-economic-inequality-and-caregiving-crisis-facing-women-of-color-heres-how-the-american-rescue-plan-helps/)
     this year and has already [cut Black child poverty by
     40.1%](https://static1.squarespace.com/static/5743308460b5e922a25a6dc7/t/612014f2e6deed08adb03e18/1629492468260/Monthly-Poverty-with-CTC-July-CPSP-2021.pdf),
     lifting approximately 420,000 Black children out of poverty between
@@ -132,7 +132,7 @@ discrimination. These transformative policies and programs include:
 Education.** As we continue to recover from the COVID-19 pandemic,
 President Biden has delivered the support necessary to enable every
 school to [safely
-reopen](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/#:~:text=The%20President%20made%20clear%20on%20Day%20One%20of,Services%20to%20safely%20reopen%20schools%20for%20in-person%20instruction)
+reopen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/02/fact-sheet-reopening-schools-and-rebuilding-with-equity/#:~:text=The%20President%20made%20clear%20on%20Day%20One%20of,Services%20to%20safely%20reopen%20schools%20for%20in-person%20instruction)
 for full-time, in-person instruction; accelerate academic achievement;
 address the mental health needs of students; and build school
 communities where all students feel they belong. At the same time,
@@ -173,7 +173,7 @@ education for Black students. These policies and programs include:
         relief to 45 HBCUs, including 13 public institutions and 32
         private institutions.
     -   President Biden signed an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
         establishing the White House Initiative on Advancing Educational
         Equity, Opportunity, and Excellence through HBCUs, which will
         create a government-wide approach to support the needs of HBCUs
@@ -212,7 +212,7 @@ policies and programs include:
     mortality and morbidity that disproportionately impact Black mothers
     and families.  In April, President Biden issued the first ever
     [Presidential Proclamation on Black Maternal Health
-    Week](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/),
+    Week](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/),
     calling on all Americans to recognize the importance of addressing
     the crisis of Black maternal mortality and morbidity.  In addition,
     the President’s FY 22 budget request includes more than $200 million
@@ -253,9 +253,9 @@ policies and programs include:
         color, and more than 75% of people vaccinated at Community
         Health Centers are people of color.  
     -   In January, President Biden
-        [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
+        [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
         an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/)
         on Ensuring an Equitable Pandemic Response and Recovery,
         creating a COVID-19 Health Equity Task Force to provide specific
         recommendations to the President for mitigating the health
@@ -391,13 +391,13 @@ Access to Justice.** These policies and programs include:
     officials and election workers.
 -   ***Signing Executive Order Promoting Access to Voter Registration
     and Voting.*** On the anniversary of Bloody Sunday, President Biden
-    [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     to leverage the resources of the federal government to provide
     access to voter registration. Agencies across the federal government
     have [announced
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
     they are taking to respond to the President’s call for an
     all-of-government action to enhance the ability of all eligible
     Americans to participate in our democracy.
@@ -409,7 +409,7 @@ Access to Justice.** These policies and programs include:
     prisons and courts.
 -   ***Issuing a Presidential Memorandum on Access to Justice.***
     President Biden issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-president-biden-to-sign-presidential-memorandum-to-expand-access-to-legal-representation-and-the-courts/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/18/fact-sheet-president-biden-to-sign-presidential-memorandum-to-expand-access-to-legal-representation-and-the-courts/)
     requiring the Attorney General to submit a plan to expand the
     Justice Department’s access to justice work, and reinvigorating the
     White House Legal Aid Interagency Roundtable to identify ways to
@@ -464,7 +464,7 @@ include: 
     teachers. And they have lower college completion rates and higher
     student loan debt burdens than their white peers. The President has
     outlined a [far-reaching
-    agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/)
+    agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/)
     that will transform public education, advancing equity for Black
     students and prepare all students to succeed.
     -   The President’s proposed Build Back Better Plan would provide

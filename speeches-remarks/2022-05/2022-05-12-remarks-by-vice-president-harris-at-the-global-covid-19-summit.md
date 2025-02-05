@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 11:08:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/12/remarks-by-vice-president-harris-at-the-global-covid-19-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/12/remarks-by-vice-president-harris-at-the-global-covid-19-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Global Covid-19\_Summit"
 ---

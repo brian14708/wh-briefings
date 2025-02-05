@@ -2,7 +2,7 @@
 date: '2024-10-04'
 modified_time: 2024-10-04 15:29:31-04:00
 published_time: 2024-10-04 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/the-white-house-announces-2024-fall-garden-tours/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/04/the-white-house-announces-2024-fall-garden-tours/
 tags: statements-releases
 title: "The White\_House Announces 2024 Fall Garden\_Tours"
 ---

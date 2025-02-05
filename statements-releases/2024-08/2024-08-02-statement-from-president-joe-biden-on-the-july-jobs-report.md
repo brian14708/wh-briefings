@@ -2,7 +2,7 @@
 date: '2024-08-02'
 modified_time: 2024-08-02 09:23:22-04:00
 published_time: 2024-08-02 09:23:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/02/statement-from-president-joe-biden-on-the-july-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/02/statement-from-president-joe-biden-on-the-july-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the July Jobs\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2023-04-05'
 modified_time: 2023-04-04 21:50:55-04:00
 published_time: 2023-04-05 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/05/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-the-united-kingdom-and-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/05/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-the-united-kingdom-and-ireland/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to the United Kingdom and\_Ireland"

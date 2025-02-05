@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 15:11:13-04:00
 published_time: 2022-07-16 15:11:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/background-press-call-previewing-day-four-of-the-presidents-trip-to-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/background-press-call-previewing-day-four-of-the-presidents-trip-to-the-middle-east/
 tags: statements-releases
 title: "Background Press Call Previewing Day Four of the President\u2019s Trip to\
   \ the Middle\_East"

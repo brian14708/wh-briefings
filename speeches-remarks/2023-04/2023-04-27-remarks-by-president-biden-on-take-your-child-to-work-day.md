@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 16:00:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-on-take-your-child-to-work-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-on-take-your-child-to-work-day/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Take Your Child to Work\_Day"
 ---

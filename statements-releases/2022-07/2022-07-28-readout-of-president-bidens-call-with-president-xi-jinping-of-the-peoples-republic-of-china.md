@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-28 16:10:36-04:00
 published_time: 2022-07-28 13:37:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/readout-of-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/readout-of-president-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/
 tags: statements-releases
 title: "Readout of\_President\_Biden\u2019s Call with President Xi Jinping of the\
   \ People\u2019s Republic of\_China"

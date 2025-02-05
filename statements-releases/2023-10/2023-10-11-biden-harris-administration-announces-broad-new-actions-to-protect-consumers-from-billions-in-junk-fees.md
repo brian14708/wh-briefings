@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 08:26:03-04:00
 published_time: 2023-10-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/biden-harris-administration-announces-broad-new-actions-to-protect-consumers-from-billions-in-junk-fees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/biden-harris-administration-announces-broad-new-actions-to-protect-consumers-from-billions-in-junk-fees/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Broad New Actions to Protect Consumers\
   \ From Billions in Junk\_Fees"
@@ -19,16 +19,16 @@ fees that companies sneak onto customer bills, increasing costs and
 stifling competition in industries across the economy. Last year, as
 part of his agenda to increase competition following his [Executive
 Order on Promoting
-Competition](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/),
+Competition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/),
 President Biden called on [federal
-agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
+agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/),
 Congress, and private companies to crack down on junk fees and provide
 consumers with the full price up front.  
   
 Junk fees cost American families tens of billions of dollars each year
 and inhibit competition, hurting consumers, workers, small businesses,
 and
-entrepreneurs. [Research ](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)shows
+entrepreneurs. [Research ](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)shows
 that fees charged at the back-end of the buying process make it harder
 to comparison shop for the best deal and lead to consumers paying upward
 of [twenty percent more](https://www.nber.org/papers/w25186). Junk fees
@@ -98,12 +98,12 @@ down on junk fees is already saving consumers billions of dollars:</u>**
 all-of-government approach to competition:</u>**
 
 -   The [Office of Information and Regulatory Affairs
-    (OIRA)](https://www.whitehouse.gov/omb/briefing-room/2023/10/11/promoting-competitive-markets-through-regulatory-design/) is
+    (OIRA)](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/11/promoting-competitive-markets-through-regulatory-design/) is
     publishing new guidance to help agencies better develop and analyze
     regulations with competition in mind. Developed in collaboration
     with the National Economic Council, the Council of Economic
     Advisers, and other members of the [White House Competition
-    Council](https://www.whitehouse.gov/competition/), this guidance
+    Council](https://bidenwhitehouse.archives.gov/competition/), this guidance
     will help agencies design regulations that promote competition while
     achieving other important policy goals.
 
@@ -178,9 +178,9 @@ Administration has already taken to address junk fees:</u>**
      
 -   Following the President’s calls to action, private sector companies
     in the [live event ticketing,
-    lodging](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/),
+    lodging](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/president-biden-recognizes-actions-by-private-sector-ticketing-and-travel-companies-to-eliminate-hidden-junk-fees-and-provide-millions-of-customers-with-transparent-pricing/),
     and [rental
-    housing](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/) sectors
+    housing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/) sectors
     have changed how they display prices so that the all-in price is
     more readily available to consumers.
 

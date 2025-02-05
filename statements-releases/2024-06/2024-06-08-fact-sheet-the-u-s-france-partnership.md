@@ -2,7 +2,7 @@
 date: '2024-06-08'
 modified_time: 2024-06-07 19:22:37-04:00
 published_time: 2024-06-08 02:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/08/fact-sheet-the-u-s-france-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/08/fact-sheet-the-u-s-france-partnership/
 tags: statements-releases
 title: "FACT SHEET: The U.S.-France\_Partnership"
 ---
@@ -173,7 +173,7 @@ some of which are listed here.
 
 -   The **U.S.-French Fulbright Program **c[elebrated its 75th
     anniversary in
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/joint-statement-following-the-meeting-between-president-biden-and-president-macron/).  
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/joint-statement-following-the-meeting-between-president-biden-and-president-macron/).  
 -   In December 2022, the United States and France announced
     the **Generation250 student exchange program**. Generation250 sends
     250 French students to study or intern in the United States and 250

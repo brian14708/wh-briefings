@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 07:48:31-05:00
 published_time: 2024-12-19 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-president-biden-sets-2035-climate-target-aimed-at-creating-good-paying-union-jobs-reducing-costs-for-all-americans-and-securing-u-s-leadership-in-the-clean-energy-economy-of-the-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-president-biden-sets-2035-climate-target-aimed-at-creating-good-paying-union-jobs-reducing-costs-for-all-americans-and-securing-u-s-leadership-in-the-clean-energy-economy-of-the-future/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Sets 2035 Climate Target Aimed at Creating Good-Paying\
   \ Union Jobs, Reducing Costs for All Americans, and Securing U.S. Leadership in\
@@ -86,34 +86,34 @@ Biden-Harris climate agenda continues to drive a wide range of
 investments in clean energy deployment and manufacturing in the years
 ahead. Examples include:
 
--   [**Arizona**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Arizona-IIA-State-Fact-Sheet.pdf)
+-   [**Arizona**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Arizona-IIA-State-Fact-Sheet.pdf)
     has added over 370,000 new jobs, and unleashed more than $120
     billion in private sector investment. Investments include $5.5
     billion to build a battery facility outside Phoenix that will
     produce batteries for 350,000 electric vehicles per year.
--   [**California**](https://www.whitehouse.gov/wp-content/uploads/2024/05/California-IIA-State-Fact-Sheet.pdf)
+-   [**California**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/California-IIA-State-Fact-Sheet.pdf)
     has added over two million new jobs and more than $45 billion in
     private sector manufacturing and clean energy investment, including
     a $4 billion Gigafactory to produce lithium-ion batteries in
     Imperial Valley.
--   [**Georgia**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Georgia-IIA-State-Fact-Sheet.pdf)
+-   [**Georgia**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Georgia-IIA-State-Fact-Sheet.pdf)
     has added nearly half a million new jobs and mobilized more than $40
     billion in private sector investment. Qcells is investing $2.5
     billion to expand its solar panel and component manufacturing
     capacity in Dalton and Cartersville.
--   [**Maryland**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Maryland-IIA-State-Fact-Sheet.pdf)
+-   [**Maryland**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Maryland-IIA-State-Fact-Sheet.pdf)
     has added over 160,000 new jobs, and attracted more than $2.7
     billion in private sector investment, including a $350 million
     investment from Constellation Energy to increase the output and
     lifespan of its renewable energy portfolio.
--   [**Pennsylvania**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Pennsylvania-IIA-State-Fact-Sheet.pdf)
+-   [**Pennsylvania**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Pennsylvania-IIA-State-Fact-Sheet.pdf)
     has added more than 560,000 new jobs and unleashed nearly $4.3
     billion in private sector investment, including a $500 million
     investment by Eos Energy Enterprises to expand battery manufacturing
     operations in Turtle Creek, supported by a [loan guarantee from
     DOE’s Loan Programs
     Office](https://www.energy.gov/articles/biden-harris-administration-announces-3035-million-loan-guarantee-eos-energy-enterprises-0).
--   [**Wisconsin**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Wisconsin-IIA-State-Fact-Sheet.pdf)
+-   [**Wisconsin**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Wisconsin-IIA-State-Fact-Sheet.pdf)
     has added more than 188,000 new jobs and $5.4 billion in private
     sector manufacturing and clean energy investments, including $426
     million for the state’s first large-scale solar and battery storage
@@ -212,7 +212,7 @@ revolution irreversible, including:
 -   **Energy Efficiency**. Improvements in energy efficiency can cut
     pollution and save Americans on their energy and water bills. The
     Biden-Harris Administration has [strengthened energy efficiency
-    standards](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/) to
+    standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/) to
     save households and businesses money, with standards updated by DOE
     for dozens of
     appliances [expected](https://www.energy.gov/articles/doe-finalizes-four-consensus-based-efficiency-standards-save-americans-billions-utility) to
@@ -298,7 +298,7 @@ revolution irreversible, including:
     business leaders, states, and communities, the Federal Government’s
     300,000 buildings, 600,000 vehicles, and $750 billion in annual
     procurement power will continue to be [more sustainable and
-    resilient](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-%E2%81%A0harris-administration-leads-by-example-leveraging-the-federal-government-to-catalyze-clean-energy-jobs-and-cut-costs-and-pollution/)
+    resilient](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-%E2%81%A0harris-administration-leads-by-example-leveraging-the-federal-government-to-catalyze-clean-energy-jobs-and-cut-costs-and-pollution/)
     while supporting good jobs, cutting costs, and saving taxpayers
     money.
 

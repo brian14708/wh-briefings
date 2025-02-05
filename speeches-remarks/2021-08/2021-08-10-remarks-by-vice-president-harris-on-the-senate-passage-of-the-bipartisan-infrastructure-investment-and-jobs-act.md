@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-08-10'
 modified_time: 2021-09-07 12:53:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-vice-president-harris-on-the-senate-passage-of-the-bipartisan-infrastructure-investment-and-jobs-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-vice-president-harris-on-the-senate-passage-of-the-bipartisan-infrastructure-investment-and-jobs-act/
 published_time: 2021-08-10 16:28:00-04:00
 title: "Remarks by Vice President Harris on the Senate Passage of the Bipartisan Infrastructure\
   \ Investment and Jobs\_Act"

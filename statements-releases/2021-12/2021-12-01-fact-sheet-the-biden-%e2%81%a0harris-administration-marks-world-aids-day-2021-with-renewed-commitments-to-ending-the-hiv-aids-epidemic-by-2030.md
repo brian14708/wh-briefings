@@ -2,14 +2,14 @@
 tags: statements-releases
 date: '2021-12-01'
 modified_time: 2021-12-01 10:51:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/01/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-world-aids-day-2021-with-renewed-commitments-to-ending-the-hiv-aids-epidemic-by-2030/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/01/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-world-aids-day-2021-with-renewed-commitments-to-ending-the-hiv-aids-epidemic-by-2030/
 published_time: 2021-12-01 05:00:00-05:00
 title: "Fact Sheet: The Biden-\u2060Harris Administration Marks World AIDS Day 2021\
   \ With Renewed Commitments to Ending the HIV/AIDS Epidemic by\_2030"
 ---
  
 Today, President Biden
-[commemorated](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/30/a-proclamation-on-world-aids-day-2021/)
+[commemorated](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/30/a-proclamation-on-world-aids-day-2021/)
 World AIDS Day and renewed the U.S. government’s bipartisan and
 decades-long commitment to ending the HIV epidemic at home and around
 the world. In the face of the COVID-19 pandemic that has impacted every
@@ -51,7 +51,7 @@ comprehensive HIV/AIDS strategy to “aggressively reduce new HIV cases,
 while increasing access to treatment and eliminating inequitable access
 to medical and support services.” Today, President Biden is honoring
 that commitment by releasing a new [National HIV/AIDS
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf)
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/National-HIV-AIDS-Strategy.pdf)
 to provide the framework and direction for the Administration’s
 policies, research, programs, and planning through 2025 and lead us
 toward ending the HIV epidemic in the United States by 2030. The new

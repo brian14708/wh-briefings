@@ -1,7 +1,7 @@
 ---
 date: '2024-10-21'
 published_time: 2024-10-21 17:33:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/21/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/21/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-8/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Nebraska Disaster\_Declaration"
 ---

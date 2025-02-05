@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 20:26:29-05:00
 published_time: 2022-11-15 20:26:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/15/background-press-call-by-senior-administration-officials-previewing-vice-president-harriss-trip-to-thailand-and-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/15/background-press-call-by-senior-administration-officials-previewing-vice-president-harriss-trip-to-thailand-and-the-philippines/
 tags: press-briefings
 title: "Background Press Call By Senior Administration Officials\_Previewing Vice\
   \ President Harris\u2019s Trip\_To Thailand and the\_Philippines"

@@ -2,7 +2,7 @@
 date: '2022-07-02'
 modified_time: 2022-07-01 19:48:47-04:00
 published_time: 2022-07-02 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/02/statement-by-president-joseph-r-biden-jr-on-national-wildland-firefighter-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/02/statement-by-president-joseph-r-biden-jr-on-national-wildland-firefighter-day/
 tags: statements-releases
 title: "Statement by President Joseph R. Biden, Jr. on National Wildland Firefighter\_\
   Day"
@@ -31,11 +31,11 @@ dangerous.   
 
 That’s why my Administration continues to make supporting this workforce
 a top priority.  [Building on what I initiated last
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/),
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/),
 the Bipartisan Infrastructure Law authorized historic new initiatives
 and resources for wildland firefighters that we are implementing now.
 [This includes a substantial
-pay](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/fact-sheet-biden-harris-administration-announces-new-pay-raises-supports-for-wildland-firefighter-workforce-from-bipartisan-infrastructure-law/)
+pay](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/fact-sheet-biden-harris-administration-announces-new-pay-raises-supports-for-wildland-firefighter-workforce-from-bipartisan-infrastructure-law/)
 increase, new programs to support wildland firefighter mental and
 physical health, and the creation of a wildland firefighter job series
 that will improve recruitment, retention, and opportunities for

@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 14:54:50-04:00
 published_time: 2022-05-12 14:54:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-after-senate-confirmation-of-federal-reserve-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-after-senate-confirmation-of-federal-reserve-nominees/
 tags: statements-releases
 title: "Statement from President\_Biden after Senate Confirmation of Federal Reserve\_\
   Nominees"

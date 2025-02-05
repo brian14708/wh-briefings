@@ -2,7 +2,7 @@
 date: '2023-08-15'
 modified_time: 2023-08-15 00:04:19-04:00
 published_time: 2023-08-15 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/15/fact-sheet-biden-harris-administrations-response-to-the-maui-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/15/fact-sheet-biden-harris-administrations-response-to-the-maui-wildfires/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Response to the Maui\_\
   Wildfires"
@@ -20,7 +20,7 @@ local partners on the ground to assess ongoing needs and providing
 resources and personnel to support response efforts.  
   
 Last Thursday, within hours of the devastating fires, President
-Biden [signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/) a
+Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/) a
 Major Disaster Declaration for Hawaii, and as President Biden told
 Governor Josh Green, the Federal Government stands ready to provide
 additional assistance to ensure the state recovers. This weekend, FEMA

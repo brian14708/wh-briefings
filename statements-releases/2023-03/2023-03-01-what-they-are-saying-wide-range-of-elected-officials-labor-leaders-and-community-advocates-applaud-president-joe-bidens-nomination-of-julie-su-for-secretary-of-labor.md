@@ -2,7 +2,7 @@
 date: '2023-03-01'
 modified_time: 2023-03-06 15:47:33-05:00
 published_time: 2023-03-01 15:52:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/01/what-they-are-saying-wide-range-of-elected-officials-labor-leaders-and-community-advocates-applaud-president-joe-bidens-nomination-of-julie-su-for-secretary-of-labor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/01/what-they-are-saying-wide-range-of-elected-officials-labor-leaders-and-community-advocates-applaud-president-joe-bidens-nomination-of-julie-su-for-secretary-of-labor/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Wide Range of Elected Officials, Labor Leaders and Community\
   \ Advocates Applaud President Joe\_Biden\u2019s Nomination of Julie Su for Secretary\

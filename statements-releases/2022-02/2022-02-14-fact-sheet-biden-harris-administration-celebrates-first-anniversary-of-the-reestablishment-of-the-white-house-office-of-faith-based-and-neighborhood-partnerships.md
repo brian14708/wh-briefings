@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-14'
 modified_time: 2022-02-14 13:30:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 published_time: 2022-02-14 13:30:46-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversary\
   \ of the Reestablishment of the White\_House Office of Faith-Based and Neighborhood\_\
@@ -13,7 +13,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversa
 collaborations expected in the year ahead *
 
 A [year ago
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/),
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships/),
 President Biden signed an executive order reestablishing the White House
 Office of Faith-Based and Neighborhood Partnerships and urged the Office
 to “work with leaders of different faiths and backgrounds who are the
@@ -228,17 +228,17 @@ Without Fear**
     Committee to address increased threats and acts of violence against
     houses of worship.
 -   Strengthened the federal workforce with President Biden’s [executive
-    order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+    order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
     promoting diversity, equity, inclusion and accessibility, including
     on the basis of religion.
 -   President Biden [raised the refugee
-    ceiling](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/memorandum-for-the-secretary-of-state-on-presidential-determination-on-refugee-admissions-for-fiscal-year-2022/)
+    ceiling](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/08/memorandum-for-the-secretary-of-state-on-presidential-determination-on-refugee-admissions-for-fiscal-year-2022/)
     from historic lows to 125,000 for FY 2022 and expanded the
     categories of those eligible to participate in the program, enabling
     many more persecuted people, including people persecuted because of
     their faith and beliefs, to find a home here in the United States.
 -   [Demonstrated
-    commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-intent-to-nominate-and-appoint-leaders-to-serve-in-key-religious-affairs-roles/)
+    commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/30/president-biden-announces-intent-to-nominate-and-appoint-leaders-to-serve-in-key-religious-affairs-roles/)
     to advancing religious freedom around the globe with President
     Biden’s nomination of Ambassador at Large for International
     Religious Freedom Rashad Hussain, who was [overwhelmingly
@@ -250,13 +250,13 @@ Without Fear**
     Special Envoy to Monitor and Combat Anti-Semitism with the Rank of
     Ambassador.
 -   Marked holidays celebrated by
-    [Buddhist](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-biden-on-vesak/),
-    [Christian](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/orthodox-christmas-statement/),
-    [Hindu](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/statement-of-president-joe-biden-and-first-lady-jill-biden-on-diwali/),
-    [Jain](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/04/statement-of-president-joe-biden-and-first-lady-jill-biden-on-diwali/),
-    [Jewish](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/28/statement-by-president-joe-biden-on-hanukkah/),
-    [Muslim](https://www.whitehouse.gov/?s=eid),
-    [Sikh](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/19/statement-of-president-joe-biden-on-the-anniversary-of-guru-nanak-dev-jis-birth/),
+    [Buddhist](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/26/statement-by-president-biden-on-vesak/),
+    [Christian](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/07/orthodox-christmas-statement/),
+    [Hindu](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/04/statement-of-president-joe-biden-and-first-lady-jill-biden-on-diwali/),
+    [Jain](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/04/statement-of-president-joe-biden-and-first-lady-jill-biden-on-diwali/),
+    [Jewish](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/28/statement-by-president-joe-biden-on-hanukkah/),
+    [Muslim](https://bidenwhitehouse.archives.gov/?s=eid),
+    [Sikh](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/19/statement-of-president-joe-biden-on-the-anniversary-of-guru-nanak-dev-jis-birth/),
     and other communities, including hosting the first-ever virtual
     Passover, Easter, and Eid White House events that were open to the
     public and included the participation of both the President and
@@ -309,7 +309,7 @@ Without Fear**
 **Working with Faith and Community Groups to Protect Our Environment**  
 
 -   Prepared to implement [a new
-    program](https://www.whitehouse.gov/build/) that will [help
+    program](https://bidenwhitehouse.archives.gov/build/) that will [help
     nonprofits and religious
     institutions](https://thehill.com/policy/equilibrium-sustainability/582041-religious-institutions-say-infrastructure-funds-will-help)
     upgrade churches, synagogues, mosques, and community centers to

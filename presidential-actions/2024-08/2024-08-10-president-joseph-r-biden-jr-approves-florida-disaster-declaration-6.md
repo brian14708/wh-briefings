@@ -2,7 +2,7 @@
 date: '2024-08-10'
 modified_time: 2024-08-10 21:25:12-04:00
 published_time: 2024-08-10 21:25:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/10/president-joseph-r-biden-jr-approves-florida-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/10/president-joseph-r-biden-jr-approves-florida-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Florida Disaster\_Declaration"
 ---

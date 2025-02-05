@@ -2,7 +2,7 @@
 date: '2024-07-05'
 modified_time: 2024-07-06 16:10:02-04:00
 published_time: 2024-07-05 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/05/remarks-by-president-biden-at-a-campaign-event-madison-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/05/remarks-by-president-biden-at-a-campaign-event-madison-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Madison,\_WI"
 ---

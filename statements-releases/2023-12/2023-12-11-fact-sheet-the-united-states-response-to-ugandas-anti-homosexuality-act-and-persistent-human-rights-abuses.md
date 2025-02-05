@@ -1,7 +1,7 @@
 ---
 date: '2023-12-11'
 published_time: 2023-12-11 14:47:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/
 tags: statements-releases
 title: "FACT SHEET: The United\_States Response to Uganda\u2019s Anti-Homosexuality\
   \ Act and Persistent Human Rights\_Abuses"

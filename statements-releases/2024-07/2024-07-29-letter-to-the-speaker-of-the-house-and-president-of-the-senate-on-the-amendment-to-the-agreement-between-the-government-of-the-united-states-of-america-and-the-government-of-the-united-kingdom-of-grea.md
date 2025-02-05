@@ -1,7 +1,7 @@
 ---
 date: '2024-07-29'
 published_time: 2024-07-29 17:45:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-amendment-to-the-agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-united-kingdom-of-grea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-amendment-to-the-agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-united-kingdom-of-grea/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President of the Senate on the Amendment\
   \ to the Agreement Between the Government of the United\_States of America and the\

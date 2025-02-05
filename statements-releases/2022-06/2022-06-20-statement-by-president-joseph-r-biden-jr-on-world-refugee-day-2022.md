@@ -1,7 +1,7 @@
 ---
 date: '2022-06-20'
 published_time: 2022-06-20 09:52:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/20/statement-by-president-joseph-r-biden-jr-on-world-refugee-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/20/statement-by-president-joseph-r-biden-jr-on-world-refugee-day-2022/
 tags: statements-releases
 title: "Statement by President Joseph R. Biden, Jr. on World Refugee Day\_2022"
 ---

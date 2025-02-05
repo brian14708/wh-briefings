@@ -1,7 +1,7 @@
 ---
 date: '2023-06-13'
 published_time: 2023-06-13 16:12:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/13/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and NATO Secretary General Jens Stoltenberg Before\
   \ Bilateral\_Meeting"

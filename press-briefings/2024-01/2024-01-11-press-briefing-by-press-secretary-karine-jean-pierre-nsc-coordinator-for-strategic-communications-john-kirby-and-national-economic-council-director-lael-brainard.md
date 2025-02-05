@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 18:54:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/11/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-national-economic-council-director-lael-brainard/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/11/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-national-economic-council-director-lael-brainard/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, NSC Coordinator For\
   \ Strategic Communications John Kirby, and National Economic Council Director Lael\_\

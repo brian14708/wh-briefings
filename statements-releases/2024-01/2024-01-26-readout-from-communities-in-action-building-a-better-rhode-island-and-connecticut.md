@@ -1,7 +1,7 @@
 ---
 date: '2024-01-26'
 published_time: 2024-01-26 15:32:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/readout-from-communities-in-action-building-a-better-rhode-island-and-connecticut/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/readout-from-communities-in-action-building-a-better-rhode-island-and-connecticut/
 tags: statements-releases
 title: "Readout from Communities in Action: Building a Better Rhode Island and\_Connecticut"
 ---

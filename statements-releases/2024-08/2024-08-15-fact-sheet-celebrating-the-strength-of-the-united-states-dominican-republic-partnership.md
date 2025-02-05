@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-15 17:21:27-04:00
 published_time: 2024-08-15 17:21:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-celebrating-the-strength-of-the-united-states-dominican-republic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-celebrating-the-strength-of-the-united-states-dominican-republic-partnership/
 tags: statements-releases
 title: "Fact Sheet: Celebrating the Strength of the United\_States-Dominican Republic\_\
   Partnership"

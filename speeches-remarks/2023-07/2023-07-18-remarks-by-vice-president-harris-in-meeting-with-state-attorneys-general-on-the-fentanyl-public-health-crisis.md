@@ -1,7 +1,7 @@
 ---
 date: '2023-07-18'
 published_time: 2023-07-18 14:34:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/18/remarks-by-vice-president-harris-in-meeting-with-state-attorneys-general-on-the-fentanyl-public-health-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/18/remarks-by-vice-president-harris-in-meeting-with-state-attorneys-general-on-the-fentanyl-public-health-crisis/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Meeting with State Attorneys General on\
   \ the Fentanyl Public Health\_Crisis"

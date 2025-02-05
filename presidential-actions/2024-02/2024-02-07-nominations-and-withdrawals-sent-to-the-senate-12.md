@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 13:38:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/07/nominations-and-withdrawals-sent-to-the-senate-12/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/07/nominations-and-withdrawals-sent-to-the-senate-12/
 tags: presidential-actions
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---

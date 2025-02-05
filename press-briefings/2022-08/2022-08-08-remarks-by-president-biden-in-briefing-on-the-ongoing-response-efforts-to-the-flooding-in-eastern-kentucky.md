@@ -2,7 +2,7 @@
 date: '2022-08-08'
 modified_time: 2022-08-09 13:34:05-04:00
 published_time: 2022-08-08 13:33:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/08/remarks-by-president-biden-in-briefing-on-the-ongoing-response-efforts-to-the-flooding-in-eastern-kentucky/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/08/remarks-by-president-biden-in-briefing-on-the-ongoing-response-efforts-to-the-flooding-in-eastern-kentucky/
 tags: press-briefings
 title: "Remarks by President\_Biden In Briefing on The Ongoing Response Efforts to\
   \ the Flooding in Eastern\_Kentucky"

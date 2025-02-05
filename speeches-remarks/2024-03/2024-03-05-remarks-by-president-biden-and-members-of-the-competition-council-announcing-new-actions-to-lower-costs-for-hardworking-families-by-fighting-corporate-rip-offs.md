@@ -2,7 +2,7 @@
 date: '2024-03-05'
 modified_time: 2024-03-05 17:35:16-05:00
 published_time: 2024-03-05 17:35:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/05/remarks-by-president-biden-and-members-of-the-competition-council-announcing-new-actions-to-lower-costs-for-hardworking-families-by-fighting-corporate-rip-offs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/05/remarks-by-president-biden-and-members-of-the-competition-council-announcing-new-actions-to-lower-costs-for-hardworking-families-by-fighting-corporate-rip-offs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Members of the Competition Council Announcing\
   \ New Actions to Lower Costs for Hardworking Families by Fighting Corporate\_Rip-offs"

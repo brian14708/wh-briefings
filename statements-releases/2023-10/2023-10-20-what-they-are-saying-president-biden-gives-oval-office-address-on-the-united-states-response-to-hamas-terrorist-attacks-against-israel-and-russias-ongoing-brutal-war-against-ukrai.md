@@ -2,7 +2,7 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 16:27:20-04:00
 published_time: 2023-10-20 16:27:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/what-they-are-saying-president-biden-gives-oval-office-address-on-the-united-states-response-to-hamas-terrorist-attacks-against-israel-and-russias-ongoing-brutal-war-against-ukrai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/what-they-are-saying-president-biden-gives-oval-office-address-on-the-united-states-response-to-hamas-terrorist-attacks-against-israel-and-russias-ongoing-brutal-war-against-ukrai/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Gives Oval Office Address on the United\_\
   States\u2019 Response to Hamas\u2019 Terrorist Attacks Against Israel and Russia\u2019\

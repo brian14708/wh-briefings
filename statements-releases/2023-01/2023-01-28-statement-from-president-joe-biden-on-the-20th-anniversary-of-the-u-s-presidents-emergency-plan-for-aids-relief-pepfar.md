@@ -2,7 +2,7 @@
 date: '2023-01-28'
 modified_time: 2023-01-28 12:37:37-05:00
 published_time: 2023-01-28 12:37:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/28/statement-from-president-joe-biden-on-the-20th-anniversary-of-the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/28/statement-from-president-joe-biden-on-the-20th-anniversary-of-the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 20th Anniversary of the U.S. President\u2019\
   s Emergency Plan for AIDS Relief\_(PEPFAR)"

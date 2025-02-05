@@ -1,7 +1,7 @@
 ---
 date: '2023-01-31'
 published_time: 2023-01-31 11:15:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/31/memorandum-on-fourteenth-quadrennial-review-of-military-compensation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/31/memorandum-on-fourteenth-quadrennial-review-of-military-compensation/
 tags: presidential-actions
 title: "Memorandum on Fourteenth Quadrennial Review of Military\_Compensation"
 ---

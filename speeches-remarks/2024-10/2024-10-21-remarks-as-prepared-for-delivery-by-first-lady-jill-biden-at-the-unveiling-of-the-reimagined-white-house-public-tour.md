@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-21 13:53:40-04:00
 published_time: 2024-10-21 13:53:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unveiling-of-the-reimagined-white-house-public-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-unveiling-of-the-reimagined-white-house-public-tour/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Unveiling\
   \ of the Reimagined White\_House Public\_Tour"

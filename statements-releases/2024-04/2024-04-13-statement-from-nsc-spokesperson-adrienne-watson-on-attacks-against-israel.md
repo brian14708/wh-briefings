@@ -1,7 +1,7 @@
 ---
 date: '2024-04-13'
 published_time: 2024-04-13 16:29:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/13/statement-from-nsc-spokesperson-adrienne-watson-on-attacks-against-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/13/statement-from-nsc-spokesperson-adrienne-watson-on-attacks-against-israel/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Attacks Against\_Israel"
 ---

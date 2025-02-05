@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 10:18:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/first-lady-jill-biden-announces-new-virtual-white-house-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/first-lady-jill-biden-announces-new-virtual-white-house-tour/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces New Virtual White\_House\_Tour"
 ---

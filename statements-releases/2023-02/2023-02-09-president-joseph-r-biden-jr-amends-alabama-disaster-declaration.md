@@ -1,7 +1,7 @@
 ---
 date: '2023-02-09'
 published_time: 2023-02-09 16:08:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/09/president-joseph-r-biden-jr-amends-alabama-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/09/president-joseph-r-biden-jr-amends-alabama-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends Alabama Disaster\_Declaration"
 ---

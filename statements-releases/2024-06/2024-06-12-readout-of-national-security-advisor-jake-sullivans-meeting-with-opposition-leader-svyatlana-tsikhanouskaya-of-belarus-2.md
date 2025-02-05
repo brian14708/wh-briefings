@@ -2,7 +2,7 @@
 date: '2024-06-12'
 modified_time: 2024-06-12 08:54:07-04:00
 published_time: 2024-06-12 08:54:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/12/readout-of-national-security-advisor-jake-sullivans-meeting-with-opposition-leader-svyatlana-tsikhanouskaya-of-belarus-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/12/readout-of-national-security-advisor-jake-sullivans-meeting-with-opposition-leader-svyatlana-tsikhanouskaya-of-belarus-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Opposition\
   \ Leader Svyatlana Tsikhanouskaya of\_Belarus"

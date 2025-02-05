@@ -1,7 +1,7 @@
 ---
 date: '2024-05-16'
 published_time: 2024-05-16 14:01:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/statement-from-vice-president-kamala-harris-on-the-biden-harris-administrations-historic-investments-in-hbcus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/statement-from-vice-president-kamala-harris-on-the-biden-harris-administrations-historic-investments-in-hbcus/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Biden-\u2060Harris Administration\u2019\
   s Historic Investments in\_HBCUs"

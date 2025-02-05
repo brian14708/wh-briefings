@@ -1,7 +1,7 @@
 ---
 date: '2024-06-14'
 published_time: 2024-06-14 13:42:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/14/fact-sheet-the-2024-g7-summit-in-apulia-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/14/fact-sheet-the-2024-g7-summit-in-apulia-italy/
 tags: statements-releases
 title: "FACT SHEET: The 2024 G7 Summit in Apulia,\_Italy"
 ---
@@ -51,7 +51,7 @@ unmistakable signal to Putin that he will not outlast our resolve. 
 -   **Supporting Ukraine Now and in the Future.**  In Puglia, President
     Biden and President Zelensky signed the [U.S.-Ukraine Bilateral
     Security
-    Agreement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-u-s-ukraine-bilateral-security-agreement/)
+    Agreement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-u-s-ukraine-bilateral-security-agreement/)
     as a demonstration of enduring U.S. support for Ukraine, including
     through binding commitments to deepen our security and defense
     cooperation and to consult in the event of a future armed attack.
@@ -139,7 +139,7 @@ Goals.
 -   **Delivering on the Partnership for Global Infrastructure and
     Investment (PGI): ** President Biden and Italian Prime Minister
     Meloni co-hosted a [PGI side
-    event](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/g7-partnership-for-global-infrastructure-and-investment-side-event-co-chair-statement/)
+    event](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/g7-partnership-for-global-infrastructure-and-investment-side-event-co-chair-statement/)
     that included participation by BlackRock Chairman and CEO Larry Fink
     and Microsoft Chairman and CEO Satya Nadella.  G7 leaders and
     private sector executives reaffirmed their commitment to unlocking
@@ -152,7 +152,7 @@ Goals.
     corridors, including the Lobito Corridor in Sub-Saharan Africa and
     the Luzon Corridor in the Philippines.  The United States has
     [mobilized more than $60 billion to date towards
-    PGI.](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/)
+    PGI.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/)
 
 **Accelerating the Clean Energy Transition to Address Climate Change**  
   

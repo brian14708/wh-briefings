@@ -1,7 +1,7 @@
 ---
 date: '2023-06-12'
 published_time: 2023-06-12 17:20:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-military-womens-memorial-celebrating-75-years-of-women-serving-in-the-united-states-armed-forces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-military-womens-memorial-celebrating-75-years-of-women-serving-in-the-united-states-armed-forces/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Military\
   \ Women\u2019s Memorial Celebrating 75 Years of Women Serving in the United\_States\

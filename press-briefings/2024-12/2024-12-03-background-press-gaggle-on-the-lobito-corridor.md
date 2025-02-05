@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-04 07:09:52-05:00
 published_time: 2024-12-03 23:56:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/03/background-press-gaggle-on-the-lobito-corridor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/03/background-press-gaggle-on-the-lobito-corridor/
 tags: press-briefings
 title: "Background Press Gaggle by a Senior Administration Official on the Lobito\
   \ Trans-Africa\_Corridor"

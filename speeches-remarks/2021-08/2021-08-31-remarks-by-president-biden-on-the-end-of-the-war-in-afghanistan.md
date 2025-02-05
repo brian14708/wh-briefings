@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-08-31'
 modified_time: 2021-08-31 19:04:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/31/remarks-by-president-biden-on-the-end-of-the-war-in-afghanistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/08/31/remarks-by-president-biden-on-the-end-of-the-war-in-afghanistan/
 published_time: 2021-08-31 18:33:48-04:00
 title: "Remarks by President\_Biden on the End of the War in\_Afghanistan"
 ---

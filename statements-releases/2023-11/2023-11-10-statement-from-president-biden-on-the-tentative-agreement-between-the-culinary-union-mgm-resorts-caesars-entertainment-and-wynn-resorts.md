@@ -1,7 +1,7 @@
 ---
 date: '2023-11-10'
 published_time: 2023-11-10 18:00:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/statement-from-president-biden-on-the-tentative-agreement-between-the-culinary-union-mgm-resorts-caesars-entertainment-and-wynn-resorts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/statement-from-president-biden-on-the-tentative-agreement-between-the-culinary-union-mgm-resorts-caesars-entertainment-and-wynn-resorts/
 tags: statements-releases
 title: "Statement from President\_Biden on the Tentative Agreement Between the Culinary\
   \ Union, MGM Resorts, Caesars Entertainment, and Wynn\_Resorts"

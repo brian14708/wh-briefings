@@ -2,7 +2,7 @@
 date: '2022-07-27'
 modified_time: 2022-07-27 13:22:23-04:00
 published_time: 2022-07-27 13:22:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/27/domestic-policy-advisor-susan-rice-delivers-remarks-to-the-national-conference-on-ending-homelessness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/27/domestic-policy-advisor-susan-rice-delivers-remarks-to-the-national-conference-on-ending-homelessness/
 tags: statements-releases
 title: "Domestic Policy Advisor Susan Rice Delivers Remarks to the National Conference\
   \ on Ending\_Homelessness"

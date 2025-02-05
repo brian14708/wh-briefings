@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 16:36:51-04:00
 published_time: 2022-08-03 15:27:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/08/03/bills-signed-h-r-1057-h-r-184-and-h-r-3359/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/08/03/bills-signed-h-r-1057-h-r-184-and-h-r-3359/
 tags: legislation
 title: "Bills Signed: H.R. 1057, H.R. 1842, and H.R.\_3359"
 ---

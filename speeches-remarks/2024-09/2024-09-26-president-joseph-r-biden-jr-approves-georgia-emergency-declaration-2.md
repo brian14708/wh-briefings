@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-26 10:35:01-04:00
 published_time: 2024-09-26 10:35:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/26/president-joseph-r-biden-jr-approves-georgia-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/26/president-joseph-r-biden-jr-approves-georgia-emergency-declaration-2/
 tags: speeches-remarks
 title: "President Joseph R. Biden, Jr. Approves Georgia Emergency\_Declaration"
 ---

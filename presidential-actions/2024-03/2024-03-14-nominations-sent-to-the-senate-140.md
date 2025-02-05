@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 16:18:48-04:00
 published_time: 2024-03-14 16:18:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/14/nominations-sent-to-the-senate-140/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/14/nominations-sent-to-the-senate-140/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

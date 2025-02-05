@@ -2,7 +2,7 @@
 date: '2022-08-04'
 modified_time: 2022-08-05 10:40:52-04:00
 published_time: 2022-08-04 10:38:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/04/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-vineyard-haven-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/04/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-vineyard-haven-ma/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Democratic National Committee Finance\
   \ Event \u2013 \_Vineyard Haven,\_MA"

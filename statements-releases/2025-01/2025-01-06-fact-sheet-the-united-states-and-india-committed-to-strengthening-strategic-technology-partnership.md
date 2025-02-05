@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 11:09:10-05:00
 published_time: 2025-01-06 11:09:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-the-united-states-and-india-committed-to-strengthening-strategic-technology-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-the-united-states-and-india-committed-to-strengthening-strategic-technology-partnership/
 tags: statements-releases
 title: "FACT SHEET: The United\_States and India Committed to Strengthening Strategic\
   \ Technology\_Partnership"
@@ -31,7 +31,7 @@ telecommunications, and clean energy – we have seen the promise of our
 partnership deliver results.  Our partnership has also anchored
 multilateral work with like-minded nations from across the Indo-Pacific
 and Europe, including the [Bio-5 Biopharmaceutical Supply Chain
-Consortium](https://www.whitehouse.gov/ostp/news-updates/2024/06/25/fact-sheet-biden-harris-administrations-actions-to-advance-american-biotechnology-and-biomanufacturing/),
+Consortium](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/06/25/fact-sheet-biden-harris-administrations-actions-to-advance-american-biotechnology-and-biomanufacturing/),
 the U.S.-India-ROK Technology Trilateral, and ongoing cooperation with
 Australia and Japan through the Quad.  
   

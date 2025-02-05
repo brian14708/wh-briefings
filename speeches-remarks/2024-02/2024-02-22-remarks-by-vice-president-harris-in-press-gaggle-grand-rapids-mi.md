@@ -2,7 +2,7 @@
 date: '2024-02-22'
 modified_time: 2024-02-23 13:44:25-05:00
 published_time: 2024-02-22 21:43:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-vice-president-harris-in-press-gaggle-grand-rapids-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-vice-president-harris-in-press-gaggle-grand-rapids-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle | Grand Rapids,\_MI"
 ---

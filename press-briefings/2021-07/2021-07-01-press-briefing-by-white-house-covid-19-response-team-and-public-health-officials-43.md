@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-07-01'
 modified_time: 2021-07-02 01:14:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/07/01/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-43/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/07/01/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-43/
 published_time: 2021-07-01 23:02:59-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -528,4 +528,4 @@ We look forward to seeing everybody next week.  Thank you. 
 2:04 P.M. EDT
 
 To view the COVID Press Briefing slides, visit
-<https://www.whitehouse.gov/wp-content/uploads/2021/07/COVID-Press-Briefing_1July2021_for-transcript.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/COVID-Press-Briefing_1July2021_for-transcript.pdf>

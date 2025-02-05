@@ -1,7 +1,7 @@
 ---
 date: '2023-12-18'
 published_time: 2023-12-18 17:45:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/18/on-the-record-press-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/18/on-the-record-press-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-3/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by NSC Coordinator for Strategic Communications\
   \ John\_Kirby"

@@ -2,7 +2,7 @@
 date: '2024-03-09'
 modified_time: 2024-03-09 11:41:55-05:00
 published_time: 2024-03-09 11:41:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/03/09/press-release-bill-signed-h-r-4366/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/03/09/press-release-bill-signed-h-r-4366/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_4366"
 ---

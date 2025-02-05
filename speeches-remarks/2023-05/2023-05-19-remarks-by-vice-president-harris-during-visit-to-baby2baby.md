@@ -2,7 +2,7 @@
 date: '2023-05-19'
 modified_time: 2023-05-20 12:46:21-04:00
 published_time: 2023-05-19 17:43:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/19/remarks-by-vice-president-harris-during-visit-to-baby2baby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/19/remarks-by-vice-president-harris-during-visit-to-baby2baby/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Visit to\_Baby2Baby"
 ---

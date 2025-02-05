@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-16 11:24:26-04:00
 published_time: 2022-09-13 11:22:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-vice-president-harris-in-conversation-with-representative-nanette-barragan-at-congressional-hispanic-caucus-institute-2022-leadership-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-vice-president-harris-in-conversation-with-representative-nanette-barragan-at-congressional-hispanic-caucus-institute-2022-leadership-conference/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Conversation with Representative Nanette\
   \ Barragan at Congressional Hispanic Caucus Institute 2022 Leadership\_Conference"

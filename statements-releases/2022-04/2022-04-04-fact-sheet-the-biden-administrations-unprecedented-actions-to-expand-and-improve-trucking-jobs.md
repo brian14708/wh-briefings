@@ -2,7 +2,7 @@
 date: '2022-04-04'
 modified_time: 2022-04-04 14:01:59-04:00
 published_time: 2022-04-04 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration\u2019s Unprecedented Actions to Expand\
   \ and Improve Trucking\_Jobs"
@@ -14,9 +14,9 @@ lack of investment in the nation’s goods movement supply chain. The
 Administration enacted the Bipartisan Infrastructure Law to bring our
 infrastructure to the 21<sup>st</sup> century, worked with ports to
 [clear the
-docks](https://www.whitehouse.gov/nec/briefing-room/2022/01/20/a-record-year-for-americas-ports-and-a-look-to-the-year-ahead/)
+docks](https://bidenwhitehouse.archives.gov/nec/briefing-room/2022/01/20/a-record-year-for-americas-ports-and-a-look-to-the-year-ahead/)
 and gets good moving, launched [a pilot
-initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-new-initiative-to-improve-supply-chain-data-flow/)
+initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-new-initiative-to-improve-supply-chain-data-flow/)
 to create the digital infrastructure to connect key stakeholders in the
 supply chain, and more. The result is a modern goods movement system
 that boosts American competitiveness and cuts families’ costs.  
@@ -44,7 +44,7 @@ of the industry is men—which adds to its recruiting challenges.
 Last December, the Administration confronted these challenges head on. 
 The U.S. Department of Transportation and the U.S. Department of Labor
 [launched a Trucking Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/)
 to increase the supply of truck drivers by creating new pathways into
 the profession, cutting red tape to expand high quality training through
 Registered Apprenticeship, and laying the foundation for improving job

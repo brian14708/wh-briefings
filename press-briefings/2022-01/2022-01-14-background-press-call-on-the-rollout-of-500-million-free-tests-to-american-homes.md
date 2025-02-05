@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-01-14'
 modified_time: 2022-01-14 18:08:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/background-press-call-on-the-rollout-of-500-million-free-tests-to-american-homes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/01/14/background-press-call-on-the-rollout-of-500-million-free-tests-to-american-homes/
 published_time: 2022-01-14 18:30:00-05:00
 title: "Background Press Call on the Rollout of 500 Million Free Tests to American\_\
   Homes"

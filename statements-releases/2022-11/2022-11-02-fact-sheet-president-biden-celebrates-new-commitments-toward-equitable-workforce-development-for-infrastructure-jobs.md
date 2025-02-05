@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-01 20:36:03-04:00
 published_time: 2022-11-02 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Celebrates New Commitments toward Equitable Workforce\
   \ Development for Infrastructure\_Jobs"
@@ -145,7 +145,7 @@ and administrative actions, including:
 
 -   **The Biden-Harris Administration** will release a new guide,
     [Advancing Equitable Workforce Development for Infrastructure
-    Jobs](https://www.whitehouse.gov/build/equitable-infrastructure-workforce/),
+    Jobs](https://bidenwhitehouse.archives.gov/build/equitable-infrastructure-workforce/),
     to help infrastructure and workforce development stakeholders
     leverage funding provided in the Bipartisan Infrastructure Law and
     other federal programs for equitable workforce development for

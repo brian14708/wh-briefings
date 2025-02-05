@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-03'
 modified_time: 2021-09-03 14:41:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/fact-sheet-biden-administration-to-transform-capabilities-for-pandemic-preparedness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/03/fact-sheet-biden-administration-to-transform-capabilities-for-pandemic-preparedness/
 published_time: 2021-09-03 15:00:00-04:00
 title: "FACT SHEET: Biden Administration to Transform Capabilities for Pandemic\_\
   Preparedness"
@@ -34,7 +34,7 @@ biodefense.
   
 This plan, laid out in [***American Pandemic Preparedness: Transforming
 our
-Capabilities***](https://www.whitehouse.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf),
+Capabilities***](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf),
 lays out a set of urgent needs and opportunities in five key areas
 necessary to protect the United States against biological threats:
 

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-14'
 published_time: 2024-06-14 19:29:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/14/president-joseph-r-biden-jr-approves-oklahoma-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/14/president-joseph-r-biden-jr-approves-oklahoma-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Oklahoma Disaster\_Declaration"
 ---

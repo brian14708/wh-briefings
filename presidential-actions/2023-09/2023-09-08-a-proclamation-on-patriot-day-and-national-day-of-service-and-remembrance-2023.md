@@ -1,7 +1,7 @@
 ---
 date: '2023-09-08'
 published_time: 2023-09-08 12:13:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/08/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/08/a-proclamation-on-patriot-day-and-national-day-of-service-and-remembrance-2023/
 tags: presidential-actions
 title: "A Proclamation on Patriot Day and National Day of Service and Remembrance,\_\
   2023"

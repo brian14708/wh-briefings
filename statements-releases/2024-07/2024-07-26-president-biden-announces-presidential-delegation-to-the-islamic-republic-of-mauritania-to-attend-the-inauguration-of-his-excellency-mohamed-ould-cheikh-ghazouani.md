@@ -2,7 +2,7 @@
 date: '2024-07-26'
 modified_time: 2024-07-26 14:13:43-04:00
 published_time: 2024-07-26 14:13:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/president-biden-announces-presidential-delegation-to-the-islamic-republic-of-mauritania-to-attend-the-inauguration-of-his-excellency-mohamed-ould-cheikh-ghazouani/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/president-biden-announces-presidential-delegation-to-the-islamic-republic-of-mauritania-to-attend-the-inauguration-of-his-excellency-mohamed-ould-cheikh-ghazouani/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Islamic Republic\
   \ of Mauritania to Attend the Inauguration of His Excellency Mohamed Ould Cheikh\_\

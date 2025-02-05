@@ -2,7 +2,7 @@
 date: '2024-05-25'
 modified_time: 2024-05-25 18:18:15-04:00
 published_time: 2024-05-25 18:18:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/25/statement-from-president-joe-biden-on-joint-u-s-mexican-cooperation-to-extradite-to-the-united-states-major-fentanyl-criminal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/25/statement-from-president-joe-biden-on-joint-u-s-mexican-cooperation-to-extradite-to-the-united-states-major-fentanyl-criminal/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Joint U.S.-Mexican Cooperation to Extradite\
   \ to the United\_States Major Fentanyl\_Criminal"

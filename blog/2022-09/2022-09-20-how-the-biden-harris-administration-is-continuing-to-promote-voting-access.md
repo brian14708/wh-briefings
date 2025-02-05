@@ -2,7 +2,7 @@
 date: '2022-09-20'
 modified_time: 2022-09-20 09:07:13-04:00
 published_time: 2022-09-20 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/09/20/how-the-biden-harris-administration-is-continuing-to-promote-voting-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/09/20/how-the-biden-harris-administration-is-continuing-to-promote-voting-access/
 tags: blog
 title: "How the Biden-\u2060Harris Administration is Continuing to Promote Voting\_\
   Access"

@@ -2,7 +2,7 @@
 date: '2023-10-25'
 modified_time: 2023-10-25 12:48:03-04:00
 published_time: 2023-10-25 12:48:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/readout-of-the-white-house-convening-on-right-to-repair/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/readout-of-the-white-house-convening-on-right-to-repair/
 tags: statements-releases
 title: "Readout of the White\_House Convening on Right to\_Repair"
 ---
@@ -17,13 +17,13 @@ right to repair lowers costs, makes it easier to fix the things you own,
 and increases competition—a key pillar of Bidenomics.  
   
 National Economic Council Director Lael Brainard
-[highlighted](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/)
+[highlighted](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/)
 the importance of right to repair to President Biden’s work on behalf of
 consumers and a level playing field for small independent repair
 businesses, and roundtable participants discussed on-the-ground progress
 since President Biden endorsed the right to repair in his [Executive
 Order on Promoting
-Competition](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/).
+Competition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/).
 Federal Trade Commission (FTC) Chair Lina Khan explained the benefits of
 competition in repair markets to lower costs and increase opportunities
 for small businesses, and highlighted FTC’s bipartisan, unanimous
@@ -57,7 +57,7 @@ A recording of the full roundtable can be [found
 here](https://www.youtube.com/watch?v=Ug3DkX7VRy8).
 
 -   [Lael
-    Brainard](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/),
+    Brainard](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/),
     Assistant to the President and Director of the National Economic
     Council  
 -   [Tom Perez](https://www.youtube.com/watch?v=Ug3DkX7VRy8&t=375s),

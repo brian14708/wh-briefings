@@ -1,7 +1,7 @@
 ---
 date: '2023-09-06'
 published_time: 2023-09-06 13:51:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/asean-u-s-leaders-statement-on-cooperation-on-the-asean-outlook-on-the-indo-pacific/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/asean-u-s-leaders-statement-on-cooperation-on-the-asean-outlook-on-the-indo-pacific/
 tags: statements-releases
 title: "ASEAN-U.S. Leaders\u2019 Statement on Cooperation on the ASEAN Outlook on\
   \ the\_Indo-Pacific"

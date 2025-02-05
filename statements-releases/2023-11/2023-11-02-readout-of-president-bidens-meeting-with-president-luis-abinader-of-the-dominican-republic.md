@@ -1,7 +1,7 @@
 ---
 date: '2023-11-02'
 published_time: 2023-11-02 22:25:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/02/readout-of-president-bidens-meeting-with-president-luis-abinader-of-the-dominican-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/02/readout-of-president-bidens-meeting-with-president-luis-abinader-of-the-dominican-republic/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Luis Abinader of\
   \ the Dominican\_Republic"

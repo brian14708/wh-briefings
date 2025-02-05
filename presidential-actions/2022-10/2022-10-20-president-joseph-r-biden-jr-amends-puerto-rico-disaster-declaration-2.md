@@ -2,7 +2,7 @@
 date: '2022-10-20'
 modified_time: 2022-10-20 14:00:55-04:00
 published_time: 2022-10-20 14:00:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/20/president-joseph-r-biden-jr-amends-puerto-rico-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/20/president-joseph-r-biden-jr-amends-puerto-rico-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Puerto Rico Disaster\_Declaration"
 ---

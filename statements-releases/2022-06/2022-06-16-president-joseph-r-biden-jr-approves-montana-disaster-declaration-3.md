@@ -1,7 +1,7 @@
 ---
 date: '2022-06-16'
 published_time: 2022-06-16 14:45:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/president-joseph-r-biden-jr-approves-montana-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/president-joseph-r-biden-jr-approves-montana-disaster-declaration-3/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Montana Disaster\_Declaration"
 ---

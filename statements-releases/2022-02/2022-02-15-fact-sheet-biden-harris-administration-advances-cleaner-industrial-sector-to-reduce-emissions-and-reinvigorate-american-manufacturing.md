@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-15'
 modified_time: 2022-02-15 11:24:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/15/fact-sheet-biden-harris-administration-advances-cleaner-industrial-sector-to-reduce-emissions-and-reinvigorate-american-manufacturing/
 published_time: 2022-02-15 05:00:00-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Advances Cleaner Industrial\
   \ Sector to Reduce Emissions and Reinvigorate American\_Manufacturing"
@@ -98,7 +98,7 @@ long-term investment in our clean steel, cement, and aluminum
 industries; and increasing domestic production of electric vehicles,
 wind turbines, solar panels, and more. Earlier this month, the House
 passed the [America COMPETES
-Act](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/statement-from-president-biden-on-house-passage-of-the-america-competes-act/),
+Act](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/statement-from-president-biden-on-house-passage-of-the-america-competes-act/),
 which would strengthen supply chains, lower prices, and create more
 manufacturing jobs, while decarbonizing the industrial sector—including
 through a $250 million Regional Clean Energy Innovation Program and new
@@ -173,7 +173,7 @@ stakeholders from across the private sector, philanthropy, labor, and
 community-based organizations to catalyze new job opportunities for
 energy communities, including in clean hydrogen. For example, a
 [December
-roundtable](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/readout-of-investment-roundtable-hosted-by-the-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/)
+roundtable](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/15/readout-of-investment-roundtable-hosted-by-the-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/)
 included discussion of efforts to reduce emissions and create jobs in
 the South Louisiana industrial corridor. The region is a finalist in the
 Economic Development Administration’s Build Back Better Regional
@@ -189,7 +189,7 @@ support low-carbon, made in America materials, the Council on
 Environmental Quality and White House Office of Domestic Climate Policy
 are establishing the first-ever Buy Clean Task Force. As directed by the
 President’s December 2021 [executive
-order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/)
+order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/)
 on federal sustainability, the Task Force will promote use of
 construction materials with lower embodied emissions and pollutants
 across their lifecycle—including each stage of the manufacturing
@@ -264,7 +264,7 @@ technologies that members have committed to purchase.
 **Using Trade Policy to Reward Clean Manufacturing  
 **  
 In October, the United States and the European Union
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-the-united-states-and-european-union-to-negotiate-worlds-first-carbon-based-sectoral-arrangement-on-steel-and-aluminum-trade/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-the-united-states-and-european-union-to-negotiate-worlds-first-carbon-based-sectoral-arrangement-on-steel-and-aluminum-trade/)
 their commitment to negotiate the **world’s first emissions-based
 sectoral arrangement on steel and aluminum trade** by 2024. Following on
 that announcement, Secretary of Commerce Gina Raimondo, U.S. Trade
@@ -302,10 +302,10 @@ sound.
   
 To help federal agencies advance CCUS responsibly, today **the Council
 on Environmental Quality is [issuing CCUS
-guidance](https://www.whitehouse.gov/ceq/news-updates/2022/02/15/ceq-issues-new-guidance-to-responsibly-develop-carbon-capture-utilization-and-sequestration/).**
+guidance](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/02/15/ceq-issues-new-guidance-to-responsibly-develop-carbon-capture-utilization-and-sequestration/).**
 This guidance, called for in the bipartisan USE IT Act, builds on CEQ’s
 [June 2021 CCUS
-report](https://www.whitehouse.gov/ceq/news-updates/2021/06/30/council-on-environmental-quality-delivers-report-to-congress-on-steps-to-advance-responsible-orderly-and-efficient-development-of-carbon-capture-utilization-and-sequestration/)
+report](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/06/30/council-on-environmental-quality-delivers-report-to-congress-on-steps-to-advance-responsible-orderly-and-efficient-development-of-carbon-capture-utilization-and-sequestration/)
 and addresses issues including: 
 
 -   Sound and transparent environmental reviews for CCUS projects

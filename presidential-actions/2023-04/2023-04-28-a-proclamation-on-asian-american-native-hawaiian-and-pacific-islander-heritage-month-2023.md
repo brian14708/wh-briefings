@@ -2,7 +2,7 @@
 date: '2023-04-28'
 modified_time: 2023-05-01 15:05:48-04:00
 published_time: 2023-04-28 13:12:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/28/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islander-heritage-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/28/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islander-heritage-month-2023/
 tags: presidential-actions
 title: "A Proclamation on Asian American, Native Hawaiian, and Pacific Islander Heritage\
   \ Month,\_2023"

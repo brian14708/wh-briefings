@@ -1,7 +1,7 @@
 ---
 date: '2023-04-24'
 published_time: 2023-04-24 18:29:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-for-the-state-dinner-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-media-preview-for-the-state-dinner-of-the-republic-of-korea/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Media Preview\
   \ for the State Dinner of the Republic of\_Korea"

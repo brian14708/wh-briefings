@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-27 12:18:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/
 published_time: 2021-09-24 21:51:14-04:00
 title: "Fact Sheet: Quad Leaders\u2019\_Summit"
 ---

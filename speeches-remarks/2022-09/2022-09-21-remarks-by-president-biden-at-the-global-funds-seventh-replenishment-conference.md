@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 18:30:21-04:00
 published_time: 2022-09-21 18:30:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-at-the-global-funds-seventh-replenishment-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-at-the-global-funds-seventh-replenishment-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Global Fund\u2019s Seventh Replenishment\_\
   Conference"

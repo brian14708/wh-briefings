@@ -2,7 +2,7 @@
 date: '2023-05-24'
 modified_time: 2023-05-24 20:35:57-04:00
 published_time: 2023-05-24 09:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/24/statement-on-behalf-of-the-vice-president-one-year-after-the-uvalde-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/24/statement-on-behalf-of-the-vice-president-one-year-after-the-uvalde-shooting/
 tags: statements-releases
 title: "Statement on Behalf of the Vice President One Year After the Uvalde\_Shooting"
 ---

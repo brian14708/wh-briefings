@@ -1,7 +1,7 @@
 ---
 date: '2022-05-09'
 published_time: 2022-05-09 16:22:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/09/remarks-by-president-biden-on-the-affordable-connectivity-program%ef%bf%bc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/09/remarks-by-president-biden-on-the-affordable-connectivity-program%ef%bf%bc/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_on the Affordable Connectivity\_Program\uFFFC"
 ---

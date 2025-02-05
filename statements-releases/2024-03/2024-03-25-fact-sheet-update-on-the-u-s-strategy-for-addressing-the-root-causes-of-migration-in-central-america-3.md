@@ -2,7 +2,7 @@
 date: '2024-03-25'
 modified_time: 2024-03-24 18:29:30-04:00
 published_time: 2024-03-25 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america-3/
 tags: statements-releases
 title: "FACT SHEET: Update on the U.S. Strategy for Addressing the Root Causes of\
   \ Migration in Central\_America"
@@ -12,7 +12,7 @@ title: "FACT SHEET: Update on the U.S. Strategy for Addressing the Root Causes o
 
 Vice President Harris continues to lead the implementation of the [Root
 Causes
-Strategy,](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf)
+Strategy,](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf)
 which tackles the drivers of irregular migration by improving conditions
 in El Salvador, Guatemala, and Honduras so people do not feel compelled
 to leave their homes.  This includes addressing economic, governance,

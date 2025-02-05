@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-28 10:20:01-04:00
 published_time: 2023-07-27 19:29:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/readout-of-white-house-black-county-leaders-virtual-listening-session-on-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/readout-of-white-house-black-county-leaders-virtual-listening-session-on-workforce/
 tags: statements-releases
 title: "Readout of White\_House Black County Leaders Virtual Listening Session on\_\
   Workforce"
@@ -12,7 +12,7 @@ Yesterday, the White House hosted local leaders who represent
 significant African American populations to discuss the opportunities
 and challenges with training a skilled workforce for the President’s
 [Investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 agenda. White House staff from the Office of Intergovernmental Affairs,
 the American Rescue Plan, Bipartisan Infrastructure Law, and Inflation
 Reduction Act implementation teams provided an overview of the resources
@@ -43,8 +43,8 @@ Workforce Resources for Local Governments:  
 -   [FACT SHEET: White House Announces over $40 Billion in American
     Rescue Plan Investments in Our Workforce – With More Coming | The
     White
-    House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
+    House](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
 -   [Workforce Development Guide | Build.gov | The White
-    House](https://www.whitehouse.gov/build/resources/equitable-infrastructure-workforce/)
+    House](https://bidenwhitehouse.archives.gov/build/resources/equitable-infrastructure-workforce/)
 
 \###

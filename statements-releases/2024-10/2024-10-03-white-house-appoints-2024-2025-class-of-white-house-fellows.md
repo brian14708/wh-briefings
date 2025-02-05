@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-09 18:15:25-04:00
 published_time: 2024-10-03 17:25:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/03/white-house-appoints-2024-2025-class-of-white-house-fellows/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/03/white-house-appoints-2024-2025-class-of-white-house-fellows/
 tags: statements-releases
 title: "White\_House Appoints 2024-2025 Class of White\_House\_Fellows"
 ---
@@ -25,7 +25,7 @@ state government, academia, non-profits, medicine, and the armed forces.
 
 Applications for the 2025-2026 Fellowship year will be accepted starting
 November 1, 2024. The application link and additional information is
-available at: <https://www.whitehouse.gov/get-involved/fellows/>.
+available at: <https://bidenwhitehouse.archives.gov/get-involved/fellows/>.
 
 Class of 2024-2025 White House Fellows  
   

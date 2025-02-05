@@ -1,7 +1,7 @@
 ---
 date: '2024-02-05'
 published_time: 2024-02-05 16:31:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/05/remarks-by-president-biden-during-greet-with-mgm-resorts-management-and-culinary-leaders-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/05/remarks-by-president-biden-during-greet-with-mgm-resorts-management-and-culinary-leaders-las-vegas-nv/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Greet with MGM Resorts Management and Culinary\
   \ Leaders | Las Vegas,\_NV"

@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-26 13:31:02-04:00
 published_time: 2023-04-25 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-at-a-political-event-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-at-a-political-event-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political Event on Reproductive\_Rights"
 ---

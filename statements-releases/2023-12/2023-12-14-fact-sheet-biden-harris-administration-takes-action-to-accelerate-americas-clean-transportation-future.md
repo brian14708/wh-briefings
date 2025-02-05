@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-15 09:04:02-05:00
 published_time: 2023-12-14 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-takes-action-to-accelerate-americas-clean-transportation-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-takes-action-to-accelerate-americas-clean-transportation-future/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Accelerate America\u2019\
   s Clean Transportation\_Future"
@@ -25,13 +25,13 @@ EVs and taking other cost-effective actions on clean transportation
 associated with business travel for the Federal workforce. In addition,
 the State of California, companies, and nonprofits are announcing new
 commitments through the Biden-Harris Administration’s [EV Acceleration
-Challenge](https://www.whitehouse.gov/cleanenergy/ev-acceleration-challenge/)
+Challenge](https://bidenwhitehouse.archives.gov/cleanenergy/ev-acceleration-challenge/)
 to expand EV fleets, increase consumer education, and grow the
 availability of EV charging and other clean transportation
 infrastructure.  
   
 These commitments further advance President Biden’s [Investing in
-America](https://www.whitehouse.gov/invest/) agenda, a key pillar of
+America](https://bidenwhitehouse.archives.gov/invest/) agenda, a key pillar of
 Bidenomics, to spur domestic manufacturing, strengthen supply chains,
 boost U.S. competitiveness, and create good-paying jobs and healthier
 communities. Under President Biden’s leadership, EV sales have tripled
@@ -82,7 +82,7 @@ travel, both domestically and internationally, including by:
 To support swift and successful whole-of-government implementation,
 Federal agencies are being directed through an [Office of Management and
 Budget (OMB)
-Memorandum](https://www.whitehouse.gov/omb/information-for-agencies/memoranda/)
+Memorandum](https://bidenwhitehouse.archives.gov/omb/information-for-agencies/memoranda/)
 and [U.S. General Services Administration Travel
 Bulletin](https://www.gsa.gov/system/files/FTR%20Bulletin%2024-02_%20Sustainable%20Transportation%20for%20Official%20Travel.pdf)
 to take a comprehensive series of steps to ensure sustainable travel
@@ -115,7 +115,7 @@ In conjunction with today’s announcements from the Biden-Harris
 Administration, leading U.S. organizations across sectors are announcing
 new commitments to build America’s clean transportation future as the
 latest additions to President Biden’s [EV Acceleration
-Challenge](https://www.whitehouse.gov/cleanenergy/ev-acceleration-challenge/):  
+Challenge](https://bidenwhitehouse.archives.gov/cleanenergy/ev-acceleration-challenge/):  
   
 *<u>Travel & Hospitality Sector</u>*  
   
@@ -228,6 +228,6 @@ ground transportation in 2024.
 basis. The White House will be highlighting additional commitments in
 the future. Organizations can submit a commitment to the EV Acceleration
 Challenge*
-[*here*](https://www.whitehouse.gov/cleanenergy/ev-acceleration-challenge/)*.*
+[*here*](https://bidenwhitehouse.archives.gov/cleanenergy/ev-acceleration-challenge/)*.*
 
 \###

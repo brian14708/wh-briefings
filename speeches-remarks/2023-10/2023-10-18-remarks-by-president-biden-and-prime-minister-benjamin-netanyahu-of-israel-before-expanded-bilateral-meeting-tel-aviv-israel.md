@@ -1,7 +1,7 @@
 ---
 date: '2023-10-18'
 published_time: 2023-10-18 10:33:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-and-prime-minister-benjamin-netanyahu-of-israel-before-expanded-bilateral-meeting-tel-aviv-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-and-prime-minister-benjamin-netanyahu-of-israel-before-expanded-bilateral-meeting-tel-aviv-israel/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Benjamin Netanyahu of Israel\
   \ Before Expanded Bilateral Meeting | Tel Aviv,\_Israel"

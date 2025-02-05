@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 10:00:53-04:00
 published_time: 2022-08-25 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/fact-sheet-president-biden-signs-executive-order-to-implement-the-chips-and-science-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/fact-sheet-president-biden-signs-executive-order-to-implement-the-chips-and-science-act-of-2022/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Implement the CHIPS\
   \ and Science Act of\_2022"

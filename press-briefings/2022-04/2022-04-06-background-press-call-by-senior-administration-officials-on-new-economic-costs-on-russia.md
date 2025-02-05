@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 14:29:47-04:00
 published_time: 2022-04-06 14:29:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/06/background-press-call-by-senior-administration-officials-on-new-economic-costs-on-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/06/background-press-call-by-senior-administration-officials-on-new-economic-costs-on-russia/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on New Economic Costs\
   \ on\_Russia"

@@ -2,7 +2,7 @@
 date: '2024-11-06'
 modified_time: 2024-11-12 10:07:15-05:00
 published_time: 2024-11-06 23:59:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/06/remarks-by-vice-president-harris-following-the-2024-election/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/06/remarks-by-vice-president-harris-following-the-2024-election/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Following the 2024\_Election"
 ---

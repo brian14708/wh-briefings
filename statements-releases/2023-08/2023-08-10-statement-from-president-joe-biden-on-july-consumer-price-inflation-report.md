@@ -1,7 +1,7 @@
 ---
 date: '2023-08-10'
 published_time: 2023-08-10 09:49:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/10/statement-from-president-joe-biden-on-july-consumer-price-inflation-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/10/statement-from-president-joe-biden-on-july-consumer-price-inflation-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on July Consumer Price Inflation\_Report"
 ---

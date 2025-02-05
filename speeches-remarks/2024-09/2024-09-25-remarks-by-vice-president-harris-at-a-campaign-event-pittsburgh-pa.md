@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-26 20:22:17-04:00
 published_time: 2024-09-25 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-vice-president-harris-at-a-campaign-event-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-vice-president-harris-at-a-campaign-event-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Pittsburgh,\_PA"
 ---

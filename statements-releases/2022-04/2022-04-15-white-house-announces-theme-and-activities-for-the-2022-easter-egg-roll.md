@@ -2,7 +2,7 @@
 date: '2022-04-15'
 modified_time: 2022-04-15 09:03:16-04:00
 published_time: 2022-04-15 09:03:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/white-house-announces-theme-and-activities-for-the-2022-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/15/white-house-announces-theme-and-activities-for-the-2022-easter-egg-roll/
 tags: statements-releases
 title: "White\_House Announces Theme and Activities for the 2022 Easter Egg\_Roll"
 ---

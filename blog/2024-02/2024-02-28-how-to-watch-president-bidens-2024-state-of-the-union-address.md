@@ -2,7 +2,7 @@
 date: '2024-02-28'
 modified_time: 2024-02-28 15:40:52-05:00
 published_time: 2024-02-28 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/02/28/how-to-watch-president-bidens-2024-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/02/28/how-to-watch-president-bidens-2024-state-of-the-union-address/
 tags: blog
 title: "How to Watch President\_Biden\u2019s 2024 State of the Union\_Address"
 ---
@@ -14,7 +14,7 @@ Thursday, March 7th, 2024, 9 PM ET
 ## Where can I watch the State of the Union livestream?
 
 To watch the State of the Union speech live,
-visit [WH.gov/sotu](https://www.whitehouse.gov/sotu). Tune into the
+visit [WH.gov/sotu](https://bidenwhitehouse.archives.gov/sotu). Tune into the
 official social media streams of the White House for President Biden’s
 State of the Union address.
 
@@ -34,6 +34,6 @@ States Capitol on Thursday, March 7, 2024 at 9 PM ET.
 
 ## What was in President Biden’s first State of the Union address?
 
-Visit [WH.gov/sotu-2023](https://www.whitehouse.gov/sotu-2022) to view
+Visit [WH.gov/sotu-2023](https://bidenwhitehouse.archives.gov/sotu-2022) to view
 last year’s speech and full remarks. Or [read excerpts from his
-address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery-2/).
+address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery-2/).

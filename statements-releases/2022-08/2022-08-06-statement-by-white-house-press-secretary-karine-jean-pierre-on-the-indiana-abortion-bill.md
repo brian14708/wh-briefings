@@ -2,7 +2,7 @@
 date: '2022-08-06'
 modified_time: 2022-08-06 08:51:18-04:00
 published_time: 2022-08-06 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/06/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-indiana-abortion-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/06/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-indiana-abortion-bill/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Indiana\
   \ Abortion\_Ban"

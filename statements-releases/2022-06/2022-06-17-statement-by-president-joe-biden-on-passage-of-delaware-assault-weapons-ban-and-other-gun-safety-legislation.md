@@ -1,7 +1,7 @@
 ---
 date: '2022-06-17'
 published_time: 2022-06-17 17:42:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/statement-by-president-joe-biden-on-passage-of-delaware-assault-weapons-ban-and-other-gun-safety-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/statement-by-president-joe-biden-on-passage-of-delaware-assault-weapons-ban-and-other-gun-safety-legislation/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Passage of Delaware Assault Weapons Ban\
   \ and Other Gun Safety\_Legislation"

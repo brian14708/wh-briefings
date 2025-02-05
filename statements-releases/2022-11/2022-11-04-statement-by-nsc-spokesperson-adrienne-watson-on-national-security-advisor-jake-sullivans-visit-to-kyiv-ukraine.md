@@ -2,7 +2,7 @@
 date: '2022-11-04'
 modified_time: 2022-11-04 18:41:46-04:00
 published_time: 2022-11-04 14:30:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-visit-to-kyiv-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/04/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-visit-to-kyiv-ukraine/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Visit to Kyiv,\_Ukraine"

@@ -2,7 +2,7 @@
 date: '2022-06-25'
 modified_time: 2022-06-25 11:11:43-04:00
 published_time: 2022-06-25 11:11:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/25/remarks-by-president-biden-at-signing-of-s-2938-the-bipartisan-safer-communities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/25/remarks-by-president-biden-at-signing-of-s-2938-the-bipartisan-safer-communities-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of S.2938, the Bipartisan Safer Communities\_\
   Act"

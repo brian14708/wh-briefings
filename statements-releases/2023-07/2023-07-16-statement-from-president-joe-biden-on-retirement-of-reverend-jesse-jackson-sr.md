@@ -1,7 +1,7 @@
 ---
 date: '2023-07-16'
 published_time: 2023-07-16 08:38:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/16/statement-from-president-joe-biden-on-retirement-of-reverend-jesse-jackson-sr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/16/statement-from-president-joe-biden-on-retirement-of-reverend-jesse-jackson-sr/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Retirement of Reverend Jesse Jackson,\_\
   Sr."

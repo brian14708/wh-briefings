@@ -2,7 +2,7 @@
 date: '2024-07-27'
 modified_time: 2024-07-28 11:56:39-04:00
 published_time: 2024-07-27 23:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/27/remarks-by-vice-president-harris-at-a-political-event-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/27/remarks-by-vice-president-harris-at-a-political-event-11/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political\_Event"
 ---

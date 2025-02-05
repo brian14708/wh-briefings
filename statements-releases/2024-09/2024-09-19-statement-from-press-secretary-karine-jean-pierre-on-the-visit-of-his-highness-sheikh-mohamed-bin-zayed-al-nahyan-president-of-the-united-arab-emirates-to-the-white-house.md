@@ -1,7 +1,7 @@
 ---
 date: '2024-09-19'
 published_time: 2024-09-19 07:33:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/19/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-his-highness-sheikh-mohamed-bin-zayed-al-nahyan-president-of-the-united-arab-emirates-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/19/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-his-highness-sheikh-mohamed-bin-zayed-al-nahyan-president-of-the-united-arab-emirates-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of His Highness\
   \ Sheikh Mohamed bin Zayed Al Nahyan, President of the United Arab Emirates to the\

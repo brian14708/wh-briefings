@@ -2,7 +2,7 @@
 date: '2024-09-18'
 modified_time: 2024-09-19 11:12:32-04:00
 published_time: 2024-09-18 17:11:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/18/remarks-by-president-biden-at-a-reception-celebrating-hispanic-heritage-month-and-honoring-the-contributions-of-the-latino-community-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/18/remarks-by-president-biden-at-a-reception-celebrating-hispanic-heritage-month-and-honoring-the-contributions-of-the-latino-community-to-the-united-states/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Reception Celebrating Hispanic Heritage Month\
   \ and Honoring the Contributions of the Latino Community to the United\_States"

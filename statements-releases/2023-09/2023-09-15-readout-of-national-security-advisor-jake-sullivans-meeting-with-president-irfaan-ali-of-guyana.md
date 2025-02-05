@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 published_time: 2023-09-15 15:12:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-irfaan-ali-of-guyana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-irfaan-ali-of-guyana/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with President\
   \ Irfaan Ali of\_Guyana"

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 13:46:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/09/29/why-we-must-invest-in-aanapisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/09/29/why-we-must-invest-in-aanapisis/
 tags: blog
 title: "Why We Must Invest in\_AANAPISIs"
 ---
@@ -14,7 +14,7 @@ to strengthen it.*
 **By Erika L. Moritsugu, Krystal Ka‘ai, and Philip Kim**
 
 Last Friday, President Joe Biden issued the [first-ever White House
-proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/)
+proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-asian-american-and-native-american-pacific-islander-serving-institutions-week-2023/)
 celebrating the impact of the Asian American and Native American Pacific
 Islander-Serving Institutions (AANAPISI) program and formally proclaimed
 September 25 through October 1, 2023, as National AANAPISI Week. The
@@ -93,14 +93,14 @@ That is why the Biden-Harris Administration is actively investing in
 Minority-Serving Institutions, including AANAPISIs, and will continue
 its efforts to support all students through graduation and beyond.
 President Biden’s American Rescue Plan [delivered $5 billion in
-funding](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/#:~:text=The%20Biden%2DHarris%20Administration%20delivered,Islander%20Serving%20Institutions%20(AANAPISIs).)
+funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/#:~:text=The%20Biden%2DHarris%20Administration%20delivered,Islander%20Serving%20Institutions%20(AANAPISIs).)
 to AANAPISIs, and the U.S. Department of Education provided them with
 millions of dollars [to expand research
 infrastructure](https://www.ed.gov/news/press-releases/biden-harris-administration-opens-nearly-100m-grant-opportunities-hbcus-tccus-and-msis-and-underserved-students).
 Across the federal government, agencies including the Departments of
 Education, Defense, and Energy, [are working to improve the capacity and
 infrastructure of
-AANAPISIs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/)
+AANAPISIs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/)
 through grants, cooperative agreements, and direct financial relief to
 students. And as President Biden announced at his meeting with Pacific
 Islands Forum leaders at the White House on Monday, the United States
@@ -119,7 +119,7 @@ Hawaiians, and Pacific Islanders (WHIAANHPI) is committed to tackling
 barriers to educational attainment in all forms. With the release of the
 Administration’s first-ever [national strategy to advance equity,
 justice, and opportunity for AA and NHPI
-communities](https://www.whitehouse.gov/wp-content/uploads/2023/01/AA-and-NHPI-Strategy-2023.pdf),
+communities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/AA-and-NHPI-Strategy-2023.pdf),
 we are working to create a higher education system that is more
 inclusive, equitable, and affordable. And we are urging the expansion of
 data disaggregation practices that help policymakers, administrators,

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 16:20:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/03/message-to-the-congress-notification-to-the-congress-consistent-with-section-8-of-the-fishermens-protective-act-of-1967-as-amended-22-u-s-c-197/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/03/message-to-the-congress-notification-to-the-congress-consistent-with-section-8-of-the-fishermens-protective-act-of-1967-as-amended-22-u-s-c-197/
 tags: presidential-actions
 title: "Message to the Congress \u2014 Notification to the Congress Consistent With\
   \ Section 8 of the Fishermen\u2019s Protective Act of 1967, as amended (22 U.S.C.\_\

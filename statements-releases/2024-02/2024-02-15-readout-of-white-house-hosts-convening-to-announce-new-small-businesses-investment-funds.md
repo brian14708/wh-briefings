@@ -2,7 +2,7 @@
 date: '2024-02-15'
 modified_time: 2024-02-16 08:51:22-05:00
 published_time: 2024-02-15 15:07:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/15/readout-of-white-house-hosts-convening-to-announce-new-small-businesses-investment-funds/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/15/readout-of-white-house-hosts-convening-to-announce-new-small-businesses-investment-funds/
 tags: statements-releases
 title: "Readout of White\_House Convening to Announce New Small Businesses Investment\_\
   Funds"

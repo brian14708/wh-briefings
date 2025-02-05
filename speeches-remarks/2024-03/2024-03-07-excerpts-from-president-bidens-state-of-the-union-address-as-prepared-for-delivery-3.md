@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-07 18:00:14-05:00
 published_time: 2024-03-07 18:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/07/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/07/excerpts-from-president-bidens-state-of-the-union-address-as-prepared-for-delivery-3/
 tags: speeches-remarks
 title: "Excerpts from President\_Biden\u2019s State of the Union Address as Prepared\
   \ for\_Delivery"

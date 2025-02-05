@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-21 14:09:31-04:00
 published_time: 2023-09-21 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/president-biden-announces-key-nominees-57/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/president-biden-announces-key-nominees-57/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

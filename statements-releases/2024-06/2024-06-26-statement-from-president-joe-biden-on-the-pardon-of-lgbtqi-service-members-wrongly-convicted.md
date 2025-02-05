@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-26 12:17:09-04:00
 published_time: 2024-06-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/statement-from-president-joe-biden-on-the-pardon-of-lgbtqi-service-members-wrongly-convicted/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/statement-from-president-joe-biden-on-the-pardon-of-lgbtqi-service-members-wrongly-convicted/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Pardon of LGBTQI+ Service Members\
   \ Wrongly\_Convicted"

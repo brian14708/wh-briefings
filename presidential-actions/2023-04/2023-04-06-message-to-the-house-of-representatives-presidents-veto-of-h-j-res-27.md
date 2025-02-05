@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-06 15:32:34-04:00
 published_time: 2023-04-06 15:32:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/06/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-27/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/06/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-27/
 tags: presidential-actions
 title: "Message to the House of Representatives \u2014 President\u2019s Veto of H.J.\
   \ Res\_27"

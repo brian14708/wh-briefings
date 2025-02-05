@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-07 13:52:51-05:00
 published_time: 2025-01-08 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/statement-from-president-biden-on-new-action-to-expand-benefits-for-veterans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/statement-from-president-biden-on-new-action-to-expand-benefits-for-veterans/
 tags: statements-releases
 title: "Statement from President\_Biden on New Action to Expand Benefits for\_Veterans"
 ---

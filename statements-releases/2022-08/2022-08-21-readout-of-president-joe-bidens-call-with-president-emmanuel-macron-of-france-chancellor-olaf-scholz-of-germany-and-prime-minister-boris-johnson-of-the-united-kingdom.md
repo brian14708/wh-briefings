@@ -1,7 +1,7 @@
 ---
 date: '2022-08-21'
 published_time: 2022-08-21 12:55:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/21/readout-of-president-joe-bidens-call-with-president-emmanuel-macron-of-france-chancellor-olaf-scholz-of-germany-and-prime-minister-boris-johnson-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/21/readout-of-president-joe-bidens-call-with-president-emmanuel-macron-of-france-chancellor-olaf-scholz-of-germany-and-prime-minister-boris-johnson-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with\_President Emmanuel Macron\
   \ of France, Chancellor Olaf Scholz of Germany, and Prime Minister Boris Johnson\

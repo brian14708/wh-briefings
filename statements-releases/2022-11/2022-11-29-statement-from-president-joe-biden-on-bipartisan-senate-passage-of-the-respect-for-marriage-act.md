@@ -2,7 +2,7 @@
 date: '2022-11-29'
 modified_time: 2022-11-29 18:37:24-05:00
 published_time: 2022-11-29 18:37:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/statement-from-president-joe-biden-on-bipartisan-senate-passage-of-the-respect-for-marriage-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/statement-from-president-joe-biden-on-bipartisan-senate-passage-of-the-respect-for-marriage-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Bipartisan Senate Passage of the Respect\
   \ for Marriage\_Act"

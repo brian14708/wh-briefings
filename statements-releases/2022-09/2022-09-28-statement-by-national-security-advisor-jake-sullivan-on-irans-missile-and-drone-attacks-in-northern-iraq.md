@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 12:48:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/statement-by-national-security-advisor-jake-sullivan-on-irans-missile-and-drone-attacks-in-northern-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/statement-by-national-security-advisor-jake-sullivan-on-irans-missile-and-drone-attacks-in-northern-iraq/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Iran\u2019s Missile\
   \ and Drone Attacks in Northern\_Iraq"

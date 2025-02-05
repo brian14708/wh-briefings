@@ -2,7 +2,7 @@
 date: '2023-12-21'
 modified_time: 2023-12-21 10:13:03-05:00
 published_time: 2023-12-21 10:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/21/statement-from-president-joe-biden-on-the-35th-anniversary-of-the-bombing-of-pan-am-flight-103/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/21/statement-from-president-joe-biden-on-the-35th-anniversary-of-the-bombing-of-pan-am-flight-103/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 35th Anniversary of the Bombing\
   \ of Pan Am Flight\_103"

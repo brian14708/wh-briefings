@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 12:11:48-04:00
 published_time: 2022-09-08 12:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/fact-sheet-biden-harris-administration-launches-new-climate-portal-to-help-communities-navigate-climate-change-impacts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/fact-sheet-biden-harris-administration-launches-new-climate-portal-to-help-communities-navigate-climate-change-impacts/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches New Climate Portal\
   \ to Help Communities Navigate Climate Change\_Impacts"
@@ -45,7 +45,7 @@ capabilities.
 
 [*Learn more about ten key ways the Biden-Harris Administration is
 making America resilient to climate
-change*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-10-ways-the-biden-harris-administration-is-making-america-resilient-to-climate-change/)
+change*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-10-ways-the-biden-harris-administration-is-making-america-resilient-to-climate-change/)
 
 **<u>Helping Communities Better Understand and Plan for Climate
 Risk</u>**
@@ -89,7 +89,7 @@ continue to evolve to meet community needs, includes:
 
 The new web portal is an outgrowth of a [National Climate Task Force
 initiative to provide more accessible climate information and decision
-tools](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/),
+tools](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/),
 as directed by President Biden in his Executive Order on Tackling the
 Climate Crisis at Home and Abroad. As part of this initiative, last year
 the National Oceanic and Atmospheric Administration (NOAA) launched a
@@ -112,7 +112,7 @@ including:
 -   **Building Code Adoption Tracking Portal:** As part of the
     Biden-Harris Administration’s [National Initiative to Advance
     Building
-    Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/),
+    Codes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/),
     FEMA continues to update its Building Code Adoption Tracking portal
     on the status of state, local, Tribal, and territorial building
     codes and whether these codes provide resistance to hazards such as

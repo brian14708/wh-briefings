@@ -2,7 +2,7 @@
 date: '2024-05-03'
 modified_time: 2024-05-04 16:46:39-04:00
 published_time: 2024-05-03 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/03/remarks-by-president-biden-at-presentation-of-the-presidential-medal-of-freedom-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/03/remarks-by-president-biden-at-presentation-of-the-presidential-medal-of-freedom-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Presidential Medal of\_\
   Freedom"

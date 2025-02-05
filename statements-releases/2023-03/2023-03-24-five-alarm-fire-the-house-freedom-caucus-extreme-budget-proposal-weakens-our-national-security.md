@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-23 21:15:10-04:00
 published_time: 2023-03-24 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-weakens-our-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/five-alarm-fire-the-house-freedom-caucus-extreme-budget-proposal-weakens-our-national-security/
 tags: statements-releases
 title: "FIVE-ALARM FIRE: The House Freedom Caucus\u2019 Extreme Budget Proposal Weakens\
   \ Our National\_Security"
@@ -14,7 +14,7 @@ cuts](https://twitter.com/freedomcaucus/status/1634205313623572480) that
 would weaken national security and increasing costs for working- and
 middle-class families, all to protect and extend tax breaks skewed to
 the wealthy and big corporations. In fact, their tax cuts would be [so
-expensive](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/) that
+expensive](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/) that
 their deep and harmful cuts **would not reduce the deficit**.  
   
 That’s in sharp contrast with the President’s Budget, which invests in

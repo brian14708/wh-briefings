@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 09:23:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/readout-of-national-security-advisor-jake-sullivans-meeting-with-communist-party-of-vietnam-external-relations-commission-chairman-le-hoai-trung/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/readout-of-national-security-advisor-jake-sullivans-meeting-with-communist-party-of-vietnam-external-relations-commission-chairman-le-hoai-trung/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Communist\
   \ Party of Vietnam External Relations Commission Chairman Le Hoai\_Trung"

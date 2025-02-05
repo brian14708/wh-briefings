@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 09:00:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/what-they-are-saying-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/what-they-are-saying-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Expands San Gabriel Mountains National\
   \ Monument and Berryessa Snow Mountain National\_Monument"
@@ -11,7 +11,7 @@ As part of the Biden-Harris Administration’s unprecedented commitment to
 protect America’s natural wonders for future generations, honor areas of
 cultural significance to Tribal Nations and Indigenous peoples, and
 expand access to nature, yesterday President Biden [signed
-proclamations](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)
+proclamations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)
 expanding the San Gabriel Mountains National Monument and the Berryessa
 Snow Mountain National Monument. Together, these actions protect nearly
 120,000 acres of lands in California.

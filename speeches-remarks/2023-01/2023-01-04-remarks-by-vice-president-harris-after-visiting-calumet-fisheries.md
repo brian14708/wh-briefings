@@ -2,7 +2,7 @@
 date: '2023-01-04'
 modified_time: 2023-01-04 17:01:38-05:00
 published_time: 2023-01-04 17:01:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-vice-president-harris-after-visiting-calumet-fisheries/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-vice-president-harris-after-visiting-calumet-fisheries/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris After Visiting Calumet\_Fisheries"
 ---

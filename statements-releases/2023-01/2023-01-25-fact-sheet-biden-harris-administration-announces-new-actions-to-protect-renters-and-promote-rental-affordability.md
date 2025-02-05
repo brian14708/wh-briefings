@@ -2,7 +2,7 @@
 date: '2023-01-25'
 modified_time: 2023-01-25 17:06:58-05:00
 published_time: 2023-01-25 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/
 tags: statements-releases
 title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces New Actions to Protect\
   \ Renters and Promote Rental\_Affordability"
@@ -15,7 +15,7 @@ Today, the Biden-Harris Administration is announcing new actions to
 increase fairness in the rental market and further principles of fair
 housing. These actions align with a new *[Blueprint for a Renters Bill
 of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf)*
 that the Administration is also releasing today. The Blueprint lays out
 a set of principles to drive action by the federal government, state and
 local partners, and the private sector to strengthen tenant protections
@@ -183,11 +183,11 @@ reduce renters’ risk of eviction or housing instability through
 Emergency Rental Assistance programs and provided over $769 million for
 housing stability services. Last May, the Administration released a
 [Housing Supply Action
-Plan,](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
+Plan,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
 which set the goal of closing America’s housing supply shortfall in five
 years. The Administration has been making progress advancing a
 [long-term
-goal](https://www.whitehouse.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
+goal](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
 of providing housing vouchers to all eligible households: the 2022 and
 2023 President’s Budgets proposed to expand rental assistance to an
 additional 200,000 households – and the Administration has secured

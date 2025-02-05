@@ -1,7 +1,7 @@
 ---
 date: '2022-07-21'
 published_time: 2022-07-21 11:34:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/21/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/21/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to Transnational Criminal\_Organizations"

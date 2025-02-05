@@ -1,7 +1,7 @@
 ---
 date: '2024-10-28'
 published_time: 2024-10-28 16:54:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-biden-harris-administration-advances-public-trust-through-federal-police-misconduct-database/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/28/fact-sheet-biden-harris-administration-advances-public-trust-through-federal-police-misconduct-database/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Public Trust Through\
   \ Federal Police Misconduct\_Database"

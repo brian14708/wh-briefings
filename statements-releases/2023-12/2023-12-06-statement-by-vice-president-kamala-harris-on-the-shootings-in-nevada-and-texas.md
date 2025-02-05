@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-07 10:25:14-05:00
 published_time: 2023-12-06 22:24:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/statement-by-vice-president-kamala-harris-on-the-shootings-in-nevada-and-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/statement-by-vice-president-kamala-harris-on-the-shootings-in-nevada-and-texas/
 tags: statements-releases
 title: "Statement By Vice President Kamala\_Harris on the Shootings in Nevada and\_\
   Texas"

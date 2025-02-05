@@ -1,7 +1,7 @@
 ---
 date: '2023-08-08'
 published_time: 2023-08-08 14:23:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/08/remarks-by-vice-president-harris-highlighting-investments-in-infrastructure-and-announcing-a-major-initiative-for-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/08/remarks-by-vice-president-harris-highlighting-investments-in-infrastructure-and-announcing-a-major-initiative-for-workers/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Highlighting Investments in Infrastructure\
   \ and Announcing a Major Initiative for\_Workers"

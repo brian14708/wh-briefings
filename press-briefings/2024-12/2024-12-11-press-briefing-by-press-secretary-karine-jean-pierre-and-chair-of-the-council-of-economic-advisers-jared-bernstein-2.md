@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 16:18:56-05:00
 published_time: 2024-12-11 16:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/11/press-briefing-by-press-secretary-karine-jean-pierre-and-chair-of-the-council-of-economic-advisers-jared-bernstein-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/11/press-briefing-by-press-secretary-karine-jean-pierre-and-chair-of-the-council-of-economic-advisers-jared-bernstein-2/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Chair of the Council\
   \ of Economic Advisers Jared\_Bernstein"

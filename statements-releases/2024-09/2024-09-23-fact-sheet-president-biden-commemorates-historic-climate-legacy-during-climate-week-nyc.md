@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 13:38:38-04:00
 published_time: 2024-09-23 13:38:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Commemorates Historic Climate Legacy during Climate\
   \ Week\_NYC"
@@ -60,17 +60,17 @@ nuclear, and other clean energy technologies that are creating
 good-paying jobs and saving families money on utility bills. President
 Biden’s Investing in America agenda is supporting the [U.S. offshore
 wind
-industry](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-biden-harris-administration-hits-offshore-wind-milestone-continues-to-advance-clean-energy-opportunities/),
+industry](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-biden-harris-administration-hits-offshore-wind-milestone-continues-to-advance-clean-energy-opportunities/),
 [transmission buildout and other power grid
-upgrades](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-launches-federal-state-initiative-to-bolster-americas-power-grid/),
+upgrades](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-launches-federal-state-initiative-to-bolster-americas-power-grid/),
 [residential solar for low-income
 households](https://www.epa.gov/newsreleases/biden-harris-administration-announces-7-billion-solar-all-grants-deliver-residential),
 investments in [clean
-electricity](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-president-biden-visits-westby-wisconsin-announces-7-3-billion-for-clean-affordable-reliable-electricity-for-rural-america-the-largest-investment-in-rural-electrification-since-the-ne/)
+electricity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-president-biden-visits-westby-wisconsin-announces-7-3-billion-for-clean-affordable-reliable-electricity-for-rural-america-the-largest-investment-in-rural-electrification-since-the-ne/)
 across [rural
 America](https://www.usda.gov/media/press-releases/2023/05/16/biden-harris-administration-makes-historic-11-billion-investment),
 [efficient
-permitting](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
+permitting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
 to get new projects built, and [American manufacturing of clean energy
 technologies](https://www.energy.gov/invest). Since the start of the
 Biden-Harris Administration, the US has added more than 100 gigawatts of
@@ -89,13 +89,13 @@ Bolstering Climate Resilience and Adaptation**
 The Biden-Harris Administration is taking a whole-of-government approach
 to addressing climate impacts, including through [Federal climate
 adaptation
-planning](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
+planning](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/)
 and integrating consideration of climate impacts into Federal policies,
 programs, and funding. The Administration released a [National Climate
 Resilience
-Framework](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
+Framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
 and President Biden [secured more than $50
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) for
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/) for
 climate resilience and adaptation investments that
 are [upgrading](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=e64acc8cc5&e=ebcdb14f7c) aging
 roads and bridges, including critical evacuation
@@ -105,7 +105,7 @@ reducing wildfire risk; bolstering [water
 infrastructure](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=3fee1441b0&e=ebcdb14f7c) and
 drought resilience across the American West; [reducing the risk to
 federal assets from future
-floods](https://www.whitehouse.gov/ceq/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/); and
+floods](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/); and
 [modernizing our electric
 grid](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=3b3d5549c0&e=ebcdb14f7c).
 Through portals like [Climate Mapping for Resilience and Adaptation
@@ -130,19 +130,19 @@ from the U.S. transportation sector by 2050. The Administration’s
 Bipartisan Infrastructure Law and Inflation Reduction Act invest tens of
 billions to
 decarbonize [maritime](https://www.epa.gov/ports-initiative/cleanports),
- [trucking](https://www.epa.gov/inflation-reduction-act/clean-heavy-duty-vehicle-program), [transit](https://www.transit.dot.gov/lowno), [rail](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/#:~:text=Last%20month%2C%20FRA%20announced%20more,Consolidated%20Rail%20Infrastructure%20and%20Safety),
+ [trucking](https://www.epa.gov/inflation-reduction-act/clean-heavy-duty-vehicle-program), [transit](https://www.transit.dot.gov/lowno), [rail](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/#:~:text=Last%20month%2C%20FRA%20announced%20more,Consolidated%20Rail%20Infrastructure%20and%20Safety),
 and [aviation](https://www.irs.gov/credits-deductions/businesses/sustainable-aviation-fuel-credit),
 all while making communities
 more [walkable](https://www.transportation.gov/grants/SS4A), [bikeable](https://www.fhwa.dot.gov/bipartisan-infrastructure-law/ta.cfm),
 and [connected](https://www.transportation.gov/grants/rcnprogram/about-rcp).
 The Bipartisan Infrastructure Law is also
-[investing](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/)
+[investing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/19/fact-sheet-biden-harris-administration-announces-new-actions-to-cut-electric-vehicle-costs-for-americans-and-continue-building-out-a-convenient-reliable-made-in-america-ev-charging-network/)
 $7.5 billion to build a nationwide network of convenient, reliable
 electric vehicle (EV) charging infrastructure along corridors and within
 communities, and $5 billion to put [clean school
 buses](https://www.epa.gov/newsreleases/biden-harris-administration-announces-nearly-1b-awards-clean-school-buses-across)
 on our roads. In addition, the
-President [rallied](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/) automakers
+President [rallied](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/) automakers
 and autoworkers around a historic goal of having electric vehicles
 account for at least 50% of new passenger vehicles sold by 2030. To
 support this goal while driving down consumer costs, the Administration
@@ -155,7 +155,7 @@ deployment needs for individuals and businesses within rural and low
 income communities. The Administration is also leading by example to
 electrify the federal vehicle fleet, [including 66,000 U.S. Postal
 Service delivery
-vehicles](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/)
+vehicles](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/)
 over five years.
 
 **   
@@ -169,13 +169,13 @@ insulation, solar, and other clean energy technologies, and today states
 across the US are rolling out IRA rebates of up to $14,000 per household
 to help low- and middle-income families afford cost-saving electric
 appliances and energy efficiency improvements. The President
-[established](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/#:~:text=Today%2C%20Vice%20President%20Kamala%20Harris,disadvantaged%20communities%2C%20as%20part%20of)
+[established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/#:~:text=Today%2C%20Vice%20President%20Kamala%20Harris,disadvantaged%20communities%2C%20as%20part%20of)
 a $20 billion national clean energy financing network that will support
 tens of thousands of clean energy projects and cost-saving retrofits,
 reducing or avoiding up to 40 million metric tons of carbon pollution
 annually over the next seven years. The Biden-Harris Administration has
 also [strengthened energy efficiency
-standards](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/) to
+standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/) to
 save households and businesses money, with standards updated by DOE for
 dozens of appliances
 [expected](https://www.energy.gov/articles/doe-finalizes-four-consensus-based-efficiency-standards-save-americans-billions-utility)
@@ -211,7 +211,7 @@ to bolster battery manufacturing, and over $4 billion through the
 [Federal Buy Clean Initiative](https://www.sustainability.gov/buyclean/)
 to bolster markets to buy cleaner materials. The Biden-Harris
 Administration’s historic steps to reduce super-polluting
-[methane](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
+[methane](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
 and
 [hydrofluorocarbons](https://www.epa.gov/newsreleases/biden-harris-administration-takes-latest-step-national-phasedown-climate-damaging)
 are also harnessing American innovation and creating good-paying union
@@ -222,22 +222,22 @@ Advancing Environmental Justice**
 Since Day One, the Biden-Harris Administration has prioritized a
 whole-of-government approach to environmental justice. The President
 signed a [historic Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/) that
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/) that
 mobilizes the federal government to bring clean energy and healthy
 environments to all and mitigate harm to those who have suffered from
 pollution and environmental burdens like climate change. Through
 the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 over 500 programs across 19 federal agencies are being reimagined and
 transformed to maximize the benefits of President Biden’s unprecedented
 investments – from clean energy projects to floodwater protections to
 wastewater infrastructure – to communities that need them most. At the
 same time, the Administration is taking unprecedented action to protect
 communities from [PFAS
-pollution](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/), [accelerate
+pollution](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/), [accelerate
 Superfund and brownfield
 cleanups](https://www.epa.gov/newsreleases/biden-harris-administration-announces-over-1-billion-start-new-cleanup-projects-and), [tighten
-standards](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-dangers-of-ethylene-oxide-pollution-and/) for
+standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-dangers-of-ethylene-oxide-pollution-and/) for
 hazardous air pollutants, and [enhance air quality
 enforcement](https://www.epa.gov/enforcement/national-enforcement-and-compliance-initiatives).
 To ensure the voices, perspectives, and lived experiences of communities
@@ -245,7 +245,7 @@ with environmental justice concerns are heard in the White House and
 reflected in federal priorities, policies, investments, and
 decision-making, President Biden also created the [White House
 Environmental Justice Advisory
-Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-advisory-council/).  
+Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-advisory-council/).  
 **   
 Delivering Clean Water and Replacing Lead Pipes**
 
@@ -257,7 +257,7 @@ clean water in American history. The Administration has already launched
 over 1,700 projects to expand access to clean drinking water, replace
 lead pipes, improve wastewater and sanitation infrastructure,
 and [remove PFAS pollution in
-water](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/). The
+water](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/). The
 Biden-Harris Administration invested **over $1 billion from the
 President’s Investing in America agenda to specifically** accelerate
 [the delivery of drinking water and community sanitation infrastructure
@@ -265,7 +265,7 @@ projects in Indian
 Country](https://ceq.sites.eop.gov/CEQCOM/Comms%20Projects/Biden%20Admin%20CEQ%20Comms/Paper%20Edits/FACT%20SHEET:%20At%20White%20House%20Water%20Summit,%20Biden-Harris%20Administration%20Announces%20Bold%20National%20Goal%20to%20Protect%20and%20Restore%20Freshwater%20Resources,%20Delivers%20Over%20$1%20Billion%20for%20Tribal%20Clean%20Water%20Projects%20%7C%20The%20White%20House),
 where almost 50% of communities are lacking this basic human right.
 [President Biden has also made a
-commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/) to
+commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/) to
 replace every toxic lead pipe in the country within a decade, protecting
 families from lead poisoning that can irreversibly harm brain
 development in children.
@@ -281,7 +281,7 @@ and workers](https://energycommunities.gov/) that have powered our
 nation for generations. To help young people access skills-based
 training for good-paying careers in the clean energy and climate
 resilience economy, the Administration
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
 the [American Climate Corps](https://www.acc.gov/), which will mobilize
 a new, diverse generation of more than 20,000 Americans. And with direct
 support from the Administration’s Investing in America Agenda, more than
@@ -304,9 +304,9 @@ President Biden, the U.S. is on track to meet the first-ever national
 goal to conserve at least 30 percent of our lands and waters by 2030.
 The Biden-Harris Administration has established or expanded [eight
 national
-monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
 and [restored protections for three
-more](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
+more](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
 created [five new national wildlife
 refuges](https://www.doi.gov/pressreleases/interior-department-establishes-everglades-gulf-conservation-area-conserve-habitat) and
 significantly [expanded five
@@ -316,7 +316,7 @@ designate or expand protections for five more; created one new national
 estuarine research reserve; protected the [Boundary Waters of
 Minnesota](https://www.doi.gov/pressreleases/biden-harris-administration-protects-boundary-waters-area-watershed),
 the nation’s most visited wilderness area; safeguarded [Bristol
-Bay](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/) in
+Bay](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/) in
 southwest Alaska from the impacts of mining; protected the Arctic Ocean
 from oil and gas development; and withdrawn [Chaco
 Canyon](https://www.doi.gov/pressreleases/biden-harris-administration-protects-chaco-region-tribal-cultural-sites-development) in
@@ -327,7 +327,7 @@ lands and thousands of sacred sites. The Administration also directed
 the conservation of old-growth and mature forests, put conservation on
 equal footing with development in managing our public lands, launched
 the *America the Beautiful* [Freshwater
-Challenge](https://www.whitehouse.gov/ceq/the-america-the-beautiful-freshwater-challenge/)
+Challenge](https://bidenwhitehouse.archives.gov/ceq/the-america-the-beautiful-freshwater-challenge/)
 *to* **protect, restore, and reconnect 8 million acres of wetlands and
 100,000 miles of our nation’s river and streams,** protected vast areas
 of caribou habitat in the Western Arctic for future generations, and is
@@ -340,7 +340,7 @@ Climate Ambition**
 President Biden has restored America’s climate leadership at home and
 abroad. Under his leadership, the Administration is [securing
 commitments from more than 155 countries to reduce methane
-emissions](https://www.whitehouse.gov/climate/#:~:text=Leveraging%20Domestic%20Ambition%20to%20Rally%20Global%20Peers) by
+emissions](https://bidenwhitehouse.archives.gov/climate/#:~:text=Leveraging%20Domestic%20Ambition%20to%20Rally%20Global%20Peers) by
 at least 30 percent by 2030; successfully galvanizing other countries at
 COP28 to commit, for the first time, to transition away from unabated
 fossil fuels, stop building new unabated coal capacity globally, and
@@ -359,12 +359,12 @@ hundreds of millions of new financing for nature and climate.
 Infrastructure More Quickly**
 
 The Biden-Harris Administration has [taken
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
 to accelerate clean energy infrastructure and deliver other critical
 projects by securing and directing long overdue resources to improve and
 accelerate permitting and environmental reviews. The Administration also
 finalized the [Bipartisan Permitting Reform Implementation
-Rule](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/) to
+Rule](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/) to
 **address climate change, protect public health, encourage better
 environmental outcomes, and promote meaningful public input on Federal
 decisions and projects.**

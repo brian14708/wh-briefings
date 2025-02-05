@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 18:08:36-05:00
 published_time: 2022-11-18 18:05:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-thailand-alliance-and-to-support-mekong-sub-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-thailand-alliance-and-to-support-mekong-sub-region/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Initiatives to Strengthen\
   \ U.S.-Thailand Alliance and to Support Mekong\_Sub-Region"

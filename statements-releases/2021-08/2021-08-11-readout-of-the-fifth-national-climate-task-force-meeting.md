@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-11'
 modified_time: 2021-08-12 11:07:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-fifth-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/11/readout-of-the-fifth-national-climate-task-force-meeting/
 published_time: 2021-08-11 21:33:57-04:00
 title: "Readout of the Fifth National Climate Task Force\_Meeting"
 ---
@@ -39,7 +39,7 @@ back better:
 -   **Council on Environmental Quality Chair Brenda Mallory** and
     **Acting OMB Director Shalanda Young** discussed the
     recently-released [Justice40 interim
-    guidance](https://www.whitehouse.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/)
+    guidance](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/)
     that will ensure the federal government is delivering at least 40
     percent of the overall benefits from federal investments in climate
     and clean energy to disadvantaged communities. The interim guidance
@@ -65,7 +65,7 @@ back better:
 
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the Task Force is chaired by the National Climate Advisor and includes
 Cabinet-level leaders from 21 federal agencies and senior White House
 officials to mobilize the Biden-Harris Administration’s implementation

@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 21:08:22-04:00
 published_time: 2022-05-04 21:08:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/04/president-biden-announces-presidential-delegation-to-the-republic-of-korea-to-attend-the-inauguration-of-his-excellency-yoon-suk-yeol/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/04/president-biden-announces-presidential-delegation-to-the-republic-of-korea-to-attend-the-inauguration-of-his-excellency-yoon-suk-yeol/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Korea\
   \ to Attend the Inauguration of His Excellency Yoon Suk\_Yeol"

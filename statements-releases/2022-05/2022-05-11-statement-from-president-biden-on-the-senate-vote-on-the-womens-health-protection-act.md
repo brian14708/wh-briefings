@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 16:28:31-04:00
 published_time: 2022-05-11 16:28:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/statement-from-president-biden-on-the-senate-vote-on-the-womens-health-protection-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/statement-from-president-biden-on-the-senate-vote-on-the-womens-health-protection-act/
 tags: statements-releases
 title: "Statement from President\_Biden on the Senate Vote on the Women\u2019s Health\
   \ Protection\_Act"

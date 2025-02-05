@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-17 11:58:13-04:00
 published_time: 2024-05-16 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/remarks-by-vice-president-harris-at-a-campaign-event-in-chicago-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/remarks-by-vice-president-harris-at-a-campaign-event-in-chicago-il/
 tags: statements-releases
 title: "Remarks by Vice President Harris at a Campaign Event in Chicago,\_IL"
 ---

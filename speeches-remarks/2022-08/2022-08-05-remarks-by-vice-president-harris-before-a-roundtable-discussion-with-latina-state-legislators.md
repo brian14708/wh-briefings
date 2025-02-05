@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 17:46:51-04:00
 published_time: 2022-08-05 16:50:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/05/remarks-by-vice-president-harris-before-a-roundtable-discussion-with-latina-state-legislators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/05/remarks-by-vice-president-harris-before-a-roundtable-discussion-with-latina-state-legislators/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before a Roundtable Discussion With Latina\
   \ State\_Legislators"

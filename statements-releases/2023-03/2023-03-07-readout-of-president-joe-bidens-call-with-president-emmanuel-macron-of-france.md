@@ -1,7 +1,7 @@
 ---
 date: '2023-03-07'
 published_time: 2023-03-07 17:06:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/readout-of-president-joe-bidens-call-with-president-emmanuel-macron-of-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/readout-of-president-joe-bidens-call-with-president-emmanuel-macron-of-france/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Emmanuel Macron\
   \ of\_France"

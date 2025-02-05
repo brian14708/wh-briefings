@@ -1,7 +1,7 @@
 ---
 date: '2024-10-28'
 published_time: 2024-10-28 16:46:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/28/remarks-by-president-biden-after-casting-his-early-voting-ballot-in-the-2024-general-election-new-castle-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/28/remarks-by-president-biden-after-casting-his-early-voting-ballot-in-the-2024-general-election-new-castle-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Casting His Early-Voting Ballot in the 2024\
   \ General Election | New Castle,\_DE"

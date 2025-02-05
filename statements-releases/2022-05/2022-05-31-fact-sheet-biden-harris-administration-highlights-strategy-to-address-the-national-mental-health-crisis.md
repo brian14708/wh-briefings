@@ -2,14 +2,14 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 10:59:19-04:00
 published_time: 2022-05-31 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-highlights-strategy-to-address-the-national-mental-health-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-highlights-strategy-to-address-the-national-mental-health-crisis/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Strategy to Address\
   \ the National Mental Health\_Crisis"
 ---
  
 As we mark [Mental Health Awareness
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-mental-health-awareness-month-2022/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-mental-health-awareness-month-2022/),
 our country faces an unprecedented mental health crisis among people of
 all ages. Two in five American
 adults [report](https://www.kff.org/report-section/the-implications-of-covid-19-for-mental-health-and-substance-use-issue-brief/) symptoms
@@ -24,16 +24,16 @@ from criminal justice to homelessness to the labor shortage. 
   
 To address this crisis, as part of his Unity Agenda, President Biden has
 put forward a [comprehensive national
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) to
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) to
 tackle our mental health crisis, and used his State of the Union Address
 to call for a major transformation in how mental health is understood,
 accessed, treated, and integrated – in and out of health care settings.
 Across the federal government, the Administration has already invested
 nearly $4 billion in [American Rescue
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/the-american-rescue-plan-people-difference/) (ARP)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/11/the-american-rescue-plan-people-difference/) (ARP)
 funding to expand access to mental health and substance use services.
 The President’s [FY23
-budget](https://www.whitehouse.gov/wp-content/uploads/2022/03/budget_fy2023.pdf) goes
+budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/budget_fy2023.pdf) goes
 further, by proposing over $27 billion in discretionary funding and
 another $100 billion in mandatory funding over 10 years to implement his
 national strategy and transform behavioral health services for all
@@ -284,7 +284,7 @@ technical assistance and guidance documents on mental health.
 **Establish a federal research action plan on mental health. **The
 underlying causes of most mental health conditions remain largely
 unknown. To fill this knowledge gap, the [White House Office of Science
-& Technology Policy](https://www.whitehouse.gov/ostp/) is leading an
+& Technology Policy](https://bidenwhitehouse.archives.gov/ostp/) is leading an
 effort to establish several new cross-agency research priorities for
 mental health as part of a broader coordinating effort on brain health.
    

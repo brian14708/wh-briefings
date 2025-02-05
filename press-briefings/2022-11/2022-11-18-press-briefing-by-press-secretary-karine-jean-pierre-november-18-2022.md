@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 22:07:01-05:00
 published_time: 2022-11-18 22:07:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/18/press-briefing-by-press-secretary-karine-jean-pierre-november-18-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/18/press-briefing-by-press-secretary-karine-jean-pierre-november-18-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, November 18,\_2022"
 ---

@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 18:39:10-04:00
 published_time: 2024-09-20 18:39:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/20/remarks-by-vice-president-harris-at-a-campaign-event-atlanta-ga-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/20/remarks-by-vice-president-harris-at-a-campaign-event-atlanta-ga-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Atlanta,\_GA"
 ---

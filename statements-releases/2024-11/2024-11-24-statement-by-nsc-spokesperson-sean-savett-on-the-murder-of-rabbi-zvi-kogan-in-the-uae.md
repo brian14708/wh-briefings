@@ -2,7 +2,7 @@
 date: '2024-11-24'
 modified_time: 2024-11-24 18:12:34-05:00
 published_time: 2024-11-24 18:12:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/24/statement-by-nsc-spokesperson-sean-savett-on-the-murder-of-rabbi-zvi-kogan-in-the-uae/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/24/statement-by-nsc-spokesperson-sean-savett-on-the-murder-of-rabbi-zvi-kogan-in-the-uae/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on the Murder of Rabbi Zvi Kogan\
   \ in the\_UAE"

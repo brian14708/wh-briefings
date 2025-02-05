@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 17:44:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-on-expanding-access-to-mental-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-on-expanding-access-to-mental-health-care/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Expanding Access to Mental Health\_Care"
 ---

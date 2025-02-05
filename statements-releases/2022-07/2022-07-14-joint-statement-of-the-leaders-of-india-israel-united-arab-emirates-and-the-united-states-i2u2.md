@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 02:46:39-04:00
 published_time: 2022-07-14 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/joint-statement-of-the-leaders-of-india-israel-united-arab-emirates-and-the-united-states-i2u2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/joint-statement-of-the-leaders-of-india-israel-united-arab-emirates-and-the-united-states-i2u2/
 tags: statements-releases
 title: "Joint Statement of the Leaders of India, Israel, United Arab Emirates, and\
   \ the United\_States\_(I2U2)"

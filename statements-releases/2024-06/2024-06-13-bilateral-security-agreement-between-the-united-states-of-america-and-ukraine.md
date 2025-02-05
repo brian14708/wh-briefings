@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 15:18:57-04:00
 published_time: 2024-06-13 15:18:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/bilateral-security-agreement-between-the-united-states-of-america-and-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/bilateral-security-agreement-between-the-united-states-of-america-and-ukraine/
 tags: statements-releases
 title: "Bilateral Security Agreement Between the United\_States of America and\_Ukraine"
 ---

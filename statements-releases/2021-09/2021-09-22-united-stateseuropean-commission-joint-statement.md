@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-09-22'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/united-stateseuropean-commission-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/united-stateseuropean-commission-joint-statement/
 published_time: 2021-09-22 13:14:59-04:00
 title: "United\_States\u2013European Commission Joint\_Statement"
 ---

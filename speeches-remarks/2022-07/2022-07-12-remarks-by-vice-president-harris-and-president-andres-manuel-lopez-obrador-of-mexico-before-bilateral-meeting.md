@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 11:48:45-04:00
 published_time: 2022-07-12 11:48:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/12/remarks-by-vice-president-harris-and-president-andres-manuel-lopez-obrador-of-mexico-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/12/remarks-by-vice-president-harris-and-president-andres-manuel-lopez-obrador-of-mexico-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Andr\xE9s Manuel L\xF3pez Obrador\
   \ of Mexico Before Bilateral\_Meeting"

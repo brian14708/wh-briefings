@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 09:59:18-05:00
 published_time: 2022-11-18 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-the-biden-harris-administration-advances-transmission-buildout-to-deliver-affordable-clean-electricity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-the-biden-harris-administration-advances-transmission-buildout-to-deliver-affordable-clean-electricity/
 tags: statements-releases
 title: "FACT SHEET:\_The Biden-\u2060Harris Administration Advances Transmission Buildout\
   \ to Deliver Affordable, Clean\_Electricity"
@@ -87,7 +87,7 @@ high-capacity transmission lines, including:
         Mexico to markets in Arizona and California. 
 -   **Improving efficiency of federal permitting:** As part of the
     Administration’s [Permitting Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/)—a
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/)—a
     strategy to strengthen and accelerate federal permitting and
     environmental reviews across a range of infrastructure
     projects—agencies are collaborating to promote sound and timely
@@ -145,7 +145,7 @@ high-capacity transmission lines, including:
     taking a wide range of steps to help states, Tribes, territories,
     and local governments advance transmission projects. For example,
     the Department of Transportation [issued
-    guidance](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/)
+    guidance](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/)
     to help state agencies host transmission lines along existing
     highway rights-of-way. Additionally, the Inflation Reduction Act
     provides $760 million in grants available to siting authorities and
@@ -153,7 +153,7 @@ high-capacity transmission lines, including:
     the siting of interstate transmission projects.
 -   **Accelerating innovative solutions:** As part of the
     Administration’s [Net-Zero Game Changers
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/),
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/),
     one of five near-term priorities is research and development to
     support a net-zero power grid and electrification—including advanced
     transmission and distribution planning and operations. Efforts

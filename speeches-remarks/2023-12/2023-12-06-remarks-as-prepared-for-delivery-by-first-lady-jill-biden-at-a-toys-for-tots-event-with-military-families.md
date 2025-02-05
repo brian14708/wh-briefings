@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 16:16:35-05:00
 published_time: 2023-12-06 16:16:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-toys-for-tots-event-with-military-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-toys-for-tots-event-with-military-families/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Toys for Tots\
   \ Event with Military\_Families"

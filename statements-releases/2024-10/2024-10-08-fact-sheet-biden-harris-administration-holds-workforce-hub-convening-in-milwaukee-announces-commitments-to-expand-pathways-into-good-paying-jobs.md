@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-07 21:22:34-04:00
 published_time: 2024-10-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-milwaukee-announces-commitments-to-expand-pathways-into-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-milwaukee-announces-commitments-to-expand-pathways-into-good-paying-jobs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Holds Workforce Hub Convening\
   \ in Milwaukee, Announces Commitments to Expand Pathways into Good-Paying\_Jobs"
@@ -13,7 +13,7 @@ America agenda to connect Milwaukee, Wisconsin residents to good-paying
 jobs, including replacing lead pipes and upgrading infrastructure
 through the Milwaukee Workforce Hub. The city’s Hub is one of nine
 [Investing in America Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%E2%81%A0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/)
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%E2%81%A0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/)
 launched by the Biden-Harris Administration to ensure all Americans
 —including women, people of color, veterans, and other that have been
 historically left behind–have access to job opportunities, and the

@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 08:43:04-04:00
 published_time: 2022-05-16 08:42:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/statement-by-president-biden-on-vesak-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/statement-by-president-biden-on-vesak-2/
 tags: statements-releases
 title: "Statement by President\_Biden on\_Vesak"
 ---

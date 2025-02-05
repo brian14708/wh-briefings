@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 18:55:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/28/remarks-by-president-biden-at-the-white-house-conference-on-hunger-nutrition-and-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/28/remarks-by-president-biden-at-the-white-house-conference-on-hunger-nutrition-and-health/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Conference on Hunger, Nutrition,\
   \ and\_Health"

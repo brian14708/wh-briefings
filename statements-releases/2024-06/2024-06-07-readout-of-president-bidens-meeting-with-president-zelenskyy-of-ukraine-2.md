@@ -1,7 +1,7 @@
 ---
 date: '2024-06-07'
 published_time: 2024-06-07 09:20:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/07/readout-of-president-bidens-meeting-with-president-zelenskyy-of-ukraine-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/07/readout-of-president-bidens-meeting-with-president-zelenskyy-of-ukraine-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Zelenskyy of\_Ukraine"
 ---

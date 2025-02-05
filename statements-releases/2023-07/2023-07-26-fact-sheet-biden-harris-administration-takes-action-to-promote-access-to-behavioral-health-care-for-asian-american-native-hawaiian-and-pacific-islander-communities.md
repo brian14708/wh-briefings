@@ -2,7 +2,7 @@
 date: '2023-07-26'
 modified_time: 2023-07-26 11:42:55-04:00
 published_time: 2023-07-26 03:22:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-biden-harris-administration-takes-action-to-promote-access-to-behavioral-health-care-for-asian-american-native-hawaiian-and-pacific-islander-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-biden-harris-administration-takes-action-to-promote-access-to-behavioral-health-care-for-asian-american-native-hawaiian-and-pacific-islander-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Promote Access\
   \ to Behavioral Health Care for Asian American, Native Hawaiian, and Pacific Islander\_\
@@ -50,8 +50,8 @@ health care, including:
     meet cultural, social, and language-related needs
 
 Through the President’s [Mental Health
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) and [other
-initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/),
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) and [other
+initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/),
 the Biden-Harris Administration is leading a whole-of-society approach
 to transform behavioral health services and bolster support,
 particularly for underserved communities, including AA and NHPI

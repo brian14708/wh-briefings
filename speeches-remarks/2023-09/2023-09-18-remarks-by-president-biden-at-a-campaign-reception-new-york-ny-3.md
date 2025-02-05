@@ -2,7 +2,7 @@
 date: '2023-09-18'
 modified_time: 2023-09-19 13:27:36-04:00
 published_time: 2023-09-18 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/18/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/18/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | New York,\_NY"
 ---

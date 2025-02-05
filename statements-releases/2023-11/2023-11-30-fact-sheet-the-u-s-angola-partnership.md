@@ -2,7 +2,7 @@
 date: '2023-11-30'
 modified_time: 2023-11-30 17:35:48-05:00
 published_time: 2023-11-30 17:35:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-the-u-s-angola-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-the-u-s-angola-partnership/
 tags: statements-releases
 title: "FACT SHEET: The U.S. \u2013 Angola\_Partnership"
 ---

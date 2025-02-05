@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 15:33:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/20/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-north-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/20/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-north-korea/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to North\_Korea"

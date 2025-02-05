@@ -2,7 +2,7 @@
 date: '2022-04-15'
 modified_time: 2022-04-15 13:10:26-04:00
 published_time: 2022-04-15 13:10:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/readout-of-vice-president-harriss-meeting-with-president-hassan-of-tanzania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/15/readout-of-vice-president-harriss-meeting-with-president-hassan-of-tanzania/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Hassan of\_\
   Tanzania"

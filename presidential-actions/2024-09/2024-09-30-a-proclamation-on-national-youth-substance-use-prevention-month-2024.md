@@ -1,7 +1,7 @@
 ---
 date: '2024-09-30'
 published_time: 2024-09-30 15:55:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-national-youth-substance-use-prevention-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-national-youth-substance-use-prevention-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Youth Substance Use Prevention Month,\_2024"
 ---

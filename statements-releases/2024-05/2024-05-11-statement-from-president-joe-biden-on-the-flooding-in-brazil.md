@@ -2,7 +2,7 @@
 date: '2024-05-11'
 modified_time: 2024-05-11 20:47:52-04:00
 published_time: 2024-05-11 20:47:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/11/statement-from-president-joe-biden-on-the-flooding-in-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/11/statement-from-president-joe-biden-on-the-flooding-in-brazil/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Flooding in\_Brazil"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-28'
 published_time: 2023-10-28 18:43:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/28/statement-from-president-joe-biden-on-historic-tentative-agreement-between-stellantis-and-uaw/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/28/statement-from-president-joe-biden-on-historic-tentative-agreement-between-stellantis-and-uaw/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic Tentative Agreement Between\
   \ Stellantis and\_UAW"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 20:56:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/25/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-soboba-band-of-luiseno-indians-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/25/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-soboba-band-of-luiseno-indians-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Soboba\
   \ Band of Luise\xF1o\_Indians"

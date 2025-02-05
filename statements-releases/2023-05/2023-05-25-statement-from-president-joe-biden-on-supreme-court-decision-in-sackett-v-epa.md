@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 16:09:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/statement-from-president-joe-biden-on-supreme-court-decision-in-sackett-v-epa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/statement-from-president-joe-biden-on-supreme-court-decision-in-sackett-v-epa/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Supreme Court Decision in Sackett v.\_\
   EPA"

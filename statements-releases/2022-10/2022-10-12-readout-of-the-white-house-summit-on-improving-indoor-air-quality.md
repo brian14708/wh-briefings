@@ -1,7 +1,7 @@
 ---
 date: '2022-10-12'
 published_time: 2022-10-12 12:00:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/readout-of-the-white-house-summit-on-improving-indoor-air-quality/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/readout-of-the-white-house-summit-on-improving-indoor-air-quality/
 tags: statements-releases
 title: "Readout of the White\_House Summit on Improving Indoor Air\_Quality"
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-15 19:04:57-04:00
 published_time: 2024-08-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/statement-from-president-joe-biden-on-inflation-reduction-act-anniversary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/statement-from-president-joe-biden-on-inflation-reduction-act-anniversary/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Inflation Reduction Act\_Anniversary"
 ---

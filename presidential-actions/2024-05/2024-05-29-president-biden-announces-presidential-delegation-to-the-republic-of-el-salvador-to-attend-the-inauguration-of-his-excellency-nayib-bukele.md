@@ -2,7 +2,7 @@
 date: '2024-05-29'
 modified_time: 2024-05-29 14:23:13-04:00
 published_time: 2024-05-29 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/29/president-biden-announces-presidential-delegation-to-the-republic-of-el-salvador-to-attend-the-inauguration-of-his-excellency-nayib-bukele/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/29/president-biden-announces-presidential-delegation-to-the-republic-of-el-salvador-to-attend-the-inauguration-of-his-excellency-nayib-bukele/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of El Salvador\
   \ to Attend the Inauguration of His Excellency Nayib\_Bukele"

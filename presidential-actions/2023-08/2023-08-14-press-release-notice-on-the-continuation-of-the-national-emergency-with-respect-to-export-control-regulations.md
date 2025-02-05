@@ -1,7 +1,7 @@
 ---
 date: '2023-08-14'
 published_time: 2023-08-14 15:07:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/14/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/14/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to Export Control\_Regulations"

@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 18:56:33-04:00
 published_time: 2024-08-13 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-advanced-research-projects-agency-for-health-director-dr-renee-wegrzyn-en-route-new-orleans-la/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-advanced-research-projects-agency-for-health-director-dr-renee-wegrzyn-en-route-new-orleans-la/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Advanced Research Projects\
   \ Agency for Health Director Dr. Renee Wegrzyn En Route New Orleans,\_LA"

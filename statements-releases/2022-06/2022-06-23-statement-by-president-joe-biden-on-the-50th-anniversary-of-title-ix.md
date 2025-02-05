@@ -1,7 +1,7 @@
 ---
 date: '2022-06-23'
 published_time: 2022-06-23 09:57:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/statement-by-president-joe-biden-on-the-50th-anniversary-of-title-ix/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/statement-by-president-joe-biden-on-the-50th-anniversary-of-title-ix/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the 50th Anniversary of Title\_IX"
 ---

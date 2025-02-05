@@ -1,7 +1,7 @@
 ---
 date: '2024-05-07'
 published_time: 2024-05-07 18:03:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-event-to-honor-memory-of-world-war-i-service-members/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-event-to-honor-memory-of-world-war-i-service-members/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Event to Honor\
   \ Memory of World War I Service\_Members"

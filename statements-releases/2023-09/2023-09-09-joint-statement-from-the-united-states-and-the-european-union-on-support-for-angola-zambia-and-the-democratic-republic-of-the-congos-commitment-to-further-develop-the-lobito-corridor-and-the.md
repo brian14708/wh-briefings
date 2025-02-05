@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 09:52:32-04:00
 published_time: 2023-09-09 09:52:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-and-the-european-union-on-support-for-angola-zambia-and-the-democratic-republic-of-the-congos-commitment-to-further-develop-the-lobito-corridor-and-the/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-and-the-european-union-on-support-for-angola-zambia-and-the-democratic-republic-of-the-congos-commitment-to-further-develop-the-lobito-corridor-and-the/
 tags: statements-releases
 title: "Joint Statement from the United\_States and the European Union on Support\
   \ for Angola, Zambia and the Democratic Republic of the Congo\u2019s commitment\
@@ -46,7 +46,7 @@ construction of the new Zambia-Lobito railway line from eastern Angola
 through northern Zambia. This builds on the initial U.S.-led support to
 refurbish the railway section from the Lobito port in Angola to
 the [Democratic Republic of the
-Congo](https://www.whitehouse.gov/wp-content/uploads/2023/09/2817-Zambia-Angola-Economic-Corridor-G20-WEB.jpg).  
+Congo](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/2817-Zambia-Angola-Economic-Corridor-G20-WEB.jpg).  
   
 Once transport infrastructure connecting all three countries is fully
 operational, the Corridor will enhance export possibilities for Zambia,

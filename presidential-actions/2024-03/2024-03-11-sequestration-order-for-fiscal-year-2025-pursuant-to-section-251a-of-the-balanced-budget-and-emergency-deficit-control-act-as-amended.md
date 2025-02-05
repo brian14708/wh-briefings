@@ -1,7 +1,7 @@
 ---
 date: '2024-03-11'
 published_time: 2024-03-11 17:20:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/11/sequestration-order-for-fiscal-year-2025-pursuant-to-section-251a-of-the-balanced-budget-and-emergency-deficit-control-act-as-amended/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/11/sequestration-order-for-fiscal-year-2025-pursuant-to-section-251a-of-the-balanced-budget-and-emergency-deficit-control-act-as-amended/
 tags: presidential-actions
 title: "Sequestration Order for Fiscal Year 2025 Pursuant to Section 251A of the Balanced\
   \ Budget and Emergency Deficit Control Act, as\_Amended"

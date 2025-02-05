@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 21:29:41-04:00
 published_time: 2024-09-25 21:23:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/joint-statement-by-the-united-states-australia-canada-european-union-france-germany-italy-japan-saudi-arabia-united-arab-emirates-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/joint-statement-by-the-united-states-australia-canada-european-union-france-germany-italy-japan-saudi-arabia-united-arab-emirates-qatar/
 tags: statements-releases
 title: "Joint Statement by the United\_States, Australia, Canada, European Union,\
   \ France, Germany, Italy, Japan, Saudi Arabia, United Arab Emirates, the United\

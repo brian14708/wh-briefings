@@ -1,7 +1,7 @@
 ---
 date: '2024-10-10'
 published_time: 2024-10-10 15:01:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/first-lady-jill-biden-announces-2024-girls-leading-change-honorees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/first-lady-jill-biden-announces-2024-girls-leading-change-honorees/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces 2024 \u201CGirls Leading Change\u201D\_Honorees"
 ---
@@ -39,7 +39,7 @@ Since day one in office, this Administration has taken actions to
 advance the safety, education, health, and well-being of girls. A full
 summary of these actions can be found via a White House Fact Sheet
 released
-today [HERE](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-celebrates-international-day-of-the-girl-and-continues-commitment-to-supporting-youth-in-the-u-s-and-abroad/).  
+today [HERE](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/fact-sheet-biden-harris-administration-celebrates-international-day-of-the-girl-and-continues-commitment-to-supporting-youth-in-the-u-s-and-abroad/).  
 
 *“Girls Leading Change” will begin at 5:30 PM ET today, Thursday,
 October 10th, and be available via livestream at whitehouse.gov/live * 

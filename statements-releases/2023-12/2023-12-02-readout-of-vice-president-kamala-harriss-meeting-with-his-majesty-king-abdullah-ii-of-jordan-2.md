@@ -1,7 +1,7 @@
 ---
 date: '2023-12-02'
 published_time: 2023-12-02 12:16:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-kamala-harriss-meeting-with-his-majesty-king-abdullah-ii-of-jordan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-kamala-harriss-meeting-with-his-majesty-king-abdullah-ii-of-jordan-2/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with His Majesty King\
   \ Abdullah II of\_Jordan"

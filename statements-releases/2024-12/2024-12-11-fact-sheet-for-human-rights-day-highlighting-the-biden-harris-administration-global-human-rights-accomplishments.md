@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 12:15:55-05:00
 published_time: 2024-12-11 08:55:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/11/fact-sheet-for-human-rights-day-highlighting-the-biden-harris-administration-global-human-rights-accomplishments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/11/fact-sheet-for-human-rights-day-highlighting-the-biden-harris-administration-global-human-rights-accomplishments/
 tags: statements-releases
 title: "Fact Sheet: For Human Rights Day, Highlighting the Biden-\u2060Harris Administration\
   \ Global Human Rights Accomplishments"
@@ -48,7 +48,7 @@ Political Prisoners</u>*
     and protecting the rights of all workers in line with the
     [Presidential Memorandum on Advancing Worker Empowerment, Rights,
     and High Labor Standards
-    Globally](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-advancing-worker-empowerment-rights-and-high-labor-standards-globally/),
+    Globally](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-advancing-worker-empowerment-rights-and-high-labor-standards-globally/),
     worked with partners to equip young leaders with essential skills,
     such as through the Community of Democracies’ [Youth Democracy
     Network](https://www.state.gov/the-united-states-and-the-community-of-democracies-launch-global-youth-democracy-network-to-support-next-generation-democratic-leaders/);
@@ -98,7 +98,7 @@ Political Prisoners</u>*
     Administration advanced a whole-of-government approach to curb the
     misuse and proliferation of commercial spyware. The President’s
     [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/#:~:text=Therefore%2C%20I%20hereby%20establish%20as,foreign%20government%20or%20foreign%20person.)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/#:~:text=Therefore%2C%20I%20hereby%20establish%20as,foreign%20government%20or%20foreign%20person.)
     set standards and safeguards for the domestic government use of
     these commercial surveillance tools, while the novel application of
     visa restrictions—including dozens of new designations announced
@@ -107,7 +107,7 @@ Political Prisoners</u>*
     citizens or undermining human rights globally.  The Administration
     has successfully internationalized this pioneering effort through
     the [Joint
-    Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/)
+    Statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/)
     on Efforts to Counter the Proliferation and Misuse of Commercial
     Spyware, now endorsed by 22 countries with this week’s formal
     addition of Latvia. The U.S. has also driven global consensus
@@ -314,7 +314,7 @@ Political Prisoners</u>*
 
 -   **Promoted Accountability for Conflict-Related Sexual Violence**.
     President Biden issued a historic
-    [Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/)
+    [Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/)
     on Promoting Accountability for Conflict-Related Sexual Violence in
     November 2022 directing federal agencies to marshal sanctions
     authorities to promote justice and accountability specifically for
@@ -340,7 +340,7 @@ Political Prisoners</u>*
     to this work.
 -   **Countered Technology-Facilitated Gender-Based Violence.** By
     [founding and
-    co-leading](https://www.whitehouse.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/)
+    co-leading](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/)
     the 14-country Global Partnership for Action on Gender-Based Online
     Harassment and Abuse, the Administration has advanced global
     policies to address online safety for women and girls by shaping a
@@ -355,7 +355,7 @@ Political Prisoners</u>*
     committed to addressing the root causes of violence and conflict as
     a top national security priority. In 2023, the United States issued
     a [U.S. Strategy and National Action Plan on Women, Peace and
-    Security](https://www.whitehouse.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf),
+    Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf),
     which is currently being implemented by the Department of Defense
     (DOD), USAID, the Department of State, and the Department of
     Homeland Security. For example, DOD has engaged in Women, Peace, and
@@ -396,7 +396,7 @@ Political Prisoners</u>*
     adherence.
 -   **Protected LGBTQI+ persons in Uganda.** In December 2023, As
     directed by President Biden, the United States released a [fact
-    sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/)
+    sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/)
     outlining actions taken to address threats posed by democratic
     backsliding in Uganda, promote accountability for human rights
     abuses, and curtail direct assistance to the government.
@@ -420,7 +420,7 @@ Political Prisoners</u>*
 
 -   **Inaugurated the Summit for Democracy.** President Biden launched
     the historic [Summit for
-    Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/)
+    Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/)
     in 2021 to strengthen democratic institutions, protect human rights,
     and accelerate the fight against corruption, both at home and
     abroad.  Under President Biden’s leadership, the United States has
@@ -433,9 +433,9 @@ Political Prisoners</u>*
     established countering corruption as a “core U.S. national security
     interest,” and issued the first-ever [United States Strategy on
     Countering
-    Corruption](https://www.whitehouse.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf).
+    Corruption](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf).
     Since then, the United States has [taken
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/)
     at home and around the world to curb illicit finance, hold corrupt
     actors accountable, forge multilateral partnerships, and equip
     frontline leaders to take on transnational corruption.
@@ -452,7 +452,7 @@ Political Prisoners</u>*
     accountability measures, export controls, and voluntary commitments
     to enlist the private sector to combat authoritarian use of
     technology. Through the [Declaration for the Future of the
-    Internet](https://www.whitehouse.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf),
+    Internet](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf),
     endorsed by over sixties countries, and as chair of the Freedom
     Online Coalition, the Administration strengthened the global
     commitment to a free and open internet.
@@ -477,7 +477,7 @@ Political Prisoners</u>*
     rights and labor rights, and foster justice and accountability.
 -   In March, President Biden issued an [Executive Order on the Safe,
     Secure, and Trustworthy Development and Use of Artificial
-    Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+    Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
     in part to ensure that technology is developed, deployed, and
     governed consistent with universal human rights, the rule of law,
     and appropriate legal authorization, safeguards, and oversight, such
@@ -521,7 +521,7 @@ Political Prisoners</u>*
     retaliation in U.S.-supported development finance projects.
 -   **Combatted Industry Labor Abuses.** In June 2022, President Biden
     signed the historic [National Security
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/)
     on Combating Illegal, Unreported, and Unregulated Fishing and
     Associated Labor Abuses (NSM-11), directing agencies to put their
     authorities to work to tackle the problem of IUU fishing and

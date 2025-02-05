@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 17:07:35-04:00
 published_time: 2023-04-14 17:07:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-vice-president-harris-at-the-national-action-network-national-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-vice-president-harris-at-the-national-action-network-national-convention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the National Action Network National\_\
   Convention"

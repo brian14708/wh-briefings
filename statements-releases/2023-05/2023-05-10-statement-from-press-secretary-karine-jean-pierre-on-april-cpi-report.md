@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 10:17:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/statement-from-press-secretary-karine-jean-pierre-on-april-cpi-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/statement-from-press-secretary-karine-jean-pierre-on-april-cpi-report/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on April CPI\_Report"
 ---

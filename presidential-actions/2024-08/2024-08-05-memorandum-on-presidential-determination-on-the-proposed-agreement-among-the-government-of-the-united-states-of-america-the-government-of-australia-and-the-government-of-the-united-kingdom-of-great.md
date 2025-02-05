@@ -1,7 +1,7 @@
 ---
 date: '2024-08-05'
 published_time: 2024-08-05 11:12:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/05/memorandum-on-presidential-determination-on-the-proposed-agreement-among-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-kingdom-of-great/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/05/memorandum-on-presidential-determination-on-the-proposed-agreement-among-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-kingdom-of-great/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination on the Proposed Agreement Among the\
   \ Government of the United\_States of America, the Government of Australia, and\

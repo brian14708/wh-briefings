@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-02-29 12:55:51-05:00
 published_time: 2024-02-29 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/president-biden-announces-key-nominees-67/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/president-biden-announces-key-nominees-67/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

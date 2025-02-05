@@ -2,7 +2,7 @@
 date: '2024-02-06'
 modified_time: 2024-02-06 09:35:38-05:00
 published_time: 2024-02-06 09:35:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/u-s-colombia-joint-communique-the-united-states-and-colombia-reaffirm-their-shared-commitments-to-advancing-shared-regional-goals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/u-s-colombia-joint-communique-the-united-states-and-colombia-reaffirm-their-shared-commitments-to-advancing-shared-regional-goals/
 tags: statements-releases
 title: "U.S.-Colombia Joint Communique: The United\_States and Colombia Reaffirm Their\
   \ Shared Commitments to Advancing Shared Regional\_Goals"

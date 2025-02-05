@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-10 13:37:37-04:00
 published_time: 2024-07-10 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/joint-statement-from-the-president-of-the-united-states-joe-biden-and-the-president-of-mexico-andres-manuel-lopez-obrador-on-actions-to-protect-north-american-steel-and-aluminum-markets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/joint-statement-from-the-president-of-the-united-states-joe-biden-and-the-president-of-mexico-andres-manuel-lopez-obrador-on-actions-to-protect-north-american-steel-and-aluminum-markets/
 tags: statements-releases
 title: "Joint Statement from the President of the United\_States Joe\_Biden and the\
   \ President of Mexico Andr\xE9s Manuel L\xF3pez Obrador on Actions to Protect North\

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 10:10:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/press-secretary-karine-jean-pierre-statement-regarding-supreme-court-review-of-fifth-circuit-decision-in-alliance-for-hippocratic-medicine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/press-secretary-karine-jean-pierre-statement-regarding-supreme-court-review-of-fifth-circuit-decision-in-alliance-for-hippocratic-medicine/
 tags: statements-releases
 title: "Press Secretary Karine Jean Pierre Statement Regarding Supreme Court Review\
   \ of Fifth Circuit Decision in Alliance for Hippocratic\_Medicine"

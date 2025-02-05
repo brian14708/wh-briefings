@@ -2,7 +2,7 @@
 date: '2024-03-02'
 modified_time: 2024-03-02 17:22:00-05:00
 published_time: 2024-03-02 17:21:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/02/president-joseph-r-biden-jr-approves-vermont-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/02/president-joseph-r-biden-jr-approves-vermont-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Vermont Disaster\_Declaration"
 ---

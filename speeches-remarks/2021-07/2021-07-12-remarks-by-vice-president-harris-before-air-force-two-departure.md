@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-07-12'
 modified_time: 2021-07-29 17:36:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-vice-president-harris-before-air-force-two-departure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/12/remarks-by-vice-president-harris-before-air-force-two-departure/
 published_time: 2021-07-12 15:46:00-04:00
 title: "Remarks by Vice President Harris Before Air Force Two\_Departure"
 ---

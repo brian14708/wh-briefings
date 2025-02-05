@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 23:26:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/30/press-briefing-by-press-secretary-karine-jean-pierre-secretary-of-education-miguel-cardona-and-deputy-director-of-the-national-economic-council-bharat-ramamurti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/30/press-briefing-by-press-secretary-karine-jean-pierre-secretary-of-education-miguel-cardona-and-deputy-director-of-the-national-economic-council-bharat-ramamurti/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Secretary of Education\
   \ Miguel Cardona, and Deputy Director of the National Economic Council Bharat\_\

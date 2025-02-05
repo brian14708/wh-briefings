@@ -2,7 +2,7 @@
 date: '2024-03-22'
 modified_time: 2024-03-22 11:39:56-04:00
 published_time: 2024-03-22 11:39:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/readout-of-womens-history-month-labor-roundtable-with-the-afl-cio/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/readout-of-womens-history-month-labor-roundtable-with-the-afl-cio/
 tags: statements-releases
 title: "Readout of Women\u2019s History Month Labor Roundtable with the\_AFL-CIO"
 ---

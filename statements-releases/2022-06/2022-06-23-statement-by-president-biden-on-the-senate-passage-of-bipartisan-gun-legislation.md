@@ -1,7 +1,7 @@
 ---
 date: '2022-06-23'
 published_time: 2022-06-23 22:53:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/statement-by-president-biden-on-the-senate-passage-of-bipartisan-gun-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/statement-by-president-biden-on-the-senate-passage-of-bipartisan-gun-legislation/
 tags: statements-releases
 title: "Statement by President\_Biden on the Senate Passage of Bipartisan Gun\_Legislation"
 ---

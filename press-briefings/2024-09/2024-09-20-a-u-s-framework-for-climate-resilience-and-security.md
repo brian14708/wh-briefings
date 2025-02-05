@@ -1,7 +1,7 @@
 ---
 date: '2024-09-20'
 published_time: 2024-09-20 16:21:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/20/a-u-s-framework-for-climate-resilience-and-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/20/a-u-s-framework-for-climate-resilience-and-security/
 tags: press-briefings
 title: "A U.S. Framework for Climate Resilience and\_Security"
 ---
@@ -99,4 +99,4 @@ Signed,
 **Assistant to the President for National Security Affairs**
 
 The full U.S. Framework for Climate Resilience and Security can be found
-[here](https://www.whitehouse.gov/wp-content/uploads/2024/09/US_Framework_for_Climate_Resilience_and_Security_FINAL.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/US_Framework_for_Climate_Resilience_and_Security_FINAL.pdf).

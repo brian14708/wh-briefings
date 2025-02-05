@@ -1,7 +1,7 @@
 ---
 date: '2023-08-25'
 published_time: 2023-08-25 14:59:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/25/president-joseph-r-biden-jr-approves-colorado-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/25/president-joseph-r-biden-jr-approves-colorado-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Colorado Disaster\_Declaration"
 ---

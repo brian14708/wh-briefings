@@ -1,7 +1,7 @@
 ---
 date: '2022-06-21'
 published_time: 2022-06-21 15:44:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/21/memorandum-on-the-prescription-of-method-of-designating-a-member-of-the-military-sentencing-parameters-and-criteria-board/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/21/memorandum-on-the-prescription-of-method-of-designating-a-member-of-the-military-sentencing-parameters-and-criteria-board/
 tags: presidential-actions
 title: "Memorandum on the Prescription of Method of Designating a Member of the Military\
   \ Sentencing Parameters and Criteria\_Board"

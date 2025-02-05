@@ -1,7 +1,7 @@
 ---
 date: '2024-06-13'
 published_time: 2024-06-13 20:35:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/13/remarks-by-vice-president-harris-on-the-supreme-court-decision-on-fda-v-alliance-for-hippocratic-medicine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/13/remarks-by-vice-president-harris-on-the-supreme-court-decision-on-fda-v-alliance-for-hippocratic-medicine/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Supreme Court Decision on FDA v. Alliance\
   \ for Hippocratic\_Medicine"

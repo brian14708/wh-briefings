@@ -2,7 +2,7 @@
 date: '2022-04-08'
 modified_time: 2022-04-08 17:28:13-04:00
 published_time: 2022-04-08 17:28:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/04/08/bills-signed-h-r-6968-and-h-r-7108/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/04/08/bills-signed-h-r-6968-and-h-r-7108/
 tags: legislation
 title: "Bills Signed: H.R. 6968 and H.R.\_7108"
 ---

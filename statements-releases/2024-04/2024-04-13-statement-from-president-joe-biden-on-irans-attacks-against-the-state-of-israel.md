@@ -1,7 +1,7 @@
 ---
 date: '2024-04-13'
 published_time: 2024-04-13 22:45:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/13/statement-from-president-joe-biden-on-irans-attacks-against-the-state-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/13/statement-from-president-joe-biden-on-irans-attacks-against-the-state-of-israel/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Iran\u2019s Attacks against the State\
   \ of\_Israel"

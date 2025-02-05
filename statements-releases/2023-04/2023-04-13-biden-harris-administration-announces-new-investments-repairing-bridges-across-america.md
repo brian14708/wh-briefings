@@ -1,7 +1,7 @@
 ---
 date: '2023-04-13'
 published_time: 2023-04-13 05:06:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/biden-harris-administration-announces-new-investments-repairing-bridges-across-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/biden-harris-administration-announces-new-investments-repairing-bridges-across-america/
 tags: statements-releases
 title: "BIDEN-HARRIS ADMINISTRATION ANNOUNCES NEW INVESTMENTS REPAIRING BRIDGES ACROSS\_\
   AMERICA"

@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 13:26:07-04:00
 published_time: 2022-07-12 13:26:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/statement-by-president-biden-on-successful-counterterrorism-operation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/statement-by-president-biden-on-successful-counterterrorism-operation/
 tags: statements-releases
 title: "Statement by President\_Biden on Successful Counterterrorism\_Operation"
 ---

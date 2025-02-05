@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-09 22:39:24-04:00
 published_time: 2024-07-10 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/joint-statement-on-f-16s-for-ukraine-from-u-s-president-joseph-r-biden-dutch-prime-minister-dick-schoof-and-danish-prime-minister-mette-frederiksen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/joint-statement-on-f-16s-for-ukraine-from-u-s-president-joseph-r-biden-dutch-prime-minister-dick-schoof-and-danish-prime-minister-mette-frederiksen/
 tags: statements-releases
 title: "Joint Statement on F-16s for Ukraine from U.S. President Joseph R. Biden,\
   \ Dutch Prime Minister Dick Schoof, and Danish Prime Minister Mette\_Frederiksen"

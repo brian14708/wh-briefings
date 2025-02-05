@@ -2,7 +2,7 @@
 date: '2023-09-26'
 modified_time: 2023-09-26 09:05:18-04:00
 published_time: 2023-09-26 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/first-lady-jill-biden-announces-new-white-house-art-display-dedicated-to-military-children/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/first-lady-jill-biden-announces-new-white-house-art-display-dedicated-to-military-children/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces New White\_House Art Display Dedicated to\
   \ Military\_Children"

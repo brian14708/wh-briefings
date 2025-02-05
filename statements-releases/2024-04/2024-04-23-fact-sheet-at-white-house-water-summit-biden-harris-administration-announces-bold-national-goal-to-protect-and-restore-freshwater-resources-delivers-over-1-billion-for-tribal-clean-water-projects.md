@@ -2,7 +2,7 @@
 date: '2024-04-23'
 modified_time: 2024-04-22 22:53:17-04:00
 published_time: 2024-04-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/
 tags: statements-releases
 title: "FACT SHEET: At White\_House Water Summit, Biden-\u2060Harris Administration\
   \ Announces Bold National Goal to Protect and Restore Freshwater Resources, Delivers\
@@ -16,7 +16,7 @@ Investing in America agenda*
 President Biden and Vice President Harris believe that every person
 should have access to clean drinking water and a healthy environment.
 Since Day One, the Biden-Harris Administration [has
-worked](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/)
+worked](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/)
 to secure clean water for all, protect our vital freshwater resources,
 and ensure every community can count on water free of pollutants when
 they turn on the faucet. The Administration also recognizes that
@@ -29,7 +29,7 @@ Summit** where the Administration will announce a new national goal and
 partnership to conserve and restore freshwater resources. [*The America
 the Beautiful Freshwater Challenge: A Partnership to Conserve andRestore
 America’s Rivers, Lakes, Streams, and
-Wetlands*](https://www.whitehouse.gov/wp-content/uploads/2024/04/America-the-Beautiful-Freshwater-Challenge.pdf)
+Wetlands*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/America-the-Beautiful-Freshwater-Challenge.pdf)
 **sets a bold, new national goal to protect, restore, and reconnect 8
 million acres of wetlands and 100,000 miles of our nation’s river and
 streams**.
@@ -42,7 +42,7 @@ that calls on all states and other governments and entities, including
 Tribes, interstate organizations, cities, and local communities to
 advance their own policies and strategies for conserving and restoring
 America’s freshwater systems. [**Over 100 inaugural
-members**](https://www.whitehouse.gov/ceq/97632) **from across the
+members**](https://bidenwhitehouse.archives.gov/ceq/97632) **from across the
 country have already signed on to support freshwater restoration** in
 their communities, including ten states, eight Tribes, and 24 local
 governments.
@@ -104,7 +104,7 @@ clean water:
     [**WaterSMART program**](https://www.usbr.gov/watersmart/) **to help
     combat Western megadrought.** The Biden-Harris Administration is
     [leading a comprehensive
-    effort](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
+    effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
     to make Western communities more resilient to climate change and
     address the ongoing megadrought across the region by harnessing the
     full resources of President Biden’s historic Investing in America
@@ -114,7 +114,7 @@ clean water:
     enhance the West’s resilience to drought and deliver unprecedented
     resources to protect river systems across the West.  
 -   As part of the [Biden-Harris Get the Lead Out
-    Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/),
+    Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/),
     the Great Lakes and St. Lawrence Cities Initiative is partnering
     with three of its members – Chicago, Detroit, and Milwaukee – to
     launch the [**Great Lakes Lead Pipes
@@ -145,7 +145,7 @@ clean water:
     resilience. The funding is also part of an investment of over $3
     billion across federal agencies in fish passage and aquatic
     connectivity projects under President Biden’s [Investing in
-    America](https://www.whitehouse.gov/invest/) agenda.
+    America](https://bidenwhitehouse.archives.gov/invest/) agenda.
 
 <!-- -->
 
@@ -159,7 +159,7 @@ clean water:
     construction and substantial improvement within the FFRMS
     floodplain. This will strengthen resilience to flooding, [protect
     lives and
-    properties](https://www.whitehouse.gov/ceq/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/),
+    properties](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/),
     minimize damage and disruption to households, reduce insurance costs
     and safeguard federal investments – ensuring that federally-funded
     construction projects are built to withstand current and future
@@ -181,7 +181,7 @@ Today’s announcements build on recent actions that deliver on the
 Biden-Harris Administration’s commitment to ensuring safe drinking
 water, including finalizing the first-ever standard to [protect
 communities from toxic “forever
-chemicals,”](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
+chemicals,”](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
 along with rulemakings to [hold polluters responsible for PFAS
 cleanup](https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-critical-rule-clean-pfas-contamination-protect)
 and to [enhance safeguards against dangerous chemical spills in our
@@ -189,7 +189,7 @@ nation’s
 waters](https://www.epa.gov/newsreleases/epa-requires-industrial-facilities-enhance-preparation-chemical-discharges-water).
 The Administration is also continuing to deliver on President Biden’s
 goal to [replace every lead pipe in
-America](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
+America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/)
 in the next decade.
 
 Throughout Earth Week, the Biden-Harris Administration will announce

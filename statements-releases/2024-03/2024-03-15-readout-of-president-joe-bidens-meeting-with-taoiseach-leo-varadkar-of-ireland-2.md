@@ -1,7 +1,7 @@
 ---
 date: '2024-03-15'
 published_time: 2024-03-15 17:45:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/readout-of-president-joe-bidens-meeting-with-taoiseach-leo-varadkar-of-ireland-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/readout-of-president-joe-bidens-meeting-with-taoiseach-leo-varadkar-of-ireland-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Taoiseach Leo Varadkar\
   \ of\_Ireland"

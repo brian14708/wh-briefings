@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-11 09:01:09-04:00
 published_time: 2024-04-10 14:57:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-japan-official-visit-with-state-dinner-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-japan-official-visit-with-state-dinner-to-the-united-states/
 tags: statements-releases
 title: "FACT SHEET: Japan Official Visit with State Dinner to the United\_States"
 ---

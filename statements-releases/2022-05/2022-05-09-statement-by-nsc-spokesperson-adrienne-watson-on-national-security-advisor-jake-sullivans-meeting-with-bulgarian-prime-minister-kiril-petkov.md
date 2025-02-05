@@ -2,7 +2,7 @@
 date: '2022-05-09'
 modified_time: 2022-05-09 20:50:13-04:00
 published_time: 2022-05-09 20:50:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/09/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-bulgarian-prime-minister-kiril-petkov/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/09/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-bulgarian-prime-minister-kiril-petkov/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Bulgarian Prime Minister Kiril\_Petkov"

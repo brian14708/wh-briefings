@@ -1,7 +1,7 @@
 ---
 date: '2022-11-30'
 published_time: 2022-11-30 13:57:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/30/readout-of-vice-president-harriss-meeting-with-president-macron-on-space-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/30/readout-of-vice-president-harriss-meeting-with-president-macron-on-space-cooperation/
 tags: speeches-remarks
 title: "Readout of Vice President Harris\u2019s Meeting with President Macron on Space\_\
   Cooperation"

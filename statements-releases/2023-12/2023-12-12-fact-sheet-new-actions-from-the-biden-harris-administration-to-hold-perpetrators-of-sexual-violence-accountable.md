@@ -2,7 +2,7 @@
 date: '2023-12-12'
 modified_time: 2023-12-12 23:11:31-05:00
 published_time: 2023-12-12 16:00:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/fact-sheet-new-actions-from-the-biden-harris-administration-to-hold-perpetrators-of-sexual-violence-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/12/fact-sheet-new-actions-from-the-biden-harris-administration-to-hold-perpetrators-of-sexual-violence-accountable/
 tags: statements-releases
 title: "FACT SHEET: New Actions from the Biden-\u2060Harris Administration to Hold\
   \ Perpetrators of Sexual Violence\_Accountable"
@@ -31,11 +31,11 @@ does not accept it as inevitable. Ending gender-based violence has been
 a priority for President Biden throughout his time in public life: as
 Senator, Vice President, and since day one of the Biden-Harris
 Administration. Last year, President Biden signed a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/)
 directing the U.S. government to strengthen our exercise of financial,
 diplomatic, and legal tools against sexual violence in conflict—leading
 to the
-[first-ever](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/)
+[first-ever](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/)
 imposition of sanctions driven by a focus on conflict-related sexual
 violence in June of this year.   
   

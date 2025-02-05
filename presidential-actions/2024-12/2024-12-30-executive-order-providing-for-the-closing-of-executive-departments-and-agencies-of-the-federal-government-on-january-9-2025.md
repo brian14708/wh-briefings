@@ -2,7 +2,7 @@
 date: '2024-12-30'
 modified_time: 2024-12-30 13:16:02-05:00
 published_time: 2024-12-30 13:16:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/30/executive-order-providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on-january-9-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/30/executive-order-providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on-january-9-2025/
 tags: presidential-actions
 title: "Executive Order Providing for the Closing of Executive Departments and Agencies\
   \ of the Federal Government on January 9,\_2025"

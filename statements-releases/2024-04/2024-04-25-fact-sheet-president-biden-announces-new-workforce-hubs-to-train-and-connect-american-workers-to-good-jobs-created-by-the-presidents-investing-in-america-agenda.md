@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-25 11:19:29-04:00
 published_time: 2024-04-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Workforce Hubs to Train and Connect\
   \ American Workers to Good Jobs Created by the President\u2019s Investing in America\_\
@@ -23,7 +23,7 @@ Michigan.
   
 Since the beginning of the Biden-Harris Administration, private
 companies have announced over [$825
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 in manufacturing and clean energy investments, on top of $478 billion
 already announced by the Administration for clean energy and
 infrastructure projects funded by the Bipartisan Infrastructure Law and
@@ -37,7 +37,7 @@ job opportunities and the training and skills needed to fill them.
 Today’s announcement also builds on the inaugural five Investing in
 America Workforce Hubs in Columbus, Baltimore, Pittsburgh, Augusta, and
 Phoenix that First Lady Jill Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 last May. Over the last year, the inaugural Hubs have generated dozens
 of significant commitments to create pipelines to good jobs, including
 an initiative to train 10,000 skilled construction workers in Columbus,
@@ -103,12 +103,12 @@ The next four Investing in America Workforce Hubs are:  
     construction and infrastructure.
 
 These new Workforce Hubs will align with the [Roadmap to Support Good
-Jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/),
+Jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/),
 the Biden-Harris Administration’s comprehensive approach to ensure that
 every American—whether they go to college or not—has equitable access to
 high-quality training, education, and services that provide a path to a
 good career without leaving their community. A [new
-analysis](https://www.whitehouse.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/)
+analysis](https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/04/25/following-up-on-the-four-priorities-of-president-bidens-workforce-strategy/)
 released today from the Council of Economic Advisors outlines the
 economics behind the Administration’s workforce strategy and underscores
 how it has led to record-breaking job growth.  
@@ -124,7 +124,7 @@ high-quality workforce development, including:
     pre-apprenticeships, supporting the education and training needs of
     more than 1 million apprentices.
 -   President Biden signed a [Registered Apprenticeship Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
     to bolster apprenticeships in the federal workforce.
 -   The Department of Education launched the first-ever Career-Connected
     High School grants program, supporting 19 districts and states
@@ -137,10 +137,10 @@ high-quality workforce development, including:
     Map](https://www.dol.gov/general/good-jobs/high-road-to-the-middle-class?_ga=2.238148357.463320814.1708019025-448780732.1700248951)
     to spotlight high-quality training programs and show where they are
     located relative to projects mobilized by the [Investing in
-    America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+    America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
     agenda.
 -   In January, the White
-    House [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) new
+    House [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) new
     commitments to its Advanced Manufacturing Sprint, including 150 new
     advanced manufacturing-related Registered Apprenticeship programs
     and occupations have been created or are newly under development,
@@ -153,7 +153,7 @@ In addition to the nine Investing in America Workforce Hubs that are
 training residents for growing industries like clean energy and
 manufacturing, the Biden-Harris Administration has:
 
--   [Announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/)
+-   [Announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/)
     the designation of 31 communities across the country as Regional
     Innovation and Technology Hubs (Tech Hubs).
 -   [Announced](https://www.commerce.gov/news/press-releases/2023/12/biden-harris-administration-announces-22-recompete-pilot-program)
@@ -206,7 +206,7 @@ manufacturing, the Biden-Harris Administration has:
     providers keep their doors open – including over $2 billion for
     higher pay, hiring or retention bonuses, or other expanded benefits
     for care workers. [Recent
-    analysis](https://www.whitehouse.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
+    analysis](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
     shows that this funding led to an increase in the labor force
     participation rate of mothers with young children of about 3
     percentage points relative to similar groups.

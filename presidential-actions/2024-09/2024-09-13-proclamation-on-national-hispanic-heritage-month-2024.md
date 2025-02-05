@@ -1,7 +1,7 @@
 ---
 date: '2024-09-13'
 published_time: 2024-09-13 15:39:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-national-hispanic-heritage-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-national-hispanic-heritage-month-2024/
 tags: presidential-actions
 title: "Proclamation on National Hispanic Heritage Month,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-12'
 modified_time: 2023-09-11 22:08:08-04:00
 published_time: 2023-09-12 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/12/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/12/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-eight-additional-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Secures Voluntary Commitments\
   \ from Eight Additional Artificial Intelligence Companies to Manage the Risks Posed\
@@ -22,7 +22,7 @@ risks and harness the benefits of artificial intelligence (AI). As the
 Administration moves urgently on regulatory action, it is working with
 leading AI companies to take steps now to advance responsible AI. In
 July, the Biden-Harris Administration [secured voluntary
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/)
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/)
 from seven leading AI companies to help advance the development of safe,
 secure, and trustworthy AI.  
   
@@ -30,7 +30,7 @@ Today, U.S. Secretary of Commerce Gina Raimondo, White House Chief of
 Staff Jeff Zients, and senior administration officials are convening
 additional industry leaders at the White House to announce that the
 Administration has secured a [second round of voluntary
-commitments](https://www.whitehouse.gov/wp-content/uploads/2023/09/Voluntary-AI-Commitments-September-2023.pdf)
+commitments](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Voluntary-AI-Commitments-September-2023.pdf)
 from eight companies—Adobe, Cohere, IBM, Nvidia, Palantir, Salesforce,
 Scale AI, and Stability—that will help drive safe, secure, and
 trustworthy development of AI technology.  
@@ -115,7 +115,7 @@ harm and discrimination.
 
 -   In August, the Biden-⁠Harris Administration launched a major
     two-year competition—the [**“AI Cyber
-    Challenge”**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial-intelligence-cyber-challenge-to-protect-americas-critical-software/)—that
+    Challenge”**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial-intelligence-cyber-challenge-to-protect-americas-critical-software/)—that
     will use artificial intelligence (AI) to protect the United States’
     most important software, such as code that helps run the internet
     and our critical infrastructure
@@ -131,7 +131,7 @@ harm and discrimination.
     opportunities and managing the risks posed by AI, building on the
     President’s ongoing engagement with leading AI experts.
 -   In May, the President and Vice President
-    [**convened**](https://www.whitehouse.gov/ostp/news-updates/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
+    [**convened**](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
     the CEOs of four American companies at the forefront of AI
     innovation—Google, Anthropic, Microsoft, and OpenAI—to underscore
     their responsibility and emphasize the importance of driving
@@ -142,28 +142,28 @@ harm and discrimination.
     practices.
 -   The Biden-Harris Administration published a landmark [**Blueprint
     for an AI Bill of
-    Rights**](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) to
+    Rights**](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) to
     safeguard Americans’ rights and safety, and U.S. government agencies
     have ramped up their efforts to protect Americans from the risks
     posed by AI, including through [**preventing algorithmic
-    bias**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/)
+    bias**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/)
     in home valuation and [**leveraging existing enforcement
     authorities**](https://www.ftc.gov/system/files/ftc_gov/pdf/EEOC-CRT-FTC-CFPB-AI-Joint-Statement%28final%29.pdf)
     to protect people from unlawful bias, discrimination, and other
     harmful outcomes.
 -   President Biden signed an [**Executive
-    Order**](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+    Order**](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
     that directs federal agencies to root out bias in the design and use
     of new technologies, including AI, and to protect the public from
     algorithmic discrimination.
 -   Earlier this year, the [**National Science
-    Foundation**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
+    Foundation**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/)
     announced a $140 million investment to establish seven new National
     AI Research Institutes, bringing the total to 25 institutions across
     the country.
 -   The Biden-Harris Administration has also released a [**National AI
     R&D Strategic
-    Plan**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-takes-new-steps-to-advance-responsible-artificial-intelligence-research-development-and-deployment/)
+    Plan**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/23/fact-sheet-biden-harris-administration-takes-new-steps-to-advance-responsible-artificial-intelligence-research-development-and-deployment/)
     to advance responsible AI.
 -   The Office of Management and Budget will soon release draft policy
     guidance for federal agencies to ensure the development,

@@ -1,7 +1,7 @@
 ---
 date: '2022-08-22'
 published_time: 2022-08-22 11:02:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/22/statement-from-president-joe-biden-on-the-announcement-of-dr-anthony-faucis-departure-from-niaid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/22/statement-from-president-joe-biden-on-the-announcement-of-dr-anthony-faucis-departure-from-niaid/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the announcement of Dr. Anthony Fauci\u2019\
   s Departure from\_NIAID"

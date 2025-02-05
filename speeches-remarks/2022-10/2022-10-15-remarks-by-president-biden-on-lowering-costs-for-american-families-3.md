@@ -1,7 +1,7 @@
 ---
 date: '2022-10-15'
 published_time: 2022-10-15 21:31:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-president-biden-on-lowering-costs-for-american-families-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-president-biden-on-lowering-costs-for-american-families-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering Costs for American\_Families"
 ---

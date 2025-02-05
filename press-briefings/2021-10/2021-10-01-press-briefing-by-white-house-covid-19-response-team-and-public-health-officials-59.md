@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-10-01'
 modified_time: 2021-10-01 14:13:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/01/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-59/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/10/01/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-59/
 published_time: 2021-10-01 14:13:28-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -629,4 +629,4 @@ forward to next week’s briefing.
   
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/10/COVID-Press-Briefing_1October2021.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/COVID-Press-Briefing_1October2021.pdf>

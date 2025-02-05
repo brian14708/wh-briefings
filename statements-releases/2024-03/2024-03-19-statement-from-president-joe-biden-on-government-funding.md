@@ -1,7 +1,7 @@
 ---
 date: '2024-03-19'
 published_time: 2024-03-19 09:30:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/statement-from-president-joe-biden-on-government-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/19/statement-from-president-joe-biden-on-government-funding/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Government\_Funding"
 ---

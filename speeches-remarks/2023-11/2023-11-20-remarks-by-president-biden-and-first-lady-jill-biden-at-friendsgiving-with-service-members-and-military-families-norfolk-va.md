@@ -2,7 +2,7 @@
 date: '2023-11-20'
 modified_time: 2023-11-20 13:25:08-05:00
 published_time: 2023-11-20 13:25:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/20/remarks-by-president-biden-and-first-lady-jill-biden-at-friendsgiving-with-service-members-and-military-families-norfolk-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/20/remarks-by-president-biden-and-first-lady-jill-biden-at-friendsgiving-with-service-members-and-military-families-norfolk-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at Friendsgiving with\
   \ Service Members and Military Families | Norfolk,\_VA"

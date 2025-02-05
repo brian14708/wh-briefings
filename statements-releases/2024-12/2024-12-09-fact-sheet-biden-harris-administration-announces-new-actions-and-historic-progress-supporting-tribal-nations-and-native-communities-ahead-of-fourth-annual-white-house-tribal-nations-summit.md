@@ -2,7 +2,7 @@
 date: '2024-12-09'
 modified_time: 2024-12-08 21:26:28-05:00
 published_time: 2024-12-09 05:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-fourth-annual-white-house-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-fourth-annual-white-house-tribal-nations-summit/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions and Historic\
   \ Progress Supporting Tribal Nations and Native Communities Ahead of Fourth Annual\
@@ -190,7 +190,7 @@ Relocation</u>**
     Report.** The Community-Driven Relocation Subcommittee of the
     National Climate Task Force is releasing the *Opportunities for
     Federal Support of Community-Driven Relocation*
-    [report](https://www.whitehouse.gov/wp-content/uploads/2024/12/Opportunities-for-Federal-Support-of-Community-Driven-Relocation-vF.pdf),
+    [report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/Opportunities-for-Federal-Support-of-Community-Driven-Relocation-vF.pdf),
     which provides background on voluntary community-driven relocation
     to avoid climate- and pollution-related hazards, an overview of the
     current Federal legal and programmatic landscape, and next steps
@@ -202,7 +202,7 @@ Relocation</u>**
     in relocating their communities and partnering with Federal, State,
     and local governments as well as other partners. An accompanying
     [resource
-    guide](https://www.whitehouse.gov/wp-content/uploads/2024/12/Community-Driven-Relocation_Guide-to-Federal-Programs-and-Resources_vF.pdf)
+    guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/Community-Driven-Relocation_Guide-to-Federal-Programs-and-Resources_vF.pdf)
     will help Tribes and communities identify specific Federal agencies,
     and programs to support their efforts.
 
@@ -221,9 +221,9 @@ include:
 -   Signing two Presidential Memoranda [directing federal agencies to
     submit plans of action to implement meaningful consultation with
     Tribal
-    Nations](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/) and [establishing
+    Nations](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/) and [establishing
     uniform standards for Tribal
-    Consultation](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
+    Consultation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
 
 <!-- -->
 
@@ -244,7 +244,7 @@ include:
 -   Signing an [Executive Order to improve public safety and criminal
     justice and address the crisis of Missing and Murdered Indigenous
     People
-    (MMIP)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/) by
+    (MMIP)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/) by
     directing agencies to prioritize addressing this crisis and
     assessing what more can be accomplished.  
 -   Signing an Executive Order to improve educational outcomes and
@@ -262,7 +262,7 @@ include:
 
 -   Signing a [Presidential Memorandum to Restore Healthy and Abundant
     Native Fish Populations in the Columbia
-    River](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/),
+    River](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/),
     which supports cultural and spiritual practices, commerce, and
     economic growth for Tribes.
 
@@ -270,7 +270,7 @@ include:
 
 -   Authoring the first-of-its-kind government-wide [Indigenous
     Knowledge
-    guidance](https://www.whitehouse.gov/wp-content/uploads/2022/12/OSTP-CEQ-IK-Guidance.pdf)
+    guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/OSTP-CEQ-IK-Guidance.pdf)
     that assists federal agencies in recognizing and including
     Indigenous Knowledge in Federal research, policy, and decision
     making.
@@ -278,17 +278,17 @@ include:
 <!-- -->
 
 -   Restoring protections for the [Grand
-    Staircase-Escalante](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-grand-staircase-escalante-national-monument/) and [Bear
-    Ears](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/) National
+    Staircase-Escalante](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-grand-staircase-escalante-national-monument/) and [Bear
+    Ears](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/) National
     Monuments in Utah, and designating and expanding the following
     national monuments that hold significance to Tribal Nations: Avi Kwa
     Ame in Nevada; [Castner
-    Range](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/) in
+    Range](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/) in
     Texas; [Baaj Nwaavjo I’tah Kukveni Ancestral Footprints of the Grand
-    Canyon](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) in
+    Canyon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) in
     Arizona; and [Berryessa Snow Mountain and San Gabriel Mountains
     National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)s
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)s
     in California.
 
 <!-- -->

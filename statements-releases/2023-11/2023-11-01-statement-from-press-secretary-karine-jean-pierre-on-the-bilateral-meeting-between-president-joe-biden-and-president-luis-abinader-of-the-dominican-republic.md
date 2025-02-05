@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 19:07:42-04:00
 published_time: 2023-11-01 19:07:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-luis-abinader-of-the-dominican-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-luis-abinader-of-the-dominican-republic/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Bilateral Meeting\
   \ Between President Joe\_Biden and President Luis Abinader of the Dominican\_Republic"

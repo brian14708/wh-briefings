@@ -1,7 +1,7 @@
 ---
 date: '2024-03-27'
 published_time: 2024-03-27 19:09:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/27/statement-from-president-joe-biden-congratulating-bassirou-diomaye-faye-as-president-elect-of-senegal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/27/statement-from-president-joe-biden-congratulating-bassirou-diomaye-faye-as-president-elect-of-senegal/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Congratulating Bassirou Diomaye Faye as\
   \ President-elect of\_Senegal"

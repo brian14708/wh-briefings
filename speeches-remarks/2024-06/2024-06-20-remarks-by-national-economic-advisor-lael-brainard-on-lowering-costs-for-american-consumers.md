@@ -2,7 +2,7 @@
 date: '2024-06-20'
 modified_time: 2024-06-20 15:47:31-04:00
 published_time: 2024-06-20 10:55:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/20/remarks-by-national-economic-advisor-lael-brainard-on-lowering-costs-for-american-consumers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/20/remarks-by-national-economic-advisor-lael-brainard-on-lowering-costs-for-american-consumers/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Lowering Costs for American\_\
   Consumers"
@@ -75,10 +75,10 @@ outside of the financial sector since at least 1947. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png"
 class="wp-image-101263" decoding="async" loading="lazy"
 sizes="(max-width: 1050px) 100vw, 1050px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png 1050w, https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=615,308 615w, https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=768,384 768w, https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=590,295 590w, https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=1200,600 1200w, https://www.whitehouse.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=1038,519 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png 1050w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=615,308 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=768,384 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=590,295 590w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=1200,600 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Picture2_ab709c.png?resize=1038,519 1038w"
 style="width:595px;height:auto" width="1050" height="525" />
 </figure>
 
@@ -112,10 +112,10 @@ grocery store margins remain elevated relative to pre-pandemic levels.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?w=640"
 class="wp-image-101264" decoding="async" loading="lazy"
 sizes="(max-width: 2618px) 100vw, 2618px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png 2618w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=615,280 615w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=768,350 768w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1270,578 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1536,699 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=2048,932 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=590,269 590w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1180,537 1180w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=2360,1075 2360w, https://www.whitehouse.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1038,473 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png 2618w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=615,280 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=768,350 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1270,578 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1536,699 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=2048,932 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=590,269 590w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1180,537 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=2360,1075 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/grocery-markup.png?resize=1038,473 1038w"
 width="2618" height="1192" />
 </figure>
 
@@ -154,46 +154,46 @@ grapes.
 The President has also been fighting to bring down health care costs.
 
 Americans pay [two to three times
-more](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-seniors-across-the-country-are-saving-millions-of-dollars-in-health-care-costs-because-of-president-bidens-prescription-drug-law/)
+more](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-seniors-across-the-country-are-saving-millions-of-dollars-in-health-care-costs-because-of-president-bidens-prescription-drug-law/)
 than people in other countries for the same prescription drugs. So it
 was a big victory for the American people when President Biden secured
 passage of the Inflation Reduction Act (IRA) that has brought down the
 price of insulin to $35 a month for [seniors on
-Medicare](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)—saving
+Medicare](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)—saving
 some as much as $365 per month—and got the [three largest insulin
-producers](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/16/statement-from-president-joe-biden-on-top-three-insulin-producers-lowering-prices/)
+producers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/16/statement-from-president-joe-biden-on-top-three-insulin-producers-lowering-prices/)
 to cap insulin prices for other Americans. And the President has
 proposed making these savings available for the millions of younger
 Americans that use insulin.
 
 Starting next year, as a result of this law, out of pocket prescription
 drug costs will also be [capped at $2,000 for
-seniors](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)—saving
+seniors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)—saving
 19 million people $400 per year on average—and many thousands of dollars
 a year for some. And the President is fighting to extend this cap for
 all Americans.
 
 Finally, thanks to the IRA, for the first time ever, Medicare is able to
 negotiate lower prices for prescription drugs, [starting with 10 this
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/)
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/)
 and far more in the years to come. The President is fighting to extend
 these benefits to even more drugs.
 
 I want to be clear: this doesn’t just help family budgets—it helps the
 federal budget too by lowering the deficit by [$160 billion over the
 next ten
-years](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-on-lowering-healthcare-costs/).
+years](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-on-lowering-healthcare-costs/).
 Here again, Congressional Republicans opposed these drug price
 reductions—even though they reduce deficits, which means that, if they
 prevailed, they would raise the cost of [prescription drugs and insulin
 for tens of millions of
-Americans](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/).
+Americans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/).
 
 And it is not only drug prices. The President’s health insurance premium
 tax credits enacted in the American Rescue Plan and extended by the IRA
 are saving millions of Americans an average of about $800 per year on
 [their health care
-premiums](https://www.whitehouse.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-protects-and-increases-access-to-quality-affordable-healthcare/).
+premiums](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-protects-and-increases-access-to-quality-affordable-healthcare/).
 Republicans in Congress uniformly voted against this law and are working
 to repeal the Affordable Care Act, which would raise health insurance
 premiums for millions of Americans.
@@ -204,7 +204,7 @@ costing [$35 a month—saving around $1,200 per
 year](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-expands-patent-listing-challenges-targeting-more-300-junk-listings-diabetes-weight-loss-asthma)—and
 the Biden Administration enacted rules that can help millions of
 Americans save as much as [$3,000 on their hearing
-aids](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/).
+aids](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/).
 
 The President will continue to use every tool he has to lower health
 care costs.
@@ -256,7 +256,7 @@ for cancelled or delayed flights and lost luggage.
 The President knows that housing costs are a critical part of every
 family’s budget. He has a comprehensive plan to lower housing costs for
 families. He has called on Congress to [bring rent down by funding the
-construction](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/)
+construction](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/)
 of 2 million affordable homes, and to provide mortgage relief of up to
 $10,000 for millions of first-time homebuyers and homeowners seeking to
 trade up or downsize.
@@ -281,24 +281,24 @@ We are going after rental junk fees that aren’t disclosed up front and
 that can add hundreds of extra dollars on top of rent every month. 
 
 Already, nearly [700,000 homeowners are saving roughly $900
-annually](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
+annually](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
 as a result of the Administration’s reduction in mortgage interest
 premiums for FHA-backed loans. [A title insurance
-pilot](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/)
+pilot](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/)
 could soon save thousands of Americans an average of $750 when they
 refinance their homes.
 
 In addition, the President has signed historic legislation that helps
 families save on their utility bills. Thanks to the IRA, households that
 install a heat pump [receive a $2,000 tax credit and save $500 each
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/)
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/)
 on energy bills. Households that install energy efficient doors, windows
 and insulation [can save up to $1,200 per
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/)
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/)
 in tax credits. 
 
 Moreover, under the Affordable Connectivity Plan, [23 million
-families](https://www.whitehouse.gov/getinternet/) have been able to
+families](https://bidenwhitehouse.archives.gov/getinternet/) have been able to
 save approximately $360 each year on highspeed internet and the
 President is fighting hard to keep this program in place.
 
@@ -310,14 +310,14 @@ card late fees to filing taxes and attending live events.
 
 On childcare, the Administration is saving lower-income families [$2,400
 per
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/),
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/),
 and the President has a plan to help families afford high-quality child
 care for 16 million children, with the average family [saving $7,200 a
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/).
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/).
 
 And thanks to the President’s Saving on a Valuable Education program, or
 SAVE, [the typical student borrower will save $1,000 a
-year](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/22/fact-sheet-the-biden-harris-administration-launches-the-save-plan-the-most-affordable-student-loan-repayment-plan-ever-to-lower-monthly-payments-for-millions-of-borrowers/)
+year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/22/fact-sheet-the-biden-harris-administration-launches-the-save-plan-the-most-affordable-student-loan-repayment-plan-ever-to-lower-monthly-payments-for-millions-of-borrowers/)
 on their loan payments compared to other income-driven repayment plans.
 
 The President has called out big corporations to pass along savings to

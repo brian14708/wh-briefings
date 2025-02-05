@@ -1,7 +1,7 @@
 ---
 date: '2022-11-30'
 published_time: 2022-11-30 19:46:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/30/press-briefing-by-press-secretary-karine-jean-pierre-november-30-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/30/press-briefing-by-press-secretary-karine-jean-pierre-november-30-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, November 30,\_2022"
 ---

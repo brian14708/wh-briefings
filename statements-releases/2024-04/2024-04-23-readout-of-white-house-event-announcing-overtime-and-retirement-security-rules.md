@@ -2,7 +2,7 @@
 date: '2024-04-23'
 modified_time: 2024-04-23 19:18:10-04:00
 published_time: 2024-04-23 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/
 tags: statements-releases
 title: "Readout of White\_House Event Announcing Overtime and Retirement Security\_\
   Rules"
@@ -53,7 +53,7 @@ Specifically, the new rules will:
     their savings. For example, hidden fees from bad advice on just a
     single product—fixed index annuities—is currently [costing savers as
     much as $5 billion per
-    year](https://www.whitehouse.gov/cea/written-materials/2023/10/31/retirement-rule/).
+    year](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/10/31/retirement-rule/).
     The rule will require trusted investment advice providers to give
     prudent, loyal, and honest advice, and prevent them from providing
     recommendations that favor the investment advice providers’

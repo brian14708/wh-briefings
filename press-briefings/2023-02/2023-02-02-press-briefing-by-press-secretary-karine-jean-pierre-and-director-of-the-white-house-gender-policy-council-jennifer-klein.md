@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 17:05:06-05:00
 published_time: 2023-02-02 17:05:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/02/press-briefing-by-press-secretary-karine-jean-pierre-and-director-of-the-white-house-gender-policy-council-jennifer-klein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/02/press-briefing-by-press-secretary-karine-jean-pierre-and-director-of-the-white-house-gender-policy-council-jennifer-klein/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Director of the White\_\
   House Gender Policy Council Jennifer\_Klein"

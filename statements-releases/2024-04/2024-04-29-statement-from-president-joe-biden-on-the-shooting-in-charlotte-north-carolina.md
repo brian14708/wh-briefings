@@ -1,7 +1,7 @@
 ---
 date: '2024-04-29'
 published_time: 2024-04-29 23:00:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/statement-from-president-joe-biden-on-the-shooting-in-charlotte-north-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/statement-from-president-joe-biden-on-the-shooting-in-charlotte-north-carolina/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Charlotte, North\_\
   Carolina"

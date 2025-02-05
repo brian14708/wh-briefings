@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-11-11'
 modified_time: 2021-11-30 13:01:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/11/remarks-by-vice-president-harris-at-the-paris-peace-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/11/remarks-by-vice-president-harris-at-the-paris-peace-forum/
 published_time: 2021-11-11 12:56:00-05:00
 title: "REMARKS BY VICE PRESIDENT HARRIS AT THE PARIS PEACE\_FORUM"
 ---

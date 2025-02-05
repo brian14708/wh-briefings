@@ -1,7 +1,7 @@
 ---
 date: '2024-12-18'
 published_time: 2024-12-18 11:18:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/fact-sheet-the-united-states-and-india-advance-growing-space-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/18/fact-sheet-the-united-states-and-india-advance-growing-space-partnership/
 tags: statements-releases
 title: "FACT SHEET: The United\_States and India Advance Growing Space\_Partnership"
 ---

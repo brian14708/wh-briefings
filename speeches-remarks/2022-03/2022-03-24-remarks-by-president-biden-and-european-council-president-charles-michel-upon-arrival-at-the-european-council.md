@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-03-24'
 modified_time: 2022-03-24 16:06:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/24/remarks-by-president-biden-and-european-council-president-charles-michel-upon-arrival-at-the-european-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/24/remarks-by-president-biden-and-european-council-president-charles-michel-upon-arrival-at-the-european-council/
 published_time: 2022-03-24 16:30:00-04:00
 title: "Remarks by President\_Biden and European Council President Charles Michel\
   \ Upon Arrival at the European\_Council"

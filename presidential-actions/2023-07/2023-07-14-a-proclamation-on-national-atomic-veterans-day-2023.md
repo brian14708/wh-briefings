@@ -1,7 +1,7 @@
 ---
 date: '2023-07-14'
 published_time: 2023-07-14 11:47:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/14/a-proclamation-on-national-atomic-veterans-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/14/a-proclamation-on-national-atomic-veterans-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National Atomic Veterans Day,\_2023"
 ---

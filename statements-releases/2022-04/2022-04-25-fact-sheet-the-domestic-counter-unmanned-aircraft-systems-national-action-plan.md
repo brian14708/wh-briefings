@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 08:50:42-04:00
 published_time: 2022-04-25 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/fact-sheet-the-domestic-counter-unmanned-aircraft-systems-national-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/fact-sheet-the-domestic-counter-unmanned-aircraft-systems-national-action-plan/
 tags: statements-releases
 title: "FACT SHEET: The Domestic Counter-Unmanned Aircraft Systems National Action\_\
   Plan"
@@ -79,6 +79,6 @@ The Plan provides eight key recommendations for action:
     the most serious UAS-related crimes; and   
 8.  Enhance cooperation with the international community on counter‑UAS
     technologies, as well as the systems designed to defeat them.  
-    [](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
+    [](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
 
 \###

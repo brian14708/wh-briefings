@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 published_time: 2023-06-01 16:08:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/01/background-press-call-on-accountability-for-the-ongoing-violence-in-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/01/background-press-call-on-accountability-for-the-ongoing-violence-in-sudan/
 tags: press-briefings
 title: "Background Press Call on Accountability for the Ongoing Violence in\_Sudan"
 ---

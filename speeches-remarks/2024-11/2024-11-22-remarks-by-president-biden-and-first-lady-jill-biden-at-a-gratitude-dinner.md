@@ -2,7 +2,7 @@
 date: '2024-11-22'
 modified_time: 2024-11-25 13:03:27-05:00
 published_time: 2024-11-22 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/22/remarks-by-president-biden-and-first-lady-jill-biden-at-a-gratitude-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/22/remarks-by-president-biden-and-first-lady-jill-biden-at-a-gratitude-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at a Gratitude\_Dinner"
 ---

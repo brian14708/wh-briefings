@@ -1,7 +1,7 @@
 ---
 date: '2023-07-07'
 published_time: 2023-07-07 17:27:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/statement-from-president-joe-biden-on-completing-the-destruction-of-the-united-states-chemical-weapons-stockpile/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/07/statement-from-president-joe-biden-on-completing-the-destruction-of-the-united-states-chemical-weapons-stockpile/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Completing the Destruction of the United\_\
   States\u2019 Chemical Weapons\_Stockpile"

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-02'
 published_time: 2024-05-02 17:46:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/white-house-releases-teachers-of-the-year-state-dinner-guest-list/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/white-house-releases-teachers-of-the-year-state-dinner-guest-list/
 tags: statements-releases
 title: "White\_House Releases \u201CTeachers of the Year\u201D State Dinner Guest\_\
   List"

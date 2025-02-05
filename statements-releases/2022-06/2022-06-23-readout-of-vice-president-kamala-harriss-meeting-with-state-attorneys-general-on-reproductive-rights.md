@@ -1,7 +1,7 @@
 ---
 date: '2022-06-23'
 published_time: 2022-06-23 20:00:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/readout-of-vice-president-kamala-harriss-meeting-with-state-attorneys-general-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/readout-of-vice-president-kamala-harriss-meeting-with-state-attorneys-general-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with State Attorneys\
   \ General on Reproductive\_Rights"

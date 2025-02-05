@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 16:52:42-04:00
 published_time: 2022-08-03 16:52:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/03/remarks-by-president-biden-and-vice-president-harris-at-the-first-meeting-of-the-interagency-task-force-on-reproductive-healthcare-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/03/remarks-by-president-biden-and-vice-president-harris-at-the-first-meeting-of-the-interagency-task-force-on-reproductive-healthcare-access/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at the First Meeting\
   \ of the Interagency Task Force on Reproductive Healthcare\_Access"

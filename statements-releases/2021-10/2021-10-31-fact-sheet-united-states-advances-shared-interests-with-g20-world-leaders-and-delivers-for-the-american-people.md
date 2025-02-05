@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-31'
 modified_time: 2021-10-31 16:47:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-united-states-advances-shared-interests-with-g20-world-leaders-and-delivers-for-the-american-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-united-states-advances-shared-interests-with-g20-world-leaders-and-delivers-for-the-american-people/
 published_time: 2021-10-31 16:47:45-04:00
 title: "FACT SHEET: United\_States Advances Shared Interests with G20 World Leaders\
   \ and Delivers for the American\_People"
@@ -73,7 +73,7 @@ diagnostics from 300 to 100 days (following the identification of such
 threats) and work to make them equitably and widely available. This work
 follows calls for more urgent action and continued focus from the United
 States following the President’s [Global COVID-19
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/).
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/).
 
 **Climate Change: **G20 Leaders came out in support of ending public
 finance for new unabated coal power generation abroad, to contribute to
@@ -95,7 +95,7 @@ Leaders recognized the need for international cooperation to counter
 ransomware and other forms of cybercrime. Just this month, the Biden
 Administration[held a meeting with more than 30 countries to accelerate
 cooperation to counter
-ransomware](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/),
+ransomware](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/),
 including to improve collective resilience, address the misuse of
 virtual currency to launder ransom payments, and investigate and
 prosecute cyber criminals. This work builds on U.S. international
@@ -113,6 +113,6 @@ armed conflicts have exacerbated these problems—such as Ethiopia.
 Leaders will continue to enhance concrete measures to advance gender
 equality in national policies. President Biden [issued the first-ever
 national gender
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/) to
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/22/fact-sheet-national-strategy-on-gender-equity-and-equality/) to
 advance the full participation of all people – including women and girls
 – in the United States and around the world.

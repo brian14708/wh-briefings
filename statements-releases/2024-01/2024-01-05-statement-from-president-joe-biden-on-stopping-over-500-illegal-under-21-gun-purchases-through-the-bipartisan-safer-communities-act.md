@@ -2,7 +2,7 @@
 date: '2024-01-05'
 modified_time: 2024-01-05 10:18:53-05:00
 published_time: 2024-01-05 11:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Stopping Over 500 Illegal Under-21\
   \ Gun Purchases Through the Bipartisan Safer Communities\_Act"

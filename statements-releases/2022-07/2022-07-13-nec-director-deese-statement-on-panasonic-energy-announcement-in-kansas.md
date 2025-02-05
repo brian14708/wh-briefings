@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 19:06:08-04:00
 published_time: 2022-07-13 19:06:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/nec-director-deese-statement-on-panasonic-energy-announcement-in-kansas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/nec-director-deese-statement-on-panasonic-energy-announcement-in-kansas/
 tags: statements-releases
 title: "NEC Director Deese Statement on Panasonic Energy Announcement in\_Kansas"
 ---

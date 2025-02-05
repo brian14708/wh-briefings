@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 15:19:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/27/remarks-by-president-biden-on-actions-to-protect-communities-from-extreme-heat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/27/remarks-by-president-biden-on-actions-to-protect-communities-from-extreme-heat/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Actions to Protect Communities from Extreme\_\
   Heat"

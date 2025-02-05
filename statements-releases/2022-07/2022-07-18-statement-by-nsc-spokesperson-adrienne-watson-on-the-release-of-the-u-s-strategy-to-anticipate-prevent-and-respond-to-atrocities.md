@@ -2,7 +2,7 @@
 date: '2022-07-18'
 modified_time: 2022-07-18 08:49:57-04:00
 published_time: 2022-07-18 08:49:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/18/statement-by-nsc-spokesperson-adrienne-watson-on-the-release-of-the-u-s-strategy-to-anticipate-prevent-and-respond-to-atrocities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/18/statement-by-nsc-spokesperson-adrienne-watson-on-the-release-of-the-u-s-strategy-to-anticipate-prevent-and-respond-to-atrocities/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the Release of the U.S. Strategy\
   \ to Anticipate, Prevent, and Respond to\_Atrocities"

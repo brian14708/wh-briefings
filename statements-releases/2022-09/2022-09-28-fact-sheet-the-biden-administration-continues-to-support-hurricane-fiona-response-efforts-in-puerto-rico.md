@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 21:58:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-administration-continues-to-support-hurricane-fiona-response-efforts-in-puerto-rico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-administration-continues-to-support-hurricane-fiona-response-efforts-in-puerto-rico/
 tags: statements-releases
 title: "FACT SHEET:\_The Biden Administration Continues to Support Hurricane Fiona\
   \ Response Efforts in Puerto\_Rico"

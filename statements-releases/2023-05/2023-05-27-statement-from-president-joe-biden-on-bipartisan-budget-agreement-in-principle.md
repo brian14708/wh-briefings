@@ -1,7 +1,7 @@
 ---
 date: '2023-05-27'
 published_time: 2023-05-27 21:59:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/27/statement-from-president-joe-biden-on-bipartisan-budget-agreement-in-principle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/27/statement-from-president-joe-biden-on-bipartisan-budget-agreement-in-principle/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Bipartisan Budget Agreement in\_Principle"
 ---

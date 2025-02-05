@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 16:42:49-04:00
 published_time: 2022-05-12 16:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain/
 tags: statements-releases
 title: "A Message to the Congress, on the Continuation of the National Emergency with\
   \ Respect to Securing the Information and Communications Technology and Services\

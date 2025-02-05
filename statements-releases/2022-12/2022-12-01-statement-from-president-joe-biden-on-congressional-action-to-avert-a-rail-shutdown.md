@@ -2,7 +2,7 @@
 date: '2022-12-01'
 modified_time: 2022-12-01 16:37:22-05:00
 published_time: 2022-12-01 16:37:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-congressional-action-to-avert-a-rail-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-congressional-action-to-avert-a-rail-shutdown/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Congressional Action to Avert a Rail\_\
   Shutdown"

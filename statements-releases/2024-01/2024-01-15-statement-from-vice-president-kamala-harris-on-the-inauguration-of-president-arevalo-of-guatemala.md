@@ -1,7 +1,7 @@
 ---
 date: '2024-01-15'
 published_time: 2024-01-15 08:36:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/15/statement-from-vice-president-kamala-harris-on-the-inauguration-of-president-arevalo-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/15/statement-from-vice-president-kamala-harris-on-the-inauguration-of-president-arevalo-of-guatemala/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Inauguration of President\
   \ Ar\xE9valo of\_Guatemala"

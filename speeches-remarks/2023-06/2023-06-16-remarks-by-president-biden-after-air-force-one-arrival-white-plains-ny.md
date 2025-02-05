@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 21:35:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/16/remarks-by-president-biden-after-air-force-one-arrival-white-plains-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/16/remarks-by-president-biden-after-air-force-one-arrival-white-plains-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | White Plains,\_\
   NY"

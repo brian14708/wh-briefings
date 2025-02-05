@@ -1,7 +1,7 @@
 ---
 date: '2022-12-12'
 published_time: 2022-12-12 17:00:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Global\
   \ Illicit Drug\_Trade"

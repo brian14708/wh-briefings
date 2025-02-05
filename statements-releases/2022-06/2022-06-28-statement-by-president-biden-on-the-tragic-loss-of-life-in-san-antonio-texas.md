@@ -1,7 +1,7 @@
 ---
 date: '2022-06-28'
 published_time: 2022-06-28 11:51:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/statement-by-president-biden-on-the-tragic-loss-of-life-in-san-antonio-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/statement-by-president-biden-on-the-tragic-loss-of-life-in-san-antonio-texas/
 tags: statements-releases
 title: "Statement by President\_Biden on the Tragic Loss of Life in San Antonio,\_\
   Texas"

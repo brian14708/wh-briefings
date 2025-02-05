@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-03'
 modified_time: 2021-06-03 19:17:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/03/press-briefing-by-press-secretary-jen-psaki-june-3-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/03/press-briefing-by-press-secretary-jen-psaki-june-3-2021/
 published_time: 2021-06-03 19:17:25-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, June 3,\_2021"
 ---

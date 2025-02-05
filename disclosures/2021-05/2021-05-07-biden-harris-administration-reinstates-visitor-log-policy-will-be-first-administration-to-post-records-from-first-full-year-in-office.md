@@ -2,7 +2,7 @@
 tags: disclosures
 date: '2021-05-07'
 modified_time: 2021-05-17 15:45:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/07/biden-harris-administration-reinstates-visitor-log-policy-will-be-first-administration-to-post-records-from-first-full-year-in-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2021/05/07/biden-harris-administration-reinstates-visitor-log-policy-will-be-first-administration-to-post-records-from-first-full-year-in-office/
 published_time: 2021-05-07 16:24:35-04:00
 title: "Biden-\u2060Harris Administration Reinstates Visitor Log Policy, Will Be First\
   \ Administration to Post Records from First Full Year in\_Office"
@@ -29,9 +29,9 @@ In keeping with the Obama-Biden Administration’s policy, select records
 that implicate privacy, national security, or other concerns will be
 withheld.  To learn more about the policy, read our [<u>voluntary
 disclosure
-policy</u>](https://www.whitehouse.gov/voluntary-disclosure/).  To view
+policy</u>](https://bidenwhitehouse.archives.gov/voluntary-disclosure/).  To view
 visitor log records, view our [<u>disclosure
-page</u>](https://www.whitehouse.gov/disclosures/visitor-logs/).
+page</u>](https://bidenwhitehouse.archives.gov/disclosures/visitor-logs/).
 
 **<u>Voluntary Disclosure Policy</u>**
 

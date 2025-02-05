@@ -2,7 +2,7 @@
 date: '2022-10-13'
 modified_time: 2022-10-13 11:28:16-04:00
 published_time: 2022-10-13 06:16:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-national-security-advisor-jake-sullivan-on-the-biden-harris-administrations-national-security-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-national-security-advisor-jake-sullivan-on-the-biden-harris-administrations-national-security-strategy/
 tags: speeches-remarks
 title: "Remarks by National Security Advisor Jake Sullivan on the Biden-\u2060Harris\
   \ Administration\u2019s National Security\_Strategy"

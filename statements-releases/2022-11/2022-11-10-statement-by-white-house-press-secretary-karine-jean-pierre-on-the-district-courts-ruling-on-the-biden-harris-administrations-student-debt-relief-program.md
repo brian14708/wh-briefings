@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-10 22:03:39-05:00
 published_time: 2022-11-10 22:03:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-district-courts-ruling-on-the-biden-harris-administrations-student-debt-relief-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-district-courts-ruling-on-the-biden-harris-administrations-student-debt-relief-program/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the District\
   \ Court\u2019s Ruling on the Biden-\u2060Harris Administration\u2019s Student Debt\

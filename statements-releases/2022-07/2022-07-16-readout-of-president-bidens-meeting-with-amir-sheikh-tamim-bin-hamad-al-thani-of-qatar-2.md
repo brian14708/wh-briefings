@@ -1,7 +1,7 @@
 ---
 date: '2022-07-16'
 published_time: 2022-07-16 10:05:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Amir Sheikh Tamim Bin Hamad\
   \ Al Thani of\_Qatar"

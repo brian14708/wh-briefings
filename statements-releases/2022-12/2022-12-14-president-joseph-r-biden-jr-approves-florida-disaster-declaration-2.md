@@ -1,7 +1,7 @@
 ---
 date: '2022-12-14'
 published_time: 2022-12-14 16:44:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/president-joseph-r-biden-jr-approves-florida-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/president-joseph-r-biden-jr-approves-florida-disaster-declaration-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Florida Disaster\_Declaration"
 ---

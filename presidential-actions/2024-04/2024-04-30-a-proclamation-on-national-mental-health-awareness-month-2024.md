@@ -1,7 +1,7 @@
 ---
 date: '2024-04-30'
 published_time: 2024-04-30 16:52:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/30/a-proclamation-on-national-mental-health-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/30/a-proclamation-on-national-mental-health-awareness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Mental Health Awareness Month,\_2024"
 ---

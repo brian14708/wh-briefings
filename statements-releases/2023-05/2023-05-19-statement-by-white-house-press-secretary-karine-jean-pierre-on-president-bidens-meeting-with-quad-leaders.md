@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 published_time: 2023-05-19 08:07:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/19/statement-by-white-house-press-secretary-karine-jean-pierre-on-president-bidens-meeting-with-quad-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/19/statement-by-white-house-press-secretary-karine-jean-pierre-on-president-bidens-meeting-with-quad-leaders/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Meeting with Quad\_Leaders"

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-14'
 published_time: 2024-06-14 16:52:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/14/a-proclamation-on-world-elder-abuse-awareness-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/14/a-proclamation-on-world-elder-abuse-awareness-day-2024/
 tags: presidential-actions
 title: "A Proclamation on World Elder Abuse Awareness Day,\_2024"
 ---

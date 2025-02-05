@@ -2,7 +2,7 @@
 date: '2022-07-29'
 modified_time: 2022-07-29 15:31:49-04:00
 published_time: 2022-07-29 15:31:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/president-biden-announces-three-new-nominees-to-serve-as-u-s-attorneys-one-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/president-biden-announces-three-new-nominees-to-serve-as-u-s-attorneys-one-to-serve-as-u-s-marshal/
 tags: statements-releases
 title: "President\_Biden Announces Three New Nominees to Serve as U.S. Attorneys,\
   \ One to Serve as\_U.S.\_Marshal"

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-23'
 published_time: 2024-09-23 16:23:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-united-nations-general-assemblys-summit-of-first-ladies-and-gentlemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-united-nations-general-assemblys-summit-of-first-ladies-and-gentlemen/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the United Nations\
   \ General Assembly\u2019s Summit of First Ladies and\_Gentlemen"

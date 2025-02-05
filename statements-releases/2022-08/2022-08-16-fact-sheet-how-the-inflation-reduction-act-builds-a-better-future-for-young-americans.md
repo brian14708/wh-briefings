@@ -1,7 +1,7 @@
 ---
 date: '2022-08-16'
 published_time: 2022-08-16 21:22:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-how-the-inflation-reduction-act-builds-a-better-future-for-young-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/16/fact-sheet-how-the-inflation-reduction-act-builds-a-better-future-for-young-americans/
 tags: statements-releases
 title: "FACT SHEET:  How the Inflation Reduction Act Builds a Better Future for Young\_\
   Americans"

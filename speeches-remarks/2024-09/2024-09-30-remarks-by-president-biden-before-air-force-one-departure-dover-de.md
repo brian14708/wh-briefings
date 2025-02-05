@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 13:27:26-04:00
 published_time: 2024-09-30 13:27:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-before-air-force-one-departure-dover-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-before-air-force-one-departure-dover-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Dover,\_DE"
 ---

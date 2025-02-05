@@ -1,7 +1,7 @@
 ---
 date: '2023-11-15'
 published_time: 2023-11-15 09:20:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-at-campaign-reception-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-at-campaign-reception-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Campaign Reception | San Francisco,\_CA"
 ---

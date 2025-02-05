@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 14:21:40-05:00
 published_time: 2023-02-06 14:20:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-the-biden-economic-plan-is-working/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-the-biden-economic-plan-is-working/
 tags: statements-releases
 title: "FACT SHEET:\_The Biden Economic Plan Is\_Working"
 ---
@@ -34,9 +34,9 @@ responsible one. President Biden’s predecessor passed a [nearly $2
 trillion](https://www.cbo.gov/publication/53787) unpaid for tax cut with
 benefits [skewed](https://www.taxpolicycenter.org/feature/analysis-tax-cuts-and-jobs-act) to
 the wealthy and large corporations, and
-the [deficit](https://www.whitehouse.gov/omb/budget/historical-tables/) went
+the [deficit](https://bidenwhitehouse.archives.gov/omb/budget/historical-tables/) went
 up every single year under his watch. Under President Biden, the deficit
-has [fallen](https://www.whitehouse.gov/omb/briefing-room/2022/10/21/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2022/) by
+has [fallen](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/10/21/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2022/) by
 $1.7 trillion, and his reforms to take on Big Pharma, lower prescription
 drug costs, and make the wealthy and large corporations pay their fair
 share will reduce the deficit by [hundreds of
@@ -78,7 +78,7 @@ unemployment rate
 for [Hispanic](https://fred.stlouisfed.org/series/LNS14000009) workers
 hit a record low last year. The past two years were also the best two
 years for new small business applications
-on [record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/statement-from-president-joe-biden-on-record-setting-small-business-applications/).
+on [record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/statement-from-president-joe-biden-on-record-setting-small-business-applications/).
 None of this progress was pre-ordained. Before President Biden signed
 his Rescue Plan into
 law, [experts](https://www.cbo.gov/data/budget-economic-data) predicted
@@ -198,7 +198,7 @@ take to build on that progress and give more families the peace of mind
 of affordable prescriptions and health care.
 
 ***$800 lower health care premiums.*** A record-setting [16.3 million
-people](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/) signed
+people](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/) signed
 up for ACA coverage this year, and the national uninsured rate hit
 an [all-time
 low](https://www.hhs.gov/about/news/2023/01/25/biden-harris-administration-announces-record-breaking-16-3-million-people-signed-up-health-care-coverage-aca-marketplaces-during-2022-2023-open-enrollment-season.html) last
@@ -207,7 +207,7 @@ Congress’ work to lower premiums for ACA coverage by an average of $800
 per person per year—along with President Biden’s actions
 to [quadruple](https://www.cms.gov/newsroom/press-releases/biden-harris-administration-quadruples-number-health-care-navigators-ahead-healthcaregov-open) consumer
 assistance, increase outreach, and close the “[family
-glitch](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-biden-harris-administration-proposes-rule-to-fix-family-glitch-and-lower-health-care-costs/)”
+glitch](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-biden-harris-administration-proposes-rule-to-fix-family-glitch-and-lower-health-care-costs/)”
 loophole that blocked many children and spouses from affordable
 coverage. Tomorrow, the President will call on Congress to make these
 savings for American families permanent, so we can continue our work to
@@ -216,7 +216,7 @@ make health care a right, not a privilege.
 ***60 million Medicare beneficiaries will be protected from skyrocketing
 drug costs.*** President Biden took on Big Pharma—and won. [Thanks to
 the new prescription drug
-law](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/),
+law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/),
 Medicare will be able to negotiate drug prices and cap out-of-pocket
 pharmacy costs at $2,000 per year under Part D, and drug companies will
 pay rebates to Medicare if they try to hike their prices faster than the
@@ -255,7 +255,7 @@ a [rule](https://www.fda.gov/news-events/press-announcements/fda-finalizes-hist
 the Food and Drug Administration. Now, millions of Americans can buy
 hearing aids for low to moderate hearing loss without a prescription or
 exam. This is anticipated
-to [save](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) Americans
+to [save](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) Americans
 as much as $3,000 per pair, providing more breathing room for the
 estimated 30 million Americans with mild-to-moderate hearing loss.
 
@@ -299,7 +299,7 @@ meals.
   
 The President will re-state his call on Congress to pass a [Junk Fees
 Prevention
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/) to
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/) to
 ban resort and family seating fees, eliminate unnecessary early
 termination fees for internet and phone services, and crack down on
 excessive fees and other practices that drive up ticket prices. DOT will
@@ -317,7 +317,7 @@ estimates will increases wages by $300 billion annually.
 
 ***Lowering ocean shipping costs.*** Ocean carriers increased their
 rates by [as much as
-1,000%](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act/) during
+1,000%](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act/) during
 the pandemic. Last June, Congress passed the Ocean Shipping Reform Act
 heeding the President’s call in the 2022 State of the Union. This
 legislation will cut costs for shippers, and in turn American families,
@@ -331,7 +331,7 @@ integrity](https://www.bing.com/search?q=proposed+rules+poultry+tournament&PC=U5
 to [prevent
 abuse](https://www.usda.gov/media/press-releases/2022/05/26/biden-harris-administration-announces-new-actions-strengthen-food) of
 farmers in the poultry growing system. USDA is also using $1 billion
-to [expand](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/) independent
+to [expand](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/) independent
 meat processing capacity, so the market isn’t dominated by just a few
 big players.
 
@@ -349,7 +349,7 @@ repair for certain devices.
 ***Improving safety and accountability in nursing homes*. **As the
 President directed in last year’s State of the Union, CMS has taken
 action to [strengthen
-oversight](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/) of
+oversight](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/) of
 the worst performing nursing
 homes, [prevent](https://www.federalregister.gov/documents/2022/11/18/2022-23873/medicare-and-medicaid-programs-cy-2023-payment-policies-under-the-physician-fee-schedule-and-other) abuse
 and Medicare fraud,
@@ -378,7 +378,7 @@ billionaire. He also believes that it is wrong for America to have a tax
 code that results in America’s wealthiest households paying a lower tax
 rate than working families. In a typical year, billionaires pay an
 average tax rate of
-just [8%](https://www.whitehouse.gov/cea/written-materials/2021/09/23/what-is-the-average-federal-individual-income-tax-rate-on-the-wealthiest-americans/).
+just [8%](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/09/23/what-is-the-average-federal-individual-income-tax-rate-on-the-wealthiest-americans/).
 In the State of the Union, he’ll call on Congress to pass his
 billionaire minimum tax. This minimum tax would make sure that the
 wealthiest Americans no longer pay a tax rate lower than teachers and

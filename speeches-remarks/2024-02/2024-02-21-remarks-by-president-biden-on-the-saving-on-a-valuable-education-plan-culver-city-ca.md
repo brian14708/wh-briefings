@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-21 19:49:47-05:00
 published_time: 2024-02-21 20:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/21/remarks-by-president-biden-on-the-saving-on-a-valuable-education-plan-culver-city-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/21/remarks-by-president-biden-on-the-saving-on-a-valuable-education-plan-culver-city-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Saving on a Valuable Education Plan | Culver\
   \ City,\_CA"

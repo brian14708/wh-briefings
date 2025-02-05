@@ -2,7 +2,7 @@
 date: '2023-03-05'
 modified_time: 2023-03-05 20:34:37-05:00
 published_time: 2023-03-05 20:34:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/05/remarks-by-president-biden-commemorating-the-58th-anniversary-of-bloody-sunday/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/05/remarks-by-president-biden-commemorating-the-58th-anniversary-of-bloody-sunday/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Commemorating the 58th Anniversary of Bloody\_\
   Sunday"

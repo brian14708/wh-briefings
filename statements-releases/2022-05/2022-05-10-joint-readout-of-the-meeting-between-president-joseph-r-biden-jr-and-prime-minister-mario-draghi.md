@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-10 19:52:49-04:00
 published_time: 2022-05-10 19:52:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/10/joint-readout-of-the-meeting-between-president-joseph-r-biden-jr-and-prime-minister-mario-draghi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/10/joint-readout-of-the-meeting-between-president-joseph-r-biden-jr-and-prime-minister-mario-draghi/
 tags: statements-releases
 title: "Joint Readout of the Meeting Between President Joseph R. Biden, Jr. and Prime\
   \ Minister Mario\_Draghi"

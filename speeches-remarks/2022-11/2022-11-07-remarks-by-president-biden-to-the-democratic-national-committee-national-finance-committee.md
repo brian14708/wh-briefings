@@ -1,7 +1,7 @@
 ---
 date: '2022-11-07'
 published_time: 2022-11-07 18:13:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-president-biden-to-the-democratic-national-committee-national-finance-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-president-biden-to-the-democratic-national-committee-national-finance-committee/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to the Democratic National Committee National\
   \ Finance\_Committee"

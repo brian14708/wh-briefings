@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-19 15:02:27-04:00
 published_time: 2024-06-18 19:56:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/18/remarks-by-president-biden-at-a-campaign-reception-mclean-va-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/18/remarks-by-president-biden-at-a-campaign-reception-mclean-va-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | McLean,\_VA"
 ---

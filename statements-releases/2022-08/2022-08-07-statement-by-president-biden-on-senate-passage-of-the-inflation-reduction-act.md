@@ -1,7 +1,7 @@
 ---
 date: '2022-08-07'
 published_time: 2022-08-07 15:44:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/07/statement-by-president-biden-on-senate-passage-of-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/07/statement-by-president-biden-on-senate-passage-of-the-inflation-reduction-act/
 tags: statements-releases
 title: "Statement by President\_Biden on Senate Passage of the Inflation Reduction\_\
   Act"

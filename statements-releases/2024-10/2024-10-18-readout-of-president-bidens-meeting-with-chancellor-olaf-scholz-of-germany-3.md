@@ -2,7 +2,7 @@
 date: '2024-10-18'
 modified_time: 2024-10-18 08:04:26-04:00
 published_time: 2024-10-18 08:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/18/readout-of-president-bidens-meeting-with-chancellor-olaf-scholz-of-germany-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/18/readout-of-president-bidens-meeting-with-chancellor-olaf-scholz-of-germany-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Chancellor Olaf Scholz of\_\
   Germany"

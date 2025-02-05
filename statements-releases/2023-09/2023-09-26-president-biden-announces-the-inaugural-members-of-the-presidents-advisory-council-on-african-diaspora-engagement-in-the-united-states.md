@@ -2,7 +2,7 @@
 date: '2023-09-26'
 modified_time: 2023-09-26 13:08:37-04:00
 published_time: 2023-09-26 12:15:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/president-biden-announces-the-inaugural-members-of-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/president-biden-announces-the-inaugural-members-of-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/
 tags: statements-releases
 title: "President\_Biden Announces the Inaugural Members of the President\u2019s Advisory\
   \ Council on African Diaspora Engagement in the United\_States"

@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 16:32:10-04:00
 published_time: 2023-10-06 16:32:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/remarks-by-first-lady-jill-biden-at-day-one-early-learning-community/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/remarks-by-first-lady-jill-biden-at-day-one-early-learning-community/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Day One Early\
   \ Learning\_Community"

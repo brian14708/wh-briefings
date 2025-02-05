@@ -2,7 +2,7 @@
 date: '2024-05-20'
 modified_time: 2024-05-20 12:39:54-04:00
 published_time: 2024-05-20 12:39:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/statement-from-president-joe-biden-on-the-warrant-applications-by-the-international-criminal-court/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/20/statement-from-president-joe-biden-on-the-warrant-applications-by-the-international-criminal-court/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Warrant Applications by the International\
   \ Criminal\_Court"

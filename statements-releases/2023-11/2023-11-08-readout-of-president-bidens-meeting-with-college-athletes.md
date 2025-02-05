@@ -2,7 +2,7 @@
 date: '2023-11-08'
 modified_time: 2023-11-08 18:52:02-05:00
 published_time: 2023-11-08 18:37:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/readout-of-president-bidens-meeting-with-college-athletes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/readout-of-president-bidens-meeting-with-college-athletes/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Former College\_Athletes"
 ---

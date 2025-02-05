@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-04-05 09:35:19-04:00
 published_time: 2023-03-31 10:58:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Over $7 Billion in Private Sector\
   \ and U.S. Government Commitments to Promote Climate Resilience, Adaptation, and\
@@ -345,8 +345,8 @@ the critical urgency of building climate resilience across the African
 continent. These announcements build on the bilateral climate
 adaptation, resilience, and mitigation announcements the Vice President
 made in
-[Ghana](mailto:https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-vice-president-harris-announces-initiatives-to-strengthen-u-s-partnership-with-ghana-and-promote-regional-security/),
-[Tanzania](mailto:https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-deepen-the-u-s-partnership-with-tanzania/),
+[Ghana](mailto:https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-vice-president-harris-announces-initiatives-to-strengthen-u-s-partnership-with-ghana-and-promote-regional-security/),
+[Tanzania](mailto:https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-deepen-the-u-s-partnership-with-tanzania/),
 and
 [Zambia](https://whitehouse.us19.list-manage.com/track/click?u=0ae7f75ebacfaef55ba39fcdb&id=39bdfdff23&e=0ca263633c).  
    

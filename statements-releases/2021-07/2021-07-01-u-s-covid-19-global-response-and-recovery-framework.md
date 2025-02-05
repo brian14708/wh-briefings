@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-01'
 modified_time: 2021-07-02 09:25:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/
 published_time: 2021-07-01 19:26:09-04:00
 title: "U.S. COVID-\u206019 Global Response and Recovery\_Framework"
 ---
@@ -26,7 +26,7 @@ build back better national and global health security. Our first goal is
 to end the pandemic—at home and abroad. On January 21, 2021, President
 Biden released the [National Strategy for the COVID-19 Response and 
 Pandemic
-Preparedness](https://www.whitehouse.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf),
+Preparedness](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf),
 including Goal 7, which details the Biden-Harris Administration’s
 comprehensive plan to restore U.S. leadership globally and build better
 preparedness for future threats; re-engage with the World Health
@@ -51,7 +51,7 @@ global health crisis and ending the pandemic.  
 The U.S. COVID-19 Global Response and Recovery Framework<sup> </sup>also
 supports U.S. commitments to the [G7<sup>+</sup> Plan to Defeat the
 COVID-19 Pandemic in 2022 and Prevent the Next
-Pandemic](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-united-states-and-g7-plan-to-defeat-the-covid-19-pandemic-in-2022-and-prevent-the-next-pandemic/) by
+Pandemic](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-united-states-and-g7-plan-to-defeat-the-covid-19-pandemic-in-2022-and-prevent-the-next-pandemic/) by
 supporting vaccination of the world’s most vulnerable populations,
 supporting last mile vaccination and getting shots in arms, providing
 personal protective equipment (PPE) and medical supplies where needed,
@@ -60,6 +60,6 @@ supporting recovery, building resilience, and advancing global health
 security.
 
 Read the full framework
-here: <https://www.whitehouse.gov/wp-content/uploads/2021/07/U.S.-COVID-19-Global-Response-and-Recovery-Framework.pdf>
+here: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/U.S.-COVID-19-Global-Response-and-Recovery-Framework.pdf>
 
 \###

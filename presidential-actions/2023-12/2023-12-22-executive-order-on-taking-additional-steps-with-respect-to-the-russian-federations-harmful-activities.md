@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 09:04:36-05:00
 published_time: 2023-12-22 09:04:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/executive-order-on-taking-additional-steps-with-respect-to-the-russian-federations-harmful-activities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/22/executive-order-on-taking-additional-steps-with-respect-to-the-russian-federations-harmful-activities/
 tags: presidential-actions
 title: "Executive Order on Taking Additional Steps With Respect to the Russian Federation\u2019\
   s Harmful\_Activities"

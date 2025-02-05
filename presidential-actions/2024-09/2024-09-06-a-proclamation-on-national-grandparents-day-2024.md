@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 16:50:35-04:00
 published_time: 2024-09-06 16:50:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-grandparents-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-grandparents-day-2024/
 tags: presidential-actions
 title: "A Proclamation on National Grandparents Day,\_2024"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 15:52:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/statement-from-president-joe-biden-on-fda-approval-of-gene-therapies-to-treat-sickle-cell-disease/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/statement-from-president-joe-biden-on-fda-approval-of-gene-therapies-to-treat-sickle-cell-disease/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on FDA Approval of Gene Therapies to Treat\
   \ Sickle Cell\_Disease"

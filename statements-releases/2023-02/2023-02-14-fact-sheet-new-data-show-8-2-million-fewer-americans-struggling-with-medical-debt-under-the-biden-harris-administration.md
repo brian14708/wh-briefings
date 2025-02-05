@@ -1,7 +1,7 @@
 ---
 date: '2023-02-14'
 published_time: 2023-02-14 11:15:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/
 tags: statements-releases
 title: "FACT SHEET: New Data Show 8.2 Million Fewer Americans Struggling with Medical\
   \ Debt Under the Biden-\u2060Harris\_Administration"
@@ -24,9 +24,9 @@ medical bills declined by 5.5 million between 2020 and 2021. One driver
 of these declines is the significant increase in the number of insured
 Americans over this period, a result of the President’s strategy of
 [protecting and
-strengthening](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/)
+strengthening](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/)
 the Affordable Care Act (ACA) and
-[lowering](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-the-biden-economic-plan-is-working/)
+[lowering](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-the-biden-economic-plan-is-working/)
 health care costs. The decline also reflects continued actions by the
 CFPB to
 [highlight](https://files.consumerfinance.gov/f/201412_cfpb_reports_consumer-credit-medical-and-non-medical-collections.pdf)
@@ -38,7 +38,7 @@ industry on notice to correct their behavior.
 The new data also underscore the importance of the Biden-Harris
 Administration’s government-wide initiative to reduce the burden of
 medical debt. Following the Vice President’s April 2022
-[announcement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/),
+[announcement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/),
 medical debt was directly relieved for many low-income Americans. And,
 informed by research showing that medical debt is not a reliable
 predictor of financial health, federal agencies are working to eliminate
@@ -189,7 +189,7 @@ off American’s access to credit without improving the accuracy and
 predictiveness of lending programs.  
   
 Informed by this research, the Biden-Harris Administration
-[instructed](https://www.whitehouse.gov/wp-content/uploads/2022/08/M-22-17.pdf)
+[instructed](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/M-22-17.pdf)
 all agencies to eliminate medical debt as a factor in underwriting of
 credit programs, whenever possible and consistent with law. Since then:
 
@@ -256,7 +256,7 @@ and the [first half of
 2022](https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202212.pdf).
 This milestone does not yet not capture the impact of the most recent
 [increase in Marketplace
-enrollment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/),
+enrollment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/statement-from-president-joe-biden-on-record-aca-enrollment-numbers/),
 with a record 16.3 million Americans signing up on HealthCare.gov and
 the state-based Marketplaces during the 2023 Open Enrollment Period.
 This includes [3.6 million

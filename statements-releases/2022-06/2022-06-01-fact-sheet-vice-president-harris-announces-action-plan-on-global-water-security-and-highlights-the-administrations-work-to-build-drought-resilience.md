@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-01 09:56:17-04:00
 published_time: 2022-06-01 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-vice-president-harris-announces-action-plan-on-global-water-security-and-highlights-the-administrations-work-to-build-drought-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-vice-president-harris-announces-action-plan-on-global-water-security-and-highlights-the-administrations-work-to-build-drought-resilience/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Action Plan on Global Water Security\
   \ and Highlights the Administration\u2019s Work to Build Drought\_Resilience"
@@ -24,7 +24,7 @@ state capacity or legitimacy.
 In response to this growing challenge, Vice President Harris is
 announcing the launch of the first-of-its-kind [White House Action Plan
 on Global Water
-Security](https://www.whitehouse.gov/wp-content/uploads/2022/06/water-action-plan_final_formatted.pdf),
+Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/water-action-plan_final_formatted.pdf),
 which outlines an innovative approach to advancing water security at
 home and abroad. This plan identifies the direct links between water and
 U.S. national security, and it will harness the resources of the U.S.
@@ -35,7 +35,7 @@ equity and economic growth, water security is a central element of
 preventing conflict and promoting global peace and stability.  
    
 This announcement builds on the [Biden-Harris Lead Pipe Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
 and other historic steps the Biden-Harris Administration has already
 taken to improve water security at home, including investments through
 the Bipartisan Infrastructure Law to increase drought resilience,
@@ -47,7 +47,7 @@ Resilience funding across the Federal family to provide targeted support
 to drought-stricken communities and build American communities’
 resilience to worsening drought conditions caused by climate change, as
 outlined in its [one-year summary
-report](https://www.whitehouse.gov/wp-content/uploads/2022/05/DroughtIWGReport_Final_Embargoed-Until-June-1-at-6AM-ET.pdf).
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/DroughtIWGReport_Final_Embargoed-Until-June-1-at-6AM-ET.pdf).
 The Administration’s work at home will help mitigate the cost of
 inaction—in 2020 alone, wildfires caused by extreme drought resulted in
 $16.6 billion in damages.  

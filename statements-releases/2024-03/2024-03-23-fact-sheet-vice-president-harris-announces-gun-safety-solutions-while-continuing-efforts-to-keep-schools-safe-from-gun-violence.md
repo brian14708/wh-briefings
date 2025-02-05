@@ -2,7 +2,7 @@
 date: '2024-03-23'
 modified_time: 2024-03-23 06:38:14-04:00
 published_time: 2024-03-23 06:38:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/23/fact-sheet-vice-president-harris-announces-gun-safety-solutions-while-continuing-efforts-to-keep-schools-safe-from-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/23/fact-sheet-vice-president-harris-announces-gun-safety-solutions-while-continuing-efforts-to-keep-schools-safe-from-gun-violence/
 tags: statements-releases
 title: "FACT SHEET: Vice President Kamala\_Harris Announces Two Gun Safety Solutions\
   \ While Continuing Efforts to Keep Schools Safe from Gun\_Violence"
@@ -137,7 +137,7 @@ committed with guns from the home. There are approximately [4.6 million
 children](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789269) living
 in homes with unsecured firearms, [so the Biden-Harris Administration
 has prioritized raising
-awareness](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/)
+awareness](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/)
 about how safe gun storage can keep schools and young people safe. For
 example, U.S. Secretary of Education Miguel A. Cardona sent [a letter
 and template to school
@@ -148,7 +148,7 @@ community about how safe storage can protect students in school and in
 their communities.
 
 The DOJ released a comprehensive [guide to safe storage of
-firearms](https://www.whitehouse.gov/wp-content/uploads/2024/01/DOJ-Safe-Firearm-Storage-Guide.pdf) in
+firearms](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/DOJ-Safe-Firearm-Storage-Guide.pdf) in
 order to provide subject matter expertise on different types of storage
 devices and best practices for safely storing firearms. This is the most
 comprehensive guide on safe storage ever released by the federal

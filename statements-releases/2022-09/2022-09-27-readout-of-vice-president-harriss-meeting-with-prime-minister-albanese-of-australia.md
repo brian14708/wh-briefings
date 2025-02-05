@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-27 01:10:21-04:00
 published_time: 2022-09-27 01:10:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/readout-of-vice-president-harriss-meeting-with-prime-minister-albanese-of-australia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/readout-of-vice-president-harriss-meeting-with-prime-minister-albanese-of-australia/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Albanese\
   \ of\_Australia"

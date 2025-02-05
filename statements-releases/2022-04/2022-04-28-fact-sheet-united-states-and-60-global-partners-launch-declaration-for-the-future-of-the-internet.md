@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-30 13:55:49-04:00
 published_time: 2022-04-28 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-united-states-and-60-global-partners-launch-declaration-for-the-future-of-the-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-united-states-and-60-global-partners-launch-declaration-for-the-future-of-the-internet/
 tags: statements-releases
 title: "FACT SHEET: United\_States and 60 Global Partners Launch Declaration for the\
   \ Future of the\_Internet"
@@ -23,7 +23,7 @@ reliability of networks. 
 Democratic governments and other partners are rising to the
 challenge. Today, the United States with 60 partners from around the
 globe launched the [Declaration for the Future of the
-Internet](https://www.whitehouse.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf).
+Internet](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf).
 Those endorsing the Declaration include Albania, Andorra, Argentina,
 Australia, Austria, Belgium, Bulgaria, Cabo Verde, Canada, Colombia,
 Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Dominican

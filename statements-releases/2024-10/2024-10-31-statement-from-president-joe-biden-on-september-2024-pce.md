@@ -2,7 +2,7 @@
 date: '2024-10-31'
 modified_time: 2024-10-31 09:26:16-04:00
 published_time: 2024-10-31 09:26:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/31/statement-from-president-joe-biden-on-september-2024-pce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/31/statement-from-president-joe-biden-on-september-2024-pce/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on September 2024\_PCE"
 ---

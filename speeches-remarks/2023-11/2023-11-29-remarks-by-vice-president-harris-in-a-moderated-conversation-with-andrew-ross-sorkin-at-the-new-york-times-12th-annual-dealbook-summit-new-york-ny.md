@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-29 17:32:29-05:00
 published_time: 2023-11-29 17:32:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-andrew-ross-sorkin-at-the-new-york-times-12th-annual-dealbook-summit-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-vice-president-harris-in-a-moderated-conversation-with-andrew-ross-sorkin-at-the-new-york-times-12th-annual-dealbook-summit-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Andrew Ross\
   \ Sorkin at the New York Times 12th Annual Dealbook Summit | New York,\_NY"

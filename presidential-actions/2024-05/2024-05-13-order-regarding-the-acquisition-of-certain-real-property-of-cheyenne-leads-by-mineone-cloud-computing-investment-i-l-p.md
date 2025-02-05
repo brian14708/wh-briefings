@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-13 15:52:12-04:00
 published_time: 2024-05-13 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/13/order-regarding-the-acquisition-of-certain-real-property-of-cheyenne-leads-by-mineone-cloud-computing-investment-i-l-p/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/13/order-regarding-the-acquisition-of-certain-real-property-of-cheyenne-leads-by-mineone-cloud-computing-investment-i-l-p/
 tags: presidential-actions
 title: "Order Regarding the Acquisition of Certain Real Property of Cheyenne Leads\
   \ by MineOne Cloud Computing Investment I\_L.P."

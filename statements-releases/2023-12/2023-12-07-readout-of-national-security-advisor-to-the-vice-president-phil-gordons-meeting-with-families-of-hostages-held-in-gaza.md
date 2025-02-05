@@ -1,7 +1,7 @@
 ---
 date: '2023-12-07'
 published_time: 2023-12-07 09:52:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-with-families-of-hostages-held-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-with-families-of-hostages-held-in-gaza/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Meeting with Families of Hostages Held in\_Gaza"

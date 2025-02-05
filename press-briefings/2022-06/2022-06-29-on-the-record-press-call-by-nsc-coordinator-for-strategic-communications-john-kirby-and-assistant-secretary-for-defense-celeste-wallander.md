@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 09:12:20-04:00
 published_time: 2022-06-29 09:09:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/29/on-the-record-press-call-by-nsc-coordinator-for-strategic-communications-john-kirby-and-assistant-secretary-for-defense-celeste-wallander/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/29/on-the-record-press-call-by-nsc-coordinator-for-strategic-communications-john-kirby-and-assistant-secretary-for-defense-celeste-wallander/
 tags: press-briefings
 title: "On-the-Record Press Call by NSC Coordinator for Strategic Communications John\
   \ Kirby and Assistant Secretary for Defense Celeste\_Wallander"

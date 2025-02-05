@@ -2,7 +2,7 @@
 date: '2023-10-18'
 modified_time: 2023-10-18 17:02:22-04:00
 published_time: 2023-10-18 16:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/18/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-oval-office-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/18/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-oval-office-address/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Oval Office\_Address"

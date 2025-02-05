@@ -2,7 +2,7 @@
 date: '2024-08-29'
 modified_time: 2024-08-29 05:35:24-04:00
 published_time: 2024-08-29 05:35:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-xi-jinping-of-the-peoples-republic-of-china/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with President\
   \ Xi Jinping of the People\u2019s Republic of\_China"

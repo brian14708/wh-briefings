@@ -1,7 +1,7 @@
 ---
 date: '2024-04-25'
 published_time: 2024-04-25 21:43:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/statement-of-president-joe-biden-on-the-passing-of-u-s-congressman-donald-payne-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/statement-of-president-joe-biden-on-the-passing-of-u-s-congressman-donald-payne-jr/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Passing of U.S. Congressman Donald\
   \ Payne\_Jr."

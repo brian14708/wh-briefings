@@ -2,7 +2,7 @@
 date: '2024-02-11'
 modified_time: 2024-02-11 12:59:21-05:00
 published_time: 2024-02-11 12:59:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/11/readout-of-president-bidens-call-with-prime-minister-netanyahu-of-israel-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/11/readout-of-president-bidens-call-with-prime-minister-netanyahu-of-israel-11/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Netanyahu of\_\
   Israel"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-23'
 modified_time: 2022-02-23 11:59:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/23/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-2/
 published_time: 2022-02-23 11:52:51-05:00
 title: "President Joseph R. Biden, Jr. Approves Nebraska Disaster\_Declaration"
 ---

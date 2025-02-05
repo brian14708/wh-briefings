@@ -2,7 +2,7 @@
 date: '2024-08-22'
 modified_time: 2024-08-22 11:26:10-04:00
 published_time: 2024-08-22 11:26:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/22/statement-from-vice-president-kamala-harris-on-the-passing-of-congressman-bill-pascrell-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/22/statement-from-vice-president-kamala-harris-on-the-passing-of-congressman-bill-pascrell-jr/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Congressman\
   \ Bill Pascrell,\_Jr."

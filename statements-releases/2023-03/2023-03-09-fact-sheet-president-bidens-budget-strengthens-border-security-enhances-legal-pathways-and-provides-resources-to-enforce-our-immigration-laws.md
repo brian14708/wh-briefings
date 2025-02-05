@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:04:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-strengthens-border-security-enhances-legal-pathways-and-provides-resources-to-enforce-our-immigration-laws/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-strengthens-border-security-enhances-legal-pathways-and-provides-resources-to-enforce-our-immigration-laws/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Strengthens Border Security, Enhances\
   \ Legal Pathways, and Provides Resources to Enforce Our Immigration\_Laws"

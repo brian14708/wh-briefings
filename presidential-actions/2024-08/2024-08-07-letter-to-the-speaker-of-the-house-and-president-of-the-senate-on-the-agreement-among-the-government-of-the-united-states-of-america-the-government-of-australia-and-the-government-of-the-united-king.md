@@ -2,7 +2,7 @@
 date: '2024-08-07'
 modified_time: 2024-08-07 16:22:41-04:00
 published_time: 2024-08-07 16:22:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/07/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-agreement-among-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-king/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/07/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-agreement-among-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-king/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Agreement\
   \ Among the Government of the United\_States of America, the Government of Australia,\

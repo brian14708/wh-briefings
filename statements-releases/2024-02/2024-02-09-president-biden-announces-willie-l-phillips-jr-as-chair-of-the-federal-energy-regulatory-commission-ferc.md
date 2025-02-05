@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-09 09:50:21-05:00
 published_time: 2024-02-09 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/president-biden-announces-willie-l-phillips-jr-as-chair-of-the-federal-energy-regulatory-commission-ferc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/president-biden-announces-willie-l-phillips-jr-as-chair-of-the-federal-energy-regulatory-commission-ferc/
 tags: statements-releases
 title: "President\_Biden Announces Willie L. Phillips, Jr. as Chair of the Federal\
   \ Energy Regulatory Commission\_(FERC)"

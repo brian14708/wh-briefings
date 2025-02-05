@@ -1,7 +1,7 @@
 ---
 date: '2023-10-06'
 published_time: 2023-10-06 14:33:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/06/a-proclamation-on-columbus-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/06/a-proclamation-on-columbus-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Columbus Day,\_2023"
 ---

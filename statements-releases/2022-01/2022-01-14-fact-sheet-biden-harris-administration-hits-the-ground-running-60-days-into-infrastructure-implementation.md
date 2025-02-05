@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-14'
 modified_time: 2022-01-14 14:54:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/14/fact-sheet-biden-harris-administration-hits-the-ground-running-60-days-into-infrastructure-implementation/
 published_time: 2022-01-14 05:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Hits the Ground Running 60 Days\
   \ into Infrastructure\_Implementation"
@@ -29,7 +29,7 @@ strengthen the nation’s resilience to climate change.
 On the day President Biden signed the bill into law, he
 appointed** Mitch Landrieu as Senior Adviser and Infrastructure
 Implementation Coordinator **and signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-president-bidens-executive-order-establishing-priorities-and-task-force-for-implementation-of-the-bipartisan-infrastructure-law/) establishing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-president-bidens-executive-order-establishing-priorities-and-task-force-for-implementation-of-the-bipartisan-infrastructure-law/) establishing
 an **Infrastructure Implementation Task Force** to ensure the
 Administration achieves results for the American people. The
 Administration launched Build.gov to serve as a growing hub of
@@ -57,7 +57,7 @@ opportunities for American workers.
     states, D.C., Puerto Rico, and Tribal governments over the next five
     years.
 -   Vice President Harris announced an [**EV Charging Action
-    Plan**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
+    Plan**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
     achieve the President’s goal of building a national network of
     500,000 electric vehicle chargers.
 -   Transportation Secretary Pete Buttigieg and Energy Secretary
@@ -105,7 +105,7 @@ opportunities for American workers.
     states to upgrade America’s aging water infrastructure, sewerage
     systems, pipes and service lines, and more.
 -   Vice President Harris announced a [**Lead Pipe and Paint Action
-    Plan**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
+    Plan**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
     replace all of the nation’s lead pipes in the next decade and expand
     access to clean drinking water.
 

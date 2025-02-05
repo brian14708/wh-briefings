@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 21:31:28-05:00
 published_time: 2023-12-20 16:14:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-at-the-wisconsin-black-chamber-of-commerce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-at-the-wisconsin-black-chamber-of-commerce/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Wisconsin Black Chamber of\_Commerce"
 ---

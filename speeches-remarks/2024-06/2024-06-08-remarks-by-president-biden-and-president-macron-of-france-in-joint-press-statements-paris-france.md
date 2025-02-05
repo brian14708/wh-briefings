@@ -1,7 +1,7 @@
 ---
 date: '2024-06-08'
 published_time: 2024-06-08 14:21:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-president-biden-and-president-macron-of-france-in-joint-press-statements-paris-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-president-biden-and-president-macron-of-france-in-joint-press-statements-paris-france/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Macron of France in Joint Press\
   \ Statements | Paris,\_France"

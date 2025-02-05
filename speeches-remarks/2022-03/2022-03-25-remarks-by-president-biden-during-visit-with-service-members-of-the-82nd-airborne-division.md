@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2022-03-25'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/25/remarks-by-president-biden-during-visit-with-service-members-of-the-82nd-airborne-division/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/25/remarks-by-president-biden-during-visit-with-service-members-of-the-82nd-airborne-division/
 published_time: 2022-03-25 13:43:23-04:00
 title: "Remarks by President\_Biden During Visit with Service Members of the 82nd\
   \ Airborne\_Division"

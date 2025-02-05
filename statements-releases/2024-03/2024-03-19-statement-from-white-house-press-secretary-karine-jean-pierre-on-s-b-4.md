@@ -1,7 +1,7 @@
 ---
 date: '2024-03-19'
 published_time: 2024-03-19 15:51:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/statement-from-white-house-press-secretary-karine-jean-pierre-on-s-b-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/19/statement-from-white-house-press-secretary-karine-jean-pierre-on-s-b-4/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on S.B.\_4"
 ---

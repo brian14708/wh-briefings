@@ -2,7 +2,7 @@
 date: '2023-09-05'
 modified_time: 2023-09-06 00:22:12-04:00
 published_time: 2023-09-05 20:45:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-u-s-asean-comprehensive-strategic-partnership-one-year-on/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-u-s-asean-comprehensive-strategic-partnership-one-year-on/
 tags: statements-releases
 title: "FACT SHEET: U.S.-ASEAN Comprehensive Strategic Partnership, One Year\_On"
 ---

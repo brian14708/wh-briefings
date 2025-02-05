@@ -2,7 +2,7 @@
 date: '2022-04-08'
 modified_time: 2022-04-08 12:13:34-04:00
 published_time: 2022-04-08 12:13:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/08/statement-from-the-president-on-delivery-of-air-defense-systems-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/08/statement-from-the-president-on-delivery-of-air-defense-systems-to-ukraine/
 tags: statements-releases
 title: "Statement from the President on Delivery of Air Defense Systems to\_Ukraine"
 ---

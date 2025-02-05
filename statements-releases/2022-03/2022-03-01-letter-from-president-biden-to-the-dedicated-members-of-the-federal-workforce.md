@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 09:08:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/letter-from-president-biden-to-the-dedicated-members-of-the-federal-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/letter-from-president-biden-to-the-dedicated-members-of-the-federal-workforce/
 published_time: 2022-03-01 09:30:00-05:00
 title: "Letter from President\_Biden to the Dedicated Members of the Federal\_Workforce"
 ---
@@ -39,4 +39,4 @@ leadership, I have never been more optimistic for the future of America.
 Joe Biden
 
 To view a signed copy of President Biden’s letter, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2022/03/Letter-from-President-Biden-to-the-Dedicated-Members-of-the-Federal-Workforce_20220301.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Letter-from-President-Biden-to-the-Dedicated-Members-of-the-Federal-Workforce_20220301.pdf>

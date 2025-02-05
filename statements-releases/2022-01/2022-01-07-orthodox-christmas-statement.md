@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-07'
 modified_time: 2022-01-07 11:06:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/orthodox-christmas-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/07/orthodox-christmas-statement/
 published_time: 2022-01-07 09:09:33-05:00
 title: Orthodox Christmas Statement
 ---

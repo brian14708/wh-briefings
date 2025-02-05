@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 18:05:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/23/memorandum-on-presidential-determination-terminating-the-designation-of-afghanistan-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/23/memorandum-on-presidential-determination-terminating-the-designation-of-afghanistan-as-a-major-non-nato-ally/
 tags: presidential-actions
 title: "Memorandum on\_Presidential Determination Terminating the Designation of Afghanistan\
   \ as a Major Non-NATO\_Ally"

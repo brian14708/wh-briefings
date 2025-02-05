@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-03 16:22:11-05:00
 published_time: 2024-12-03 16:22:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-honoring-the-past-and-future-of-the-angolan-u-s-relationship-belas-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-honoring-the-past-and-future-of-the-angolan-u-s-relationship-belas-angola/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the Past and Future of the Angolan-U.S.\
   \ Relationship | Belas,\_Angola"

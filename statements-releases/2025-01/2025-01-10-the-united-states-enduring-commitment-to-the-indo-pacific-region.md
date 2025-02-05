@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 15:47:40-05:00
 published_time: 2025-01-10 15:47:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/the-united-states-enduring-commitment-to-the-indo-pacific-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/the-united-states-enduring-commitment-to-the-indo-pacific-region/
 tags: statements-releases
 title: "The United\_States\u2019 Enduring Commitment to the Indo-Pacific\_Region"
 ---

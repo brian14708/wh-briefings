@@ -1,7 +1,7 @@
 ---
 date: '2024-10-29'
 published_time: 2024-10-29 09:59:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/29/president-joseph-r-biden-jr-approves-u-s-virgin-islands-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/29/president-joseph-r-biden-jr-approves-u-s-virgin-islands-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves U.S. Virgin Islands Disaster\_Declaration"
 ---

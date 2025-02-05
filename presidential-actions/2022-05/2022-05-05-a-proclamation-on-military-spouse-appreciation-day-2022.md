@@ -1,7 +1,7 @@
 ---
 date: '2022-05-05'
 published_time: 2022-05-05 13:22:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/05/a-proclamation-on-military-spouse-appreciation-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/05/a-proclamation-on-military-spouse-appreciation-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Military Spouse Appreciation Day,\_2022"
 ---

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 08:15:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/statement-by-national-security-advisor-jake-sullivan-on-the-global-health-security-agenda-annual-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/statement-by-national-security-advisor-jake-sullivan-on-the-global-health-security-agenda-annual-report/
 published_time: 2021-10-14 08:00:00-04:00
 title: "Statement by National Security Advisor Jake Sullivan on the Global Health\
   \ Security Agenda Annual\_Report"
@@ -21,7 +21,7 @@ to the next global health threat.
 Today, we are releasing the annual report, “[Strengthening Health
 Security Across the Globe: Progress and Impact of United States
 Government Investments in the Global Health Security
-Agenda](https://www.whitehouse.gov/wp-content/uploads/2021/10/Global-Health-Security-Agenda-Annual-Report.pdf),”
+Agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Global-Health-Security-Agenda-Annual-Report.pdf),”
 which details our progress and impact helping countries build health
 security capacity through the Global Health Security Agenda (GHSA) in
 fiscal year 2020. We are bringing a whole-of-government effort to
@@ -52,6 +52,6 @@ do it. We can invest in saving lives now and creating a more secure and
 healthy future. The GHSA is a vital part of that work.
 
 Read the full report here:
-<https://www.whitehouse.gov/wp-content/uploads/2021/10/Global-Health-Security-Agenda-Annual-Report.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Global-Health-Security-Agenda-Annual-Report.pdf>
 
 \###

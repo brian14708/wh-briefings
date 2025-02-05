@@ -1,7 +1,7 @@
 ---
 date: '2022-04-04'
 published_time: 2022-04-04 17:27:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-president-biden-on-the-trucking-action-plan-to-strengthen-our-nations-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/04/remarks-by-president-biden-on-the-trucking-action-plan-to-strengthen-our-nations-supply-chains/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Trucking Action Plan to Strengthen Our\
   \ Nation\u2019s Supply\_Chains"

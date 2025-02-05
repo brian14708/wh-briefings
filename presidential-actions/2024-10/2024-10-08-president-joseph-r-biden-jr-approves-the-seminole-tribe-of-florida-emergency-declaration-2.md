@@ -1,7 +1,7 @@
 ---
 date: '2024-10-08'
 published_time: 2024-10-08 15:13:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/08/president-joseph-r-biden-jr-approves-the-seminole-tribe-of-florida-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/08/president-joseph-r-biden-jr-approves-the-seminole-tribe-of-florida-emergency-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves the Seminole Tribe of Florida Emergency\_\
   Declaration"

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-14'
 published_time: 2022-11-14 00:49:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/14/readout-of-president-joe-bidens-meeting-with-president-joko-widodo-of-indonesia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/14/readout-of-president-joe-bidens-meeting-with-president-joko-widodo-of-indonesia/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Joko Widodo\
   \ of\_Indonesia"

@@ -2,7 +2,7 @@
 date: '2024-07-01'
 modified_time: 2024-07-01 10:41:45-04:00
 published_time: 2024-07-01 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/07/01/building-a-thriving-clean-energy-economy-in-2023-and-beyond-a-six-month-update/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/07/01/building-a-thriving-clean-energy-economy-in-2023-and-beyond-a-six-month-update/
 tags: blog
 title: "Building a Thriving Clean Energy Economy in 2023 and Beyond: A Six-Month\_\
   Update"
@@ -17,10 +17,10 @@ Science and Technology Policy*
 
 *This represents an updated version of the original December 2023
 publication*
-[*here*](https://www.whitehouse.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/)*.*
+[*here*](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/)*.*
 
 In 2021 and 2022, President Biden signed into law his [Investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 agenda, a series of strategic public investments in industries critical
 for the long-run economic growth of the United States. These included
 the largest investment in reducing carbon emissions in American history.
@@ -43,7 +43,7 @@ and electric vehicles.
 This brief highlights progress-to-date towards deploying these clean
 energy technologies and documents continued achievements in the six
 months since its [original December 2023
-publication](https://www.whitehouse.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/).
+publication](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/).
 It describes how the President’s Investing in America agenda is
 translating into tangible outcomes and progress towards the President’s
 climate goals, and it outlines how the deployment of clean energy
@@ -53,12 +53,12 @@ security, and spur economic growth across the country.
 ## **Investment in the construction of clean energy manufacturing facilities is exceeding expectations.**
 
 As explained in a 2023 [issue
-brief](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
+brief](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
 the Investing in America agenda is intended to catalyze strategic
 private sector investments, and initial signs indicate private companies
 are already responding. Since January 2021, private companies have
 announced [nearly $880
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 new investment, including over $410 billion in clean energy
 manufacturing, EVs and batteries, and clean power generation.
 
@@ -73,10 +73,10 @@ agenda is catalyzing more private-sector funding than initially expected
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png"
 class="wp-image-101797" decoding="async" loading="lazy"
 sizes="(max-width: 1050px) 100vw, 1050px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png 1050w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png?resize=615,395 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png?resize=768,494 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png?resize=498,320 498w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png?resize=996,640 996w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture1.png?resize=1038,667 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png 1050w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png?resize=615,395 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png?resize=768,494 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png?resize=498,320 498w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png?resize=996,640 996w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture1.png?resize=1038,667 1038w"
 width="1050" height="675" />
 </figure>
 
@@ -89,10 +89,10 @@ non-residential construction grew 7.6 percent over the same period
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png"
 class="wp-image-101798" decoding="async" loading="lazy"
 sizes="(max-width: 1048px) 100vw, 1048px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png 1048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png?resize=615,396 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png?resize=768,495 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png?resize=497,320 497w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png?resize=994,640 994w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2.png?resize=1038,669 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png 1048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png?resize=615,396 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png?resize=768,495 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png?resize=497,320 497w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png?resize=994,640 994w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2.png?resize=1038,669 1038w"
 width="1048" height="675" />
 </figure>
 
@@ -118,7 +118,7 @@ wind manufacturing capacity. For example, since the Inflation Reduction
 Act was signed into law in August 2022, there have been nearly [$17
 billion](https://www.energy.gov/invest) in planned U.S. solar
 manufacturing investments (a 31 percent increase since [December
-2023](https://www.whitehouse.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/)),
+2023](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/)),
 representing [126](https://www.energy.gov/invest) new facilities and/or
 expansions.
 
@@ -139,19 +139,19 @@ planned projects are expected to more than double last year’s record
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?w=640"
 class="wp-image-101799" decoding="async" loading="lazy"
 sizes="(max-width: 2134px) 100vw, 2134px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png 2134w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=615,428 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=768,534 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=1270,884 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=1536,1069 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=2048,1425 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=460,320 460w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=920,640 920w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=1839,1280 1839w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture3.png?resize=1038,722 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png 2134w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=615,428 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=768,534 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=1270,884 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=1536,1069 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=2048,1425 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=460,320 460w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=920,640 920w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=1839,1280 1839w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture3.png?resize=1038,722 1038w"
 width="2134" height="1485" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?w=640"
 class="wp-image-101800" decoding="async" loading="lazy"
 sizes="(max-width: 2140px) 100vw, 2140px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png 2140w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=615,399 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=768,498 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=1270,823 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=1536,996 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=2048,1327 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=494,320 494w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=987,640 987w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=1975,1280 1975w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture4.png?resize=1038,673 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png 2140w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=615,399 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=768,498 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=1270,823 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=1536,996 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=2048,1327 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=494,320 494w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=987,640 987w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=1975,1280 1975w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture4.png?resize=1038,673 1038w"
 width="2140" height="1387" />
 </figure>
 
@@ -164,10 +164,10 @@ end of 2022.  
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?w=640"
 class="wp-image-101801" decoding="async" loading="lazy"
 sizes="(max-width: 2136px) 100vw, 2136px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png 2136w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=615,428 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=768,534 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=1270,883 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=1536,1068 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=2048,1424 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=460,320 460w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=921,640 921w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=1841,1280 1841w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture5.png?resize=1038,722 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png 2136w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=615,428 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=768,534 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=1270,883 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=1536,1068 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=2048,1424 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=460,320 460w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=921,640 921w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=1841,1280 1841w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture5.png?resize=1038,722 1038w"
 width="2136" height="1485" />
 </figure>
 
@@ -197,19 +197,19 @@ represent a near doubling of the *total* storage capacity on the grid
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?w=640"
 class="wp-image-101802" decoding="async" loading="lazy"
 sizes="(max-width: 2131px) 100vw, 2131px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png 2131w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=615,419 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=768,524 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=1270,866 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=1536,1047 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=2048,1396 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=469,320 469w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=939,640 939w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=1877,1280 1877w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture6.png?resize=1038,708 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png 2131w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=615,419 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=768,524 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=1270,866 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=1536,1047 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=2048,1396 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=469,320 469w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=939,640 939w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=1877,1280 1877w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture6.png?resize=1038,708 1038w"
 width="2131" height="1453" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?w=640"
 class="wp-image-101803" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=615,417 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=768,520 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=1270,860 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=1536,1040 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=2048,1387 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=472,320 472w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=945,640 945w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=1890,1280 1890w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=1038,703 1038w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture7.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=615,417 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=768,520 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=1270,860 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=1536,1040 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=2048,1387 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=472,320 472w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=945,640 945w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=1890,1280 1890w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=1038,703 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture7.png?resize=114,76 114w"
 width="2145" height="1453" />
 </figure>
 
@@ -236,10 +236,10 @@ manufacturing, funding to bolster and support a national network of EV
 chargers, and consumer tax credits to lower the cost of purchasing an
 EV. Private sector actors are responding to these incentives. Since the
 beginning of 2021, firms have announced nearly [$180
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 investment to manufacture EVs and EV batteries—an 18 percent increase
 since [December
-2023](https://www.whitehouse.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/).
+2023](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/).
 
 New EV models are offering consumers more options while bringing down
 prices. Between 2021 and 2023, the number of EV
@@ -265,19 +265,19 @@ projections made in the beginning of 2021.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?w=640"
 class="wp-image-101804" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=615,391 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=768,488 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=1270,808 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=1536,977 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=2048,1302 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=503,320 503w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=1006,640 1006w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=2013,1280 2013w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture8.png?resize=1038,660 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=615,391 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=768,488 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=1270,808 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=1536,977 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=2048,1302 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=503,320 503w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=1006,640 1006w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=2013,1280 2013w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture8.png?resize=1038,660 1038w"
 width="2145" height="1364" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?w=640"
 class="wp-image-101805" decoding="async" loading="lazy"
 sizes="(max-width: 2110px) 100vw, 2110px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png 2110w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=615,445 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=768,555 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=1270,918 1270w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=1536,1111 1536w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=2048,1481 2048w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=442,320 442w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=885,640 885w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=1770,1280 1770w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture9.png?resize=1038,751 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png 2110w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=615,445 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=768,555 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=1270,918 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=1536,1111 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=2048,1481 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=442,320 442w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=885,640 885w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=1770,1280 1770w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture9.png?resize=1038,751 1038w"
 width="2110" height="1526" />
 </figure>
 
@@ -289,9 +289,9 @@ climate goals. Doing so means reducing the [impacts of climate
 change](https://nca2023.globalchange.gov/) by cutting emissions, while
 also improving energy security and reliability and spurring equitable
 economic growth. Some of these investments are
-[spread](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+[spread](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 out over a decade, meaning many of the associated
-[benefits](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+[benefits](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
 will accrue over time. Forecasters’ estimates preview some of these
 benefits to come.
 
@@ -343,10 +343,10 @@ collecting these data in 1959.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png"
 class="wp-image-101806" decoding="async" loading="lazy"
 sizes="(max-width: 1047px) 100vw, 1047px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png 1047w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png?resize=615,397 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png?resize=768,496 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png?resize=496,320 496w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png?resize=991,640 991w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture10.png?resize=1038,670 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png 1047w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png?resize=615,397 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png?resize=768,496 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png?resize=496,320 496w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png?resize=991,640 991w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture10.png?resize=1038,670 1038w"
 width="1047" height="676" />
 </figure>
 
@@ -374,7 +374,7 @@ technologies like grid-scale energy storage and electric vehicles.
 
 President Biden’s Investing in America agenda responds to this need with
 carefully designed incentives to mobilize [private sector
-investments](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
+investments](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
 including in clean energy technologies. At the macroeconomic level,
 there is already strong evidence that private sector commitments are
 translating into tangible construction projects to build new

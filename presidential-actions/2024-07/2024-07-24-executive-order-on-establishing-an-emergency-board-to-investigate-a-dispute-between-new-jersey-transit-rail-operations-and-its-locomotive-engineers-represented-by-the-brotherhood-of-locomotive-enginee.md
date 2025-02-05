@@ -1,7 +1,7 @@
 ---
 date: '2024-07-24'
 published_time: 2024-07-24 16:48:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/24/executive-order-on-establishing-an-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations-and-its-locomotive-engineers-represented-by-the-brotherhood-of-locomotive-enginee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/24/executive-order-on-establishing-an-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations-and-its-locomotive-engineers-represented-by-the-brotherhood-of-locomotive-enginee/
 tags: presidential-actions
 title: "Executive Order on Establishing an Emergency Board to Investigate a Dispute\
   \ Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented\

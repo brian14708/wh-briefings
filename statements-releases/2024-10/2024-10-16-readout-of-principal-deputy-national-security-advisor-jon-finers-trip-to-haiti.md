@@ -2,7 +2,7 @@
 date: '2024-10-16'
 modified_time: 2024-10-16 18:22:31-04:00
 published_time: 2024-10-16 18:22:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/readout-of-principal-deputy-national-security-advisor-jon-finers-trip-to-haiti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/16/readout-of-principal-deputy-national-security-advisor-jon-finers-trip-to-haiti/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Trip\
   \ to\_Haiti"

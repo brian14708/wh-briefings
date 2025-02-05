@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 10:07:07-05:00
 published_time: 2025-01-06 10:06:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/06/memorandum-on-the-withdrawal-of-certain-areas-of-the-united-states-outer-continental-shelf-from-oil-or-natural-gas-leasing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/06/memorandum-on-the-withdrawal-of-certain-areas-of-the-united-states-outer-continental-shelf-from-oil-or-natural-gas-leasing/
 tags: presidential-actions
 title: "Memorandum on the Withdrawal of Certain Areas of the United\_States Outer\
   \ Continental Shelf from Oil or Natural Gas\_Leasing"

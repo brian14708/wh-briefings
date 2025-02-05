@@ -2,7 +2,7 @@
 date: '2023-09-16'
 modified_time: 2023-09-16 08:44:10-04:00
 published_time: 2023-09-16 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/16/statement-from-joe-president-biden-on-10-years-since-the-navy-yard-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/16/statement-from-joe-president-biden-on-10-years-since-the-navy-yard-shooting/
 tags: statements-releases
 title: "Statement from Joe President\_Biden on 10 Years Since the Navy Yard\_Shooting"
 ---

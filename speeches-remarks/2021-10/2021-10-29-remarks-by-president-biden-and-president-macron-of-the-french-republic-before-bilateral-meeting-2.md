@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-10-29'
 modified_time: 2021-10-29 14:41:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/29/remarks-by-president-biden-and-president-macron-of-the-french-republic-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/10/29/remarks-by-president-biden-and-president-macron-of-the-french-republic-before-bilateral-meeting-2/
 published_time: 2021-10-29 14:45:00-04:00
 title: "Remarks by President\_Biden and President Macron of the French Republic Before\
   \ Bilateral\_Meeting"

@@ -2,7 +2,7 @@
 date: '2024-07-22'
 modified_time: 2024-07-23 13:10:35-04:00
 published_time: 2024-07-22 18:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/22/remarks-by-president-biden-and-vice-president-harris-at-a-campaign-event-wilmington-de-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/22/remarks-by-president-biden-and-vice-president-harris-at-a-campaign-event-wilmington-de-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at a Campaign Event\
   \ | Wilmington,\_DE"

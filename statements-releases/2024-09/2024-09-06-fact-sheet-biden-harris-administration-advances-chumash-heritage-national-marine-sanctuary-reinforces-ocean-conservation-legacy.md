@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 09:59:16-04:00
 published_time: 2024-09-06 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Chumash Heritage National\
   \ Marine Sanctuary, Reinforces Ocean Conservation\_Legacy"
@@ -165,7 +165,7 @@ Ocean protection highlights by the Biden-Harris Administration include:
 -   **Taken steps to create one of the largest marine protected areas on
     the planet** in the Pacific Ocean southwest of Hawaiˋi. The
     President [started the
-    process](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/)
+    process](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/)
     to consider designating approximately 700,000 square miles of the
     area as a new National Marine Sanctuary.  If the sanctuary is
     completed, it would conserve more than 700,000 square miles of
@@ -200,19 +200,19 @@ Ocean protection highlights by the Biden-Harris Administration include:
 
 To advance the President’s commitment to ocean climate action, in March
 2023, the White House released the first-ever [Ocean Climate Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf)
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf)
 (OCAP), a groundbreaking roadmap to harness the power and capacity of
 the ocean to address the climate crisis. The plan outlined new actions
 on the Biden-Harris Administration’s ocean climate priorities. [One year
-later](https://www.whitehouse.gov/wp-content/uploads/2024/04/OCAP-Progress-Report_April-2024.pdf),
+later](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/OCAP-Progress-Report_April-2024.pdf),
 the bold goals and ambitious actions set forth in the OCAP are well
 underway, complemented by other strategies including the [National Ocean
 Biodiversity
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2024/06/NSTC_National-Ocean-Biodiversity-Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/NSTC_National-Ocean-Biodiversity-Strategy.pdf),
 the [National Aquatic Environmental DNA
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2024/06/NSTC_National-Aquatic-eDNA-Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/NSTC_National-Aquatic-eDNA-Strategy.pdf),
 and the [National Strategy for a Sustainable Ocean
-Economy](https://www.whitehouse.gov/wp-content/uploads/2024/06/National-Stategy-for-a-Sustainable-Ocean-Economy_Final.pdf). 
+Economy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/National-Stategy-for-a-Sustainable-Ocean-Economy_Final.pdf). 
 
 As the first comprehensive U.S. strategy to use the power of the ocean
 and coasts to address and respond to a changing climate, the OCAP has
@@ -222,7 +222,7 @@ economy. Highlights from the past year of accomplishments include:
 
 -   **Advancing environmental justice** through the release of the first
     ever [Ocean Justice
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/12/Ocean-Justice-Strategy.pdf?cb=1701982354),
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Ocean-Justice-Strategy.pdf?cb=1701982354),
     which provides a framework for achieving equitable access to the
     benefits of a healthy ocean and coastal ecosystem in order to
     address the historic inequities for many communities that are
@@ -252,7 +252,7 @@ economy. Highlights from the past year of accomplishments include:
     including nearly $400 million for Tribal priorities. This work
     advances the Biden-Harris Administration’s [National Climate
     Resilience
-    Framework](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
+    Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
     which helps to align climate resilience investments across the
     public and private sector through common principles and
     opportunities for action to build a climate-resilient nation. These
@@ -263,7 +263,7 @@ economy. Highlights from the past year of accomplishments include:
 -   **Addressing and mitigating the impacts of a changing climate**
     through the establishment of a [Marine Carbon Dioxide Removal Fast
     Track Action
-    Committee](https://www.whitehouse.gov/ostp/news-updates/2023/10/06/marine-carbon-dioxide-removal-potential-ways-to-harness-the-ocean-to-mitigate-climate-change/)
+    Committee](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/10/06/marine-carbon-dioxide-removal-potential-ways-to-harness-the-ocean-to-mitigate-climate-change/)
     and the release of the [U.S. Ocean Acidification Action
     Plan](https://www.state.gov/wp-content/uploads/2023/12/Ocean-Acidification-Action-Plan.pdf).
 -   **Coordinating and accelerating measurements of greenhouse gases**
@@ -271,6 +271,6 @@ economy. Highlights from the past year of accomplishments include:
     ambitious goals and enable faster progress where feasible, through
     establishment of a [National Strategy to Enhance the Nation’s
     Greenhouse Gas Measurement and Monitoring
-    Capabilities](https://www.whitehouse.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/).
+    Capabilities](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/).
 
 \###

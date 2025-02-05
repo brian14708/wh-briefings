@@ -2,7 +2,7 @@
 date: '2024-02-04'
 modified_time: 2024-02-05 14:49:12-05:00
 published_time: 2024-02-04 19:00:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/04/remarks-by-president-biden-at-a-campaign-event-henderson-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/04/remarks-by-president-biden-at-a-campaign-event-henderson-nv/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Henderson,\_NV"
 ---

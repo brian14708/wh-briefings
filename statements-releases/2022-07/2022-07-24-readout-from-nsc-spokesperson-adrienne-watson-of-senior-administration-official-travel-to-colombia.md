@@ -2,7 +2,7 @@
 date: '2022-07-24'
 modified_time: 2022-07-24 11:41:33-04:00
 published_time: 2022-07-24 11:41:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/24/readout-from-nsc-spokesperson-adrienne-watson-of-senior-administration-official-travel-to-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/24/readout-from-nsc-spokesperson-adrienne-watson-of-senior-administration-official-travel-to-colombia/
 tags: statements-releases
 title: "Readout from NSC Spokesperson Adrienne Watson of Senior Administration Official\
   \ Travel to\_Colombia"

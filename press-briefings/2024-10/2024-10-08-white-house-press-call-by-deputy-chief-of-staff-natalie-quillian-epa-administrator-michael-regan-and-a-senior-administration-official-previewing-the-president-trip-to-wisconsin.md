@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-07 15:48:02-04:00
 published_time: 2024-10-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/08/white-house-press-call-by-deputy-chief-of-staff-natalie-quillian-epa-administrator-michael-regan-and-a-senior-administration-official-previewing-the-president-trip-to-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/08/white-house-press-call-by-deputy-chief-of-staff-natalie-quillian-epa-administrator-michael-regan-and-a-senior-administration-official-previewing-the-president-trip-to-wisconsin/
 tags: press-briefings
 title: "White\_House Press Call by Deputy Chief of Staff Natalie Quillian, EPA Administrator\
   \ Michael Regan, and a Senior Administration Official Previewing the President Trip\

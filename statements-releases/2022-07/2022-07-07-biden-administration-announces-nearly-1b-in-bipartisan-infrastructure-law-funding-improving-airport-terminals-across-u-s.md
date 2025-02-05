@@ -1,7 +1,7 @@
 ---
 date: '2022-07-07'
 published_time: 2022-07-07 09:51:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/07/biden-administration-announces-nearly-1b-in-bipartisan-infrastructure-law-funding-improving-airport-terminals-across-u-s/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/07/biden-administration-announces-nearly-1b-in-bipartisan-infrastructure-law-funding-improving-airport-terminals-across-u-s/
 tags: statements-releases
 title: "Biden Administration Announces Nearly $1B in Bipartisan Infrastructure Law\
   \ Funding Improving Airport Terminals across\_U.S."
@@ -190,7 +190,7 @@ provides $1 billion annually for five years for Airport Terminal grants.
 Learn more at [faa.gov/bil](http://www.faa.gov/bil). 
 
 The [President’s Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/bipartisan-infrastructure-law/), also
+Law](https://bidenwhitehouse.archives.gov/bipartisan-infrastructure-law/), also
 known as the Infrastructure Investment and Jobs Act, makes a historic
 investment in our nation’s infrastructure and competitiveness. It will
 rebuild America’s roads, bridges and rails, upgrade and expand public

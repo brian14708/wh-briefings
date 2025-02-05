@@ -1,7 +1,7 @@
 ---
 date: '2022-05-02'
 published_time: 2022-05-02 19:33:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/02/statement-by-press-secretary-jen-psaki-on-president-bidens-meeting-with-marc-and-debra-tice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/02/statement-by-press-secretary-jen-psaki-on-president-bidens-meeting-with-marc-and-debra-tice/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Meeting\
   \ with Marc and Debra\_Tice"

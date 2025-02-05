@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-11'
 modified_time: 2021-03-11 18:42:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/11/fact-sheet-president-biden-to-announce-all-americans-to-be-eligible-for-vaccinations-by-may-1-puts-the-nation-on-a-path-to-get-closer-to-normal-by-july-4th/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/11/fact-sheet-president-biden-to-announce-all-americans-to-be-eligible-for-vaccinations-by-may-1-puts-the-nation-on-a-path-to-get-closer-to-normal-by-july-4th/
 published_time: 2021-03-11 18:42:29-05:00
 title: "Fact Sheet: President\_Biden to Announce All Americans to be Eligible for\
   \ Vaccinations by May 1, Puts the Nation on a Path to Get Closer to Normal by July\_\
@@ -19,7 +19,7 @@ with the goal of getting the nation closer to normal by July
 4<sup>th</sup>, Independence Day.
 
 The President launched a new, comprehensive
-[strategy](https://www.whitehouse.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf)
+[strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf)
 to beat this pandemic on January 21, 2021.  In the subsequent 7 weeks,
 we’ve delivered over 81 million vaccinations to Americans — today, more
 people are once again able to visit their loved ones. There is more work

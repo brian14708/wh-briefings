@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 10:56:37-05:00
 published_time: 2023-02-02 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/president-biden-announces-key-appointments-to-national-cancer-advisory-board/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/president-biden-announces-key-appointments-to-national-cancer-advisory-board/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to National Cancer Advisory\_\
   Board"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-19'
 published_time: 2024-01-19 18:14:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/president-biden-announces-presidential-delegation-to-the-republic-of-liberia-to-attend-the-inauguration-of-his-excellency-joseph-boakai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/19/president-biden-announces-presidential-delegation-to-the-republic-of-liberia-to-attend-the-inauguration-of-his-excellency-joseph-boakai/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Republic of Liberia\
   \ to Attend the Inauguration of His Excellency Joseph\_Boakai"

@@ -2,7 +2,7 @@
 date: '2023-09-01'
 modified_time: 2023-09-01 11:46:03-04:00
 published_time: 2023-09-01 11:45:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/01/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/01/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-advisor-and-deputy-national-security-advisor-dr-elizabeth-sherwood-randall/
 tags: press-briefings
 title: Press Briefing by Press Secretary Karine Jean-Pierre and Homeland Security
   Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall

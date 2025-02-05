@@ -1,7 +1,7 @@
 ---
 date: '2024-09-12'
 published_time: 2024-09-12 20:29:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-department-of-agriculture-and-environmental-protection-agency-roundtable-on-financing-climate-smart-agriculture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-department-of-agriculture-and-environmental-protection-agency-roundtable-on-financing-climate-smart-agriculture/
 tags: statements-releases
 title: "Readout of White\_House, Department of Agriculture, and Environmental Protection\
   \ Agency Roundtable on Financing Climate Smart\_Agriculture"

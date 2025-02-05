@@ -2,7 +2,7 @@
 date: '2023-01-12'
 modified_time: 2023-01-12 19:38:55-05:00
 published_time: 2023-01-12 19:38:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/12/readout-of-white-house-meeting-with-state-legislators-on-expanding-training-for-reproductive-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/12/readout-of-white-house-meeting-with-state-legislators-on-expanding-training-for-reproductive-health-care/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislators on Expanding Training\
   \ for Reproductive Health\_Care"

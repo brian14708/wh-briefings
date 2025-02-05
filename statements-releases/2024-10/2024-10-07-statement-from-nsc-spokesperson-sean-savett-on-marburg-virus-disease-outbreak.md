@@ -2,7 +2,7 @@
 date: '2024-10-07'
 modified_time: 2024-10-07 15:29:02-04:00
 published_time: 2024-10-07 14:03:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Sean Savett on Marburg Virus Disease\_Outbreak"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-09'
 modified_time: 2022-05-09 16:31:09-04:00
 published_time: 2022-05-09 16:31:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/09/remarks-by-president-biden-at-signing-of-s-3522-the-ukraine-democracy-defense-lend-lease-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/09/remarks-by-president-biden-at-signing-of-s-3522-the-ukraine-democracy-defense-lend-lease-act-of-2022/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_at Signing of S. 3522, the \u201CUkraine Democracy\
   \ Defense Lend-Lease Act Of\_2022\u201D"

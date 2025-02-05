@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 01:26:47-04:00
 published_time: 2022-05-23 01:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-the-u-s-japan-competitiveness-and-resilience-core-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-the-u-s-japan-competitiveness-and-resilience-core-partnership/
 tags: statements-releases
 title: "FACT SHEET:\_ The U.S.-Japan Competitiveness and Resilience (CoRe)\_Partnership"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 19:41:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/18/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-may-18-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/18/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-may-18-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake Sullivan, May 18,\_2022"

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 17:59:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/29/memorandum-on-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/29/memorandum-on-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons-2/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination with Respect to the Efforts of Foreign\
   \ Governments Regarding Trafficking in\_Persons"

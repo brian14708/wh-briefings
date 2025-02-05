@@ -1,7 +1,7 @@
 ---
 date: '2024-07-19'
 published_time: 2024-07-19 10:30:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/statement-by-president-joe-biden-on-the-sentencing-of-wrongfully-detained-american-evan-gershkovich/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/statement-by-president-joe-biden-on-the-sentencing-of-wrongfully-detained-american-evan-gershkovich/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Sentencing of Wrongfully Detained\
   \ American Evan\_Gershkovich"

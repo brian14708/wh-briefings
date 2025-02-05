@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-16'
 modified_time: 2021-12-16 13:20:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%e2%81%a0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%e2%81%a0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/
 published_time: 2021-12-16 05:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Trucking Action Plan to\
   \ Strengthen America\u2019s Trucking\_Workforce"
@@ -279,7 +279,7 @@ and others to advance these efforts:
 
 The Truck Action Plan is part of the Biden-Harris Administration’s
 [Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/),
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/),
 launched in June to address near-term supply chain bottlenecks as the
 economy rapidly reopened following the Administration’s historic
 vaccination and economic relief efforts. The Task Force is co-chaired by

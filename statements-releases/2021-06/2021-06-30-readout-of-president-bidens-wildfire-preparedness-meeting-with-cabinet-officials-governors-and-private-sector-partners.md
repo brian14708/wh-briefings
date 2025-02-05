@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 21:51:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-president-bidens-wildfire-preparedness-meeting-with-cabinet-officials-governors-and-private-sector-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-president-bidens-wildfire-preparedness-meeting-with-cabinet-officials-governors-and-private-sector-partners/
 published_time: 2021-06-30 21:51:56-04:00
 title: "Readout of President\_Biden\u2019s Wildfire Preparedness Meeting with Cabinet\
   \ Officials, Governors and Private Sector\_Partners"
@@ -28,7 +28,7 @@ fires through new funding.  President Biden announced a $37 million
 grant award to California to support fire mitigation efforts as part of
 FEMA’s new Building Resilient Infrastructure and Communities program. 
 Last month, President Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/24/fact-sheet-biden-administration-invests-1-billion-to-protect-communities-families-and-businesses-before-disaster-strikes/)
 the Administration will double funding for the program to $1 billion
 next year in order to invest in pre-disaster resilience and mitigation
 resources and help strengthen the ability of communities, families, and

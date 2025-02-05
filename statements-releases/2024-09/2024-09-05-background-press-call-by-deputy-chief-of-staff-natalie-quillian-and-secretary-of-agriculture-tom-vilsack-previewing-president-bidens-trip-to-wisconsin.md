@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-04 23:33:07-04:00
 published_time: 2024-09-05 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/background-press-call-by-deputy-chief-of-staff-natalie-quillian-and-secretary-of-agriculture-tom-vilsack-previewing-president-bidens-trip-to-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/background-press-call-by-deputy-chief-of-staff-natalie-quillian-and-secretary-of-agriculture-tom-vilsack-previewing-president-bidens-trip-to-wisconsin/
 tags: statements-releases
 title: "Background Press Call by Deputy Chief of Staff Natalie Quillian and Secretary\
   \ of Agriculture Tom Vilsack Previewing President\_Biden\u2019s Trip to\_Wisconsin"

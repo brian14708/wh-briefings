@@ -1,7 +1,7 @@
 ---
 date: '2022-04-05'
 published_time: 2022-04-05 19:13:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/statement-by-press-secretary-jen-psaki-on-covid-19-funding-proposal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/statement-by-press-secretary-jen-psaki-on-covid-19-funding-proposal/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on COVID-\u206019 Funding\_Proposal"
 ---

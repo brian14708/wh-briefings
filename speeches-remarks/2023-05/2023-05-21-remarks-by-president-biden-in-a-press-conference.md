@@ -2,7 +2,7 @@
 date: '2023-05-21'
 modified_time: 2023-05-21 11:07:33-04:00
 published_time: 2023-05-21 11:07:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/21/remarks-by-president-biden-in-a-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/21/remarks-by-president-biden-in-a-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Press\_Conference"
 ---

@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:06:25-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-confronts-global-challenges-and-defends-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-confronts-global-challenges-and-defends-democracy/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Confronts Global Challenges and Defends\_\
   Democracy"
@@ -60,7 +60,7 @@ development bank evolution reforms.
 Urgent National Security Priorities Related to Ukraine, Israel, and the
 Indo-Pacific**. In October 2023, the Administration transmitted an
 [emergency supplemental
-request](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
+request](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
 totaling $92 billion to Congress for urgent national security needs.
 This request included funding to support Ukraine as it continues to
 defend itself against Russian aggression, Israel’s defense against
@@ -200,7 +200,7 @@ Republic of Palau. The Budget reflects a substantial commitment to the
 Indo-Pacific and reiterates the need for the $2 billion investment that
 the Administration requested in the [October 2023 National Security
 Supplemental
-Request](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
+Request](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
 in security assistance to fully address urgent regional security needs
 and deter acts of aggression.
 

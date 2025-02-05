@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 17:49:37-04:00
 published_time: 2022-07-14 17:49:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/brian-deese-remarks-on-president-bidens-competition-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/brian-deese-remarks-on-president-bidens-competition-agenda/
 tags: statements-releases
 title: "Brian Deese Remarks on President\_Biden\u2019s Competition\_Agenda"
 ---
@@ -394,7 +394,7 @@ Thank you—and I look forward to this conversation.
 <a href="#_ftnref1" id="_ftn1">[1]</a> *Remarks by President Biden at
 Signing of an Executive Order Promoting Competition in the American
 Economy*, White House (July 9, 2021),
-https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-president-biden-at-signing-of-an-executive-order-promoting-competition-in-the-american-economy.
+https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-president-biden-at-signing-of-an-executive-order-promoting-competition-in-the-american-economy.
 
 <a href="#_ftnref2" id="_ftn2">[2]</a> *Northern Securities Co. v.
 United States*, 193 U.S. 197 (1904).
@@ -522,7 +522,7 @@ https://www.federalregister.gov/documents/2021
 <a href="#_ftnref25" id="_ftn25">[25]</a> *Id.*; *see also* *Fact Sheet:
 Executive Order on Promoting Competition in the American Economy*, White
 House (July 9, 2021),
-https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.
+https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy.
 
 <a href="#_ftnref26" id="_ftn26">[26]</a> *FDA Issues Landmark Proposal
 To Improve Access to Hearing Aid Technology for Millions of Americans*,
@@ -592,7 +592,7 @@ Terminate Merger Agreement*, U.S. Dep’t of Justice (July 26, 2021),
 https://www.justice.gov/opa/pr/attorney-general-merrick-b-garland-s-statement-aon-and-willis-towers-watson-decision.
 
 <a href="#_ftnref39" id="_ftn39">[39]</a> *See* *White House Competition
-Council*, White House, https://www.whitehouse.gov/competition (last
+Council*, White House, https://bidenwhitehouse.archives.gov/competition (last
 visited July 14, 2022).
 
 <a href="#_ftnref40" id="_ftn40">[40]</a> *Justice Department and U.S.
@@ -604,12 +604,12 @@ https://www.justice.gov/opa/pr/justice-department-and-us-department-agriculture-
 <a href="#_ftnref41" id="_ftn41">[41]</a> *Fact Sheet: Lowering Prices
 and Leveling the Playing Field in Ocean Shipping*, White House (Feb. 28,
 2022),
-https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping.
+https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping.
 
 <a href="#_ftnref42" id="_ftn42">[42]</a> *Statement by President Joe
 Biden on Congressional Passage of Ocean Shipping Reform Act*, White
 House (June 13, 2022),
-https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act.
+https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/statement-by-president-joe-biden-on-congressional-passage-of-ocean-shipping-reform-act.
 
 <a href="#_ftnref43" id="_ftn43">[43]</a> *Departments of Justice and
 Labor Strengthen Partnership To Protect Workers*, U.S. Dep’t of Justice

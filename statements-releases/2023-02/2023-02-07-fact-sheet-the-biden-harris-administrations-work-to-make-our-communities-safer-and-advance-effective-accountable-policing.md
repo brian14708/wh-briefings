@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-07 16:33:38-05:00
 published_time: 2023-02-07 13:18:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-the-biden-harris-administrations-work-to-make-our-communities-safer-and-advance-effective-accountable-policing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-the-biden-harris-administrations-work-to-make-our-communities-safer-and-advance-effective-accountable-policing/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Work to Make Our\
   \ Communities Safer and Advance Effective, Accountable\_Policing"

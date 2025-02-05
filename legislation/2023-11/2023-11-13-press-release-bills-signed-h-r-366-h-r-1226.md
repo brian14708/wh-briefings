@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 12:17:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/11/13/press-release-bills-signed-h-r-366-h-r-1226/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/11/13/press-release-bills-signed-h-r-366-h-r-1226/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 366, H.R.\_1226"
 ---

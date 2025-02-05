@@ -2,7 +2,7 @@
 date: '2022-12-20'
 modified_time: 2022-12-20 19:48:26-05:00
 published_time: 2022-12-20 19:48:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/20/statement-by-nsc-spokesperson-adrienne-watson-on-taliban-restrictions-on-womens-education-and-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/20/statement-by-nsc-spokesperson-adrienne-watson-on-taliban-restrictions-on-womens-education-and-rights/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Taliban Restrictions on Women\u2019\
   s Education and\_Rights"

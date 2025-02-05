@@ -1,7 +1,7 @@
 ---
 date: '2023-12-23'
 published_time: 2023-12-23 22:02:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/23/president-joseph-r-biden-jr-approves-utah-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/23/president-joseph-r-biden-jr-approves-utah-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Utah Disaster\_Declaration"
 ---

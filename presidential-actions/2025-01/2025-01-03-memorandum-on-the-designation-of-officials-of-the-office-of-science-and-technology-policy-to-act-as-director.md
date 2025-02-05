@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 18:36:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/memorandum-on-the-designation-of-officials-of-the-office-of-science-and-technology-policy-to-act-as-director/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/memorandum-on-the-designation-of-officials-of-the-office-of-science-and-technology-policy-to-act-as-director/
 tags: presidential-actions
 title: "Memorandum on the Designation of Officials of the Office of Science and Technology\
   \ Policy to Act as\_Director"

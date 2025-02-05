@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-17 15:21:13-04:00
 published_time: 2022-06-17 15:21:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-vice-president-harris-on-the-biden-harris-administrations-historic-investments-to-remove-and-replace-lead-pipes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-vice-president-harris-on-the-biden-harris-administrations-historic-investments-to-remove-and-replace-lead-pipes/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_on the Biden-\u2060Harris Administration\u2019\
   s Historic Investments\_to Remove and Replace Lead\_Pipes"

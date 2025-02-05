@@ -1,7 +1,7 @@
 ---
 date: '2024-12-24'
 published_time: 2024-12-24 22:50:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/24/president-joseph-r-biden-jr-approves-north-dakota-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/24/president-joseph-r-biden-jr-approves-north-dakota-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves North Dakota Disaster\_Declaration"
 ---

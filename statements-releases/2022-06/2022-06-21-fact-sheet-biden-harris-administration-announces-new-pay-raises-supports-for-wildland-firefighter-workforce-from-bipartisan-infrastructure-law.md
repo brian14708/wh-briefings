@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-21 00:10:07-04:00
 published_time: 2022-06-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/fact-sheet-biden-harris-administration-announces-new-pay-raises-supports-for-wildland-firefighter-workforce-from-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/fact-sheet-biden-harris-administration-announces-new-pay-raises-supports-for-wildland-firefighter-workforce-from-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET:\_BIDEN-HARRIS ADMINISTRATION ANNOUNCES NEW PAY RAISES & SUPPORTS\
   \ FOR WILDLAND FIREFIGHTER WORKFORCE FROM BIPARTISAN INFRASTRUCTURE\_LAW"
@@ -45,7 +45,7 @@ firefighter workforce for decades.
 **INCREASING PAY  
 **  
 Under [President Biden’s 2021
-initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
+initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
 to support federal wildland firefighters and ensure they receive a
 minimum of $15 per hour, more than 11,300 firefighters received pay
 increases last year at a cost of $24.3 million.  This increase in the

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 10:20:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-issues-landmark-blueprint-to-advance-american-innovation-competition-and-security-in-wireless-technologies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-issues-landmark-blueprint-to-advance-american-innovation-competition-and-security-in-wireless-technologies/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Issues Landmark Blueprint to\
   \ Advance American Innovation, Competition and Security in Wireless\_Technologies"
@@ -20,7 +20,7 @@ sustain American innovation and security.
   
 Today, the Biden-Harris Administration is issuing a landmark [National
 Spectrum
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/11/National-Spectrum-Strategy.pdf)
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/National-Spectrum-Strategy.pdf)
 and a Presidential Memorandum on modernizing U.S. spectrum policy that,
 together, lay out a blueprint for American innovation, competition, and
 security in advanced wireless technologies. This blueprint includes new

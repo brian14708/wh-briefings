@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-09 15:41:48-04:00
 published_time: 2024-07-09 15:41:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/09/memorandum-on-delegation-of-functions-and-authorities-under-sections-1333-1342-1352-and-1353-of-the-national-defense-authorization-act-for-fiscal-year-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/09/memorandum-on-delegation-of-functions-and-authorities-under-sections-1333-1342-1352-and-1353-of-the-national-defense-authorization-act-for-fiscal-year-2024/
 tags: presidential-actions
 title: "Memorandum on Delegation of Functions and Authorities Under Sections 1333,\
   \ 1342, 1352, and 1353 of the National Defense Authorization Act for Fiscal Year\_\

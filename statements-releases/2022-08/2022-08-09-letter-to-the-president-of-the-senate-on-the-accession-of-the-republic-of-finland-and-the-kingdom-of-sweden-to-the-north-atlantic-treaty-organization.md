@@ -1,7 +1,7 @@
 ---
 date: '2022-08-09'
 published_time: 2022-08-09 14:45:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/letter-to-the-president-of-the-senate-on-the-accession-of-the-republic-of-finland-and-the-kingdom-of-sweden-to-the-north-atlantic-treaty-organization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/letter-to-the-president-of-the-senate-on-the-accession-of-the-republic-of-finland-and-the-kingdom-of-sweden-to-the-north-atlantic-treaty-organization/
 tags: statements-releases
 title: "Letter to the President of the Senate on the Accession of the Republic of\
   \ Finland and the Kingdom of Sweden to the North Atlantic Treaty\_Organization"

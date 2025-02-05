@@ -2,7 +2,7 @@
 date: '2023-06-20'
 modified_time: 2023-06-20 18:21:28-04:00
 published_time: 2023-06-20 18:21:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-conversation-with-women-ahead-of-the-one-year-anniversary-of-the-dobbs-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-conversation-with-women-ahead-of-the-one-year-anniversary-of-the-dobbs-decision/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Conversation\
   \ with Women Ahead of the One Year Anniversary of the Dobbs\_Decision"

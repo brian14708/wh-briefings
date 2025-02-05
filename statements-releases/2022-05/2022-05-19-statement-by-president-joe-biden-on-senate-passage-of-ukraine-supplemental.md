@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 13:56:37-04:00
 published_time: 2022-05-19 13:51:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/statement-by-president-joe-biden-on-senate-passage-of-ukraine-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/statement-by-president-joe-biden-on-senate-passage-of-ukraine-supplemental/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Senate Passage of Ukraine\_Supplemental"
 ---

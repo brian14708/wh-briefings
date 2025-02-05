@@ -1,7 +1,7 @@
 ---
 date: '2024-02-02'
 published_time: 2024-02-02 17:05:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/02/statement-from-president-joe-biden-on-u-s-military-operation-in-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/02/statement-from-president-joe-biden-on-u-s-military-operation-in-the-middle-east/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on U.S. Military Operation in the Middle\_\
   East"

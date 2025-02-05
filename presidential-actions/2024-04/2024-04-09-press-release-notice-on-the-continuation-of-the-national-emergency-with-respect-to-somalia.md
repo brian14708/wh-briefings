@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 14:18:29-04:00
 published_time: 2024-04-09 14:18:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-somalia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-somalia/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to\_Somalia"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 16:58:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/statement-by-vice-president-harris-on-supreme-courts-ruling-in-303-creative-v-elenis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/statement-by-vice-president-harris-on-supreme-courts-ruling-in-303-creative-v-elenis/
 tags: statements-releases
 title: "Statement by Vice President Harris on Supreme Court\u2019s Ruling In 303 Creative\
   \ v.\_Elenis"

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-18'
 published_time: 2023-10-18 20:43:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-hispanic-heritage-month-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-hispanic-heritage-month-reception/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Hispanic Heritage\
   \ Month\_Reception"

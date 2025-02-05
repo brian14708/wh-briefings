@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 17:13:00-04:00
 published_time: 2023-10-06 17:12:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/joint-statement-from-the-president-of-the-united-states-joseph-r-biden-jr-and-the-president-of-germany-frank-walter-steinmeier-on-german-american-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/joint-statement-from-the-president-of-the-united-states-joseph-r-biden-jr-and-the-president-of-germany-frank-walter-steinmeier-on-german-american-day/
 tags: statements-releases
 title: "Joint Statement from the President of the United\_States Joseph R. Biden,\
   \ Jr. and the President of Germany Frank-Walter Steinmeier on German-American\_\

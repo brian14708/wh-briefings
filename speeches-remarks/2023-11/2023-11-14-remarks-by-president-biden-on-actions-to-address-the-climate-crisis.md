@@ -1,7 +1,7 @@
 ---
 date: '2023-11-14'
 published_time: 2023-11-14 13:33:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/14/remarks-by-president-biden-on-actions-to-address-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/14/remarks-by-president-biden-on-actions-to-address-the-climate-crisis/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Actions to Address the Climate\_Crisis"
 ---

@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-08-12'
 modified_time: 2021-09-07 13:03:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-vice-president-harris-before-meeting-with-businesses-to-discuss-the-importance-of-care-policies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/08/12/remarks-by-vice-president-harris-before-meeting-with-businesses-to-discuss-the-importance-of-care-policies/
 published_time: 2021-08-12 16:57:00-04:00
 title: "Remarks by Vice President Harris Before Meeting with Businesses to Discuss\
   \ the Importance of Care\_Policies"

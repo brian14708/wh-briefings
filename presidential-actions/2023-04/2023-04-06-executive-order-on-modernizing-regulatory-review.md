@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-06 16:23:53-04:00
 published_time: 2023-04-06 16:23:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/06/executive-order-on-modernizing-regulatory-review/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/06/executive-order-on-modernizing-regulatory-review/
 tags: presidential-actions
 title: "Executive Order on Modernizing Regulatory\_Review"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-20'
 published_time: 2024-05-20 22:04:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/first-lady-jill-biden-to-host-kenya-state-dinner-media-preview-and-spousal-program-events-with-first-lady-rachel-ruto/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/20/first-lady-jill-biden-to-host-kenya-state-dinner-media-preview-and-spousal-program-events-with-first-lady-rachel-ruto/
 tags: statements-releases
 title: "First Lady Jill\_Biden to Host Kenya State Dinner Media Preview and Spousal\
   \ Program Events with First Lady Rachel\_Ruto"

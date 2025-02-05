@@ -1,7 +1,7 @@
 ---
 date: '2023-03-29'
 published_time: 2023-03-29 15:39:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-at-the-summit-for-democracy-virtual-plenary-on-democracy-delivering-on-global-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-at-the-summit-for-democracy-virtual-plenary-on-democracy-delivering-on-global-challenges/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Summit for Democracy Virtual Plenary on\
   \ Democracy Delivering on Global\_Challenges"

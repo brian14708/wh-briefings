@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-13 18:03:50-04:00
 published_time: 2023-09-13 18:03:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-biden-harris-administration-strengthens-partnership-with-kingdom-of-bahrain-and-launches-comprehensive-security-integration-and-prosperity-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-biden-harris-administration-strengthens-partnership-with-kingdom-of-bahrain-and-launches-comprehensive-security-integration-and-prosperity-agreement/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Strengthens Partnership with\
   \ Kingdom of Bahrain and Launches \u201CComprehensive Security Integration and Prosperity\_\

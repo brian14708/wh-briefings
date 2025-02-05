@@ -2,7 +2,7 @@
 date: '2024-09-21'
 modified_time: 2024-09-22 08:40:00-04:00
 published_time: 2024-09-21 21:07:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/
 tags: statements-releases
 title: "Fact Sheet: 2024 Quad Leaders\u2019\_Summit"
 ---

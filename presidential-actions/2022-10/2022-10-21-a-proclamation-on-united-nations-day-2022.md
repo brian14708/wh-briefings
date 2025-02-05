@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 14:12:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/21/a-proclamation-on-united-nations-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/21/a-proclamation-on-united-nations-day-2022/
 tags: presidential-actions
 title: "A Proclamation on United Nations Day,\_2022"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 10:18:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/03/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-white-house-historical-association-gala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/03/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-white-house-historical-association-gala/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a White\_House\
   \ Historical Association\_Gala"

@@ -2,7 +2,7 @@
 date: '2024-05-14'
 modified_time: 2024-05-14 17:04:56-04:00
 published_time: 2024-05-14 17:04:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/14/press-briefing-by-press-secretary-karine-jean-pierre-and-united-states-trade-representative-katherine-tai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/14/press-briefing-by-press-secretary-karine-jean-pierre-and-united-states-trade-representative-katherine-tai/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and United\_States Trade\
   \ Representative Katherine\_Tai"

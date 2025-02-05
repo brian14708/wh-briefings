@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-26 20:43:26-05:00
 published_time: 2023-01-27 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-releases-new-data-showing-26-million-people-in-all-50-states-applied-or-were-automatically-eligible-for-one-time-student-debt-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-releases-new-data-showing-26-million-people-in-all-50-states-applied-or-were-automatically-eligible-for-one-time-student-debt-relief/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases New Data Showing 26\
   \ Million People in All 50 States Applied or Were Automatically Eligible for One-Time\

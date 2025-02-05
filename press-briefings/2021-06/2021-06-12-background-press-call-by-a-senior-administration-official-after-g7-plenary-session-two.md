@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-12'
 modified_time: 2021-06-12 11:13:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-a-senior-administration-official-after-g7-plenary-session-two/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-a-senior-administration-official-after-g7-plenary-session-two/
 published_time: 2021-06-12 11:13:52-04:00
 title: "Background Press Call by a Senior Administration Official\_After G7 Plenary\
   \ Session\_Two"

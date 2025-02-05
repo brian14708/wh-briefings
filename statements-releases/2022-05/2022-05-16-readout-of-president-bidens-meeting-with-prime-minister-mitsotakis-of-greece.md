@@ -1,7 +1,7 @@
 ---
 date: '2022-05-16'
 published_time: 2022-05-16 22:25:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/readout-of-president-bidens-meeting-with-prime-minister-mitsotakis-of-greece/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/readout-of-president-bidens-meeting-with-prime-minister-mitsotakis-of-greece/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Mitsotakis\
   \ of\_Greece"

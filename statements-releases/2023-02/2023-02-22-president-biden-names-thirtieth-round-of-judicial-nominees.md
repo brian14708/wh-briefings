@@ -2,7 +2,7 @@
 date: '2023-02-22'
 modified_time: 2023-02-22 18:26:59-05:00
 published_time: 2023-02-22 13:14:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/president-biden-names-thirtieth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/president-biden-names-thirtieth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Thirtieth Round of Judicial\_Nominees"
 ---

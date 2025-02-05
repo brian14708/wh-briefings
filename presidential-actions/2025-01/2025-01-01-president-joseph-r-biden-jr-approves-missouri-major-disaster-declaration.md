@@ -1,7 +1,7 @@
 ---
 date: '2025-01-01'
 published_time: 2025-01-01 22:59:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/01/president-joseph-r-biden-jr-approves-missouri-major-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/01/president-joseph-r-biden-jr-approves-missouri-major-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Missouri Major Disaster\_Declaration"
 ---

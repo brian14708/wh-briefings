@@ -1,7 +1,7 @@
 ---
 date: '2024-04-18'
 published_time: 2024-04-18 13:48:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/18/a-proclamation-on-education-and-sharing-day-usa-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/18/a-proclamation-on-education-and-sharing-day-usa-2024/
 tags: presidential-actions
 title: "A Proclamation on Education and Sharing Day, USA,\_2024"
 ---

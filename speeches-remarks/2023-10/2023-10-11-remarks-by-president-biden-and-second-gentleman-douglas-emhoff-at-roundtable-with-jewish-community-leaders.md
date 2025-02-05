@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 22:55:15-04:00
 published_time: 2023-10-11 22:55:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-president-biden-and-second-gentleman-douglas-emhoff-at-roundtable-with-jewish-community-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-president-biden-and-second-gentleman-douglas-emhoff-at-roundtable-with-jewish-community-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Second Gentleman Douglas Emhoff at Roundtable\
   \ with Jewish Community\_Leaders"

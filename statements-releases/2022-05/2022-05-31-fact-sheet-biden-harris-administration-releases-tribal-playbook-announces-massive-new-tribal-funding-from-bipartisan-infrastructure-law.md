@@ -2,19 +2,19 @@
 date: '2022-05-31'
 modified_time: 2022-06-02 15:24:30-04:00
 published_time: 2022-05-31 13:34:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-releases-tribal-playbook-announces-massive-new-tribal-funding-from-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-releases-tribal-playbook-announces-massive-new-tribal-funding-from-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Tribal Playbook, Announces\
   \ Massive New Tribal Funding from Bipartisan Infrastructure\_Law"
 ---
  
 Today, the White House released a Bipartisan Infrastructure Law [Tribal
-Playbook](https://www.whitehouse.gov/wp-content/uploads/2022/05/Bipartisan-Infrastructure-Law-Tribal-Playbook-053122-.pdf)
+Playbook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Bipartisan-Infrastructure-Law-Tribal-Playbook-053122-.pdf)
 to help Tribal governments unlock the benefits from the historic
 investments in our nation’s infrastructure, including the more than $13
 billion set aside in the Bipartisan Infrastructure Law for Indian
 Country.  The Tribal Playbook, found at
-[build.gov](https://www.whitehouse.gov/build), builds on the release of
+[build.gov](https://bidenwhitehouse.archives.gov/build), builds on the release of
 the Bipartisan Infrastructure Law Guidebook and provides Tribal
 communities with information on the more specific Tribal funding
 available under the law, in addition to the hundreds of billions

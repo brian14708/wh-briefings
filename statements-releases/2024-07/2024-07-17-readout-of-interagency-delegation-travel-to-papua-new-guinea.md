@@ -2,7 +2,7 @@
 date: '2024-07-17'
 modified_time: 2024-07-17 18:23:05-04:00
 published_time: 2024-07-17 13:14:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/readout-of-interagency-delegation-travel-to-papua-new-guinea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/readout-of-interagency-delegation-travel-to-papua-new-guinea/
 tags: statements-releases
 title: "Readout of Interagency Delegation Travel to Papua New\_Guinea"
 ---

@@ -2,7 +2,7 @@
 date: '2023-04-27'
 modified_time: 2023-04-27 22:06:48-04:00
 published_time: 2023-04-27 22:06:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-and-first-lady-jill-biden-in-campaign-call-to-grassroots-supporters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-and-first-lady-jill-biden-in-campaign-call-to-grassroots-supporters/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden in Campaign Call to\
   \ Grassroots\_Supporters"

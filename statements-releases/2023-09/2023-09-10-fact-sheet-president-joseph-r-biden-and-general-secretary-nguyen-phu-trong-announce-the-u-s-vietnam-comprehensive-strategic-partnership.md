@@ -2,7 +2,7 @@
 date: '2023-09-10'
 modified_time: 2023-09-11 00:57:21-04:00
 published_time: 2023-09-10 10:57:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/10/fact-sheet-president-joseph-r-biden-and-general-secretary-nguyen-phu-trong-announce-the-u-s-vietnam-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/10/fact-sheet-president-joseph-r-biden-and-general-secretary-nguyen-phu-trong-announce-the-u-s-vietnam-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "FACT SHEET: President Joseph R. Biden and General Secretary Nguyen Phu Trong\
   \ Announce the U.S.-Vietnam Comprehensive Strategic\_Partnership"

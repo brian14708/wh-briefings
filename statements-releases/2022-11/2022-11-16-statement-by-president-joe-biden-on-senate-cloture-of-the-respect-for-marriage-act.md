@@ -1,7 +1,7 @@
 ---
 date: '2022-11-16'
 published_time: 2022-11-16 16:59:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/16/statement-by-president-joe-biden-on-senate-cloture-of-the-respect-for-marriage-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/16/statement-by-president-joe-biden-on-senate-cloture-of-the-respect-for-marriage-act/
 tags: statements-releases
 title: "Statement By President Joe\_Biden on Senate Cloture of the Respect for Marriage\_\
   Act"

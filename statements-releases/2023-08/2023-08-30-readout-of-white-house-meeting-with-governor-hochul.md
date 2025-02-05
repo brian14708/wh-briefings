@@ -2,7 +2,7 @@
 date: '2023-08-30'
 modified_time: 2023-09-01 11:30:06-04:00
 published_time: 2023-08-30 21:59:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/readout-of-white-house-meeting-with-governor-hochul/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/readout-of-white-house-meeting-with-governor-hochul/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Governor\_Hochul"
 ---

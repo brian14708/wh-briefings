@@ -2,7 +2,7 @@
 date: '2023-07-20'
 modified_time: 2023-07-20 10:59:51-04:00
 published_time: 2023-07-20 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/president-biden-announces-presidential-delegation-to-the-federated-states-of-micronesia-to-attend-the-inauguration-of-his-excellency-wesley-w-simina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/president-biden-announces-presidential-delegation-to-the-federated-states-of-micronesia-to-attend-the-inauguration-of-his-excellency-wesley-w-simina/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Federated States\
   \ of Micronesia to Attend the Inauguration of His Excellency Wesley W.\_Simina"

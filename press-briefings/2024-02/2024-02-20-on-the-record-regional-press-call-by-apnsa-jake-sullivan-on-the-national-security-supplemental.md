@@ -1,7 +1,7 @@
 ---
 date: '2024-02-20'
 published_time: 2024-02-20 16:53:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/20/on-the-record-regional-press-call-by-apnsa-jake-sullivan-on-the-national-security-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/20/on-the-record-regional-press-call-by-apnsa-jake-sullivan-on-the-national-security-supplemental/
 tags: press-briefings
 title: "On-the-Record Regional Press Call by APNSA Jake Sullivan on the National Security\_\
   Supplemental"

@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-13 16:04:57-04:00
 published_time: 2024-07-11 09:25:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%e2%81%a0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%e2%81%a0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Record Federal Investments\
   \ in Registered Apprenticeships, Holds Workforce Hub Convening in Philadelphia with\
@@ -37,19 +37,19 @@ the country that are bringing together unions, local governments,
 employers, training providers, schools, community colleges, and other
 stakeholders to facilitate partnerships to train and connect workers to
 jobs in high-demand sectors. First Lady Jill Biden
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 five Workforce Hubs last
-year—[Columbus](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
-[Baltimore](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
-[Pittsburgh](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
-[Augusta](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
+year—[Columbus](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/),
+[Baltimore](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
+[Pittsburgh](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
+[Augusta](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
 and
-[Phoenix](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/)—which
+[Phoenix](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/)—which
 generated dozens of actions to expand pre-apprenticeships and Registered
 Apprenticeships, train thousands of workers for good-paying union jobs,
 and expand community college programs. Building on that success,
 President Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 four new Workforce Hubs this year—upstate New York, Michigan, Milwaukee,
 and Philadelphia.  
   

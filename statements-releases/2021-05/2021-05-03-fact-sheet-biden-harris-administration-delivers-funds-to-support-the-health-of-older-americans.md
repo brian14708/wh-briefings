@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-03'
 modified_time: 2021-05-03 20:19:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/03/fact-sheet-biden-harris-administration-delivers-funds-to-support-the-health-of-older-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/03/fact-sheet-biden-harris-administration-delivers-funds-to-support-the-health-of-older-americans/
 published_time: 2021-05-03 20:19:35-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers Funds to Support the\
   \ Health of Older\_Americans"
@@ -51,7 +51,7 @@ The funding will be distributed as follows:
 
 The announcement coincides with today’s presidential proclamation
 honoring May 2021 as Older Americans Month. The [proclamation
-recognizes](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/03/a-proclamation-on-older-americans-month-2021/)
+recognizes](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/03/a-proclamation-on-older-americans-month-2021/)
 that older Americans and families have faced substantial challenges
 during the last year, and their resilience and strength have made our
 country stronger.  

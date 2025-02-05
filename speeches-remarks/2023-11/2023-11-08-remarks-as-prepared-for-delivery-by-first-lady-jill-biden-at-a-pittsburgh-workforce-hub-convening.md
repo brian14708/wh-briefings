@@ -2,7 +2,7 @@
 date: '2023-11-08'
 modified_time: 2023-11-08 17:09:41-05:00
 published_time: 2023-11-08 17:09:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-pittsburgh-workforce-hub-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-pittsburgh-workforce-hub-convening/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Pittsburgh\
   \ Workforce Hub\_Convening"

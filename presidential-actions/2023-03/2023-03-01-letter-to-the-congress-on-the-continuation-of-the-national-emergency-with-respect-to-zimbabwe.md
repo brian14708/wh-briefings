@@ -2,7 +2,7 @@
 date: '2023-03-01'
 modified_time: 2023-03-01 12:43:29-05:00
 published_time: 2023-03-01 12:29:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/01/letter-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/01/letter-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-zimbabwe/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to\_Zimbabwe"

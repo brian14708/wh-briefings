@@ -2,7 +2,7 @@
 date: '2024-11-12'
 modified_time: 2024-11-13 11:36:21-05:00
 published_time: 2024-11-12 22:43:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-indonesia-commemorating-75-years-of-diplomatic-relations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/12/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-indonesia-commemorating-75-years-of-diplomatic-relations/
 tags: statements-releases
 title: "Joint Statement from the Leaders of the United\_States and the Republic of\
   \ Indonesia: Commemorating 75 Years of Diplomatic\_Relations"

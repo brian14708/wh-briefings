@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 published_time: 2022-04-21 15:27:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/statement-from-jen-psaki-on-awarding-first-barrels-from-historic-strategic-petroleum-reserve-release/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/statement-from-jen-psaki-on-awarding-first-barrels-from-historic-strategic-petroleum-reserve-release/
 tags: statements-releases
 title: "Statement from Jen\_Psaki on Awarding First Barrels from Historic Strategic\
   \ Petroleum Reserve\_Release"

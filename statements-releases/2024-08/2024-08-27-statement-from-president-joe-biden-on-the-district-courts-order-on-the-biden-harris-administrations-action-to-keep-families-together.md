@@ -1,7 +1,7 @@
 ---
 date: '2024-08-27'
 published_time: 2024-08-27 12:51:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/27/statement-from-president-joe-biden-on-the-district-courts-order-on-the-biden-harris-administrations-action-to-keep-families-together/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/27/statement-from-president-joe-biden-on-the-district-courts-order-on-the-biden-harris-administrations-action-to-keep-families-together/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the District Court\u2019s Order on\
   \ the Biden-\u2060Harris Administration\u2019s Action to Keep Families\_Together"

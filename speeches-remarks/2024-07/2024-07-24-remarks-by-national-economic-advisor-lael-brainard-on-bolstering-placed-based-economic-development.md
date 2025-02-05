@@ -2,7 +2,7 @@
 date: '2024-07-24'
 modified_time: 2024-07-24 16:17:22-04:00
 published_time: 2024-07-24 16:14:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/24/remarks-by-national-economic-advisor-lael-brainard-on-bolstering-placed-based-economic-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/24/remarks-by-national-economic-advisor-lael-brainard-on-bolstering-placed-based-economic-development/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Bolstering Placed-Based\
   \ Economic\_Development"
@@ -86,11 +86,11 @@ Investments in the Workforce
 
 Investing in communities also means investing in people and strong
 workforce programs. The [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/build/guidebook/) is putting hundreds of
+Law](https://bidenwhitehouse.archives.gov/build/guidebook/) is putting hundreds of
 thousands of Americans to work rebuilding our highways and bridges. And
 more jobs are on the way with nearly [$900 billion in announced private
 sector
-investments](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+investments](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 in clean energy and advanced manufacturing across. Factory construction
 is at its highest level on record– more than double the previous
 Administration.  We’ve heard from unions that they have never seen so
@@ -103,7 +103,7 @@ careers in these communities.
 
   
 That’s why the Administration has established [nine Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 in areas where clean energy, infrastructure, and semiconductor
 investments are creating new job opportunities. These Workforce Hubs are
 bringing state, local, and regional partners together to coordinate and
@@ -118,7 +118,7 @@ manufacturing.
 
 In the state of New York, companies have announced billions of
 investments in chip manufacturing catalyzed by the [CHIPS and Science
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/).
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/).
 The Administration’s Workforce Hub in Syracuse is now focused on meeting
 the training needs of this emerging industry, starting with an
 innovative partnership between Micron, AFT, and local high schools.
@@ -134,7 +134,7 @@ leap of faith to start businesses.
 
 These place-based investments are more effective when the [tax system
 rewards work and promotes economic
-opportunity](https://www.whitehouse.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/).
+opportunity](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/).
 That means enabling many more Americans to participate in the workforce
 by restoring the expanded Earned Income Tax Credit and the expanded
 Child Tax Credit and supporting access to childcare. It also means
@@ -143,7 +143,7 @@ lifting health insurance coverage rates to record highs and narrowing
 geographic disparities.
 
 Republicans in Congress and the previous administration instead
-[prioritize](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-national-economic-advisor-lael-brainard-on-the-tax-debate-ahead/)
+[prioritize](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-national-economic-advisor-lael-brainard-on-the-tax-debate-ahead/)
 tax cuts at the top and deep cuts to crucial programs that advance
 opportunity in communities that had been left behind.
 
@@ -175,7 +175,7 @@ Administration, recovering all those lost during the prior
 administration.
 
 This [comeback
-story](https://www.whitehouse.gov/wp-content/uploads/2024/07/Brainard-Comeback-Communities-Memo-2024.07.09.pdf)
+story](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Brainard-Comeback-Communities-Memo-2024.07.09.pdf)
 is not just happening here in Pittsburgh – it is happening in cities and
 towns across the country from Milwaukee to Scranton to Dayton.
 

@@ -2,7 +2,7 @@
 date: '2024-03-15'
 modified_time: 2024-03-15 12:10:54-04:00
 published_time: 2024-03-15 12:10:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/readout-of-white-house-convening-with-regional-commissions-on-supporting-an-economic-comeback-in-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/readout-of-white-house-convening-with-regional-commissions-on-supporting-an-economic-comeback-in-communities-across-the-country/
 tags: statements-releases
 title: "Readout of White\_House Convening with Regional Commissions on Supporting\
   \ an Economic Comeback in Communities Across the\_Country"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-01'
 published_time: 2023-05-01 21:58:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/01/remarks-by-president-biden-at-a-reception-to-celebrate-eid-al-fitr-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/01/remarks-by-president-biden-at-a-reception-to-celebrate-eid-al-fitr-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Reception to Celebrate Eid\_al-Fitr"
 ---

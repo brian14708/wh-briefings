@@ -2,7 +2,7 @@
 date: '2024-07-17'
 modified_time: 2024-07-17 20:32:00-04:00
 published_time: 2024-07-17 20:31:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/readout-of-national-security-advisor-jake-sullivans-meeting-to-inaugurate-the-americas-partnership-angel-investor-network/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/readout-of-national-security-advisor-jake-sullivans-meeting-to-inaugurate-the-americas-partnership-angel-investor-network/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting to Inaugurate\
   \ the Americas Partnership Angel Investor\_Network"

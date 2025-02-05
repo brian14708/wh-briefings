@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-11 06:56:33-04:00
 published_time: 2022-06-10 02:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/declaracion-sobre-migracion-y-proteccion-de-los-angeles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/declaracion-sobre-migracion-y-proteccion-de-los-angeles/
 tags: statements-releases
 title: "Declaraci\xF3n sobre Migraci\xF3n y Protecci\xF3n de Los\_\xC1ngeles"
 ---

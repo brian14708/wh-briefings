@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 18:11:33-04:00
 published_time: 2024-04-15 18:11:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-iraq/
 tags: statements-releases
 title: "Joint Statement from the Leaders of the United\_States and the Republic of\_\
   Iraq"

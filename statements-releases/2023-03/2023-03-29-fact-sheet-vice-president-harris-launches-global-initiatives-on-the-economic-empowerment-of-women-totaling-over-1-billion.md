@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-04-04 14:30:32-04:00
 published_time: 2023-03-29 04:26:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/
 tags: statements-releases
 title: "Fact Sheet: Vice President Harris Launches Global Initiatives on the Economic\
   \ Empowerment of Women, Totaling over $1\_Billion"

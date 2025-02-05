@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-13 13:57:11-05:00
 published_time: 2023-11-13 13:57:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/13/memorandum-on-modernizing-united-states-spectrum-policy-and-establishing-a-national-spectrum-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/13/memorandum-on-modernizing-united-states-spectrum-policy-and-establishing-a-national-spectrum-strategy/
 tags: presidential-actions
 title: "Memorandum on Modernizing United\_States Spectrum Policy and Establishing\
   \ a National Spectrum\_Strategy"

@@ -2,7 +2,7 @@
 date: '2023-07-20'
 modified_time: 2023-07-19 16:55:27-04:00
 published_time: 2023-07-20 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/biden-harris-administration-announces-the-application-period-for-spring-session-of-the-white-house-internship-program-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/biden-harris-administration-announces-the-application-period-for-spring-session-of-the-white-house-internship-program-2/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Spring\
   \ Session of the White\_House Internship\_Program"

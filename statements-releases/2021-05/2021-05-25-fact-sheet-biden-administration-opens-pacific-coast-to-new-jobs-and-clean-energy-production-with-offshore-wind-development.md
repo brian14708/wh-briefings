@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-25'
 modified_time: 2021-05-25 13:56:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/25/fact-sheet-biden-administration-opens-pacific-coast-to-new-jobs-and-clean-energy-production-with-offshore-wind-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/25/fact-sheet-biden-administration-opens-pacific-coast-to-new-jobs-and-clean-energy-production-with-offshore-wind-development/
 published_time: 2021-05-25 14:00:00-04:00
 title: "FACT SHEET: Biden Administration Opens Pacific Coast to New Jobs and Clean\
   \ Energy Production with Offshore Wind\_Development"
@@ -21,7 +21,7 @@ commercial scale offshore clean energy projects. This significant
 milestone is part of the Biden-Harris Administration’s goal to create
 thousands of good-paying, union jobs through the deployment of [30
 gigawatts (GW) of offshore wind by
-2030](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/).
+2030](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/).
 These initial areas for offshore wind development in the Pacific Ocean
 could bring up to 4.6 GW of clean energy to the grid, enough to power
 1.6 million American homes.
@@ -59,7 +59,7 @@ States as a leader in the emerging global floating offshore wind market.
 
 Today’s announcement comes after the Biden Administration announced a
 [set of bold actions to catalyze offshore wind
-energy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
+energy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/)
 as part of the President’s commitment to building new American
 infrastructure and a clean energy future that creates good-paying, union
 jobs. And, it follows the Administration’s [approval of the first major

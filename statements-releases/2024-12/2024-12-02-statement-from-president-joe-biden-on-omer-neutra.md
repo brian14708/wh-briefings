@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-02 11:21:51-05:00
 published_time: 2024-12-02 10:00:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/statement-from-president-joe-biden-on-omer-neutra/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/statement-from-president-joe-biden-on-omer-neutra/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Omer\_Neutra"
 ---

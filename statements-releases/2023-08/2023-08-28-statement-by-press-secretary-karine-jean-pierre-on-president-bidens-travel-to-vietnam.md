@@ -2,7 +2,7 @@
 date: '2023-08-28'
 modified_time: 2023-08-28 09:03:56-04:00
 published_time: 2023-08-28 12:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/28/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/28/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-vietnam/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to\_Vietnam"

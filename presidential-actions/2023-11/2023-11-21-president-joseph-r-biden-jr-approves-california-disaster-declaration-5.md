@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 published_time: 2023-11-21 20:34:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/21/president-joseph-r-biden-jr-approves-california-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/21/president-joseph-r-biden-jr-approves-california-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves California Disaster\_Declaration"
 ---

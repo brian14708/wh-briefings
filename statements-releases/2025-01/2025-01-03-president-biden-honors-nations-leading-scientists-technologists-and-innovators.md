@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 18:20:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/03/president-biden-honors-nations-leading-scientists-technologists-and-innovators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/03/president-biden-honors-nations-leading-scientists-technologists-and-innovators/
 tags: statements-releases
 title: "President\_Biden Honors Nation\u2019s Leading Scientists, Technologists, and\_\
   Innovators"

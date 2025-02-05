@@ -2,7 +2,7 @@
 date: '2024-04-23'
 modified_time: 2024-04-23 16:40:23-04:00
 published_time: 2024-04-23 16:40:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-walkin-after-midnight-the-music-of-patsy-cline-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-walkin-after-midnight-the-music-of-patsy-cline-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at \u201CWalkin\u2019\
   \ After Midnight: The Music of Patsy Cline\u201D\_Event"

@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-04 10:50:07-05:00
 published_time: 2025-01-03 10:48:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/03/fact-sheet-biden-harris-administration-highlights-accomplishments-for-lgbtqi-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/03/fact-sheet-biden-harris-administration-highlights-accomplishments-for-lgbtqi-americans/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Accomplishments for\
   \ LGBTQI+\_Americans"
@@ -38,11 +38,11 @@ Administration in American history:
     received a less than honorable discharge based on homosexual
     conduct. Furthermore, in June 2024, President Biden issued a
     categorical
-    [pardon](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/statement-from-president-joe-biden-on-the-pardon-of-lgbtqi-service-members-wrongly-convicted/)
+    [pardon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/statement-from-president-joe-biden-on-the-pardon-of-lgbtqi-service-members-wrongly-convicted/)
     for certain former Service members convicted of crimes based on
     their sexual orientation. And in his first week in office, the
     President
-    [rescinded](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
+    [rescinded](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-enabling-all-qualified-americans-to-serve-their-country-in-uniform/)
     the discriminatory ban on transgender Service members.
 -   **Supporting community safety and security**. In June 2023, the
     President established the LGBTQI+ Community Safety Partnership. The
@@ -52,7 +52,7 @@ Administration in American history:
     organizations to provide critical safety resources to ensure these
     organizations can remain safe spaces for the community. Ahead of
     Pride Month 2024, the partnership released a new
-    [guide](https://www.whitehouse.gov/wp-content/uploads/2024/05/2024-LGBTQI-Resources-and-Guidance.pdf)
+    [guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/2024-LGBTQI-Resources-and-Guidance.pdf)
     of key security resources for the LGBTQI+ community and provided
     briefings on these resources throughout June.
 -   **Advancing a federal blood donation policy based on science, not
@@ -66,9 +66,9 @@ Administration in American history:
     Administration, President Biden signed several historic Executive
     Orders to [prevent and combat discrimination on the basis of gender
     identity or sexual
-    orientation](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
+    orientation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
     and [advance equality for LGBTQI+
-    individuals](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/).
+    individuals](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/).
     These Executive Orders formed the basis for dozens of executive
     actions the Biden-Harris Administration has taken to advance civil
     rights and improve the lives of LGBTQI+ Americans.
@@ -167,9 +167,9 @@ Administration in American history:
     number of nations have decriminalized same-sex conduct, and
     together, we are working to hold accountable perpetrators of
     discrimination and abuse. For example, as
-    [directed](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-on-the-enactment-of-ugandas-anti-homosexuality-act/)
+    [directed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-on-the-enactment-of-ugandas-anti-homosexuality-act/)
     by President Biden, departments and agencies took
-    [steps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/)
+    [steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-the-united-states-response-to-ugandas-anti-homosexuality-act-and-persistent-human-rights-abuses/)
     to encourage the repeal of Uganda’s anti-homosexuality act.
 
 \###

@@ -2,7 +2,7 @@
 date: '2024-11-21'
 modified_time: 2024-11-21 15:08:49-05:00
 published_time: 2024-11-21 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/21/executive-order-on-establishing-a-second-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations-and-its-locomotive-engineers-represented-by-the-brotherhood-of-locomotive-e/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/21/executive-order-on-establishing-a-second-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations-and-its-locomotive-engineers-represented-by-the-brotherhood-of-locomotive-e/
 tags: presidential-actions
 title: "Executive Order on Establishing a Second Emergency Board to Investigate a\
   \ Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers\

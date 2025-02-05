@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 19:29:06-04:00
 published_time: 2024-09-30 19:29:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/30/a-proclamation-on-national-breast-cancer-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/30/a-proclamation-on-national-breast-cancer-awareness-month-2024/
 tags: statements-releases
 title: "A Proclamation on National Breast Cancer Awareness Month,\_2024"
 ---

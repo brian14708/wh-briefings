@@ -2,7 +2,7 @@
 date: '2023-02-08'
 modified_time: 2023-02-07 21:22:04-05:00
 published_time: 2023-02-08 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/08/fact-sheet-the-biden-economic-plan-delivering-for-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/08/fact-sheet-the-biden-economic-plan-delivering-for-wisconsin/
 tags: statements-releases
 title: "FACT SHEET:\_The Biden Economic Plan: Delivering for\_Wisconsin"
 ---

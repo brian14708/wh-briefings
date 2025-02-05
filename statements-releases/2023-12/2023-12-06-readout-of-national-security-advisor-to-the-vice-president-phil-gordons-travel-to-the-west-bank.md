@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 16:46:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-travel-to-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-travel-to-the-west-bank/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Travel to the West\_Bank"

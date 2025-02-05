@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-08'
 modified_time: 2022-03-08 08:43:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-establishment-of-the-white-house-gender-policy-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-establishment-of-the-white-house-gender-policy-council/
 published_time: 2022-03-08 09:30:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversary\
   \ of the Establishment of the White\_House Gender Policy\_Council"
@@ -10,14 +10,14 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates First Anniversa
  
 One year ago today, on International Women’s Day, President Biden issued
 an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
 establishing the White House Gender Policy Council and charged it with
 leading a government-wide effort to advance gender equity and equality
 both at home and abroad.    
   
 In the year since, the Biden-Harris Administration laid out an ambitious
 agenda in the first-ever [National Strategy on Gender Equity and
-Equality](https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf)
+Equality](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf)
 and has taken significant steps to advance equal rights and opportunity:
    
   
@@ -33,7 +33,7 @@ and has taken significant steps to advance equal rights and opportunity:
     leave tax credits for small and midsize employers; distributing the
     majority of emergency rental assistance to female-headed households;
     and expanding the [Child Tax
-    Credit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/fact-sheet-biden-harris-administration-whole-of-government-effort-to-ensure-child-tax-credit-reaches-all-eligible-families/),
+    Credit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/15/fact-sheet-biden-harris-administration-whole-of-government-effort-to-ensure-child-tax-credit-reaches-all-eligible-families/),
     which last year contributed to the largest drop in child poverty in
     American history.  
 -   Passed the **Bipartisan Infrastructure Law (BIL)**, which will
@@ -47,14 +47,14 @@ and has taken significant steps to advance equal rights and opportunity:
     Transportation and the Department of Labor, dedicated to promoting
     the recruitment, inclusion, and advancement of women in trucking.  
 -   Issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/)
     to **increase the minimum wage and eliminate the subminimum wage for
     federal contractors**, which went into effect in January 2022 and
     ensures that Federal contractors pay their workers an hourly wage of
     at least $15.00. This significantly benefits women, who are
     disproportionately minimum wage workers.  
 -   Issued an [Executive Order on Protecting the Federal
-    Workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/22/executive-order-protecting-the-federal-workforce/),
+    Workforce](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/22/executive-order-protecting-the-federal-workforce/),
     which directs the Director of the Office of Personnel Management
     (OPM) to provide a report to the President with recommendations to
     **promote a $15 per hour minimum wage for federal employees.**
@@ -62,7 +62,7 @@ and has taken significant steps to advance equal rights and opportunity:
     then issued a memorandum implementing guidance for agencies to do
     so.  
 -   Issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
      to promote **diversity, equity, inclusion, and accessibility**
     across the federal government – the nation’s largest employer –
     including by prioritizing efforts to close gender and racial wage
@@ -93,15 +93,15 @@ and has taken significant steps to advance equal rights and opportunity:
     doubles funding for Department of Justice VAWA programs, with a
     historic $1 billion investment in total funding.  
 -   Signed into law the [National Defense Authorization
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-the-president-on-s-1605-the-national-defense-authorization-act-for-fiscal-year-2022/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/27/statement-by-the-president-on-s-1605-the-national-defense-authorization-act-for-fiscal-year-2022/),
     which included **sweeping reforms to the military justice system** –
     the most significant since the Uniform Code of Military Justice was
     established more than seventy years ago. In conjunction with the
     President’s [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/)
     on military justice reform, this bipartisan, historic law adopts
     core recommendations of the [Independent Review Commission on Sexual
-    Assault](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/),
+    Assault](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/),
     as called for by President Biden. These reforms will fundamentally
     shift how the military prosecutes and investigates sexual assault,
     domestic violence, sexual harassment, and other serious crimes, and
@@ -132,7 +132,7 @@ and has taken significant steps to advance equal rights and opportunity:
     committed to reviewing and updating the 2016 United States Strategy
     to Prevent and Respond to Gender-Based Violence Globally.  
 -   Issued an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     to improve public safety and criminal justice for Native Americans
     and **address the crisis of missing or murdered Indigenous people**,
     directing federal agencies to develop a coordinated strategy to
@@ -156,7 +156,7 @@ and has taken significant steps to advance equal rights and opportunity:
     Marketplaces. Fifty-four percent of those newly signing up for
     coverage during 2021 special enrollment were women.  
 -   Issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/28/memorandum-on-protecting-womens-health-at-home-and-abroad/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/28/memorandum-on-protecting-womens-health-at-home-and-abroad/)
     to protect and expand access to comprehensive reproductive health
     care and to **revoke the Mexico City policy** – the “global gag”
     rule – that prohibited federal funding for foreign nongovernmental
@@ -182,7 +182,7 @@ and has taken significant steps to advance equal rights and opportunity:
     stay healthy and has approved Medicaid demonstration projects in
     several states to expand postpartum coverage. The Vice President
     hosted the first-ever [White House Maternal Health Day of
-    Action](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/),
+    Action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/),
     while the President issued the first-ever proclamation on Black
     Maternal Health Week, highlighting the specific disparities that
     Black women face in pregnancy and childbirth.  As part of this call
@@ -212,7 +212,7 @@ and has taken significant steps to advance equal rights and opportunity:
 **Advanced Gender Equality Around the World**
 
 -   Announced [bold
-    commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/)
+    commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/)
     to advance women’s economic security, gender-based violence
     prevention and response, and sexual and reproductive health and
     rights at home and abroad at the United Nations’ Generation Equality
@@ -224,7 +224,7 @@ and has taken significant steps to advance equal rights and opportunity:
     work to promote prosperity, stability, and security around the
     world.  
 -   Issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
     to **advance the human rights of LGBTQI+ people around the world**,
     which directs all federal agencies engaged abroad to ensure that
     U.S. diplomacy and foreign assistance promote and protect the human
@@ -233,7 +233,7 @@ and has taken significant steps to advance equal rights and opportunity:
     participation to democratic progress by launching the **Advancing
     Women’s and Girls’ Civic and Political Leadership Initiative** at
     the [Summit for
-    Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/).   
+    Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/).   
 -   Committed to lead the **Global Partnership for Action on
     Gender-Based Online Harassment and Abuse** to improve the response
     to technology-facilitated gender-based violence, which undermines
@@ -274,11 +274,11 @@ and has taken significant steps to advance equal rights and opportunity:
     has had more lower-court judicial nominees confirmed than any
     president since Kennedy.  
 -   Expressed [steadfast
-    support](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-from-president-biden-on-the-equal-rights-amendment/)
+    support](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/27/statement-from-president-biden-on-the-equal-rights-amendment/)
     for the **Equal Rights Amendment** and called on Congress to
     enshrine the principle of gender equality in the Constitution.
     President Biden also continues to [call on
-    Congress](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/)
+    Congress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-the-equality-act-will-provide-long-overdue-civil-rights-protections-for-millions-of-americans/)
     to pass the **Equality Act,** which would provide long overdue civil
     rights protections on the basis of sexual orientation and gender
     identity.
@@ -294,17 +294,17 @@ girls of color. 
 -   Built the architecture to ensure **a government-wide, intersectional
     approach** to advancing equal rights and opportunities by:
     -   Issuing the first-ever [National Strategy on Gender Equity and
-        Equality](https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
+        Equality](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
         which addresses ten priorities – including economic security,
         education, health, human rights, democracy and leadership. It
         also reflects the Administration’s broader commitment to
         advancing equity, including through racial equity and LGBTQI+
         equality.
     -   Issuing an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
         on advancing racial equity and support for underserved
         communities and an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
         on preventing and combatting discrimination on the basis of
         gender identity or sexual orientation. 
 

@@ -2,7 +2,7 @@
 date: '2024-02-07'
 modified_time: 2024-02-08 17:34:47-05:00
 published_time: 2024-02-07 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/07/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/07/remarks-by-president-biden-at-a-campaign-reception-new-york-ny-6/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | New York,\_NY"
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-17'
 modified_time: 2022-04-17 09:56:44-04:00
 published_time: 2022-04-17 09:56:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/17/statement-by-president-joe-biden-on-easter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/17/statement-by-president-joe-biden-on-easter/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on\_Easter"
 ---

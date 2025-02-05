@@ -1,7 +1,7 @@
 ---
 date: '2023-08-04'
 published_time: 2023-08-04 17:05:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/04/remarks-by-vice-president-harris-highlighting-the-impacts-of-bidenomics-and-announcing-increasing-support-for-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/04/remarks-by-vice-president-harris-highlighting-the-impacts-of-bidenomics-and-announcing-increasing-support-for-small-businesses/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Highlighting the Impacts of Bidenomics and\
   \ Announcing Increasing Support for Small\_Businesses"

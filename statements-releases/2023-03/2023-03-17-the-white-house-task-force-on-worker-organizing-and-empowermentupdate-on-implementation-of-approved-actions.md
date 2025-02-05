@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-21 12:22:48-04:00
 published_time: 2023-03-17 12:32:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/
 tags: statements-releases
 title: "The White\_House Task Force on Worker Organizing and Empowerment: Update on\
   \ Implementation of Approved\_Actions"
@@ -76,7 +76,7 @@ years.
 **Tracking the Implementation of Task Force Action Items**  
   
 Attached to this report is a
-[table](https://www.whitehouse.gov/wp-content/uploads/2023/03/WH-Task-Force-on-Worker-Organizing-and-Empowerment_3.17-Implementation-Update_Final.pdf)
+[table](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/WH-Task-Force-on-Worker-Organizing-and-Empowerment_3.17-Implementation-Update_Final.pdf)
 showing the implementation status for each of the action items in the
 February 2022 Task Force report. Several accomplishments merit special
 mention, including:  

@@ -2,7 +2,7 @@
 date: '2023-09-14'
 modified_time: 2023-09-14 10:21:11-04:00
 published_time: 2023-09-14 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/14/statement-from-president-joe-biden-announcing-the-new-u-s-special-representative-for-ukraines-economic-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/14/statement-from-president-joe-biden-announcing-the-new-u-s-special-representative-for-ukraines-economic-recovery/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Announcing the New U.S. Special Representative\
   \ for Ukraine\u2019s Economic\_Recovery"

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-07'
 published_time: 2022-10-07 19:22:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/07/remarks-by-president-biden-on-the-economy-and-the-september-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/07/remarks-by-president-biden-on-the-economy-and-the-september-jobs-report/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Economy and the September Jobs\_Report"
 ---

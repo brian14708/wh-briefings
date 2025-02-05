@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 11:20:12-04:00
 published_time: 2022-07-13 11:20:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/13/remarks-by-president-biden-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/13/remarks-by-president-biden-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Arrival\_Ceremony"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 20:21:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/readout-of-white-house-roundtable-on-lowering-healthcare-costs-and-bringing-transparency-to-prescription-drug-middlemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/readout-of-white-house-roundtable-on-lowering-healthcare-costs-and-bringing-transparency-to-prescription-drug-middlemen/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Lowering Healthcare Costs and Bringing\
   \ Transparency to Prescription Drug\_Middlemen"

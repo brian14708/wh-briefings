@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-10-21'
 modified_time: 2021-10-21 22:29:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/21/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/10/21/press-briefing-by-principal-deputy-press-secretary-karine-jean-pierre-2/
 published_time: 2021-10-21 22:29:21-04:00
 title: "Press Briefing by Principal Deputy Press Secretary Karine\_Jean-Pierre"
 ---

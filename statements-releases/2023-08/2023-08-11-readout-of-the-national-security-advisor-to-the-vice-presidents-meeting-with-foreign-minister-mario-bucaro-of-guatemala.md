@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 published_time: 2023-08-11 16:02:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/11/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-foreign-minister-mario-bucaro-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/11/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-foreign-minister-mario-bucaro-of-guatemala/
 tags: statements-releases
 title: "Readout of the National Security Advisor to the Vice President\u2019s Meeting\
   \ with Foreign Minister Mario B\xFAcaro of\_Guatemala"

@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-01 14:26:25-04:00
 published_time: 2022-06-01 14:26:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/01/remarks-by-president-biden-at-u-s-coast-guard-change-of-command-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/01/remarks-by-president-biden-at-u-s-coast-guard-change-of-command-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at U.S. Coast Guard Change of Command\_Ceremony"
 ---

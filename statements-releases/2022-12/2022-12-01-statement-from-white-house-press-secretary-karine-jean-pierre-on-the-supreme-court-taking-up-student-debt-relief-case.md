@@ -2,7 +2,7 @@
 date: '2022-12-01'
 modified_time: 2022-12-01 17:51:18-05:00
 published_time: 2022-12-01 17:51:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-supreme-court-taking-up-student-debt-relief-case/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-supreme-court-taking-up-student-debt-relief-case/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Supreme\
   \ Court Taking Up Student Debt Relief\_Case"

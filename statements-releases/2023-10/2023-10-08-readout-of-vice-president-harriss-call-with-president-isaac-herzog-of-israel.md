@@ -2,7 +2,7 @@
 date: '2023-10-08'
 modified_time: 2023-10-08 14:42:11-04:00
 published_time: 2023-10-08 14:40:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/08/readout-of-vice-president-harriss-call-with-president-isaac-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/08/readout-of-vice-president-harriss-call-with-president-isaac-herzog-of-israel/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Isaac Herzog of\_\
   Israel"

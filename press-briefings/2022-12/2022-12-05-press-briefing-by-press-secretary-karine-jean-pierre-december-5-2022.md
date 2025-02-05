@@ -2,7 +2,7 @@
 date: '2022-12-05'
 modified_time: 2022-12-05 19:04:53-05:00
 published_time: 2022-12-05 19:04:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/05/press-briefing-by-press-secretary-karine-jean-pierre-december-5-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/05/press-briefing-by-press-secretary-karine-jean-pierre-december-5-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, December 5,\_2022"
 ---

@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 18:11:38-05:00
 published_time: 2023-11-09 18:11:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/readout-of-white-house-meeting-with-leaders-of-veteran-serving-organizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/readout-of-white-house-meeting-with-leaders-of-veteran-serving-organizations/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Leaders of Veteran-Serving Organizations"
 ---

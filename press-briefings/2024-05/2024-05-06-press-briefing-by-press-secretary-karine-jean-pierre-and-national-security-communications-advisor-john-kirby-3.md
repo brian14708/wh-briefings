@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-07 09:06:16-04:00
 published_time: 2024-05-06 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/06/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/06/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-3/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Communications Advisor John\_Kirby"

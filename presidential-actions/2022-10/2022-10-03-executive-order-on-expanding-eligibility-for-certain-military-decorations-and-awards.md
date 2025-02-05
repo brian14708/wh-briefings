@@ -1,7 +1,7 @@
 ---
 date: '2022-10-03'
 published_time: 2022-10-03 09:43:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/03/executive-order-on-expanding-eligibility-for-certain-military-decorations-and-awards/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/03/executive-order-on-expanding-eligibility-for-certain-military-decorations-and-awards/
 tags: presidential-actions
 title: "Executive Order on Expanding Eligibility For Certain Military Decorations\
   \ And\_Awards"

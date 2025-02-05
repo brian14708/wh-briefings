@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 09:06:22-04:00
 published_time: 2022-06-27 09:06:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/readout-of-white-house-meeting-with-global-reproductive-rights-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/readout-of-white-house-meeting-with-global-reproductive-rights-leaders/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Global Reproductive Rights\_Leaders"
 ---

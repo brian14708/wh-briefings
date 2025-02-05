@@ -2,7 +2,7 @@
 date: '2023-08-14'
 modified_time: 2023-08-14 13:50:24-04:00
 published_time: 2023-08-14 13:50:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/14/executive-order-on-united-states-coast-guard-officer-personnel-management/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/14/executive-order-on-united-states-coast-guard-officer-personnel-management/
 tags: presidential-actions
 title: "Executive Order on United\_States Coast Guard Officer Personnel\_Management"
 ---

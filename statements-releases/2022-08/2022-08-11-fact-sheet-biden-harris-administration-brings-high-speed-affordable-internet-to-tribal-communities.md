@@ -2,7 +2,7 @@
 date: '2022-08-11'
 modified_time: 2022-08-12 19:59:43-04:00
 published_time: 2022-08-11 17:10:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/fact-sheet-biden-harris-administration-brings-high-speed-affordable-internet-to-tribal-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/11/fact-sheet-biden-harris-administration-brings-high-speed-affordable-internet-to-tribal-communities/
 tags: statements-releases
 title: "FACT SHEET:\_Biden-\u2060Harris Administration Brings High-Speed, Affordable\
   \ Internet to Tribal\_Communities"

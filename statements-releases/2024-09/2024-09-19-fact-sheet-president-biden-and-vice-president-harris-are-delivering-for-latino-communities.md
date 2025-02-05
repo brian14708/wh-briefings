@@ -1,7 +1,7 @@
 ---
 date: '2024-09-19'
 published_time: 2024-09-19 19:58:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/19/fact-sheet-president-biden-and-vice-president-harris-are-delivering-for-latino-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/19/fact-sheet-president-biden-and-vice-president-harris-are-delivering-for-latino-communities/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Vice President Harris Are Delivering for\
   \ Latino\_Communities"
@@ -18,7 +18,7 @@ has a shot at the American Dream.
 **Growing Economic Prosperity for Latino Communities**  
 **  
 **The Biden-Harris Administration’s [Investing in America
-agenda](https://www.whitehouse.gov/invest/) has created five million
+agenda](https://bidenwhitehouse.archives.gov/invest/) has created five million
 jobs for Latino workers—achieving a historically low Latino unemployment
 rate, reported at 5.5% through August 2024, down from 8.6% when the
 President and Vice President took office. The Biden-Harris
@@ -61,7 +61,7 @@ including:
     month.
 -   Took action to establish the [first-ever Federal heat safety
     standard in workplaces combatting extreme
-    weather](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/#:~:text=The%20Department%20of%20Labor's%20Occupational,excessive%20heat%20in%20the%20workplace.)
+    weather](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/#:~:text=The%20Department%20of%20Labor's%20Occupational,excessive%20heat%20in%20the%20workplace.)
     to protect 36 million farmworkers, construction workers,
     manufacturing workers, and others.
 -   Invested more than $140 billion to drive an economic turnaround in
@@ -80,10 +80,10 @@ educational opportunities and improve college affordability for all
 students, including:
 
 -   Invested a record over $15 billion in [Hispanic-Serving Institutions
-    (HSIs)](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-hispanic-serving-institutions-week-2024/)—
+    (HSIs)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/a-proclamation-on-national-hispanic-serving-institutions-week-2024/)—
     the largest investment in U.S. history.
 -   [Signed an Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/)
     establishing a President’s Advisory Board and White House Initiative
     on HSIs to coordinate Federal resources and bolster collaboration
     between institutions.
@@ -125,14 +125,14 @@ affordable.
     Medicare Part D enrollees, which includes five million Latinos.
 -   In August 2024, the President and Vice President [announced new,
     negotiated
-    prices](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)
+    prices](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)
     for the first ten prescription drugs selected for Medicare price
     negotiation—expected to save Medicare enrollees $1.5 billion in
     out-of-pocket costs in the first year of the program alone.
 -   Latino enrollment in the Affordable Care Act (ACA) Marketplace
     coverage has doubled under the Biden-Harris Administration, which
     also [extended ACA healthcare benefits to
-    Dreamers](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/what-they-are-saying-advocates-leaders-applaud-administrations-new-action-to-expand-affordable-quality-health-care-coverage-to-daca-recipients/)
+    Dreamers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/what-they-are-saying-advocates-leaders-applaud-administrations-new-action-to-expand-affordable-quality-health-care-coverage-to-daca-recipients/)
     starting on November 1, 2024.
 -   Launched a new grant program to train doctors and physician
     assistants on [providing culturally and linguistically appropriate
@@ -172,7 +172,7 @@ Administration, the President and Vice President have taken action to
 improve our country’s immigration system.
 
 -   [Took
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-president-biden-announces-new-actions-to-keep-families-together/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/fact-sheet-president-biden-announces-new-actions-to-keep-families-together/)
     to speed up work visas, to help people who graduated from U.S.
     colleges and universities—including Dreamers—land jobs in
     high-demand high-skilled professions.
@@ -209,11 +209,11 @@ Administration that looks like America.
     Secretary Mayorkas, Department of Health and Human Services
     Secretary Becerra, Department of Education Secretary Cardona, and
     U.S. Small Business Administration Administrator Guzman.
--   [Signed two Executive Orders](https://www.whitehouse.gov/equity/)
+-   [Signed two Executive Orders](https://bidenwhitehouse.archives.gov/equity/)
     directing the Federal Government to address system inequality and
     barriers to equal opportunity faced by underserved communities.
 -   Updated [Federal race and ethnicity data collection
-    standards](https://www.whitehouse.gov/omb/briefing-room/2024/03/28/omb-publishes-revisions-to-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/)
+    standards](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/28/omb-publishes-revisions-to-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity/)
     for the first time in almost 30 years, which is expected to improve
     Latino community data representation in the U.S. Census and Federal
     programs.

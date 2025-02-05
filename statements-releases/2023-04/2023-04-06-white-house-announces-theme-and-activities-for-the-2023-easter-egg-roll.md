@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-11 09:45:31-04:00
 published_time: 2023-04-06 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/white-house-announces-theme-and-activities-for-the-2023-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/white-house-announces-theme-and-activities-for-the-2023-easter-egg-roll/
 tags: statements-releases
 title: "White\_House Announces Theme and Activities for the 2023 Easter Egg\_Roll"
 ---

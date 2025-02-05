@@ -2,7 +2,7 @@
 date: '2024-02-03'
 modified_time: 2024-02-03 19:33:06-05:00
 published_time: 2024-02-03 19:33:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/03/statement-from-press-secretary-karine-jean-pierre-on-latest-house-republican-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/03/statement-from-press-secretary-karine-jean-pierre-on-latest-house-republican-bill/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Latest House Republican\_\
   Bill"

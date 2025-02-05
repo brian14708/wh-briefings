@@ -2,7 +2,7 @@
 date: '2022-12-16'
 modified_time: 2022-12-16 08:51:20-05:00
 published_time: 2022-12-16 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/16/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-guillermo-lasso-of-ecuador/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/16/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-guillermo-lasso-of-ecuador/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of President Guillermo Lasso of\_Ecuador"

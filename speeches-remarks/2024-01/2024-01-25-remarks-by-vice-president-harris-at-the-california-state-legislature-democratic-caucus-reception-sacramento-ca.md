@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-26 10:29:05-05:00
 published_time: 2024-01-25 22:22:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-vice-president-harris-at-the-california-state-legislature-democratic-caucus-reception-sacramento-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-vice-president-harris-at-the-california-state-legislature-democratic-caucus-reception-sacramento-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the California State Legislature Democratic\
   \ Caucus Reception | Sacramento,\_CA"

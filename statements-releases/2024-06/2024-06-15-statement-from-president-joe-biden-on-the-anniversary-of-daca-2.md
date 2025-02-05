@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-14 14:31:25-04:00
 published_time: 2024-06-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/statement-from-president-joe-biden-on-the-anniversary-of-daca-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/statement-from-president-joe-biden-on-the-anniversary-of-daca-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Anniversary of\_DACA"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-02-28'
 published_time: 2024-02-28 18:05:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/28/executive-order-on-preventing-access-to-americans-bulk-sensitive-personal-data-and-united-states-government-related-data-by-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/28/executive-order-on-preventing-access-to-americans-bulk-sensitive-personal-data-and-united-states-government-related-data-by-countries-of-concern/
 tags: presidential-actions
 title: "Executive Order on Preventing Access to Americans\u2019 Bulk Sensitive Personal\
   \ Data and United\_States Government-Related Data by Countries of\_Concern"

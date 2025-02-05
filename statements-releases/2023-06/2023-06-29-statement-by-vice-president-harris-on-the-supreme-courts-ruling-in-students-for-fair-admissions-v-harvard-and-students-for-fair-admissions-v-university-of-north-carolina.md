@@ -1,7 +1,7 @@
 ---
 date: '2023-06-29'
 published_time: 2023-06-29 14:32:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/statement-by-vice-president-harris-on-the-supreme-courts-ruling-in-students-for-fair-admissions-v-harvard-and-students-for-fair-admissions-v-university-of-north-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/29/statement-by-vice-president-harris-on-the-supreme-courts-ruling-in-students-for-fair-admissions-v-harvard-and-students-for-fair-admissions-v-university-of-north-carolina/
 tags: statements-releases
 title: "Statement by Vice President Harris on the Supreme Court\u2019s ruling in Students\
   \ for Fair Admissions v. Harvard and Students for Fair Admissions v. University\

@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 10:24:12-05:00
 published_time: 2023-12-20 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/statement-from-president-biden-on-record-2024-affordable-care-act-health-care-enrollment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/statement-from-president-biden-on-record-2024-affordable-care-act-health-care-enrollment/
 tags: statements-releases
 title: "Statement from President\_Biden on Record 2024 Affordable Care Act Health\
   \ Care\_Enrollment"

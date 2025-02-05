@@ -1,7 +1,7 @@
 ---
 tags: press-briefings
 date: '2021-09-10'
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/10/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-55/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/09/10/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-55/
 published_time: 2021-09-10 17:50:38-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -591,4 +591,4 @@ next week.  Thank you.
   
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_10September2021_transcript.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_10September2021_transcript.pdf>

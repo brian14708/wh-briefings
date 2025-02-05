@@ -2,7 +2,7 @@
 date: '2024-01-18'
 modified_time: 2024-01-18 11:59:32-05:00
 published_time: 2024-01-18 11:59:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/18/fact-sheet-president-biden-to-announce-new-funding-to-connect-thousands-of-households-in-north-carolina-to-high-speed-internet-highlight-milestones-in-lowering-costs-expanding-internet-access-to-ev/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/18/fact-sheet-president-biden-to-announce-new-funding-to-connect-thousands-of-households-in-north-carolina-to-high-speed-internet-highlight-milestones-in-lowering-costs-expanding-internet-access-to-ev/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Announce New Funding to Connect Thousands\
   \ of Households in North Carolina to High-Speed Internet, Highlight Milestones in\

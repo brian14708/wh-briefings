@@ -2,7 +2,7 @@
 date: '2023-10-17'
 modified_time: 2023-10-17 19:09:11-04:00
 published_time: 2023-10-17 19:09:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/17/statement-from-president-joe-biden-on-the-hospital-explosion-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/17/statement-from-president-joe-biden-on-the-hospital-explosion-in-gaza/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Hospital Explosion in\_Gaza"
 ---

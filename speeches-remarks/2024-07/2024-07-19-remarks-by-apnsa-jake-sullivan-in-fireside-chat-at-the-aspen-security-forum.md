@@ -2,7 +2,7 @@
 date: '2024-07-19'
 modified_time: 2024-07-21 00:47:29-04:00
 published_time: 2024-07-19 00:45:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/19/remarks-by-apnsa-jake-sullivan-in-fireside-chat-at-the-aspen-security-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/19/remarks-by-apnsa-jake-sullivan-in-fireside-chat-at-the-aspen-security-forum/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan in Fireside Chat at the Aspen Security\_Forum"
 ---

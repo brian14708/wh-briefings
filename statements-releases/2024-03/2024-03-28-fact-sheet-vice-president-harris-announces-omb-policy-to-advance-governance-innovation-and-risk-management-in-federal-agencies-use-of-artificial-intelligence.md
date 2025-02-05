@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-29 16:46:20-04:00
 published_time: 2024-03-28 07:12:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-vice-president-harris-announces-omb-policy-to-advance-governance-innovation-and-risk-management-in-federal-agencies-use-of-artificial-intelligence/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces OMB Policy to Advance Governance,\
   \ Innovation, and Risk Management in Federal Agencies\u2019 Use of Artificial\_\
@@ -15,18 +15,18 @@ title: "FACT SHEET: Vice President Harris Announces OMB Policy to Advance Govern
 Today, Vice President Kamala Harris announced that the White House
 Office of Management and Budget (OMB) is issuing [OMB’s first
 government-wide
-policy](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
+policy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
 to mitigate risks of artificial intelligence (AI) and harness its
 benefits – delivering on a core component of the President Biden’s
 [landmark AI Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). 
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). 
 The Order directed sweeping action to strengthen AI safety and security,
 protect Americans’ privacy, advance equity and civil rights, stand up
 for consumers and workers, promote innovation and competition, advance
 American leadership around the world, and more. Federal agencies have
 reported that they have completed all of the 150-day actions tasked by
 the E.O, building on their previous success of [completing all 90-day
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/).
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-key-ai-actions-following-president-bidens-landmark-executive-order/).
 
 This multi-faceted direction to Federal departments and agencies builds
 upon the Biden-Harris Administration’s record of ensuring that America
@@ -36,7 +36,7 @@ responsibly develop, test, procure, and integrate transformative AI
 applications across the Federal Government.
 
 In line with the President’s Executive Order, [OMB’s new
-policy](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
+policy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf)
 directs the following actions:
 
 **Address Risks from the Use of AI**
@@ -108,7 +108,7 @@ transparency in their use of AI by requiring agencies to publicly:
     releases do not pose a risk to the public or government operations.
 
 Today, OMB is also releasing [detailed draft
-instructions](https://www.whitehouse.gov/wp-content/uploads/2024/03/DRAFT-Guidance-for-Agency-Artificial-Intelligence-Reporting-per-EO14110.pdf)
+instructions](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/DRAFT-Guidance-for-Agency-Artificial-Intelligence-Reporting-per-EO14110.pdf)
 to agencies detailing the contents of this public reporting.
 
 **Advance Responsible AI Innovation**
@@ -212,10 +212,10 @@ the Executive Order.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?w=515"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?w=515"
 class="wp-image-96004" decoding="async" loading="lazy"
 sizes="(max-width: 547px) 100vw, 547px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png 547w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=249,615 249w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=515,1270 515w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=130,320 130w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=259,640 259w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=519,1280 519w, https://www.whitehouse.gov/wp-content/uploads/2024/03/image.png?resize=344,850 344w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png 547w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=249,615 249w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=515,1270 515w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=130,320 130w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=259,640 259w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=519,1280 519w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/image.png?resize=344,850 344w"
 width="547" height="1350" />
 </figure>
 

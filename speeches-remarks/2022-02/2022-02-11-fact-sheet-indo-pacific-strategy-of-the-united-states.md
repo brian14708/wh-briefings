@@ -2,13 +2,13 @@
 tags: speeches-remarks
 date: '2022-02-11'
 modified_time: 2022-02-11 16:35:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/11/fact-sheet-indo-pacific-strategy-of-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/11/fact-sheet-indo-pacific-strategy-of-the-united-states/
 published_time: 2022-02-11 15:12:14-05:00
 title: "FACT SHEET: Indo-Pacific Strategy of the United\_States"
 ---
  
 [Read the full strategy
-here](https://www.whitehouse.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf)
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf)
 
 *“We envision an Indo-Pacific that is open, connected, prosperous,
 resilient, and secure—and we are ready to work together with each of you

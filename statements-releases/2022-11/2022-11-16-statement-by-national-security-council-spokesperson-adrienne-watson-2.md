@@ -1,7 +1,7 @@
 ---
 date: '2022-11-16'
 published_time: 2022-11-16 12:26:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/16/statement-by-national-security-council-spokesperson-adrienne-watson-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/16/statement-by-national-security-council-spokesperson-adrienne-watson-2/
 tags: statements-releases
 title: "Statement by National Security Council Spokesperson Adrienne\_Watson"
 ---

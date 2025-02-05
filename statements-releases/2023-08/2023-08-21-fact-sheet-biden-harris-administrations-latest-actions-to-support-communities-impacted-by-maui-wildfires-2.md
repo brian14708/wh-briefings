@@ -2,7 +2,7 @@
 date: '2023-08-21'
 modified_time: 2023-08-20 20:55:10-04:00
 published_time: 2023-08-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/21/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/21/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-2/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Latest Actions to Support\
   \ Communities Impacted by Maui\_Wildfires"
@@ -38,7 +38,7 @@ Since the onset of this unprecedented tragedy, President Biden launched
 a whole-of-government effort to support residents and affected
 communities – and as soon as Hawaii Governor Josh Green requested a
 Major Disaster Declaration, the President
-[signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
+[signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
 it. Dozens of Federal departments and agencies continue working with
 state and local partners on the ground to assess ongoing needs and
 provide resources and personnel to support response efforts.  
@@ -202,7 +202,7 @@ federal response:
     online](https://www.consumerfinance.gov/complaint/) or by
     calling (855) 411-CFPB (2372).  
 -   <img
-    src="https://www.whitehouse.gov/5d659803-196f-4320-8825-0ebdae71a641"
+    src="https://bidenwhitehouse.archives.gov/5d659803-196f-4320-8825-0ebdae71a641"
     decoding="async" alt="Anchor" />The **U.S. Department of
     Transportation (DOT)** is making available $3 million, the full
     amount of “quick release” Emergency Relief (ER) funds requested by

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-17'
 published_time: 2023-10-17 15:51:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/17/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/17/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Significant\
   \ Narcotics Traffickers Centered in\_Colombia"

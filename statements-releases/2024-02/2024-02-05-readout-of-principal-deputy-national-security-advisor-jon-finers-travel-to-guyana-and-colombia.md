@@ -2,7 +2,7 @@
 date: '2024-02-05'
 modified_time: 2024-02-05 21:38:29-05:00
 published_time: 2024-02-05 21:38:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/05/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-guyana-and-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/05/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-guyana-and-colombia/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Travel\
   \ to Guyana and\_Colombia"

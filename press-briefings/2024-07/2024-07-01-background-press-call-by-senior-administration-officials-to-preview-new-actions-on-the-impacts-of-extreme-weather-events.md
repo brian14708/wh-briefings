@@ -2,7 +2,7 @@
 date: '2024-07-01'
 modified_time: 2024-07-02 14:08:11-04:00
 published_time: 2024-07-01 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/01/background-press-call-by-senior-administration-officials-to-preview-new-actions-on-the-impacts-of-extreme-weather-events/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/01/background-press-call-by-senior-administration-officials-to-preview-new-actions-on-the-impacts-of-extreme-weather-events/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview New Actions\
   \ on the Impacts of Extreme Weather\_Events"

@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-18 11:44:55-04:00
 published_time: 2023-03-17 19:47:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-shamrock-bowl-presentation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-shamrock-bowl-presentation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Taoiseach Leo Varadkar of Ireland at Shamrock\
   \ Bowl\_Presentation"

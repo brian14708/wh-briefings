@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 13:07:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/readout-of-president-joe-bidens-meeting-with-prime-minister-benjamin-netanyahu-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/readout-of-president-joe-bidens-meeting-with-prime-minister-benjamin-netanyahu-of-israel/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Benjamin\
   \ Netanyahu of\_Israel"

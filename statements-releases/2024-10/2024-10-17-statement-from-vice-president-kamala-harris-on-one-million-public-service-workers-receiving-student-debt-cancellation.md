@@ -1,7 +1,7 @@
 ---
 date: '2024-10-17'
 published_time: 2024-10-17 06:04:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/statement-from-vice-president-kamala-harris-on-one-million-public-service-workers-receiving-student-debt-cancellation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/17/statement-from-vice-president-kamala-harris-on-one-million-public-service-workers-receiving-student-debt-cancellation/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on One Million Public Service\
   \ Workers Receiving Student Debt\_Cancellation"

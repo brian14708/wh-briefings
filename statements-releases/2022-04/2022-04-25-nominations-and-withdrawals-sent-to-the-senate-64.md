@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 16:15:53-04:00
 published_time: 2022-04-25 16:14:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/nominations-and-withdrawals-sent-to-the-senate-64/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/nominations-and-withdrawals-sent-to-the-senate-64/
 tags: statements-releases
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---

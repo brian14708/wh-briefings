@@ -2,7 +2,7 @@
 date: '2023-03-21'
 modified_time: 2023-03-21 16:16:46-04:00
 published_time: 2023-03-21 16:16:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/nominations-sent-to-the-senate-101/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/nominations-sent-to-the-senate-101/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

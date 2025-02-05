@@ -1,7 +1,7 @@
 ---
 date: '2023-08-02'
 published_time: 2023-08-02 22:46:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/02/joint-statement-on-the-strategic-third-neighbor-partnership-between-the-united-states-of-america-and-mongolia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/02/joint-statement-on-the-strategic-third-neighbor-partnership-between-the-united-states-of-america-and-mongolia/
 tags: statements-releases
 title: "Joint Statement on the Strategic Third Neighbor Partnership between the United\_\
   States of America and\_Mongolia"

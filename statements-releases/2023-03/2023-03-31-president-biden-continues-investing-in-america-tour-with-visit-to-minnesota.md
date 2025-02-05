@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 08:21:28-04:00
 published_time: 2023-03-31 08:21:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/president-biden-continues-investing-in-america-tour-with-visit-to-minnesota/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/president-biden-continues-investing-in-america-tour-with-visit-to-minnesota/
 tags: statements-releases
 title: "President\_Biden Continues \u201CInvesting in America\u201D Tour with Visit\
   \ to\_Minnesota"

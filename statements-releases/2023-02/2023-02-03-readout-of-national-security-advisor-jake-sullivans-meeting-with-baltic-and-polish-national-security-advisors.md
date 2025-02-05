@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-03 21:21:48-05:00
 published_time: 2023-02-03 21:21:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-baltic-and-polish-national-security-advisors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-baltic-and-polish-national-security-advisors/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting With Baltic\
   \ and Polish National Security\_Advisors"

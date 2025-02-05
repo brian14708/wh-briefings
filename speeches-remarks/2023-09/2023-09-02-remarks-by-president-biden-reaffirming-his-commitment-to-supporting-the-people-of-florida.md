@@ -2,7 +2,7 @@
 date: '2023-09-02'
 modified_time: 2023-09-03 11:17:37-04:00
 published_time: 2023-09-02 23:06:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/02/remarks-by-president-biden-reaffirming-his-commitment-to-supporting-the-people-of-florida/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/02/remarks-by-president-biden-reaffirming-his-commitment-to-supporting-the-people-of-florida/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Reaffirming His Commitment to Supporting the People\
   \ of\_Florida"

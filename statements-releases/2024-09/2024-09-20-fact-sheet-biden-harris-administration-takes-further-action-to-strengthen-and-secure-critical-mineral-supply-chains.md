@@ -1,7 +1,7 @@
 ---
 date: '2024-09-20'
 published_time: 2024-09-20 10:07:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-takes-further-action-to-strengthen-and-secure-critical-mineral-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-takes-further-action-to-strengthen-and-secure-critical-mineral-supply-chains/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Further Action to Strengthen\
   \ and Secure Critical Mineral Supply\_Chains"
@@ -23,10 +23,10 @@ critical minerals is projected to grow exponentially.
    
 President Biden recognized this challenge and took immediate action. In
 his first weeks in office, he signed [Executive Order
-14017](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
+14017](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
 America’s Supply Chains, which mandated a 100-day review of U.S.
 critical mineral supply chains. Following the [report’s
-recommendations](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf),
+recommendations](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf),
 the Biden-Harris Administration has mobilized historic resources to
 strengthen domestic critical minerals supply chains, from mining to
 manufacturing to recycling. These investments are strengthening U.S.
@@ -116,7 +116,7 @@ batteries:
     active anode material for EV batteries in Louisiana. Syrah processes
     natural graphite from its Balama, Mozambique mine, which received
     [conditional
-    commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-president-biden-and-prime-minister-modi-host-leaders-on-the-partnership-for-global-infrastructure-and-investment/)
+    commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-president-biden-and-prime-minister-modi-host-leaders-on-the-partnership-for-global-infrastructure-and-investment/)
     of up to $150 million in financing from the U.S. International
     Development Finance Corporation to support the full graphite supply
     chain.  
@@ -128,7 +128,7 @@ batteries:
     workforce, and research institutions in the area.  
 -   In May, President Biden directed his U.S. Trade Representative to
     [raise
-    tariffs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
+    tariffs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
     on imported EV and grid storage batteries from China, as well as
     certain critical minerals, to counter China’s unfair trade
     practices, which will defend U.S. manufacturers from being undercut
@@ -239,7 +239,7 @@ to secure domestic production throughout the magnet supply chain.
     production efforts to commercialize an iron nitride based rare-earth
     free permanent magnets.  
 -   The President directed his U.S. Trade Representative to [increase
-    tariffs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
+    tariffs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
     on permanent magnets beginning in 2026, which will protect U.S.
     magnet producers from being undercut by unfair trade practices.
 

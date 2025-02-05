@@ -2,7 +2,7 @@
 date: '2024-07-30'
 modified_time: 2024-07-30 18:38:36-04:00
 published_time: 2024-07-30 18:38:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/statement-from-nsc-spokesperson-adrienne-watson-on-middle-east-events/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/statement-from-nsc-spokesperson-adrienne-watson-on-middle-east-events/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Middle East\_Events"
 ---

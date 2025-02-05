@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 published_time: 2022-09-09 14:30:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-columbus-ohio-september-9-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-columbus-ohio-september-9-2022/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Columbus, Ohio,\
   \ September 9,\_2022"

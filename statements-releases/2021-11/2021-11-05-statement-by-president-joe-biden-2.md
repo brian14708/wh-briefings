@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-05'
 modified_time: 2021-11-05 20:58:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/05/statement-by-president-joe-biden-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/05/statement-by-president-joe-biden-2/
 published_time: 2021-11-05 20:58:53-04:00
 title: "Statement by President Joe\_Biden"
 ---

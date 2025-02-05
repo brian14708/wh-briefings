@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-21 12:30:33-05:00
 published_time: 2024-02-21 12:30:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/21/on-the-record-press-call-on-the-biden-harris-administration-initiative-to-bolster-the-cybersecurity-of-u-s-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/21/on-the-record-press-call-on-the-biden-harris-administration-initiative-to-bolster-the-cybersecurity-of-u-s-ports/
 tags: press-briefings
 title: "On-the-Record Press Call on the Biden-\u2060Harris Administration Initiative\
   \ to Bolster the Cybersecurity of U.S.\_Ports"

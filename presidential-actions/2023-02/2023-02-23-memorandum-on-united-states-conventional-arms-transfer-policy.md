@@ -2,7 +2,7 @@
 date: '2023-02-23'
 modified_time: 2023-02-23 10:38:25-05:00
 published_time: 2023-02-23 10:28:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/23/memorandum-on-united-states-conventional-arms-transfer-policy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/23/memorandum-on-united-states-conventional-arms-transfer-policy/
 tags: presidential-actions
 title: "Memorandum on United\_States Conventional Arms Transfer\_Policy"
 ---

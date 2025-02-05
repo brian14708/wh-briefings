@@ -2,7 +2,7 @@
 date: '2024-04-16'
 modified_time: 2024-04-16 09:49:21-04:00
 published_time: 2024-04-16 14:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/16/remarks-as-prepared-for-john-podesta-columbia-global-energy-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/16/remarks-as-prepared-for-john-podesta-columbia-global-energy-summit/
 tags: speeches-remarks
 title: "Remarks as Prepared for John Podesta Columbia Global Energy\_Summit"
 ---

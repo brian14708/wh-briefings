@@ -2,7 +2,7 @@
 date: '2022-04-01'
 modified_time: 2022-03-31 22:34:36-04:00
 published_time: 2022-04-01 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/
 tags: statements-releases
 title: "Letter from the President on the Implementation of the Global Fragility\_\
   Act"

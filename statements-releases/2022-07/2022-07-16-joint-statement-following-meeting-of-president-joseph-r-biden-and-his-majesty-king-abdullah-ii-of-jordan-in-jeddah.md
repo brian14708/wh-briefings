@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 09:06:00-04:00
 published_time: 2022-07-16 09:05:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-of-president-joseph-r-biden-and-his-majesty-king-abdullah-ii-of-jordan-in-jeddah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-of-president-joseph-r-biden-and-his-majesty-king-abdullah-ii-of-jordan-in-jeddah/
 tags: statements-releases
 title: "Joint Statement Following Meeting of President Joseph R. Biden and His Majesty\
   \ King Abdullah II of Jordan in\_Jeddah"

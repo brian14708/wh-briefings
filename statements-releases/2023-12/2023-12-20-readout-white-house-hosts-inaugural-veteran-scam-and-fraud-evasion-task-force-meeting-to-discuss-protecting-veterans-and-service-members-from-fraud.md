@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 14:15:11-05:00
 published_time: 2023-12-20 14:15:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/readout-white-house-hosts-inaugural-veteran-scam-and-fraud-evasion-task-force-meeting-to-discuss-protecting-veterans-and-service-members-from-fraud/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/readout-white-house-hosts-inaugural-veteran-scam-and-fraud-evasion-task-force-meeting-to-discuss-protecting-veterans-and-service-members-from-fraud/
 tags: statements-releases
 title: "READOUT: White\_House Hosts Inaugural Veteran Scam and Fraud Evasion Task\
   \ Force Meeting to Discuss Protecting Veterans and Service Members from\_Fraud"
@@ -25,7 +25,7 @@ members. Furthermore, veterans face particularly high risks for fraud
 with the median loss for veterans from fraud 44% higher than other
 civilians. In November, as part of his Unity Agenda for the
 nation, [President Biden launched the VSAFE campaign and task
-force](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/) to
+force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/) to
 combat fraud and scams perpetrated against veterans, service members,
 and their families. His announcement included a set of actions the Task
 Force will tackle including releasing a fraud prevention tool kit and
@@ -119,7 +119,7 @@ report back to task force leadership by the end of the first quarter of
 **These actions build on Biden-Harris Administration’s work to support
 veterans, service members, their families, caregivers and survivors
 . **[In August
-2022](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/),
+2022](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/),
 President Biden signed the PACT Act, the most significant expansion of
 benefits and services for toxic exposed veterans in more than 30 years
 to strengthen health care benefits to veterans and survivors. VA has
@@ -133,10 +133,10 @@ housing, and case management for veterans experiencing and at risk of
 experiencing homelessness. President Biden has also taken executive
 action to support veterans, signing executive orders [to strengthen the
 economic
-security](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) of
+security](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) of
 military and veteran spouses and survivors and [to increase access to
 quality child-care and long-term
-care](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/) of
+care](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/) of
 Americans, including for veterans.  
   
 The discussion included the following participants:

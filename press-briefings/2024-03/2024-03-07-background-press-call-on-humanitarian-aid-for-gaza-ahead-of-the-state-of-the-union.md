@@ -1,7 +1,7 @@
 ---
 date: '2024-03-07'
 published_time: 2024-03-07 13:29:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/07/background-press-call-on-humanitarian-aid-for-gaza-ahead-of-the-state-of-the-union/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/07/background-press-call-on-humanitarian-aid-for-gaza-ahead-of-the-state-of-the-union/
 tags: press-briefings
 title: "Background Press Call on Humanitarian Aid for Gaza Ahead of the State of the\_\
   Union"

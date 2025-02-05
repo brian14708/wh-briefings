@@ -2,7 +2,7 @@
 date: '2023-04-18'
 modified_time: 2023-04-18 12:14:10-04:00
 published_time: 2023-04-18 12:14:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/18/remarks-by-vice-president-harris-on-building-a-clean-energy-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/18/remarks-by-vice-president-harris-on-building-a-clean-energy-future/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Building a Clean Energy\_Future"
 ---

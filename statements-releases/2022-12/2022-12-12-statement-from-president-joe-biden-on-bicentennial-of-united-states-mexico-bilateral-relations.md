@@ -1,7 +1,7 @@
 ---
 date: '2022-12-12'
 published_time: 2022-12-12 08:53:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/12/statement-from-president-joe-biden-on-bicentennial-of-united-states-mexico-bilateral-relations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/12/statement-from-president-joe-biden-on-bicentennial-of-united-states-mexico-bilateral-relations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Bicentennial of United\_States-Mexico\_\
   Bilateral\_Relations"

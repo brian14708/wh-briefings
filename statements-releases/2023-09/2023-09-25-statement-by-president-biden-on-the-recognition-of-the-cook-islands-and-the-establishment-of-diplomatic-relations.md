@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 09:23:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/statement-by-president-biden-on-the-recognition-of-the-cook-islands-and-the-establishment-of-diplomatic-relations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/statement-by-president-biden-on-the-recognition-of-the-cook-islands-and-the-establishment-of-diplomatic-relations/
 tags: statements-releases
 title: "Statement by President\_Biden on the Recognition of the Cook Islands and the\
   \ Establishment of Diplomatic\_Relations"

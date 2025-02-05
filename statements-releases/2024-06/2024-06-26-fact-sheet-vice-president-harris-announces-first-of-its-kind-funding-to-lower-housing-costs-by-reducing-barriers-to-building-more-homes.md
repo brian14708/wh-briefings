@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-25 18:52:31-04:00
 published_time: 2024-06-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/fact-sheet-vice-president-harris-announces-first-of-its-kind-funding-to-lower-housing-costs-by-reducing-barriers-to-building-more-homes/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces First-of-Its-Kind Funding to Lower\
   \ Housing Costs by Reducing Barriers to Building More\_Homes"
@@ -117,7 +117,7 @@ barriers, boost housing supply, and lower costs, including:
 -   **Updated guidance for converting commercial property to
     housing. **Last fall, the White House released a [Commercial to
     Residential Federal Resources
-    Guidebook](https://www.whitehouse.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf) with
+    Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf) with
     over 20 federal programs across six federal agencies that can be
     used to support conversions. These programs include low-interest
     loans, loan guarantees, grants, and tax incentives, which, subject

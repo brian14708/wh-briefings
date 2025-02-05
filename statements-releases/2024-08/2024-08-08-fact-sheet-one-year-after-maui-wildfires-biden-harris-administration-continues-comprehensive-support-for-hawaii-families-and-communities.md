@@ -2,7 +2,7 @@
 date: '2024-08-08'
 modified_time: 2024-08-07 17:47:59-04:00
 published_time: 2024-08-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/08/fact-sheet-one-year-after-maui-wildfires-biden-harris-administration-continues-comprehensive-support-for-hawaii-families-and-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/08/fact-sheet-one-year-after-maui-wildfires-biden-harris-administration-continues-comprehensive-support-for-hawaii-families-and-communities/
 tags: statements-releases
 title: "FACT SHEET: One Year After Maui Wildfires, Biden-\u2060Harris Administration\
   \ Continues Comprehensive Support for Hawai\u2018i Families and\_Communities"
@@ -11,7 +11,7 @@ title: "FACT SHEET: One Year After Maui Wildfires, Biden-\u2060Harris Administra
 One year following the devastating wildfires on Maui, Hawaiʻi, the
 Biden-Harris Administration is continuing to pursue a [coordinated and
 comprehensive Federal
-response](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/07/fact-sheet-six-months-after-maui-wildfires-biden-harris-administration-continues-to-support-survivors-and-impacted-communities/),
+response](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/07/fact-sheet-six-months-after-maui-wildfires-biden-harris-administration-continues-to-support-survivors-and-impacted-communities/),
 working side by side with our State and local partners, to ensure the
 long-term recovery of survivors and impacted communities. In addition to
 continuing to assist the people of Maui in their greatest time of need –
@@ -45,7 +45,7 @@ the Administration has also provided more than $500 million to support
 debris removal, infrastructure rebuilding, and other emergency
 protective measures. **The President continues to urge Congress to pass
 the** [**Administration’s supplemental funding
-request**](https://www.whitehouse.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/)
+request**](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/)
 **which will help Maui to rebuild, including by providing critical
 funding for long-term housing.**
 

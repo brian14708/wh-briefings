@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 14:48:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/nominations-sent-to-the-senate-77/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/nominations-sent-to-the-senate-77/
 tags: statements-releases
 title: "Nominations Sent to\_the\_Senate"
 ---

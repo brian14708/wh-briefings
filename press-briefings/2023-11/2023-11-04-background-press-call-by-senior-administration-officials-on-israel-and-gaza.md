@@ -1,7 +1,7 @@
 ---
 date: '2023-11-04'
 published_time: 2023-11-04 13:08:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/04/background-press-call-by-senior-administration-officials-on-israel-and-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/04/background-press-call-by-senior-administration-officials-on-israel-and-gaza/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on Israel and\_Gaza"
 ---

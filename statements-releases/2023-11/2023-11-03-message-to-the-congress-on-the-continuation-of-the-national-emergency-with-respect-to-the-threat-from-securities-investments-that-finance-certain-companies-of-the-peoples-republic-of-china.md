@@ -2,7 +2,7 @@
 date: '2023-11-03'
 modified_time: 2023-11-03 19:08:37-04:00
 published_time: 2023-11-03 19:08:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/03/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/03/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples-republic-of-china/
 tags: statements-releases
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to the Threat From Securities Investments That Finance Certain Companies\

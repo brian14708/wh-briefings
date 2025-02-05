@@ -2,7 +2,7 @@
 date: '2023-01-26'
 modified_time: 2023-01-26 10:19:37-05:00
 published_time: 2023-01-26 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/26/president-biden-announces-key-appointments-to-boards-and-commissions-17/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/26/president-biden-announces-key-appointments-to-boards-and-commissions-17/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

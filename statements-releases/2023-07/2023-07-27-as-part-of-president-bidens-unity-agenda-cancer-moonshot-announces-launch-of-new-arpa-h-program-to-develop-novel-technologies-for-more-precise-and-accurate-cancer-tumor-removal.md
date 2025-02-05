@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 11:30:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/as-part-of-president-bidens-unity-agenda-cancer-moonshot-announces-launch-of-new-arpa-h-program-to-develop-novel-technologies-for-more-precise-and-accurate-cancer-tumor-removal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/as-part-of-president-bidens-unity-agenda-cancer-moonshot-announces-launch-of-new-arpa-h-program-to-develop-novel-technologies-for-more-precise-and-accurate-cancer-tumor-removal/
 tags: statements-releases
 title: "As Part of President\_Biden\u2019s Unity Agenda, Cancer Moonshot Announces\
   \ Launch of New ARPA-H Program to Develop Novel Technologies for More Precise and\

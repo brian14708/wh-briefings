@@ -1,7 +1,7 @@
 ---
 date: '2022-06-02'
 published_time: 2022-06-02 10:41:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/02/president-biden-statement-on-the-un-mediated-truce-extension-in-yemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/02/president-biden-statement-on-the-un-mediated-truce-extension-in-yemen/
 tags: statements-releases
 title: "President\_Biden Statement on the UN-Mediated Truce Extension in\_Yemen"
 ---

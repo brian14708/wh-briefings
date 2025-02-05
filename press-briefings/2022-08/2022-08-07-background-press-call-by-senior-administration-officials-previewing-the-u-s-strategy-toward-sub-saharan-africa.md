@@ -2,7 +2,7 @@
 date: '2022-08-07'
 modified_time: 2022-08-08 10:42:11-04:00
 published_time: 2022-08-07 10:29:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/07/background-press-call-by-senior-administration-officials-previewing-the-u-s-strategy-toward-sub-saharan-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/07/background-press-call-by-senior-administration-officials-previewing-the-u-s-strategy-toward-sub-saharan-africa/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the U.S.\
   \ Strategy Toward Sub-Saharan\_Africa"

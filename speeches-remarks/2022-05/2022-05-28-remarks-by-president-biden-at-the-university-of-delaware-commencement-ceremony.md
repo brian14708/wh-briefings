@@ -2,7 +2,7 @@
 date: '2022-05-28'
 modified_time: 2022-05-28 16:15:39-04:00
 published_time: 2022-05-28 16:15:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/28/remarks-by-president-biden-at-the-university-of-delaware-commencement-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/28/remarks-by-president-biden-at-the-university-of-delaware-commencement-ceremony/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_at the University of Delaware Commencement\_\
   Ceremony"

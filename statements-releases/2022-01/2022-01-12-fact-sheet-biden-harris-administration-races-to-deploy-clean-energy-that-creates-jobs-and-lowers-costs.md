@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-12'
 modified_time: 2022-01-12 10:48:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-races-to-deploy-clean-energy-that-creates-jobs-and-lowers-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-races-to-deploy-clean-energy-that-creates-jobs-and-lowers-costs/
 published_time: 2022-01-12 10:30:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Races to Deploy Clean Energy\
   \ that Creates Jobs and Lowers\_Costs"
@@ -112,7 +112,7 @@ climate goals and create tens of thousands of jobs, the Administration
 is announcing:
 
 -   **Record-Breaking Lease Sale in the New York Bight.** Last year, the
-    Administration [established](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/) a
+    Administration [established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/) a
     Wind Energy Area in the New York Bight off the coasts of New York
     and New Jersey. Today, the Department of the Interior’s Bureau of
     Ocean Energy Management (BOEM) is announcing the Final Sale Notice
@@ -206,7 +206,7 @@ is announcing:
 
 -   Launched an offshore wind strategy to achieve a [new national target
     of deploying 30 GW by
-    2030](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/) and
+    2030](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/29/fact-sheet-biden-administration-jumpstarts-offshore-wind-energy-projects-to-create-jobs/) and
     create jobs up and down the supply chain, from factories in the
     heartland to shipyards on the coasts.
 -   Approved the nation’s first two commercial-scale offshore wind

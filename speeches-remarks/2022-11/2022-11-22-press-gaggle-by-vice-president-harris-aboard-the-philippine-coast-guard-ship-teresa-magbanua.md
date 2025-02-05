@@ -2,7 +2,7 @@
 date: '2022-11-22'
 modified_time: 2022-11-22 11:56:02-05:00
 published_time: 2022-11-22 11:56:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/22/press-gaggle-by-vice-president-harris-aboard-the-philippine-coast-guard-ship-teresa-magbanua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/22/press-gaggle-by-vice-president-harris-aboard-the-philippine-coast-guard-ship-teresa-magbanua/
 tags: speeches-remarks
 title: Press Gaggle by Vice President Harris Aboard the Philippine Coast Guard Ship
   Teresa Magbanua

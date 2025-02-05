@@ -2,7 +2,7 @@
 date: '2024-06-17'
 modified_time: 2024-06-17 14:46:46-04:00
 published_time: 2024-06-17 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/17/remarks-by-national-economic-council-deputy-director-daniel-hornung-on-the-generational-opportunity-to-reorient-the-tax-system-in-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/17/remarks-by-national-economic-council-deputy-director-daniel-hornung-on-the-generational-opportunity-to-reorient-the-tax-system-in-2025/
 tags: speeches-remarks
 title: "Remarks by National Economic Council Deputy Director Daniel Hornung on the\
   \ Generational Opportunity to Reorient the Tax System in\_2025"
@@ -83,7 +83,7 @@ a
 increase in prices and interest rates.
 
 Extending the Trump tax cuts and related provisions would
-[cost](https://www.whitehouse.gov/wp-content/uploads/2024/06/Final-Lael-IP-Tax-Memo-6.12.24.pdf)
+[cost](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/06/Final-Lael-IP-Tax-Memo-6.12.24.pdf)
 nearly $5 trillion over the decade, and Congressional Republicans have
 not said how they would pay for it. In addition to regressive tariffs,
 they have proposed draconian
@@ -116,20 +116,20 @@ households that earn less than $400,000 do not pay more in taxes.
 But we must go beyond correcting the Trump tax cuts’ failures and seize
 the moment to promote economic opportunity for the middle-class and
 those in need. For example, President Biden
-[expanded](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
+[expanded](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
 the premium tax credits, which lifted health insurance coverage to
 [record](https://aspe.hhs.gov/reports/national-uninsured-rate-reaches-all-time-low-early-2023)
 levels across demographic groups. The expansion will lapse without
 congressional action by fall 2025; making it permanent is at the top of
 President Biden’s
-[agenda](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/16/remarks-by-president-biden-at-a-campaign-event-scranton-pa/).
+[agenda](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/16/remarks-by-president-biden-at-a-campaign-event-scranton-pa/).
 
 The expanded Child Tax Credit
-[cut](https://www.whitehouse.gov/cea/written-materials/2023/11/20/the-anti-poverty-and-income-boosting-impacts-of-the-enhanced-ctc/)
+[cut](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/20/the-anti-poverty-and-income-boosting-impacts-of-the-enhanced-ctc/)
 child poverty nearly in half in 2021,
 [primarily](https://www.cbpp.org/research/federal-tax/earnings-requirement-would-undermine-child-tax-credits-poverty-reducing-impact)
 by allowing low-income families to access the full credit. Restoring it
-[would](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
+[would](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
 lift those children out of poverty again and cut taxes by an average of
 $2,600 per year for 39 million families. The Senate should make a down
 payment on this expansion now by passing the bipartisan tax package that
@@ -150,7 +150,7 @@ other tax breaks for those households. There is no economic
 justification for giving millionaires another dollar of tax cuts.
 
 We should go further here, too. Billionaires
-[pay](https://www.whitehouse.gov/omb/briefing-room/2021/09/23/new-omb-cea-report-billionaires-pay-an-average-federal-individual-income-tax-rate-of-just-8-2/)
+[pay](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/09/23/new-omb-cea-report-billionaires-pay-an-average-federal-individual-income-tax-rate-of-just-8-2/)
 an average federal tax rate of just 8 percent on their true income—a
 lower rate than many middle-class families—primarily because most of
 their income comes in the form of returns to capital, which is taxed at
@@ -220,7 +220,7 @@ that were
 to have compressed as the pandemic faded.
 
 The President’s Budget
-[would](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
+[would](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
 raise the corporate rate to 28 percent—halfway back to the previous 35
 percent rate—in addition to other base-broadening reforms. The
 [lackluster](https://www.americanprogress.org/article/the-tax-cuts-and-jobs-act-failed-to-deliver-promised-benefits/)
@@ -268,7 +268,7 @@ investment in 2025.
 
 ***Finally, our tax system should avoid an international race to the
 bottom***. The Administration
-[negotiated](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
+[negotiated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
 an historic agreement, signed by more than 130 nations, that will level
 the playing field for American small businesses that can’t afford
 complex tax minimization strategies. The agreement will also better

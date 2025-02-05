@@ -1,7 +1,7 @@
 ---
 date: '2024-05-15'
 published_time: 2024-05-15 12:20:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-attempted-assassination-of-slovakia-prime-minister-robert-fico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/statement-from-president-joe-biden-on-attempted-assassination-of-slovakia-prime-minister-robert-fico/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Attempted Assassination of Slovakia\
   \ Prime Minister Robert\_Fico"

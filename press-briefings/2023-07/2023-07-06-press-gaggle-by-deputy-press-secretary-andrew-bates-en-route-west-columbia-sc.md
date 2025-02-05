@@ -1,7 +1,7 @@
 ---
 date: '2023-07-06'
 published_time: 2023-07-06 13:37:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/06/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-west-columbia-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/06/press-gaggle-by-deputy-press-secretary-andrew-bates-en-route-west-columbia-sc/
 tags: press-briefings
 title: "Press Gaggle by Deputy Press Secretary Andrew Bates En Route West Columbia,\_\
   SC"

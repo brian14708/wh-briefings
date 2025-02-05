@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-10 11:35:57-04:00
 published_time: 2022-06-09 23:33:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/remarks-by-president-biden-welcoming-heads-of-state-and-government-for-a-dinner-as-part-of-the-ninth-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/remarks-by-president-biden-welcoming-heads-of-state-and-government-for-a-dinner-as-part-of-the-ninth-summit-of-the-americas/
 tags: statements-releases
 title: "Remarks by President\_Biden Welcoming Heads of State and Government for a\
   \ Dinner as Part of the Ninth Summit of the\_Americas"

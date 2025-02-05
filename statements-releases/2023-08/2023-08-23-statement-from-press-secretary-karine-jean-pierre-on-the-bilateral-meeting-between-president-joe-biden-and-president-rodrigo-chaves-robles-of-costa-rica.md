@@ -1,7 +1,7 @@
 ---
 date: '2023-08-23'
 published_time: 2023-08-23 13:30:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/23/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-rodrigo-chaves-robles-of-costa-rica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/23/statement-from-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-rodrigo-chaves-robles-of-costa-rica/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Bilateral Meeting\
   \ Between President Joe\_Biden and President Rodrigo Chaves Robles of Costa\_Rica"

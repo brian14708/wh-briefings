@@ -1,7 +1,7 @@
 ---
 date: '2023-02-19'
 published_time: 2023-02-19 16:12:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/19/readout-of-forum-with-hbcu-student-veterans-and-cadets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/19/readout-of-forum-with-hbcu-student-veterans-and-cadets/
 tags: statements-releases
 title: "Readout of Forum with HBCU Student Veterans and\_Cadets"
 ---

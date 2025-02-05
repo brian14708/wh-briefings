@@ -1,7 +1,7 @@
 ---
 date: '2022-05-13'
 published_time: 2022-05-13 19:57:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-president-biden-highlighting-state-and-local-leaders-who-are-investing-american-rescue-plan-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-president-biden-highlighting-state-and-local-leaders-who-are-investing-american-rescue-plan-funding/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_Highlighting State and Local Leaders Who Are\_\
   Investing American Rescue Plan\_Funding"

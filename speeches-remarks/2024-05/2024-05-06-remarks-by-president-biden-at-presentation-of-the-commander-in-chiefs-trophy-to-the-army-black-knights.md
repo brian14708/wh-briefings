@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 15:43:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-president-biden-at-presentation-of-the-commander-in-chiefs-trophy-to-the-army-black-knights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-president-biden-at-presentation-of-the-commander-in-chiefs-trophy-to-the-army-black-knights/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Commander-in-Chief\u2019\
   s Trophy to the Army Black\_Knights"

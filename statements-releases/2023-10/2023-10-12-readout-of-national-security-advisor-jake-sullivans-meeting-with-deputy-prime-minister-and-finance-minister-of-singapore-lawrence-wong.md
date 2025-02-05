@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-12 19:14:26-04:00
 published_time: 2023-10-12 19:14:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/readout-of-national-security-advisor-jake-sullivans-meeting-with-deputy-prime-minister-and-finance-minister-of-singapore-lawrence-wong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/readout-of-national-security-advisor-jake-sullivans-meeting-with-deputy-prime-minister-and-finance-minister-of-singapore-lawrence-wong/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Deputy\
   \ Prime Minister and Finance Minister of Singapore Lawrence\_Wong"

@@ -1,7 +1,7 @@
 ---
 date: '2024-12-02'
 published_time: 2024-12-02 16:19:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/press-release-bill-signed-h-r-1505/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/press-release-bill-signed-h-r-1505/
 tags: statements-releases
 title: "Press Release: Bill Signed: H.R.\_1505"
 ---

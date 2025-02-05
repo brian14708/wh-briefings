@@ -1,7 +1,7 @@
 ---
 date: '2024-07-25'
 published_time: 2024-07-25 10:11:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-to-celebrate-families-of-the-2024-olympic-athletes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-to-celebrate-families-of-the-2024-olympic-athletes/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event to\
   \ Celebrate Families of the 2024 Olympic\_Athletes"

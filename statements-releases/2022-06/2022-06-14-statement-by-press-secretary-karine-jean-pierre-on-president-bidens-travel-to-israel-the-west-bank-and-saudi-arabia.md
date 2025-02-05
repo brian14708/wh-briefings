@@ -2,7 +2,7 @@
 date: '2022-06-14'
 modified_time: 2022-06-14 08:01:08-04:00
 published_time: 2022-06-14 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/14/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-israel-the-west-bank-and-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/14/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-israel-the-west-bank-and-saudi-arabia/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to\_Israel, the West Bank, and Saudi\_Arabia"

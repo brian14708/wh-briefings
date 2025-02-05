@@ -1,7 +1,7 @@
 ---
 date: '2022-06-24'
 published_time: 2022-06-24 15:57:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Actions In Light of Today\u2019s Supreme\
   \ Court Decision on Dobbs v. Jackson Women\u2019s Health\_Organization"

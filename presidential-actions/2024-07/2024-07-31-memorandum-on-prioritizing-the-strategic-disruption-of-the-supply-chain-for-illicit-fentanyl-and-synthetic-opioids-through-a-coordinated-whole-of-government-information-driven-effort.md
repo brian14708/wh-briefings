@@ -2,7 +2,7 @@
 date: '2024-07-31'
 modified_time: 2024-07-31 10:08:02-04:00
 published_time: 2024-07-31 09:50:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/31/memorandum-on-prioritizing-the-strategic-disruption-of-the-supply-chain-for-illicit-fentanyl-and-synthetic-opioids-through-a-coordinated-whole-of-government-information-driven-effort/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/31/memorandum-on-prioritizing-the-strategic-disruption-of-the-supply-chain-for-illicit-fentanyl-and-synthetic-opioids-through-a-coordinated-whole-of-government-information-driven-effort/
 tags: presidential-actions
 title: Memorandum on Prioritizing the Strategic Disruption of the Supply Chain for
   Illicit Fentanyl and Synthetic Opioids Through a Coordinated, Whole-of-Government,

@@ -2,7 +2,7 @@
 date: '2023-10-24'
 modified_time: 2023-10-24 20:29:51-04:00
 published_time: 2023-10-24 20:29:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/24/remarks-as-prepared-for-delivery-by-national-economic-council-director-lael-brainard-on-the-right-to-repair/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by National Economic Council Director Lael\
   \ Brainard on the Right to\_Repair"
@@ -39,7 +39,7 @@ in the U.S., and support small independent repair shops.
 
 President Biden’s call to action on the right to repair in his
 [Executive Order on Promoting Competition of July
-2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
 jumpstarted a growing movement. Now federal agencies are taking action
 to make it easier and cheaper to repair things you own, state
 legislatures are passing laws across the country, and the private sector

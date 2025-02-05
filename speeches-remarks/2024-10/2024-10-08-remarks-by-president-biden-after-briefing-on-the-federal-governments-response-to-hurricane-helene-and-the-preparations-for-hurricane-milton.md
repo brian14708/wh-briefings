@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-09 11:18:15-04:00
 published_time: 2024-10-08 11:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/08/remarks-by-president-biden-after-briefing-on-the-federal-governments-response-to-hurricane-helene-and-the-preparations-for-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/08/remarks-by-president-biden-after-briefing-on-the-federal-governments-response-to-hurricane-helene-and-the-preparations-for-hurricane-milton/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Briefing on the Federal Government\u2019\
   s Response to Hurricane Helene and the Preparations for Hurricane\_Milton"

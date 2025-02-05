@@ -2,7 +2,7 @@
 date: '2024-04-12'
 modified_time: 2024-04-12 15:42:45-04:00
 published_time: 2024-04-12 15:42:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/12/joint-readout-of-inaugural-u-s-philippines-33-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/12/joint-readout-of-inaugural-u-s-philippines-33-meeting/
 tags: statements-releases
 title: "Joint Readout of Inaugural U.S.-Philippines 3+3\_Meeting"
 ---

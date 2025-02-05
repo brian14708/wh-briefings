@@ -1,7 +1,7 @@
 ---
 date: '2023-07-17'
 published_time: 2023-07-17 15:41:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/17/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-new-zealand/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/17/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-new-zealand/
 tags: statements-releases
 title: "Statement from Communications Director Liza Acevedo on Second Gentleman Douglas\
   \ Emhoff\u2019s Travel to New\_Zealand"

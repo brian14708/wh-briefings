@@ -2,7 +2,7 @@
 date: '2024-02-14'
 modified_time: 2024-02-14 17:21:37-05:00
 published_time: 2024-02-14 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/statement-by-national-security-advisor-jake-sullivan-on-deferred-enforced-departure-for-palestinians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/statement-by-national-security-advisor-jake-sullivan-on-deferred-enforced-departure-for-palestinians/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Deferred Enforced\
   \ Departure for\_Palestinians"

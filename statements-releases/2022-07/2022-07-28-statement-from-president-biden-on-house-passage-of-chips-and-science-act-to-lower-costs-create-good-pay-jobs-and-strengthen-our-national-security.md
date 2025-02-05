@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-28 15:24:35-04:00
 published_time: 2022-07-28 15:24:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/statement-from-president-biden-on-house-passage-of-chips-and-science-act-to-lower-costs-create-good-pay-jobs-and-strengthen-our-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/statement-from-president-biden-on-house-passage-of-chips-and-science-act-to-lower-costs-create-good-pay-jobs-and-strengthen-our-national-security/
 tags: statements-releases
 title: "Statement from President\_Biden on House Passage of CHIPS and Science Act\
   \ to Lower Costs, Create Good-Pay Jobs and Strengthen Our National\_Security"

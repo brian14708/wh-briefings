@@ -1,7 +1,7 @@
 ---
 date: '2023-03-16'
 published_time: 2023-03-16 18:06:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/16/readout-of-vice-president-kamala-harriss-meeting-with-state-legislators-health-care-providers-advocates-and-students-on-reproductive-rights-in-des-m/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/16/readout-of-vice-president-kamala-harriss-meeting-with-state-legislators-health-care-providers-advocates-and-students-on-reproductive-rights-in-des-m/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with State Legislators,\
   \ Health Care Providers, Advocates, and Students on Reproductive Rights in Des Moines,\_\

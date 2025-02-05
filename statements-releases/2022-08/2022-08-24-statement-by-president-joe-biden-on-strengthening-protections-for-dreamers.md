@@ -2,7 +2,7 @@
 date: '2022-08-24'
 modified_time: 2022-08-24 17:33:48-04:00
 published_time: 2022-08-24 17:33:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/statement-by-president-joe-biden-on-strengthening-protections-for-dreamers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/statement-by-president-joe-biden-on-strengthening-protections-for-dreamers/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Strengthening Protections for\_Dreamers"
 ---

@@ -2,7 +2,7 @@
 date: '2024-06-28'
 modified_time: 2024-06-28 17:16:51-04:00
 published_time: 2024-06-28 16:19:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/28/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-loper-bright/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/28/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-loper-bright/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Supreme Court Ruling in\
   \ Loper\_Bright"

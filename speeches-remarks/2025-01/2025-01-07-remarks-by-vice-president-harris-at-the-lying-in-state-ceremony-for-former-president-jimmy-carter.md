@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-08 09:45:19-05:00
 published_time: 2025-01-07 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/07/remarks-by-vice-president-harris-at-the-lying-in-state-ceremony-for-former-president-jimmy-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/07/remarks-by-vice-president-harris-at-the-lying-in-state-ceremony-for-former-president-jimmy-carter/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Lying in State Ceremony for Former\
   \ President Jimmy\_Carter"

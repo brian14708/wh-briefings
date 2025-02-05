@@ -2,7 +2,7 @@
 date: '2022-10-18'
 modified_time: 2022-10-18 09:24:07-04:00
 published_time: 2022-10-18 09:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-biden-harris-administration-releases-strategy-to-strengthen-health-security-and-prepare-for-biothreats/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-biden-harris-administration-releases-strategy-to-strengthen-health-security-and-prepare-for-biothreats/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Strategy to Strengthen\
   \ Health Security and Prepare for\_Biothreats"
@@ -12,7 +12,7 @@ Today President Joe Biden will sign National Security Memorandum-15
 (NSM-15) and launched the [*National Biodefense Strategy and
 Implementation Plan for Countering Biological Threats, Enhancing
 Pandemic Preparedness, and Achieving Global Health
-Security*](https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf)
+Security*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf)
 (the Strategy).  
   
 As the President has said, there are no walls high enough or oceans wide
@@ -52,7 +52,7 @@ The Administration is already implementing key actions in the Strategy
 with existing funding. However, fully achieving these transformative
 objectives will require the support of Congress to provide additional
 resources, including the President’s [$88 billion
-request](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/fact-sheet-the-biden-administrations-historic-investment-in-pandemic-preparedness-and-biodefense-in-the-fy-2023-presidents-budget/)
+request](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/28/fact-sheet-the-biden-administrations-historic-investment-in-pandemic-preparedness-and-biodefense-in-the-fy-2023-presidents-budget/)
 over five years for pandemic preparedness and biodefense. The
 Administration looks forward to working with Congress to implement this
 investment strategy to save trillions of dollars and millions of
@@ -118,7 +118,7 @@ incidents before they happen by:**
 **Prepare for pandemics and other biological incidents:** The Strategy
 aims to transform our preparedness to respond to outbreaks, building on
 the [*American Pandemic Preparedness Plan*: *Transforming Our
-Capabilities*](https://www.whitehouse.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf?page=29)*,*
+Capabilities*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/American-Pandemic-Preparedness-Transforming-Our-Capabilities-Final-For-Web.pdf?page=29)*,*
 released by the Administration in 2021. The United States will work to
 strengthen and modernize domestic public, veterinary, and plant health
 capacity at every level, from rural jurisdictions to large cities, so

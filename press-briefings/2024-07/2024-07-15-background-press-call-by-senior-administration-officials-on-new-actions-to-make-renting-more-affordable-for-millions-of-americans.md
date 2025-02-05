@@ -2,7 +2,7 @@
 date: '2024-07-15'
 modified_time: 2024-07-16 15:18:36-04:00
 published_time: 2024-07-15 18:16:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/15/background-press-call-by-senior-administration-officials-on-new-actions-to-make-renting-more-affordable-for-millions-of-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/15/background-press-call-by-senior-administration-officials-on-new-actions-to-make-renting-more-affordable-for-millions-of-americans/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on New Actions to\
   \ Make Renting More Affordable for Millions of\_Americans"

@@ -2,7 +2,7 @@
 date: '2022-04-27'
 modified_time: 2022-04-27 18:08:11-04:00
 published_time: 2022-04-27 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/27/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-the-republic-of-korea-and-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/27/statement-by-press-secretary-jen-psaki-on-the-presidents-travel-to-the-republic-of-korea-and-japan/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on the President\u2019s Travel to\
   \ the Republic of Korea and\_Japan"

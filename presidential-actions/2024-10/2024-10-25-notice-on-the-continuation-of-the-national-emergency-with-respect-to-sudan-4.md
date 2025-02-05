@@ -1,7 +1,7 @@
 ---
 date: '2024-10-25'
 published_time: 2024-10-25 16:03:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/25/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/25/notice-on-the-continuation-of-the-national-emergency-with-respect-to-sudan-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to\_Sudan"
 ---

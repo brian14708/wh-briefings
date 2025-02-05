@@ -1,7 +1,7 @@
 ---
 date: '2022-08-25'
 published_time: 2022-08-25 09:34:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/25/remarks-by-president-biden-announcing-student-loan-debt-relief-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/25/remarks-by-president-biden-announcing-student-loan-debt-relief-plan/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Announcing Student Loan Debt Relief\_Plan"
 ---

@@ -2,7 +2,7 @@
 date: '2024-10-09'
 modified_time: 2024-10-09 17:54:03-04:00
 published_time: 2024-10-09 16:58:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/fact-sheet-hurricane-helene-recovery-continues-as-biden-harris-administration-prepares-for-hurricane-milton/
 tags: statements-releases
 title: "FACT SHEET: Hurricane Helene Recovery Continues as Biden-\u2060Harris Administration\
   \ Prepares for Hurricane\_Milton"

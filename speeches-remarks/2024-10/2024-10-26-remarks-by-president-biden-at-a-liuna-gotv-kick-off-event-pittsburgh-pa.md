@@ -2,7 +2,7 @@
 date: '2024-10-26'
 modified_time: 2024-10-28 11:40:00-04:00
 published_time: 2024-10-26 23:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-president-biden-at-a-liuna-gotv-kick-off-event-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-president-biden-at-a-liuna-gotv-kick-off-event-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a LiUNA GOTV Kick-Off Event | Pittsburgh,\_\
   PA"

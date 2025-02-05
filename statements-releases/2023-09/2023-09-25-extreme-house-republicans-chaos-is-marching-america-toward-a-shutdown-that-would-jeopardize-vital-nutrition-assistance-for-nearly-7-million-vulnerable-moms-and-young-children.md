@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-25 00:12:35-04:00
 published_time: 2023-09-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/extreme-house-republicans-chaos-is-marching-america-toward-a-shutdown-that-would-jeopardize-vital-nutrition-assistance-for-nearly-7-million-vulnerable-moms-and-young-children/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/extreme-house-republicans-chaos-is-marching-america-toward-a-shutdown-that-would-jeopardize-vital-nutrition-assistance-for-nearly-7-million-vulnerable-moms-and-young-children/
 tags: statements-releases
 title: "Extreme House Republicans\u2019 Chaos Is Marching America Toward a Shutdown\
   \ That Would Jeopardize Vital Nutrition Assistance for Nearly 7 Million Vulnerable\
@@ -29,7 +29,7 @@ the government open and address emergency needs for the American people.
 House Republicans have turned their backs on the bipartisan budget deal
 that a large majority of them voted for just a few months ago and
 proposed a continuing resolution (CR) that makes [devastating
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
 programs that millions of hardworking Americans count on. While House
 Republicans continue to debate what CR to advance, they have
 consistently refused to include the Administration’s request for

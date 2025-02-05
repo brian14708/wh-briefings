@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 00:32:33-04:00
 published_time: 2023-09-11 00:32:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/11/joint-leaders-statement-elevating-united-states-vietnam-relations-to-a-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/11/joint-leaders-statement-elevating-united-states-vietnam-relations-to-a-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "JOINT LEADERS\u2019 STATEMENT: ELEVATING UNITED STATES-VIETNAM RELATIONS TO\
   \ A COMPREHENSIVE STRATEGIC\_PARTNERSHIP"

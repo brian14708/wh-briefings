@@ -2,7 +2,7 @@
 date: '2023-09-01'
 modified_time: 2023-09-01 19:00:11-04:00
 published_time: 2023-09-01 19:00:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/readout-of-vice-president-harriss-call-with-president-elect-arevalo-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/01/readout-of-vice-president-harriss-call-with-president-elect-arevalo-of-guatemala/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President-Elect Ar\xE9valo\
   \ of\_Guatemala"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-24 23:16:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/quad-principles-on-technology-design-development-governance-and-use/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/quad-principles-on-technology-design-development-governance-and-use/
 published_time: 2021-09-24 23:16:41-04:00
 title: "Quad Principles on Technology Design, Development, Governance, and\_Use"
 ---

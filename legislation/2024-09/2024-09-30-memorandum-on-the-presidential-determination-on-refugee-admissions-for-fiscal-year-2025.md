@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 15:49:31-04:00
 published_time: 2024-09-30 18:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/30/memorandum-on-the-presidential-determination-on-refugee-admissions-for-fiscal-year-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/30/memorandum-on-the-presidential-determination-on-refugee-admissions-for-fiscal-year-2025/
 tags: legislation
 title: "Memorandum on the Presidential Determination on Refugee Admissions for Fiscal\
   \ Year\_2025"

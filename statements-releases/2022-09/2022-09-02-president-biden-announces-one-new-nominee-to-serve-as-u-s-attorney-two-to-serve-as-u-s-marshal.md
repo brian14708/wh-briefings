@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 14:18:28-04:00
 published_time: 2022-09-02 14:18:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-one-new-nominee-to-serve-as-u-s-attorney-two-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-one-new-nominee-to-serve-as-u-s-attorney-two-to-serve-as-u-s-marshal/
 tags: statements-releases
 title: "President\_Biden Announces One New Nominee to Serve as U.S. Attorney, Two\
   \ to Serve as U.S.\_Marshal"

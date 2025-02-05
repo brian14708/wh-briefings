@@ -2,7 +2,7 @@
 date: '2022-12-19'
 modified_time: 2022-12-19 22:21:30-05:00
 published_time: 2022-12-19 22:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/19/remarks-by-president-biden-and-first-lady-jill-biden-at-a-hanukkah-holiday-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/19/remarks-by-president-biden-and-first-lady-jill-biden-at-a-hanukkah-holiday-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at a Hanukkah Holiday\_\
   Reception"

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-04'
 published_time: 2022-05-04 13:41:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/04/remarks-by-president-biden-on-economic-growth-jobs-and-deficit-reduction/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/04/remarks-by-president-biden-on-economic-growth-jobs-and-deficit-reduction/
 tags: speeches-remarks
 title: "Remarks by President\_Biden On Economic Growth, Jobs, and Deficit\_Reduction"
 ---

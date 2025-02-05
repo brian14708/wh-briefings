@@ -2,7 +2,7 @@
 date: '2022-04-14'
 modified_time: 2022-04-15 10:44:26-04:00
 published_time: 2022-04-14 08:11:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/04/14/getting-the-child-tax-credit-right-for-puerto-rico-the-american-rescue-plans-permanent-historic-changes-to-tax-relief-in-puerto-rico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/04/14/getting-the-child-tax-credit-right-for-puerto-rico-the-american-rescue-plans-permanent-historic-changes-to-tax-relief-in-puerto-rico/
 tags: blog
 title: "Getting the Child Tax Credit Right for Puerto Rico: The American Rescue Plan\u2019\
   s Permanent, Historic Changes to Tax Relief in Puerto\_Rico"

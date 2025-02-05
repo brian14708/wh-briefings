@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-06 16:56:51-04:00
 published_time: 2022-07-06 16:56:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/06/kate-bedingfield-to-depart-the-white-house-after-over-3-years-leading-the-presidents-communications-operation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/06/kate-bedingfield-to-depart-the-white-house-after-over-3-years-leading-the-presidents-communications-operation/
 tags: statements-releases
 title: "Kate Bedingfield to Depart the White\_House after Over 3 Years Leading the\
   \ President\u2019s Communications\_Operation"

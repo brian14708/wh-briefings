@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 21:06:06-04:00
 published_time: 2022-07-26 21:06:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/26/press-briefing-by-press-secretary-karine-jean-pierre-and-nec-director-brian-deese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/26/press-briefing-by-press-secretary-karine-jean-pierre-and-nec-director-brian-deese/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NEC Director Brian\_\
   Deese"

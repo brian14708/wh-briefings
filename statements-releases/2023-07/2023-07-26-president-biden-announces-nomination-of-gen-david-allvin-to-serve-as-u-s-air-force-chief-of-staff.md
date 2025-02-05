@@ -1,7 +1,7 @@
 ---
 date: '2023-07-26'
 published_time: 2023-07-26 12:49:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/president-biden-announces-nomination-of-gen-david-allvin-to-serve-as-u-s-air-force-chief-of-staff/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/president-biden-announces-nomination-of-gen-david-allvin-to-serve-as-u-s-air-force-chief-of-staff/
 tags: statements-releases
 title: "President\_Biden Announces Nomination of Gen. David Allvin to Serve As U.S.\
   \ Air Force Chief of\_Staff"

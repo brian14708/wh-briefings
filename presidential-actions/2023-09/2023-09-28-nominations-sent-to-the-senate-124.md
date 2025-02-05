@@ -1,7 +1,7 @@
 ---
 date: '2023-09-28'
 published_time: 2023-09-28 15:52:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/28/nominations-sent-to-the-senate-124/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/28/nominations-sent-to-the-senate-124/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

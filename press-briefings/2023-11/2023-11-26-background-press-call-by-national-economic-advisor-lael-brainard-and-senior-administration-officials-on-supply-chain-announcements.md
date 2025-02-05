@@ -2,7 +2,7 @@
 date: '2023-11-26'
 modified_time: 2023-11-28 18:14:35-05:00
 published_time: 2023-11-26 18:52:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/26/background-press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-on-supply-chain-announcements/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/26/background-press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-on-supply-chain-announcements/
 tags: press-briefings
 title: Background Press Call by National Economic Advisor Lael Brainard and Senior
   Administration Officials on Supply Chain Announcements

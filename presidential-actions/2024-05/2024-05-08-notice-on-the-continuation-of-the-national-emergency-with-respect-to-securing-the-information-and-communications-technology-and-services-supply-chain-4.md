@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-08 13:37:27-04:00
 published_time: 2024-05-08 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Securing\
   \ the Information and Communications Technology and Services Supply\_Chain"

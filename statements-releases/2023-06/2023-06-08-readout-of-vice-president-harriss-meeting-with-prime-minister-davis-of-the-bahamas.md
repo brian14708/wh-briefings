@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 21:25:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/readout-of-vice-president-harriss-meeting-with-prime-minister-davis-of-the-bahamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/readout-of-vice-president-harriss-meeting-with-prime-minister-davis-of-the-bahamas/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Davis\
   \ of The\_Bahamas"

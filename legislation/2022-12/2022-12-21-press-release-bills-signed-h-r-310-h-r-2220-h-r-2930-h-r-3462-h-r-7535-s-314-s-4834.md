@@ -1,7 +1,7 @@
 ---
 date: '2022-12-21'
 published_time: 2022-12-21 12:11:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/21/press-release-bills-signed-h-r-310-h-r-2220-h-r-2930-h-r-3462-h-r-7535-s-314-s-4834/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/21/press-release-bills-signed-h-r-310-h-r-2220-h-r-2930-h-r-3462-h-r-7535-s-314-s-4834/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 310, H.R. 2220, H.R. 2930, H.R. 3462, H.R.\
   \ 7535, S. 314, S.\_4834"

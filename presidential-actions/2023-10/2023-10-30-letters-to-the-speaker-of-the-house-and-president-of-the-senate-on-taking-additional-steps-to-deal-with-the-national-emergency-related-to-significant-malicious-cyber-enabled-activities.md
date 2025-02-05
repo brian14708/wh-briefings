@@ -1,7 +1,7 @@
 ---
 date: '2023-10-30'
 published_time: 2023-10-30 17:54:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-to-deal-with-the-national-emergency-related-to-significant-malicious-cyber-enabled-activities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-to-deal-with-the-national-emergency-related-to-significant-malicious-cyber-enabled-activities/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on Taking\
   \ Additional Steps to Deal With the National Emergency Related to Significant Malicious\

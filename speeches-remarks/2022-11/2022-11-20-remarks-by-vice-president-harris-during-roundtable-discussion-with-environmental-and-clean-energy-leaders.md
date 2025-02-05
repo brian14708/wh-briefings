@@ -1,7 +1,7 @@
 ---
 date: '2022-11-20'
 published_time: 2022-11-20 13:42:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/20/remarks-by-vice-president-harris-during-roundtable-discussion-with-environmental-and-clean-energy-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/20/remarks-by-vice-president-harris-during-roundtable-discussion-with-environmental-and-clean-energy-leaders/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Roundtable Discussion With\_Environmental\
   \ and Clean Energy\_Leaders"

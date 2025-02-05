@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-15 18:30:00-05:00
 published_time: 2024-11-15 18:29:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/15/background-press-gaggle-on-the-u-s-rok-japan-trilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/15/background-press-gaggle-on-the-u-s-rok-japan-trilateral-meeting/
 tags: press-briefings
 title: "Background Press Gaggle on the U.S.-ROK-Japan Trilateral\_Meeting"
 ---

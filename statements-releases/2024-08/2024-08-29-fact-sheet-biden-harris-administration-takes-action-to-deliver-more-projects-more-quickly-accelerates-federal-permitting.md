@@ -2,7 +2,7 @@
 date: '2024-08-29'
 modified_time: 2024-08-28 15:31:15-04:00
 published_time: 2024-08-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Deliver More\
   \ Projects More Quickly, Accelerates Federal\_Permitting"
@@ -14,7 +14,7 @@ is delivering on that promise by accelerating project reviews while
 protecting communities and our environment.
 
 To date, the Biden-Harris Administration has deployed more than [$560
-billion](https://www.whitehouse.gov/invest/) in federal investments for
+billion](https://bidenwhitehouse.archives.gov/invest/) in federal investments for
 over 68,000 projects across the nation, and the President has taken
 action to accelerate these projects by devoting long overdue resources
 to permitting and environmental reviews.
@@ -23,16 +23,16 @@ The Biden-Harris Administration has taken historic steps to accelerate
 and improve the federal permitting process so that Americans across the
 country can benefit from the promise of the Investing in America agenda
 – including [lowering energy
-costs](https://www.whitehouse.gov/lowering-costs/) for families and
+costs](https://bidenwhitehouse.archives.gov/lowering-costs/) for families and
 creating [hundreds of
-thousands](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-new-clean-energy-jobs/)
+thousands](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-new-clean-energy-jobs/)
 of good-paying and union jobs. The Administration has taken a
 three-prong approach. First, investing $1 billion through the Inflation
 Reduction Act funds to hire experts and invest in new technologies to
 expedite reviews. Second, passing the first reforms to modernize the
 National Environmental Policy Act (NEPA) for the first time in 50 years
 and finalizing the [Bipartisan Permitting Reform Implementation
-Rule](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
+Rule](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
 to accelerate the federal environmental review process. And third, using
 executive authorities, wherever possible, to improve permitting and
 environmental review processes.
@@ -125,7 +125,7 @@ or adopted 125 categorical exclusions for projects with insignificant
 environmental impact in key sectors such as EV charging, broadband,
 semiconductor manufacturing, clean energy, and transmission. This
 includes new categorical exclusions adopted using [new permitting
-efficiencies](https://www.whitehouse.gov/ceq/news-updates/2023/09/19/biden-harris-administration-announces-first-actions-under-new-permitting-efficiencies-to-accelerate-american-manufacturing-and-clean-energy-future/)
+efficiencies](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/09/19/biden-harris-administration-announces-first-actions-under-new-permitting-efficiencies-to-accelerate-american-manufacturing-and-clean-energy-future/)
 passed by Congress in the Fiscal Responsibility Act.  
 
 Federal agencies are using categorical exclusions to review the vast
@@ -185,7 +185,7 @@ fixing older, leak-prone natural gas pipelines.
 **Modernizing NEPA Technology:** Last month CEQ released new
 recommendations for using technology to modernize environmental reviews.
 In a [new
-report](https://www.whitehouse.gov/ceq/news-updates/2024/07/17/ceq-releases-recommendations-on-digital-tools-to-modernize-environmental-reviews-increase-transparency-and-accessibility-of-federal-permitting/)
+report](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/07/17/ceq-releases-recommendations-on-digital-tools-to-modernize-environmental-reviews-increase-transparency-and-accessibility-of-federal-permitting/)
 to Congress CEQ evaluates permitting processes, include an analysis of
 16 different agency technology tools and initiatives being advanced to
 improve the environmental review and permitting process.

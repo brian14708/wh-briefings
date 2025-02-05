@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-10 00:06:46-04:00
 published_time: 2022-06-09 00:04:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/readout-of-vice-president-harriss-meeting-with-president-chaves-of-costa-rica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/readout-of-vice-president-harriss-meeting-with-president-chaves-of-costa-rica/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Chaves of Costa\_\
   Rica"

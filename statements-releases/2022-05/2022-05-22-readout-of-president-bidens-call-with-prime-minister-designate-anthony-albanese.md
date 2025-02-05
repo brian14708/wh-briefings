@@ -1,7 +1,7 @@
 ---
 date: '2022-05-22'
 published_time: 2022-05-22 05:09:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/22/readout-of-president-bidens-call-with-prime-minister-designate-anthony-albanese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/22/readout-of-president-bidens-call-with-prime-minister-designate-anthony-albanese/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister-Designate Anthony\_\
   Albanese"

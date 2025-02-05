@@ -2,7 +2,7 @@
 date: '2022-11-30'
 modified_time: 2022-11-30 13:30:42-05:00
 published_time: 2022-11-30 13:30:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/30/statement-from-president-joe-biden-on-house-action-to-avert-rail-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/30/statement-from-president-joe-biden-on-house-action-to-avert-rail-shutdown/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on House Action to Avert Rail\_Shutdown"
 ---

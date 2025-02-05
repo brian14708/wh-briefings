@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-09'
 modified_time: 2022-03-09 21:34:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/09/readout-of-joseph-r-biden-jr-s-call-with-president-elect-yoon-suk-yeol-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/09/readout-of-joseph-r-biden-jr-s-call-with-president-elect-yoon-suk-yeol-of-the-republic-of-korea/
 published_time: 2022-03-09 21:34:49-05:00
 title: "Readout of Joseph R. Biden, Jr.\u2019s Call with President-Elect Yoon Suk-yeol\
   \ of the Republic of\_Korea"

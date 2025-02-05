@@ -2,7 +2,7 @@
 date: '2023-01-03'
 modified_time: 2023-01-03 20:40:16-05:00
 published_time: 2023-01-03 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/03/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/03/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-kishida-of-japan/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Prime Minister Kishida of\_Japan"

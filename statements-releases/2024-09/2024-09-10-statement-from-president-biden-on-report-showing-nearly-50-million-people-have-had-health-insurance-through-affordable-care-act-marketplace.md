@@ -2,7 +2,7 @@
 date: '2024-09-10'
 modified_time: 2024-09-09 21:35:03-04:00
 published_time: 2024-09-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/10/statement-from-president-biden-on-report-showing-nearly-50-million-people-have-had-health-insurance-through-affordable-care-act-marketplace/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/10/statement-from-president-biden-on-report-showing-nearly-50-million-people-have-had-health-insurance-through-affordable-care-act-marketplace/
 tags: statements-releases
 title: "Statement from President\_Biden on Report Showing Nearly 50 Million People\
   \ Have Had Health Insurance through Affordable Care Act\_Marketplace"

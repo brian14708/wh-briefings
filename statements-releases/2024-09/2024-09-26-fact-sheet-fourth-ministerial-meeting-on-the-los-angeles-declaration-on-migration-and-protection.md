@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-27 22:22:53-04:00
 published_time: 2024-09-26 14:00:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection/
 tags: statements-releases
 title: "Fact sheet: Fourth Ministerial Meeting on the Los Angeles Declaration on Migration\
   \ and\_Protection"
@@ -43,7 +43,7 @@ challenge.
 The United States also announced **expanded enforcement partnerships**
 to deter irregular migration, including a [removal pilot program with
 the Government of
-Panama](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/01/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-agreement-with-panama-to-address-irregular-migration-jointly/)
+Panama](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/01/statement-from-nsc-spokesperson-adrienne-watson-welcoming-the-agreement-with-panama-to-address-irregular-migration-jointly/)
 and [new visa
 restrictions](https://www.state.gov/visa-restrictions-on-executives-of-travel-companies-who-facilitate-irregular-migration-to-the-united-states/)
 against travel agencies and tour operators that prey on vulnerable
@@ -67,7 +67,7 @@ initiatives:
 **Strengthening Humane Enforcement**
 
 -   On June 4, 2024, President Biden announced [executive
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/04/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/)s
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/04/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/)s
     to bar migrants who cross the U.S. Southern border unlawfully from
     receiving asylum during times when high levels of encounters exceed
     our ability to deliver timely consequences.  Since June 4,

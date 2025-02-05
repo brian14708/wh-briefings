@@ -1,7 +1,7 @@
 ---
 date: '2022-07-11'
 published_time: 2022-07-11 20:22:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/remarks-by-president-biden-and-vice-president-harris-in-a-briefing-to-preview-the-first-images-from-the-james-webb-space-telescope/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/remarks-by-president-biden-and-vice-president-harris-in-a-briefing-to-preview-the-first-images-from-the-james-webb-space-telescope/
 tags: statements-releases
 title: "Remarks by President\_Biden and Vice President Harris in a Briefing to Preview\
   \ the First Images from the James Webb Space\_Telescope"

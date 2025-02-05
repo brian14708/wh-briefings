@@ -1,7 +1,7 @@
 ---
 date: '2024-10-20'
 published_time: 2024-10-20 18:15:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/20/statement-from-president-joe-biden-congratulating-indonesian-president-prabowo-on-his-inauguration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/20/statement-from-president-joe-biden-congratulating-indonesian-president-prabowo-on-his-inauguration/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Congratulating Indonesian President Prabowo\
   \ on his\_Inauguration"

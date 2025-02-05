@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-10 23:20:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/the-american-rescue-plan-people-difference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/11/the-american-rescue-plan-people-difference/
 published_time: 2022-03-11 05:00:00-05:00
 title: "The American Rescue Plan People\_Difference"
 ---

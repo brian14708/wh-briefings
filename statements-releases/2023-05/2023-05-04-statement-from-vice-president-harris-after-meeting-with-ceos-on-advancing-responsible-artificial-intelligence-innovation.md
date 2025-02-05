@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 13:17:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/statement-from-vice-president-harris-after-meeting-with-ceos-on-advancing-responsible-artificial-intelligence-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/statement-from-vice-president-harris-after-meeting-with-ceos-on-advancing-responsible-artificial-intelligence-innovation/
 tags: statements-releases
 title: "Statement from Vice President Harris After Meeting with CEOs on Advancing\
   \ Responsible Artificial Intelligence\_Innovation"

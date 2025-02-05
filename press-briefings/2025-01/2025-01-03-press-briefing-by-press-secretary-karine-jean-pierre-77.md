@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 16:59:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2025/01/03/press-briefing-by-press-secretary-karine-jean-pierre-77/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2025/01/03/press-briefing-by-press-secretary-karine-jean-pierre-77/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

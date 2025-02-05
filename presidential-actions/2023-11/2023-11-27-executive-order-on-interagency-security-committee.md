@@ -1,7 +1,7 @@
 ---
 date: '2023-11-27'
 published_time: 2023-11-27 10:18:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/27/executive-order-on-interagency-security-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/27/executive-order-on-interagency-security-committee/
 tags: presidential-actions
 title: "Executive Order on Interagency Security\_Committee"
 ---

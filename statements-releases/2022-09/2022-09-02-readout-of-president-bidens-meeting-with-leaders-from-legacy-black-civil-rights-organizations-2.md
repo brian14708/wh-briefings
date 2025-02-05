@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 20:45:45-04:00
 published_time: 2022-09-02 21:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/readout-of-president-bidens-meeting-with-leaders-from-legacy-black-civil-rights-organizations-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/readout-of-president-bidens-meeting-with-leaders-from-legacy-black-civil-rights-organizations-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting With Leaders from Legacy Black\
   \ Civil Rights\_Organizations"

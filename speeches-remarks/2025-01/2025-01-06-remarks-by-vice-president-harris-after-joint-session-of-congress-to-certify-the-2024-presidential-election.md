@@ -1,7 +1,7 @@
 ---
 date: '2025-01-06'
 published_time: 2025-01-06 15:53:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/06/remarks-by-vice-president-harris-after-joint-session-of-congress-to-certify-the-2024-presidential-election/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/06/remarks-by-vice-president-harris-after-joint-session-of-congress-to-certify-the-2024-presidential-election/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris After Joint Session of Congress to Certify\
   \ the 2024 Presidential\_Election"

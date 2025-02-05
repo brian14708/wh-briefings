@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-06 11:20:51-04:00
 published_time: 2023-04-06 11:20:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-in-moderated-conversation-following-her-historic-trip-to-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-in-moderated-conversation-following-her-historic-trip-to-africa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Moderated Conversation Following Her Historic\
   \ Trip to\_Africa"

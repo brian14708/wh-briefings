@@ -1,7 +1,7 @@
 ---
 date: '2023-12-18'
 published_time: 2023-12-18 10:54:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/18/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/18/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to Serious Human Rights Abuse and\_Corruption"

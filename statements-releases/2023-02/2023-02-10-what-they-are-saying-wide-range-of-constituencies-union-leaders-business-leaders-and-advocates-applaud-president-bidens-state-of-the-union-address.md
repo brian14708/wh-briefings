@@ -2,7 +2,7 @@
 date: '2023-02-10'
 modified_time: 2023-02-11 15:16:19-05:00
 published_time: 2023-02-10 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/what-they-are-saying-wide-range-of-constituencies-union-leaders-business-leaders-and-advocates-applaud-president-bidens-state-of-the-union-address/
 tags: statements-releases
 title: "Wide Range of Constituencies Union Leaders, Business Leaders, and Advocates\
   \ Applaud President\_Biden\u2019s State of the Union\_Address"

@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 17:13:16-04:00
 published_time: 2022-06-29 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/29/president-biden-names-twentieth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/29/president-biden-names-twentieth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Twentieth Round of Judicial\_Nominees"
 ---

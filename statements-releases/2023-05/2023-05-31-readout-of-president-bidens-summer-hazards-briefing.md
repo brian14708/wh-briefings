@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 20:26:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/readout-of-president-bidens-summer-hazards-briefing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/readout-of-president-bidens-summer-hazards-briefing/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Summer Hazards\_Briefing"
 ---

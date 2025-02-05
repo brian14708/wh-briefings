@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-09 20:22:39-04:00
 published_time: 2024-07-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-the-2024-nato-summit-in-washington/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/fact-sheet-the-2024-nato-summit-in-washington/
 tags: statements-releases
 title: "FACT SHEET: The 2024 NATO Summit in\_Washington"
 ---

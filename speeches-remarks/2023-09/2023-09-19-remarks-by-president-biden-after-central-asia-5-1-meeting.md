@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 published_time: 2023-09-19 16:50:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-after-central-asia-5-1-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-after-central-asia-5-1-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Central Asia 5 + 1\_Meeting"
 ---

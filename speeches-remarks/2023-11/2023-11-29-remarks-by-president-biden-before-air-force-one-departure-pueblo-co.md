@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-29 18:52:49-05:00
 published_time: 2023-11-29 18:52:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-president-biden-before-air-force-one-departure-pueblo-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/29/remarks-by-president-biden-before-air-force-one-departure-pueblo-co/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Pueblo,\_CO"
 ---

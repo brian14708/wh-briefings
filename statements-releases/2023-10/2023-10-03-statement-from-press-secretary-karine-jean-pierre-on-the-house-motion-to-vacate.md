@@ -1,7 +1,7 @@
 ---
 date: '2023-10-03'
 published_time: 2023-10-03 18:15:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/statement-from-press-secretary-karine-jean-pierre-on-the-house-motion-to-vacate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/statement-from-press-secretary-karine-jean-pierre-on-the-house-motion-to-vacate/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the House Motion to\_\
   Vacate"

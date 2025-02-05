@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 18:01:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/excerpts-from-remarks-as-prepared-for-delivery-by-president-biden-on-averting-default-and-the-bipartisan-budget-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/excerpts-from-remarks-as-prepared-for-delivery-by-president-biden-on-averting-default-and-the-bipartisan-budget-agreement/
 tags: statements-releases
 title: "Excerpts from Remarks as Prepared for Delivery by President\_Biden on Averting\
   \ Default and the Bipartisan Budget\_Agreement"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-29'
 published_time: 2023-12-29 17:35:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/29/a-proclamation-on-national-stalking-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/29/a-proclamation-on-national-stalking-awareness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Stalking Awareness Month,\_2024"
 ---

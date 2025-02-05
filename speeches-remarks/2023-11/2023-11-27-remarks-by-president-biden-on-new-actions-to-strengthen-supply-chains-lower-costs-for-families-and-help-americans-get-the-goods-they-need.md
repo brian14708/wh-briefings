@@ -1,7 +1,7 @@
 ---
 date: '2023-11-27'
 published_time: 2023-11-27 17:26:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/27/remarks-by-president-biden-on-new-actions-to-strengthen-supply-chains-lower-costs-for-families-and-help-americans-get-the-goods-they-need/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/27/remarks-by-president-biden-on-new-actions-to-strengthen-supply-chains-lower-costs-for-families-and-help-americans-get-the-goods-they-need/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on New Actions to Strengthen Supply Chains, Lower\
   \ Costs for Families, and Help Americans Get the Goods They\_Need"

@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 10:30:40-04:00
 published_time: 2022-04-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Strengthen America\u2019\
   s Forests, Boost Wildfire Resilience, and Combat Global\_Deforestation"
@@ -215,14 +215,14 @@ deforestation and restoring lands, including:***
 The Biden-Harris Administration has led the way on enhancing nature’s
 ability to support the health, wellbeing, and economic security of all
 Americans. President Biden launched the [America the Beautiful
-initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/fact-sheet-biden-harris-administration-celebrates-expansion-of-locally-led-conservation-efforts-in-first-year-of-america-the-beautiful-initiative/)
+initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/20/fact-sheet-biden-harris-administration-celebrates-expansion-of-locally-led-conservation-efforts-in-first-year-of-america-the-beautiful-initiative/)
 to support his goal of conserving at least 30 percent of U.S. lands and
 waters by 2030. Interagency Working Groups reporting to the [National
-Climate Task Force](https://www.whitehouse.gov/climate/) are exploring
+Climate Task Force](https://bidenwhitehouse.archives.gov/climate/) are exploring
 nature-based solutions to address extreme heat, drought, wildfire,
 flood, and coastal threats. The Administration is also recognizing the
 value of and elevating [Indigenous Traditional Ecological
-Knowledge](https://www.whitehouse.gov/ostp/news-updates/2021/11/15/white-house-commits-to-elevating-indigenous-knowledge-in-federal-policy-decisions/)
+Knowledge](https://bidenwhitehouse.archives.gov/ostp/news-updates/2021/11/15/white-house-commits-to-elevating-indigenous-knowledge-in-federal-policy-decisions/)
 across federal scientific and policy processes. The President’s
 Bipartisan Infrastructure Law provides—as part of over $50 billion in
 historic resilience investments—funding for nature-based solutions,
@@ -247,7 +247,7 @@ today’s Executive Order calls for the following:
 
 -   **Report on Nature-Based Solutions:** As reaffirmed this year by the
     [Intergovernmental Panel on Climate
-    Change](https://www.whitehouse.gov/ostp/news-updates/2022/02/28/statements-from-the-white-house-office-on-science-and-technology-policy-ostp-on-the-intergovernmental-panel-on-climate-changes-working-group-ii-report/),
+    Change](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/02/28/statements-from-the-white-house-office-on-science-and-technology-policy-ostp-on-the-intergovernmental-panel-on-climate-changes-working-group-ii-report/),
     nature-based solutions will play a key role in achieving net-zero
     emissions and building resilience to climate impacts. Building on
     ongoing efforts, the White House Council on Environmental Quality,

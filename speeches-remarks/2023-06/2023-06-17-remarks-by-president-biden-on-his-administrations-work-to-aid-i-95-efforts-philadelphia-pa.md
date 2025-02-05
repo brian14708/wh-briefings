@@ -1,7 +1,7 @@
 ---
 date: '2023-06-17'
 published_time: 2023-06-17 17:05:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/17/remarks-by-president-biden-on-his-administrations-work-to-aid-i-95-efforts-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/17/remarks-by-president-biden-on-his-administrations-work-to-aid-i-95-efforts-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Administration\u2019s Work to Aid I-95\
   \ Efforts | Philadelphia,\_PA"

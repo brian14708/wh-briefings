@@ -2,7 +2,7 @@
 date: '2024-04-04'
 modified_time: 2024-04-04 12:00:23-04:00
 published_time: 2024-04-04 12:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/fact-sheet-extreme-house-republican-plan-would-cut-medicare-and-social-security-while-slashing-taxes-for-big-corporations-and-the-wealthy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/fact-sheet-extreme-house-republican-plan-would-cut-medicare-and-social-security-while-slashing-taxes-for-big-corporations-and-the-wealthy/
 tags: statements-releases
 title: "FACT SHEET: Extreme House Republican Plan Would Cut Medicare and Social Security\
   \ While Slashing Taxes for Big Corporations and the\_Wealthy"
@@ -23,7 +23,7 @@ their entire working lives.
 Less than two weeks later, the Republican Study Committee—which speaks
 for 80% of House Republicans and 100% of their leadership—released an
 extreme budget that takes direct aim at [Medicare and Social
-Security](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/).
+Security](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/).
 Their plan:
 
 -   Calls for over **$1.5 trillion in cuts to Social Security**,

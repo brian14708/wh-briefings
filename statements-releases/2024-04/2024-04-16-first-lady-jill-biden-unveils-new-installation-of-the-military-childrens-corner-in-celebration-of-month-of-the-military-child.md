@@ -2,7 +2,7 @@
 date: '2024-04-16'
 modified_time: 2024-04-16 12:41:18-04:00
 published_time: 2024-04-16 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/first-lady-jill-biden-unveils-new-installation-of-the-military-childrens-corner-in-celebration-of-month-of-the-military-child/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/first-lady-jill-biden-unveils-new-installation-of-the-military-childrens-corner-in-celebration-of-month-of-the-military-child/
 tags: statements-releases
 title: "First Lady Jill\_Biden Unveils New Installation of The Military Children\u2019\
   s Corner in Celebration of Month of the Military\_Child"
@@ -29,7 +29,7 @@ and continue giving military children the recognition, support, and
 opportunities they deserve.”
 
 Unveiled in September 2023, *[The Military
-Children’s Corner ](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/first-lady-jill-biden-announces-new-white-house-art-display-dedicated-to-military-children/)*is
+Children’s Corner ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/first-lady-jill-biden-announces-new-white-house-art-display-dedicated-to-military-children/)*is
 part of Dr. Biden’s [*Joining
 Forces*](http://whitehouse.gov/joiningforces) initiative to support
 military and veteran families, caregivers, and survivors. This is a

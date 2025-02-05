@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 10:13:20-05:00
 published_time: 2024-12-19 10:13:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-biden-harris-administration-marks-progress-strengthening-americas-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-biden-harris-administration-marks-progress-strengthening-americas-supply-chains/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Marks Progress Strengthening\
   \ America\u2019s Supply\_Chains"
@@ -36,7 +36,7 @@ decoding="async" />
 
 Today, the Biden-Harris Administration is releasing the first-ever
 [Quadrennial Supply Chain
-Review](https://www.whitehouse.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf),
+Review](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf),
 a formal assessment of four years of strengthening America’s critical
 supply chains, and announcing additional actions to support American
 businesses and consumers.
@@ -44,7 +44,7 @@ businesses and consumers.
 **<u>Progress to Date</u>**
 
 The [Quadrennial Supply Chain
-Review](https://www.whitehouse.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf)
+Review](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/20212024-Quadrennial-Supply-Chain-Review.pdf)
 assesses the progress made over the past four years to bolster the
 resilience of our most critical supply chains. This strategic approach
 has included:
@@ -92,15 +92,15 @@ has included:
 The Review builds on comprehensive efforts undertaken by the
 Administration over the last four years, including President Biden’s
 2021 [Executive Order on America’s Supply
-Chains](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
+Chains](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
 (E.O. 14017), which directed [rapid supply chain
-assessments](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
+assessments](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
 for four critical products in the first 100 days of the Administration,
 a [one-year
-review](https://www.whitehouse.gov/wp-content/uploads/2022/02/Capstone-Report-Biden.pdf)
+review](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Capstone-Report-Biden.pdf)
 of six key supply chains in 2022, and the [establishment of the White
 House Council on Supply Chain
-Resilience](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
+Resilience](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
 to support the enduring resilience of America’s critical supply chains
 in 2023.
 
@@ -391,7 +391,7 @@ information and communications technology, transportation, and defense.
     supply chains.
 -   **Eradicating forced labor from supply chains.** As part of the
     [Partnership for Workers’
-    Rights](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-continuing-a-legacy-of-leadership-at-the-g20/)
+    Rights](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-continuing-a-legacy-of-leadership-at-the-g20/)
     launched in 2023, the U.S. and Brazil worked with businesses and
     unions to address worker vulnerability to forced labor in supply
     chains for cattle, coffee, gold, charcoal, and other goods.
@@ -400,7 +400,7 @@ information and communications technology, transportation, and defense.
     strategic, values-driven, and high-standard infrastructure and
     investment in low- and middle-income countries. Through initiatives
     like the [Lobito Trans-Africa
-    Corridor](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
+    Corridor](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
     highlighted on the President’s recent visit to Angola, the United
     States is working with partners to strengthen and diversify supply
     chains.

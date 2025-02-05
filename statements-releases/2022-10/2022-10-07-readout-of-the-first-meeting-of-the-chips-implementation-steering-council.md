@@ -2,7 +2,7 @@
 date: '2022-10-07'
 modified_time: 2022-10-07 14:07:59-04:00
 published_time: 2022-10-07 12:24:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/readout-of-the-first-meeting-of-the-chips-implementation-steering-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/readout-of-the-first-meeting-of-the-chips-implementation-steering-council/
 tags: statements-releases
 title: "Readout of the First Meeting of the CHIPS Implementation Steering\_Council"
 ---

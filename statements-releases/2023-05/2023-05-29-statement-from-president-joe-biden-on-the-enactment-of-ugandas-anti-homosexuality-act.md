@@ -1,7 +1,7 @@
 ---
 date: '2023-05-29'
 published_time: 2023-05-29 12:46:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-on-the-enactment-of-ugandas-anti-homosexuality-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-on-the-enactment-of-ugandas-anti-homosexuality-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Enactment of Uganda\u2019s Anti-Homosexuality\_\
   Act"

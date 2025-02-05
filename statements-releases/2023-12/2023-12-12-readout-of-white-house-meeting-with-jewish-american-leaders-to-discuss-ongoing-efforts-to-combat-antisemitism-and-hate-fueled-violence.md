@@ -1,7 +1,7 @@
 ---
 date: '2023-12-12'
 published_time: 2023-12-12 22:34:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/readout-of-white-house-meeting-with-jewish-american-leaders-to-discuss-ongoing-efforts-to-combat-antisemitism-and-hate-fueled-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/12/readout-of-white-house-meeting-with-jewish-american-leaders-to-discuss-ongoing-efforts-to-combat-antisemitism-and-hate-fueled-violence/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Jewish American Leaders to Discuss Ongoing\
   \ Efforts to Combat Antisemitism and Hate-Fueled\_Violence"

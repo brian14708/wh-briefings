@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 12:36:18-05:00
 published_time: 2022-11-15 12:36:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/united-states-australia-japan-joint-statement-on-cooperation-on-telecommunications-financing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/united-states-australia-japan-joint-statement-on-cooperation-on-telecommunications-financing/
 tags: statements-releases
 title: "United\_States-Australia-Japan Joint Statement on Cooperation on Telecommunications\_\
   Financing"

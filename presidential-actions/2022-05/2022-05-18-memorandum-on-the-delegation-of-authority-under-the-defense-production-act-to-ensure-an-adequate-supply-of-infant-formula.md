@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 18:42:49-04:00
 published_time: 2022-05-18 18:36:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/18/memorandum-on-the-delegation-of-authority-under-the-defense-production-act-to-ensure-an-adequate-supply-of-infant-formula/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/18/memorandum-on-the-delegation-of-authority-under-the-defense-production-act-to-ensure-an-adequate-supply-of-infant-formula/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under the Defense Production Act\
   \ to Ensure an Adequate Supply of Infant\_Formula"

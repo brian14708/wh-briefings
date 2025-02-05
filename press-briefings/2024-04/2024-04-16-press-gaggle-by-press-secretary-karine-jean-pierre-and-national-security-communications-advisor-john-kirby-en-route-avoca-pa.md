@@ -2,7 +2,7 @@
 date: '2024-04-16'
 modified_time: 2024-04-16 15:12:53-04:00
 published_time: 2024-04-16 15:12:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/16/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-avoca-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/16/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-avoca-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Communications\
   \ Advisor John Kirby En Route Avoca,\_PA"

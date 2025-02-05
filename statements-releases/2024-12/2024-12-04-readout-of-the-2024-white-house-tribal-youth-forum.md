@@ -1,7 +1,7 @@
 ---
 date: '2024-12-04'
 published_time: 2024-12-04 15:52:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/04/readout-of-the-2024-white-house-tribal-youth-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/04/readout-of-the-2024-white-house-tribal-youth-forum/
 tags: statements-releases
 title: "Readout of the 2024 White\_House Tribal Youth\_Forum"
 ---

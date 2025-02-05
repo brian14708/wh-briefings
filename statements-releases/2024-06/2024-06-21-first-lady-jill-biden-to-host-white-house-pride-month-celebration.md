@@ -1,7 +1,7 @@
 ---
 date: '2024-06-21'
 published_time: 2024-06-21 14:55:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/21/first-lady-jill-biden-to-host-white-house-pride-month-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/21/first-lady-jill-biden-to-host-white-house-pride-month-celebration/
 tags: statements-releases
 title: "First Lady Jill\_Biden to Host White\_House Pride Month\_Celebration"
 ---

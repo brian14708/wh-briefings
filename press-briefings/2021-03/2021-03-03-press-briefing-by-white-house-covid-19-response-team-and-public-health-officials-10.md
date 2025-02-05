@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-03-03'
 modified_time: 2021-03-03 14:02:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/03/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-10/
 published_time: 2021-03-03 14:02:52-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -524,4 +524,4 @@ Talk to you Friday.
                          END                 11:33 A.M. EST
 
 To view the COVID Press Briefing slides, visit
-<https://www.whitehouse.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_3March2021_for-transcript.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_3March2021_for-transcript.pdf>

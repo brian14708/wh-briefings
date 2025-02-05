@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 15:09:56-04:00
 published_time: 2023-03-29 15:09:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-vice-president-harris-at-roundtable-discussion-with-women-entrepreneurs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-vice-president-harris-at-roundtable-discussion-with-women-entrepreneurs/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Roundtable Discussion with Women\_Entrepreneurs"
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-28'
 modified_time: 2024-08-28 00:41:36-04:00
 published_time: 2024-08-28 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/28/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-in-erie-pennsylvania-on-biden-harris-administration-investments-driving-expansion-of-american-energy-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/28/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-in-erie-pennsylvania-on-biden-harris-administration-investments-driving-expansion-of-american-energy-jobs/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by National Climate Advisor Ali Zaidi in\
   \ Erie, Pennsylvania, on Biden-\u2060Harris Administration Investments Driving Expansion\

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 21:27:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-dc-newsbash/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-dc-newsbash/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the DC\_NewsBash"
 ---

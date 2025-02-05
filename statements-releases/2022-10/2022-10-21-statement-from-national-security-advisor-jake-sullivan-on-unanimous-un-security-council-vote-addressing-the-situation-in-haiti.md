@@ -2,7 +2,7 @@
 date: '2022-10-21'
 modified_time: 2022-10-21 14:33:13-04:00
 published_time: 2022-10-21 14:33:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/statement-from-national-security-advisor-jake-sullivan-on-unanimous-un-security-council-vote-addressing-the-situation-in-haiti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/statement-from-national-security-advisor-jake-sullivan-on-unanimous-un-security-council-vote-addressing-the-situation-in-haiti/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Unanimous UN Security\
   \ Council Vote Addressing the Situation in\_Haiti"

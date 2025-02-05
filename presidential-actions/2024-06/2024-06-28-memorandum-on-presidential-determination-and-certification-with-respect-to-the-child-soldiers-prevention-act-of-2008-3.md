@@ -2,7 +2,7 @@
 date: '2024-06-28'
 modified_time: 2024-06-28 13:40:58-04:00
 published_time: 2024-06-28 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/28/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/28/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-3/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination and Certification with Respect to\
   \ the Child Soldiers Prevention Act of\_2008"

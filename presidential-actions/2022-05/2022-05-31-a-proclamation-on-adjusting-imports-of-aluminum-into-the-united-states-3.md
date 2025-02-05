@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 15:50:25-04:00
 published_time: 2022-05-31 15:50:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/31/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-3/
 tags: presidential-actions
 title: "A Proclamation on\_Adjusting Imports of Aluminum Into the United\_States"
 ---

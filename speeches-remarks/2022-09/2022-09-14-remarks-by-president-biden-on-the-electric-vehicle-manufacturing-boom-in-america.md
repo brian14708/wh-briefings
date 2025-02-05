@@ -1,7 +1,7 @@
 ---
 date: '2022-09-14'
 published_time: 2022-09-14 18:57:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/14/remarks-by-president-biden-on-the-electric-vehicle-manufacturing-boom-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/14/remarks-by-president-biden-on-the-electric-vehicle-manufacturing-boom-in-america/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Electric Vehicle Manufacturing Boom in\_\
   America"

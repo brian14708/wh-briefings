@@ -2,7 +2,7 @@
 date: '2022-08-30'
 modified_time: 2022-08-30 21:36:55-04:00
 published_time: 2022-08-30 21:36:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/30/press-briefing-by-white-house-monkeypox-response-team-and-public-health-officials-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/30/press-briefing-by-white-house-monkeypox-response-team-and-public-health-officials-4/
 tags: press-briefings
 title: "Press Briefing by White\_House Monkeypox Response Team and Public Health\_\
   Officials"

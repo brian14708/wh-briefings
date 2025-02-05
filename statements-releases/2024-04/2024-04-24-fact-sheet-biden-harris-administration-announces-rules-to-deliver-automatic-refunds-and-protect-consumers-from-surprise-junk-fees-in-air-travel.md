@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-24 11:45:12-04:00
 published_time: 2024-04-24 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-announces-rules-to-deliver-automatic-refunds-and-protect-consumers-from-surprise-junk-fees-in-air-travel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-announces-rules-to-deliver-automatic-refunds-and-protect-consumers-from-surprise-junk-fees-in-air-travel/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Rules to Deliver Automatic\
   \ Refunds and Protect Consumers from Surprise Junk Fees in Air\_Travel"
@@ -25,7 +25,7 @@ every year in hidden and surprise junk fees.
 The rules are part of the Biden-Harris Administration’s work to lower
 costs for consumers and take on corporate rip-offs. President Biden
 signed an [Executive Order on Promoting
-Competition](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
+Competition](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
 in 2021 that encouraged DOT to take steps to promote fairer, more
 transparent, and competitive markets.  
    

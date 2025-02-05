@@ -2,7 +2,7 @@
 date: '2022-06-14'
 modified_time: 2022-06-14 12:57:15-04:00
 published_time: 2022-06-14 11:12:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/14/background-press-call-by-a-senior-administration-official-on-the-presidents-trip-to-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/14/background-press-call-by-a-senior-administration-official-on-the-presidents-trip-to-the-middle-east/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on the President\u2019\
   s Trip to The Middle\_East"

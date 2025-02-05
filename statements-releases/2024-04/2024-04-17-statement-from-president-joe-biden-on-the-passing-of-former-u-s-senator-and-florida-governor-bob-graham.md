@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-17 12:37:13-04:00
 published_time: 2024-04-17 12:37:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-and-florida-governor-bob-graham/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-and-florida-governor-bob-graham/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former U.S. Senator\
   \ and Florida Governor Bob\_Graham"

@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 14:18:12-04:00
 published_time: 2022-08-25 14:20:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-9/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

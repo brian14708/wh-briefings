@@ -2,7 +2,7 @@
 date: '2023-04-19'
 modified_time: 2023-04-19 12:18:05-04:00
 published_time: 2023-04-19 12:18:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/19/excerpt-from-president-joe-bidens-remarks-as-prepared-for-delivery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/19/excerpt-from-president-joe-bidens-remarks-as-prepared-for-delivery/
 tags: speeches-remarks
 title: "Excerpt from President Joe\_Biden\u2019s Remarks As Prepared for\_Delivery"
 ---

@@ -2,7 +2,7 @@
 date: '2023-08-18'
 modified_time: 2023-08-18 21:33:52-04:00
 published_time: 2023-08-18 21:33:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/18/remarks-by-president-biden-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-kishida-fumio-of-japan-in-joint-press-conference-camp-david-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/18/remarks-by-president-biden-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-kishida-fumio-of-japan-in-joint-press-conference-camp-david-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, President Yoon Suk Yeol of the Republic of Korea,\
   \ and Prime Minister Kishida Fumio of Japan in Joint Press Conference | Camp David,\_\

@@ -2,7 +2,7 @@
 date: '2022-09-07'
 modified_time: 2022-09-07 18:26:30-04:00
 published_time: 2022-09-07 18:26:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/07/remarks-by-president-biden-first-lady-biden-former-president-obama-and-former-first-lady-obama-at-the-unveiling-of-official-obama-white-house-portraits/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/07/remarks-by-president-biden-first-lady-biden-former-president-obama-and-former-first-lady-obama-at-the-unveiling-of-official-obama-white-house-portraits/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, First Lady Biden, Former President Obama, and\
   \ Former First Lady Obama at the Unveiling of Official Obama White\_House\_Portraits"

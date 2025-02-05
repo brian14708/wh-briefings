@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-28 06:49:49-04:00
 published_time: 2022-07-28 06:49:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-anne-neubergers-travel-to-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-anne-neubergers-travel-to-the-republic-of-korea/
 tags: statements-releases
 title: "Statement by NSC Spokesperson\_Adrienne Watson\_on Deputy National Security\
   \ Advisor Anne Neuberger\u2019s Travel to the Republic of\_Korea"

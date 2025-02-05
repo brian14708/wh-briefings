@@ -2,7 +2,7 @@
 date: '2024-08-21'
 modified_time: 2024-08-21 23:46:01-04:00
 published_time: 2024-08-21 23:46:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/21/statement-from-president-joe-biden-on-the-passing-of-representative-bill-pascrell/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/21/statement-from-president-joe-biden-on-the-passing-of-representative-bill-pascrell/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Representative Bill\_\
   Pascrell"

@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-12 12:40:53-04:00
 published_time: 2022-04-11 06:40:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/11/press-briefing-by-press-secretary-jen-psaki-april-11-2022-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/11/press-briefing-by-press-secretary-jen-psaki-april-11-2022-2/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Jen\_Psaki, April 11,\_2022"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-17 21:13:54-04:00
 published_time: 2023-03-17 21:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-before-marine-one-departure-32/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-before-marine-one-departure-32/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

@@ -2,7 +2,7 @@
 tags: disclosures
 date: '2021-05-17'
 modified_time: 2021-05-19 12:06:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-financial-disclosure-reports-disclosing-their-personal-financial-interests/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/disclosures/2021/05/17/the-president-and-vice-president-release-their-financial-disclosure-reports-disclosing-their-personal-financial-interests/
 published_time: 2021-05-17 17:21:43-04:00
 title: "The President and Vice President release their financial disclosure reports\
   \ disclosing their personal financial\_interests"
@@ -19,9 +19,9 @@ independent Office of Government Ethics. Neither the President nor the
 Vice President have any conflicts of interest.
 
 View the President’s financial disclosure report
-[here](https://www.whitehouse.gov/wp-content/uploads/2021/05/Biden-Joseph-R.-2021-Annual-278.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/Biden-Joseph-R.-2021-Annual-278.pdf).
 
 View the Vice President’s financial disclosure report
-[here](https://www.whitehouse.gov/wp-content/uploads/2021/05/Harris-Kamala-D.-2021-Annual-278.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/Harris-Kamala-D.-2021-Annual-278.pdf).
 
 \###

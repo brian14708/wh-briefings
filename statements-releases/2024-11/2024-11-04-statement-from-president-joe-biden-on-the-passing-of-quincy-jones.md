@@ -2,7 +2,7 @@
 date: '2024-11-04'
 modified_time: 2024-11-04 17:14:52-05:00
 published_time: 2024-11-04 17:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/04/statement-from-president-joe-biden-on-the-passing-of-quincy-jones/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/04/statement-from-president-joe-biden-on-the-passing-of-quincy-jones/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Quincy\_Jones"
 ---

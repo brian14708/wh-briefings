@@ -1,7 +1,7 @@
 ---
 date: '2024-05-20'
 published_time: 2024-05-20 15:09:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/readout-of-national-security-advisor-jake-sullivans-meetings-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/20/readout-of-national-security-advisor-jake-sullivans-meetings-in-israel/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meetings in\_Israel"
 ---

@@ -2,7 +2,7 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 12:24:05-04:00
 published_time: 2023-10-20 12:24:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/20/a-proclamation-on-minority-enterprise-development-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/20/a-proclamation-on-minority-enterprise-development-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Minority Enterprise Development Week,\_2023"
 ---

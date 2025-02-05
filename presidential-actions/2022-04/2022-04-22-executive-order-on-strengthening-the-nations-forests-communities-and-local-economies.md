@@ -1,7 +1,7 @@
 ---
 date: '2022-04-22'
 published_time: 2022-04-22 15:34:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/
 tags: presidential-actions
 title: "Executive Order on Strengthening the Nation\u2019s Forests, Communities, and\
   \ Local\_Economies"

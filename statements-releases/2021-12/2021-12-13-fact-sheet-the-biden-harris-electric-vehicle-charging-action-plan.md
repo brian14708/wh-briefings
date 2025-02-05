@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-13'
 modified_time: 2021-12-12 21:35:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/
 published_time: 2021-12-13 07:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Electric Vehicle Charging Action\_Plan"
 ---
@@ -12,7 +12,7 @@ Bipartisan Infrastructure Law Investments*
 
 President Biden has united automakers and autoworkers to drive American
 leadership forward on clean cars, and he set an [ambitious
-target](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+target](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
 of 50% of electric vehicle (EV) sale shares in the U.S. by 2030. Now,
 the Bipartisan Infrastructure Law will supercharge America’s efforts to
 lead the electric future, Building a Better America where we can
@@ -46,7 +46,7 @@ on the path to a convenient and equitable network of 500,000 chargers
 and make EVs accessible to all Americas for both local and long-distance
 trips. The Bipartisan Infrastructure Law includes **$5 billion** in
 formula funding for
-[states](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/white-house-releases-state-fact-sheets-highlighting-the-impact-of-the-infrastructure-investment-and-jobs-act-nationwide/)
+[states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/04/white-house-releases-state-fact-sheets-highlighting-the-impact-of-the-infrastructure-investment-and-jobs-act-nationwide/)
 with a goal to build a national charging network. 10% is set-aside each
 year for the Secretary to provide grants to States to help fill gaps in
 the network. The Law also provides **$2.5 billion** for communities and
@@ -163,7 +163,7 @@ environmentally responsible domestic sourcing and recycling of critical
 minerals.  
   
 In June, the Biden-Harris Administration released [100-day
-reviews](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf?utm_source=sfmc%E2%80%8B&utm_medium=email%E2%80%8B&utm_campaign=20210610_Global_Manufacturing_Economic_Update_June_Members)
+reviews](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf?utm_source=sfmc%E2%80%8B&utm_medium=email%E2%80%8B&utm_campaign=20210610_Global_Manufacturing_Economic_Update_June_Members)
 of the supply chains of four critical products, including high-capacity
 batteries and critical minerals and materials. The reviews made dozens
 of recommendations across Federal agencies securing a reliable and

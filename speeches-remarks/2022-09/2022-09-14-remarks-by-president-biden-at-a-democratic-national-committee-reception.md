@@ -1,7 +1,7 @@
 ---
 date: '2022-09-14'
 published_time: 2022-09-14 19:13:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/14/remarks-by-president-biden-at-a-democratic-national-committee-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/14/remarks-by-president-biden-at-a-democratic-national-committee-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee\_Reception"
 ---

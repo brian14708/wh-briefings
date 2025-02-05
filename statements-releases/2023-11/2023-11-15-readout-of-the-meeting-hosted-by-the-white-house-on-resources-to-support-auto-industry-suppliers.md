@@ -1,7 +1,7 @@
 ---
 date: '2023-11-15'
 published_time: 2023-11-15 14:22:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/15/readout-of-the-meeting-hosted-by-the-white-house-on-resources-to-support-auto-industry-suppliers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/readout-of-the-meeting-hosted-by-the-white-house-on-resources-to-support-auto-industry-suppliers/
 tags: statements-releases
 title: "Readout of the Meeting Hosted by the White\_House on Resources to Support\
   \ Auto Industry\_Suppliers"
@@ -36,7 +36,7 @@ and worker matchmaking, and technical assistance opportunities.
 Participants engaged directly with the federal resource providers and
 technical experts and asked questions about the various programs. A
 summary of these resources is available
-[here](https://www.whitehouse.gov/wp-content/uploads/2023/11/Resource-Guide-for-Auto-Suppliers.pdf).  
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Resource-Guide-for-Auto-Suppliers.pdf).  
   
 Administration officials closed the meeting by reiterating the
 President’s commitment to providing immediate and targeted relief to

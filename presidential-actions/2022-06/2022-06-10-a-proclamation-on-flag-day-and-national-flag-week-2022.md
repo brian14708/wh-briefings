@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-10 11:15:02-04:00
 published_time: 2022-06-10 11:15:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/10/a-proclamation-on-flag-day-and-national-flag-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/10/a-proclamation-on-flag-day-and-national-flag-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Flag Day And National Flag Week,\_2022"
 ---

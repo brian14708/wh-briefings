@@ -2,7 +2,7 @@
 date: '2024-03-04'
 modified_time: 2024-03-04 16:19:13-05:00
 published_time: 2024-03-04 16:19:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/04/readout-of-vice-president-harriss-meeting-with-member-of-israeli-war-cabinet-gantz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/04/readout-of-vice-president-harriss-meeting-with-member-of-israeli-war-cabinet-gantz/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Member of Israeli War\
   \ Cabinet\_Gantz"

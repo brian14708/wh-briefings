@@ -1,7 +1,7 @@
 ---
 date: '2022-11-02'
 published_time: 2022-11-02 17:48:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-president-biden-at-the-infrastructure-talent-pipeline-challenge-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-president-biden-at-the-infrastructure-talent-pipeline-challenge-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Infrastructure Talent Pipeline Challenge\_\
   Event"

@@ -2,7 +2,7 @@
 date: '2022-07-19'
 modified_time: 2022-07-19 09:16:05-04:00
 published_time: 2022-07-19 09:15:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/19/statement-by-president-biden-welcoming-important-steps-towards-eu-integration-for-albania-and-north-macedonia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/19/statement-by-president-biden-welcoming-important-steps-towards-eu-integration-for-albania-and-north-macedonia/
 tags: statements-releases
 title: "Statement by President\_Biden Welcoming\_Important Steps Towards EU Integration\_\
   for Albania and North\_Macedonia"

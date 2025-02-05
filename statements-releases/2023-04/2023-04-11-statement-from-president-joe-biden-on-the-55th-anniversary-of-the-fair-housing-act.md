@@ -2,7 +2,7 @@
 date: '2023-04-11'
 modified_time: 2023-04-12 14:43:50-04:00
 published_time: 2023-04-11 07:37:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/statement-from-president-joe-biden-on-the-55th-anniversary-of-the-fair-housing-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/statement-from-president-joe-biden-on-the-55th-anniversary-of-the-fair-housing-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 55th Anniversary of the Fair Housing\_\
   Act"

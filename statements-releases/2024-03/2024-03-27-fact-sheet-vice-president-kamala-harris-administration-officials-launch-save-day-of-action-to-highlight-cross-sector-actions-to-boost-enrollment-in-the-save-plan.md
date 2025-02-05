@@ -1,7 +1,7 @@
 ---
 date: '2024-03-27'
 published_time: 2024-03-27 09:35:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/27/fact-sheet-vice-president-kamala-harris-administration-officials-launch-save-day-of-action-to-highlight-cross-sector-actions-to-boost-enrollment-in-the-save-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/27/fact-sheet-vice-president-kamala-harris-administration-officials-launch-save-day-of-action-to-highlight-cross-sector-actions-to-boost-enrollment-in-the-save-plan/
 tags: statements-releases
 title: "FACT SHEET: Vice President Kamala\_Harris, Administration Officials Launch\
   \ \u201CSAVE Day of Action\u201D to Highlight Cross-Sector Actions to Boost Enrollment\
@@ -56,7 +56,7 @@ repayment options and a pathway toward forgiveness.
 
 Additionally, on this SAVE Day of Action, the Council of Economic
 Advisors is [releasing a new
-report](https://www.whitehouse.gov/cea/written-materials/2024/03/27/real-world-examples-of-the-benefits-of-save/)
+report](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/27/real-world-examples-of-the-benefits-of-save/)
 highlighting how the SAVE Plan will help low- and middle-income
 borrowers, those in public service, and community college graduates,
 among other borrowers. This report showcases how the SAVE Plan will
@@ -197,7 +197,7 @@ Treasury, and Veterans Affairs. Examples of commitments include:
     payments is added to this timeline, with a maximum period of 20
     years for undergraduate loans and 25 years for graduate loans. Just
     last month, the Administration
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-president-biden-cancels-student-debt-for-more-than-150000-student-loan-borrowers-ahead-of-schedule/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-president-biden-cancels-student-debt-for-more-than-150000-student-loan-borrowers-ahead-of-schedule/)
     $1.2 billion in student debt relief for almost 153,000 low-balance
     borrowers enrolled in SAVE who qualified for forgiveness.
 

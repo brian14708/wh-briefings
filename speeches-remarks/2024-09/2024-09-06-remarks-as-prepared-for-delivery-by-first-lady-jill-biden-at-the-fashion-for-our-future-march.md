@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 10:25:17-04:00
 published_time: 2024-09-06 10:25:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-fashion-for-our-future-march/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-fashion-for-our-future-march/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Fashion\
   \ For Our Future\_March"

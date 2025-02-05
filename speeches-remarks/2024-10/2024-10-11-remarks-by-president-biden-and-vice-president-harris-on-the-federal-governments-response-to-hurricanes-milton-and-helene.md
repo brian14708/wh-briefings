@@ -2,7 +2,7 @@
 date: '2024-10-11'
 modified_time: 2024-10-11 16:37:35-04:00
 published_time: 2024-10-11 16:37:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/11/remarks-by-president-biden-and-vice-president-harris-on-the-federal-governments-response-to-hurricanes-milton-and-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/11/remarks-by-president-biden-and-vice-president-harris-on-the-federal-governments-response-to-hurricanes-milton-and-helene/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris on the Federal Government\u2019\
   s Response to Hurricanes Milton and\_Helene"

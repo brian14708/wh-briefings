@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-10'
 modified_time: 2021-04-09 17:27:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/10/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-colombia-argentina-and-uruguay/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/10/statement-by-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-colombia-argentina-and-uruguay/
 published_time: 2021-04-10 16:00:00-04:00
 title: "Statement by NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to Colombia, Argentina, and\_Uruguay"

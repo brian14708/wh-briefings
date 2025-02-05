@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 14:37:47-04:00
 published_time: 2023-10-11 14:37:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-president-biden-on-new-actions-to-protect-consumers-from-hidden-junk-fees-and-put-more-money-back-in-the-pockets-of-hardworking-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-president-biden-on-new-actions-to-protect-consumers-from-hidden-junk-fees-and-put-more-money-back-in-the-pockets-of-hardworking-americans/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on New Actions to Protect Consumers from Hidden\
   \ Junk Fees and Put More Money Back in the Pockets of Hardworking\_Americans"

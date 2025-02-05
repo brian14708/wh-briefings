@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 10:39:43-04:00
 published_time: 2024-03-18 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-biden-harris-administration-takes-historic-action-to-ban-asbestos-advancing-biden-cancer-moonshot/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-biden-harris-administration-takes-historic-action-to-ban-asbestos-advancing-biden-cancer-moonshot/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Historic Action to Ban\
   \ Asbestos, Advancing Biden Cancer\_Moonshot"
@@ -27,7 +27,7 @@ cancer, colorectal cancer, and more. The EPA’s new ban prohibits ongoing
 uses of chrysotile asbestos, the only known form of asbestos still used
 or imported in the United States. This action represents an important
 step to advance the [Biden Cancer
-Moonshot](https://www.whitehouse.gov/cancermoonshot/) goal of reducing
+Moonshot](https://bidenwhitehouse.archives.gov/cancermoonshot/) goal of reducing
 the cancer death rate by at least half by 2047—preventing more than four
 million cancer deaths—and preventing cancer before it starts by
 protecting communities from known risks associated with asbestos
@@ -96,7 +96,7 @@ protect communities from carcinogens, including:
 -   **Combatting PFAS pollution in communities to address health and
     environmental risks.** The Biden-Harris Administration has announced
     a [government-wide
-    plan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
+    plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
     to address and prevent PFAS contamination. Per- and polyfluoroalkyl
     substances (PFAS), often referred to as ‘forever chemicals,’ are
     human-made chemicals that have been widely used in many different
@@ -114,7 +114,7 @@ protect communities from carcinogens, including:
     have been in the gear, equipment, and fire suppression agents used
     by firefighters. The Departments of Defense and Veterans Affairs are
     leading efforts to [measure blood PFAS levels in
-    firefighters](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/),
+    firefighters](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/),
     and the Centers for Disease Control and Prevention [launched the
     National Firefighter Registry for
     Cancer](https://www.cdc.gov/media/releases/2023/p0417-firefighter-cance-registry.html)

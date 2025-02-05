@@ -2,14 +2,14 @@
 date: '2024-04-26'
 modified_time: 2024-05-01 20:57:11-04:00
 published_time: 2024-04-26 13:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/26/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-summit-for-sustainable-and-healthy-schools/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/26/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-summit-for-sustainable-and-healthy-schools/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hosts First-Ever White\_House\
   \ Summit for Sustainable and Healthy\_Schools"
 ---
  
 President Biden’s [Investing in America
-Agenda](https://www.whitehouse.gov/invest/?utm_source=www.invest.gov) is
+Agenda](https://bidenwhitehouse.archives.gov/invest/?utm_source=www.invest.gov) is
 providing unprecedented resources for K-12 schools to invest in
 healthier, more sustainable buildings and infrastructure—from removing
 lead pipes, to installing clean, reliable solar energy, to purchasing
@@ -42,7 +42,7 @@ the benefits of clean energy tax credits for the first time ever.
 **<u>Promoting Efficient and Healthy Schools</u>**  
 Alongside the Summit, the Biden-Harris Administration is releasing the
 [**2024 White House Toolkit for Sustainable and Healthy K-12
-Schools**](https://www.whitehouse.gov/wp-content/uploads/2024/04/2024-04-24-Toolkit-for-Sustainable-and-Healthy-Schools.pdf).
+Schools**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/2024-04-24-Toolkit-for-Sustainable-and-Healthy-Schools.pdf).
 Designed for use by schools, the toolkit provides an overview of school
 infrastructure funding, programs, and technical assistance made
 available by the Biden-Harris Administration to support schools,
@@ -61,7 +61,7 @@ clean school buses, providing cleaner air for communities and protecting
 children from asthma.  
    
 These programs also advance President Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which set a goal that 40 percent of the overall benefits of certain
 federal climate, clean energy, clean transit, and other investments flow
 to disadvantaged communities that are marginalized by underinvestment
@@ -146,7 +146,7 @@ Administration’s actions to build healthier, more sustainable schools:**
     cause irreversible harm to cognitive development and hamper
     children’s learning. In February, Vice President Harris traveled to
     Pittsburgh to [announce $5.8 billion for clean water
-    projects](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
+    projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
     nationwide, including lead pipe replacement. Earlier this year, EPA
     announced $58 million in 2024 grant funding to protect children from
     lead in drinking water at schools and childcare facilities.  

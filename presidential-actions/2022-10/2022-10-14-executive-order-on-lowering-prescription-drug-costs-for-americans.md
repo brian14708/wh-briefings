@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 08:31:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/14/executive-order-on-lowering-prescription-drug-costs-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/14/executive-order-on-lowering-prescription-drug-costs-for-americans/
 tags: presidential-actions
 title: "Executive Order on Lowering Prescription Drug Costs for\_Americans"
 ---

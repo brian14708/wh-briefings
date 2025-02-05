@@ -1,7 +1,7 @@
 ---
 date: '2024-04-10'
 published_time: 2024-04-10 14:58:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/united-states-japan-joint-leaders-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/united-states-japan-joint-leaders-statement/
 tags: statements-releases
 title: "United\_States-Japan Joint Leaders\u2019\_Statement"
 ---

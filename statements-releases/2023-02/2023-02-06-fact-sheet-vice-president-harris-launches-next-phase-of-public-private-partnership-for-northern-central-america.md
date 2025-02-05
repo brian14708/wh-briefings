@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-07 00:00:43-05:00
 published_time: 2023-02-06 11:15:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-vice-president-harris-launches-next-phase-of-public-private-partnership-for-northern-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-vice-president-harris-launches-next-phase-of-public-private-partnership-for-northern-central-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Launches Next Phase of Public-Private Partnership\
   \ for Northern Central\_America"

@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-25 13:18:14-04:00
 published_time: 2024-04-24 16:21:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/24/remarks-by-president-biden-at-the-north-americas-building-trades-unions-national-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/24/remarks-by-president-biden-at-the-north-americas-building-trades-unions-national-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the North America\u2019s Building Trades Unions\
   \ National Legislative\_Conference"

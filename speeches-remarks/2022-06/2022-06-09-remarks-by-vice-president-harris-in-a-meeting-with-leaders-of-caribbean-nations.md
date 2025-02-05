@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 17:12:39-04:00
 published_time: 2022-06-09 17:12:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-vice-president-harris-in-a-meeting-with-leaders-of-caribbean-nations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-vice-president-harris-in-a-meeting-with-leaders-of-caribbean-nations/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Meeting With Leaders of Caribbean\_\
   Nations"

@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-21 12:51:32-04:00
 published_time: 2023-09-21 13:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-announces-new-actions-to-reduce-greenhouse-gas-emissions-and-combat-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-announces-new-actions-to-reduce-greenhouse-gas-emissions-and-combat-the-climate-crisis/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Reduce\
   \ Greenhouse Gas Emissions and Combat the Climate\_Crisis"
@@ -27,7 +27,7 @@ climate crisis by accounting for climate change impacts in certain key
 agency decisions.  
   
 The President’s [Day One Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
 on *Protecting Public Health and the Environment and Restoring Science
 to Tackle the Climate Crisis* re-established an Interagency Working
 Group (IWG) and tasked it with identifying areas of budgeting,
@@ -60,7 +60,7 @@ with applicable law:
 development and implementation of their budgets.</u>**  
   
 The Office of Management and Budget (OMB) recently
-[estimated](https://www.whitehouse.gov/omb/briefing-room/2023/03/14/the-importance-of-measuring-the-fiscal-and-economic-costs-of-climate-change/)
+[estimated](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/14/the-importance-of-measuring-the-fiscal-and-economic-costs-of-climate-change/)
 that climate-related disasters could increase annual federal spending by
 over $100 billion and decrease annual federal revenue by up to $2
 trillion by the end of the century. Today’s announcement will further
@@ -128,15 +128,15 @@ to incorporate the SC-GHG into procurement include:
 -   Minimizing Climate Risk in Acquisitions: The Federal Acquisition
     Regulatory (FAR) Council agencies are considering a number of
     potential changes around the
-    [disclosure](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-proposes-plan-to-protect-federal-supply-chain-from-climate-related-risks/)
+    [disclosure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-proposes-plan-to-protect-federal-supply-chain-from-climate-related-risks/)
     of greenhouse gas emissions and moving toward more
-    [sustainable](https://www.whitehouse.gov/ceq/news-updates/2023/08/01/biden-harris-administration-announces-plan-to-maximize-purchases-of-sustainable-products-and-services-as-part-of-the-presidents-investing-in-america-agenda/)
+    [sustainable](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/08/01/biden-harris-administration-announces-plan-to-maximize-purchases-of-sustainable-products-and-services-as-part-of-the-presidents-investing-in-america-agenda/)
     federal purchasing. The FAR Council agencies have also
-    [sought](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
+    [sought](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
     early public input on incorporating the SC-GHG into both domestic
     and overseas procurement decisions. Consistent with the President’s
     Executive Order on Climate-Related Financial Risk, [EO
-    14030](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/),
+    14030](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/),
     OMB’s Office of Federal Procurement Policy will continue working
     with the FAR Council to develop regulatory updates, as appropriate.
 
@@ -157,7 +157,7 @@ to those emissions to provide context about their climate change
 impacts.
 
 -   Finalizing NEPA Guidance: CEQ
-    [issued](https://www.whitehouse.gov/ceq/news-updates/2023/01/06/biden-harris-administration-releases-new-guidance-to-disclose-climate-impacts-in-environmental-reviews/)
+    [issued](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/01/06/biden-harris-administration-releases-new-guidance-to-disclose-climate-impacts-in-environmental-reviews/)
     interim guidance in January 2023 on how agencies should consider
     greenhouse gas emissions in their NEPA reviews where applicable,
     including through appropriate use of the SC‑GHG, to help

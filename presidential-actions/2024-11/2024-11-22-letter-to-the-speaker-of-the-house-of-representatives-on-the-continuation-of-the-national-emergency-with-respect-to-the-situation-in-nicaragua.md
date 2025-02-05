@@ -2,7 +2,7 @@
 date: '2024-11-22'
 modified_time: 2024-11-22 20:36:26-05:00
 published_time: 2024-11-22 20:33:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/22/letter-to-the-speaker-of-the-house-of-representatives-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/22/letter-to-the-speaker-of-the-house-of-representatives-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency with Respect to the Situation in\_Nicaragua"

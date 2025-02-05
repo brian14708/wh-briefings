@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-28 10:14:44-04:00
 published_time: 2023-09-28 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hosts First-Ever White\_House\
   \ Climate Resilience Summit and Releases National Climate Resilience\_Framework"
@@ -24,7 +24,7 @@ and every community in America.
 That’s why President Biden is leading the most ambitious climate,
 conservation, and environmental justice agenda in history. Today
 President Biden is fulfilling a
-[commitment](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/19/remarks-by-president-biden-on-climate-resilience-palo-alto-ca/)
+[commitment](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/19/remarks-by-president-biden-on-climate-resilience-palo-alto-ca/)
 he made in June to host the first-ever **White House Summit on Building
 Climate Resilient Communities**. This Summit, which will include
 representatives from more than 25 states, territories, and Tribal
@@ -43,16 +43,16 @@ senior Administration officials from more than 15 federal departments
 and agencies to jointly discuss needs and opportunities for future
 climate resilience efforts, including maximizing the impact of the [more
 than $50
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/)
 for climate resilience in President Biden’s Investing in America agenda,
 as well as President Biden’s Emergency Plan for Adaptation and
 Resilience
-([PREPARE](https://www.whitehouse.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf)),
+([PREPARE](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf)),
 which builds climate resilience in developing countries.
 
 In conjunction with the Summit, the Administration is releasing the
 **[National Climate Resilience
-Framework](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf)**,
+Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf)**,
 a vision for a climate resilient Nation designed to guide and align
 climate resilience investments and activities by the federal government
 and its partners. The Framework identifies common principles and
@@ -70,7 +70,7 @@ Today’s announcements come on the heels of a historic stretch of actions
 and investments through President Biden’s Investing in America agenda to
 bolster climate resilience nationwide. Just last week, President Biden
 took executive action to launch the [American Climate
-Corps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
+Corps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
 – a workforce training and service initiative that will mobilize more
 than 20,000 young Americans to help build a more sustainable, resilient
 nation. And in the past two months, the Administration has also invested
@@ -85,7 +85,7 @@ communities](https://www.usda.gov/media/press-releases/2023/08/28/biden-harris-a
 and [Puerto
 Rico](https://www.energy.gov/gdo/articles/august-2023-puerto-rico-energy-resilience-fund-updates),
 and
-[Hawaiʻi](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-4/).
+[Hawaiʻi](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/fact-sheet-biden-harris-administrations-latest-actions-to-support-communities-impacted-by-maui-wildfires-4/).
 
 *Today’s actions include:*
 
@@ -122,7 +122,7 @@ and
     greenhouse gas reduction in physical assets that are funded with
     federal dollars. This publication is a product of the [National
     Initiative to Advance Building
-    Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/).
+    Codes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/).
 -   Advancing Federal Agency Leadership in Climate Adaptation Planning.
     Federal agencies are taking action to build a resilient government
     through the implementation of their Climate Adaptation Plans, which
@@ -168,7 +168,7 @@ and
     Biden’s Investing in America agenda and committing resources to
     advance actions that help communities plan for and adapt to a
     changing climate. A [dozen philanthropic
-    organizations](https://www.whitehouse.gov/wp-content/uploads/2023/09/Philanthropic-contributions_WH-Summit-on-Building-Climate-Resilient-Communities_092723.pdf)
+    organizations](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Philanthropic-contributions_WH-Summit-on-Building-Climate-Resilient-Communities_092723.pdf)
     have invested more than a combined $800 million in complementary
     climate resilience priorities – and are committed to continuing to
     work with the federal government, communities, and local leaders on

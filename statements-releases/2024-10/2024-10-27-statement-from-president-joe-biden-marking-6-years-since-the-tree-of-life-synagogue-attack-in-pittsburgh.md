@@ -2,7 +2,7 @@
 date: '2024-10-27'
 modified_time: 2024-10-26 17:23:26-04:00
 published_time: 2024-10-27 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/27/statement-from-president-joe-biden-marking-6-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/27/statement-from-president-joe-biden-marking-6-years-since-the-tree-of-life-synagogue-attack-in-pittsburgh/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking 6 Years Since the Tree of Life\
   \ Synagogue Attack in\_Pittsburgh"

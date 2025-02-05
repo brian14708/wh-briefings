@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 published_time: 2023-05-26 20:19:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/26/remarks-by-president-biden-honoring-the-2023-ncaa-mens-basketball-champions-the-university-of-connecticut-huskies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/26/remarks-by-president-biden-honoring-the-2023-ncaa-mens-basketball-champions-the-university-of-connecticut-huskies/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2023 NCAA Men\u2019s Basketball Champions,\
   \ The University of Connecticut\_Huskies"

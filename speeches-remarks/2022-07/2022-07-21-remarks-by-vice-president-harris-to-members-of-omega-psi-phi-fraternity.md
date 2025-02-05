@@ -2,7 +2,7 @@
 date: '2022-07-21'
 modified_time: 2022-07-21 21:56:48-04:00
 published_time: 2022-07-21 21:56:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-to-members-of-omega-psi-phi-fraternity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-to-members-of-omega-psi-phi-fraternity/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_To Members of Omega Psi Phi\_Fraternity"
 ---

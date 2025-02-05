@@ -1,7 +1,7 @@
 ---
 date: '2024-10-29'
 published_time: 2024-10-29 15:00:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/statement-from-president-joe-biden-on-democratic-backsliding-in-the-country-of-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/statement-from-president-joe-biden-on-democratic-backsliding-in-the-country-of-georgia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Democratic Backsliding in the Country\
   \ of\_Georgia"

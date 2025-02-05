@@ -1,7 +1,7 @@
 ---
 date: '2022-04-13'
 published_time: 2022-04-13 10:04:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-o/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-o/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives and President of the\
   \ Senate on the Continuation of the National Emergency With Respect to Specified\

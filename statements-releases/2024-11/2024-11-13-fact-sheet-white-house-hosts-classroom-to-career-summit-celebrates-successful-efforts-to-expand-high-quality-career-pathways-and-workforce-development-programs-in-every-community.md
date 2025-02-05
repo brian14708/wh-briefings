@@ -2,7 +2,7 @@
 date: '2024-11-13'
 modified_time: 2024-11-14 14:44:52-05:00
 published_time: 2024-11-13 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/13/fact-sheet-white-house-hosts-classroom-to-career-summit-celebrates-successful-efforts-to-expand-high-quality-career-pathways-and-workforce-development-programs-in-every-community/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/13/fact-sheet-white-house-hosts-classroom-to-career-summit-celebrates-successful-efforts-to-expand-high-quality-career-pathways-and-workforce-development-programs-in-every-community/
 tags: statements-releases
 title: "Fact Sheet: White\_House Hosts \u201CClassroom to Career\u201D Summit, Celebrates\
   \ Successful Efforts to Expand High-Quality Career Pathways and Workforce Development\
@@ -13,7 +13,7 @@ Today, President Joe Biden and First Lady Jill Biden will welcome
 approximately 200 education and workforce leaders to the White House for
 the Biden-Harris Administration’s “Classroom to Career” Summit. The
 Administration’s [Investing in
-America](https://www.whitehouse.gov/invest/) agenda is creating millions
+America](https://bidenwhitehouse.archives.gov/invest/) agenda is creating millions
 of good-paying jobs—many of which do not require a four-year college
 degree—and its investments will continue to drive job creation for years
 to come. The Summit will highlight record progress to expand career
@@ -24,7 +24,7 @@ The Summit will bring together Cabinet members and other senior
 Administration officials, state and local elected officials, community
 college presidents, K-12 leaders, unions, workforce development leaders
 from the nine [White House Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 and other communities across the country, business leaders,
 representatives of philanthropic organizations, and students.
 
@@ -203,7 +203,7 @@ to develop high-quality training programs.
     workforce investments from their state departments of
     transportation. This comes six months after the Administration
     [called on
-    states](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/04/readout-of-white-house-state-workforce-day-convening/)
+    states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/04/readout-of-white-house-state-workforce-day-convening/)
     to invest at least 0.5 percent of eligible highway formula funds in
     high-quality workforce development approaches such as Registered
     Apprenticeship, pre-apprenticeship, and supportive services like
@@ -249,7 +249,7 @@ to develop high-quality training programs.
 
 -   **The State of Maryland** will soon issue a call for applications
     under its new [$24 million,
-    six-year](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-on-one-year-anniversary-of-president-bidens-care-eo-the-biden-harris-administration-celebrates-new-progress-toward-providing-care-and-other-supportive-services-for-workers/)
+    six-year](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-on-one-year-anniversary-of-president-bidens-care-eo-the-biden-harris-administration-celebrates-new-progress-toward-providing-care-and-other-supportive-services-for-workers/)
     workforce investments using federal highway funds. The state will
     seek applications to provide high-quality workforce approaches to
     help fill good-paying transportation infrastructure jobs—including
@@ -370,25 +370,25 @@ college programs.
 **Leading the way in the White House Workforce Hubs**
 
 In May 2023, First Lady Jill Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 five White House Workforce Hubs in regions where the Administration’s
 Investing in America agenda is catalyzing historic public- and
 private-sector investments—
-[Augusta](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
-[Baltimore](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
-[Columbus](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/), 
-[Pittsburgh](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
+[Augusta](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
+[Baltimore](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
+[Columbus](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/), 
+[Pittsburgh](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
 and
-[Phoenix](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/).
+[Phoenix](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/).
 Since then, President Biden
-[designated](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[designated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 four additional Workforce Hubs in
-[Milwaukee](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-milwaukee-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
+[Milwaukee](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-milwaukee-announces-commitments-to-expand-pathways-into-good-paying-jobs/),
 [Upstate New
 York](https://www.commerce.gov/news/fact-sheets/2024/09/fact-sheet-upstate-new-york-workforce-hub-maximizing-federal-investments),
-[Philadelphia](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%e2%81%a0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/),
+[Philadelphia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-biden-%e2%81%a0harris-administration-announces-record-federal-investments-in-registered-apprenticeships-holds-workforce-hub-convening-in-philadelphia-with-new-commitments-to-train-and-hir/),
 and the state of
-[Michigan](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-taking-action-to-support-auto-workers-and-manufacturers-including-in-michigan/).
+[Michigan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-taking-action-to-support-auto-workers-and-manufacturers-including-in-michigan/).
 In these Workforce Hubs, the Administration has partnered with state and
 local officials, employers, unions, community colleges, K-12 schools,
 and other stakeholders to ensure a diverse and skilled workforce can
@@ -404,7 +404,7 @@ as:
 -   **In** **Columbus**, anchor institution Columbus State Community
     College, and partners Intel and the Ohio Semiconductor Collaboration
     Network, completed the July 2023
-    [commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/)
+    [commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/)
     to develop a new certificate program for good semiconductor
     technician jobs. In January, the partners launched the
     [Semiconductor Fundamentals
@@ -420,7 +420,7 @@ as:
     of Employment Development to provide $5 million over four years for
     pre-apprenticeship training and supportive services for apprentices,
     helping Amtrak to meet its Hub
-    [commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
+    [commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
     to ensure at least 50 percent of apprentice hours for Baltimore City
     residents in the ZIP codes immediately impacted by the Frederick
     Douglass Tunnel Project.
@@ -448,7 +448,7 @@ as:
     first-in-the-nation EV Automotive Technician Registered
     Apprenticeship Program in October, fulfilling a commitment made at
     the Hub’s November 2023
-    [convening](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
+    [convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
     with First Lady Jill Biden and expanding training opportunities for
     good clean energy jobs. The program is a true public-private
     partnership—hosted at a new EV lab at the Community College of

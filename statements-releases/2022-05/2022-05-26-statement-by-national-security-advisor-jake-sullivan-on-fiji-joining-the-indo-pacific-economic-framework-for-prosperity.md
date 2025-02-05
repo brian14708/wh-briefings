@@ -2,7 +2,7 @@
 date: '2022-05-26'
 modified_time: 2022-05-26 21:33:37-04:00
 published_time: 2022-05-26 22:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/26/statement-by-national-security-advisor-jake-sullivan-on-fiji-joining-the-indo-pacific-economic-framework-for-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/26/statement-by-national-security-advisor-jake-sullivan-on-fiji-joining-the-indo-pacific-economic-framework-for-prosperity/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Fiji Joining the Indo-Pacific\
   \ Economic Framework for\_Prosperity"

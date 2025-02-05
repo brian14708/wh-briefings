@@ -2,7 +2,7 @@
 date: '2023-05-01'
 modified_time: 2023-05-01 14:16:51-04:00
 published_time: 2023-05-01 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/01/the-biden-administration-will-end-covid-19-vaccination-requirements-for-federal-employees-contractors-international-travelers-head-start-educators-and-cms-certified-facilities/
 tags: statements-releases
 title: "The Biden-\u2060Harris Administration Will End COVID-\u206019 Vaccination\
   \ Requirements for Federal Employees, Contractors, International Travelers, Head\

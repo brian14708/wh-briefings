@@ -2,7 +2,7 @@
 date: '2022-10-13'
 modified_time: 2022-10-13 12:00:53-04:00
 published_time: 2022-10-13 13:20:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/
 tags: speeches-remarks
 title: "Remarks on Executing a Modern American Industrial Strategy by NEC Director\
   \ Brian\_Deese"

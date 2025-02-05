@@ -1,7 +1,7 @@
 ---
 date: '2022-06-15'
 published_time: 2022-06-15 17:49:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/15/remarks-by-first-lady-jill-biden-at-a-reception-to-celebrate-pride-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/15/remarks-by-first-lady-jill-biden-at-a-reception-to-celebrate-pride-month/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at a Reception to Celebrate Pride\_Month"
 ---

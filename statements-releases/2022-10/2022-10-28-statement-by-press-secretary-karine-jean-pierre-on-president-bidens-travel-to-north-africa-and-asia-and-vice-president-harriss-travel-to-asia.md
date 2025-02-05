@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 18:45:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/28/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-north-africa-and-asia-and-vice-president-harriss-travel-to-asia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/28/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-north-africa-and-asia-and-vice-president-harriss-travel-to-asia/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to North Africa and Asia and Vice President Harris\u2019s Travel to\_Asia"

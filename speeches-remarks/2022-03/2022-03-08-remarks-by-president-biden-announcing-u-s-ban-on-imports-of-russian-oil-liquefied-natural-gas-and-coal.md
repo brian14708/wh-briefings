@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2022-03-08'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/08/remarks-by-president-biden-announcing-u-s-ban-on-imports-of-russian-oil-liquefied-natural-gas-and-coal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/08/remarks-by-president-biden-announcing-u-s-ban-on-imports-of-russian-oil-liquefied-natural-gas-and-coal/
 published_time: 2022-03-08 14:08:03-05:00
 title: "Remarks by President\_Biden Announcing U.S. Ban on Imports of Russian Oil,\
   \ Liquefied Natural Gas, and\_Coal"

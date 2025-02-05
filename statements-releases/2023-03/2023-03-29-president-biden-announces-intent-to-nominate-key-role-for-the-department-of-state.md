@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 14:57:00-04:00
 published_time: 2023-03-29 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-state/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/president-biden-announces-intent-to-nominate-key-role-for-the-department-of-state/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Nominate Key Role for the Department\
   \ of\_State"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 09:52:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-vision-statement-enduring-partners-for-the-indo-pacific/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-vision-statement-enduring-partners-for-the-indo-pacific/
 tags: statements-releases
 title: "Quad Leaders\u2019 Vision Statement \u2013 Enduring Partners for the\_Indo-Pacific"
 ---

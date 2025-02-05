@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-18'
 modified_time: 2021-03-18 20:48:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/18/statement-by-president-biden-on-the-american-dream-and-promise-act-of-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/18/statement-by-president-biden-on-the-american-dream-and-promise-act-of-2021/
 published_time: 2021-03-18 20:48:00-04:00
 title: "Statement by President\_Biden on the American Dream and Promise Act of\_2021"
 ---

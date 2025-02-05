@@ -1,7 +1,7 @@
 ---
 date: '2022-06-15'
 published_time: 2022-06-15 11:05:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/06/15/bills-signed-h-r-3579-and-h-r-4168/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/06/15/bills-signed-h-r-3579-and-h-r-4168/
 tags: legislation
 title: "Bills Signed: H.R. 3579 and \u200BH.R.\_4168"
 ---

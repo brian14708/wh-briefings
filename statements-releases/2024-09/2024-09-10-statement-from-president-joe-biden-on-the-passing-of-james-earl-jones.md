@@ -1,7 +1,7 @@
 ---
 date: '2024-09-10'
 published_time: 2024-09-10 13:02:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/10/statement-from-president-joe-biden-on-the-passing-of-james-earl-jones/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/10/statement-from-president-joe-biden-on-the-passing-of-james-earl-jones/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of James Earl\_Jones"
 ---

@@ -2,7 +2,7 @@
 date: '2024-09-12'
 modified_time: 2024-09-13 13:58:25-04:00
 published_time: 2024-09-12 17:38:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-roundtable-on-u-s-leadership-in-ai-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/12/readout-of-white-house-roundtable-on-u-s-leadership-in-ai-infrastructure/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on U.S. Leadership in AI Infrastructure"
 ---
@@ -97,7 +97,7 @@ Each of these steps advances significant work already undertaken by the
 Biden-Harris Administration to ensure the United States leads the way in
 responsible AI innovation and development, including through President
 Biden’s landmark [2023 Executive Order on
-AI](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/).
+AI](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/).
 These actions will enable datacenters catalyzing the industries of the
 future to be built here in the United States by American workers.  
    

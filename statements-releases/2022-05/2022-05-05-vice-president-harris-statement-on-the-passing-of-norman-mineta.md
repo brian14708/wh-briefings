@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-06 13:44:33-04:00
 published_time: 2022-05-05 20:20:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/vice-president-harris-statement-on-the-passing-of-norman-mineta/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/vice-president-harris-statement-on-the-passing-of-norman-mineta/
 tags: statements-releases
 title: "Vice President Harris Statement on the Passing of Norman\_Mineta"
 ---

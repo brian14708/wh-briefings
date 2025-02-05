@@ -2,7 +2,7 @@
 date: '2024-01-26'
 modified_time: 2024-01-25 20:11:13-05:00
 published_time: 2024-01-26 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-international-holocaust-remembrance-day-statement-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-international-holocaust-remembrance-day-statement-2024/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on International Holocaust Remembrance\_\
   Day"

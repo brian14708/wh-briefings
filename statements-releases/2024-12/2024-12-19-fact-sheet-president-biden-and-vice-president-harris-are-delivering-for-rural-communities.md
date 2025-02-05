@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 17:10:52-05:00
 published_time: 2024-12-19 17:09:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-president-biden-and-vice-president-harris-are-delivering-for-rural-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-president-biden-and-vice-president-harris-are-delivering-for-rural-communities/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Vice President Harris Are Delivering for\
   \ Rural\_Communities"

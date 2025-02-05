@@ -2,7 +2,7 @@
 date: '2024-06-21'
 modified_time: 2024-06-21 16:30:48-04:00
 published_time: 2024-06-21 16:30:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/21/memorandum-delegation-of-authority-under-section-1247-of-the-national-defense-authorization-act-for-fiscal-year-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/21/memorandum-delegation-of-authority-under-section-1247-of-the-national-defense-authorization-act-for-fiscal-year-2024/
 tags: presidential-actions
 title: "Memorandum Delegation of Authority Under Section 1247 of the National Defense\
   \ Authorization Act for Fiscal Year\_2024"

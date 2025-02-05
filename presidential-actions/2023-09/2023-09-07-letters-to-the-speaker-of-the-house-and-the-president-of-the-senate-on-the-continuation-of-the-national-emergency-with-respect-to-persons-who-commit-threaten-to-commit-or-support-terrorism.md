@@ -1,7 +1,7 @@
 ---
 date: '2023-09-07'
 published_time: 2023-09-07 20:59:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/07/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/07/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and the President of the Senate on the\
   \ Continuation of the National Emergency With Respect to Persons Who Commit, Threaten\

@@ -2,7 +2,7 @@
 date: '2023-10-18'
 modified_time: 2023-10-18 15:13:54-04:00
 published_time: 2023-10-18 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/18/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-2023-pan-american-games-in-santiago-chile/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/18/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-2023-pan-american-games-in-santiago-chile/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to attend the Opening Ceremony\
   \ of the 2023 Pan American Games in Santiago,\_Chile"

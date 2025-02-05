@@ -1,7 +1,7 @@
 ---
 date: '2022-05-09'
 published_time: 2022-05-09 17:47:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-central-african-republic-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-central-african-republic-2/
 tags: presidential-actions
 title: "Notice on the\_Continuation of the National Emergency with Respect to the\
   \ Central African\_Republic"

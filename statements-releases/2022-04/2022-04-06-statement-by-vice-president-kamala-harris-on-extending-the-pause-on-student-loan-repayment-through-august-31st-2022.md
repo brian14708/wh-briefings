@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 15:49:58-04:00
 published_time: 2022-04-06 15:49:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/statement-by-vice-president-kamala-harris-on-extending-the-pause-on-student-loan-repayment-through-august-31st-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/statement-by-vice-president-kamala-harris-on-extending-the-pause-on-student-loan-repayment-through-august-31st-2022/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris On Extending the Pause on Student\
   \ Loan Repayment Through August 31st,\_2022"

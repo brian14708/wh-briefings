@@ -1,7 +1,7 @@
 ---
 date: '2023-10-13'
 published_time: 2023-10-13 13:31:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/13/statement-from-president-joe-biden-on-tentative-agreement-between-kaiser-permanente-and-the-coalition-of-kaiser-permanente-unions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/13/statement-from-president-joe-biden-on-tentative-agreement-between-kaiser-permanente-and-the-coalition-of-kaiser-permanente-unions/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Tentative Agreement Between Kaiser\
   \ Permanente and the Coalition of Kaiser Permanente\_Unions"

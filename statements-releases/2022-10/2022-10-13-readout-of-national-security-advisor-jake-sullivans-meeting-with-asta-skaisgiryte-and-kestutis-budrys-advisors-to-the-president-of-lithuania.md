@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 published_time: 2022-10-13 21:41:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-asta-skaisgiryte-and-kestutis-budrys-advisors-to-the-president-of-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-asta-skaisgiryte-and-kestutis-budrys-advisors-to-the-president-of-lithuania/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Asta\
   \ Skaisgiryte and Kestutis Budrys, Advisors to the President of\_Lithuania"

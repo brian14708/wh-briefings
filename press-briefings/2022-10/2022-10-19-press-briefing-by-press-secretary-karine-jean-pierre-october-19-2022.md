@@ -1,7 +1,7 @@
 ---
 date: '2022-10-19'
 published_time: 2022-10-19 18:49:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/19/press-briefing-by-press-secretary-karine-jean-pierre-october-19-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/19/press-briefing-by-press-secretary-karine-jean-pierre-october-19-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, October 19,\_2022"
 ---

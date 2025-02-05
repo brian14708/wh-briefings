@@ -1,7 +1,7 @@
 ---
 date: '2023-11-04'
 published_time: 2023-11-04 13:14:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/04/background-press-call-by-senior-administration-officials-to-preview-the-americas-partnership-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/04/background-press-call-by-senior-administration-officials-to-preview-the-americas-partnership-leaders-summit/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview the Americas\
   \ Partnership Leaders\u2019\_Summit"

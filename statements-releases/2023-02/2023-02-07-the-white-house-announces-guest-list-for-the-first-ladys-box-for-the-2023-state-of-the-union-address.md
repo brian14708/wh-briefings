@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-06 22:18:19-05:00
 published_time: 2023-02-07 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/the-white-house-announces-guest-list-for-the-first-ladys-box-for-the-2023-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/the-white-house-announces-guest-list-for-the-first-ladys-box-for-the-2023-state-of-the-union-address/
 tags: statements-releases
 title: "The White\_House Announces Guest List for the First Lady\u2019s Box for the\
   \ 2023 State of the\_Union\_Address"

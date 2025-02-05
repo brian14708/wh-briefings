@@ -2,7 +2,7 @@
 date: '2024-01-16'
 modified_time: 2024-01-16 15:01:01-05:00
 published_time: 2024-01-16 15:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraqs-kurdistan-region-masrour-barzani/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraqs-kurdistan-region-masrour-barzani/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with the\
   \ Prime Minister of Iraq\u2019s Kurdistan Region, Masrour\_Barzani"

@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-25 23:06:12-04:00
 published_time: 2023-04-26 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/joint-statement-from-the-presidents-of-the-united-states-of-america-and-the-republic-of-korea-on-the-identification-of-medal-of-honor-recipient-from-korean-war/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/joint-statement-from-the-presidents-of-the-united-states-of-america-and-the-republic-of-korea-on-the-identification-of-medal-of-honor-recipient-from-korean-war/
 tags: statements-releases
 title: "Joint Statement from the Presidents of the United\_States of America and the\
   \ Republic of Korea on the Identification of Medal of Honor Recipient from Korean\_\

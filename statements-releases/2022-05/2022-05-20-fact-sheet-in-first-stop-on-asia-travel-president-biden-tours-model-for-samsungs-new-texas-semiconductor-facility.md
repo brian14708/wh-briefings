@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-20 06:23:26-04:00
 published_time: 2022-05-20 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/20/fact-sheet-in-first-stop-on-asia-travel-president-biden-tours-model-for-samsungs-new-texas-semiconductor-facility/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/20/fact-sheet-in-first-stop-on-asia-travel-president-biden-tours-model-for-samsungs-new-texas-semiconductor-facility/
 tags: statements-releases
 title: "FACT SHEET: In First Stop on Asia Travel, President\_Biden Tours Model for\
   \ Samsung\u2019s New Texas Semiconductor\_Facility"
@@ -55,7 +55,7 @@ coming back to America**:**
     announced nearly $80 billion in new investments in the United States
     through 2025, according to the Semiconductor Industry
     Association.Thisincludes [Intel’s $20
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/)
     fab outside Columbus, Ohio; Texas Instruments investing up to $30
     billion in Texas; Wolfspeed’s $1 billion expansion in North
     Carolina; and expansions by Global Foundries and SK Group.
@@ -96,7 +96,7 @@ coming back to America**:**
     supply chains through the U.S.-E.U. Trade and Technology Council
     (TTC) and through the Quad’s focus on critical technologies. At the
     TTC last week, the U.S. and EU announced [an early warning
-    system](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-u-s-eu-trade-and-technology-council-establishes-economic-and-technology-policies-initiatives/)
+    system](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-u-s-eu-trade-and-technology-council-establishes-economic-and-technology-policies-initiatives/)
     to better predict and address potential semiconductor supply chain
     disruptions as well as establish a Transatlantic approach to
     semiconductor investment aimed at ensuring security of supply and

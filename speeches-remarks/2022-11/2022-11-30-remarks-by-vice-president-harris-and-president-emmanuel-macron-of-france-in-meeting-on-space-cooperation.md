@@ -1,7 +1,7 @@
 ---
 date: '2022-11-30'
 published_time: 2022-11-30 13:43:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-vice-president-harris-and-president-emmanuel-macron-of-france-in-meeting-on-space-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-vice-president-harris-and-president-emmanuel-macron-of-france-in-meeting-on-space-cooperation/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Emmanuel Macron of France in\
   \ Meeting on Space\_Cooperation"

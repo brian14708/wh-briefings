@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-06-01 13:19:00-04:00
 published_time: 2022-05-31 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/31/background-press-call-by-senior-administration-officials-on-u-s-security-assistance-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/31/background-press-call-by-senior-administration-officials-on-u-s-security-assistance-to-ukraine/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on U.S. Security\
   \ Assistance to\_Ukraine"

@@ -1,7 +1,7 @@
 ---
 date: '2023-08-31'
 published_time: 2023-08-31 13:57:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/31/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-alternative-plan-for-pay-adjustments-for-civilian-federal-employees-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/31/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-alternative-plan-for-pay-adjustments-for-civilian-federal-employees-2/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and the President of the Senate on the\
   \ Alternative Plan for Pay Adjustments for Civilian Federal\_Employees"

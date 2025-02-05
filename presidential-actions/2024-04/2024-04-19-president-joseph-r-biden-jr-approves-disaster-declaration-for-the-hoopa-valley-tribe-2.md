@@ -2,7 +2,7 @@
 date: '2024-04-19'
 modified_time: 2024-04-19 20:38:34-04:00
 published_time: 2024-04-19 20:38:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/19/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-hoopa-valley-tribe-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/19/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-hoopa-valley-tribe-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Hoopa\
   \ Valley\_Tribe"

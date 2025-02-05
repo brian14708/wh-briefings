@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 12:49:55-04:00
 published_time: 2022-06-06 12:22:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-electrolyzers-fuel-cells-and-platinum-group-metals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-electrolyzers-fuel-cells-and-platinum-group-metals/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
   \ Production Act of 1950, as amended, on Electrolyzers, Fuel Cells, and Platinum\

@@ -2,7 +2,7 @@
 date: '2024-09-09'
 modified_time: 2024-09-08 23:40:30-04:00
 published_time: 2024-09-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/09/fact-sheet-congressional-republicans-are-wasting-time-instead-of-delivering-for-the-american-people-yet-again/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/09/fact-sheet-congressional-republicans-are-wasting-time-instead-of-delivering-for-the-american-people-yet-again/
 tags: statements-releases
 title: "FACT SHEET: Congressional Republicans are Wasting Time Instead of Delivering\
   \ for the American People Yet\_Again"

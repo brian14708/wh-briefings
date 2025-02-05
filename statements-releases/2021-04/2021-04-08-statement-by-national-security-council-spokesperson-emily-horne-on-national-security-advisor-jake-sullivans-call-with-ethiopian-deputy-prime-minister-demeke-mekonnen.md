@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-04-08'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/08/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-ethiopian-deputy-prime-minister-demeke-mekonnen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/08/statement-by-national-security-council-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-with-ethiopian-deputy-prime-minister-demeke-mekonnen/
 published_time: 2021-04-08 10:47:40-04:00
 title: "Statement by National Security Council Spokesperson Emily Horne on National\
   \ Security Advisor Jake Sullivan\u2019s Call with Ethiopian Deputy Prime Minister\

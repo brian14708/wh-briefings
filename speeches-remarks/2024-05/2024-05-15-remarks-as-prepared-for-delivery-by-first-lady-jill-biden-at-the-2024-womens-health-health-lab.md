@@ -1,7 +1,7 @@
 ---
 date: '2024-05-15'
 published_time: 2024-05-15 13:35:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-womens-health-health-lab/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-womens-health-health-lab/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2024 Women\u2019\
   s Health \u201CHealth\_Lab\u201D"

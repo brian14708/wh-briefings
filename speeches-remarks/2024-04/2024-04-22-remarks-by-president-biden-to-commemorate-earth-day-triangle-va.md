@@ -1,7 +1,7 @@
 ---
 date: '2024-04-22'
 published_time: 2024-04-22 17:39:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-president-biden-to-commemorate-earth-day-triangle-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-president-biden-to-commemorate-earth-day-triangle-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to Commemorate Earth Day | Triangle,\_VA"
 ---

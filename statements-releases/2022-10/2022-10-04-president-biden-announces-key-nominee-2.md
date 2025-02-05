@@ -2,7 +2,7 @@
 date: '2022-10-04'
 modified_time: 2022-10-04 11:06:43-04:00
 published_time: 2022-10-04 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/president-biden-announces-key-nominee-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/president-biden-announces-key-nominee-2/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominee"
 ---

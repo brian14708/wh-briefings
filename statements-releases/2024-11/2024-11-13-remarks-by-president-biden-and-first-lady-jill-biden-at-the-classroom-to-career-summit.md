@@ -2,7 +2,7 @@
 date: '2024-11-13'
 modified_time: 2024-11-13 16:26:46-05:00
 published_time: 2024-11-13 16:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/13/remarks-by-president-biden-and-first-lady-jill-biden-at-the-classroom-to-career-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/13/remarks-by-president-biden-and-first-lady-jill-biden-at-the-classroom-to-career-summit/
 tags: statements-releases
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the Classroom to\
   \ Career\_Summit"

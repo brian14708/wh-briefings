@@ -1,7 +1,7 @@
 ---
 date: '2023-03-03'
 published_time: 2023-03-03 15:29:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-colonel-paris-davis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-colonel-paris-davis/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Medal of Honor to Army\
   \ Colonel Paris\_Davis"

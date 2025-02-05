@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 09:18:23-04:00
 published_time: 2024-03-14 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-dangers-of-ethylene-oxide-pollution-and/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/fact-sheet-biden-harris-administration-takes-action-to-protect-communities-from-dangers-of-ethylene-oxide-pollution-and/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Protect Communities\
   \ from Dangers of Ethylene Oxide Pollution and Secure America\u2019s Medical Supply\_\
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Protect Co
 ---
  
 In 2022, the President and First Lady reignited the [Cancer
-Moonshot](https://www.whitehouse.gov/cancermoonshot/progress-updates/fact-sheets/)
+Moonshot](https://bidenwhitehouse.archives.gov/cancermoonshot/progress-updates/fact-sheets/)
 with the goals of reducing the cancer death rate in the United States by
 at least half by 2047—preventing more than 4 million cancer deaths—and
 improving the experience of people who are touched by cancer. The

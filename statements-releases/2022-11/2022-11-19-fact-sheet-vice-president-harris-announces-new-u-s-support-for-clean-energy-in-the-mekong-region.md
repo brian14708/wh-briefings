@@ -2,7 +2,7 @@
 date: '2022-11-19'
 modified_time: 2022-11-19 20:44:39-05:00
 published_time: 2022-11-19 18:09:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/19/fact-sheet-vice-president-harris-announces-new-u-s-support-for-clean-energy-in-the-mekong-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/19/fact-sheet-vice-president-harris-announces-new-u-s-support-for-clean-energy-in-the-mekong-region/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New U.S. Support for Clean Energy\
   \ in the Mekong\_Region"

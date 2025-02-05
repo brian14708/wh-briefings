@@ -2,7 +2,7 @@
 date: '2023-01-18'
 modified_time: 2023-01-18 17:25:09-05:00
 published_time: 2023-01-18 17:25:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/18/president-biden-names-twenty-ninth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/18/president-biden-names-twenty-ninth-round-of-judicial-nominees/
 tags: statements-releases
 title: "\xAD\xADPresident\_Biden Names Twenty-Ninth Round of Judicial\_Nominees"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-28'
 published_time: 2023-03-28 19:58:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-white-house-2023-spring-garden-tours/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/the-white-house-2023-spring-garden-tours/
 tags: statements-releases
 title: "The White\_House 2023 Spring Garden\_Tours"
 ---

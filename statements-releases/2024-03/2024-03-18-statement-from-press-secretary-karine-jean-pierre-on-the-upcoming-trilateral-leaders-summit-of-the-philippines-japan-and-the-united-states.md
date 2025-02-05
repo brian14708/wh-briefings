@@ -1,7 +1,7 @@
 ---
 date: '2024-03-18'
 published_time: 2024-03-18 19:44:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/statement-from-press-secretary-karine-jean-pierre-on-the-upcoming-trilateral-leaders-summit-of-the-philippines-japan-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/statement-from-press-secretary-karine-jean-pierre-on-the-upcoming-trilateral-leaders-summit-of-the-philippines-japan-and-the-united-states/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Upcoming Trilateral\
   \ Leaders\u2019 Summit of the Philippines, Japan, and the United\_States"

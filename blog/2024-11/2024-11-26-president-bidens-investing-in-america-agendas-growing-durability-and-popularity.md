@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-26 14:45:42-05:00
 published_time: 2024-11-26 13:04:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/11/26/president-bidens-investing-in-america-agendas-growing-durability-and-popularity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/11/26/president-bidens-investing-in-america-agendas-growing-durability-and-popularity/
 tags: blog
 title: "President\_Biden\u2019s Investing in America Agenda\u2019s Growing Durability\
   \ and\_Popularity"

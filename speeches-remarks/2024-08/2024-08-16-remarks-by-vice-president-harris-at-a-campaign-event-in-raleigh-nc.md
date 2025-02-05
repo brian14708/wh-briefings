@@ -1,7 +1,7 @@
 ---
 date: '2024-08-16'
 published_time: 2024-08-16 16:45:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/16/remarks-by-vice-president-harris-at-a-campaign-event-in-raleigh-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/16/remarks-by-vice-president-harris-at-a-campaign-event-in-raleigh-nc/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event in Raleigh,\_NC"
 ---

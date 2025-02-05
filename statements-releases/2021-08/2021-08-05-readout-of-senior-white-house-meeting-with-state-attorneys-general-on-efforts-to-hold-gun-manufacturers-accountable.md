@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-05'
 modified_time: 2021-08-05 19:51:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/readout-of-senior-white-house-meeting-with-state-attorneys-general-on-efforts-to-hold-gun-manufacturers-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/readout-of-senior-white-house-meeting-with-state-attorneys-general-on-efforts-to-hold-gun-manufacturers-accountable/
 published_time: 2021-08-05 19:51:48-04:00
 title: "Readout of Senior White\_House Meeting with State Attorneys General on Efforts\
   \ to Hold Gun Manufacturers\_Accountable"
@@ -16,7 +16,7 @@ for holding gun manufacturers and dealers accountable for wrongful
 conduct that contributes to the supply of firearms used to commit gun
 crimes. This convening is the first of two meetings with state and local
 officials that were announced in President Biden’s [comprehensive
-plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
 to reduce gun crimes, including by supporting local law enforcement,
 investing in proven community violence interruption efforts, and
 stemming the flow of guns used to commit crimes.

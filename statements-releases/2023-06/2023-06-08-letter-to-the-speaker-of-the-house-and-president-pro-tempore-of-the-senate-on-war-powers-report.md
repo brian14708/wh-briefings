@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 13:12:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-on-war-powers-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-on-war-powers-report/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President pro tempore of the Senate\
   \ on War Powers\_Report"

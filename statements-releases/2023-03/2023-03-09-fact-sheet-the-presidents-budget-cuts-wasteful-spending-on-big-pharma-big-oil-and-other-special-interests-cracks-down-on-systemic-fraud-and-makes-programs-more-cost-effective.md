@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:19:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-cuts-wasteful-spending-on-big-pharma-big-oil-and-other-special-interests-cracks-down-on-systemic-fraud-and-makes-programs-more-cost-effective/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-cuts-wasteful-spending-on-big-pharma-big-oil-and-other-special-interests-cracks-down-on-systemic-fraud-and-makes-programs-more-cost-effective/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Cuts Wasteful Spending on Big Pharma,\
   \ Big Oil, and Other Special Interests, Cracks Down on Systemic Fraud, and Makes\

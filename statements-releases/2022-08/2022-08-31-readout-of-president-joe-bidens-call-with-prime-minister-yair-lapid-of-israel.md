@@ -1,7 +1,7 @@
 ---
 date: '2022-08-31'
 published_time: 2022-08-31 14:25:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/readout-of-president-joe-bidens-call-with-prime-minister-yair-lapid-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/31/readout-of-president-joe-bidens-call-with-prime-minister-yair-lapid-of-israel/
 tags: statements-releases
 title: "Readout of\_President\_Joe\_Biden\u2019s Call with Prime Minister Yair Lapid\
   \ of\_Israel"

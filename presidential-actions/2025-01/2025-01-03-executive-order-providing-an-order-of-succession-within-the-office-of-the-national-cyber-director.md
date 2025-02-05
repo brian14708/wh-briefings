@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 18:27:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/executive-order-providing-an-order-of-succession-within-the-office-of-the-national-cyber-director/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/executive-order-providing-an-order-of-succession-within-the-office-of-the-national-cyber-director/
 tags: presidential-actions
 title: "Executive Order Providing an Order of Succession Within the Office of the\
   \ National Cyber\_Director"

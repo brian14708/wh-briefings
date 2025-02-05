@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 18:04:36-04:00
 published_time: 2022-05-12 18:04:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/12/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-act-for-fiscal-year-2012/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/12/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-act-for-fiscal-year-2012/
 tags: presidential-actions
 title: "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the\
   \ National Defense Authorization Act for Fiscal Year\_2012"

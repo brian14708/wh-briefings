@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-23 22:34:56-04:00
 published_time: 2023-03-24 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/president-biden-to-kick-off-investing-in-america-tour-in-north-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/president-biden-to-kick-off-investing-in-america-tour-in-north-carolina/
 tags: statements-releases
 title: "President\_Biden to Kick Off \u201CInvesting in America\u201D Tour in North\_\
   Carolina"

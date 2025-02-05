@@ -1,7 +1,7 @@
 ---
 date: '2022-09-21'
 published_time: 2022-09-21 11:10:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-at-united-nations-general-assembly-president-biden-announces-2-9-billion-in-additional-funding-to-strengthen-global-food-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-at-united-nations-general-assembly-president-biden-announces-2-9-billion-in-additional-funding-to-strengthen-global-food-security/
 tags: statements-releases
 title: "FACT SHEET:\_At United Nations General Assembly, President\_Biden Announces\
   \ $2.9 Billion in Additional Funding to Strengthen Global Food\_Security"

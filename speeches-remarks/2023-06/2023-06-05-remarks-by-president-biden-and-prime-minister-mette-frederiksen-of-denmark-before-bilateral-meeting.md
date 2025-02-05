@@ -1,7 +1,7 @@
 ---
 date: '2023-06-05'
 published_time: 2023-06-05 15:56:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/05/remarks-by-president-biden-and-prime-minister-mette-frederiksen-of-denmark-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/05/remarks-by-president-biden-and-prime-minister-mette-frederiksen-of-denmark-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Mette Frederiksen of Denmark\
   \ Before Bilateral\_Meeting"

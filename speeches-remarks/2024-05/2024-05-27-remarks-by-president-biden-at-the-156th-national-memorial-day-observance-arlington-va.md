@@ -1,7 +1,7 @@
 ---
 date: '2024-05-27'
 published_time: 2024-05-27 15:32:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/27/remarks-by-president-biden-at-the-156th-national-memorial-day-observance-arlington-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/27/remarks-by-president-biden-at-the-156th-national-memorial-day-observance-arlington-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 156th National Memorial Day Observance\
   \ | Arlington,\_VA"

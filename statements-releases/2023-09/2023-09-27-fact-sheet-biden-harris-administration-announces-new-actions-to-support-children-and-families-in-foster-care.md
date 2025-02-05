@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-27 15:16:36-04:00
 published_time: 2023-09-27 15:16:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-biden-harris-administration-announces-new-actions-to-support-children-and-families-in-foster-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/fact-sheet-biden-harris-administration-announces-new-actions-to-support-children-and-families-in-foster-care/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Support\
   \ Children and Families in Foster\_Care"
@@ -70,7 +70,7 @@ the foster care system. Because of family rejection and abuse, LGBTQI+
 children are overrepresented in foster care where they face poor
 outcomes, including mistreatment and discrimination because of who they
 are. To address these disparities, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
 directing HHS to protect LGBTQI+ youth in the foster care system. Today,
 HHS is delivering on that promise by releasing a proposed regulation to
 protect LGBTQI+ youth in foster care. The proposed rule would require

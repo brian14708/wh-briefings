@@ -2,7 +2,7 @@
 date: '2023-02-16'
 modified_time: 2023-02-16 07:50:48-05:00
 published_time: 2023-02-16 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/16/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-chancellor-olaf-scholz-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/16/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-chancellor-olaf-scholz-of-germany/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Chancellor Olaf Scholz of\_Germany"

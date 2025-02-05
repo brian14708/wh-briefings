@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 17:22:23-04:00
 published_time: 2022-07-13 17:20:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/fact-sheet-president-biden-appoints-cancer-panel-members-and-cancer-cabinet-unveils-priority-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/fact-sheet-president-biden-appoints-cancer-panel-members-and-cancer-cabinet-unveils-priority-actions/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Appoints Cancer Panel Members and Cancer Cabinet\
   \ Unveils Priority\_Actions"
@@ -51,14 +51,14 @@ White House leadership and new ambitious goals: to reduce the death rate
 from cancer by at least 50 percent over the next 25 years, and improve
 the experience of people and their families living with and surviving
 cancer – and, by doing this and more, [end cancer as we know it
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).
 In March, in his first State of the Union Address, President Biden
 highlighted the Cancer Moonshot as part of his Unity Agenda for the
 nation. The White House convened the Cancer Cabinet to establish a
 prioritized agenda across government including the development of new
 interagency programs and collaborations and announced [initial steps for
 the Cancer
-Moonshot](https://www.whitehouse.gov/ostp/news-updates/2022/03/17/fact-sheet-white-house-announces-initial-steps-for-reignited-cancer-moonshot/).
+Moonshot](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/03/17/fact-sheet-white-house-announces-initial-steps-for-reignited-cancer-moonshot/).
 
 To add your story, ideas, or new actions and collaborations, engage with
 us at: whitehouse.gov/cancermoonshot.

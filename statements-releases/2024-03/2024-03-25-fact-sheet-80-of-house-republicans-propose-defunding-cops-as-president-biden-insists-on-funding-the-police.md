@@ -2,7 +2,7 @@
 date: '2024-03-25'
 modified_time: 2024-03-25 17:05:13-04:00
 published_time: 2024-03-25 17:05:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-80-of-house-republicans-propose-defunding-cops-as-president-biden-insists-on-funding-the-police/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-80-of-house-republicans-propose-defunding-cops-as-president-biden-insists-on-funding-the-police/
 tags: statements-releases
 title: "FACT SHEET: 80% of House Republicans Propose Defunding COPS as President\_\
   Biden Insists on Funding the\_Police"

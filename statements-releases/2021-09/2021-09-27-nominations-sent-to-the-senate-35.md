@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-09-27'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/27/nominations-sent-to-the-senate-35/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/27/nominations-sent-to-the-senate-35/
 published_time: 2021-09-27 15:40:44-04:00
 title: "Nominations Sent to the\_Senate"
 ---

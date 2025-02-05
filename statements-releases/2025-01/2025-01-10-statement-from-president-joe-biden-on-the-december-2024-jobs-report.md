@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10'
 published_time: 2025-01-10 09:32:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/statement-from-president-joe-biden-on-the-december-2024-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/statement-from-president-joe-biden-on-the-december-2024-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the December 2024 Jobs\_Report"
 ---

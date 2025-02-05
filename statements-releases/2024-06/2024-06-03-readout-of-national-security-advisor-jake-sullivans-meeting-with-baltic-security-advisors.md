@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 18:19:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-baltic-security-advisors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-baltic-security-advisors/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting With Baltic\
   \ Security\_Advisors"

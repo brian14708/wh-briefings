@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 22:26:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/24/remarks-by-president-biden-first-lady-biden-and-vice-president-harris-at-the-white-house-diwali-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/24/remarks-by-president-biden-first-lady-biden-and-vice-president-harris-at-the-white-house-diwali-celebration/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, First Lady Biden, and Vice President Harris at\
   \ the White\_House Diwali\_Celebration"

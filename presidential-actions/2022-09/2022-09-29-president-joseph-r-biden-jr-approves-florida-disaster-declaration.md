@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 06:57:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/29/president-joseph-r-biden-jr-approves-florida-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/29/president-joseph-r-biden-jr-approves-florida-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Florida Disaster\_Declaration"
 ---

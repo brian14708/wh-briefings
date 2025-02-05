@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-29 14:15:35-04:00
 published_time: 2023-09-29 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/the-white-house-announces-2023-fall-garden-tours/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/the-white-house-announces-2023-fall-garden-tours/
 tags: statements-releases
 title: "The White\_House Announces 2023 Fall Garden\_Tours"
 ---

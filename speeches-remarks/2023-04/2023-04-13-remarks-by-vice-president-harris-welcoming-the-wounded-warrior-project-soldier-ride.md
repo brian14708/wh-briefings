@@ -1,7 +1,7 @@
 ---
 date: '2023-04-13'
 published_time: 2023-04-13 12:41:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-vice-president-harris-welcoming-the-wounded-warrior-project-soldier-ride/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-vice-president-harris-welcoming-the-wounded-warrior-project-soldier-ride/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Welcoming the Wounded Warrior Project Soldier\_\
   Ride"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-27'
 published_time: 2023-02-27 16:36:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/statement-from-president-joe-biden-on-the-windsor-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/statement-from-president-joe-biden-on-the-windsor-framework/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Windsor Framework"
 ---

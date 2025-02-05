@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 16:49:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/12/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-hostage-taking-and-the-wrongful-detention-of-united-states-nationals-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/12/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-hostage-taking-and-the-wrongful-detention-of-united-states-nationals-abroad/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to Hostage-Taking and the Wrongful Detention of United\_States Nationals\_\

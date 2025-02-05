@@ -2,7 +2,7 @@
 date: '2022-11-22'
 modified_time: 2022-11-22 10:24:53-05:00
 published_time: 2022-11-22 10:27:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/22/fact-sheet-biden-administration-announces-six-week-campaign-to-get-more-americans-their-updated-covid-19-vaccine-before-end-of-the-year/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/22/fact-sheet-biden-administration-announces-six-week-campaign-to-get-more-americans-their-updated-covid-19-vaccine-before-end-of-the-year/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Announces Six-Week Campaign to Get More Americans\
   \ their Updated COVID-\u206019 Vaccine Before End of the\_Year"

@@ -2,7 +2,7 @@
 date: '2022-08-13'
 modified_time: 2022-08-13 16:02:22-04:00
 published_time: 2022-08-13 16:02:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/13/statement-by-president-joe-biden-on-the-attack-on-salman-rushdie/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/13/statement-by-president-joe-biden-on-the-attack-on-salman-rushdie/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Attack on Salman\_Rushdie\u200B"
 ---

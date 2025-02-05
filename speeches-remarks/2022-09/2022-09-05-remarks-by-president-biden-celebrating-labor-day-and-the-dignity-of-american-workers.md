@@ -1,7 +1,7 @@
 ---
 date: '2022-09-05'
 published_time: 2022-09-05 16:29:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/05/remarks-by-president-biden-celebrating-labor-day-and-the-dignity-of-american-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/05/remarks-by-president-biden-celebrating-labor-day-and-the-dignity-of-american-workers/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Celebrating Labor Day and the Dignity of American\_\
   Workers"

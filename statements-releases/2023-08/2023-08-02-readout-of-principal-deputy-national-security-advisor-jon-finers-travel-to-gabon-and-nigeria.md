@@ -1,7 +1,7 @@
 ---
 date: '2023-08-02'
 published_time: 2023-08-02 21:56:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/02/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-gabon-and-nigeria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/02/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-gabon-and-nigeria/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Travel\
   \ to Gabon and\_Nigeria"

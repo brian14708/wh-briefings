@@ -2,7 +2,7 @@
 date: '2024-11-11'
 modified_time: 2024-11-11 10:10:47-05:00
 published_time: 2024-11-11 10:10:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/11/remarks-as-delivered-by-john-podesta-press-conference-at-the-29th-un-climate-change-conference-cop-29-in-baku-azerbaijan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/11/remarks-as-delivered-by-john-podesta-press-conference-at-the-29th-un-climate-change-conference-cop-29-in-baku-azerbaijan/
 tags: speeches-remarks
 title: "Remarks as Delivered by John Podesta Press Conference at the 29th UN Climate\
   \ Change Conference (COP 29) in Baku,\_Azerbaijan"

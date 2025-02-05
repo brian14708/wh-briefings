@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-07 19:40:16-04:00
 published_time: 2024-04-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-president-biden-announces-new-plans-that-would-provide-relief-to-borrowers-disproportionately-burdened-by-student-loan-debt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-president-biden-announces-new-plans-that-would-provide-relief-to-borrowers-disproportionately-burdened-by-student-loan-debt/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Plans that would Provide Relief\
   \ to Borrowers Disproportionately Burdened by Student Loan\_Debt"

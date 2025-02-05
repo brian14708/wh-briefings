@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-29 09:08:18-04:00
 published_time: 2024-09-23 11:10:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-preisdent-biden-and-vice-president-harris-issue-report-on-progress-made-to-reduce-gun-violence-one-year-after-creating-white-house-office-of-gun-violence-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-preisdent-biden-and-vice-president-harris-issue-report-on-progress-made-to-reduce-gun-violence-one-year-after-creating-white-house-office-of-gun-violence-prevention/
 tags: statements-releases
 title: "FACT SHEET: PRESIDENT BIDEN AND VICE PRESIDENT HARRIS ISSUE REPORT ON PROGRESS\
   \ MADE TO REDUCE GUN VIOLENCE ONE YEAR AFTER CREATING WHITE HOUSE OFFICE OF GUN\
@@ -71,7 +71,7 @@ shootings to date in 2024 has decreased by 20 percent compared to the
 same period last year.
 
 **<u>Today, the White House is [releasing a report on
-progress](https://www.whitehouse.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf)
+progress](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/Year-One-Report-Final.pdf)
 made by the Biden-Harris Administration to reduce gun violence in the
 one year since President Biden created the White House Office of Gun
 Violence Prevention.</u>** The report provides a summary, but not an

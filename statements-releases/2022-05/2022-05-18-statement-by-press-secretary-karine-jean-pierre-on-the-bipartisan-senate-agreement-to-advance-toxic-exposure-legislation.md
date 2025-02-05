@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 15:10:33-04:00
 published_time: 2022-05-18 15:10:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/statement-by-press-secretary-karine-jean-pierre-on-the-bipartisan-senate-agreement-to-advance-toxic-exposure-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/statement-by-press-secretary-karine-jean-pierre-on-the-bipartisan-senate-agreement-to-advance-toxic-exposure-legislation/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on the Bipartisan Senate Agreement\
   \ to Advance Toxic Exposure\_Legislation"

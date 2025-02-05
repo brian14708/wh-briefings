@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-02-16'
 modified_time: 2022-02-16 21:50:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/16/background-press-call-previewing-the-vice-presidents-trip-to-munich-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/02/16/background-press-call-previewing-the-vice-presidents-trip-to-munich-germany/
 published_time: 2022-02-16 21:50:53-05:00
 title: "Background Press Call Previewing the Vice President\u2019s Trip to Munich,\_\
   Germany"

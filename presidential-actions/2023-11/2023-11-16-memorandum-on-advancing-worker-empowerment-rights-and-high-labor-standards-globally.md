@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 11:00:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-advancing-worker-empowerment-rights-and-high-labor-standards-globally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/16/memorandum-on-advancing-worker-empowerment-rights-and-high-labor-standards-globally/
 tags: presidential-actions
 title: "Memorandum on Advancing Worker Empowerment, Rights, and High Labor Standards\_\
   Globally"

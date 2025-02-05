@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 00:39:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/readout-of-vice-president-harriss-meeting-with-president-marcos-of-the-philippines-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/readout-of-vice-president-harriss-meeting-with-president-marcos-of-the-philippines-3/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Marcos of the\_\
   Philippines"

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-01'
 published_time: 2024-10-01 17:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/01/press-briefing-by-press-secretary-karine-jean-pierre-national-security-advisor-jake-sullivan-and-secretary-of-homeland-security-alejandro-mayorkas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/01/press-briefing-by-press-secretary-karine-jean-pierre-national-security-advisor-jake-sullivan-and-secretary-of-homeland-security-alejandro-mayorkas/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, National Security Advisor\
   \ Jake Sullivan, and Secretary of Homeland Security Alejandro\_Mayorkas"

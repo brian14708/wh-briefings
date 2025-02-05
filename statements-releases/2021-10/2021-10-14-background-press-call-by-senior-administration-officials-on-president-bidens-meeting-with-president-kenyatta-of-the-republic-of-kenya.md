@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-10-14'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/background-press-call-by-senior-administration-officials-on-president-bidens-meeting-with-president-kenyatta-of-the-republic-of-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/background-press-call-by-senior-administration-officials-on-president-bidens-meeting-with-president-kenyatta-of-the-republic-of-kenya/
 published_time: 2021-10-14 16:45:19-04:00
 title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
   s Meeting with President Kenyatta of the Republic of\_Kenya"

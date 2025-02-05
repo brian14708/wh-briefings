@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-23 15:36:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/president-biden-announces-six-key-administration-nominations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/23/president-biden-announces-six-key-administration-nominations/
 published_time: 2021-04-23 15:36:04-04:00
 title: "President\_Biden Announces Six Key Administration\_Nominations"
 ---

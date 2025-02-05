@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 15:59:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/fact-sheet-one-year-after-train-derailment-biden-harris-administration-continues-to-support-people-in-east-palestine-ohio-and-nearby-communities-and-hold-norfolk-southern-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/fact-sheet-one-year-after-train-derailment-biden-harris-administration-continues-to-support-people-in-east-palestine-ohio-and-nearby-communities-and-hold-norfolk-southern-accountable/
 tags: statements-releases
 title: "FACT SHEET: One Year After Train Derailment, Biden-\u2060Harris Administration\
   \ Continues to Support People in East Palestine, Ohio and Nearby Communities and\
@@ -46,7 +46,7 @@ Southern to clean up all environmental damage caused by the derailment,
 including cleaning or disposing of contaminated soil and water, as well
 as reimbursing the Federal government’s response costs. In September,
 President Biden issued an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-president-biden-issues-executive-order-to-protect-people-in-east-palestine-ohio-and-nearby-communities-and-continue-to-hold-norfolk-southern-accountable/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-president-biden-issues-executive-order-to-protect-people-in-east-palestine-ohio-and-nearby-communities-and-continue-to-hold-norfolk-southern-accountable/)
 directing that Norfolk Southern continue to be held accountable for the
 derailment and address any long-term effects on the community, and to
 ensure Federal assistance is available to affected communities should

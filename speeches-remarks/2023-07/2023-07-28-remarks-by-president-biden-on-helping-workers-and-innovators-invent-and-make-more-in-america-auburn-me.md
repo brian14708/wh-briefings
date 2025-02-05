@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 22:20:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/28/remarks-by-president-biden-on-helping-workers-and-innovators-invent-and-make-more-in-america-auburn-me/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/28/remarks-by-president-biden-on-helping-workers-and-innovators-invent-and-make-more-in-america-auburn-me/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Helping Workers and Innovators Invent and Make\
   \ More in America | Auburn,\_ME"

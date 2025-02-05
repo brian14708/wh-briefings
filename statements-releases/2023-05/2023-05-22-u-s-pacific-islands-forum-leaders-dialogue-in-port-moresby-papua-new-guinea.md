@@ -1,7 +1,7 @@
 ---
 date: '2023-05-22'
 published_time: 2023-05-22 21:51:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/u-s-pacific-islands-forum-leaders-dialogue-in-port-moresby-papua-new-guinea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/u-s-pacific-islands-forum-leaders-dialogue-in-port-moresby-papua-new-guinea/
 tags: statements-releases
 title: "U.S.-Pacific Islands Forum Leaders Dialogue in Port Moresby, Papua New\_Guinea"
 ---

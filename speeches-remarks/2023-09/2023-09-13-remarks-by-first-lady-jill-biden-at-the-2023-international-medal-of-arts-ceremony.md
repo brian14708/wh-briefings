@@ -1,7 +1,7 @@
 ---
 date: '2023-09-13'
 published_time: 2023-09-13 19:53:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/13/remarks-by-first-lady-jill-biden-at-the-2023-international-medal-of-arts-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/13/remarks-by-first-lady-jill-biden-at-the-2023-international-medal-of-arts-ceremony/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at The 2023 International Medal of Arts\_\
   Ceremony"

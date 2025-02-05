@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-23 08:32:16-04:00
 published_time: 2024-04-22 21:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-vice-president-harris-at-a-roundtable-discussion-on-nursing-home-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-vice-president-harris-at-a-roundtable-discussion-on-nursing-home-care/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Roundtable Discussion on Nursing Home\_\
   Care"

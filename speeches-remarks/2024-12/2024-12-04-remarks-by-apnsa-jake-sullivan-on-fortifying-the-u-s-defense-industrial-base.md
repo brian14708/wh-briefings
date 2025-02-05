@@ -2,7 +2,7 @@
 date: '2024-12-04'
 modified_time: 2024-12-05 23:26:41-05:00
 published_time: 2024-12-04 16:46:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/04/remarks-by-apnsa-jake-sullivan-on-fortifying-the-u-s-defense-industrial-base/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/04/remarks-by-apnsa-jake-sullivan-on-fortifying-the-u-s-defense-industrial-base/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan on Fortifying the U.S. Defense Industrial\_\
   Base"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-24'
 modified_time: 2022-02-24 14:45:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/
 published_time: 2022-02-24 09:03:10-05:00
 title: "The Biden-\u2060Harris Plan to Revitalize American Manufacturing and Secure\
   \ Critical Supply Chains in\_2022"
@@ -12,7 +12,7 @@ title: "The Biden-\u2060Harris Plan to Revitalize American Manufacturing and Sec
 Caps Off a Year of Action Fortifying America’s Supply Chains*
 
 One year ago, President Biden signed [Executive Order
-14017](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
+14017](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
 directing an all-of-government approach to assessing vulnerabilities in
 – and strengthening the resilience of – the United States’ critical
 supply chains. Within six months of taking office, the Administration
@@ -42,7 +42,7 @@ seven cabinet agencies published reports identifying key weaknesses in
 some of the nation’s most crucial supply chains, and devising multi-year
 strategies to address those weaknesses. The [White House also published
 a capstone
-report](https://www.whitehouse.gov/wp-content/uploads/2022/02/Capstone-Report-Biden.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Capstone-Report-Biden.pdf)
 that provides an overview of the key actions the Biden-Harris
 Administration has taken over the past year to reduce the vulnerability
 of U.S. supply chains across a range of key sectors. And in the coming
@@ -194,7 +194,7 @@ Biden-Harris Administration will:
     must ensure we are not dependent on foreign or single sources for
     critical minerals. To that end, this week the Biden-Harris
     Administration [announced
-    plans](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/)
+    plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/)
     that will expand domestic rare earth processing; strengthen the
     National Defense Stockpile; [update mining
     regulations](https://www.doi.gov/pressreleases/interior-department-launches-interagency-working-group-mining-reform)
@@ -225,7 +225,7 @@ Biden-Harris Administration will:
     more options for producers and consumers, the Department of
     Agriculture (USDA) is taking the next steps outlined in its
     [comprehensive action
-    plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
+    plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/)
     to create a more diverse and resilient supply chain, supporting
     farmers, ranchers, and workers alike. This action plan includes
     dedicating $1 billion in American Rescue Plan funds to expand

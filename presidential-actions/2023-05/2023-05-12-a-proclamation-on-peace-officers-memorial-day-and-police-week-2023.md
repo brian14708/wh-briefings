@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 08:41:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/12/a-proclamation-on-peace-officers-memorial-day-and-police-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/12/a-proclamation-on-peace-officers-memorial-day-and-police-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Peace Officers Memorial Day and Police Week,\_2023"
 ---

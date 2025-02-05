@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-29 11:00:05-05:00
 published_time: 2024-02-27 22:57:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/27/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/27/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders-2/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Convening With Voting Rights\_\
   Leaders"

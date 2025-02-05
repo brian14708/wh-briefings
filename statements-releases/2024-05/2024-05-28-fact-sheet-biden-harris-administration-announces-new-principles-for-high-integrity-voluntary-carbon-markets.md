@@ -2,7 +2,7 @@
 date: '2024-05-28'
 modified_time: 2024-05-28 14:12:52-04:00
 published_time: 2024-05-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-announces-new-principles-for-high-integrity-voluntary-carbon-markets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-announces-new-principles-for-high-integrity-voluntary-carbon-markets/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Principles for\
   \ High-Integrity Voluntary Carbon\_Markets"
@@ -31,10 +31,10 @@ companies, to historically- underserved entrepreneurs.
 
 **As part of this commitment, the Biden-Harris Administration is today
 releasing a**
-[**Joint**](https://www.whitehouse.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)[**Statement
+[**Joint**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)[**Statement
 of Policy and new Principles for Responsible Participation in Voluntary
-Carbon**](https://www.whitehouse.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)[**Markets
-(VCMs)**](https://www.whitehouse.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)**that
+Carbon**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)[**Markets
+(VCMs)**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/VCM-Joint-Policy-Statement-and-Principles.pdf)**that
 codify the U.S. government’s approach to advance high-integrity VCMs.**
 The principles and statement, co-signed by Treasury Secretary Janet
 Yellen, Agriculture Secretary Tom Vilsack, Energy Secretary Jennifer
@@ -303,9 +303,9 @@ potential. These include:
     credited activities. In November 2023, the Biden-Harris
     Administration released the first-ever [National Strategy to Advance
     an Integrated U.S. Greenhouse Gas
-    Measurement,](https://www.whitehouse.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/)
+    Measurement,](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/)
     [Monitoring, and Information
-    System](https://www.whitehouse.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/),
+    System](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/29/biden-harris-administration-releases-national-strategy-to-enhance-the-nations-greenhouse-gas-measurement-and-monitoring-capabilities/),
     which seeks to enhance coordination and integration of GHG
     measurement, modeling, and data efforts to provide actionable GHG
     information. As part of implementation of the National Strategy,

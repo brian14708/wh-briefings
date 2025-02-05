@@ -2,7 +2,7 @@
 date: '2022-10-18'
 modified_time: 2022-10-17 17:21:41-04:00
 published_time: 2022-10-18 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/18/statement-by-president-joe-biden-on-new-mental-health-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/18/statement-by-president-joe-biden-on-new-mental-health-funding/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on New Mental Health\_Funding"
 ---

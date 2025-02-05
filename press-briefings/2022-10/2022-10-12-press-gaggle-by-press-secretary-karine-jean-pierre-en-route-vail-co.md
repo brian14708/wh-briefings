@@ -2,7 +2,7 @@
 date: '2022-10-12'
 modified_time: 2022-10-12 17:26:00-04:00
 published_time: 2022-10-12 17:25:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/12/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-vail-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/12/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-vail-co/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Vail,\_CO"
 ---

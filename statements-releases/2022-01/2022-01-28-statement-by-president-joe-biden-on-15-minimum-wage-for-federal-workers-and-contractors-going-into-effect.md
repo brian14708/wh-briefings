@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-01-28'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/statement-by-president-joe-biden-on-15-minimum-wage-for-federal-workers-and-contractors-going-into-effect/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/28/statement-by-president-joe-biden-on-15-minimum-wage-for-federal-workers-and-contractors-going-into-effect/
 published_time: 2022-01-28 13:26:13-05:00
 title: "Statement by President Joe\_Biden on $15 Minimum Wage for Federal Workers\
   \ and Contractors Going into\_Effect"
@@ -12,7 +12,7 @@ running for president, I said it was past time to increase the federal
 minimum wage to $15 an hour. Last year, I made a down payment on that
 pledge with Executive Orders directing my Administration to work toward
 ensuring that [employees working on federal
-contracts](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/)
+contracts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/)
 and [federal
 employees](https://www.opm.gov/news/releases/2022/01/release-opm-announces-dollar15-minimum-wage-for-us-federal-civilian-employees/)
 earned a $15 per hour minimum wage.  

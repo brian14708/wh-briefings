@@ -2,7 +2,7 @@
 date: '2024-09-20'
 modified_time: 2024-09-20 15:07:14-04:00
 published_time: 2024-09-20 15:07:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-highlights-new-actions-to-support-womens-economic-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-highlights-new-actions-to-support-womens-economic-security/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights New Actions to Support\
   \ Women\u2019s Economic\_Security"
@@ -28,7 +28,7 @@ longer—thereby, experiencing more financial strain as they age.  
    
 The Council of Economic Advisers is releasing a new issue brief on the
 [*Economic Security of Older
-Women*](https://www.whitehouse.gov/cea/written-materials/2024/09/20/economic-security-of-older-women/)
+Women*](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/09/20/economic-security-of-older-women/)
 highlighting the economic challenges that compound over the course of a
 woman’s life and underscoring that women are more vulnerable to economic
 shocks.  The issue brief also highlights Biden-Harris Administration
@@ -39,15 +39,15 @@ Since Day One, President Biden and Vice President Harris have fought to
 improve women’s economic security and protect and strengthen Social
 Security, Medicare, and Medicaid—lifelines for millions of women.  From
 [lowering prescription drug
-costs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)
+costs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)
 for millions of seniors through the historic Inflation Reduction Act to
 issuing new rules to ensure that [the financial advice that Americans
 get for
-retirement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/#:~:text=The%20rule%20will%20require%20trusted,%E2%80%94at%20retirement%20savers'%20expense.)
+retirement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/#:~:text=The%20rule%20will%20require%20trusted,%E2%80%94at%20retirement%20savers'%20expense.)
 is in their best interest, the Biden-Harris Administration is taking
 action to support women’s financial security.  The Biden-Harris
 Administration is also closing gaps in [women’s health
-research](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/),
+research](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/fact-sheet-president-biden-issues-executive-order-and-announces-new-actions-to-advance-womens-health-research-and-innovation/),
 ensuring that women enter retirement more securely, supporting families’
 access to care, and protecting women from financial fraud and scams.   
    
@@ -160,7 +160,7 @@ these challenges, the Biden-Harris Administration is:
     ten drugs selected for Medicare drug price negotiations, including
     for drugs that women disproportionately use.  For example, one of
     the [first 10 drugs is
-    Enbrel](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)—an
+    Enbrel](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/)—an
     arthritis treatment; women comprise 72 percent of the enrollees who
     use Enbrel; a woman with Medicare who takes Enbrel and pays $1,777
     today for a 30-day supply would pay only $589 to fill her
@@ -217,7 +217,7 @@ age by:
     programs.  
 -   **Protecting Women’s Retirement Savings.  **Earlier this year, DOL
     issued [a final
-    rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/#:~:text=The%20rule%20will%20require%20trusted,%E2%80%94at%20retirement%20savers'%20expense.)
+    rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/readout-of-white-house-event-announcing-overtime-and-retirement-security-rules/#:~:text=The%20rule%20will%20require%20trusted,%E2%80%94at%20retirement%20savers'%20expense.)
     to close loopholes and ensure that the financial advice that
     Americans get for retirement is in their best interest.  DOL’s rule
     will protect the millions of Americans, including millions of women,
@@ -253,7 +253,7 @@ age by:
   
 The Biden-Harris Administration—through [implementation of the
 President’s Care Executive
-Order](https://www.whitehouse.gov/wp-content/uploads/2024/04/Progress-Summary.pdf)—is
+Order](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Progress-Summary.pdf)—is
 working to ensure that older women have the support they need as they
 age as well as to care for the ones they love.  Even as older adults
 require care, they are also often the ones who provide it.  One in four
@@ -267,7 +267,7 @@ access to care by:
     associated with safety and good care outcomes.  To ensure safety and
     quality care, earlier this year, Vice President Harris announced
     that [HHS finalized a rule to require all nursing
-    homes](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-vice-president-harris-announces-historic-advancements-in-long-term-care-to-support-the-care-economy/#:~:text=The%20Nursing%20Home%20Minimum%20Staffing,and%20nurse%20aides%20(2.45%20per)
+    homes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-vice-president-harris-announces-historic-advancements-in-long-term-care-to-support-the-care-economy/#:~:text=The%20Nursing%20Home%20Minimum%20Staffing,and%20nurse%20aides%20(2.45%20per)
     that receive federal funding through Medicare and Medicaid to have
     3.48 hours per resident per day of total staffing, including a
     defined number from both registered nurses and nurse aides.  This

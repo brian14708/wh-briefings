@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-24 15:45:32-04:00
 published_time: 2024-05-24 15:36:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-biden-%e2%81%a0harris-administration-highlights-accomplishments-on-the-second-anniversary-of-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-biden-%e2%81%a0harris-administration-highlights-accomplishments-on-the-second-anniversary-of-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Accomplishments on\
   \ the Second Anniversary of Historic Executive Order to Advance Effective, Accountable\
@@ -11,7 +11,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Accomplishments
  
 In the aftermath of the tragic murder of George Floyd, President Biden
 signed a historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
 (EO 14074) affirming the Administration’s commitment to ensuring that
 each person is treated with dignity by our criminal justice system. The
 Executive Order delivered a clear message: public safety requires public

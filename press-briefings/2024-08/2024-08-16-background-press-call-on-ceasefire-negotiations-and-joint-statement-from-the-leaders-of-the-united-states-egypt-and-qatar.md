@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 17:46:46-04:00
 published_time: 2024-08-16 17:56:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/16/background-press-call-on-ceasefire-negotiations-and-joint-statement-from-the-leaders-of-the-united-states-egypt-and-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/16/background-press-call-on-ceasefire-negotiations-and-joint-statement-from-the-leaders-of-the-united-states-egypt-and-qatar/
 tags: press-briefings
 title: "Background Press Call on Ceasefire Negotiations and Joint Statement from the\
   \ Leaders of the United\_States, Egypt, and\_Qatar"

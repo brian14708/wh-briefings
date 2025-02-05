@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-14 12:53:27-04:00
 published_time: 2024-03-11 14:19:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/the-american-rescue-plan-arp-top-highlights-from-3-years-of-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/the-american-rescue-plan-arp-top-highlights-from-3-years-of-recovery/
 tags: statements-releases
 title: "The American Rescue Plan (ARP): Top Highlights from 3 Years of\_Recovery"
 ---
@@ -15,7 +15,7 @@ act of faith of starting a business, with a record 16 million small
 business applications over the past three years. In addition to the
 highlights below, here’s a breakdown of how the American Rescue Plan has
 helped every state across the nation: [ARP State-by-State
-Highlights](https://www.whitehouse.gov/wp-content/uploads/2024/03/State-by-State-ARP-3.11.24-Final.pdf)
+Highlights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/State-by-State-ARP-3.11.24-Final.pdf)
 
 1.  ***Led to the Strongest Jobs Recovery on Record and the Strongest
     Recovery in the World: When President Biden came into office, there
@@ -136,7 +136,7 @@ Highlights](https://www.whitehouse.gov/wp-content/uploads/2024/03/State-by-State
     services to over 33,000 small business owners***
 -   ***Invested $125 million through the Capital Readiness Program
     to***[*** 43 non-profit community-based
-    organizations***](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)*** to
+    organizations***](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)*** to
     help underserved entrepreneurs launch and scale their small
     businesses –*** *winners ranged from Asian/Pacific Islander Chamber
     of Commerce to Urban League of Greater Atlanta.*  
@@ -403,37 +403,37 @@ Highlights](https://www.whitehouse.gov/wp-content/uploads/2024/03/State-by-State
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/03/Graphic-1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Graphic-1.png"
 class="wp-image-94784" decoding="async" loading="lazy"
 sizes="(max-width: 739px) 100vw, 739px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/03/Graphic-1.png 739w, https://www.whitehouse.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=544,615 544w, https://www.whitehouse.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=283,320 283w, https://www.whitehouse.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=566,640 566w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Graphic-1.png 739w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=544,615 544w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=283,320 283w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Graphic-1.png?resize=566,640 566w"
 width="739" height="836" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-2.png"
 class="wp-image-94783" decoding="async" loading="lazy"
 sizes="(max-width: 732px) 100vw, 732px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-2.png 732w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-2.png?resize=615,586 615w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-2.png?resize=336,320 336w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-2.png?resize=671,640 671w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-2.png 732w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-2.png?resize=615,586 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-2.png?resize=336,320 336w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-2.png?resize=671,640 671w"
 width="732" height="698" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-3.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-3.png"
 class="wp-image-94782" decoding="async" loading="lazy"
 sizes="(max-width: 729px) 100vw, 729px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-3.png 729w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-3.png?resize=615,558 615w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-3.png?resize=352,320 352w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-3.png?resize=705,640 705w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-3.png 729w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-3.png?resize=615,558 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-3.png?resize=352,320 352w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-3.png?resize=705,640 705w"
 width="729" height="662" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-4.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-4.png"
 class="wp-image-94781" data-id="94781" decoding="async" loading="lazy"
 sizes="(max-width: 738px) 100vw, 738px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-4.png 738w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-4.png?resize=615,548 615w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-4.png?resize=359,320 359w, https://www.whitehouse.gov/wp-content/uploads/2024/03/graphic-4.png?resize=719,640 719w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-4.png 738w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-4.png?resize=615,548 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-4.png?resize=359,320 359w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/graphic-4.png?resize=719,640 719w"
 width="738" height="657" />
 </figure>
 

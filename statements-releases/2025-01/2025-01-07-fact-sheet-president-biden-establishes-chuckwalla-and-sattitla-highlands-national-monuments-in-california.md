@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-06 22:35:25-05:00
 published_time: 2025-01-07 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-president-biden-establishes-chuckwalla-and-sattitla-highlands-national-monuments-in-california/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-president-biden-establishes-chuckwalla-and-sattitla-highlands-national-monuments-in-california/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Establishes Chuckwalla and S\xE1tt\xEDtla Highlands\
   \ National Monuments in\_California"
@@ -49,7 +49,7 @@ spiritual landscape that has been inhabited and traveled by Tribal
 Nations and Indigenous peoples since time immemorial.
 
 The [Moab to Mojave Conservation
-Corridor](https://www.whitehouse.gov/wp-content/uploads/2025/01/Moab-to-Mojave-Conservation-Corridor_Map.pdf)
+Corridor](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/Moab-to-Mojave-Conservation-Corridor_Map.pdf)
 stretches from Bears Ears National Monument and Grand
 Staircase-Escalante National Monument in southwestern Utah, to which
 President Biden restored protections in 2021; through Baaj Nwaavjo I’tah
@@ -214,7 +214,7 @@ conservation accomplishments include:
     of scientific information on biodiversity, climate change impacts,
     and equity.
 -   **Launching the** [**America the Beautiful Freshwater
-    Challenge**](https://www.whitehouse.gov/ceq/the-america-the-beautiful-freshwater-challenge/),
+    Challenge**](https://bidenwhitehouse.archives.gov/ceq/the-america-the-beautiful-freshwater-challenge/),
     which established national goals to protect, restore, and reconnect
     8 million acres of wetlands and 100,000 miles of rivers and streams
     by 2030. More than 235 States, Tribes, interstate organizations,
@@ -256,41 +256,41 @@ conservation accomplishments include:
     the special, unique lands, histories, and sacred sites that
     represent our nation. [Baaj Nwaavjo I’tah Kukveni – Ancestral
     Footprints of the Grand Canyon National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
     in Arizona and [Avi Kwa Ame National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-avi-kwa-ame-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-avi-kwa-ame-national-monument/)
     in Nevada honor the sacred, culturally important lands for
     Indigenous communities who have stewarded the landscape for
     millennia. [Camp Hale – Continental Divide National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/)
     in Colorado and the [Castner Range National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
     in Texas expand contiguous wildlife habitat, increase outdoor
     access, and honor our nation’s veterans. The [Emmett Till and Mamie
     Till-Mobley National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
     in Illinois and Mississippi, the [Springfield 1908 Race Riot
     National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-president-biden-designates-springfield-1908-race-riot-national-monument/)
     in Illinois, the [Frances Perkins National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/16/fact-sheet-president-biden-designates-frances-perkins-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/16/fact-sheet-president-biden-designates-frances-perkins-national-monument/)
     in Maine, and the [Carlisle Federal Indian Boarding School National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-fourth-annual-white-house-tribal-nations-summit/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/09/fact-sheet-biden-harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-fourth-annual-white-house-tribal-nations-summit/)
     in Pennsylvania help ensure our national park sites tell a more
     complete story of our nation. Expanding the [San Gabriel Mountains
     and Berryessa Snow Mountain National
-    Monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)
+    Monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/)
     in California adds unparalleled value to these already beloved
     places and enhances outdoor access to nearby underserved and
     disadvantaged communities. In 2021, President Biden also restored
     the [Bears Ears National Monument, Grand Staircase-Escalante
     National Monument, and Northeast Canyons and Seamounts Marine
     National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/).
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/).
 -   **Establishing three National Marine Sanctuaries** **and a new
     national estuarine research reserve.** This includes the [Chumash
     Heritage National Marine
-    Sanctuary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/)
+    Sanctuary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/)
     off the central California coast, which holds deep cultural and
     historical significance to the region’s Indigenous Peoples and will
     be managed with the active involvement of Tribes and Indigenous
@@ -304,7 +304,7 @@ conservation accomplishments include:
 
 -   **Protecting American’s ocean and coasts from offshore oil and
     natural gas drilling**, including [more than 625 million
-    acres](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/)
+    acres](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/)
     across the entire U.S. Atlantic coast, the eastern Gulf of Mexico
     off Florida’s coast; the Pacific Ocean off the coasts of Washington,
     Oregon, and California; additional portions of the Northern Bering
@@ -323,13 +323,13 @@ conservation accomplishments include:
     public lands, waters, and wildlife. The Biden-Harris Administration
     also released a first-of-its kind guidance to federal agencies on
     the inclusion and recognition of [Indigenous
-    Knowledge](https://www.whitehouse.gov/ceq/news-updates/2022/12/01/white-house-releases-first-of-a-kind-indigenous-knowledge-guidance-for-federal-agencies/)
+    Knowledge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/12/01/white-house-releases-first-of-a-kind-indigenous-knowledge-guidance-for-federal-agencies/)
     in federal research, policy, and decision-making.  
       
 -   **Protecting the health and resilience of forests** by issuing an
     [Executive Order on Strengthening the Nation’s Forests, Communities,
     and Local
-    Economies](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/)
+    Economies](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/)
     and completing the first-ever [inventory of mature and old-growth
     forests](https://www.usda.gov/article/biden-harris-administration-announces-new-steps-climate-resilience-and-forest-conservation),
     which will help foster forest conservation and enhance forest
@@ -339,7 +339,7 @@ conservation accomplishments include:
 
 -   **Restoring wild salmon, steelhead, and other native fish** in the
     [Columbia River
-    Basin](https://www.whitehouse.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/)
+    Basin](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/)
     in partnership with Pacific Northwest Tribes and States. Implemented
     through a historic agreement, this work will also facilitate the
     development of Tribally sponsored clean energy production and
@@ -396,12 +396,12 @@ conservation accomplishments include:
 
 -   **Advancing nature-based solutions to combat climate change,**
     including byreleasing the [Nature-Based Solutions
-    Roadmap](https://www.whitehouse.gov/wp-content/uploads/2023/12/Nature-Based-Solutions-Resource-Guide-2.0-FINAL.pdf)
+    Roadmap](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Nature-Based-Solutions-Resource-Guide-2.0-FINAL.pdf)
     and accompanying [Resource
-    Guide](https://www.whitehouse.gov/wp-content/uploads/2023/12/Nature-Based-Solutions-Resource-Guide-2.0-FINAL.pdf).
+    Guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Nature-Based-Solutions-Resource-Guide-2.0-FINAL.pdf).
     The Administration also began the first-ever [National Nature
     Assessment and Natural Capital
-    Accounting](https://www.whitehouse.gov/ostp/news-updates/2022/04/24/accounting-for-nature-on-earth-day-2022/)
+    Accounting](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/04/24/accounting-for-nature-on-earth-day-2022/)
     and invested over $1 billion in [Urban and Community Forestry
     Program](https://www.usda.gov/article/biden-harris-administration-invests-1-billion-nearly-400-projects-expand-access-trees-and-green)
     grants to plant and maintain trees, combat extreme heat and climate
@@ -434,7 +434,7 @@ conservation accomplishments include:
 
 -   **Launching the American Climate Corps,** a groundbreaking workforce
     training and service initiative that has [put thousands of young
-    people](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/)
+    people](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-during-climate-week-biden-harris-administration-announces-continued-progress-on-the-american-climate-corps/)
     to work in good-paying jobs in clean energy, conservation, and
     resilience. Across the country, American Climate Corps members are
     working on projects to tackle the climate crisis, including

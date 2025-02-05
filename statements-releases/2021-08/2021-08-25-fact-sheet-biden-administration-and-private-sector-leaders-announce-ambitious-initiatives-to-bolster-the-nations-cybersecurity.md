@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-25'
 modified_time: 2021-08-25 18:12:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/
 published_time: 2021-08-25 17:46:41-04:00
 title: "FACT SHEET: Biden Administration and Private Sector Leaders Announce Ambitious\
   \ Initiatives to Bolster the Nation\u2019s\_Cybersecurity"
@@ -22,17 +22,17 @@ Cybersecurity is a national security and economic security imperative
 for the Biden Administration and we are prioritizing and elevating
 cybersecurity like never before. On May 12, 2021, President Biden
 [issued an Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
 that modernizes Federal Government defenses and improves the security of
 technology. To secure our critical infrastructure, this spring the Biden
 Administration launched a 100-day initiative to improve cybersecurity
 across the electric sector with others to follow. On July 28, the
 President [issued a National Security
-Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/)
 establishing voluntary cybersecurity goals that clearly outline our
 expectations for owners and operators of critical infrastructure. The
 Administration has also
-[engaged](https://www.whitehouse.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
+[engaged](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
 with the private sector on the importance of prioritizing cybersecurity
 as a central part of their efforts to maintain business continuity. And
 internationally, the Biden Administration has rallied G7 countries to

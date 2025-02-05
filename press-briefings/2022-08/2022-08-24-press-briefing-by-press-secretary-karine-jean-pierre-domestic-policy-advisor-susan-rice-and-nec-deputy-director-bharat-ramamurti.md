@@ -1,7 +1,7 @@
 ---
 date: '2022-08-24'
 published_time: 2022-08-24 21:49:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/24/press-briefing-by-press-secretary-karine-jean-pierre-domestic-policy-advisor-susan-rice-and-nec-deputy-director-bharat-ramamurti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/24/press-briefing-by-press-secretary-karine-jean-pierre-domestic-policy-advisor-susan-rice-and-nec-deputy-director-bharat-ramamurti/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Domestic Policy Advisor\
   \ Susan Rice, and NEC Deputy Director Bharat\_Ramamurti"

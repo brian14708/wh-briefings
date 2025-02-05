@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 22:16:10-05:00
 published_time: 2025-01-08 22:16:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/statement-from-press-secretary-karine-jean-pierre-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/statement-from-press-secretary-karine-jean-pierre-5/
 tags: statements-releases
 title: "Statement from Press Secretary Karine\_Jean-Pierre"
 ---

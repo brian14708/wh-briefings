@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 17:17:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/19/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/19/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-2/
 tags: presidential-actions
 title: Message to the Congress on the Continuation of the National Emergency with
   Respect to Transnational Criminal Organizations

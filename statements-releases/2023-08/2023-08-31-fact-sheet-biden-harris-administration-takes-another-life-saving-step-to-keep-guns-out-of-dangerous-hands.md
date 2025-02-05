@@ -2,7 +2,7 @@
 date: '2023-08-31'
 modified_time: 2023-08-31 12:51:22-04:00
 published_time: 2023-08-31 13:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/31/fact-sheet-biden-harris-administration-takes-another-life-saving-step-to-keep-guns-out-of-dangerous-hands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/31/fact-sheet-biden-harris-administration-takes-another-life-saving-step-to-keep-guns-out-of-dangerous-hands/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Another Life-Saving Step\
   \ to Keep Guns Out of Dangerous\_Hands"

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-22'
 published_time: 2022-06-22 11:28:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/22/president-biden-announces-tenth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/22/president-biden-announces-tenth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Tenth Operation Fly Formula\_Mission"
 ---
@@ -46,10 +46,10 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png"
 class="wp-image-56061" loading="lazy"
 sizes="(max-width: 298px) 100vw, 298px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png 596w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF10.png?resize=1200,1200 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png 596w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF10.png?resize=1200,1200 1200w"
 width="298" height="298" />
 </figure>
 

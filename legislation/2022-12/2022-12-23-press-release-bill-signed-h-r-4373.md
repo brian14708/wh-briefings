@@ -1,7 +1,7 @@
 ---
 date: '2022-12-23'
 published_time: 2022-12-23 15:30:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/23/press-release-bill-signed-h-r-4373/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/23/press-release-bill-signed-h-r-4373/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_4373"
 ---

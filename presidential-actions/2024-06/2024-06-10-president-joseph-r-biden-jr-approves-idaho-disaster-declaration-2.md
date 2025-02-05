@@ -2,7 +2,7 @@
 date: '2024-06-10'
 modified_time: 2024-06-11 09:37:47-04:00
 published_time: 2024-06-10 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/10/president-joseph-r-biden-jr-approves-idaho-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/10/president-joseph-r-biden-jr-approves-idaho-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Idaho Disaster\_Declaration"
 ---

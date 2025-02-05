@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-27 09:30:48-04:00
 published_time: 2022-10-27 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-biden-on-third-quarter-gdp-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-biden-on-third-quarter-gdp-report/
 tags: statements-releases
 title: "Statement by President\_Biden on Third Quarter GDP\_Report"
 ---

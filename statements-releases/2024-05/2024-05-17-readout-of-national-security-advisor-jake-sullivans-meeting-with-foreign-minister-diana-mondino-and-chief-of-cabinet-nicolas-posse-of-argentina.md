@@ -1,7 +1,7 @@
 ---
 date: '2024-05-17'
 published_time: 2024-05-17 10:06:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-foreign-minister-diana-mondino-and-chief-of-cabinet-nicolas-posse-of-argentina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-foreign-minister-diana-mondino-and-chief-of-cabinet-nicolas-posse-of-argentina/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Foreign\
   \ Minister Diana Mondino and Chief of Cabinet Nicol\xE1s Posse of\_Argentina"

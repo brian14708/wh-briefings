@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 22:22:43-05:00
 published_time: 2022-11-15 22:16:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/readout-of-the-meeting-of-nato-and-g7-leaders-on-the-margins-of-the-g20-summit-in-bali/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/readout-of-the-meeting-of-nato-and-g7-leaders-on-the-margins-of-the-g20-summit-in-bali/
 tags: statements-releases
 title: "Joint Statement of NATO and G7 Leaders on the Margins of the G20 Summit in\_\
   Bali"

@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 10:49:28-05:00
 published_time: 2025-01-10 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/statement-from-nsc-spokesperson-sean-savett-on-anomalous-health-incidents/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/statement-from-nsc-spokesperson-sean-savett-on-anomalous-health-incidents/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Sean Savett on Anomalous Health\_Incidents"
 ---

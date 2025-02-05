@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 13:34:38-05:00
 published_time: 2023-12-13 13:34:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/statement-from-president-joe-biden-on-agreement-reached-at-cop28/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/statement-from-president-joe-biden-on-agreement-reached-at-cop28/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Agreement Reached at\_COP28"
 ---

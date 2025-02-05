@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 20:14:01-04:00
 published_time: 2024-03-18 20:14:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-signing-of-an-executive-order-on-advancing-womens-health-research/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-signing-of-an-executive-order-on-advancing-womens-health-research/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Signing\
   \ of an Executive Order on Advancing Women\u2019s Health\_Research"

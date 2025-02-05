@@ -1,7 +1,7 @@
 ---
 date: '2022-07-29'
 published_time: 2022-07-29 21:26:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/29/press-briefing-by-press-secretary-karine-jean-pierre-july-29-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/29/press-briefing-by-press-secretary-karine-jean-pierre-july-29-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, July 29,\_2022"
 ---

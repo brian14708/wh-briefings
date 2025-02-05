@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-10 20:26:44-05:00
 published_time: 2025-01-10 20:26:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-and-vice-president-harris-before-briefing-on-the-full-federal-response-to-the-wildfires-across-los-angeles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-and-vice-president-harris-before-briefing-on-the-full-federal-response-to-the-wildfires-across-los-angeles/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Before Briefing on the\
   \ Full Federal Response to the Wildfires Across Los\_Angeles"

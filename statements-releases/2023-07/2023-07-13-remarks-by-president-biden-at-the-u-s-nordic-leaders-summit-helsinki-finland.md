@@ -1,7 +1,7 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 13:54:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/remarks-by-president-biden-at-the-u-s-nordic-leaders-summit-helsinki-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/remarks-by-president-biden-at-the-u-s-nordic-leaders-summit-helsinki-finland/
 tags: statements-releases
 title: "Remarks by President\_Biden at the U.S.-Nordic Leaders\u2019 Summit | Helsinki,\_\
   Finland"

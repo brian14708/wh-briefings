@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 15:37:15-04:00
 published_time: 2022-06-08 15:37:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/readout-of-president-bidens-call-with-president-andrzej-duda-of-poland-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/readout-of-president-bidens-call-with-president-andrzej-duda-of-poland-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Andrzej Duda of\_Poland"
 ---

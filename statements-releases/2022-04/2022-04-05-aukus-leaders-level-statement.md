@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 11:34:10-04:00
 published_time: 2022-04-05 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/aukus-leaders-level-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/aukus-leaders-level-statement/
 tags: statements-releases
 title: "AUKUS Leaders\u2019 Level\_Statement"
 ---

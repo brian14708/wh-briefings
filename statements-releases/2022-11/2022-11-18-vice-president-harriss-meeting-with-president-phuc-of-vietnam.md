@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 03:24:21-05:00
 published_time: 2022-11-18 03:24:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/vice-president-harriss-meeting-with-president-phuc-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/vice-president-harriss-meeting-with-president-phuc-of-vietnam/
 tags: statements-releases
 title: "Vice President Harris\u2019s Meeting with President Phuc of\_Vietnam"
 ---

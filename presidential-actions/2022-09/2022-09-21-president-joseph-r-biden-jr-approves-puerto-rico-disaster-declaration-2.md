@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 21:48:11-04:00
 published_time: 2022-09-21 21:48:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/21/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/21/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Disaster\_Declaration"
 ---

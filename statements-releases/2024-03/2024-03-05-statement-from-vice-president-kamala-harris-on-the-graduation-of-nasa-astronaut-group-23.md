@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 15:37:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/statement-from-vice-president-kamala-harris-on-the-graduation-of-nasa-astronaut-group-23/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/statement-from-vice-president-kamala-harris-on-the-graduation-of-nasa-astronaut-group-23/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris On the Graduation of NASA Astronaut\
   \ Group\_23"

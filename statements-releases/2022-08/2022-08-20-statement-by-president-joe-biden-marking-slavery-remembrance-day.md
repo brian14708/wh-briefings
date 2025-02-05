@@ -2,7 +2,7 @@
 date: '2022-08-20'
 modified_time: 2022-08-20 14:32:33-04:00
 published_time: 2022-08-20 14:32:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/20/statement-by-president-joe-biden-marking-slavery-remembrance-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/20/statement-by-president-joe-biden-marking-slavery-remembrance-day/
 tags: statements-releases
 title: "Statement by President Joe\_Biden\_Marking Slavery Remembrance\_Day"
 ---

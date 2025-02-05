@@ -2,7 +2,7 @@
 date: '2024-02-27'
 modified_time: 2024-02-26 20:53:10-05:00
 published_time: 2024-02-27 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/27/fact-sheet-the-biden-harris-administration-announces-nearly-1-7-billion-in-new-commitments-cultivated-through-the-white-house-challenge-to-end-hunger-and-build-healthy-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/27/fact-sheet-the-biden-harris-administration-announces-nearly-1-7-billion-in-new-commitments-cultivated-through-the-white-house-challenge-to-end-hunger-and-build-healthy-communities/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Announces Nearly $1.7 Billion\
   \ in New Commitments Cultivated Through the White\_House Challenge to End Hunger\
@@ -27,12 +27,12 @@ make commitments to advance President Biden’s goal to end hunger and
 reduce diet-related diseases by 2030—all while reducing health
 disparities. The $1.7 billion in new commitments announced today build
 on the $8 billion in commitments
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/)
 at the historic White House Conference on Hunger, Nutrition, and
 Health—held for the first time in 50 years in September 2022—and
 complements the Biden-Harris Administration’s work to implement
 the [National Strategy on Hunger, Nutrition, and
-Health](https://www.whitehouse.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).
+Health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).
 The Biden-Harris Administration worked with the CDC Foundation to
 cultivate commitments.  
   
@@ -41,7 +41,7 @@ between major sports leagues, players associations, and the President’s
 Council on Sports, Fitness, and Nutrition (the Council) to boost
 physical activity and increase nutrition programming across the country
 that the Administration
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/fact-sheet-the-biden-harris-administration-announces-historic-partnership-with-major-sports-leagues-and-players-unions/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/fact-sheet-the-biden-harris-administration-announces-historic-partnership-with-major-sports-leagues-and-players-unions/)
 earlier this month. Fourteen sports leagues and players associations
 signed agreements with the Council to expand access to physical
 activity, integrate messaging and education around nutrition, and
@@ -213,7 +213,7 @@ Administration has taken since launching the Challenge include:
     knowledge, quickly and easily identify foods that can help them
     build a healthy eating pattern;
 -   The Department of Health and Human Services (HHS) released the [U.S.
-    Playbook](https://www.whitehouse.gov/wp-content/uploads/2023/11/SDOH-Playbook-4.pdf)
+    Playbook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/SDOH-Playbook-4.pdf)
     to Address the Social Determinants of Health, which includes a set
     of framework actions that federal agencies will undertake to address
     unmet social needs-like the impact of housing and education on

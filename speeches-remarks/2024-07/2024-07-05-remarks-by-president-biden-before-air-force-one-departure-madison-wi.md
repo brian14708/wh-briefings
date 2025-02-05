@@ -2,7 +2,7 @@
 date: '2024-07-05'
 modified_time: 2024-07-08 10:44:49-04:00
 published_time: 2024-07-05 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/05/remarks-by-president-biden-before-air-force-one-departure-madison-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/05/remarks-by-president-biden-before-air-force-one-departure-madison-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Madison,\_WI"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-09'
 modified_time: 2022-05-09 17:11:45-04:00
 published_time: 2022-05-09 17:11:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-2/
 tags: presidential-actions
 title: "Notice on the\_Continuation of the National Emergency with Respect to the\
   \ Stabilization of\_Iraq"

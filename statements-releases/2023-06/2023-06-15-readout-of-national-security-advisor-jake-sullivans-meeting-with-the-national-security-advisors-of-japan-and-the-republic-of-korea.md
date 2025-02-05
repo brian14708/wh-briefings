@@ -2,7 +2,7 @@
 date: '2023-06-15'
 modified_time: 2023-06-15 06:27:09-04:00
 published_time: 2023-06-15 06:27:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-national-security-advisors-of-japan-and-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-national-security-advisors-of-japan-and-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with the\
   \ National Security Advisors of Japan and the Republic of\_Korea"

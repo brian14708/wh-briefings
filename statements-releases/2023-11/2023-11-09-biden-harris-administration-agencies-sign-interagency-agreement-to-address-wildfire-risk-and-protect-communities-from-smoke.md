@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 13:13:11-05:00
 published_time: 2023-11-09 15:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/biden-harris-administration-agencies-sign-interagency-agreement-to-address-wildfire-risk-and-protect-communities-from-smoke/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/biden-harris-administration-agencies-sign-interagency-agreement-to-address-wildfire-risk-and-protect-communities-from-smoke/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Agencies Sign Interagency Agreement to Address\
   \ Wildfire Risk and Protect Communities from\_Smoke"

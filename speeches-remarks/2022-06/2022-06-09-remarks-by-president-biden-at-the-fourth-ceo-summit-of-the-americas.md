@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 23:49:15-04:00
 published_time: 2022-06-09 16:29:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-at-the-fourth-ceo-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-at-the-fourth-ceo-summit-of-the-americas/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Fourth CEO Summit of the\_Americas"
 ---

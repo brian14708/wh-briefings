@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 14:24:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/
 published_time: 2022-01-21 15:00:00-05:00
 title: "FACT SHEET:  Biden-\u2060Harris Administration Launches Coalition of States\
   \ and Local Governments to Strengthen Building Performance\_Standards"
@@ -140,7 +140,7 @@ America’s buildings sector.
     median earnings than non-union members.
 
 In May of 2021 the Administration [announced a set of new
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-administration-accelerates-efforts-to-create-jobs-making-american-buildings-more-affordable-cleaner-and-resilient/) to
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-administration-accelerates-efforts-to-create-jobs-making-american-buildings-more-affordable-cleaner-and-resilient/) to
 grow and train the buildings sector workforce and to increase retrofit
 uptake through a building performance standard for the federal building
 portfolio. Since then the Office of Energy Efficiency and Renewable

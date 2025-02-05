@@ -2,7 +2,7 @@
 date: '2023-07-21'
 modified_time: 2023-07-21 08:53:54-04:00
 published_time: 2023-07-21 11:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-white-house-launches-office-of-pandemic-preparedness-and-response-policy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-white-house-launches-office-of-pandemic-preparedness-and-response-policy/
 tags: statements-releases
 title: "FACT SHEET: White\_House Launches Office of Pandemic Preparedness and Response\_\
   Policy"

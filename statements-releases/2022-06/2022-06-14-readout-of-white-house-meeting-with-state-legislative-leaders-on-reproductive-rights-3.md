@@ -2,7 +2,7 @@
 date: '2022-06-14'
 modified_time: 2022-06-14 16:55:27-04:00
 published_time: 2022-06-14 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/14/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/14/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-3/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Reproductive\_\
   Rights"

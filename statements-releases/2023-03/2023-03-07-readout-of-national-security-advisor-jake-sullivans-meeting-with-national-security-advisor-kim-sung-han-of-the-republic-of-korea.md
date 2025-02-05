@@ -2,7 +2,7 @@
 date: '2023-03-07'
 modified_time: 2023-03-07 14:40:31-05:00
 published_time: 2023-03-07 14:40:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-kim-sung-han-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-kim-sung-han-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with National\
   \ Security Advisor Kim Sung-han of the Republic of\_Korea"

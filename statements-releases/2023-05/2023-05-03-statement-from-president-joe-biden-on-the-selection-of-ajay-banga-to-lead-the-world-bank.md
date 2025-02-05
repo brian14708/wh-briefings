@@ -1,7 +1,7 @@
 ---
 date: '2023-05-03'
 published_time: 2023-05-03 11:57:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/03/statement-from-president-joe-biden-on-the-selection-of-ajay-banga-to-lead-the-world-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/03/statement-from-president-joe-biden-on-the-selection-of-ajay-banga-to-lead-the-world-bank/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Selection of Ajay Banga to Lead\
   \ the World\_Bank"

@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-10 22:37:41-04:00
 published_time: 2024-07-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/statement-from-president-joe-biden-on-historic-investment-to-ensure-future-of-auto-industry-is-made-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/statement-from-president-joe-biden-on-historic-investment-to-ensure-future-of-auto-industry-is-made-in-america/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic Investment to Ensure Future\
   \ of Auto Industry is Made in\_America"

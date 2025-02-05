@@ -2,7 +2,7 @@
 date: '2024-05-20'
 modified_time: 2024-05-21 14:13:45-04:00
 published_time: 2024-05-20 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/20/remarks-by-president-biden-and-second-gentleman-douglas-emhoff-at-a-celebration-for-jewish-american-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/20/remarks-by-president-biden-and-second-gentleman-douglas-emhoff-at-a-celebration-for-jewish-american-heritage-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Second Gentleman Douglas Emhoff at a Celebration\
   \ for Jewish American Heritage\_Month"

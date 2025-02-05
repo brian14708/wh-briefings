@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 16:44:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-at-alpha-kappa-alpha-sororitys-70th-boule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-at-alpha-kappa-alpha-sororitys-70th-boule/
 tags: statements-releases
 title: "Remarks By Vice President Harris\_At Alpha Kappa Alpha Sorority\u2019s 70th\_\
   Boule"

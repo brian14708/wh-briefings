@@ -1,7 +1,7 @@
 ---
 date: '2022-11-29'
 published_time: 2022-11-29 13:09:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/statement-from-vice-president-kamala-harris-on-the-passing-of-congressman-donald-mceachin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/statement-from-vice-president-kamala-harris-on-the-passing-of-congressman-donald-mceachin/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Congressman\
   \ Donald\_McEachin"

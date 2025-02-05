@@ -2,7 +2,7 @@
 date: '2022-11-16'
 modified_time: 2022-11-16 10:59:48-05:00
 published_time: 2022-11-16 10:59:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/16/a-proclamation-on-national-rural-health-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/16/a-proclamation-on-national-rural-health-day-2022/
 tags: presidential-actions
 title: "A Proclamation on National Rural Health Day,\_2022"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-24'
 published_time: 2024-07-24 16:39:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administration-delivers-environmental-justice-with-cleaner-air-clean-water-and-healthier-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administration-delivers-environmental-justice-with-cleaner-air-clean-water-and-healthier-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers Environmental Justice\
   \ with Cleaner Air, Clean Water, and Healthier\_Communities"
@@ -22,9 +22,9 @@ Scorecard](https://ejscorecard.geoplatform.gov/scorecard/) describes the
 impacts and benefits of more than $600 billion in federal investments
 that President Biden has secured over Fiscal Years 2022-2027, including
 through his [Investing in America
-agenda](https://www.whitehouse.gov/invest/), for programs that are part
+agenda](https://bidenwhitehouse.archives.gov/invest/), for programs that are part
 of the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 The goal of the President’s Justice40 Initiative is to deliver 40
 percent of the overall benefits of certain federal investments to
 disadvantaged communities that are marginalized by underinvestment and
@@ -41,7 +41,7 @@ In addition to highlighting the unprecedented progress on environmental
 justice that has been made over three and a half years under President
 Biden’s leadership, the Administration has in recent days – as part of
 its [fifth Investing in America
-tour](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/white-house-launches-fifth-investing-in-america-tour-to-highlight-how-president-bidens-agenda-is-lowering-costs-creating-good-jobs-and-revitalizing-communities-across-the-country/)
+tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/white-house-launches-fifth-investing-in-america-tour-to-highlight-how-president-bidens-agenda-is-lowering-costs-creating-good-jobs-and-revitalizing-communities-across-the-country/)
 – announced nearly $5 billion in funding awards from programs covered by
 the Justice40 Initiative. These include the following:
 
@@ -93,7 +93,7 @@ the Justice40 Initiative. These include the following:
 Today, the Biden-Harris Administration announced additional new steps to
 further the President’s historic commitment to environmental justice,
 including new actions to advance [Executive Order
-14096](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
+14096](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
 on *Revitalizing Our Nation’s Commitment to Environmental Justice for
 All*:
 
@@ -105,7 +105,7 @@ All*:
     advance environmental justice in Fiscal Year 2023. The Environmental
     Justice Scorecard incorporates recommendations from the [White House
     Environmental Justice Advisory
-    Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
+    Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
     and feedback from the public, environmental justice stakeholders,
     and experts.
 
@@ -125,7 +125,7 @@ All*:
 -   The Office of Science and Technology Policy, in coordination with
     the Council on Environmental Quality, announced the release of the
     inaugural [Environmental Justice Science, Data, and Research
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf).
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/NSTC-EJ-Research-Plan-July-2024.pdf).
     Directed by President Biden, this plan provides actionable
     recommendations for federal agencies to identify and address
     longstanding barriers and data gaps that relate to environmental
@@ -137,9 +137,9 @@ All*:
 <!-- -->
 
 -   The [White House Environmental Justice Interagency
-    Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-interagency-council/)
+    Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-interagency-council/)
     (IAC) adopted a [Memorandum of
-    Understanding](https://www.whitehouse.gov/wp-content/uploads/2024/07/Memorandum-of-Understanding_White-House-Environmental-Justice-Interagency-Council_2024.07.24_FINAL.pdf)
+    Understanding](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Memorandum-of-Understanding_White-House-Environmental-Justice-Interagency-Council_2024.07.24_FINAL.pdf)
     across 24 principals of 16 federal agencies and eight components of
     the Executive Office of the President to support and advance the
     IAC’s mission to facilitate robust and effective interagency
@@ -151,14 +151,14 @@ recent highlights include:
 
 -   **Delivering on the Justice40 Initiative.** Through President
     Biden’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     the Administration is working hard to deliver 40 percent of the
     overall benefits of certain federal climate, clean energy,
     affordable and sustainable housing, clean water, and other
     investments to disadvantaged communities that are marginalized by
     underinvestment and overburdened by pollution. In total, [more than
     500 federal programs across 19 federal
-    agencies](https://www.whitehouse.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
+    agencies](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
     are being reimagined and transformed to meet the Justice40 goal.
     Agencies are using the [Climate and Economic Justice Screening
     Tool](https://screeningtool.geoplatform.gov/en/#3/33.47/-97.5) to
@@ -175,17 +175,17 @@ recent highlights include:
     the over [$3 billion Environmental and Climate Justice block grant
     program](https://www.epa.gov/inflation-reduction-act/inflation-reduction-act-environmental-and-climate-justice-program),
     and [$4 billion to revitalize and reconnect
-    communities](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/)
+    communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/)
     that have been left behind and divided by transportation
     infrastructure. Through the [Bipartisan Infrastructure
-    Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/) and
+    Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/) and
     the [Inflation Reduction
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/),
     agencies are also investing billions to [plug orphaned oil and gas
     wells](https://www.doi.gov/orphanedwells), [remediate abandoned mine
     lands](https://www.doi.gov/pressreleases/biden-harris-administration-announces-725-million-president-bidens-investing-america#:~:text=WASHINGTON%20%E2%80%94%20The%20Department%20of%20the%20Interior%20today,economic%20opportunity%20by%20reclaiming%20abandoned%20mine%20lands%20%28AML%29.),
     [replace lead service
-    lines](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/),
+    lines](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/),
     [increase equitable access to trees and green
     spaces](https://www.usda.gov/media/press-releases/2023/04/12/biden-harris-administration-announces-historic-funding-expand), [install
     air monitors to screen for
@@ -247,29 +247,29 @@ recent highlights include:
     communities in harm’s way due to extreme weather and climate
     disasters, the Biden-Harris Administration has placed environmental
     and economic justice at the center of its [climate resilience
-    agenda](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf).
+    agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf).
     For example, the [President’s Fiscal Year 2025 Budget invests $23
     billion in climate adaptation and
-    resilience](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)
+    resilience](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)
     across the federal government to help protect the most vulnerable
     Americans from the economic and physical impacts of climate change.
     Further, the Department of Labor’s Occupational Safety and Health
     Administration proposed a new rule that, if finalized, would
     establish [the nation’s first-ever federal safety standard to
     protect workers from extreme heat in the
-    workplace](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/).
+    workplace](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/).
 -   **Expanding the White House Environmental Justice Advisory
     Council.** The Biden-Harris Administration is committed to ensuring
     that the voices, perspectives, and lived realities of communities
     with environmental justice concerns are heard in the White House and
     reflected in federal policies, investments, and decisions.
     [President Biden appointed 12 additional
-    members](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/president-biden-announces-key-appointments-to-the-white-house-environmental-justice-advisory-council/)
+    members](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/president-biden-announces-key-appointments-to-the-white-house-environmental-justice-advisory-council/)
     to the [White House Environmental Justice Advisory
-    Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
+    Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
     (WHEJAC), a federal advisory committee that President Biden
     established under [Executive Order
-    14008](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+    14008](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
     on *Tackling the Climate Crisis at Home and Abroad*. The
     establishment of the WHEJAC marked the first time that a
     Presidential advisory body has been tasked with providing
@@ -280,7 +280,7 @@ recent highlights include:
     regulatory process.** The Biden-Harris Administration finalized a
     rule to [advance environmental justice and promote meaningful public
     input in the federal environmental review
-    process](https://www.whitehouse.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
+    process](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/04/30/biden-harris-administration-finalizes-reforms-to-modernize-environmental-reviews-accelerate-americas-clean-energy-future-simplify-the-process-to-rebuild-our-nations-infrastructure/)
     under the National Environmental Policy Act. The rule helps ensure
     projects are built smart from the start by promoting early and
     meaningful engagement with communities, fostering community buy-in,
@@ -292,56 +292,56 @@ recent highlights include:
     impacts of environmental and other burdens. The Office of Management
     and Budget also issued updated guidance to [broaden public
     engagement in the regulatory
-    process](https://www.whitehouse.gov/omb/information-regulatory-affairs/broadening-public-engagement-in-the-federal-regulatory-process/).
+    process](https://bidenwhitehouse.archives.gov/omb/information-regulatory-affairs/broadening-public-engagement-in-the-federal-regulatory-process/).
     The Administration will continue to [seek public
     input](https://www.performance.gov/participation/) as it develops a
     federal framework, guidelines, and leading practices for public
     participation and community engagement activities.
 -   **Solidifying a whole-of-government commitment to environmental
     justice.** President Biden’s [Executive Order
-    14096](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
+    14096](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
     on *Revitalizing Our Nation’s Commitment to Environmental Justice
     for All* makes clear that the pursuit of environmental justice is a
     duty of all executive branch agencies and should be incorporated
     into their missions. To support agencies in their work to further
     embed environmental justice into the federal DNA and deliver real,
     measurable progress, the Council on Environmental Quality
-    [released](https://www.whitehouse.gov/ceq/news-updates/2023/11/03/a-new-environmental-justice-playbook-for-federal-agencies/)
+    [released](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/03/a-new-environmental-justice-playbook-for-federal-agencies/)
     a
-    [template](https://www.whitehouse.gov/wp-content/uploads/2023/11/Strategic-Planning-to-Advance-Environmental-Justice_final-Oct.-2023.pdf)
+    [template](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Strategic-Planning-to-Advance-Environmental-Justice_final-Oct.-2023.pdf)
     for agencies to help develop their Environmental Justice Strategic
     Plans. Agencies also incorporated environmental justice into updated
     versions of their [Climate Adaptation
-    Plans](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/).
+    Plans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/).
     Additionally, the Administration is taking ambitious action to
     tackle plastic pollution and [released the first comprehensive,
     government-wide
-    strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/)
+    strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/)
     to reduce the impact of plastic pollution throughout the plastics
     lifecycle, calling for sustained and coordinated work with
     communities with environmental justice concerns.
 -   **Rapidly accelerating locally led efforts to conserve, protect, and
     expand access to lands and waters across America.** From [protecting
     Bristol Bay in
-    Alaska](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/),
+    Alaska](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/),
     working to [restore healthy and abundant salmon in the Columbia
     River
-    Basin](https://www.whitehouse.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/),
+    Basin](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/),
     and [safeguarding the Grand
-    Canyon](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+    Canyon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
     to investing $1.5 billion [in local parks and tree
-    cover](https://www.whitehouse.gov/ceq/news-updates/2022/09/23/fact-sheet-biden-%E2%81%A0harris-administration-advances-commitment-to-create-more-equitable-access-to-parks-and-nature-in-communities/),
+    cover](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/09/23/fact-sheet-biden-%E2%81%A0harris-administration-advances-commitment-to-create-more-equitable-access-to-parks-and-nature-in-communities/),
     President Biden is protecting and restoring lands and waters that
     are important to Tribal Nations and Indigenous peoples and creating
     more equitable access to nature. The Biden-Harris Administration has
     also undertaken [an all-of-government
-    approach](https://www.whitehouse.gov/wp-content/uploads/2022/09/Nature-Deprived-Communities-MOU.pdf)
+    approach](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Nature-Deprived-Communities-MOU.pdf)
     to engage more effectively in supporting local leaders’ efforts to
     improve access to and create, expand, steward, and conserve parks
     and green and blue spaces for communities that currently lack access
     to nature. The Administration released the first-ever [U.S. Ocean
     Justice
-    Strategy](https://www.whitehouse.gov/ceq/news-updates/2023/12/08/biden-harris-administration-unveils-first-ever-strategy-to-advance-environmental-justice-for-communities-that-rely-on-the-ocean-and-marine-resources/)
+    Strategy](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/12/08/biden-harris-administration-unveils-first-ever-strategy-to-advance-environmental-justice-for-communities-that-rely-on-the-ocean-and-marine-resources/)
     to advance environmental justice for communities that rely on the
     ocean and Great Lakes, and is in the process of evaluating the
     potential Chumash Heritage National Marine Sanctuary, the first
@@ -390,7 +390,7 @@ recent highlights include:
     benefits associated with Department-funded projects in the Gulf
     South region. Additionally, the White House published a [Technical
     Assistance
-    Guide](https://www.whitehouse.gov/build/technical-assistance-guide/)
+    Guide](https://bidenwhitehouse.archives.gov/build/technical-assistance-guide/)
     to make it easier for communities across the country to navigate,
     access, and deploy infrastructure, climate resilience, and clean
     energy funding. The Environmental Protection Agency also launched
@@ -402,7 +402,7 @@ recent highlights include:
     help ensure that the benefits of the Investing in America agenda
     reach Tribal Nations and Tribal communities, President Biden signed
     [Executive Order
-    14112](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/)
+    14112](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/)
     on *Reforming Federal Funding and Support for Tribal Nations To
     Better Embrace Our Trust Responsibilities and Promote the Next Era
     of Tribal Self-Determination*. Among other agency investments, the

@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-12 13:18:34-04:00
 published_time: 2024-07-10 12:54:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/the-white-house-blueprint-for-addressing-the-maternal-health-crisis-two-years-of-progress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/the-white-house-blueprint-for-addressing-the-maternal-health-crisis-two-years-of-progress/
 tags: statements-releases
 title: "The White\_House Blueprint for Addressing the Maternal Health Crisis: Two\
   \ Years of\_Progress"
@@ -21,7 +21,7 @@ this crisis with the urgency it demands.  
 
 In June 2022, Vice President Harris announced the Biden-Harris
 Administration’s[ Blueprint for Addressing the Maternal Health
-Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
 a whole-of-government effort to combat maternal mortality and morbidity.
 Its focus has been on reducing disparities in maternal health outcomes
 and improving the overall experience of pregnancy, birth, and postpartum
@@ -295,7 +295,7 @@ Administration has:
     will evaluate the impact of its hypertension remote care monitoring
     program on health outcomes by race and ethnicity. The full list of
     commitments is
-    available [here](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/initial-external-contributions-in-response-to-vice-president-kamala-harriss-call-to-action-to-reduce-maternal-mortality-and-morbidity/).  
+    available [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/initial-external-contributions-in-response-to-vice-president-kamala-harriss-call-to-action-to-reduce-maternal-mortality-and-morbidity/).  
      
 
 Today’s announcement builds on President Biden and Vice President
@@ -317,7 +317,7 @@ actions to improve Black maternal health.
 
 Leading up to the [White House Blueprint for Addressing the Maternal
 Health
-Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
 the Vice President hosted a [roundtable on Black Maternal
 Health](https://www.c-span.org/video/?510792-1/vice-president-harris-roundtable-black-maternal-health) and
 was joined by women who shared their experiences with complications from
@@ -325,7 +325,7 @@ pregnancy, childbirth, and postpartum as well as their work in advocacy
 and research, highlighting the disparities that Black women face in
 maternal health. In April 2022, she convened a [historic meeting with
 Cabinet Secretaries and agency
-leaders](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/) to
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/) to
 discuss the Biden-Harris Administration’s whole-of-government approach
 to addressing maternal mortality and morbidity. And the Vice President
 will continue to use her platform to raise public awareness about the

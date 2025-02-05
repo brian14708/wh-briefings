@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 01:00:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/readout-of-vice-president-harriss-meeting-with-prime-minister-han-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/readout-of-vice-president-harriss-meeting-with-prime-minister-han-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Han of\
   \ the Republic of\_Korea"

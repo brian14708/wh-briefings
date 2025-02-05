@@ -1,7 +1,7 @@
 ---
 date: '2023-04-25'
 published_time: 2023-04-25 17:03:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/statement-by-vice-president-kamala-harris-on-the-passing-of-harry-belafonte/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/statement-by-vice-president-kamala-harris-on-the-passing-of-harry-belafonte/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Passing of Harry\_Belafonte"
 ---

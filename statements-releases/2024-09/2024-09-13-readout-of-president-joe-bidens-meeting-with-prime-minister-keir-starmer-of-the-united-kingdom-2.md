@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 18:33:45-04:00
 published_time: 2024-09-13 18:33:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/13/readout-of-president-joe-bidens-meeting-with-prime-minister-keir-starmer-of-the-united-kingdom-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/13/readout-of-president-joe-bidens-meeting-with-prime-minister-keir-starmer-of-the-united-kingdom-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Keir Starmer\
   \ of the United\_Kingdom"

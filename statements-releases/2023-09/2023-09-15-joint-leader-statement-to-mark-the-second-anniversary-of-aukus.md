@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 07:28:38-04:00
 published_time: 2023-09-15 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/joint-leader-statement-to-mark-the-second-anniversary-of-aukus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/joint-leader-statement-to-mark-the-second-anniversary-of-aukus/
 tags: statements-releases
 title: "Joint Leader Statement to Mark the Second Anniversary of\_AUKUS"
 ---

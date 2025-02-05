@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 14:33:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/23/message-to-congress-on-intent-to-designate-kenya-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/23/message-to-congress-on-intent-to-designate-kenya-as-a-major-non-nato-ally/
 tags: presidential-actions
 title: "Message to Congress on Intent to Designate Kenya as a Major Non-NATO\_Ally"
 ---

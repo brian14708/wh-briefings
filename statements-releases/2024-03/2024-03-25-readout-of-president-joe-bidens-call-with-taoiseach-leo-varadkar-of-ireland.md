@@ -1,7 +1,7 @@
 ---
 date: '2024-03-25'
 published_time: 2024-03-25 15:08:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/readout-of-president-joe-bidens-call-with-taoiseach-leo-varadkar-of-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/readout-of-president-joe-bidens-call-with-taoiseach-leo-varadkar-of-ireland/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Taoiseach Leo Varadkar of\_\
   Ireland"

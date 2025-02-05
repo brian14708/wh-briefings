@@ -2,7 +2,7 @@
 date: '2022-11-30'
 modified_time: 2022-11-29 20:01:14-05:00
 published_time: 2022-11-30 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/30/fact-sheet-biden-harris-administration-announces-new-actions-to-support-indian-country-and-native-communities-ahead-of-the-administrations-second-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/30/fact-sheet-biden-harris-administration-announces-new-actions-to-support-indian-country-and-native-communities-ahead-of-the-administrations-second-tribal-nations-summit/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Announces New Actions to Support\
   \ Indian Country and Native Communities Ahead of the Administration\u2019s Second\
@@ -257,10 +257,10 @@ for generations to come.
 Other announcements that are being made at the Summit this year are
 included below. Additionally, the White House is releasing a
 comprehensive [Progress
-Report](https://www.whitehouse.gov/wp-content/uploads/2022/11/2022_11_23-WH-Tribal-Nations-Summit-Progress-Report-Final.pdf)
+Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/2022_11_23-WH-Tribal-Nations-Summit-Progress-Report-Final.pdf)
 that details actions that have been taken across the Administration over
 the past two years. The full report can be read
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/11/2022_11_23-WH-Tribal-Nations-Summit-Progress-Report-Final.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/2022_11_23-WH-Tribal-Nations-Summit-Progress-Report-Final.pdf).
 
 **<u>Additional Announcements That Will Be Made During the Tribal
 Nations Summit</u>**
@@ -491,7 +491,7 @@ Tribal consultations on the Notice of Proposed Rulemaking in December
 <span style="text-decoration: underline">Enhancing Tribal Participation
 in the 477 Program</span>. Last month, 12 federal agencies signed a [new
 Memorandum of Agreement
-(MOA)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/)
+(MOA)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/)
 to implement the Tribal “PL477 Program,” named for Public Law 102-477.
 PL477 allows Tribal governments to consolidate important federal funding
 for job training, workforce development, and other economic development

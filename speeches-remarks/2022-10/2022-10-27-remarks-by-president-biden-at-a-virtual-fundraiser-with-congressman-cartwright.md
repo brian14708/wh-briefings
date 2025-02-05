@@ -1,7 +1,7 @@
 ---
 date: '2022-10-27'
 published_time: 2022-10-27 17:24:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/27/remarks-by-president-biden-at-a-virtual-fundraiser-with-congressman-cartwright/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/27/remarks-by-president-biden-at-a-virtual-fundraiser-with-congressman-cartwright/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Virtual Fundraiser with Congressman\_Cartwright"
 ---

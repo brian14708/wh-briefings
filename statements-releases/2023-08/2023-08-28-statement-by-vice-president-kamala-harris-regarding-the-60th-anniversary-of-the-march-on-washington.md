@@ -2,7 +2,7 @@
 date: '2023-08-28'
 modified_time: 2023-08-28 07:30:17-04:00
 published_time: 2023-08-28 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/28/statement-by-vice-president-kamala-harris-regarding-the-60th-anniversary-of-the-march-on-washington/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/28/statement-by-vice-president-kamala-harris-regarding-the-60th-anniversary-of-the-march-on-washington/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris Regarding the 60th Anniversary\
   \ of the March on\_Washington"

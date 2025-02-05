@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-10 09:00:14-04:00
 published_time: 2024-07-10 09:00:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/10/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/10/a-proclamation-on-adjusting-imports-of-aluminum-into-the-united-states-6/
 tags: presidential-actions
 title: "A Proclamation on Adjusting Imports of Aluminum Into the United\_States"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-17 18:09:21-04:00
 published_time: 2023-03-17 18:09:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/readout-of-national-security-advisor-sullivan-secretary-austin-and-chairman-milley-call-with-ukrainian-counterparts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/readout-of-national-security-advisor-sullivan-secretary-austin-and-chairman-milley-call-with-ukrainian-counterparts/
 tags: statements-releases
 title: "Readout of National Security Advisor Sullivan, Secretary Austin and Chairman\
   \ Milley Call with Ukrainian\_Counterparts"

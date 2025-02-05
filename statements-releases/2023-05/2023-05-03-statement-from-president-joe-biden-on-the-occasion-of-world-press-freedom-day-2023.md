@@ -1,7 +1,7 @@
 ---
 date: '2023-05-03'
 published_time: 2023-05-03 10:27:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/03/statement-from-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/03/statement-from-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2023/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of World Press Freedom\
   \ Day\_2023"

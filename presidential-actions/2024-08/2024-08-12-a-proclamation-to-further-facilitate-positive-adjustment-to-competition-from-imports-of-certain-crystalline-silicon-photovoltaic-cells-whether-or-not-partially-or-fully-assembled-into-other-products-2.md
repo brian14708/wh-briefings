@@ -2,7 +2,7 @@
 date: '2024-08-12'
 modified_time: 2024-08-12 18:01:50-04:00
 published_time: 2024-08-12 20:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/12/a-proclamation-to-further-facilitate-positive-adjustment-to-competition-from-imports-of-certain-crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other-products-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/12/a-proclamation-to-further-facilitate-positive-adjustment-to-competition-from-imports-of-certain-crystalline-silicon-photovoltaic-cells-whether-or-not-partially-or-fully-assembled-into-other-products-2/
 tags: presidential-actions
 title: "A Proclamation To Further Facilitate Positive Adjustment to Competition From\
   \ Imports of Certain Crystalline Silicon Photovoltaic Cells (Whether or Not Partially\

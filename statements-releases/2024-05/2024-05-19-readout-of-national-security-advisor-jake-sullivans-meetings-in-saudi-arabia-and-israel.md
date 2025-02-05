@@ -1,7 +1,7 @@
 ---
 date: '2024-05-19'
 published_time: 2024-05-19 16:41:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/19/readout-of-national-security-advisor-jake-sullivans-meetings-in-saudi-arabia-and-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/19/readout-of-national-security-advisor-jake-sullivans-meetings-in-saudi-arabia-and-israel/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meetings in Saudi\
   \ Arabia and\_Israel"

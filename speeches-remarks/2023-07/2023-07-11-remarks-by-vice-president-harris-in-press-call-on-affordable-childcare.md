@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 13:10:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-vice-president-harris-in-press-call-on-affordable-childcare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-vice-president-harris-in-press-call-on-affordable-childcare/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Call on Affordable\_Childcare"
 ---

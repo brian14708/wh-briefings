@@ -1,7 +1,7 @@
 ---
 date: '2023-12-22'
 published_time: 2023-12-22 09:38:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-national-security-advisor-jake-sullivan-on-japans-decision-to-transfer-patriot-missiles-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-national-security-advisor-jake-sullivan-on-japans-decision-to-transfer-patriot-missiles-to-the-united-states/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Japan\u2019s Decision\
   \ to Transfer Patriot Missiles to the United\_States"

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-22'
 published_time: 2024-03-22 16:31:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/22/press-release-bills-signed-s-992-s-1278/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/22/press-release-bills-signed-s-992-s-1278/
 tags: presidential-actions
 title: "Press Release: Bills Signed: S. 992, S.\_1278"
 ---

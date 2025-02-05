@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-13'
 modified_time: 2021-11-30 13:04:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/13/fact-sheet-renewed-u-s-leadership-in-glasgow-raises-ambition-to-tackle-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/13/fact-sheet-renewed-u-s-leadership-in-glasgow-raises-ambition-to-tackle-climate-crisis/
 published_time: 2021-11-13 21:05:57-05:00
 title: "FACT SHEET: Renewed U.S. Leadership in Glasgow Raises Ambition to Tackle Climate\_\
   Crisis"
@@ -29,12 +29,12 @@ in office, President Biden rejoined the Paris Agreement, restored U.S.
 leadership on the world stage, and reestablished our position to tackle
 the climate crisis at home and abroad. He convened the [first-ever
 Leaders Summit
-on](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-president-bidens-leaders-summit-on-climate/)
+on](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-president-bidens-leaders-summit-on-climate/)
 Climate that affirmed the need for unprecedented global cooperation and
 ambition and convened a [U.S.-led Major Economies Forum on Energy and
-Climate](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/readout-of-president-bidens-meeting-of-the-major-economies-forum-on-energy-and-climate/).
+Climate](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/17/readout-of-president-bidens-meeting-of-the-major-economies-forum-on-energy-and-climate/).
 Congress passed President Biden’s [Bipartisan Infrastructure
-Deal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/08/fact-sheet-the-bipartisan-infrastructure-deal-boosts-clean-energy-jobs-strengthens-resilience-and-advances-environmental-justice/),
+Deal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/08/fact-sheet-the-bipartisan-infrastructure-deal-boosts-clean-energy-jobs-strengthens-resilience-and-advances-environmental-justice/),
 which will expand access to clean drinking water, make unprecedented
 investments in clean energy infrastructure, and is a critical step
 towards reaching our goal of a net-zero emissions economy by 2050. When

@@ -2,7 +2,7 @@
 date: '2022-06-16'
 modified_time: 2022-06-16 12:11:17-04:00
 published_time: 2022-06-16 12:11:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/16/remarks-by-vice-president-harris-in-a-press-call-on-improving-maternal-health-outcomes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/16/remarks-by-vice-president-harris-in-a-press-call-on-improving-maternal-health-outcomes/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Press Call on Improving Maternal Health\_\
   Outcomes"

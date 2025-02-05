@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 15:09:35-04:00
 published_time: 2022-07-15 15:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/president-biden-signs-executive-order-creating-a-presidential-emergency-board/
 tags: statements-releases
 title: "President\_Biden Signs Executive Order Creating a Presidential Emergency\_\
   Board"

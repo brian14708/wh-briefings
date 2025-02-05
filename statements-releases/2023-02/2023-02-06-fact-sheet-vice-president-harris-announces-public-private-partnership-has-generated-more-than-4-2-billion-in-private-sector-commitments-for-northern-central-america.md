@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-07 00:02:12-05:00
 published_time: 2023-02-06 11:15:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-vice-president-harris-announces-public-private-partnership-has-generated-more-than-4-2-billion-in-private-sector-commitments-for-northern-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/fact-sheet-vice-president-harris-announces-public-private-partnership-has-generated-more-than-4-2-billion-in-private-sector-commitments-for-northern-central-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Public-Private Partnership Has\
   \ Generated More than $4.2 Billion in Private Sector Commitments for Northern Central\_\

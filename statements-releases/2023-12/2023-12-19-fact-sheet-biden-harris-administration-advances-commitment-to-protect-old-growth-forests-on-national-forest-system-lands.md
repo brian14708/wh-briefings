@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-18 20:02:32-05:00
 published_time: 2023-12-19 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Commitment to Protect\
   \ Old Growth Forests on National Forest System\_Lands"
@@ -12,7 +12,7 @@ The Biden-Harris Administration is today taking new and historic steps
 to implement President Biden’s direction – issued in his [Earth Day 2022
 Executive Order on Strengthening the Nation’s Forests, Communities, and
 Local
-Economies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/)
+Economies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/)
 – to conserve and restore America’s mature and old growth forests.
 America’s forests are a key climate solution, absorbing carbon dioxide
 equivalent to more than 10% of U.S. annual greenhouse gas emissions.
@@ -191,7 +191,7 @@ communities](https://www.bing.com/search?q=Urban+and+Community+Forestry+Grants&P
 for urban tree-planting and management through the Urban Community
 Forestry Program. All of the nearly 400 awards went to disadvantaged
 communities in line with the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 Another [$250
 million](https://www.fs.usda.gov/managing-land/urban-forests/ucf/fy23-state-allocations)
 in funding was allocated to state and territory forestry agencies. This

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 published_time: 2023-05-19 10:32:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/19/a-proclamation-on-national-maritime-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/19/a-proclamation-on-national-maritime-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National Maritime Day,\_2023"
 ---

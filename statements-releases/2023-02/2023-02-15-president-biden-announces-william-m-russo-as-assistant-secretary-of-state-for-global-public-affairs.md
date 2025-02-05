@@ -2,7 +2,7 @@
 date: '2023-02-15'
 modified_time: 2023-02-15 09:06:10-05:00
 published_time: 2023-02-15 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/president-biden-announces-william-m-russo-as-assistant-secretary-of-state-for-global-public-affairs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/president-biden-announces-william-m-russo-as-assistant-secretary-of-state-for-global-public-affairs/
 tags: statements-releases
 title: "President\_Biden Announces William M. Russo as Assistant Secretary of State\
   \ for Global Public\_Affairs"

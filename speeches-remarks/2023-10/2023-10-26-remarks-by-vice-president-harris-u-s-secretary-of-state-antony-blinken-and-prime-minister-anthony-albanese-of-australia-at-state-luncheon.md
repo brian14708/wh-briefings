@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-26 14:48:07-04:00
 published_time: 2023-10-26 14:48:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/26/remarks-by-vice-president-harris-u-s-secretary-of-state-antony-blinken-and-prime-minister-anthony-albanese-of-australia-at-state-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/26/remarks-by-vice-president-harris-u-s-secretary-of-state-antony-blinken-and-prime-minister-anthony-albanese-of-australia-at-state-luncheon/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris, U.S. Secretary of State Antony Blinken,\
   \ and Prime Minister Anthony Albanese of Australia at State\_Luncheon"

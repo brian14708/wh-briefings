@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-03 16:40:32-05:00
 published_time: 2024-12-03 16:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-and-president-joao-lourenco-of-angola-before-bilateral-meeting-luanda-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-and-president-joao-lourenco-of-angola-before-bilateral-meeting-luanda-angola/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Jo\xE3o Louren\xE7o of Angola Before\
   \ Bilateral Meeting | Luanda,\_Angola"

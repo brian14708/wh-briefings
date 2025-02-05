@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 17:00:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/01/press-gaggle-by-deputy-press-secretary-emilie-simons-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-minneapolis-mn/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/01/press-gaggle-by-deputy-press-secretary-emilie-simons-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-minneapolis-mn/
 tags: press-briefings
 title: "Press Gaggle by Deputy Press Secretary Emilie Simons and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Minneapolis,\_MN"

@@ -2,7 +2,7 @@
 date: '2023-12-21'
 modified_time: 2023-12-21 13:13:25-05:00
 published_time: 2023-12-21 13:13:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/21/letters-to-certain-congressional-committees-providing-notice-of-changes-to-the-legal-and-policy-frameworks-for-the-united-states-use-of-military-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/21/letters-to-certain-congressional-committees-providing-notice-of-changes-to-the-legal-and-policy-frameworks-for-the-united-states-use-of-military-force/
 tags: presidential-actions
 title: "Letters to Certain Congressional Committees Providing Notice of Changes to\
   \ the Legal and Policy Frameworks for the United\_States\u2019 Use of Military\_\

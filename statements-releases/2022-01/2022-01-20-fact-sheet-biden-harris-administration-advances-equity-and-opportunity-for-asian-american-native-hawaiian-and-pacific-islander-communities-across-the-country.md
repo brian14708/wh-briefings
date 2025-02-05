@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-01-20'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/
 published_time: 2022-01-20 12:56:56-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Asian American, Native Hawaiian, and Pacific Islander Communities Across the\_\
@@ -47,7 +47,7 @@ respond to and prevent hate crimes and violence*.*****
 Biden signed into law the COVID-19 Hate Crimes Act, bipartisan
 legislation that makes significant improvements to our Nation’s response
 to hate crimes. The bill [addresses two
-challenges](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/):
+challenges](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/):
 the lack of resources and training for state and local law enforcement
 to accurately identify and report hate crimes to the FBI, and the
 language and cultural barriers that many AA and NHPI communities and
@@ -56,7 +56,7 @@ communities of color face in reporting hate crimes to law enforcement.
 ***Funding critical research to prevent and address bias and xenophobia
 against AA and NHPI communities.*** The National Science Foundation
 (NSF) is taking a comprehensive approach to [investing in
-research](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
+research](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
 to understand, address, and end bias, discrimination and xenophobia,
 including against AA and NHPI communities.  NSF is currently funding 100
 grant programs across the country that are helping a wide array of
@@ -234,7 +234,7 @@ language access, and sensitivity toward AA and NHPIs.
 
 When President Biden signed the American Rescue Plan (ARP) into law, it
 provided a
-[lifeline](https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Fact-Sheet-AAPI-Communities.pdf)
+[lifeline](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Fact-Sheet-AAPI-Communities.pdf)
 to millions of AA and NHPI families who were struggling from the
 economic fallout and health impacts of the pandemic. The ARP is:
 
@@ -311,7 +311,7 @@ Relief Fund.
 ***Advancing equity and racial justice for AA and NHPI communities
 throughout the federal government.*** On his first day in office,
 President Biden signed a historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
 a cross-government initiative to advance equity and racial justice for
 communities that have been historically underserved, marginalized, and
 adversely affected by persistent poverty and inequality, including AA
@@ -325,7 +325,7 @@ American people, including AA and NHPIs.
 ***Reestablishing and expanding the White House Initiative on Asian
 American and Native Hawaiian and Pacific Islanders.*** In May, the
 President signed [Executive Order
-14031](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
+14031](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/28/fact-sheet-president-biden-establishes-the-white-house-initiative-on-asian-americans-native-hawaiians-and-pacific-islanders/)
 reestablishing the White House Initiative on Asian Americans and Native
 Hawaiian and Pacific Islanders, and delivering on the President’s
 commitment to reinstate and reinvigorate this historic Initiative. The
@@ -375,13 +375,13 @@ anti-Asian xenophobia and violence, ways to build capacity in AA and
 NHPI communities through federal grantmaking, and policies to address
 the barriers that AA and NHPI women, LGBTQI+ people, and people with
 disabilities face.  The
-[Commission](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/)
+[Commission](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/20/president-biden-announces-intent-to-appoint-commissioners-to-the-presidents-advisory-commission-on-asian-americans-native-hawaiians-and-pacific-islanders/)
 is made up of leaders who reflect the rich diversity of AA and NHPI
 communities across the country.
 
 ***Advancing Diversity, Equity, Inclusion, and Accessibility in the
 Federal Government.*** In June, the President signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
 advancing diversity, equity, inclusion, and accessibility in the federal
 government. The Executive Order establishes that it is the policy of the
 Biden-Harris Administration to cultivate a workforce that draws from the
@@ -690,7 +690,7 @@ immigrants and new Americans.  These actions include:
 ***Pushing for immigration reform legislation in Congress.*** On his
 first day in office, the President sent Congress the [United States
 Citizenship
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-president-biden-sends-immigration-bill-to-congress-as-part-of-his-commitment-to-modernize-our-immigration-system/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-president-biden-sends-immigration-bill-to-congress-as-part-of-his-commitment-to-modernize-our-immigration-system/)
 – comprehensive legislation that seeks to create a pathway to permanent
 residence and eventual citizenship for the nearly 11 million
 undocumented immigrants, including AA and NHPI immigrants, living in and
@@ -712,7 +712,7 @@ to naturalization and reducing backlogs for naturalization applications.
 
 ***Protecting DACA recipients and Dreamers.***  On his first day in
 office, President Biden issued a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca/)
 directing the Secretary of Homeland Security, in consultation with the
 Attorney General, to take appropriate actions to preserve and fortify
 the 2012 DACA policy, under which eligible undocumented immigrant youth,
@@ -749,7 +749,7 @@ plans to the Secretary.
 ***Deferring enforced departure for Hong Kong*.** In August, President
 Biden signed a [“Memorandum on the Deferred Enforced Departure for
 Certain Hong Kong Residents for 18
-months”](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/memorandum-on-the-deferred-enforced-departure-for-certain-hong-kong-residents/)
+months”](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/memorandum-on-the-deferred-enforced-departure-for-certain-hong-kong-residents/)
 which authorized the Secretary of Homeland Security to take measures to
 defer the removal of any qualified Hong Kong resident for 18 months.
 
@@ -837,7 +837,7 @@ including:
 ***Creating a White House Senior Liaison to the Asian American, Native
 Hawaiian, and Pacific Islander communities.***  President Biden
 announced the appointment of [Erika L.
-Moritsugu](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/14/president-biden-announces-erika-l-moritsugu-as-deputy-assistant-to-the-president-and-asian-american-and-pacific-islander-senior-liaison/)
+Moritsugu](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/14/president-biden-announces-erika-l-moritsugu-as-deputy-assistant-to-the-president-and-asian-american-and-pacific-islander-senior-liaison/)
 to serve as Deputy Assistant to the President and the first-ever Asian
 American, Native Hawaiian, and Pacific Islander Senior Liaison to the
 White House.  

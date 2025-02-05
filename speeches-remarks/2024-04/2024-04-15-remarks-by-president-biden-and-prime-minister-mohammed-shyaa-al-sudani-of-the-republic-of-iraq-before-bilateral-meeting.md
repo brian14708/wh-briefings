@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 15:23:45-04:00
 published_time: 2024-04-15 15:23:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-president-biden-and-prime-minister-mohammed-shyaa-al-sudani-of-the-republic-of-iraq-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-president-biden-and-prime-minister-mohammed-shyaa-al-sudani-of-the-republic-of-iraq-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Mohammed Shyaa al-Sudani of\
   \ the Republic of Iraq Before Bilateral\_Meeting"

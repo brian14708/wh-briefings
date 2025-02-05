@@ -2,7 +2,7 @@
 date: '2024-09-11'
 modified_time: 2024-09-11 08:45:58-04:00
 published_time: 2024-09-11 08:45:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/11/statement-from-vice-president-kamala-harris-on-aysenur-eygi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/11/statement-from-vice-president-kamala-harris-on-aysenur-eygi/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Aysenur\_Eygi"
 ---

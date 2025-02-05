@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 18:41:20-04:00
 published_time: 2024-05-31 18:41:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/a-message-to-the-house-of-representatives-on-the-presidents-veto-of-h-j-res-109/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/a-message-to-the-house-of-representatives-on-the-presidents-veto-of-h-j-res-109/
 tags: presidential-actions
 title: "A Message to the House of Representatives on the President\u2019s Veto of\
   \ H.J.Res.\_109"

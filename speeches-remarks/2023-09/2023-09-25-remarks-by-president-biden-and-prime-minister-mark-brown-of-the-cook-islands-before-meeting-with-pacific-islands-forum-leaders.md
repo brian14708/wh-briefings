@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 15:00:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-president-biden-and-prime-minister-mark-brown-of-the-cook-islands-before-meeting-with-pacific-islands-forum-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-president-biden-and-prime-minister-mark-brown-of-the-cook-islands-before-meeting-with-pacific-islands-forum-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Mark Brown of the Cook Islands\
   \ Before Meeting with Pacific Islands Forum\_Leaders"

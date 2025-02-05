@@ -2,7 +2,7 @@
 date: '2023-06-20'
 modified_time: 2023-06-21 11:30:24-04:00
 published_time: 2023-06-20 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | San Francisco,\_CA"
 ---

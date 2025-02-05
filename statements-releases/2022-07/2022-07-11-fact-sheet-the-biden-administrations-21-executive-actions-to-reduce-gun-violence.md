@@ -2,7 +2,7 @@
 date: '2022-07-11'
 modified_time: 2022-07-11 18:29:57-04:00
 published_time: 2022-07-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration\u2019s 21 Executive Actions to Reduce\
   \ Gun\_Violence"
@@ -10,7 +10,7 @@ title: "FACT SHEET: The Biden Administration\u2019s 21 Executive Actions to Redu
  
 President Biden has made historic progress on actions to reduce gun
 violence. To implement his
-comprehensive [strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/) to
+comprehensive [strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/) to
 reduce gun crime, the Biden Administration has taken more executive
 action to reduce gun violence than any other president’s at this point
 in their Administration. Today, the President is celebrating the
@@ -86,7 +86,7 @@ Homeland Security (DHS), Justice (DOJ), and Veterans Affairs (VA), as
 well as the Office of Emergency Medical Services within the Department
 of Transportation (DOT), announced that they will jointly create a
 plan for addressing [lethal means safety
-awareness](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf),
+awareness](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf),
 education, training, and program evaluation. 
 
 10. ATF [issued](https://www.federalregister.gov/documents/2022/01/04/2021-28398/secure-gun-storage-and-definition-of-antique-firearm) a [final
@@ -100,7 +100,7 @@ compatible secure gun storage or safety devices. 
 Plan funding to reduce gun crime and other violent crime, including by
 investing in community violence interventions and prevention. Through
 May 2022, [$10
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/) in
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/) in
 American Rescue Plan funds had been committed to public safety and
 violence prevention – including at least $6.5 billion in State and Local
 funds committed by more than half of states and more than 300
@@ -154,7 +154,7 @@ state lawmakers stepped up.”
 
 14.  Senior White House staff established The [White House Community
 Violence Intervention
-Collaborative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
+Collaborative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
 a 16-jurisdiction cohort of mayors, law enforcement, CVI experts, and
 philanthropic leaders committed to using American Rescue Plan funding or
 other public funding to increase investment in their community violence

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 13:47:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/28/background-press-call-by-senior-administration-officials-previewing-the-u-s-pacific-island-country-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/28/background-press-call-by-senior-administration-officials-previewing-the-u-s-pacific-island-country-summit/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the U.S.-Pacific\
   \ Island Country\_Summit"

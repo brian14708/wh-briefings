@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-26 09:46:07-04:00
 published_time: 2023-10-26 09:46:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/26/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-australia-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/26/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-australia-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Anthony Albanese of Australia\
   \ at Arrival\_Ceremony"

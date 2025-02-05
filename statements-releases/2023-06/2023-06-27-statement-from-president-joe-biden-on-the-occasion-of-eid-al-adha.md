@@ -1,7 +1,7 @@
 ---
 date: '2023-06-27'
 published_time: 2023-06-27 22:13:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/statement-from-president-joe-biden-on-the-occasion-of-eid-al-adha/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/statement-from-president-joe-biden-on-the-occasion-of-eid-al-adha/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of Eid\_al-Adha"
 ---

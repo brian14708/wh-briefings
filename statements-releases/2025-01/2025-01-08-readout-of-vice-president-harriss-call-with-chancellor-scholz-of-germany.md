@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 18:22:45-05:00
 published_time: 2025-01-08 18:22:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-chancellor-scholz-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-chancellor-scholz-of-germany/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Chancellor Scholz of\_Germany"
 ---

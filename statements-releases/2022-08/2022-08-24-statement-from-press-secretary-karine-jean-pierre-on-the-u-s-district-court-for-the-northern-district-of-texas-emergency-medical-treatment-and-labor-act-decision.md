@@ -1,7 +1,7 @@
 ---
 date: '2022-08-24'
 published_time: 2022-08-24 12:03:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-district-court-for-the-northern-district-of-texas-emergency-medical-treatment-and-labor-act-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-district-court-for-the-northern-district-of-texas-emergency-medical-treatment-and-labor-act-decision/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the U.S. District Court\
   \ for the Northern District of Texas Emergency Medical Treatment and Labor Act\_\

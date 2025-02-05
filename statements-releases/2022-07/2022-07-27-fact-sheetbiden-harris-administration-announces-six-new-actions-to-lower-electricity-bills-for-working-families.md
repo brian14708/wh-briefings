@@ -2,7 +2,7 @@
 date: '2022-07-27'
 modified_time: 2022-07-27 09:17:07-04:00
 published_time: 2022-07-27 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/27/fact-sheetbiden-harris-administration-announces-six-new-actions-to-lower-electricity-bills-for-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/27/fact-sheetbiden-harris-administration-announces-six-new-actions-to-lower-electricity-bills-for-working-families/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Six New Actions to\
   \ Lower Electricity Bills for Working\_Families"

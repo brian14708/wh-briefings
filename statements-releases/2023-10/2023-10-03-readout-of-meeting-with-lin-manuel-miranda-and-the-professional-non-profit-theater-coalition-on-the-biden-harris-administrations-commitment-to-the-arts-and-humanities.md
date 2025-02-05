@@ -2,7 +2,7 @@
 date: '2023-10-03'
 modified_time: 2023-10-04 08:00:23-04:00
 published_time: 2023-10-03 20:11:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/readout-of-meeting-with-lin-manuel-miranda-and-the-professional-non-profit-theater-coalition-on-the-biden-harris-administrations-commitment-to-the-arts-and-humanities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/readout-of-meeting-with-lin-manuel-miranda-and-the-professional-non-profit-theater-coalition-on-the-biden-harris-administrations-commitment-to-the-arts-and-humanities/
 tags: statements-releases
 title: "Readout of Meeting with Lin-Manuel Miranda and the Professional Non-Profit\
   \ Theater Coalition on the Biden-\u2060Harris Administration\u2019s Commitment to\
@@ -25,7 +25,7 @@ theaters, concert halls, libraries, and other venues, and the
 Administration has invested hundreds of millions more into strengthening
 the NEA and the National Endowment for the Humanities (NEH). A year
 ago, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/) to
 make art more accessible to people from underserved communities, elevate
 new voices through the arts and humanities, and expand opportunities for
 artists and scholars. The Executive Order also re-established the

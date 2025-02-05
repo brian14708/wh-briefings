@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 13:35:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-hiring-our-heroes-and-blue-star-families-military-spouse-employment-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/06/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-hiring-our-heroes-and-blue-star-families-military-spouse-employment-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Hiring our\
   \ Heroes and Blue Star Families Military Spouse Employment\_Event"

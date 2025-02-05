@@ -1,7 +1,7 @@
 ---
 date: '2024-08-16'
 published_time: 2024-08-16 13:15:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/16/a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/16/a-proclamation-on-national-employer-support-of-the-guard-and-reserve-week-2024/
 tags: presidential-actions
 title: "A Proclamation on National Employer Support of the Guard and Reserve Week,\_\
   2024"

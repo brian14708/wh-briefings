@@ -2,7 +2,7 @@
 date: '2023-09-10'
 modified_time: 2023-09-10 14:29:08-04:00
 published_time: 2023-09-10 14:29:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/10/remarks-by-president-biden-in-a-press-conference-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/10/remarks-by-president-biden-in-a-press-conference-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Press\_Conference"
 ---

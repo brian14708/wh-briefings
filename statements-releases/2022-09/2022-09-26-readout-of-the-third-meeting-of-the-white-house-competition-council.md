@@ -1,7 +1,7 @@
 ---
 date: '2022-09-26'
 published_time: 2022-09-26 21:12:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/readout-of-the-third-meeting-of-the-white-house-competition-council/
 tags: statements-releases
 title: "Readout of the Third Meeting of the White\_House Competition\_Council"
 ---

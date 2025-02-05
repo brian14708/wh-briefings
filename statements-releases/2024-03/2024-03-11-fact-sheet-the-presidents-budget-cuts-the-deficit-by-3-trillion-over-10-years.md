@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 22:47:43-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-the-deficit-by-3-trillion-over-10-years/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-the-deficit-by-3-trillion-over-10-years/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Cuts the Deficit by $3 Trillion Over\
   \ 10\_Years"
@@ -16,10 +16,10 @@ isn’t just good for working families and the economy; it will also lead
 to better fiscal outcomes. At the same time, President Biden believes
 that long-term investments in our Nation and its people should be paid
 for. And his Budgets
-[have](https://www.whitehouse.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
-[consistently](https://www.whitehouse.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
+[have](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
+[consistently](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
 [paid
-for](https://www.whitehouse.gov/wp-content/uploads/2023/03/budget_fy2024.pdf)
+for](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/budget_fy2024.pdf)
 all of his investments and improved the Nation’s fiscal outlook.
 
 The President took office after his predecessor signed into law a
@@ -104,13 +104,13 @@ firefighters.
 
 To date, Republicans in Congress have put forward a much different
 approach, calling for more than [$3
-trillion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/#:~:text=The%20fiscal%20consequences%20of%20the,by%20almost%2010%20percentage%20points.)
+trillion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/#:~:text=The%20fiscal%20consequences%20of%20the,by%20almost%2010%20percentage%20points.)
 in tax giveaways skewed to the rich and large corporations and handouts
 to special interests. The
 [budget](https://hern.house.gov/uploadedfiles/202306141135_fy24_rsc_budget_print_final_c.pdf)
 proposed by the Republican Study Committee (RSC), representing nearly 80
 percent of House Republicans,
-[shows](https://www.whitehouse.gov/wp-content/uploads/2023/09/Bidenomics-vs-MAGAnomics-Interested-Parties-Memo.pdf)
+[shows](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Bidenomics-vs-MAGAnomics-Interested-Parties-Memo.pdf)
 how they would pay for those tax cuts: by slashing Social Security,
 Medicare, the Affordable Care Act, Medicaid, and other programs that
 drive economic growth and that seniors, people with disabilities, and

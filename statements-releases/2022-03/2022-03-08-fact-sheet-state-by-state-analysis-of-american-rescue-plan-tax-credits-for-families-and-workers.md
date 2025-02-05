@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-03-08'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-state-by-state-analysis-of-american-rescue-plan-tax-credits-for-families-and-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/08/fact-sheet-state-by-state-analysis-of-american-rescue-plan-tax-credits-for-families-and-workers/
 published_time: 2022-03-08 13:18:26-05:00
 title: "FACT SHEET: State-by-State Analysis of American Rescue Plan Tax Credits for\
   \ Families and\_Workers"
@@ -54,67 +54,67 @@ Credit to support for millions of working families this tax season**
 
 **Factsheets by State/Territory:**
 
--   [Alabama](https://www.whitehouse.gov/wp-content/uploads/2022/03/Alabama-Tax-Credit-1-pager-3.8.pdf)
--   [Alaska](https://www.whitehouse.gov/wp-content/uploads/2022/03/Alaska-Tax-Credit-1-pager-3.8.pdf)
--   [Arizona](https://www.whitehouse.gov/wp-content/uploads/2022/03/Arizona-Tax-Credit-1-pager-3.8.pdf)
--   [Arkansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/Arkansas-Tax-Credit-1-pager-3.8.pdf)
--   [California](https://www.whitehouse.gov/wp-content/uploads/2022/03/California-Tax-Credit-1-pager-3.8.pdf)
--   [Colorado](https://www.whitehouse.gov/wp-content/uploads/2022/03/Colorado-Tax-Credit-1-pager-3.8.pdf)
--   [Connecticut](https://www.whitehouse.gov/wp-content/uploads/2022/03/Connecticut-Tax-Credit-1-pager-3.8.pdf)
--   [Delaware](https://www.whitehouse.gov/wp-content/uploads/2022/03/Delaware-Tax-Credit-1-pager-3.8.pdf)
--   [Florida](https://www.whitehouse.gov/wp-content/uploads/2022/03/Florida-Tax-Credit-1-pager-3.8.pdf)
--   [Georgia](https://www.whitehouse.gov/wp-content/uploads/2022/03/Georgia-Tax-Credit-1-pager-3.8.pdf)
--   [Hawaii](https://www.whitehouse.gov/wp-content/uploads/2022/03/Hawaii-Tax-Credit-1-pager-3.8.pdf)
--   [Idaho](https://www.whitehouse.gov/wp-content/uploads/2022/03/Idaho-Tax-Credit-1-pager-3.8.pdf)
--   [Illinois](https://www.whitehouse.gov/wp-content/uploads/2022/03/Illinois-Tax-Credit-1-pager-3.8.pdf)
--   [Indiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/Indiana-Tax-Credit-1-pager-3.8.pdf)
--   [Iowa](https://www.whitehouse.gov/wp-content/uploads/2022/03/Iowa-Tax-Credit-1-pager-3.8.pdf)
--   [Kansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/Kansas-Tax-Credit-1-pager-3.8.pdf)
--   [Kentucky](https://www.whitehouse.gov/wp-content/uploads/2022/03/Kentucky-Tax-Credit-1-pager-3.8.pdf)
--   [Louisiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/Louisiana-Tax-Credit-1-pager-3.8.pdf)
--   [Maine](https://www.whitehouse.gov/wp-content/uploads/2022/03/Maine-Tax-Credit-1-pager-3.8.pdf)
--   [Maryland](https://www.whitehouse.gov/wp-content/uploads/2022/03/Maryland-Tax-Credit-1-pager-3.8.pdf)
--   [Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2022/03/Massachusetts-Tax-Credit-1-pager-3.8.pdf)
--   [Michigan](https://www.whitehouse.gov/wp-content/uploads/2022/03/Michigan-Tax-Credit-1-pager-3.8.pdf)
--   [Minnesota](https://www.whitehouse.gov/wp-content/uploads/2022/03/Minnesota-Tax-Credit-1-pager-3.8.pdf)
--   [Mississippi](https://www.whitehouse.gov/wp-content/uploads/2022/03/Mississippi-Tax-Credit-1-pager-3.8.pdf)
--   [Missouri](https://www.whitehouse.gov/wp-content/uploads/2022/03/Missouri-Tax-Credit-1-pager-3.8.pdf)
--   [Montana](https://www.whitehouse.gov/wp-content/uploads/2022/03/Montana-Tax-Credit-1-pager-3.8.pdf)
--   [Nebraska](https://www.whitehouse.gov/wp-content/uploads/2022/03/Nebraska-Tax-Credit-1-pager-3.8.pdf)
--   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2022/03/Nevada-Tax-Credit-1-pager-3.8.pdf)
+-   [Alabama](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Alabama-Tax-Credit-1-pager-3.8.pdf)
+-   [Alaska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Alaska-Tax-Credit-1-pager-3.8.pdf)
+-   [Arizona](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Arizona-Tax-Credit-1-pager-3.8.pdf)
+-   [Arkansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Arkansas-Tax-Credit-1-pager-3.8.pdf)
+-   [California](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/California-Tax-Credit-1-pager-3.8.pdf)
+-   [Colorado](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Colorado-Tax-Credit-1-pager-3.8.pdf)
+-   [Connecticut](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Connecticut-Tax-Credit-1-pager-3.8.pdf)
+-   [Delaware](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Delaware-Tax-Credit-1-pager-3.8.pdf)
+-   [Florida](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Florida-Tax-Credit-1-pager-3.8.pdf)
+-   [Georgia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Georgia-Tax-Credit-1-pager-3.8.pdf)
+-   [Hawaii](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Hawaii-Tax-Credit-1-pager-3.8.pdf)
+-   [Idaho](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Idaho-Tax-Credit-1-pager-3.8.pdf)
+-   [Illinois](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Illinois-Tax-Credit-1-pager-3.8.pdf)
+-   [Indiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Indiana-Tax-Credit-1-pager-3.8.pdf)
+-   [Iowa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Iowa-Tax-Credit-1-pager-3.8.pdf)
+-   [Kansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Kansas-Tax-Credit-1-pager-3.8.pdf)
+-   [Kentucky](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Kentucky-Tax-Credit-1-pager-3.8.pdf)
+-   [Louisiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Louisiana-Tax-Credit-1-pager-3.8.pdf)
+-   [Maine](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Maine-Tax-Credit-1-pager-3.8.pdf)
+-   [Maryland](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Maryland-Tax-Credit-1-pager-3.8.pdf)
+-   [Massachusetts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Massachusetts-Tax-Credit-1-pager-3.8.pdf)
+-   [Michigan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Michigan-Tax-Credit-1-pager-3.8.pdf)
+-   [Minnesota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Minnesota-Tax-Credit-1-pager-3.8.pdf)
+-   [Mississippi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Mississippi-Tax-Credit-1-pager-3.8.pdf)
+-   [Missouri](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Missouri-Tax-Credit-1-pager-3.8.pdf)
+-   [Montana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Montana-Tax-Credit-1-pager-3.8.pdf)
+-   [Nebraska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Nebraska-Tax-Credit-1-pager-3.8.pdf)
+-   [Nevada](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Nevada-Tax-Credit-1-pager-3.8.pdf)
 -   [New
-    Hampshire](https://www.whitehouse.gov/wp-content/uploads/2022/03/New-Hampshire-Tax-Credit-1-pager-3.8.pdf)
+    Hampshire](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/New-Hampshire-Tax-Credit-1-pager-3.8.pdf)
 -   [New
-    Jersey](https://www.whitehouse.gov/wp-content/uploads/2022/03/New-Jersey-Tax-Credit-1-pager-3.8.pdf)
+    Jersey](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/New-Jersey-Tax-Credit-1-pager-3.8.pdf)
 -   [New
-    Mexico](https://www.whitehouse.gov/wp-content/uploads/2022/03/New-Mexico-Tax-Credit-1-pager-3.8.pdf)
+    Mexico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/New-Mexico-Tax-Credit-1-pager-3.8.pdf)
 -   [New
-    York](https://www.whitehouse.gov/wp-content/uploads/2022/03/New-York-Tax-Credit-1-pager-3.8.pdf)
+    York](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/New-York-Tax-Credit-1-pager-3.8.pdf)
 -   [North
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/North-Carolina-Tax-Credit-1-pager-3.8.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/North-Carolina-Tax-Credit-1-pager-3.8.pdf)
 -   [North
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/North-Dakota-Tax-Credit-1-pager-3.8.pdf)
--   [Ohio](https://www.whitehouse.gov/wp-content/uploads/2022/03/Ohio-Tax-Credit-1-pager-3.8.pdf)
--   [Oklahoma](https://www.whitehouse.gov/wp-content/uploads/2022/03/Oklahoma-Tax-Credit-1-pager-3.8.pdf)
--   [Oregon](https://www.whitehouse.gov/wp-content/uploads/2022/03/Oregon-Tax-Credit-1-pager-3.8.pdf)
--   [Pennsylvania](https://www.whitehouse.gov/wp-content/uploads/2022/03/Pennsylvania-Tax-Credit-1-pager-3.8.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/North-Dakota-Tax-Credit-1-pager-3.8.pdf)
+-   [Ohio](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Ohio-Tax-Credit-1-pager-3.8.pdf)
+-   [Oklahoma](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Oklahoma-Tax-Credit-1-pager-3.8.pdf)
+-   [Oregon](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Oregon-Tax-Credit-1-pager-3.8.pdf)
+-   [Pennsylvania](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Pennsylvania-Tax-Credit-1-pager-3.8.pdf)
 -   [Rhode
-    Island](https://www.whitehouse.gov/wp-content/uploads/2022/03/Rhode-Island-Tax-Credit-1-pager-3.8.pdf)
+    Island](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Rhode-Island-Tax-Credit-1-pager-3.8.pdf)
 -   [South
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/South-Carolina-Tax-Credit-1-pager-3.8.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/South-Carolina-Tax-Credit-1-pager-3.8.pdf)
 -   [South
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/South-Dakota-Tax-Credit-1-pager-3.8.pdf)
--   [Tennessee](https://www.whitehouse.gov/wp-content/uploads/2022/03/Tennessee-Tax-Credit-1-pager-3.8.pdf)
--   [Texas](https://www.whitehouse.gov/wp-content/uploads/2022/03/Texas-Tax-Credit-1-pager-3.8.pdf)
--   [Utah](https://www.whitehouse.gov/wp-content/uploads/2022/03/Utah-Tax-Credit-1-pager-3.8.pdf)
--   [Vermont](https://www.whitehouse.gov/wp-content/uploads/2022/03/Vermont-Tax-Credit-1-pager-3.8.pdf)
--   [Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/Virginia-Tax-Credit-1-pager-3.8.pdf)
--   [Washington](https://www.whitehouse.gov/wp-content/uploads/2022/03/Washington-Tax-Credit-1-pager-3.8.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/South-Dakota-Tax-Credit-1-pager-3.8.pdf)
+-   [Tennessee](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Tennessee-Tax-Credit-1-pager-3.8.pdf)
+-   [Texas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Texas-Tax-Credit-1-pager-3.8.pdf)
+-   [Utah](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Utah-Tax-Credit-1-pager-3.8.pdf)
+-   [Vermont](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Vermont-Tax-Credit-1-pager-3.8.pdf)
+-   [Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Virginia-Tax-Credit-1-pager-3.8.pdf)
+-   [Washington](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Washington-Tax-Credit-1-pager-3.8.pdf)
 -   [West
-    Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/West-Virginia-Tax-Credit-1-pager-3.8.pdf)
--   [Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2022/03/Wisconsin-Tax-Credit-1-pager-3.8.pdf)
--   [Wyoming](https://www.whitehouse.gov/wp-content/uploads/2022/03/Wyoming-Tax-Credit-1-pager-3.8.pdf)
+    Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/West-Virginia-Tax-Credit-1-pager-3.8.pdf)
+-   [Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Wisconsin-Tax-Credit-1-pager-3.8.pdf)
+-   [Wyoming](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/Wyoming-Tax-Credit-1-pager-3.8.pdf)
 -   [District of
-    Columbia](https://www.whitehouse.gov/wp-content/uploads/2022/03/District-of-Columbia-Tax-Credit-1-Pager-3.8.pdf)
+    Columbia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/District-of-Columbia-Tax-Credit-1-Pager-3.8.pdf)
 
 \###

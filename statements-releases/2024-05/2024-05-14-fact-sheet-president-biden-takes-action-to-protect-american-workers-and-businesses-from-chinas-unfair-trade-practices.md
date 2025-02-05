@@ -2,7 +2,7 @@
 date: '2024-05-14'
 modified_time: 2024-05-13 23:29:00-04:00
 published_time: 2024-05-14 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Action to Protect American Workers and\
   \ Businesses from China\u2019s Unfair Trade\_Practices"

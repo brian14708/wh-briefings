@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-26 20:33:53-04:00
 published_time: 2022-10-27 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/congressional-republicans-five-part-plan-to-increase-inflation-and-costs-for-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/congressional-republicans-five-part-plan-to-increase-inflation-and-costs-for-american-families/
 tags: statements-releases
 title: "Congressional Republicans\u2019 Five-Part Plan to Increase Inflation and Costs\
   \ for American\_Families"
@@ -77,7 +77,7 @@ releases:*[*8/8*](https://gop-waysandmeans.house.gov/senate-version-of-manchin-b
 Repealing the IRA improvements to ACA premium tax credits would raise
 health insurance premiums by an average of **about** [**$800 for 13
 million
-people**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
+people**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/)
 starting next year**,** with [**about 3
 million**](https://aspe.hhs.gov/sites/default/files/documents/1647ad29528ee85a48d6ffa9e7bfbc8f/arp-ptc-sunset-impacts-03-22-22%20Final.pdf)
 **people becoming uninsured.** And if Congressional Republicans repeal
@@ -117,7 +117,7 @@ student debt relief plan. If they succeed, that would mean higher debt
 payments for **the over 40 million Americans who could benefit from up
 to $20,000 in student debt relief.** The vast majority of that relief
 ([nearly 90 percent of all relief
-dollars](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/fact-sheet-the-biden-harris-administrations-plan-for-student-debt-relief-could-benefit-tens-of-millions-of-borrowers-in-all-fifty-states/))
+dollars](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/fact-sheet-the-biden-harris-administrations-plan-for-student-debt-relief-could-benefit-tens-of-millions-of-borrowers-in-all-fifty-states/))
 will go to those earning less than $75,000.  
   
 **BONUS: Congressional Republicans are threatening the global economy to

@@ -2,7 +2,7 @@
 date: '2024-06-12'
 modified_time: 2024-06-12 13:36:35-04:00
 published_time: 2024-06-12 13:36:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/12/statement-from-jake-sullivan-on-russian-crimes-against-ukrainian-children/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/12/statement-from-jake-sullivan-on-russian-crimes-against-ukrainian-children/
 tags: statements-releases
 title: "Statement from Jake Sullivan on Russian crimes against Ukrainian\_children"
 ---

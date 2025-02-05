@@ -2,7 +2,7 @@
 date: '2022-12-01'
 modified_time: 2022-12-01 11:41:29-05:00
 published_time: 2022-12-01 11:41:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-president-biden-and-president-emmanuel-macron-of-france-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-president-biden-and-president-emmanuel-macron-of-france-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Emmanuel Macron of France at Arrival\_\
   Ceremony"

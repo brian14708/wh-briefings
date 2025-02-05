@@ -2,7 +2,7 @@
 date: '2022-08-27'
 modified_time: 2022-08-28 21:19:08-04:00
 published_time: 2022-08-27 21:16:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/27/remarks-by-vice-president-harris-at-a-dnc-finance-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/27/remarks-by-vice-president-harris-at-a-dnc-finance-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a DNC Finance\_Event"
 ---

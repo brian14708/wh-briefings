@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-17 18:09:10-04:00
 published_time: 2024-04-17 18:09:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-new-efforts-to-strengthen-employment-opportunities-for-military-spouses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-new-efforts-to-strengthen-employment-opportunities-for-military-spouses/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden on New Efforts\
   \ to Strengthen Employment Opportunities for Military\_Spouses"

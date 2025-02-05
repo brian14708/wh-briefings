@@ -1,7 +1,7 @@
 ---
 date: '2023-06-29'
 published_time: 2023-06-29 15:45:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/29/remarks-by-president-biden-on-the-supreme-courts-decision-on-affirmative-action/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/29/remarks-by-president-biden-on-the-supreme-courts-decision-on-affirmative-action/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Supreme Court\u2019s Decision on Affirmative\_\
   Action"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-16'
 published_time: 2023-02-16 09:23:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/16/fact-sheet-president-biden-signs-executive-order-to-strengthen-racial-equity-and-support-for-underserved-communities-across-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/16/fact-sheet-president-biden-signs-executive-order-to-strengthen-racial-equity-and-support-for-underserved-communities-across-the-federal-government/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Strengthen Racial Equity\
   \ and Support for Underserved Communities Across the Federal\_Government"
@@ -38,7 +38,7 @@ To strengthen the federal government’s ability to address the barriers
 that underserved communities continue to face, today, President Biden
 signed a new Executive Order, *[Further Advancing Racial Equity and
 Support for Underserved Communities Through the Federal
-Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)*.
+Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)*.
 This second Order reaffirms the Administration’s commitment to deliver
 equity and build an America in which all can participate, prosper, and
 reach their full potential.  
@@ -57,11 +57,11 @@ The Executive Order:
     and designate senior leaders accountable for implementing the
     President’s equity mandate. In line with the President’s commitment
     to [advancing gender equity and equality at home and
-    abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
+    abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
     and the President’s commitment to [advancing environmental
-    justice](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+    justice](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
     [equality for LGBTQI+
-    individuals](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-president-biden-to-sign-historic-executive-order-advancing-lgbtqi-equality-during-pride-month/),
+    individuals](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-president-biden-to-sign-historic-executive-order-advancing-lgbtqi-equality-during-pride-month/),
     and other equity work streams, this Executive Order fosters greater
     collaboration and accountability, and streamlines agencies’
     reporting of progress and planning in order to advance equity in
@@ -107,7 +107,7 @@ The Executive Order:
     American public.
 
 Since the release of their [Equity Action
-Plans](https://www.whitehouse.gov/equity/) in April 2022, federal
+Plans](https://bidenwhitehouse.archives.gov/equity/) in April 2022, federal
 agencies continue to take ambitious action to expand federal investment
 in and support for underserved communities. For instance, the following
 are some recent actions to advance equity:

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 09:39:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/statement-by-president-biden-on-second-quarter-gdp-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/statement-by-president-biden-on-second-quarter-gdp-report/
 tags: statements-releases
 title: "Statement by President\_Biden on Second Quarter GDP\_Report"
 ---

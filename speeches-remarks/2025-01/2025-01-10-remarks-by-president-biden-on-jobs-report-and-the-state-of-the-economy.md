@@ -2,7 +2,7 @@
 date: '2025-01-10'
 modified_time: 2025-01-13 15:23:53-05:00
 published_time: 2025-01-10 22:07:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-on-jobs-report-and-the-state-of-the-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-on-jobs-report-and-the-state-of-the-economy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Jobs Report and the State of the\_Economy"
 ---

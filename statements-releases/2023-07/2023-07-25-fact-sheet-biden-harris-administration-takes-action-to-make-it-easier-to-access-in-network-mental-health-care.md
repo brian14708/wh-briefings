@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 07:15:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-takes-action-to-make-it-easier-to-access-in-network-mental-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-takes-action-to-make-it-easier-to-access-in-network-mental-health-care/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Make it Easier\
   \ to Access In-Network Mental Health\_Care"

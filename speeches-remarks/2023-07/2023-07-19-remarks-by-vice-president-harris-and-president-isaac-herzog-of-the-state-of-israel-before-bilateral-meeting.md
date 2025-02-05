@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 18:37:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-vice-president-harris-and-president-isaac-herzog-of-the-state-of-israel-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-vice-president-harris-and-president-isaac-herzog-of-the-state-of-israel-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Isaac Herzog of the State of\
   \ Israel Before Bilateral\_Meeting"

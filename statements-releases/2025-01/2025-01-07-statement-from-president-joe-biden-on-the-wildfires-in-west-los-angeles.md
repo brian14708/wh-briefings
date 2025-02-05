@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-07 22:34:56-05:00
 published_time: 2025-01-07 22:34:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-the-wildfires-in-west-los-angeles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-the-wildfires-in-west-los-angeles/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Wildfires in West Los\_Angeles"
 ---

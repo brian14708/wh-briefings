@@ -2,7 +2,7 @@
 date: '2023-04-28'
 modified_time: 2023-04-28 12:49:15-04:00
 published_time: 2023-04-28 12:18:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/28/fact-sheet-biden-harris-administration-takes-action-during-second-chance-month-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/28/fact-sheet-biden-harris-administration-takes-action-during-second-chance-month-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action During Second Chance\
   \ Month to Strengthen Public Safety, Improve Rehabilitation in Jails and Prisons,\
@@ -31,7 +31,7 @@ criminal justice system interactions so police officers can focus on
 fighting crime; supporting rehabilitation during incarceration; and
 facilitating successful reentry. The plan builds upon President Biden’s
 [Safer America
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/)
 – his comprehensive strategy to prevent and combat gun crime and
 violence – and outlines more than 100 concrete policy actions to improve
 the criminal justice system and strengthen public safety by leveraging
@@ -62,7 +62,7 @@ changes in the law, including the bipartisan First Step Act.
 Taken together, our collective efforts will move us toward a safer,
 stronger, and more just America. To read the full **White House
 Alternatives, Rehabilitation, and Reentry Strategic Plan**, [click
-here](https://www.whitehouse.gov/wp-content/uploads/2023/04/The-White-House-Alternatives-Rehabilitation-and-Reentry-Strategic-Plan.pdf).
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/The-White-House-Alternatives-Rehabilitation-and-Reentry-Strategic-Plan.pdf).
 Its elements, reflecting the current and future work of the federal
 government, include:  
   

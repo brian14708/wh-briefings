@@ -1,7 +1,7 @@
 ---
 date: '2023-01-26'
 published_time: 2023-01-26 20:58:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/26/background-press-call-by-senior-administration-officials-on-a-successful-counterterrorism-operation-in-somalia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/26/background-press-call-by-senior-administration-officials-on-a-successful-counterterrorism-operation-in-somalia/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on a Successful Counterterrorism\
   \ Operation in\_Somalia"

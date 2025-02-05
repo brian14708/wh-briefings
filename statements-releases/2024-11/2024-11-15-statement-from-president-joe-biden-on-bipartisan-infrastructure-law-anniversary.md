@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-14 20:27:47-05:00
 published_time: 2024-11-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/statement-from-president-joe-biden-on-bipartisan-infrastructure-law-anniversary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/statement-from-president-joe-biden-on-bipartisan-infrastructure-law-anniversary/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Bipartisan Infrastructure Law\_Anniversary"
 ---

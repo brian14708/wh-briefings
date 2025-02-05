@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 19:45:35-04:00
 published_time: 2023-09-08 19:45:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-panama-and-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/08/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-panama-and-colombia/
 tags: statements-releases
 title: "Readout of Homeland Security Advisor Dr. Liz Sherwood-Randall\u2019s Visit\
   \ to Panama and\_Colombia"

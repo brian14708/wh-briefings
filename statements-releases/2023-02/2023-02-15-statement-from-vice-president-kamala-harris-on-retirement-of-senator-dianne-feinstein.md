@@ -1,7 +1,7 @@
 ---
 date: '2023-02-15'
 published_time: 2023-02-15 11:07:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/statement-from-vice-president-kamala-harris-on-retirement-of-senator-dianne-feinstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/statement-from-vice-president-kamala-harris-on-retirement-of-senator-dianne-feinstein/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Retirement of Senator Dianne\_\
   Feinstein"

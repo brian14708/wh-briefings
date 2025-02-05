@@ -1,7 +1,7 @@
 ---
 date: '2024-02-06'
 published_time: 2024-02-06 16:05:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/06/remarks-by-president-biden-urging-congress-to-pass-the-emergency-national-security-supplemental-appropriations-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/06/remarks-by-president-biden-urging-congress-to-pass-the-emergency-national-security-supplemental-appropriations-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Urging Congress to Pass the Emergency National\
   \ Security Supplemental Appropriations\_Act"

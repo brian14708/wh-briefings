@@ -2,7 +2,7 @@
 date: '2023-12-08'
 modified_time: 2023-12-08 23:37:12-05:00
 published_time: 2023-12-08 23:37:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-national-security-advisor-jake-sullivans-trilateral-meeting-with-the-national-security-advisors-of-japan-and-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-national-security-advisor-jake-sullivans-trilateral-meeting-with-the-national-security-advisors-of-japan-and-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Trilateral Meeting\
   \ with the National Security Advisors of Japan and the Republic of\_Korea"

@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 05:12:20-04:00
 published_time: 2022-06-27 04:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/fact-sheet-the-united-states-and-g7-to-take-further-action-to-support-ukraine-and-hold-the-russian-federation-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/fact-sheet-the-united-states-and-g7-to-take-further-action-to-support-ukraine-and-hold-the-russian-federation-accountable/
 tags: statements-releases
 title: "FACT SHEET: The United\_States and G7 to Take Further Action to Support Ukraine\
   \ and Hold the Russian Federation\_Accountable"

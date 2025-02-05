@@ -1,7 +1,7 @@
 ---
 date: '2022-11-28'
 published_time: 2022-11-28 11:23:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/president-joseph-r-biden-jr-amends-seminole-tribe-of-florida-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/28/president-joseph-r-biden-jr-amends-seminole-tribe-of-florida-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends Seminole Tribe of Florida Disaster\_\
   Declaration"

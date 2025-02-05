@@ -2,7 +2,7 @@
 date: '2023-02-27'
 modified_time: 2023-02-27 09:46:14-05:00
 published_time: 2023-02-27 10:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/27/memorandum-on-presidential-waiver-of-statutory-requirements-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-department-of-defense-supply-chains-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/27/memorandum-on-presidential-waiver-of-statutory-requirements-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-department-of-defense-supply-chains-resilience/
 tags: presidential-actions
 title: "Memorandum on Presidential Waiver of Statutory Requirements Pursuant to Section\
   \ 303 of the Defense Production Act of 1950, as amended, on Department of Defense\

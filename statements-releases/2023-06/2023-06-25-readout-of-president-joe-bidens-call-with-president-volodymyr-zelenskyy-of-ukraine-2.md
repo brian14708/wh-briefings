@@ -1,7 +1,7 @@
 ---
 date: '2023-06-25'
 published_time: 2023-06-25 15:32:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/25/readout-of-president-joe-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/25/readout-of-president-joe-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Volodymyr Zelenskyy\
   \ of\_Ukraine"

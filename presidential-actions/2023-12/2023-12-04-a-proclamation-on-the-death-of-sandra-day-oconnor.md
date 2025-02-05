@@ -1,7 +1,7 @@
 ---
 date: '2023-12-04'
 published_time: 2023-12-04 15:45:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/04/a-proclamation-on-the-death-of-sandra-day-oconnor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/04/a-proclamation-on-the-death-of-sandra-day-oconnor/
 tags: presidential-actions
 title: "A Proclamation on the Death of Sandra Day\_O\u2019Connor"
 ---

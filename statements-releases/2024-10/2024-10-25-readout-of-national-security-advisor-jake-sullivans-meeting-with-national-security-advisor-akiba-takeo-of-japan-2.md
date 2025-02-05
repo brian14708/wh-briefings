@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 15:05:31-04:00
 published_time: 2024-10-25 15:05:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-akiba-takeo-of-japan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-akiba-takeo-of-japan-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with National\
   \ Security Advisor Akiba Takeo of\_Japan"

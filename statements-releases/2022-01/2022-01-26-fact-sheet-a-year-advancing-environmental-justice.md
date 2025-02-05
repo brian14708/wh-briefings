@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-25 22:02:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-a-year-advancing-environmental-justice/
 published_time: 2022-01-26 06:00:00-05:00
 title: "Fact Sheet: A Year Advancing Environmental\_Justice"
 ---
@@ -12,7 +12,7 @@ of Government to Advance Environmental Justice*
 
 Nearly one year ago on January 27, 2021, President Biden signed an
 Executive Order on [*Tackling the Climate Crisis at Home and
-Abroad*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 laying the foundation for the most ambitious environmental justice
 agenda ever undertaken by an Administration and putting environmental
 justice and climate action at the center of the federal government’s
@@ -27,7 +27,7 @@ overburdened by pollution.
 
 Over the past year, senior administration leaders have worked tirelessly
 to secure [historic and long overdue
-investments](https://www.whitehouse.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/)
+investments](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/)
 in environmental justice, advance science-based regulations that reduce
 environmental pollution, strengthen enforcement of the nation’s
 environmental and civil rights laws, and elevate the voices of
@@ -38,18 +38,18 @@ Administration.
 
 -   **Delivering on Justice40.** As part of the President’s historic
     commitment to environmental justice, he created the [Justice40
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
     to ensure that federal agencies deliver 40 percent of the overall
     benefits of climate, clean energy, affordable and sustainable
     housing, clean water, and other investments to underserved
     communities. In total, hundreds of federal programs, representing
     billions of dollars in annual investment — including programs that
     were funded or created in the President’s [Bipartisan Infrastructure
-    Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
+    Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
     — are being reimagined and transformed to maximize benefits to
     disadvantaged communities through the Justice40 Initiative. An
     initial cohort of Justice40 pilot programs [are
-    already](https://www.whitehouse.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/)
+    already](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/)
     working to maximize the delivery of benefits to disadvantaged
     communities, and some agencies are creating new programs to maximize
     the benefits of climate and clean energy programs directed to
@@ -73,7 +73,7 @@ Administration.
     be released for public review and comment early this year.
 -   **Establishing the** [**First-Ever White House Environmental Justice
     Advisory
-    Council**](https://www.whitehouse.gov/ceq/news-updates/2021/03/29/white-house-announces-environmental-justice-advisory-council-members/)**.**
+    Council**](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/03/29/white-house-announces-environmental-justice-advisory-council-members/)**.**
     This advisory body – [which brings together national environmental
     justice leaders from across the
     country](https://www.epa.gov/environmentaljustice/white-house-environmental-justice-advisory-council)
@@ -81,7 +81,7 @@ Administration.
     communities are heard in the White House and reflected in the
     policies and investments of federal agencies. This body has provided
     extensive 
-    [recommendations](https://www.whitehouse.gov/ceq/news-updates/2021/05/13/statement-from-ceq-chair-brenda-mallory-on-recommendations-from-the-white-house-environmental-justice-advisory-council/)
+    [recommendations](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/05/13/statement-from-ceq-chair-brenda-mallory-on-recommendations-from-the-white-house-environmental-justice-advisory-council/)
     that are informing the implementation of the Justice40 Initiative,
     the development of the Climate and Economic Justice Screening Tool,
     and other policies and programs across the Administration.
@@ -108,7 +108,7 @@ Administration.
     elevate environmental justice policy and implementation across the
     government, the Administration has also established the [White House
     Environmental Interagency
-    Council](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+    Council](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
     led by Council on Environmental Quality Chair Brenda Mallory.
 
 **Protecting Communities from Toxic Pollution**
@@ -121,7 +121,7 @@ Administration.
     chlorpyrifos](/www.epa.gov/newsreleases/epa-takes-action-address-risk-chlorpyrifos-and-protect-childrens-health%3c),
     a pesticide that has negative health impacts on farmworkers and
     children, to [taking action on per- and polyfluoroalkyl substances
-    (PFAS),](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/)
+    (PFAS),](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/)
     a dangerous “forever chemical” linked to certain cancers, weakened
     immunity, thyroid disease, and other health effects – this
     Administration has prioritized rulemakings that protect the health
@@ -159,7 +159,7 @@ Administration.
     monitoring, inspections, and funding commitments.
 -   **Addressing Legacy Pollution.** The President’s [Bipartisan
     Infrastructure
-    Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
+    Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
     delivers the largest investment in tackling legacy pollution in
     American history. The law will invest $21 billion to clean up
     Superfund and brownfield sites, reclaim abandoned mine lands, and
@@ -195,7 +195,7 @@ funding.
     Nations and rural disadvantaged communities that need it most. These
     investments will be guided by the Biden-Harris Administration’s
     [Lead Pipe and Paint Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
     a historic and ambitious effort to deploy catalytic resources from
     the Bipartisan Infrastructure Law while leveraging every tool across
     Federal, state, and local government to deliver clean drinking
@@ -205,7 +205,7 @@ funding.
     making rapid progress towards replacing all lead pipes in the next
     decade. The White House also has developed a whole-of government
     [research
-    plan](https://www.whitehouse.gov/wp-content/uploads/2022/01/01-2022_CECPlan_Update.pdf)
+    plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/01-2022_CECPlan_Update.pdf)
     on contaminants of emerging concern in drinking water that will
     support safe drinking water advisories, standards, and mitigation
     efforts that protect public health.  
@@ -213,7 +213,7 @@ funding.
     decisive action to improve air quality – especially in disadvantaged
     communities. EPA has initiated rulemakings to reduce [harmful air
     pollutants from heavy-duty
-    trucks](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+    trucks](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
     that heavily impact low-income communities and communities of color.
     EPA has also [targeted leaded fuel used in small
     planes](/www.epa.gov/regulations-emissions-vehicles-and-engines/petitions-and-epa-response-memorandums-related-lead%3c),
@@ -232,7 +232,7 @@ funding.
     modernizing ports and waterways, including funds that will support
     electrification of port infrastructure and provides the investment
     needed to deliver thousands of clean school
-    buses](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
+    buses](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
     to help reduce harmful environmental impacts on communities on the
     fence line of industry and transportation corridors. The law also
     provides a $5 billion investment in electric vehicles that will
@@ -252,7 +252,7 @@ funding.
     overburdened communities, [including a $163 million investment to
     restore the Cano Martin Pena urban tidal channel and surrounding
     areas of the San Juan Bay National
-    Estuary](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
+    Estuary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
     – an urban waterway project that will significantly improve the
     health and welfare of the surrounding communities in San Juan. In
     the coming year, the Army Corps will also engage with environmental
@@ -264,7 +264,7 @@ funding.
     frontline communities, the Biden-Harris Administration launched five
     cabinet secretary level Resilience Interagency Working Groups under
     the [National Climate Task
-    Force](https://www.whitehouse.gov/climate/) focused on coastal
+    Force](https://bidenwhitehouse.archives.gov/climate/) focused on coastal
     resilience, drought, extreme heat, flood, and wildfire. These
     Working Groups are tasked with recommending and coordinating
     actions, programs, and resources to mitigate climate impacts and
@@ -273,7 +273,7 @@ funding.
     Heat Working Group was responsible for [launching a coordinated,
     interagency effort to address extreme heat – including the
     first-ever employer mandates on heat
-    risk](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
+    risk](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
     –  to respond to extreme heat that threatens the lives and
     livelihoods of Americans, especially frontline and essential
     workers, pregnant workers, children, seniors, economically
@@ -307,7 +307,7 @@ funding.
     in Indigenous communities’ efforts to tackle the climate crisis and
     boost the resilience of physical and natural systems. Enabled by the
     Bipartisan Infrastructure Law, [the Administration recently
-    committed](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
+    committed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
     $40 million to the **Espanola Valley, Rio Grande and Tributaries,
     New Mexico** to restore and protect 958 acres of aquatic and
     riparian habitats that are an integral part of constructing social
@@ -338,7 +338,7 @@ funding.
     Tribal ownership.
 -   **Empowering Communities with Actionable Climate Data.** The
     Biden-Harris Administration [launched a whole-of-government
-    initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/)
+    initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/)
     to deliver accessible and actionable information to individuals and
     communities that are being hit by flooding, drought, wildfires,
     extreme heat, coastal erosion, and other intensifying climate
@@ -399,7 +399,7 @@ funding.
     Urban Development (HUD) are working collaboratively with the
     government of [Puerto Rico to administer over $12 billion of Federal
     recovery
-    funds](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/)
+    funds](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-the-biden-harris-administration-supports-puerto-ricos-recovery-and-renewal-in-its-first-year-in-office/)
     earmarked for rebuilding and improving Puerto Rico’s grid. These
     funds are being used to minimize greenhouse gas emissions and
     support initiatives in Puerto Rico that focus on mitigation,
@@ -465,7 +465,7 @@ funding.
     Financial Institutions and Minority Depository Institutions that
     provide housing finance. Last week, the [President launched the
     National Building Performance Standards
-    Coalition](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/)
+    Coalition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/)
     to work with stakeholders, especially frontline communities, to
     address health, energy affordability, and emissions reductions goals
     across the buildings sector. Coalition members have agreed to ground

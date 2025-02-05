@@ -2,7 +2,7 @@
 date: '2022-07-30'
 modified_time: 2022-07-30 15:50:33-04:00
 published_time: 2022-07-30 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/30/statement-by-president-joe-biden-marking-the-57th-anniversary-of-medicare-and-medicaid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/30/statement-by-president-joe-biden-marking-the-57th-anniversary-of-medicare-and-medicaid/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Marking the 57th Anniversary of Medicare\
   \ and\_Medicaid"

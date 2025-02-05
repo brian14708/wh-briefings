@@ -2,7 +2,7 @@
 date: '2024-03-06'
 modified_time: 2024-03-06 09:46:12-05:00
 published_time: 2024-03-06 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/
 tags: presidential-actions
 title: "Executive Order on Scaling and Expanding the Use of Registered Apprenticeships\
   \ in Industries and the Federal Government and Promoting Labor-Management\_Forums"

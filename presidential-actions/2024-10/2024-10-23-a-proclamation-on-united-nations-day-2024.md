@@ -1,7 +1,7 @@
 ---
 date: '2024-10-23'
 published_time: 2024-10-23 11:52:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/23/a-proclamation-on-united-nations-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/23/a-proclamation-on-united-nations-day-2024/
 tags: presidential-actions
 title: "A Proclamation on United Nations Day,\_2024"
 ---

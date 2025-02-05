@@ -2,7 +2,7 @@
 date: '2022-10-15'
 modified_time: 2022-10-17 00:32:18-04:00
 published_time: 2022-10-15 00:28:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-vice-president-harris-at-mi-first-vote-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-vice-president-harris-at-mi-first-vote-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at MI First Vote\_Event"
 ---

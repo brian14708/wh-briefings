@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 16:58:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/readout-of-white-house-roundtable-on-the-business-case-for-pay-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/readout-of-white-house-roundtable-on-the-business-case-for-pay-equity/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on the Business Case for Pay\_Equity"
 ---

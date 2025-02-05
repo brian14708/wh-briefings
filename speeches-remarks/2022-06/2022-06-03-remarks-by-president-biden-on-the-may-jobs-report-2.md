@@ -2,7 +2,7 @@
 date: '2022-06-03'
 modified_time: 2022-06-03 13:01:42-04:00
 published_time: 2022-06-03 12:49:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/03/remarks-by-president-biden-on-the-may-jobs-report-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/03/remarks-by-president-biden-on-the-may-jobs-report-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the May Jobs\_Report"
 ---

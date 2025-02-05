@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 16:18:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/
 published_time: 2021-06-30 17:00:00-04:00
 title: "Readout of the White\_House Eviction Prevention\_Summit"
 ---
@@ -18,7 +18,7 @@ the country to develop eviction prevention action plans for their local
 areas. Following the CDC’s announcement last week of a final, one-month
 extension of the eviction moratorium until July 31st, the
 Administration announced [a series of
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
 to stabilize families and prevent evictions, including steps to
 encourage state and local governments to disburse the more than $46
 billion in emergency rental assistance made available to assist

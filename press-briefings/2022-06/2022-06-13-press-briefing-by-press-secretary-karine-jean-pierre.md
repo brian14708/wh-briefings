@@ -2,7 +2,7 @@
 date: '2022-06-13'
 modified_time: 2022-06-13 19:01:31-04:00
 published_time: 2022-06-13 19:00:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/13/press-briefing-by-press-secretary-karine-jean-pierre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/13/press-briefing-by-press-secretary-karine-jean-pierre/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre,\_June\_13,\_2022"
 ---

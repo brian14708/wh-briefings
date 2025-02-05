@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 13:07:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/25/remarks-of-second-gentleman-douglas-emhoff-at-the-launch-of-the-u-s-national-strategy-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/25/remarks-of-second-gentleman-douglas-emhoff-at-the-launch-of-the-u-s-national-strategy-to-counter-antisemitism/
 tags: speeches-remarks
 title: "Remarks of Second Gentleman Douglas Emhoff at the Launch of the U.S. National\
   \ Strategy to Counter\_Antisemitism"

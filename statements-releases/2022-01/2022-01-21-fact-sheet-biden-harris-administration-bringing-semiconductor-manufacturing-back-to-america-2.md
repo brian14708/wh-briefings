@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 11:09:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/
 published_time: 2022-01-21 11:08:33-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Bringing Semiconductor Manufacturing\
   \ Back to\_America"
@@ -78,13 +78,13 @@ to secure these critical investments**.
     research and development (R&D) shortly after taking office,
     designating semiconductor supply chains as a centerpiece of his
     national [supply chain
-    initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-securing-americas-critical-supply-chains/)
+    initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/24/fact-sheet-securing-americas-critical-supply-chains/)
     launched in February 2021.
 
 <!-- -->
 
 -   In June, the Commerce Department issued a [set of
-    recommendations](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
+    recommendations](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
     on how to secure the U.S. semiconductor supply chain. Since that
     time, Commerce Secretary Gina Raimondo, National Security Advisor
     Jake Sullivan, and National Economic Council Director Brian Deese
@@ -113,7 +113,7 @@ chains that have contributed to challenges in a number of manufacturing
 sectors and to price increases for U.S. consumers.**
 
 -   In April 2021, the President hosted a [virtual
-    summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/12/readout-of-white-house-ceo-summit-on-semiconductor-and-supply-chain-resilience/)
+    summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/12/readout-of-white-house-ceo-summit-on-semiconductor-and-supply-chain-resilience/)
     with leading firms that produce chips and those that use chips to
     identify practical ways to discuss actions they could to address the
     disruptions resulting from the global chip shortage. By the end of
@@ -128,7 +128,7 @@ sectors and to price increases for U.S. consumers.**
     companies around the world to mitigate COVID-related disruptions to
     semiconductor manufacturing and in September 2021 established a
     [global early alert
-    system](https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/)
+    system](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/)
     to identify and address pandemic-related disruptions.
 
 <!-- -->

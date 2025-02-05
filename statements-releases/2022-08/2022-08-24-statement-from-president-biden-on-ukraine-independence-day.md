@@ -2,7 +2,7 @@
 date: '2022-08-24'
 modified_time: 2022-08-23 20:23:29-04:00
 published_time: 2022-08-24 07:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/statement-from-president-biden-on-ukraine-independence-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/statement-from-president-biden-on-ukraine-independence-day/
 tags: statements-releases
 title: "Statement from President\_Biden on Ukraine Independence\_Day"
 ---

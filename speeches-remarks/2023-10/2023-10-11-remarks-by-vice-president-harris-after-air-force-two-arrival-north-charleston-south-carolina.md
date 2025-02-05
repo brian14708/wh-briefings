@@ -1,7 +1,7 @@
 ---
 date: '2023-10-11'
 published_time: 2023-10-11 16:49:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-vice-president-harris-after-air-force-two-arrival-north-charleston-south-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-vice-president-harris-after-air-force-two-arrival-north-charleston-south-carolina/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris After Air Force Two Arrival | North Charleston,\
   \ South\_Carolina"

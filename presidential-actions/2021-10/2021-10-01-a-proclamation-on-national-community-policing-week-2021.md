@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-10-01'
 modified_time: 2021-10-01 12:38:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/01/a-proclamation-on-national-community-policing-week-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/01/a-proclamation-on-national-community-policing-week-2021/
 published_time: 2021-10-01 12:37:59-04:00
 title: "A Proclamation on National Community Policing Week,\_2021"
 ---

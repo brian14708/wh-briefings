@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 published_time: 2022-11-03 18:15:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-on-student-debt-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-on-student-debt-relief/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Student Debt\_Relief"
 ---

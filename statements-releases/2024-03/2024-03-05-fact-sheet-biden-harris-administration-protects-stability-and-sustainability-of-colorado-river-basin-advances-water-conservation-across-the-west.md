@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 15:50:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Protects Stability and Sustainability\
   \ of Colorado River Basin, Advances Water Conservation Across the\_West"
@@ -62,7 +62,7 @@ The conservation agreements announced today include:
     of conserved water through 2026.
 
 These announcements build on [a series of historic investments and
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
 taken by the Biden-Harris Administration to protect communities across
 the West from drought, now and into the future.  
   

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-03'
 published_time: 2023-02-03 18:47:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-president-biden-on-the-administrations-efforts-to-replace-lead-pipes-and-provide-clean-drinking-water-for-all-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-president-biden-on-the-administrations-efforts-to-replace-lead-pipes-and-provide-clean-drinking-water-for-all-americans/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Administration\u2019s Efforts to Replace\
   \ Lead Pipes and Provide Clean Drinking Water for All\_Americans"

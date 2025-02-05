@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-11 21:21:19-04:00
 published_time: 2024-07-11 21:21:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-u-s-contributions-to-nato-deterrence-and-defense/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-u-s-contributions-to-nato-deterrence-and-defense/
 tags: statements-releases
 title: "FACT SHEET: U.S. Contributions to NATO Deterrence and\_Defense"
 ---

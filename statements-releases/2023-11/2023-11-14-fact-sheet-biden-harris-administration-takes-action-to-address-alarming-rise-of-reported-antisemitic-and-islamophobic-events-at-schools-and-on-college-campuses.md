@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-13 20:46:31-05:00
 published_time: 2023-11-14 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-takes-action-to-address-alarming-rise-of-reported-antisemitic-and-islamophobic-events-at-schools-and-on-college-campuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-takes-action-to-address-alarming-rise-of-reported-antisemitic-and-islamophobic-events-at-schools-and-on-college-campuses/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Takes Action to Address Alarming\
   \ Rise of Reported Antisemitic and Islamophobic Events at Schools and on College\_\
@@ -55,7 +55,7 @@ The Department of Education (ED) is today announcing that:
     Environment” on Dec. 6, followed by webinars on “Full Student
     Participation” on Dec. 13, “Conflict Mediation” on Jan. 17, and
     “Ongoing Support” in February. <img
-    src="https://www.whitehouse.gov/7202f6dd-0553-4c10-8792-1d58bd6aafa9"
+    src="https://bidenwhitehouse.archives.gov/7202f6dd-0553-4c10-8792-1d58bd6aafa9"
     decoding="async" alt="Anchor" />
 
 This week, the United States Department of Agriculture (USDA) will host

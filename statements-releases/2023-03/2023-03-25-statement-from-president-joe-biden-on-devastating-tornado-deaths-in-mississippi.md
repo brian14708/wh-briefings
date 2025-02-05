@@ -1,7 +1,7 @@
 ---
 date: '2023-03-25'
 published_time: 2023-03-25 13:13:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/25/statement-from-president-joe-biden-on-devastating-tornado-deaths-in-mississippi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/25/statement-from-president-joe-biden-on-devastating-tornado-deaths-in-mississippi/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Devastating Tornado Deaths in\_Mississippi"
 ---

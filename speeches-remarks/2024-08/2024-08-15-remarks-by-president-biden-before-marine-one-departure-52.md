@@ -1,7 +1,7 @@
 ---
 date: '2024-08-15'
 published_time: 2024-08-15 19:42:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-before-marine-one-departure-52/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/15/remarks-by-president-biden-before-marine-one-departure-52/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

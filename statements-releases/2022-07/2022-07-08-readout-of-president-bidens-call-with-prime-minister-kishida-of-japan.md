@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 19:34:51-04:00
 published_time: 2022-07-08 19:34:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/readout-of-president-bidens-call-with-prime-minister-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/readout-of-president-bidens-call-with-prime-minister-kishida-of-japan/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Kishida of\_Japan"
 ---

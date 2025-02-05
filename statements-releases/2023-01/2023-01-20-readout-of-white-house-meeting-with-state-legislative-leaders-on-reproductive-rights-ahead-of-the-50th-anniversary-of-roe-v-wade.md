@@ -1,7 +1,7 @@
 ---
 date: '2023-01-20'
 published_time: 2023-01-20 15:43:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-ahead-of-the-50th-anniversary-of-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-ahead-of-the-50th-anniversary-of-roe-v-wade/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Reproductive\
   \ Rights Ahead of the 50th Anniversary of Roe v.\_Wade"

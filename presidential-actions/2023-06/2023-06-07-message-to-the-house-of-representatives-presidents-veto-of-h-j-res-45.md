@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 18:14:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/07/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-45/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/07/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-45/
 tags: presidential-actions
 title: "Message to the House of Representatives \u2014 President\u2019s Veto of H.J.\
   \ Res.\_45"

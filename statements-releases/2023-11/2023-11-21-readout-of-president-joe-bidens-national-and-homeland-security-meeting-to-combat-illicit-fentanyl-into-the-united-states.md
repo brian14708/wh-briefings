@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 published_time: 2023-11-21 21:21:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/readout-of-president-joe-bidens-national-and-homeland-security-meeting-to-combat-illicit-fentanyl-into-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/readout-of-president-joe-bidens-national-and-homeland-security-meeting-to-combat-illicit-fentanyl-into-the-united-states/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s National and Homeland Security Meeting\
   \ to Combat Illicit Fentanyl into the United\_States"
@@ -34,9 +34,9 @@ overdose epidemic and save lives. President Biden is also calling on
 Congress for immediate action to help provide [$1.55 billion to
 strengthen addiction treatment, overdose prevention measures, and
 recovery support services across the
-country](https://www.whitehouse.gov/ondcp/briefing-room/2023/10/25/a-key-priority-of-president-bidens-unity-agenda-white-house-calls-on-congress-to-deliver-critical-resources-to-address-the-nations-overdose-epidemic-and-save-lives/),
+country](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/10/25/a-key-priority-of-president-bidens-unity-agenda-white-house-calls-on-congress-to-deliver-critical-resources-to-address-the-nations-overdose-epidemic-and-save-lives/),
 and more than [$1.2 billion to crack down on drug
-trafficking](https://www.whitehouse.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) to
+trafficking](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) to
 keep dangerous drugs like illicit fentanyl out of our communities.
 
 \###

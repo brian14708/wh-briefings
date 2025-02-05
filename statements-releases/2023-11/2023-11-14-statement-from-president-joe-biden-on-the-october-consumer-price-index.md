@@ -1,7 +1,7 @@
 ---
 date: '2023-11-14'
 published_time: 2023-11-14 09:47:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/statement-from-president-joe-biden-on-the-october-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/statement-from-president-joe-biden-on-the-october-consumer-price-index/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the October Consumer Price\_Index"
 ---

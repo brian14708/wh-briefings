@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 16:03:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/readout-of-president-joe-bidens-meeting-with-president-recep-tayyip-erdogan-of-turkiye/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/readout-of-president-joe-bidens-meeting-with-president-recep-tayyip-erdogan-of-turkiye/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Recep Tayyip\
   \ Erdo\u011Fan of\_T\xFCrkiye"

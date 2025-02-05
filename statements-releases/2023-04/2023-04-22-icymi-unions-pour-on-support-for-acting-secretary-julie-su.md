@@ -2,7 +2,7 @@
 date: '2023-04-22'
 modified_time: 2023-04-22 16:50:36-04:00
 published_time: 2023-04-22 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/22/icymi-unions-pour-on-support-for-acting-secretary-julie-su/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/22/icymi-unions-pour-on-support-for-acting-secretary-julie-su/
 tags: statements-releases
 title: "ICYMI: \u201CUnions Pour on Support\u201D for Acting Secretary Julie\_Su"
 ---

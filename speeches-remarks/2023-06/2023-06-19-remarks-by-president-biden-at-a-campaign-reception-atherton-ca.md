@@ -2,7 +2,7 @@
 date: '2023-06-19'
 modified_time: 2023-06-20 12:02:47-04:00
 published_time: 2023-06-19 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/19/remarks-by-president-biden-at-a-campaign-reception-atherton-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/19/remarks-by-president-biden-at-a-campaign-reception-atherton-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Atherton,\_CA"
 ---

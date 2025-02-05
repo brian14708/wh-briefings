@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 19:30:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/26/executive-order-on-combating-emerging-firearms-threats-and-improving-school-based-active-shooter-drills/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/26/executive-order-on-combating-emerging-firearms-threats-and-improving-school-based-active-shooter-drills/
 tags: presidential-actions
 title: "Executive Order on Combating Emerging Firearms Threats and Improving School-Based\
   \ Active-Shooter\_Drills"

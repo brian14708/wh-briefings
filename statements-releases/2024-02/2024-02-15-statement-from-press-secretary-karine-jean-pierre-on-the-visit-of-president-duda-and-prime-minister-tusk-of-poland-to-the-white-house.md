@@ -2,7 +2,7 @@
 date: '2024-02-15'
 modified_time: 2024-02-15 10:55:08-05:00
 published_time: 2024-02-15 11:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/15/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-duda-and-prime-minister-tusk-of-poland-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/15/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-duda-and-prime-minister-tusk-of-poland-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of President\
   \ Duda and Prime Minister Tusk of Poland to the White\_House"

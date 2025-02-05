@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 08:28:08-04:00
 published_time: 2022-07-26 08:28:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-the-anniversary-of-the-americans-with-disabilities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-the-anniversary-of-the-americans-with-disabilities-act/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Marks the Anniversary of\
   \ the Americans with Disabilities\_Act"
@@ -163,7 +163,7 @@ disabilities.
 <!-- -->
 
 -   **Combatting Long COVID.** In April 2022, the President issued a
-    [Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/)
+    [Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/)
     directing the Secretary of Health and Human Services to coordinate a
     new whole-of-government approach to prevent, detect, and treat Long
     COVID. HHS will produce two reports as a result: one that provides
@@ -223,7 +223,7 @@ Government and Enforce the Civil Rights of People with Disabilities**
     launched a whole-of-government initiative to cultivate a diverse
     federal workforce and expand its scope to include equity and
     accessibility. To deliver upon the Administration’s [DEIA strategic
-    plan](https://www.whitehouse.gov/wp-content/uploads/2021/11/Strategic-Plan-to-Advance-Diversity-Equity-Inclusion-and-Accessibility-in-the-Federal-Workforce-11.23.21.pdf),
+    plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Strategic-Plan-to-Advance-Diversity-Equity-Inclusion-and-Accessibility-in-the-Federal-Workforce-11.23.21.pdf),
     in March 2022, federal agencies finalized key steps they will take
     to strengthen their workforce policies, practices, and culture to be
     more accessible for people with disabilities, such as improving the
@@ -278,7 +278,7 @@ Disabilities**
     contractors have been able to pay less than the minimum wage to
     their workers with disabilities.As a result of President Biden’s
     [Executive Order
-    13658](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/),
+    13658](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/),
     after January 2022, contractors are required to pay a [minimum wage
     of $15 per
     hour](https://www.dol.gov/agencies/whd/government-contracts/eo14026)
@@ -317,7 +317,7 @@ Disabilities**
 **Increasing Access to Democracy for Voters with Disabilities.**
 
 -   [Executive Order 14019 on Voting
-    Access](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/),
+    Access](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/),
     the National Institute of Standards and Technology (NIST) published
     a [report about the challenges facing voters with
     disabilities](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1273.pdf),

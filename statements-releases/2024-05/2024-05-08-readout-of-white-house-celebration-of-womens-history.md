@@ -1,7 +1,7 @@
 ---
 date: '2024-05-08'
 published_time: 2024-05-08 18:17:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/08/readout-of-white-house-celebration-of-womens-history/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/08/readout-of-white-house-celebration-of-womens-history/
 tags: statements-releases
 title: "Readout of White\_House Celebration of Women\u2019s\_History"
 ---
@@ -14,9 +14,9 @@ country, and highlighted the Biden-Harris Administration’s efforts to
 increase the representation of women’s history in sites across America.
 
 These efforts include an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
 President Biden
-[signed](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-signs-executive-order-to-strengthen-the-recognition-of-womens-history/)
+[signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-signs-executive-order-to-strengthen-the-recognition-of-womens-history/)
 in March 2024 to strengthen the National Park Service’s recognition of
 women’s history. To advance this work, philanthropic partners announced:
 
@@ -41,7 +41,7 @@ women’s history. To advance this work, philanthropic partners announced:
 Today’s event builds on continuing efforts across the Federal government
 to recognize the role that women and girls play in shaping the American
 story. In 2023, President Biden
-[designated](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
+[designated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
 the Emmett Till and Mamie Till-Mobley National Monument in Mississippi
 and Illinois that honors the bravery of Mamie Till-Mobley in the wake of
 her son’s brutal murder, which helped catalyze the Civil Rights

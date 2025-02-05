@@ -1,7 +1,7 @@
 ---
 date: '2023-08-31'
 published_time: 2023-08-31 18:33:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-back-to-school-event-with-educators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-back-to-school-event-with-educators/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Back-to-School\
   \ Event with\_Educators"

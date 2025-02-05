@@ -2,7 +2,7 @@
 date: '2023-11-04'
 modified_time: 2023-11-04 14:47:50-04:00
 published_time: 2023-11-04 14:47:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/04/remarks-by-president-biden-paying-respects-to-victims-and-thanking-frontline-responders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/04/remarks-by-president-biden-paying-respects-to-victims-and-thanking-frontline-responders/
 tags: statements-releases
 title: "Remarks by President\_Biden Paying Respects to Victims and Thanking Frontline\_\
   Responders"

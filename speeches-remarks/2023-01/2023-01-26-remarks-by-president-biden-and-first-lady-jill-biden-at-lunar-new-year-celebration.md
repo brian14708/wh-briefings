@@ -1,7 +1,7 @@
 ---
 date: '2023-01-26'
 published_time: 2023-01-26 21:27:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/26/remarks-by-president-biden-and-first-lady-jill-biden-at-lunar-new-year-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/26/remarks-by-president-biden-and-first-lady-jill-biden-at-lunar-new-year-celebration/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at Lunar New Year\_\
   Celebration"

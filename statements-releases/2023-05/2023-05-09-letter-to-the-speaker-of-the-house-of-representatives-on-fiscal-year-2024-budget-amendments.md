@@ -1,7 +1,7 @@
 ---
 date: '2023-05-09'
 published_time: 2023-05-09 16:21:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/09/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2024-budget-amendments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/09/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2024-budget-amendments/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives on Fiscal Year 2024\
   \ Budget\_Amendments"

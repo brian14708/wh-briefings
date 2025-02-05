@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-13 15:51:47-04:00
 published_time: 2023-09-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-as-part-of-president-bidens-unity-agenda-white-house-cancer-moonshot-announces-new-actions-and-commitments-to-end-cancer-as-we-know-it/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-as-part-of-president-bidens-unity-agenda-white-house-cancer-moonshot-announces-new-actions-and-commitments-to-end-cancer-as-we-know-it/
 tags: statements-releases
 title: "FACT SHEET: As Part of President\_Biden\u2019s Unity Agenda, White\_House\
   \ Cancer Moonshot Announces New Actions and Commitments to End Cancer as We Know\_\

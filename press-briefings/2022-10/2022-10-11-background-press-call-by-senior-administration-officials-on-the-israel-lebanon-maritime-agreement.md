@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 17:05:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/11/background-press-call-by-senior-administration-officials-on-the-israel-lebanon-maritime-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/11/background-press-call-by-senior-administration-officials-on-the-israel-lebanon-maritime-agreement/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Israel-Lebanon\
   \ Maritime\_Agreement"

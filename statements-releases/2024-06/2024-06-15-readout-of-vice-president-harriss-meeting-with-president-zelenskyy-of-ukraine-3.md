@@ -1,7 +1,7 @@
 ---
 date: '2024-06-15'
 published_time: 2024-06-15 11:03:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/readout-of-vice-president-harriss-meeting-with-president-zelenskyy-of-ukraine-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/readout-of-vice-president-harriss-meeting-with-president-zelenskyy-of-ukraine-3/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Zelenskyy of\_\
   Ukraine"

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-11'
 published_time: 2023-04-11 11:20:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/11/remarks-by-president-biden-before-air-force-one-departure-27/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/11/remarks-by-president-biden-before-air-force-one-departure-27/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

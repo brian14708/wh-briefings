@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 16:01:49-04:00
 published_time: 2023-03-13 16:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/13/fact-sheet-trilateral-australia-uk-us-partnership-on-nuclear-powered-submarines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/fact-sheet-trilateral-australia-uk-us-partnership-on-nuclear-powered-submarines/
 tags: statements-releases
 title: "FACT SHEET:\_ Trilateral Australia-UK-US Partnership on Nuclear-Powered\_\
   Submarines"

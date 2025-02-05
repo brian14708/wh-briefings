@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 12:01:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/readout-of-meeting-on-priority-issues-for-first-generation-college-students/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/readout-of-meeting-on-priority-issues-for-first-generation-college-students/
 tags: statements-releases
 title: "Readout of Meeting on Priority Issues for First-Generation College\_Students"
 ---

@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-02-23'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/23/fact-sheet-biden-%e2%81%a0harris-administration-delivering-results-100-days-into-infrastructure-implementation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/23/fact-sheet-biden-%e2%81%a0harris-administration-delivering-results-100-days-into-infrastructure-implementation/
 published_time: 2022-02-23 13:47:33-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Delivering Results 100 Days\
   \ into Infrastructure\_Implementation"
@@ -64,7 +64,7 @@ requested
 local leaders take a series of preparatory actions, including appointing
 infrastructure coordinators to manage the flow of funds to their states.
 The Administration has also released a [fact
-sheet](https://www.whitehouse.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf)
+sheet](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf)
 on some of the largest sources of competitive funding, particularly for
 local governments. Senior Advisor and Infrastructure Implementation
 Coordinator Mitch Landrieu has shared these resources during meetings
@@ -163,7 +163,7 @@ well.
     billion dollars over the next 4 years to improve the safety of our
     roadways.  
 -   Vice President Harris announced an [EV Charging Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/) to
     achieve the President’s goal of building a national network of
     500,000 electric vehicle chargers. USDOT and DOE also formed
     a [Joint Office of Energy &
@@ -179,13 +179,13 @@ well.
 *Climate, Energy & the Environment*
 
 -   The U.S. Army Corps of Engineers (USACE) announced [ $14
-    Billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
+    Billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/19/fact-sheet-biden-harris-administration-announces-historic-investment-to-americas-port-and-waterway-infrastructure/)
     to strengthen supply chains, improve waterways, and bolster climate
     resilience in fiscal year 2022 for over 500 projects across 52
     states and territories using Bipartisan Infrastructure Law funds and
     other appropriations.  
 -   Vice President Harris announced a [Lead Pipe and Paint Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
     accelerate Bipartisan Infrastructure Law investments to replace all
     of the nation’s lead pipes in the next decade and expand access to
     clean drinking water.  

@@ -2,7 +2,7 @@
 date: '2022-07-11'
 modified_time: 2022-07-11 18:34:10-04:00
 published_time: 2022-07-11 17:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/biden-administration-produces-first-full-color-image-from-webb-space-telescope/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/biden-administration-produces-first-full-color-image-from-webb-space-telescope/
 tags: statements-releases
 title: "Biden Administration Makes Public First Full-Color Image from Webb Space\_\
   Telescope"

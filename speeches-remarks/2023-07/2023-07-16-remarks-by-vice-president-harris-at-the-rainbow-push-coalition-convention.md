@@ -1,7 +1,7 @@
 ---
 date: '2023-07-16'
 published_time: 2023-07-16 21:22:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/16/remarks-by-vice-president-harris-at-the-rainbow-push-coalition-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/16/remarks-by-vice-president-harris-at-the-rainbow-push-coalition-convention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Rainbow PUSH Coalition\_Convention"
 ---

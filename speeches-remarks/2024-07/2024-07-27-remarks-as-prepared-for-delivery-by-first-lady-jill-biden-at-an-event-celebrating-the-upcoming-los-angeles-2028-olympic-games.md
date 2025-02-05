@@ -2,7 +2,7 @@
 date: '2024-07-27'
 modified_time: 2024-07-27 06:16:55-04:00
 published_time: 2024-07-27 06:16:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-celebrating-the-upcoming-los-angeles-2028-olympic-games/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-celebrating-the-upcoming-los-angeles-2028-olympic-games/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event Celebrating\
   \ the Upcoming Los Angeles 2028 Olympic\_Games"

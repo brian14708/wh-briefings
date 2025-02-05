@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-16 21:30:23-05:00
 published_time: 2022-11-13 07:24:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/phnom-penh-statement-on-trilateral-partnership-for-the-indo-pacific/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/phnom-penh-statement-on-trilateral-partnership-for-the-indo-pacific/
 tags: statements-releases
 title: "Phnom Penh Statement on US \u2013 Japan \u2013 Republic of Korea Trilateral\
   \ Partnership for the\_Indo-Pacific"

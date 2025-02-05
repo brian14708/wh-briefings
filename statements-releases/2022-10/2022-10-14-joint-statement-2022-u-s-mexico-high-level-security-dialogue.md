@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 10:52:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/joint-statement-2022-u-s-mexico-high-level-security-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/joint-statement-2022-u-s-mexico-high-level-security-dialogue/
 tags: statements-releases
 title: "Joint Statement: 2022 U.S.-Mexico High-Level Security\_Dialogue"
 ---

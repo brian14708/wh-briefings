@@ -2,7 +2,7 @@
 date: '2024-08-20'
 modified_time: 2024-08-20 15:32:11-04:00
 published_time: 2024-08-20 15:32:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-santa-clara-pueblo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-santa-clara-pueblo/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Santa\
   \ Clara\_Pueblo"

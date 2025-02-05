@@ -1,7 +1,7 @@
 ---
 date: '2023-10-18'
 published_time: 2023-10-18 20:19:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/18/what-they-are-saying-president-biden-visits-israel-following-hamas-terrorist-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/18/what-they-are-saying-president-biden-visits-israel-following-hamas-terrorist-attacks/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Visits Israel Following Hamas Terrorist\_\
   Attacks"
@@ -66,7 +66,7 @@ your personal commitment to the future of the Jewish people and the one
 and only Jewish state. So, I know I speak for all the people of Israel
 when I say: Thank you, Mr. President.  Thank you for standing with
 Israel today, tomorrow, and always.”
-\[[Remarks](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-and-prime-minister-netanyahu-of-israel-before-bilateral-meeting-tel-aviv-israel/),
+\[[Remarks](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-and-prime-minister-netanyahu-of-israel-before-bilateral-meeting-tel-aviv-israel/),
 10/18/23\]  
    
 **Isaac Herzog, President of Israel: **“Your visit to Israel today Mr.

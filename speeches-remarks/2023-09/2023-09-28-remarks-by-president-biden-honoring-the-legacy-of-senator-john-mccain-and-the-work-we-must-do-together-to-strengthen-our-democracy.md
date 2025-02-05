@@ -1,7 +1,7 @@
 ---
 date: '2023-09-28'
 published_time: 2023-09-28 20:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/28/remarks-by-president-biden-honoring-the-legacy-of-senator-john-mccain-and-the-work-we-must-do-together-to-strengthen-our-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/28/remarks-by-president-biden-honoring-the-legacy-of-senator-john-mccain-and-the-work-we-must-do-together-to-strengthen-our-democracy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the Legacy of Senator John McCain and\
   \ the Work We Must Do Together to Strengthen Our\_Democracy"

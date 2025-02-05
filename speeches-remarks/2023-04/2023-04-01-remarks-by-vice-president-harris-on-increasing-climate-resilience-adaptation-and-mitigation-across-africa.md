@@ -2,7 +2,7 @@
 date: '2023-04-01'
 modified_time: 2023-04-01 12:39:17-04:00
 published_time: 2023-04-01 12:39:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-on-increasing-climate-resilience-adaptation-and-mitigation-across-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/01/remarks-by-vice-president-harris-on-increasing-climate-resilience-adaptation-and-mitigation-across-africa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Increasing Climate Resilience, Adaptation,\
   \ and Mitigation Across\_Africa"

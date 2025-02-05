@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 21:37:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-chief-of-the-national-security-bureau-of-poland-jacek-siewiera/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-chief-of-the-national-security-bureau-of-poland-jacek-siewiera/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Chief\
   \ of the National Security Bureau of Poland Jacek\_Siewiera"

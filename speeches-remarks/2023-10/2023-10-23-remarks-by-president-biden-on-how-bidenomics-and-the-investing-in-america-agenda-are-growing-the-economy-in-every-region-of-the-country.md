@@ -1,7 +1,7 @@
 ---
 date: '2023-10-23'
 published_time: 2023-10-23 17:21:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/23/remarks-by-president-biden-on-how-bidenomics-and-the-investing-in-america-agenda-are-growing-the-economy-in-every-region-of-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/23/remarks-by-president-biden-on-how-bidenomics-and-the-investing-in-america-agenda-are-growing-the-economy-in-every-region-of-the-country/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on How Bidenomics and the Investing in America\
   \ Agenda are Growing the Economy in Every Region of the\_Country"

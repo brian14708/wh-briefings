@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-01-27'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-water-sector/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/27/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-water-sector/
 published_time: 2022-01-27 09:03:50-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Expands Public-Private Cybersecurity\
   \ Partnership to Water\_Sector"
@@ -66,7 +66,7 @@ cyber-related threat visibility, indicators, detections, and warnings:**
 national security priority for the Biden-Harris Administration:**
 
 -   The Administration [has rapidly moved out on a whole-of-government
-    effort](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-ongoing-public-u-s-efforts-to-counter-ransomware/) to
+    effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-ongoing-public-u-s-efforts-to-counter-ransomware/) to
     counter ransomware including disrupting ransomware infrastructure
     and actors, bolstering public and private resilience to withstand
     ransomware attacks, and leverage international cooperation to
@@ -74,7 +74,7 @@ national security priority for the Biden-Harris Administration:**
     ransomware ecosystem.  
      
 -   President Biden [signed an Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/) to
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/) to
     modernize cybersecurity defenses by protecting federal networks,
     improving information-sharing between the U.S. government and the
     private sector on cyber issues, and strengthening the United States’
@@ -87,21 +87,21 @@ national security priority for the Biden-Harris Administration:**
     cybersecurity threats – and leaders announced ambitious initiatives
     to bolster the Nation’s cybersecurity. The White House [convened
     government and private sector
-    stakeholders](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/readout-of-white-house-meeting-on-software-security/) to
+    stakeholders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/13/readout-of-white-house-meeting-on-software-security/) to
     improve the security of open source software and ways new
     collaboration could rapidly drive improvements. And
     officials [continue calling on the private
-    sector](https://www.whitehouse.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf) publicly
+    sector](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf) publicly
     and privately to implement best practices to defend against
     malicious cyber activity, [including backing up data, implementing
     multi-factor authentication, and testing incident response
-    plans.](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/protecting-against-malicious-cyber-activity-before-the-holidays/)  
+    plans.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/protecting-against-malicious-cyber-activity-before-the-holidays/)  
      
 -   The Administration has rallied G7 countries to hold accountable
     nations who harbor ransomware criminals, updated NATO cyber policy
     for the first time in seven years, and [brought together more than
     30 allies and
-    partners](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/) to
+    partners](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/) to
     accelerate our cooperation in combatting cybercrime, improve law
     enforcement collaboration, and stem the illicit use of
     cryptocurrency. The Administration has imposed costs on Russia for

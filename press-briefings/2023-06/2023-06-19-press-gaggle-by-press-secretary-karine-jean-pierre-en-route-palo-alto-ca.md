@@ -1,7 +1,7 @@
 ---
 date: '2023-06-19'
 published_time: 2023-06-19 15:26:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-palo-alto-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/19/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-palo-alto-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Palo Alto,\_CA"
 ---

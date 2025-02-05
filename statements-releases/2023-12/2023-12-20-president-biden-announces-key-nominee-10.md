@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 15:25:13-05:00
 published_time: 2023-12-20 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/president-biden-announces-key-nominee-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/president-biden-announces-key-nominee-10/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominee"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 20:14:31-04:00
 published_time: 2024-05-10 20:13:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-president-biden-at-a-campaign-reception-portola-valley-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-president-biden-at-a-campaign-reception-portola-valley-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Portola Valley,\_CA"
 ---

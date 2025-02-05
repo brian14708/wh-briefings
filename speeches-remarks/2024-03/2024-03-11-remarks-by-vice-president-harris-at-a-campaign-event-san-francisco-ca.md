@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-12 12:12:22-04:00
 published_time: 2024-03-11 23:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-vice-president-harris-at-a-campaign-event-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-vice-president-harris-at-a-campaign-event-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | San Francisco,\_CA"
 ---

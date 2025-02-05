@@ -2,7 +2,7 @@
 date: '2023-05-25'
 modified_time: 2023-05-25 16:25:30-04:00
 published_time: 2023-05-25 16:25:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/readout-of-white-house-listening-session-on-automated-worker-surveillance-and-management/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/readout-of-white-house-listening-session-on-automated-worker-surveillance-and-management/
 tags: statements-releases
 title: "Readout of White\_House Listening Session on Automated Worker Surveillance\
   \ and\_Management"
@@ -28,7 +28,7 @@ Opportunity Commission (EEOC), and the National Labor Relations Board
 (NLRB).  
   
 Tuesday’s listening session followed a [Request for
-Information](https://www.whitehouse.gov/ostp/news-updates/2023/05/01/hearing-from-the-american-people-how-are-automated-tools-being-used-to-surveil-monitor-and-manage-workers/)
+Information](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/05/01/hearing-from-the-american-people-how-are-automated-tools-being-used-to-surveil-monitor-and-manage-workers/)
 (RFI) released by the Biden-Harris Administration earlier this month to
 advance understanding of the design, deployment, prevalence, and impacts
 of automated technologies that monitor and track workers. Responses to

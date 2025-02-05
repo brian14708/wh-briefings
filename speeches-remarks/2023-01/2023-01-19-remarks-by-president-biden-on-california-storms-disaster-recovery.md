@@ -2,7 +2,7 @@
 date: '2023-01-19'
 modified_time: 2023-01-19 20:26:26-05:00
 published_time: 2023-01-19 20:26:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/19/remarks-by-president-biden-on-california-storms-disaster-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/19/remarks-by-president-biden-on-california-storms-disaster-recovery/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on California Storms Disaster\_Recovery"
 ---

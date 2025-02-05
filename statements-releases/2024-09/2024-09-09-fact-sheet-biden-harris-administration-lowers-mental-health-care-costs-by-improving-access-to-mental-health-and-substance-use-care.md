@@ -2,7 +2,7 @@
 date: '2024-09-09'
 modified_time: 2024-09-08 12:44:20-04:00
 published_time: 2024-09-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/09/fact-sheet-biden-harris-administration-lowers-mental-health-care-costs-by-improving-access-to-mental-health-and-substance-use-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/09/fact-sheet-biden-harris-administration-lowers-mental-health-care-costs-by-improving-access-to-mental-health-and-substance-use-care/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Lowers Mental Health Care Costs\
   \ by Improving Access to Mental Health and Substance Use\_Care"

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-02'
 published_time: 2022-07-02 09:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/02/remarks-by-president-biden-during-a-virtual-meeting-with-governors-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/02/remarks-by-president-biden-during-a-virtual-meeting-with-governors-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During a Virtual Meeting with Governors on Reproductive\_\
   Rights"

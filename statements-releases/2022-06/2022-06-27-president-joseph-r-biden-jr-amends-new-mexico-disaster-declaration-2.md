@@ -1,7 +1,7 @@
 ---
 date: '2022-06-27'
 published_time: 2022-06-27 11:37:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/president-joseph-r-biden-jr-amends-new-mexico-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/president-joseph-r-biden-jr-amends-new-mexico-disaster-declaration-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends New Mexico Disaster\_Declaration"
 ---

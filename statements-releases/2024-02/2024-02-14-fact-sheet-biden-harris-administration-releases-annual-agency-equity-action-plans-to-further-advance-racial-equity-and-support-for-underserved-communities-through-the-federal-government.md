@@ -2,7 +2,7 @@
 date: '2024-02-14'
 modified_time: 2024-02-16 11:29:34-05:00
 published_time: 2024-02-14 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/fact-sheet-biden-harris-administration-releases-annual-agency-equity-action-plans-to-further-advance-racial-equity-and-support-for-underserved-communities-through-the-federal-government/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Annual Agency Equity\
   \ Action Plans to Further Advance Racial Equity and Support for Underserved Communities\
@@ -29,22 +29,22 @@ these efforts – supporting economic comebacks in communities across the
 country.
 
 Through the implementation of [two historic Executive
-Orders](https://www.whitehouse.gov/equity/) on equity and the
+Orders](https://bidenwhitehouse.archives.gov/equity/) on equity and the
 President’s landmark [Investing in America
-Agenda](https://www.whitehouse.gov/invest/?utm_source=invest.gov) and
+Agenda](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) and
 other key legislation, the Biden-Harris Administration is working to
 advance opportunity and make real the promise of America for everyone.
 
 Today, marking the first anniversary of the signing of President Biden’s
 [second Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 on equity, federal agencies, including all Cabinet-level agencies, [are
 releasing their 2023 Equity Action
 Plans](http://www.performance.gov/equity), which include over 100
 community-informed strategies and actions to address systemic barriers
 in our Nation’s policies and programs. The Biden-Harris Administration
 also released a new [White House Progress Report on
-Equity](https://www.whitehouse.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf),
+Equity](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf),
 which highlights examples of the more than 650 actions agencies have
 undertaken since the release of their 2022 Equity Action Plans. Agencies
 acted to increase access to federal contracting dollars, capital, and
@@ -232,7 +232,7 @@ including by:
     impacts from climate change. President Biden is advancing the most
     ambitious environmental justice agenda in history to address this,
     including [signing a historic Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
     that calls on the Federal Government to bring clean energy and
     healthy environments to all and mitigate harm to those who have
     suffered from toxic pollution and other environmental burdens like
@@ -246,12 +246,12 @@ including by:
     resilience projects.
 -   **Delivering on the Justice40 Initiative and Reducing Pollution.**
     President Biden’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
     set a goal to deliver 40% of the overall benefits of certain
     climate, clean air, clean water, and other federal investments to
     disadvantaged communities that have historically been left behind or
     overlooked. Over [500 programs across 19 federal
-    agencies](https://www.whitehouse.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
+    agencies](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
     are being reimagined and transformed through the Justice40
     Initiative to maximize benefits to disadvantaged communities such as
     cleaner air, good-paying jobs, and affordable clean energy. Key

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-07'
 published_time: 2022-10-07 11:32:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Progress in Implementing its Housing\
   \ Supply Action\_Plan"
@@ -9,7 +9,7 @@ title: "Biden-\u2060Harris Administration Announces Progress in Implementing its
  
 Today, the Biden-Harris Administration is announcing key progress on
 implementing its [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 which in May outlined a set of administrative and legislative priorities
 aimed at closing the housing supply shortfall in five years. The
 President believes that policies that boost the supply of affordable

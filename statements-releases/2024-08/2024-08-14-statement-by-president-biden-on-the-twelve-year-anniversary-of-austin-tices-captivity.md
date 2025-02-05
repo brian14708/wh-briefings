@@ -2,7 +2,7 @@
 date: '2024-08-14'
 modified_time: 2024-08-14 11:01:49-04:00
 published_time: 2024-08-14 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/statement-by-president-biden-on-the-twelve-year-anniversary-of-austin-tices-captivity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/statement-by-president-biden-on-the-twelve-year-anniversary-of-austin-tices-captivity/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Twelve-Year Anniversary of Austin\
   \ Tice\u2019s\_Captivity"

@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 19:09:16-05:00
 published_time: 2023-11-16 19:09:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-partnership-for-global-infrastructure-and-investment-pgi-indo-pacific-economic-framework-for-prosperity-ipef-investor-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-partnership-for-global-infrastructure-and-investment-pgi-indo-pacific-economic-framework-for-prosperity-ipef-investor-forum/
 tags: statements-releases
 title: "FACT SHEET: Partnership for Global Infrastructure and Investment (PGI) Indo-Pacific\
   \ Economic Framework for Prosperity (IPEF) Investor\_Forum"

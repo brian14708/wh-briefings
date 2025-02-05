@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 16:22:21-05:00
 published_time: 2023-12-06 16:22:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/readout-of-president-bidens-virtual-meeting-with-g7-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/readout-of-president-bidens-virtual-meeting-with-g7-leaders/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Virtual Meeting with G7\_Leaders"
 ---

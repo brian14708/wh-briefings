@@ -1,7 +1,7 @@
 ---
 date: '2022-04-13'
 published_time: 2022-04-13 14:00:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/statement-by-president-joe-biden-on-call-with-president-zelenskyy-and-additional-security-assistance-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/statement-by-president-joe-biden-on-call-with-president-zelenskyy-and-additional-security-assistance-to-ukraine/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Call with President Zelenskyy and Additional\
   \ Security Assistance to\_Ukraine"

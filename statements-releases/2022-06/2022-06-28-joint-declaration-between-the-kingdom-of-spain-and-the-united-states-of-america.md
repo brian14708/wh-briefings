@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 11:52:58-04:00
 published_time: 2022-06-28 11:52:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/joint-declaration-between-the-kingdom-of-spain-and-the-united-states-of-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/joint-declaration-between-the-kingdom-of-spain-and-the-united-states-of-america/
 tags: statements-releases
 title: "Joint Declaration Between the Kingdom of Spain and the United\_States of\_\
   America"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 21:03:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-celebration-of-jewish-american-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/16/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-celebration-of-jewish-american-heritage-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, First Lady Jill\_Biden, and Second Gentleman\
   \ Douglas Emhoff at a Celebration of Jewish American Heritage\_Month"

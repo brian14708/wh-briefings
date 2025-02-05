@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-13 10:42:21-04:00
 published_time: 2022-06-06 13:03:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/president-biden-announces-fifth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/president-biden-announces-fifth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Fifth Operation Fly Formula\_Mission"
 ---
@@ -38,12 +38,12 @@ the General Services Administration (GSA), and the Department of Defense
 (DOD) are partnering to pick up overseas infant formula that meets U.S.
 health and safety standards, so it can get to store shelves faster.
 Operation Fly Formula has
-[shipped](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/22/biden-administration-announces-second-operation-fly-formula-flight/)
+[shipped](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/22/biden-administration-announces-second-operation-fly-formula-flight/)
 1.5 million bottle equivalents of Nestle infant formula, and is sourcing
 flights for an additional 8.3 million bottle equivalents of [Bubs
-Australia](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-fourth-operation-fly-formula-mission/)
+Australia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-fourth-operation-fly-formula-mission/)
 and [Kendamil infant
-formula](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-third-operation-fly-formula-mission/).
+formula](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-third-operation-fly-formula-mission/).
 
 In addition, the Biden Administration has taken a number of other
 important actions to ensure there is enough safe infant formula for
@@ -56,10 +56,10 @@ whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg"
 class="wp-image-54786" loading="lazy"
 sizes="(max-width: 211px) 100vw, 211px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg 173w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=1200,1200 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg 173w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Picture1.jpg?resize=1200,1200 1200w"
 width="211" height="211" />
 </figure>
 

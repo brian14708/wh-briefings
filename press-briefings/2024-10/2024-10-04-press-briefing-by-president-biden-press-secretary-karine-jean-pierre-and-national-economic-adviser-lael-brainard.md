@@ -1,7 +1,7 @@
 ---
 date: '2024-10-04'
 published_time: 2024-10-04 16:57:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/04/press-briefing-by-president-biden-press-secretary-karine-jean-pierre-and-national-economic-adviser-lael-brainard/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/04/press-briefing-by-president-biden-press-secretary-karine-jean-pierre-and-national-economic-adviser-lael-brainard/
 tags: press-briefings
 title: "Press Briefing by President\_Biden, Press Secretary Karine Jean-Pierre, and\
   \ National Economic Adviser Lael\_Brainard"

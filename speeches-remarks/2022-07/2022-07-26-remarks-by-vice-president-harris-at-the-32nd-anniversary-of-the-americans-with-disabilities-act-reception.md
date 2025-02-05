@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-27 00:41:53-04:00
 published_time: 2022-07-26 00:38:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-vice-president-harris-at-the-32nd-anniversary-of-the-americans-with-disabilities-act-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-vice-president-harris-at-the-32nd-anniversary-of-the-americans-with-disabilities-act-reception/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the 32nd Anniversary of the\_ Americans\
   \ With Disabilities Act\_Reception"

@@ -2,7 +2,7 @@
 date: '2024-06-01'
 modified_time: 2024-06-01 11:32:26-04:00
 published_time: 2024-06-01 11:32:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-erie-county-community-colleges-2024-commencement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-erie-county-community-colleges-2024-commencement/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Erie County\
   \ Community College\u2019s 2024\_Commencement"

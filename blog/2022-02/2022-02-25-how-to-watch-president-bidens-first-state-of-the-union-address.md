@@ -2,7 +2,7 @@
 tags: blog
 date: '2022-02-25'
 modified_time: 2022-02-25 08:13:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/02/25/how-to-watch-president-bidens-first-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/02/25/how-to-watch-president-bidens-first-state-of-the-union-address/
 published_time: 2022-02-25 08:13:14-05:00
 title: "How to Watch President\_Biden\u2019s First State of the Union\_Address"
 ---
@@ -35,4 +35,4 @@ States Capitol on Tuesday, March 1, 2022 at 9 PM EST.
 
 It will be President Biden’s first State of the Union speech, and his
 [second address to a joint session of
-Congress](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/04/29/remarks-by-president-biden-in-address-to-a-joint-session-of-congress/).
+Congress](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/04/29/remarks-by-president-biden-in-address-to-a-joint-session-of-congress/).

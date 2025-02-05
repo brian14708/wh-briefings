@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-11 12:50:13-04:00
 published_time: 2024-05-08 19:25:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-national-teacher-appreciation-day-call/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-national-teacher-appreciation-day-call/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at National Teacher\
   \ Appreciation Day\_Call"

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-03'
 published_time: 2023-04-03 21:36:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/03/president-joseph-r-biden-jr-approves-california-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/03/president-joseph-r-biden-jr-approves-california-disaster-declaration-4/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves California Disaster\_Declaration"
 ---

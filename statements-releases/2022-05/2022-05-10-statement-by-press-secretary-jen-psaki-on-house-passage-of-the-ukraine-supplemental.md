@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-10 23:04:16-04:00
 published_time: 2022-05-10 23:04:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/10/statement-by-press-secretary-jen-psaki-on-house-passage-of-the-ukraine-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/10/statement-by-press-secretary-jen-psaki-on-house-passage-of-the-ukraine-supplemental/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on House Passage of the Ukraine\_\
   Supplemental"

@@ -2,7 +2,7 @@
 date: '2024-11-29'
 modified_time: 2024-11-29 18:12:48-05:00
 published_time: 2024-11-29 18:12:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/29/a-proclamation-on-national-impaired-driving-prevention-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/29/a-proclamation-on-national-impaired-driving-prevention-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Impaired Driving Prevention Month,\_2024"
 ---

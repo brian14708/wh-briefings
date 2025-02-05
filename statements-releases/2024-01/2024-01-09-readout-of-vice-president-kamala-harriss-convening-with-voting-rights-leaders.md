@@ -1,14 +1,14 @@
 ---
 date: '2024-01-09'
 published_time: 2024-01-09 19:24:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/09/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/09/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Convening With Voting Rights\_\
   Leaders"
 ---
  
 Today, Vice President Kamala
-Harris [convened](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/09/remarks-by-vice-president-harris-before-roundtable-discussion-on-voting-rights-and-protections-with-advocates-and-leaders-atlanta-ga/) leaders
+Harris [convened](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/09/remarks-by-vice-president-harris-before-roundtable-discussion-on-voting-rights-and-protections-with-advocates-and-leaders-atlanta-ga/) leaders
 in Atlanta, Georgia who are on the frontlines of registering and
 protecting voting rights at the national, state, and local level to
 discuss ongoing threats to ballot access, the actions being taken to

@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-30 13:33:32-04:00
 published_time: 2023-10-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Executive Order on Safe, Secure, and Trustworthy\
   \ Artificial\_Intelligence"
@@ -118,9 +118,9 @@ Irresponsible uses of AI can lead to and deepen discrimination, bias,
 and other abuses in justice, healthcare, and housing. The Biden-Harris
 Administration has already taken action by publishing the [Blueprint for
 an AI Bill of
-Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and issuing
+Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) and issuing
 an [Executive Order directing agencies to combat algorithmic
-discrimination](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/16/fact-sheet-president-biden-signs-executive-order-to-strengthen-racial-equity-and-support-for-underserved-communities-across-the-federal-government/),
+discrimination](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/16/fact-sheet-president-biden-signs-executive-order-to-strengthen-racial-equity-and-support-for-underserved-communities-across-the-federal-government/),
 while enforcing existing authorities to protect people’s rights and
 safety. **To ensure that AI advances equity and civil rights, the
 President directs the following additional actions:**

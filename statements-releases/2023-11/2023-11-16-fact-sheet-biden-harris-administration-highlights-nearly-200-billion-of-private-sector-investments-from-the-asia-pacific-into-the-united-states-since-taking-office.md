@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 20:23:49-05:00
 published_time: 2023-11-16 19:55:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-highlights-nearly-200-billion-of-private-sector-investments-from-the-asia-pacific-into-the-united-states-since-taking-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-highlights-nearly-200-billion-of-private-sector-investments-from-the-asia-pacific-into-the-united-states-since-taking-office/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Nearly $200 Billion\
   \ of Private Sector Investments from the Asia-Pacific into the United\_States Since\

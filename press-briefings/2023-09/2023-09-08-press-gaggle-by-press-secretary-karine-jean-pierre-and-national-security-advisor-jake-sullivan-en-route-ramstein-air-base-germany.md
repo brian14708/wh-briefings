@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 01:50:08-04:00
 published_time: 2023-09-08 01:50:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-ramstein-air-base-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-ramstein-air-base-germany/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Ramstein Air Base,\_Germany"

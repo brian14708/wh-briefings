@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-07 09:41:44-05:00
 published_time: 2024-03-07 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/the-white-house-announces-guest-list-for-the-first-ladys-box-for-the-2024-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/the-white-house-announces-guest-list-for-the-first-ladys-box-for-the-2024-state-of-the-union-address/
 tags: statements-releases
 title: "The White\_House Announces Guest List for the First Lady\u2019s Box for the\
   \ 2024 State of the Union\_Address"

@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 16:48:09-04:00
 published_time: 2022-09-21 16:24:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/statement-by-president-joe-biden-on-senate-ratification-of-the-kigali-amendment-to-the-montreal-protocol/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/statement-by-president-joe-biden-on-senate-ratification-of-the-kigali-amendment-to-the-montreal-protocol/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Senate Ratification of the Kigali Amendment\
   \ to the Montreal\_Protocol"
@@ -23,7 +23,7 @@ of HFC alternatives—and today’s vote will help our nation unlock an
 estimated 33,000 new domestic manufacturing jobs, $4.8 billion each year
 in increased exports, and $12.5 billion each year in increased economic
 output. This builds on the [steps my Administration is already
-taking](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-administration-combats-super-pollutants-and-bolsters-domestic-manufacturing-with-new-programs-and-historic-commitments/)
+taking](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-administration-combats-super-pollutants-and-bolsters-domestic-manufacturing-with-new-programs-and-historic-commitments/)
 to phase down these dangerous super pollutants, with the support of
 Democrats and Republicans, industry leaders, and environmental
 organizations.  

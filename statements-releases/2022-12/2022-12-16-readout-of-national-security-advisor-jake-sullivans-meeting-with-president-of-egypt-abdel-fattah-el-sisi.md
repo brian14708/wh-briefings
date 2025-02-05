@@ -1,7 +1,7 @@
 ---
 date: '2022-12-16'
 published_time: 2022-12-16 16:12:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-of-egypt-abdel-fattah-el-sisi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-of-egypt-abdel-fattah-el-sisi/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with President\
   \ of Egypt Abdel Fattah\_El-Sisi"

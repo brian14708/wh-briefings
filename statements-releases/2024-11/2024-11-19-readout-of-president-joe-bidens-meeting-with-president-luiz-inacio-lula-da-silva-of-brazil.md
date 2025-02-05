@@ -2,7 +2,7 @@
 date: '2024-11-19'
 modified_time: 2024-11-19 16:54:30-05:00
 published_time: 2024-11-19 13:49:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/readout-of-president-joe-bidens-meeting-with-president-luiz-inacio-lula-da-silva-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/readout-of-president-joe-bidens-meeting-with-president-luiz-inacio-lula-da-silva-of-brazil/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Luiz In\xE1\
   cio Lula da Silva of\_Brazil"
@@ -39,7 +39,7 @@ need for urgent action to address the climate crisis. 
    
 Thanking President Lula for the historic invitation to be the first
 sitting president to [visit the
-Amazon](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/17/fact-sheet-president-biden-marks-historic-climate-legacy-with-trip-to-brazils-amazon-rainforest/),
+Amazon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/17/fact-sheet-president-biden-marks-historic-climate-legacy-with-trip-to-brazils-amazon-rainforest/),
 President Biden highlighted U.S. support for Brazil’s Amazon Fund and
 pledged U.S. support to stand up the Tropical Forests Forever
 Facility.    
@@ -47,7 +47,7 @@ Facility.  
 Building on their commitment to addressing the climate crisis and
 seizing the opportunity to promote decent work in essential industries,
 the two leaders [announced a new Brazil-U.S. Partnership for the Energy
-Transition](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/). 
+Transition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/). 
 The Partnership will accelerate clean energy deployment, expand energy
 and mineral supply chain development, and decarbonize the manufacturing
 and industrial sectors.  President Biden expressed his confidence in the

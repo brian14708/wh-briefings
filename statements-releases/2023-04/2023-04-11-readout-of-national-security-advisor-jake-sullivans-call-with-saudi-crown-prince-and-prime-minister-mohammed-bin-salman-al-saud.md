@@ -2,7 +2,7 @@
 date: '2023-04-11'
 modified_time: 2023-04-11 20:28:31-04:00
 published_time: 2023-04-11 20:28:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/readout-of-national-security-advisor-jake-sullivans-call-with-saudi-crown-prince-and-prime-minister-mohammed-bin-salman-al-saud/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/readout-of-national-security-advisor-jake-sullivans-call-with-saudi-crown-prince-and-prime-minister-mohammed-bin-salman-al-saud/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Saudi\
   \ Crown Prince and Prime Minister Mohammed bin Salman Al\_Saud"

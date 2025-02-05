@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 12:49:38-04:00
 published_time: 2022-07-26 12:49:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/
 tags: statements-releases
 title: "FACT SHEET: 10 Ways the Biden-\u2060Harris Administration Is Responding to\
   \ Extreme\_Heat"
@@ -92,7 +92,7 @@ action to protect communities, including by:  
 
 1.  **Investing in proactive resilience projects:** Last week, President
     Biden
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/)
     that the Federal Emergency Management Agency (FEMA) will have $2.3
     billion for the Building Resilient Infrastructure and Communities
     (BRIC) program to help communities increase resilience to heat

@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-16 21:42:38-05:00
 published_time: 2022-11-15 05:09:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/indonesia-and-international-partners-secure-groundbreaking-climate-targets-and-associated-financing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/indonesia-and-international-partners-secure-groundbreaking-climate-targets-and-associated-financing/
 tags: statements-releases
 title: "Indonesia and International Partners Secure Groundbreaking Climate Targets\
   \ and Associated\_Financing"
@@ -14,7 +14,7 @@ leaders of the International Partners Group (IPG) of likeminded
 countries, co-led by the United States and Japan, and including Canada,
 Denmark, the European Union, France, Germany, Italy, Norway, and the
 United Kingdom, [issued a Joint
-Statement](https://www.whitehouse.gov/wp-content/uploads/2022/11/Joint-Statement-1.pdf),
+Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Joint-Statement-1.pdf),
 launching a Just Energy Transition Partnership (JETP) developed with
 Indonesia during its G20 Presidency. The landmark partnership pursues an
 ambitious and just power sector transition in Indonesia, supporting a

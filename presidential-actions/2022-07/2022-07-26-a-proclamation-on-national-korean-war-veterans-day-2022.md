@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 11:16:28-04:00
 published_time: 2022-07-26 11:06:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/26/a-proclamation-on-national-korean-war-veterans-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/26/a-proclamation-on-national-korean-war-veterans-day-2022/
 tags: presidential-actions
 title: "A Proclamation on  National Korean War Veterans Armistice Day,\_2022"
 ---

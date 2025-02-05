@@ -1,7 +1,7 @@
 ---
 date: '2024-01-30'
 published_time: 2024-01-30 21:25:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/30/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/30/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-5/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves West Virginia Disaster\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-09 15:23:06-05:00
 published_time: 2023-03-08 14:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/fact-sheet-biden-%e2%81%a0harris-administration-advances-cleaner-industrial-sector-to-boost-american-manufacturing-and-cut-emissions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/fact-sheet-biden-%e2%81%a0harris-administration-advances-cleaner-industrial-sector-to-boost-american-manufacturing-and-cut-emissions/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Cleaner Industrial\
   \ Sector to Boost American Manufacturing and Cut\_Emissions"

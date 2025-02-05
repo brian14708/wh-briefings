@@ -2,7 +2,7 @@
 date: '2022-10-19'
 modified_time: 2022-10-19 19:23:23-04:00
 published_time: 2022-10-19 10:20:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/readout-of-meeting-with-nations-leading-clinical-societies-on-the-importance-of-getting-americans-vaccinated-and-covid-19-treatments-this-fall-and-winter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/readout-of-meeting-with-nations-leading-clinical-societies-on-the-importance-of-getting-americans-vaccinated-and-covid-19-treatments-this-fall-and-winter/
 tags: statements-releases
 title: "Readout of Meeting with Nation\u2019s Leading Clinical Societies on the Importance\
   \ of Getting Americans Vaccinated and COVID-\u206019 Treatments this Fall and\_\

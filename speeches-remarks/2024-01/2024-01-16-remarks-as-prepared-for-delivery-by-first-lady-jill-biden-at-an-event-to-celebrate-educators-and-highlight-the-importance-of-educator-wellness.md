@@ -1,7 +1,7 @@
 ---
 date: '2024-01-16'
 published_time: 2024-01-16 19:31:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-to-celebrate-educators-and-highlight-the-importance-of-educator-wellness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-to-celebrate-educators-and-highlight-the-importance-of-educator-wellness/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event to\
   \ Celebrate Educators and Highlight the Importance of Educator\_Wellness"

@@ -2,7 +2,7 @@
 date: '2024-06-10'
 modified_time: 2024-06-11 16:25:33-04:00
 published_time: 2024-06-10 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/10/remarks-by-president-biden-hosting-a-juneteenth-concert/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/10/remarks-by-president-biden-hosting-a-juneteenth-concert/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Hosting a Juneteenth\_Concert"
 ---

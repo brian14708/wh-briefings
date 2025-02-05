@@ -2,7 +2,7 @@
 date: '2022-10-06'
 modified_time: 2022-10-06 15:17:33-04:00
 published_time: 2022-10-06 15:16:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/06/granting-pardon-for-the-offense-of-simple-possession-of-marijuana/
 tags: presidential-actions
 title: "A Proclamation on Granting Pardon for the Offense of Simple Possession of\_\
   Marijuana"

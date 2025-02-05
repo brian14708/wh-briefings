@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-12-03'
 modified_time: 2021-12-03 14:45:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/12/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-71/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/12/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-71/
 published_time: 2021-12-03 14:45:50-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -646,4 +646,4 @@ you next week.
   
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/12/COVID-Press-Briefing_3December2021.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/COVID-Press-Briefing_3December2021.pdf>

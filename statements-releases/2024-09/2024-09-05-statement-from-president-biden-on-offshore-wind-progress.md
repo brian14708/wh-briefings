@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-04 21:57:11-04:00
 published_time: 2024-09-05 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/statement-from-president-biden-on-offshore-wind-progress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/statement-from-president-biden-on-offshore-wind-progress/
 tags: statements-releases
 title: "Statement from President\_Biden on Offshore Wind\_Progress"
 ---

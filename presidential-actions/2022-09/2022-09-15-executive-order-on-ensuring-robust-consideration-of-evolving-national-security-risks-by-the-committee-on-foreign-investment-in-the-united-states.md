@@ -1,7 +1,7 @@
 ---
 date: '2022-09-15'
 published_time: 2022-09-15 12:45:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/15/executive-order-on-ensuring-robust-consideration-of-evolving-national-security-risks-by-the-committee-on-foreign-investment-in-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/15/executive-order-on-ensuring-robust-consideration-of-evolving-national-security-risks-by-the-committee-on-foreign-investment-in-the-united-states/
 tags: presidential-actions
 title: "Executive Order on Ensuring Robust Consideration of Evolving National Security\
   \ Risks by the Committee on Foreign Investment in the United\_States"

@@ -2,7 +2,7 @@
 date: '2023-01-18'
 modified_time: 2023-01-17 23:02:40-05:00
 published_time: 2023-01-18 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/18/fact-sheet-biden-harris-administration-announces-efforts-to-support-community-schools/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/18/fact-sheet-biden-harris-administration-announces-efforts-to-support-community-schools/
 tags: statements-releases
 title: "FACT SHEET:\_Biden-\u2060Harris Administration Announces Efforts to Support\
   \ Community\_Schools"
@@ -51,7 +51,7 @@ is:
     future success.
 -   **Releasing a White House Toolkit on Federal Resources to Support
     Community Schools**
-    \[<https://www.whitehouse.gov/wp-content/uploads/2023/01/2023-01-13-WHITE-HOUSE-TOOLKIT_Federal-Resources-to-Support-Community-Schools.pdf>\].
+    \[<https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/2023-01-13-WHITE-HOUSE-TOOLKIT_Federal-Resources-to-Support-Community-Schools.pdf>\].
     This vital resource will help community school advocates,
     coordinators, and directors, as well as other community
     stakeholders, identify funding sources and grant programs that can

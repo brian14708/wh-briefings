@@ -1,7 +1,7 @@
 ---
 date: '2024-02-06'
 published_time: 2024-02-06 16:24:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/06/a-proclamation-on-national-tribal-colleges-and-universities-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/06/a-proclamation-on-national-tribal-colleges-and-universities-week-2024/
 tags: presidential-actions
 title: "A Proclamation on National Tribal Colleges and Universities Week,\_2024"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:24:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Cuts the Deficit by Nearly $3 Trillion\
   \ Over 10\_Years"
@@ -15,8 +15,8 @@ isn’t just good for the economy; it will also lead to better fiscal
 outcomes. At the same time, President Biden believes that long-term
 investments in our Nation and its people should be paid for. And his
 Budgets
-[have](https://www.whitehouse.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
-[consistently](https://www.whitehouse.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
+[have](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/budget_fy22.pdf)
+[consistently](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
 paid for all of his investments and improved the Nation’s fiscal
 outlook.
 
@@ -29,7 +29,7 @@ different, responsible approach. He enacted a bold agenda to rescue the
 economy and get the American people vaccinated. Because of the strength
 of the recovery and responsible winding down of emergency programs, the
 deficit fell by [$1.7
-trillion](https://www.whitehouse.gov/omb/briefing-room/2022/10/21/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2022/)
+trillion](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/10/21/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2022/)
 in the first two years of the Biden-Harris Administration compared to
 the year before the President took office. And the Inflation Reduction
 Act that the President signed into law last year will reduce the deficit
@@ -94,7 +94,7 @@ teachers or firefighters.
 
 To date, Republicans in Congress have put forward a much different
 approach, calling for more than [$3
-trillion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/#:~:text=The%20fiscal%20consequences%20of%20the,by%20almost%2010%20percentage%20points.)
+trillion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/#:~:text=The%20fiscal%20consequences%20of%20the,by%20almost%2010%20percentage%20points.)
 in tax giveaways to the rich and large corporations and handouts to
 special interests. While they haven’t said how they would pay for those
 giveaways and also reduce the deficit, their past proposals have cut

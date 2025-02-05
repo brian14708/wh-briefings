@@ -1,7 +1,7 @@
 ---
 date: '2023-04-15'
 published_time: 2023-04-15 18:02:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/15/president-joseph-r-biden-jr-approves-indiana-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/15/president-joseph-r-biden-jr-approves-indiana-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Indiana Disaster\_Declaration"
 ---

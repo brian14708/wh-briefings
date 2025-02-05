@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-03-10'
 modified_time: 2021-03-10 20:38:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/10/remarks-by-president-biden-at-event-with-the-ceos-of-johnson-johnson-and-merck/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/03/10/remarks-by-president-biden-at-event-with-the-ceos-of-johnson-johnson-and-merck/
 published_time: 2021-03-10 21:00:00-05:00
 title: "Remarks by President\_Biden at Event with the CEOs of Johnson & Johnson and\_\
   Merck"

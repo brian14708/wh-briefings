@@ -1,7 +1,7 @@
 ---
 date: '2024-08-26'
 published_time: 2024-08-26 18:44:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/26/statement-from-president-biden-on-russias-aerial-assault-on-ukraines-energy-grid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/26/statement-from-president-biden-on-russias-aerial-assault-on-ukraines-energy-grid/
 tags: statements-releases
 title: "Statement from President\_Biden on Russia\u2019s Aerial Assault on Ukraine\u2019\
   s Energy\_Grid"

@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 22:48:30-04:00
 published_time: 2022-04-21 22:48:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-vice-president-harris-during-a-tour-of-the-william-j-rutter-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-vice-president-harris-during-a-tour-of-the-william-j-rutter-center/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During a Tour of the William J. Rutter\_\
   Center"

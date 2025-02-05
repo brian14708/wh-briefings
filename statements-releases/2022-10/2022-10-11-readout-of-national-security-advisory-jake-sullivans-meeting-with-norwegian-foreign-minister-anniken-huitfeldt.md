@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-11 22:28:25-04:00
 published_time: 2022-10-11 20:35:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/readout-of-national-security-advisory-jake-sullivans-meeting-with-norwegian-foreign-minister-anniken-huitfeldt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/readout-of-national-security-advisory-jake-sullivans-meeting-with-norwegian-foreign-minister-anniken-huitfeldt/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Norwegian\
   \ Foreign Minister Anniken\_Huitfeldt"

@@ -1,7 +1,7 @@
 ---
 date: '2023-01-26'
 published_time: 2023-01-26 08:52:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/26/memorandum-on-extending-and-expanding-eligibility-for-deferred-enforced-departure-for-certain-hong-kong-residents/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/26/memorandum-on-extending-and-expanding-eligibility-for-deferred-enforced-departure-for-certain-hong-kong-residents/
 tags: presidential-actions
 title: "Memorandum on Extending and Expanding Eligibility for Deferred Enforced Departure\
   \ for Certain Hong Kong\_Residents"

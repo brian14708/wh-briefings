@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-11'
 modified_time: 2022-03-11 08:13:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/
 published_time: 2022-03-11 08:45:00-05:00
 title: "FACT SHEET: New Data Show Progress on Biden-\u2060Harris Commitment to Equity\
   \ in Emergency Small Business\_Relief"
@@ -34,7 +34,7 @@ than $450 billion in small business
 relief](https://www.sba.gov/article/2022/jan/20/one-year-later-biden-harris-administration-sba-have-prioritized-equitable-recovery-centered) since
 taking office. Within weeks of Inauguration, the
 Administration announced a number of [policy
-changes](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/22/fact-sheet-biden-harris-administration-increases-lending-to-small-businesses-in-need-announces-changes-to-ppp-to-further-promote-equitable-access-to-relief/) to
+changes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/22/fact-sheet-biden-harris-administration-increases-lending-to-small-businesses-in-need-announces-changes-to-ppp-to-further-promote-equitable-access-to-relief/) to
 target the PPP to the smallest businesses and companies that have been
 left behind in previous relief efforts. Recent reports by
 the [independent Government Accountability

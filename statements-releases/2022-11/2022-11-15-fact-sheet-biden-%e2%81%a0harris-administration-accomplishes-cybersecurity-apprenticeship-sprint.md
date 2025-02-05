@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 12:44:46-05:00
 published_time: 2022-11-15 12:44:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%e2%81%a0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%e2%81%a0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Accomplishes Cybersecurity Apprenticeship\_\
   Sprint"
@@ -16,7 +16,7 @@ inclusive, robust, and skilled workforce to protect our personal and
 national interests.
 
 On July 19<sup>th</sup> at the [National Cyber Workforce and Education
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/),
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/),
 the Administration gathered Cabinet Secretaries and major companies to
 discuss ways to improve pathways into this critical sector, and
 announced the start of its  [Cybersecurity Apprenticeship

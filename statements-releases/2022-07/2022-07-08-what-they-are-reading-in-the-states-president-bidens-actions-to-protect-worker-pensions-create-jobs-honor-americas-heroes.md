@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 18:47:33-04:00
 published_time: 2022-07-08 18:47:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/what-they-are-reading-in-the-states-president-bidens-actions-to-protect-worker-pensions-create-jobs-honor-americas-heroes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/what-they-are-reading-in-the-states-president-bidens-actions-to-protect-worker-pensions-create-jobs-honor-americas-heroes/
 tags: statements-releases
 title: "What They Are Reading in the States:  President\_Biden\u2019s Actions to Protect\
   \ Worker Pensions, Create Jobs & Honor America\u2019s\_Heroes"

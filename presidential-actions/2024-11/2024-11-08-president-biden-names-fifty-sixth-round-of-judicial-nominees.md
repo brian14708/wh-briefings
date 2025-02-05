@@ -2,7 +2,7 @@
 date: '2024-11-08'
 modified_time: 2024-11-08 17:14:35-05:00
 published_time: 2024-11-08 18:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/08/president-biden-names-fifty-sixth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/08/president-biden-names-fifty-sixth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Fifty-Sixth Round of Judicial\_Nominees"
 ---

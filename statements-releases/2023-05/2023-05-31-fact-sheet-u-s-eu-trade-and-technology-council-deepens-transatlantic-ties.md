@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 12:02:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-u-s-eu-trade-and-technology-council-deepens-transatlantic-ties/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/fact-sheet-u-s-eu-trade-and-technology-council-deepens-transatlantic-ties/
 tags: statements-releases
 title: "FACT SHEET: U.S.-EU Trade and Technology Council Deepens Transatlantic\_Ties"
 ---
@@ -10,7 +10,7 @@ New Avenues of Collaboration Embrace Shared Vision of Expanded
 Partnership, and Contribute to a Rules-Based Global Economy
 
 Read the U.S.-EU Joint Statement
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/).
 
 The U.S.-EU Trade and Technology Council (TTC) held its fourth
 ministerial meeting in Luleå, Sweden on May 30-31, 2023. U.S. Co-Chairs

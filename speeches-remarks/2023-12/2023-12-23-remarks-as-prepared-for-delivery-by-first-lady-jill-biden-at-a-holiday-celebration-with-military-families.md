@@ -2,7 +2,7 @@
 date: '2023-12-23'
 modified_time: 2023-12-23 15:29:43-05:00
 published_time: 2023-12-23 15:29:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-celebration-with-military-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-celebration-with-military-families/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Holiday Celebration\
   \ with Military\_Families"

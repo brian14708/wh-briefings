@@ -2,7 +2,7 @@
 date: '2024-12-23'
 modified_time: 2024-12-22 21:45:07-05:00
 published_time: 2024-12-23 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/23/fact-sheet-president-biden-commutes-the-sentences-of-37-individuals-on-death-row/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/23/fact-sheet-president-biden-commutes-the-sentences-of-37-individuals-on-death-row/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Commutes the Sentences of 37 Individuals on Death\_\
   Row"
@@ -27,7 +27,7 @@ This historic clemency action builds on the President’s record of
 criminal justice reform. The President has issued more commutations at
 this point in his presidency than any of his recent predecessors at the
 same point in their first terms. Earlier this month, the President
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/fact-sheet-president-biden-announces-clemency-for-nearly-1500-americans/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/fact-sheet-president-biden-announces-clemency-for-nearly-1500-americans/)
 clemency for approximately 1,500 Americans – the most ever in a single
 day – who have shown successful rehabilitation and a commitment to
 making communities safer. This included sentence commutations for nearly

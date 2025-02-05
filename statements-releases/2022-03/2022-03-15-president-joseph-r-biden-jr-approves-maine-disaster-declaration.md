@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-15'
 modified_time: 2022-03-15 17:15:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/president-joseph-r-biden-jr-approves-maine-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/15/president-joseph-r-biden-jr-approves-maine-disaster-declaration/
 published_time: 2022-03-15 17:14:54-04:00
 title: "President Joseph R. Biden, Jr. Approves Maine Disaster\_Declaration"
 ---

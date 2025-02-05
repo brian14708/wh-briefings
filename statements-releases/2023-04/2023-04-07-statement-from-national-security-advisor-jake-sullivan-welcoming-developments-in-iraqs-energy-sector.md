@@ -1,7 +1,7 @@
 ---
 date: '2023-04-07'
 published_time: 2023-04-07 15:17:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/07/statement-from-national-security-advisor-jake-sullivan-welcoming-developments-in-iraqs-energy-sector/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/07/statement-from-national-security-advisor-jake-sullivan-welcoming-developments-in-iraqs-energy-sector/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Welcoming Developments\
   \ in Iraq\u2019s Energy\_Sector"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 14:40:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-and-vice-president-harris-at-signing-of-the-emmett-till-and-mamie-till-mobley-national-monument-proclamation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-and-vice-president-harris-at-signing-of-the-emmett-till-and-mamie-till-mobley-national-monument-proclamation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at Signing of the Emmett\
   \ Till and Mamie Till-Mobley National Monument\_Proclamation"

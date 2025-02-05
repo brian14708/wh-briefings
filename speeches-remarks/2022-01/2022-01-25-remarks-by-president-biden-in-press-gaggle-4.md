@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-01-25'
 modified_time: 2022-01-25 18:03:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/25/remarks-by-president-biden-in-press-gaggle-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/25/remarks-by-president-biden-in-press-gaggle-4/
 published_time: 2022-01-25 18:30:00-05:00
 title: "Remarks by President\_Biden in Press\_Gaggle"
 ---

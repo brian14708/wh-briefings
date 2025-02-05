@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 13:12:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/16/readout-on-white-house-convening-on-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/16/readout-on-white-house-convening-on-equity/
 tags: statements-releases
 title: "Readout on White\_House Convening on\_Equity"
 ---
@@ -17,14 +17,14 @@ to opportunity for underserved communities.
 To commemorate the first anniversary of President Biden’s second equity
 Executive Order, [on Further Advancing Racial Equity and Support for
 Underserved Communities Through the Federal
-Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
 the convening also marked the release of [23 Federal agencies’ updated
 Equity Action Plans](http://www.whitehouse.gov/equity) and a [progress
-report](https://www.whitehouse.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/White-House-Equity-Action-Plan-Progress-Report.pdf)
 showcasing hundreds of equity accomplishments across the Administration.
 Highlights include federal actions that leverage the Biden-Harris
 Administration’s historic [Investing in America
-agenda](https://www.whitehouse.gov/invest/) to uplift small
+agenda](https://bidenwhitehouse.archives.gov/invest/) to uplift small
 disadvantaged businesses, reduce housing discrimination, advance
 environmental justice, invest in disadvantaged communities, address
 health disparities, promote rural development, bolster fairness in the

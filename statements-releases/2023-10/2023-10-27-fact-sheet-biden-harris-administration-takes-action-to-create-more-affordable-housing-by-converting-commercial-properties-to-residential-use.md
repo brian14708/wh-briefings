@@ -2,7 +2,7 @@
 date: '2023-10-27'
 modified_time: 2023-10-26 21:00:42-04:00
 published_time: 2023-10-27 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Create More\
   \ Affordable Housing by Converting Commercial Properties to Residential\_Use"
@@ -22,7 +22,7 @@ which comes from the building sector.
   
 Office and commercial vacancies across the country are affecting urban
 downtowns and rural main streets. A [new
-blog](https://www.whitehouse.gov/?post_type=eop_cea_post&p=86481) released
+blog](https://bidenwhitehouse.archives.gov/?post_type=eop_cea_post&p=86481) released
 today by the Council of Economic Advisers finds that office vacancies
 have reached a 30-year high from coast-to-coast, placing a strain on
 commercial real estate and local economies. At the same time, the
@@ -33,7 +33,7 @@ transportation.
   
 The actions announced today build upon the initiatives in the [White
 House Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 which is lowering housing costs, boosting housing supply, and promoting
 fair housing, and the Administration’s actions to lower energy costs and
 tackle the climate crisis. Lowering costs, increasing access to good
@@ -105,7 +105,7 @@ Property**
 
 -   The White House is releasing a [Commercial to Residential Federal
     Resources
-    Guidebook](https://www.whitehouse.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf) with
+    Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Commercial-to-Residential-Conversions-Guidebook.pdf) with
     over 20 federal programs across six federal agencies that can be
     used to support conversions. These programs include low-interest
     loans, loan guarantees, grants, and tax incentives, which, subject

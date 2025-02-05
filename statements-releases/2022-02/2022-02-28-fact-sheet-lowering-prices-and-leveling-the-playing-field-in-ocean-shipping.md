@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-28'
 modified_time: 2022-02-28 16:37:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/
 published_time: 2022-02-28 15:00:00-05:00
 title: "FACT SHEET:  Lowering Prices and Leveling the Playing Field in Ocean\_Shipping"
 ---
@@ -67,10 +67,10 @@ compared to an average operating margin of 3.7% two years earlier**:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg"
 class="wp-image-47993" loading="lazy"
 sizes="(max-width: 680px) 100vw, 680px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg 680w, https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=615,346 615w, https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=1200,675 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg 680w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=615,346 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/Econ-image-1.jpg?resize=1200,675 1200w"
 width="680" height="383" />
 </figure>
 
@@ -174,7 +174,7 @@ exporters, was underscored last week in reports released by the
 Transportation](https://www.transportation.gov/supplychains) and [the
 Department of Agriculture (USDA)](https://www.ams.usda.gov/supply-chain)
 as part of the Administration’s six supply chain [industrial base
-reports](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/)
+reports](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/)
 published on the one-year anniversary of the President’s supply chain
 executive order.
 

@@ -2,7 +2,7 @@
 date: '2024-02-12'
 modified_time: 2024-02-16 12:21:58-05:00
 published_time: 2024-02-12 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/12/fact-sheet-lowering-home-energy-costs-through-president-bidens-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/12/fact-sheet-lowering-home-energy-costs-through-president-bidens-inflation-reduction-act/
 tags: statements-releases
 title: "FACT SHEET: Lowering Home Energy Costs Through President\_Biden\u2019s Inflation\
   \ Reduction\_Act"
@@ -21,7 +21,7 @@ their income on energy bills.
 
 The Inflation Reduction Act has already spurred a clean energy boom,
 contributing to more than [$360
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 private sector clean energy announcements since President Biden took
 office. Clean energy deployment from both the Inflation Reduction Act
 and the Bipartisan Infrastructure Law is projected to cut electricity

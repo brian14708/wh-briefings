@@ -1,7 +1,7 @@
 ---
 date: '2022-05-04'
 published_time: 2022-05-04 15:19:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/president-biden-announces-appointments-to-the-presidents-intelligence-advisory-board-and-the-national-science-board/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/president-biden-announces-appointments-to-the-presidents-intelligence-advisory-board-and-the-national-science-board/
 tags: statements-releases
 title: "President\_Biden Announces Appointments to the  President\u2019s Intelligence\
   \ Advisory Board and the National Science\_Board"

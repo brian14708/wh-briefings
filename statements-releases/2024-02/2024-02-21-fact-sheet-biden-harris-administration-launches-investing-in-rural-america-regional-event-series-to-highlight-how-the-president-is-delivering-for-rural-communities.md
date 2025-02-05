@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-21 13:57:53-05:00
 published_time: 2024-02-21 13:15:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-launches-investing-in-rural-america-regional-event-series-to-highlight-how-the-president-is-delivering-for-rural-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-launches-investing-in-rural-america-regional-event-series-to-highlight-how-the-president-is-delivering-for-rural-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Investing in Rural\
   \ America Regional Event Series to Highlight How the President is Delivering for\
@@ -15,7 +15,7 @@ launch the Investing in Rural America Regional Event Series to highlight
 investments from the Biden-Harris Administration in rural America. The
 Regional Event Series will continue throughout this year, building on
 the Administration’s [Investing in Rural America Event Series in late
-2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/),
+2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/),
 and kicks off as part of the Biden-Harris Administration’s fourth
 Investing in America tour this month, where Cabinet and Administration
 officials are fanning out across the country highlighting the impact of

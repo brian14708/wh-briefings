@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 15:27:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/25/memorandum-on-delegation-of-authority-under-section-7070-of-the-department-of-state-foreign-operations-and-related-programs-appropriations-act-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/25/memorandum-on-delegation-of-authority-under-section-7070-of-the-department-of-state-foreign-operations-and-related-programs-appropriations-act-2023/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Section 7070 of the Department\
   \ of State, Foreign Operations, and Related Programs Appropriations Act,\_2023"

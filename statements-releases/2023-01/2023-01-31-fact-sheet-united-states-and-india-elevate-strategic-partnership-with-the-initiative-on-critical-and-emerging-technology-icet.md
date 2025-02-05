@@ -1,7 +1,7 @@
 ---
 date: '2023-01-31'
 published_time: 2023-01-31 18:34:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/31/fact-sheet-united-states-and-india-elevate-strategic-partnership-with-the-initiative-on-critical-and-emerging-technology-icet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/31/fact-sheet-united-states-and-india-elevate-strategic-partnership-with-the-initiative-on-critical-and-emerging-technology-icet/
 tags: statements-releases
 title: "FACT SHEET:\_United\_States and India Elevate Strategic Partnership with the\
   \ initiative on Critical and Emerging Technology\_(iCET)"

@@ -2,7 +2,7 @@
 date: '2024-06-11'
 modified_time: 2024-06-11 15:07:42-04:00
 published_time: 2024-06-11 15:07:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/11/statement-from-president-joe-biden-on-james-lawson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/11/statement-from-president-joe-biden-on-james-lawson/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on James\_Lawson"
 ---

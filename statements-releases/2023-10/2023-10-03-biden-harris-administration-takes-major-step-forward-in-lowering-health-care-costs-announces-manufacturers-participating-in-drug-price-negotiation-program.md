@@ -2,7 +2,7 @@
 date: '2023-10-03'
 modified_time: 2023-10-03 08:11:34-04:00
 published_time: 2023-10-03 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/biden-harris-administration-takes-major-step-forward-in-lowering-health-care-costs-announces-manufacturers-participating-in-drug-price-negotiation-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/biden-harris-administration-takes-major-step-forward-in-lowering-health-care-costs-announces-manufacturers-participating-in-drug-price-negotiation-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Takes Major Step Forward in Lowering Health\
   \ Care Costs; Announces Manufacturers Participating in Drug Price Negotiation\_\

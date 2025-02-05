@@ -1,7 +1,7 @@
 ---
 date: '2022-11-02'
 published_time: 2022-11-02 16:38:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/02/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-call-with-president-mohamed-bin-zayed-al-nahyan-of-the-uae/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/02/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-call-with-president-mohamed-bin-zayed-al-nahyan-of-the-uae/
 tags: speeches-remarks
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Call with President\_Mohamed bin Zayed Al Nahyan\_of the\_UAE"

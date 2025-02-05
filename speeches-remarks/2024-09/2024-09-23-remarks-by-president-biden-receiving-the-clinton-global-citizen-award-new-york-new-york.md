@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-24 11:35:05-04:00
 published_time: 2024-09-23 19:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-receiving-the-clinton-global-citizen-award-new-york-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-receiving-the-clinton-global-citizen-award-new-york-new-york/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Receiving the Clinton Global Citizen Award | New\
   \ York, New\_York"

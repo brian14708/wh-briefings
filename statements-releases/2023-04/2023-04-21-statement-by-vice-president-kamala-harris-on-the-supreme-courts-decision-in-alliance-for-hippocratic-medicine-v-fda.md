@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-21 19:33:03-04:00
 published_time: 2023-04-21 19:33:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/statement-by-vice-president-kamala-harris-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/statement-by-vice-president-kamala-harris-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Supreme Court\u2019s Decision\
   \ in Alliance for Hippocratic Medicine v.\_FDA"

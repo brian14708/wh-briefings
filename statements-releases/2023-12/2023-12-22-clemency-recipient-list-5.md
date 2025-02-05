@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-21 19:31:19-05:00
 published_time: 2023-12-22 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/clemency-recipient-list-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/clemency-recipient-list-5/
 tags: statements-releases
 title: Clemency Recipient List
 ---

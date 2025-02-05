@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 16:01:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/joint-statement-by-president-biden-and-president-von-der-leyen-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/joint-statement-by-president-biden-and-president-von-der-leyen-2/
 tags: statements-releases
 title: "Joint Statement by President\_Biden and President von der\_Leyen"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-03'
 modified_time: 2024-07-03 11:57:54-04:00
 published_time: 2024-07-03 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/03/president-biden-names-fifty-second-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/03/president-biden-names-fifty-second-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Fifty-Second Round of Judicial\_Nominees"
 ---

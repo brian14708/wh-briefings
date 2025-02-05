@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-28'
 modified_time: 2021-04-28 15:48:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/president-biden-announces-16-key-administration-nominations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/28/president-biden-announces-16-key-administration-nominations/
 published_time: 2021-04-28 15:48:36-04:00
 title: "President\_Biden Announces 16 Key Administration\_Nominations"
 ---

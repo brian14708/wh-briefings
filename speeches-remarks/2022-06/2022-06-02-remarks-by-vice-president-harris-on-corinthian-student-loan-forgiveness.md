@@ -1,7 +1,7 @@
 ---
 date: '2022-06-02'
 published_time: 2022-06-02 15:39:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/02/remarks-by-vice-president-harris-on-corinthian-student-loan-forgiveness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/02/remarks-by-vice-president-harris-on-corinthian-student-loan-forgiveness/
 tags: speeches-remarks
 title: "Remarks by\_Vice\_President\_Harris on Corinthian\_Student\_Loan\_Forgiveness"
 ---

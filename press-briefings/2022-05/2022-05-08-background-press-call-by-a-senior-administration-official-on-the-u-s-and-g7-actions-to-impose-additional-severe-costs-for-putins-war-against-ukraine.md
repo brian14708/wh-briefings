@@ -1,7 +1,7 @@
 ---
 date: '2022-05-08'
 published_time: 2022-05-08 12:22:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/08/background-press-call-by-a-senior-administration-official-on-the-u-s-and-g7-actions-to-impose-additional-severe-costs-for-putins-war-against-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/08/background-press-call-by-a-senior-administration-official-on-the-u-s-and-g7-actions-to-impose-additional-severe-costs-for-putins-war-against-ukraine/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on the U.S. and\
   \ G7 Actions to Impose Additional Severe Costs for Putin\u2019s War Against\_Ukraine"

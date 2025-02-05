@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-15 14:56:03-04:00
 published_time: 2024-08-15 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/15/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-singapore-c/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/15/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-agreement-for-cooperation-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-singapore-c/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Agreement\
   \ for Cooperation Between the Government of the United\_States of America and the\

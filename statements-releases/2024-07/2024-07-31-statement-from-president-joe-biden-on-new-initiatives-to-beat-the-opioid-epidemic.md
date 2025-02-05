@@ -2,14 +2,14 @@
 date: '2024-07-31'
 modified_time: 2024-07-30 18:48:23-04:00
 published_time: 2024-07-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/31/statement-from-president-joe-biden-on-new-initiatives-to-beat-the-opioid-epidemic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/31/statement-from-president-joe-biden-on-new-initiatives-to-beat-the-opioid-epidemic/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Initiatives to Beat the Opioid\_\
   Epidemic"
 ---
  
 [Our Administration’s
-efforts ](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-counter-the-scourge-of-fentanyl-and-other-synthetic-drugs/)have
+efforts ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/31/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-counter-the-scourge-of-fentanyl-and-other-synthetic-drugs/)have
 helped lead to the first decline in overdose deaths in five years.  We
 have seized more fentanyl at our border in the last two years than in
 the last five years combined, arrested and prosecuted dozens of
@@ -25,7 +25,7 @@ federal Department and Agency to do even more to stop the flow of
 narcotics—including fentanyl—into our country.  
    
 This Memorandum builds on my [Unity
-Agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/),
+Agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/),
 which made ending the opioid epidemic a top priority. It will enable our
 government to disrupt drug cartels—and their suppliers and
 financiers—more quickly and effectively. It will increase intelligence

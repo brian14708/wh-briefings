@@ -2,7 +2,7 @@
 date: '2024-12-29'
 modified_time: 2024-12-29 13:50:39-05:00
 published_time: 2024-12-29 13:50:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/29/statement-from-president-joe-biden-on-the-plane-crash-in-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/29/statement-from-president-joe-biden-on-the-plane-crash-in-the-republic-of-korea/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Plane Crash in the Republic of\_\
   Korea"

@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 12:31:53-04:00
 published_time: 2022-05-06 11:30:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/statement-from-president-joe-biden-on-the-william-t-coleman-jr-and-norman-y-mineta-federal-building-act-and-passing-of-norman-mineta/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/06/statement-from-president-joe-biden-on-the-william-t-coleman-jr-and-norman-y-mineta-federal-building-act-and-passing-of-norman-mineta/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the William T. Coleman, Jr. and Norman\
   \ Y. Mineta Federal Building Act and Passing of Norman\_Mineta"

@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-01-22'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-national-security-advisor-suh-hoon-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/22/statement-by-nsc-spokesperson-emily-horne-on-national-security-advisor-jake-sullivans-call-national-security-advisor-suh-hoon-of-the-republic-of-korea/
 published_time: 2021-01-22 22:12:35-05:00
 title: "Statement by NSC Spokesperson Emily Horne on National Security Advisor Jake\
   \ Sullivan\u2019s Call National Security Advisor Suh Hoon of the Republic of\_Korea"

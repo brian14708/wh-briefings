@@ -1,7 +1,7 @@
 ---
 date: '2023-04-07'
 published_time: 2023-04-07 12:36:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/07/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/07/president-joseph-r-biden-jr-approves-tennessee-disaster-declaration-7/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Tennessee Disaster\_Declaration"
 ---

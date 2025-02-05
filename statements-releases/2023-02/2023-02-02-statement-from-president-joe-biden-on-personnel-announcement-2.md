@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 10:15:33-05:00
 published_time: 2023-02-02 10:15:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/statement-from-president-joe-biden-on-personnel-announcement-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/statement-from-president-joe-biden-on-personnel-announcement-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Personnel\_Announcement"
 ---

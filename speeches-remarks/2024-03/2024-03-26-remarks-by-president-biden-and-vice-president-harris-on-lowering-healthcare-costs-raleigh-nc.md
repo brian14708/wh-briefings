@@ -2,7 +2,7 @@
 date: '2024-03-26'
 modified_time: 2024-03-26 18:11:39-04:00
 published_time: 2024-03-26 18:11:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-and-vice-president-harris-on-lowering-healthcare-costs-raleigh-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-and-vice-president-harris-on-lowering-healthcare-costs-raleigh-nc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris on Lowering Healthcare\
   \ Costs | Raleigh,\_NC"

@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 16:57:52-04:00
 published_time: 2022-07-14 16:57:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-after-air-force-two-arrival-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/remarks-by-vice-president-harris-after-air-force-two-arrival-3/
 tags: statements-releases
 title: "Remarks By Vice President Harris After Air Force Two\_Arrival"
 ---

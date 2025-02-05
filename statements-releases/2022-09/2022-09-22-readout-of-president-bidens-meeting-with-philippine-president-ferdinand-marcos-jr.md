@@ -1,7 +1,7 @@
 ---
 date: '2022-09-22'
 published_time: 2022-09-22 14:24:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/22/readout-of-president-bidens-meeting-with-philippine-president-ferdinand-marcos-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/22/readout-of-president-bidens-meeting-with-philippine-president-ferdinand-marcos-jr/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Philippine President Ferdinand\_\
   Marcos\_Jr."

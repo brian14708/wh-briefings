@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 18:20:55-04:00
 published_time: 2024-04-09 17:20:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-the-biden-harris-administration-highlights-recent-successes-in-improving-customer-service-and-delivery-for-safety-net-benefits-identifies-opportunities-for-states-for-further-improvement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-the-biden-harris-administration-highlights-recent-successes-in-improving-customer-service-and-delivery-for-safety-net-benefits-identifies-opportunities-for-states-for-further-improvement/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Highlights Recent Successes\
   \ in Improving Customer Service and Delivery for Safety Net Benefits; Identifies\
@@ -17,7 +17,7 @@ a proven record of supporting better life outcomes for parents and
 children alike. 
 
 Beginning with the President’s [Executive Order on Customer
-Experience](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/),
+Experience](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/),
 the Biden-Harris Administration has worked to ensure improved access and
 accurate benefits. Families should be able to:
 

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-07'
 published_time: 2024-07-07 19:54:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/07/president-joe-biden-to-travel-to-texas-and-nevada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/07/president-joe-biden-to-travel-to-texas-and-nevada/
 tags: statements-releases
 title: "President Joe\_Biden to Travel to Texas and\_Nevada"
 ---

@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-27 18:07:01-04:00
 published_time: 2022-10-27 18:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/what-they-are-saying-praise-for-the-biden-harris-administrations-plan-to-transform-americas-school-buses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/what-they-are-saying-praise-for-the-biden-harris-administrations-plan-to-transform-americas-school-buses/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING:  Praise for the Biden-\u2060Harris Administration\u2019\
   s Plan to Transform America\u2019s School\_Buses"

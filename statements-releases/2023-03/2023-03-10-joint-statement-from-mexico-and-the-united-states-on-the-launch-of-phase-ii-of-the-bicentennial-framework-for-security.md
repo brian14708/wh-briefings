@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 19:34:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/joint-statement-from-mexico-and-the-united-states-on-the-launch-of-phase-ii-of-the-bicentennial-framework-for-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/joint-statement-from-mexico-and-the-united-states-on-the-launch-of-phase-ii-of-the-bicentennial-framework-for-security/
 tags: statements-releases
 title: "Joint Statement from Mexico and the United\_States on the Launch of Phase\
   \ II of the Bicentennial Framework for\_Security"

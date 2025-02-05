@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 16:56:49-05:00
 published_time: 2023-12-19 16:56:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/19/message-to-the-senate-on-the-presidents-veto-of-s-j-res-32/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/19/message-to-the-senate-on-the-presidents-veto-of-s-j-res-32/
 tags: presidential-actions
 title: "Message to the Senate on the President\u2019s Veto of S.J.Res.\_32"
 ---

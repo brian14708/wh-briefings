@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 09:57:36-04:00
 published_time: 2022-04-21 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-announces-additional-385-million-to-lower-home-energy-bills-for-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-announces-additional-385-million-to-lower-home-energy-bills-for-american-families/
 tags: statements-releases
 title: "FACT SHEET: White\_House Announces Additional $385 Million to Lower Home Energy\
   \ Bills for American\_Families"
@@ -83,14 +83,14 @@ equitably:
 
 -   **<u>Encouraged States to Plan Early:</u>** In November 2021, the
     White House [called on states, localities, and tribes to plan
-    early](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/) to
+    early](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/) to
     distribute American Rescue Plan funds to address home energy costs.
 -   **<u>Secured Commitments from Utilities to Avoid Shut-offs and
     Expedite Aid:</u>** The White House has [called on utility
-    companies](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/) to
+    companies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/) to
     prevent devastating utility shut-offs and help expedite the delivery
     of unprecedented federal aid. [In January, the White House
-    announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/biden-administration-announces-state-by-state-funding-to-address-home-energy-costs/)
+    announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/07/biden-administration-announces-state-by-state-funding-to-address-home-energy-costs/)
     commitments from fourteen major utility companies across the country
     as well as a delivered fuel trade association.
 -   **<u>Called for Coordination of Home Energy Relief to

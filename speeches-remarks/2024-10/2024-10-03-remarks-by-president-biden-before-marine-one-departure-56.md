@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 11:06:41-04:00
 published_time: 2024-10-03 11:06:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-before-marine-one-departure-56/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-before-marine-one-departure-56/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

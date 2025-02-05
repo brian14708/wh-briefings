@@ -1,7 +1,7 @@
 ---
 date: '2022-08-30'
 published_time: 2022-08-30 16:22:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/30/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-wilkes-barre-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/30/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-wilkes-barre-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Wilkes-Barre,\_\
   PA"

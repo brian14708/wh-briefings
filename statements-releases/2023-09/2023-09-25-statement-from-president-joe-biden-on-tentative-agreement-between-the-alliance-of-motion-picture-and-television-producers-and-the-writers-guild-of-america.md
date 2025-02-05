@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-25 10:34:36-04:00
 published_time: 2023-09-25 10:34:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-tentative-agreement-between-the-alliance-of-motion-picture-and-television-producers-and-the-writers-guild-of-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-tentative-agreement-between-the-alliance-of-motion-picture-and-television-producers-and-the-writers-guild-of-america/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Tentative Agreement Between the Alliance\
   \ of Motion Picture and Television Producers and the Writers Guild of\_America"

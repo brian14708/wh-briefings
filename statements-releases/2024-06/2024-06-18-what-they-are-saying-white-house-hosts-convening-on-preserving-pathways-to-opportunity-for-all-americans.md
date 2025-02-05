@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-18 13:44:26-04:00
 published_time: 2024-06-18 13:37:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/what-they-are-saying-white-house-hosts-convening-on-preserving-pathways-to-opportunity-for-all-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/what-they-are-saying-white-house-hosts-convening-on-preserving-pathways-to-opportunity-for-all-americans/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: White\_House Hosts Convening on Preserving Pathways\
   \ to Opportunity for All\_Americans"

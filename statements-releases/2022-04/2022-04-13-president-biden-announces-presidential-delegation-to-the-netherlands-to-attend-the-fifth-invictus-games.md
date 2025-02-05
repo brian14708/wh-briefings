@@ -2,7 +2,7 @@
 date: '2022-04-13'
 modified_time: 2022-04-13 16:21:53-04:00
 published_time: 2022-04-13 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/president-biden-announces-presidential-delegation-to-the-netherlands-to-attend-the-fifth-invictus-games/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/president-biden-announces-presidential-delegation-to-the-netherlands-to-attend-the-fifth-invictus-games/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to The Netherlands to Attend\
   \ the Fifth Invictus\_Games"

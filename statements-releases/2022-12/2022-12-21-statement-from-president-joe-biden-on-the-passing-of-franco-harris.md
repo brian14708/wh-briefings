@@ -1,7 +1,7 @@
 ---
 date: '2022-12-21'
 published_time: 2022-12-21 14:50:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/21/statement-from-president-joe-biden-on-the-passing-of-franco-harris/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/21/statement-from-president-joe-biden-on-the-passing-of-franco-harris/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Franco\_Harris"
 ---

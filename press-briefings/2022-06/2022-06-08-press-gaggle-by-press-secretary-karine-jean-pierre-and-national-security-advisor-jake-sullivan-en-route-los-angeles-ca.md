@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 18:05:29-04:00
 published_time: 2022-06-08 18:05:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-los-angeles-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Los Angeles,\_CA"

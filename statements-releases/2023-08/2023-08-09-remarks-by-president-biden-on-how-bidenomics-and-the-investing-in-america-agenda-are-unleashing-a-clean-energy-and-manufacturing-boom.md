@@ -2,7 +2,7 @@
 date: '2023-08-09'
 modified_time: 2023-08-14 09:34:33-04:00
 published_time: 2023-08-09 19:22:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/remarks-by-president-biden-on-how-bidenomics-and-the-investing-in-america-agenda-are-unleashing-a-clean-energy-and-manufacturing-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/remarks-by-president-biden-on-how-bidenomics-and-the-investing-in-america-agenda-are-unleashing-a-clean-energy-and-manufacturing-boom/
 tags: statements-releases
 title: "Remarks by President\_Biden on How Bidenomics and the Investing in America\
   \ Agenda are Unleashing a Clean Energy and Manufacturing\_Boom"

@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 18:12:48-04:00
 published_time: 2024-05-16 18:12:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/what-they-are-saying-labor-business-and-elected-leaders-praise-president-bidens-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/what-they-are-saying-labor-business-and-elected-leaders-praise-president-bidens-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Labor, Business, and Elected Leaders Praise President\_\
   Biden\u2019s Actions to Protect American Workers and Businesses from China\u2019\

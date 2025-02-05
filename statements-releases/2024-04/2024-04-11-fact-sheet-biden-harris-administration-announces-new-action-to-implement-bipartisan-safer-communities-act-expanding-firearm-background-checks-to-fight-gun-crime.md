@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-10 21:32:09-04:00
 published_time: 2024-04-11 05:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Action to Implement\
   \ Bipartisan Safer Communities Act, Expanding Firearm Background Checks to Fight\
@@ -57,7 +57,7 @@ In 2022, President Biden accomplished what many had tried for the past
 the Bipartisan Safer Communities Act. This law broadened the category of
 gun sellers required to become licensed dealers and run background
 checks. In 2023, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/)
 to accelerate implementation of the Bipartisan Safer Communities Act,
 including by directing the Attorney General to move the U.S. as close to
 universal background checks as possible without additional legislation
@@ -214,7 +214,7 @@ flow of guns into our communities include:
     more than 300 people and led to the seizure of over 1,500 firearms.
 -   **Cracking Down on Rogue Gun Dealers**:  The Justice Department
     enacted a new policy to [maximize the
-    efficacy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/#:~:text=Maximizing%20the%20efficacy%20of%20ATF%20resources%20to%20crack,taken%20against%20dealers%20in%20violation%20of%20federal%20law.)
+    efficacy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/#:~:text=Maximizing%20the%20efficacy%20of%20ATF%20resources%20to%20crack,taken%20against%20dealers%20in%20violation%20of%20federal%20law.)
     of ATF resources to crack down on rogue gun dealers violating our
     laws and [underscored zero
     tolerance](https://www.justice.gov/opa/speech/attorney-general-merrick-b-garland-delivers-remarks-biden-administration-s-gun-crime) for

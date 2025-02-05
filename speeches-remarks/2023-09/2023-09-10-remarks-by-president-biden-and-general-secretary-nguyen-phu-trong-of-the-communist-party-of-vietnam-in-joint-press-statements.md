@@ -2,7 +2,7 @@
 date: '2023-09-10'
 modified_time: 2023-09-10 14:22:02-04:00
 published_time: 2023-09-10 14:22:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/10/remarks-by-president-biden-and-general-secretary-nguyen-phu-trong-of-the-communist-party-of-vietnam-in-joint-press-statements/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/10/remarks-by-president-biden-and-general-secretary-nguyen-phu-trong-of-the-communist-party-of-vietnam-in-joint-press-statements/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and General Secretary Nguy\u1EC5n Ph\xFA Tr\u1ECD\
   ng of the Communist Party of Vietnam in Joint Press\_Statements"

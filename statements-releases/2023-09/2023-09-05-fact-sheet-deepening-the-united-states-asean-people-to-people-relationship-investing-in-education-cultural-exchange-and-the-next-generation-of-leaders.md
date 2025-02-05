@@ -2,7 +2,7 @@
 date: '2023-09-05'
 modified_time: 2023-09-05 20:36:29-04:00
 published_time: 2023-09-05 20:36:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-deepening-the-united-states-asean-people-to-people-relationship-investing-in-education-cultural-exchange-and-the-next-generation-of-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-deepening-the-united-states-asean-people-to-people-relationship-investing-in-education-cultural-exchange-and-the-next-generation-of-leaders/
 tags: statements-releases
 title: "FACT SHEET: Deepening the United\_States-ASEAN People-to-People Relationship:\
   \ Investing in education, cultural exchange, and the next generation of\_leaders"

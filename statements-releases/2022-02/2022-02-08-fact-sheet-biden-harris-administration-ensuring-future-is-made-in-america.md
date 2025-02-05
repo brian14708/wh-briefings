@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-08'
 modified_time: 2022-02-08 08:47:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-biden-harris-administration-ensuring-future-is-made-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/08/fact-sheet-biden-harris-administration-ensuring-future-is-made-in-america/
 published_time: 2022-02-08 05:15:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Ensuring Future is Made in\_\
   America"
@@ -32,7 +32,7 @@ pre-pandemic levels.
 The Build America, Buy America Act in the Bipartisan Infrastructure Law
 expands on the Biden-Harris Administration’s work to ensure that the
 future is [made in
-America](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/25/president-biden-to-sign-executive-order-strengthening-buy-american-provisions-ensuring-future-of-america-is-made-in-america-by-all-of-americas-workers/)
+America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/25/president-biden-to-sign-executive-order-strengthening-buy-american-provisions-ensuring-future-of-america-is-made-in-america-by-all-of-americas-workers/)
 by American workers by strengthening and expanding Buy America rules to
 all taxpayer-funded infrastructure and public works projects.
 
@@ -44,11 +44,11 @@ per year at peak production and create 500 local jobs.
 
 This is the latest of announcements in recent weeks by major companies
 announcing investments in U.S. manufacturing and jobs, including
-[Intel](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/),
+[Intel](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/),
 [General
-Motors](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/),
+Motors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/),
 and
-[Boeing](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/),
+[Boeing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/),
 and more than $200 billion in investments in domestic manufacturing of
 semiconductors, electric vehicles, aircraft, and batteries announced
 since 2021.
@@ -91,7 +91,7 @@ Infrastructure Law:
 The future of the auto industry is electric, and America can own that
 future by building more here at home, creating good-paying jobs in the
 process. In August, President Biden set an [ambitious
-target](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+target](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
 and roadmap to get to 50% of electric vehicle (EV) sale shares in the
 U.S. by 2030. The Bipartisan Infrastructure Law included a down payment
 on the EV future, with more than $7 billion in funding to secure an
@@ -117,7 +117,7 @@ Interstate Highway System.
 for the build-out of the nationwide public EV charging network.**
 
 -   In December, Vice President Harris announced the [EV Charging Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/)
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/)
     to outline the steps the Administration is taking to accelerate the
     EV charging investments in the Bipartisan Infrastructure Law.  
       

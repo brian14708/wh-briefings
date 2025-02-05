@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:23:02-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget for Fiscal Year\_2025"
 ---

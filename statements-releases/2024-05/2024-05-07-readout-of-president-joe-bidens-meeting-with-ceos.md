@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 18:57:33-04:00
 published_time: 2024-05-07 18:57:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/readout-of-president-joe-bidens-meeting-with-ceos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/readout-of-president-joe-bidens-meeting-with-ceos/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with\_CEOs"
 ---

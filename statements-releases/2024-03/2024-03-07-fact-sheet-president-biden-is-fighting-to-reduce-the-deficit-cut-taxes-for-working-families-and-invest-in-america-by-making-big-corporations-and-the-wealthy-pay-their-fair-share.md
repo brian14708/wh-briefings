@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-08 08:19:08-05:00
 published_time: 2024-03-07 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-fighting-to-reduce-the-deficit-cut-taxes-for-working-families-and-invest-in-america-by-making-big-corporations-and-the-wealthy-pay-their-fair-share/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-fighting-to-reduce-the-deficit-cut-taxes-for-working-families-and-invest-in-america-by-making-big-corporations-and-the-wealthy-pay-their-fair-share/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Is Fighting to Reduce the Deficit, Cut Taxes\
   \ for Working Families, and Invest in America by Making Big Corporations and the\
@@ -22,7 +22,7 @@ system that rewards work, not wealth; asks big corporations and the
 wealthy to pay their fair share; and requires all Americans to play by
 the same rules and pay the taxes they owe. Despite Republican
 opposition, President Biden
-[secured](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/)
+[secured](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/)
 historic legislation to make our tax code fairer—from enacting a 15%
 corporate minimum tax so that billion-dollar companies can’t get away
 with paying $0 in federal income taxes to giving the Internal Revenue
@@ -77,7 +77,7 @@ making big corporations pay their fair share in taxes:
     giveaway failed to fix these problems, instead giving
     [windfalls](https://www.finance.senate.gov/chairmans-news/wyden-releases-new-findings-in-ongoing-pharma-tax-investigation)
     to Big Pharma. President Biden negotiated a historic
-    [agreement](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
+    [agreement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
     with over 130 countries that would enable the U.S. and its partners
     to ensure Big Pharma and other multinationals pay at least a minimum
     tax rate. He is calling on Congress to implement the agreement with
@@ -142,7 +142,7 @@ wealthiest Americans pay their fair share:
     all, thanks to giant loopholes and tax preferences that
     disproportionately benefit the wealthiest taxpayers. As a result,
     many of these wealthy Americans are able to
-    [pay](https://www.whitehouse.gov/omb/briefing-room/2021/09/23/new-omb-cea-report-billionaires-pay-an-average-federal-individual-income-tax-rate-of-just-8-2/)
+    [pay](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/09/23/new-omb-cea-report-billionaires-pay-an-average-federal-individual-income-tax-rate-of-just-8-2/)
     an average income tax rate of just 8 percent on their full incomes—a
     lower rate than many firefighters or teachers. To finally address
     this glaring inequity, the President is proposing to levy a 25

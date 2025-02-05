@@ -1,7 +1,7 @@
 ---
 date: '2022-11-09'
 published_time: 2022-11-09 01:09:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/09/president-joseph-r-biden-jr-approves-florida-emergency-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/09/president-joseph-r-biden-jr-approves-florida-emergency-declaration-5/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Florida Emergency\_Declaration"
 ---

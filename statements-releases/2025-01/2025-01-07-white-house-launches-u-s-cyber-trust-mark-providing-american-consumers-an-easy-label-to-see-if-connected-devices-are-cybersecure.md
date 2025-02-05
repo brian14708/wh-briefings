@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-07 13:32:47-05:00
 published_time: 2025-01-07 13:32:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/white-house-launches-u-s-cyber-trust-mark-providing-american-consumers-an-easy-label-to-see-if-connected-devices-are-cybersecure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/white-house-launches-u-s-cyber-trust-mark-providing-american-consumers-an-easy-label-to-see-if-connected-devices-are-cybersecure/
 tags: statements-releases
 title: "White\_House Launches \u201CU.S. Cyber Trust Mark\u201D, Providing American\
   \ Consumers an Easy Label to See if Connected Devices are\_Cybersecure"

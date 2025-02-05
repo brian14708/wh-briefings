@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 09:02:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/11/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/11/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-vilnius-lithuania/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake Sullivan | Vilnius,\_Lithuania"

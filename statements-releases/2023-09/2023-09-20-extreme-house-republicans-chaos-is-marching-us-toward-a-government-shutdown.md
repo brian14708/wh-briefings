@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-19 21:18:47-04:00
 published_time: 2023-09-20 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/extreme-house-republicans-chaos-is-marching-us-toward-a-government-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/extreme-house-republicans-chaos-is-marching-us-toward-a-government-shutdown/
 tags: statements-releases
 title: "Extreme House Republicans\u2019 Chaos Is Marching Us Toward a Government\_\
   Shutdown"
@@ -21,7 +21,7 @@ government open—from an evidence-free impeachment that even some of
 their own members [don’t agree
 with](https://www.washingtonpost.com/opinions/2023/09/15/congressman-ken-buck-biden-impeachment/),
 to [reckless
-cuts](https://www.whitehouse.gov/wp-content/uploads/2023/09/Shalanda-Young-Interested-Parties-Memo-9.12.23-1.pdf)
+cuts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Shalanda-Young-Interested-Parties-Memo-9.12.23-1.pdf)
 to programs millions of hardworking families and seniors count on, to a
 litany of other extraneous ideological demands.  
   
@@ -31,7 +31,7 @@ latest 30-day continuing resolution is just more of the same—a shutdown
 bill that doubles down on extreme, partisan proposals that can’t pass
 the Senate and will never become law. Their bill not only makes
 [devastating, indiscriminate
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
 to food safety, education, law enforcement, housing, public health, Head
 Start and child care, Meals on Wheels, and more—it also fails to provide
 the urgent funding President Biden requested to support disaster-struck

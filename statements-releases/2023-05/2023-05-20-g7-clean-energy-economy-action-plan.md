@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 04:34:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/g7-clean-energy-economy-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/g7-clean-energy-economy-action-plan/
 tags: statements-releases
 title: "G7 Clean Energy Economy Action\_Plan"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-02'
 published_time: 2022-11-02 23:42:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/statement-by-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-icbm-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/statement-by-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-icbm-test/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the\_Democratic People\u2019\
   s Republic of Korea\u2019s\_ICBM\_Test"

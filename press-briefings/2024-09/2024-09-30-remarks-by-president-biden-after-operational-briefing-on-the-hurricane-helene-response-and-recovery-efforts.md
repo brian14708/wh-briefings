@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-10-01 12:53:57-04:00
 published_time: 2024-09-30 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/30/remarks-by-president-biden-after-operational-briefing-on-the-hurricane-helene-response-and-recovery-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/30/remarks-by-president-biden-after-operational-briefing-on-the-hurricane-helene-response-and-recovery-efforts/
 tags: press-briefings
 title: "Remarks by President\_Biden After Operational Briefing on the Hurricane Helene\
   \ Response and Recovery\_Efforts"

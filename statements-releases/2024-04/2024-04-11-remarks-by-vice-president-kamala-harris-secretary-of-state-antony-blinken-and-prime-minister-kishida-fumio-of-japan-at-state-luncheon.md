@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-11 19:16:15-04:00
 published_time: 2024-04-11 19:16:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/remarks-by-vice-president-kamala-harris-secretary-of-state-antony-blinken-and-prime-minister-kishida-fumio-of-japan-at-state-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/remarks-by-vice-president-kamala-harris-secretary-of-state-antony-blinken-and-prime-minister-kishida-fumio-of-japan-at-state-luncheon/
 tags: statements-releases
 title: "Remarks by Vice President Kamala\_Harris, Secretary of State Antony Blinken,\
   \ and Prime Minister Kishida Fumio of Japan at State\_Luncheon"

@@ -2,7 +2,7 @@
 date: '2024-01-12'
 modified_time: 2024-01-12 06:14:23-05:00
 published_time: 2024-01-12 06:14:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/12/background-press-call-by-senior-administration-officials-and-senior-military-official-on-developments-in-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/12/background-press-call-by-senior-administration-officials-and-senior-military-official-on-developments-in-the-middle-east/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials and Senior Military\
   \ Official on Developments in the Middle\_East"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-26'
 modified_time: 2022-01-26 11:56:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/president-biden-announces-key-diplomatic-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/26/president-biden-announces-key-diplomatic-nominees/
 published_time: 2022-01-26 16:00:00-05:00
 title: "President\_Biden Announces Key Diplomatic\_Nominees"
 ---

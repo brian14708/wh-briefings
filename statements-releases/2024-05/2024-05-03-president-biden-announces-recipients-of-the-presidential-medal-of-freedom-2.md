@@ -1,7 +1,7 @@
 ---
 date: '2024-05-03'
 published_time: 2024-05-03 07:51:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/03/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/03/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-2/
 tags: statements-releases
 title: "President\_Biden Announces Recipients of the Presidential Medal of\_Freedom"
 ---

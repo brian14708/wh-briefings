@@ -2,7 +2,7 @@
 date: '2022-08-10'
 modified_time: 2022-08-10 13:06:50-04:00
 published_time: 2022-08-10 13:06:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/statement-by-national-security-advisor-jake-sullivan-on-irans-continued-targeting-of-u-s-citizens/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/statement-by-national-security-advisor-jake-sullivan-on-irans-continued-targeting-of-u-s-citizens/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Iran\u2019s Continued\
   \ Targeting of U.S.\_Citizens"

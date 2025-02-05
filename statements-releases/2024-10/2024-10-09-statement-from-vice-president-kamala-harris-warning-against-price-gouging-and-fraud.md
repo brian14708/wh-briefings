@@ -1,7 +1,7 @@
 ---
 date: '2024-10-09'
 published_time: 2024-10-09 10:52:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/statement-from-vice-president-kamala-harris-warning-against-price-gouging-and-fraud/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/statement-from-vice-president-kamala-harris-warning-against-price-gouging-and-fraud/
 tags: statements-releases
 title: "Statement From Vice President Kamala\_Harris Warning Against Price Gouging\
   \ and\_Fraud"

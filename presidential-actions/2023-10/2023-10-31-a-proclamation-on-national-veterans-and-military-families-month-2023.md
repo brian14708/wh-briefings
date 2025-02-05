@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-10-31 14:48:54-04:00
 published_time: 2023-10-31 14:48:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-national-veterans-and-military-families-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-national-veterans-and-military-families-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Veterans and Military Families Month,\_2023"
 ---

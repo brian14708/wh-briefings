@@ -1,7 +1,7 @@
 ---
 date: '2022-12-01'
 published_time: 2022-12-01 17:12:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-vice-president-harris-and-president-macron-of-france-at-state-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-vice-president-harris-and-president-macron-of-france-at-state-luncheon/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Macron of France at State\_\
   Luncheon"

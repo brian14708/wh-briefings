@@ -2,7 +2,7 @@
 date: '2023-04-07'
 modified_time: 2023-04-07 22:24:48-04:00
 published_time: 2023-04-07 22:24:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/07/statement-from-president-joe-biden-on-decision-in-alliance-for-hippocratic-medicine-v-fda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/07/statement-from-president-joe-biden-on-decision-in-alliance-for-hippocratic-medicine-v-fda/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Decision in Alliance for Hippocratic\
   \ Medicine v.\_FDA"

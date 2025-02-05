@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-19 17:09:28-04:00
 published_time: 2024-10-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/fact-sheet-biden-harris-administration-proposes-rule-to-expand-coverage-of-affordable-contraception-under-the-affordable-care-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/fact-sheet-biden-harris-administration-proposes-rule-to-expand-coverage-of-affordable-contraception-under-the-affordable-care-act/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Proposes Rule to Expand Coverage\
   \ of Affordable Contraception Under the Affordable Care\_Act"
@@ -93,7 +93,7 @@ Administration has already taken to expand access to affordable
 contraception, including to implement the President’s [Executive Order
 on Strengthening Access to Affordable, High-Quality Contraception and
 Family Planning
-Services](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/)
+Services](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/)
 from June 2023. The Administration has taken action to:
 
 -   **Expand contraception coverage and affordability under the
@@ -208,7 +208,7 @@ from June 2023. The Administration has taken action to:
     institutions of higher education to share best practices and ways to
     help students understand their options for accessing contraception.
     In 2023, Vice President Harris joined a Department of
-    Education [convening](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/) of
+    Education [convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/) of
     representatives from 68 colleges and universities across 32 states
     to discuss promising strategies for protecting and expanding access
     to contraception for their students. This convening followed Vice
@@ -236,9 +236,9 @@ from June 2023. The Administration has taken action to:
 
 In addition to strengthening access to affordable contraception, the
 Biden-Harris Administration continues to implement President Biden’s
-[three](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/)[Executive](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access-2/)[Orders](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/)
+[three](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/)[Executive](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access-2/)[Orders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/)
 and a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/)
 directing federal agencies to protect access to reproductive health care
 issued since the Court overturned *Roe v. Wade*. To date, the
 Biden-Harris Administration has taken action to protect access to
@@ -249,7 +249,7 @@ providers; and ensure access to accurate information and legal
 resources.  
   
 The Vice President has led the White House’s efforts
-to [partner](https://www.whitehouse.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf) with
+to [partner](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf) with
 leaders on the frontlines of protecting access to abortion, highlighting
 the harm of abortion bans to women’s health at more than 100 events in
 more than 20 states since *Roe v. Wade* was overturned, and meeting with

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-30'
 published_time: 2024-10-30 20:36:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/30/statement-by-nsc-spokesperson-sean-savett-on-the-democratic-peoples-republic-of-koreas-icbm-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/30/statement-by-nsc-spokesperson-sean-savett-on-the-democratic-peoples-republic-of-koreas-icbm-test/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on the Democratic People\u2019s\
   \ Republic of Korea\u2019s ICBM\_Test"

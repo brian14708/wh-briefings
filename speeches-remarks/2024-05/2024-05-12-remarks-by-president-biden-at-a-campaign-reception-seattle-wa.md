@@ -1,7 +1,7 @@
 ---
 date: '2024-05-12'
 published_time: 2024-05-12 20:21:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/12/remarks-by-president-biden-at-a-campaign-reception-seattle-wa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/12/remarks-by-president-biden-at-a-campaign-reception-seattle-wa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Seattle,\_WA"
 ---

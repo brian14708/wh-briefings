@@ -2,7 +2,7 @@
 date: '2023-02-08'
 modified_time: 2023-02-09 10:29:09-05:00
 published_time: 2023-02-08 18:32:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/08/remarks-by-president-biden-on-the-economy-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/08/remarks-by-president-biden-on-the-economy-6/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the\_Economy"
 ---

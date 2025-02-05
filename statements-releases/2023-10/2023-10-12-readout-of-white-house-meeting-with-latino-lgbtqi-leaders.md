@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-12 11:25:13-04:00
 published_time: 2023-10-12 11:25:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/readout-of-white-house-meeting-with-latino-lgbtqi-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/readout-of-white-house-meeting-with-latino-lgbtqi-leaders/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Latino LGBTQI+\_Leaders"
 ---

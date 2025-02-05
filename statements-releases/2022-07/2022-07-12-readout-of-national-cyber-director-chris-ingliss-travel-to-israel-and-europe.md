@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-11 19:50:01-04:00
 published_time: 2022-07-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/readout-of-national-cyber-director-chris-ingliss-travel-to-israel-and-europe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/readout-of-national-cyber-director-chris-ingliss-travel-to-israel-and-europe/
 tags: statements-releases
 title: "Readout of National Cyber Director Chris Inglis\u2019s Travel to Israel and\_\
   Europe"

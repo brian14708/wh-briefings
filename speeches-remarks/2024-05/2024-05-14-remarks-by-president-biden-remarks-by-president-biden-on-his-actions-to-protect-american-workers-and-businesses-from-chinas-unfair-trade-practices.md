@@ -2,7 +2,7 @@
 date: '2024-05-14'
 modified_time: 2024-05-14 15:08:11-04:00
 published_time: 2024-05-14 14:37:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/14/remarks-by-president-biden-remarks-by-president-biden-on-his-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/14/remarks-by-president-biden-remarks-by-president-biden-on-his-actions-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on His Actions to Protect American Workers and\
   \ Businesses from China\u2019s Unfair Trade\_Practices"

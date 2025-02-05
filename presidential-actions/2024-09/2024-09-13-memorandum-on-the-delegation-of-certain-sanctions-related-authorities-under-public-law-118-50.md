@@ -1,7 +1,7 @@
 ---
 date: '2024-09-13'
 published_time: 2024-09-13 17:38:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-delegation-of-certain-sanctions-related-authorities-under-public-law-118-50/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-delegation-of-certain-sanctions-related-authorities-under-public-law-118-50/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Certain Sanctions-Related Authorities Under\
   \ Public Law\_118-50"

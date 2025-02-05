@@ -2,7 +2,7 @@
 date: '2024-08-25'
 modified_time: 2024-08-25 14:10:10-04:00
 published_time: 2024-08-25 14:10:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/25/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivans-travel-to-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/25/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivans-travel-to-canada/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on National Security Advisor Jake\
   \ Sullivan\u2019s Travel to\_Canada"

@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-26 17:32:14-04:00
 published_time: 2023-04-26 17:32:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/fact-sheet-republic-of-korea-state-visit-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/fact-sheet-republic-of-korea-state-visit-to-the-united-states/
 tags: statements-releases
 title: "FACT SHEET: Republic of Korea State Visit to the United\_States"
 ---

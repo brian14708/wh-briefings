@@ -2,7 +2,7 @@
 date: '2024-04-19'
 modified_time: 2024-04-19 15:26:42-04:00
 published_time: 2024-04-19 15:26:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/19/remarks-by-president-biden-at-the-ibew-construction-and-maintenance-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/19/remarks-by-president-biden-at-the-ibew-construction-and-maintenance-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the IBEW Construction and Maintenance\_Conference"
 ---

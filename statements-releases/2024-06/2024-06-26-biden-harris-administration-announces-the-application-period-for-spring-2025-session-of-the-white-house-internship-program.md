@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-24 12:28:41-04:00
 published_time: 2024-06-26 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/biden-harris-administration-announces-the-application-period-for-spring-2025-session-of-the-white-house-internship-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/biden-harris-administration-announces-the-application-period-for-spring-2025-session-of-the-white-house-internship-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Spring\
   \ 2025 session of the White\_House Internship\_Program"
@@ -45,7 +45,7 @@ Wednesday, June 26th, 2024 and will close Friday, July 26th, 2024. 
 Final acceptance to the program is contingent upon a background
 investigation process and other additional steps. Interested candidates
 can find the Program’s online application at
-[WH.gov/intern](https://www.whitehouse.gov/get-involved/internships/).
+[WH.gov/intern](https://bidenwhitehouse.archives.gov/get-involved/internships/).
 The website also features additional information about the Program,
 including a “Frequently Asked Questions” section.
 
@@ -75,6 +75,6 @@ Other components within EOP with internship opportunities include:
 Please be aware that the application dates and required material may
 vary by component. For more information on these EOP internships, please
 visit [this
-website](https://www.whitehouse.gov/get-involved/internships/).
+website](https://bidenwhitehouse.archives.gov/get-involved/internships/).
 
 \###

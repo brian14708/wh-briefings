@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 published_time: 2022-04-21 15:34:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-biden-administration-responds-to-putins-price-hike-by-awarding-first-barrels-from-historic-strategic-petroleum-reserve-release-deploying-affordable-clean-energy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-biden-administration-responds-to-putins-price-hike-by-awarding-first-barrels-from-historic-strategic-petroleum-reserve-release-deploying-affordable-clean-energy/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Responds to Putin\u2019s Price Hike by Awarding\
   \ First Barrels from Historic Strategic Petroleum Reserve Release & Deploying Affordable\
@@ -26,7 +26,7 @@ sale.
 
 The Biden Administration also announced this week a set of [new actions
 and
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/)
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/)
 this week that support the President’s mission to accelerate America’s
 move towards true energy independence and lowering costs for Americans
 with a clean energy economy.
@@ -92,7 +92,7 @@ Families</u>**
 
 The President knows the true path to energy security runs through clean
 energy. This week, the Biden Administration announced [new actions and
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/)
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/)
 that accelerate and strengthen America’s move towards a clean energy
 economy and lower costs for consumers, furthering the path towards true
 U.S. energy independence. These actions build on the steps President
@@ -182,7 +182,7 @@ increasing energy efficiency.
 
 -   Vice President Harris announced the [Biden-Harris Action Plan to
     Build Better School
-    Infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
+    Infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
     including a $500 million grant program at the Department of Energy
     to save schools money by tackling energy costs—the second-largest
     expense after teacher salaries.
@@ -191,7 +191,7 @@ increasing energy efficiency.
 
 -   The White House joined leaders from state and city governments,
     labor, and industry to launch the [Building Performance Standards
-    Coalition](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/),
+    Coalition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/),
     a first-of-its-kind partnership between more than 30 state and local
     governments covering nearly 20% of the nation’s building footprint,
     dedicated to deliver cleaner, healthier buildings with lower energy

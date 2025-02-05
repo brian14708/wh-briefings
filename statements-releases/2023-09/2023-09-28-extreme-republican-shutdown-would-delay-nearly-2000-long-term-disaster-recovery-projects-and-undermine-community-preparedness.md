@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-28 04:11:03-04:00
 published_time: 2023-09-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/extreme-republican-shutdown-would-delay-nearly-2000-long-term-disaster-recovery-projects-and-undermine-community-preparedness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/extreme-republican-shutdown-would-delay-nearly-2000-long-term-disaster-recovery-projects-and-undermine-community-preparedness/
 tags: statements-releases
 title: "Extreme Republican Shutdown Would Delay Nearly 2,000 Long-Term Disaster Recovery\
   \ Projects and Undermine Community\_Preparedness"
@@ -44,7 +44,7 @@ government open and address emergency needs for the American people.
 House Republicans have turned their backs on the bipartisan budget deal
 that two-thirds of them voted for just a few months ago and instead
 proposed a continuing resolution (CR) that proposes [devastating
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
 programs that millions of hardworking Americans count on—including to
 FEMA. Their extreme CR also fails to provide the urgent funding
 President Biden requested for FEMA’s DRF.  

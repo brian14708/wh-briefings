@@ -1,7 +1,7 @@
 ---
 date: '2023-03-28'
 published_time: 2023-03-28 19:27:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/readout-of-space-systems-cybersecurity-executive-forum-hosted-by-the-office-of-the-national-cyber-director-and-the-national-space-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/readout-of-space-systems-cybersecurity-executive-forum-hosted-by-the-office-of-the-national-cyber-director-and-the-national-space-council/
 tags: statements-releases
 title: "Readout of Space Systems Cybersecurity Executive Forum Hosted by the Office\
   \ of the National Cyber Director and the National Space\_Council"
@@ -14,7 +14,7 @@ ecosystem. This forum took place as part of a larger series of
 executive-level meetings hosted by ONCD targeting various sectors,
 including most recently an [electric vehicles and electric vehicle
 supply equipment-focused
-event](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/readout-of-cybersecurity-executive-forum-on-electric-vehicles-and-electric-vehicle-charging-infrastructure-hosted-by-the-office-of-the-national-cyber-director/)
+event](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/readout-of-cybersecurity-executive-forum-on-electric-vehicles-and-electric-vehicle-charging-infrastructure-hosted-by-the-office-of-the-national-cyber-director/)
 in October 2022. The Space Forum was designed to facilitate robust
 discussion on this topic at the executive level and drive action to
 motivate critical cybersecurity investments across the space systems
@@ -53,7 +53,7 @@ for government and commercial space system developers and operators to
 measurably improve the cybersecurity of their space systems in the
 current threat environment. Government officials also shared that the
 Biden-Harris Administration’s new [National Cybersecurity
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 outlines an affirmative vision for building digital and space systems
 ecosystem that is more inherently defensible, resilient, and aligned
 with U.S. values, which applies equally to the space systems ecosystem.

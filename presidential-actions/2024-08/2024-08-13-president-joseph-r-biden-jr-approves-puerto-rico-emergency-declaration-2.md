@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 22:50:04-04:00
 published_time: 2024-08-13 22:50:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/13/president-joseph-r-biden-jr-approves-puerto-rico-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/13/president-joseph-r-biden-jr-approves-puerto-rico-emergency-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Emergency\_Declaration"
 ---

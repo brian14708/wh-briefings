@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-08 17:32:47-04:00
 published_time: 2024-10-08 17:32:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-update-biden-harris-administration-continues-life-saving-preparations-for-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-update-biden-harris-administration-continues-life-saving-preparations-for-hurricane-milton/
 tags: statements-releases
 title: "FACT SHEET: UPDATE: Biden-\u2060Harris Administration Continues Life-Saving\
   \ Preparations for Hurricane\_Milton"
@@ -10,11 +10,11 @@ title: "FACT SHEET: UPDATE: Biden-\u2060Harris Administration Continues Life-Sav
  
 The Biden-Harris Administration continues to mobilize a
 whole-of-government effort to [prepare for the
-impacts](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/fact-sheet-biden-harris-administrations-pre-landfall-preparations-for-hurricane-milton/)
+impacts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/fact-sheet-biden-harris-administrations-pre-landfall-preparations-for-hurricane-milton/)
 of Hurricane Milton, including pre-positioning resources and personnel
 and expediting debris removal efforts in Florida. These actions
 supplement the [ongoing response and recovery
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
 to the impacts of Hurricane Helene across the Southeast and Appalachia.
 
 Today, President Biden was briefed by members of his Administration who

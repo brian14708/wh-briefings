@@ -1,7 +1,7 @@
 ---
 date: '2022-06-28'
 published_time: 2022-06-28 13:46:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-bilateral-meeting-between-president-joe-biden-and-president-andres-manuel-lopez-obrador-of-mexico/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Bilateral\
   \ Meeting between President Joe\_Biden and President Andr\xE9s Manuel L\xF3pez Obrador\

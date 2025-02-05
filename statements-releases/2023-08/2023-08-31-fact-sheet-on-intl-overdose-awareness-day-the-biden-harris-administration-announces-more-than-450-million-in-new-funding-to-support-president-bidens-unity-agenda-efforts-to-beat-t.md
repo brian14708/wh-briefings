@@ -2,7 +2,7 @@
 date: '2023-08-31'
 modified_time: 2023-08-30 19:14:09-04:00
 published_time: 2023-08-31 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/31/fact-sheet-on-intl-overdose-awareness-day-the-biden-harris-administration-announces-more-than-450-million-in-new-funding-to-support-president-bidens-unity-agenda-efforts-to-beat-t/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/31/fact-sheet-on-intl-overdose-awareness-day-the-biden-harris-administration-announces-more-than-450-million-in-new-funding-to-support-president-bidens-unity-agenda-efforts-to-beat-t/
 tags: statements-releases
 title: "FACT SHEET: On Int\u2019l Overdose Awareness Day, the Biden-\u2060Harris Administration\
   \ Announces More Than $450 Million in New Funding to Support President\_Biden\u2019\
@@ -16,7 +16,7 @@ Today, on International Overdose Awareness Day, the Biden-Harris
 administration is recognizing all those who have lost someone to an
 overdose. President Biden [declared August 27 through September 2 as
 Overdose Awareness
-Week](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/25/a-proclamation-on-overdose-awareness-week-2023/) to
+Week](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/25/a-proclamation-on-overdose-awareness-week-2023/) to
 focus the nation’s attention on the devastation caused by illicit
 fentanyl and other drugs. During this week of recognition, we reaffirm
 our commitment to beating this epidemic — in memory of those we have
@@ -24,7 +24,7 @@ lost and to protect the lives we can still save.
   
 Today, in support of President Biden’s [Unity Agenda efforts to beat the
 overdose
-epidemic](https://www.whitehouse.gov/omb/briefing-room/2022/03/28/fact-sheet-president-bidens-budget-advances-a-bipartisan-unity-agenda/) and
+epidemic](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/03/28/fact-sheet-president-bidens-budget-advances-a-bipartisan-unity-agenda/) and
 save lives, the Biden-Harris administration is announcing more than $450
 million to strengthen prevention, harm reduction, treatment, and
 recovery support services and crack down on illicit drug trafficking.
@@ -36,11 +36,11 @@ overdose epidemic.
   
 Saving lives is the North Star of President Biden’s [National Drug
 Control
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
 and [after a years-long period of rapid increases in the overdose death
 rate from 2019 – 2021, the United States is now seeing continued
 progress in flattening this
-trend](https://www.whitehouse.gov/ondcp/briefing-room/2023/08/17/white-house-ondcp-director-statement-on-flattening-overdose-death-rate-over-the-past-year/).
+trend](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/08/17/white-house-ondcp-director-statement-on-flattening-overdose-death-rate-over-the-past-year/).
 The latest CDC report released earlier this month marked 13 months
 straight of leveling off of overdose deaths. The Biden-Harris
 Administration is committed to building on this progress and doubling
@@ -167,7 +167,7 @@ efforts will:
 
 -   ONDCP is announcing more than $18.9 million in FY 2023 discretionary
     funding for its [High Intensity Drug Trafficking Areas (HIDTA)
-    Program](https://www.whitehouse.gov/ondcp/grant-programs/hidta/),
+    Program](https://bidenwhitehouse.archives.gov/ondcp/grant-programs/hidta/),
     adding to the more than $275 million provided in base funding
     released earlier this year. This new allocation of funds will
     support discretionary projects in 33 regional HIDTAs and the
@@ -180,6 +180,6 @@ efforts will:
     these measures will help save lives and make our communities safer.
 
 Read President Biden’s full Proclamation on Overdose Awareness
-Week [HERE](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/25/a-proclamation-on-overdose-awareness-week-2023/#:~:text=NOW%2C%20THEREFORE%2C%20I%2C%20JOSEPH,2023%2C%20as%20Overdose%20Awareness%20Week.).
+Week [HERE](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/25/a-proclamation-on-overdose-awareness-week-2023/#:~:text=NOW%2C%20THEREFORE%2C%20I%2C%20JOSEPH,2023%2C%20as%20Overdose%20Awareness%20Week.).
 
 \###

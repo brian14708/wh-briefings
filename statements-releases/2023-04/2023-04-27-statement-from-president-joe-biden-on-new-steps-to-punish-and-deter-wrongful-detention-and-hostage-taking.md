@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 17:02:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/27/statement-from-president-joe-biden-on-new-steps-to-punish-and-deter-wrongful-detention-and-hostage-taking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/27/statement-from-president-joe-biden-on-new-steps-to-punish-and-deter-wrongful-detention-and-hostage-taking/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Steps to Punish and Deter Wrongful\
   \ Detention and\_Hostage-Taking"

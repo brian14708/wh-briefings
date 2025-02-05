@@ -1,7 +1,7 @@
 ---
 date: '2024-12-19'
 published_time: 2024-12-19 18:02:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-update-on-the-biden-harris-administrations-commitment-to-addressing-the-global-mpox-outbreak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/fact-sheet-update-on-the-biden-harris-administrations-commitment-to-addressing-the-global-mpox-outbreak/
 tags: statements-releases
 title: "FACT SHEET: Update on the Biden-\u2060Harris Administration\u2019s Commitment\
   \ to Addressing the Global Mpox\_Outbreak"

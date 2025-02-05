@@ -2,7 +2,7 @@
 date: '2022-10-04'
 modified_time: 2022-10-04 09:51:43-04:00
 published_time: 2022-10-04 06:47:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/fact-sheet-vice-president-harris-announces-new-public-and-private-sector-efforts-to-advance-racial-equity-at-freedmans-bank-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/fact-sheet-vice-president-harris-announces-new-public-and-private-sector-efforts-to-advance-racial-equity-at-freedmans-bank-forum/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Public and Private-Sector\
   \ Efforts to Advance Racial Equity at Freedman\u2019s Bank\_Forum"
@@ -58,7 +58,7 @@ regulatory clarity, and improvements in infrastructure and capacity.
     dollarsto go to SDBs, up from a FY 2022 goal of 11 percent and a
     statutory goal of 5 percent.Today’s action will put agencies on a
     path to meet the [President’s
-    goal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
+    goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
     of increasing annual SDB spending from an average of 9.8 percent
     over 5 years prior to the start of the Biden-Harris Administration
     to 15 percent by FY 2025.

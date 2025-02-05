@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 08:59:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/biden-harris-administration-announces-the-application-period-for-fall-session-of-the-white-house-internship-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/biden-harris-administration-announces-the-application-period-for-fall-session-of-the-white-house-internship-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Fall\
   \ Session of the White\_House Internship\_Program"
@@ -42,7 +42,7 @@ Program
 The application period for the Fall 2024 session will open on Monday,
 March 11th and will close on Friday, April 5th. Interested candidates
 can find the Program’s online application at
-[WH.gov/intern](https://www.whitehouse.gov/get-involved/internships/).
+[WH.gov/intern](https://bidenwhitehouse.archives.gov/get-involved/internships/).
 The website also features additional information about the Program,
 including a “Frequently Asked Questions” section.
 
@@ -71,6 +71,6 @@ Other components within EOP with internship opportunities include:
 Please be aware that the application dates and required material may
 vary by component. For more information on these EOP internships, please
 visit [this
-website](https://www.whitehouse.gov/get-involved/internships/).
+website](https://bidenwhitehouse.archives.gov/get-involved/internships/).
 
 \###

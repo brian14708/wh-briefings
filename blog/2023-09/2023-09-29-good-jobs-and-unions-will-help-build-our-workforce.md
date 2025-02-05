@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-29 10:04:21-04:00
 published_time: 2023-09-29 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/
 tags: blog
 title: "Good Jobs and Unions Will Help Build Our\_Workforce"
 ---
@@ -14,7 +14,7 @@ title: "Good Jobs and Unions Will Help Build Our\_Workforce"
 ------------------------------------------------------------------------
 
 Today, the Biden-Harris Administration released a
-[playbook](https://www.whitehouse.gov/wp-content/uploads/2023/09/playbook_workforce_investments.pdf)
+[playbook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/playbook_workforce_investments.pdf)
 on evidence-based workforce development strategies that state and local
 governments can use to support workers, families, and communities. After
 decades of jobs shipped overseas, communities hollowed out, and supply
@@ -26,10 +26,10 @@ The President is growing the economy from the middle out and bottom up
 by investing in America, supporting 21<sup>st</sup> century industries
 like semiconductors and clean energy; empowering and educating workers;
 and fostering fair and competitive markets. This agenda is a [growth
-agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/),
+agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/),
 designed to deliver strong, stable, sustainable, and *shared* economic
 growth. And it’s designed to [create
-jobs](https://www.whitehouse.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
+jobs](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
 across the country, including in communities that have been too often
 left behind.
 [External](https://energyfuturesinitiative.org/wp-content/uploads/sites/2/2023/01/NDC-Report-January-17-1.pdf)
@@ -82,7 +82,7 @@ institutional and technical knowledge as older workers leave the
 industry.
 
 As the Council of Economic Advisers laid out in a
-[brief](https://www.whitehouse.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
+[brief](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
 last year, by improving job quality, employers can more easily attract
 and retain workers—benefitting their bottom line. At the same time,
 improved job quality enables workers to bring home the pay and benefits
@@ -142,14 +142,14 @@ value for specific credits.
 
 Additionally, earlier this year, the President laid out a [Roadmap to
 Support Good
-Jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/#:~:text=The%20roadmap%20focuses%20on%20four,quality%2C%20family%2Dsustaining%20jobs%2C)
+Jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/#:~:text=The%20roadmap%20focuses%20on%20four,quality%2C%20family%2Dsustaining%20jobs%2C)
 that outlined the Administration’s efforts to ensure America’s workers
 can access quality jobs from our historic investments. By investing $500
 million in less than four months toward worker-centered sectoral
 training efforts, significantly Registered Apprenticeships in the
 [Trucking](https://www.google.com/search?q=biden+trucking+action+plan)
 and
-[Cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
+[Cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
 and investing over $200 million in training grants for infrastructure
 related jobs, the President is making sure we have strong pathways to
 quality jobs.

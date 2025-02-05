@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-13 11:45:08-04:00
 published_time: 2024-05-13 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-president-bidens-investing-in-america-agenda-is-helping-american-families-across-the-country-save-money/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Investing in America Agenda is Helping\
   \ American Families Across the Country Save\_Money"
@@ -59,7 +59,7 @@ program [here](https://www.energy.gov/save/rebates).
 **Today, the Biden-Harris Administration is convening federal partners,
 nonprofits, consumer lending organizations, and philanthropies** [**for
 the second
-time**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/12/fact-sheet-lowering-home-energy-costs-through-president-bidens-inflation-reduction-act/)**to
+time**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/12/fact-sheet-lowering-home-energy-costs-through-president-bidens-inflation-reduction-act/)**to
 drive consumer education and outreach efforts on the Inflation Reduction
 Act’s consumer home energy savings tax credits and rebates.** Today’s
 convening specifically focuses on bridging gaps in financing to ensure
@@ -107,7 +107,7 @@ about how to save money through the Inflation Reduction Act:
 -   In April, the Environmental Protection Agency (EPA) announced
     selectees for $20 billion in awards from the Inflation Reduction Act
     through the [**Greenhouse Gas Reduction
-    Fund**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/),
+    Fund**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/),
     which will stand up a national clean energy financing network. Many
     of those selectees are community lenders that will help bridge
     financing gaps for consumers so they can afford the full cost of

@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-25 14:07:52-04:00
 published_time: 2024-07-25 13:55:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/25/remarks-by-vice-president-harris-at-the-american-federation-of-teachers-88th-national/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/25/remarks-by-vice-president-harris-at-the-american-federation-of-teachers-88th-national/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the American Federation of Teachers\u2019\
   \ 88th National\_Convention"

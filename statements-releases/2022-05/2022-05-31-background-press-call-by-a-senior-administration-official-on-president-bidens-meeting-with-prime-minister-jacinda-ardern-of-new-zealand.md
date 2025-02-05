@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 15:47:36-04:00
 published_time: 2022-05-31 15:47:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/background-press-call-by-a-senior-administration-official-on-president-bidens-meeting-with-prime-minister-jacinda-ardern-of-new-zealand/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/background-press-call-by-a-senior-administration-official-on-president-bidens-meeting-with-prime-minister-jacinda-ardern-of-new-zealand/
 tags: statements-releases
 title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
   s Meeting with Prime Minister Jacinda Ardern of New\_Zealand"

@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 15:10:31-04:00
 published_time: 2022-04-21 15:10:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/21/a-proclamation-on-earth-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/21/a-proclamation-on-earth-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Earth Day,\_2022"
 ---

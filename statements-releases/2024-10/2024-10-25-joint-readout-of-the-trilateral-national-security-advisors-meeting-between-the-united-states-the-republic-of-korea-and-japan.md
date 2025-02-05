@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 14:53:41-04:00
 published_time: 2024-10-25 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/25/joint-readout-of-the-trilateral-national-security-advisors-meeting-between-the-united-states-the-republic-of-korea-and-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/25/joint-readout-of-the-trilateral-national-security-advisors-meeting-between-the-united-states-the-republic-of-korea-and-japan/
 tags: statements-releases
 title: "Joint Readout of the Trilateral National Security Advisors meeting between\
   \ the United\_States, the Republic of Korea and\_Japan"

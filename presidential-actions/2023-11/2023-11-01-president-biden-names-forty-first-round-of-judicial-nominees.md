@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-10-31 18:44:18-04:00
 published_time: 2023-11-01 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/01/president-biden-names-forty-first-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/01/president-biden-names-forty-first-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Forty-First Round of Judicial\_Nominees"
 ---

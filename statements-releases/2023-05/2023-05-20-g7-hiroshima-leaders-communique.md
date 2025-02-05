@@ -2,7 +2,7 @@
 date: '2023-05-20'
 modified_time: 2023-05-22 14:01:49-04:00
 published_time: 2023-05-20 04:34:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/g7-hiroshima-leaders-communique/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/g7-hiroshima-leaders-communique/
 tags: statements-releases
 title: "G7 Hiroshima Leaders\u2019\_Communiqu\xE9"
 ---

@@ -2,7 +2,7 @@
 date: '2023-02-20'
 modified_time: 2023-02-20 15:34:16-05:00
 published_time: 2023-02-20 15:34:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/20/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-in-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/20/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-in-joint-statement/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Zelenskyy of Ukraine in Joint\_\
   Statement"

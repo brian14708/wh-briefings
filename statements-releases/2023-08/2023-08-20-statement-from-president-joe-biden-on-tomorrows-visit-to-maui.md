@@ -2,7 +2,7 @@
 date: '2023-08-20'
 modified_time: 2023-08-20 18:42:48-04:00
 published_time: 2023-08-20 18:40:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/20/statement-from-president-joe-biden-on-tomorrows-visit-to-maui/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/20/statement-from-president-joe-biden-on-tomorrows-visit-to-maui/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Tomorrow\u2019s Visit to\_Maui"
 ---
@@ -33,7 +33,7 @@ Communities Impacted by Maui Wildfires**
 
   
 As soon as receiving the state’s request, President Biden
-[signed](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
+[signed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/10/president-joseph-r-biden-jr-approves-hawaii-disaster-declaration-3/)
 a Major Disaster Declaration for the state and launched a
 whole-of-government effort to support residents and communities affected
 by this unprecedented tragedy. On Monday, August 21, President Biden and

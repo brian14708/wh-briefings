@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-26 09:44:49-04:00
 published_time: 2023-04-26 09:40:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/26/a-proclamation-on-the-70th-anniversary-of-the-lavender-scare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/26/a-proclamation-on-the-70th-anniversary-of-the-lavender-scare/
 tags: presidential-actions
 title: "A Proclamation on the 70th Anniversary of the Lavender\_Scare"
 ---

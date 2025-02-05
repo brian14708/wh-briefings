@@ -2,7 +2,7 @@
 date: '2022-05-25'
 modified_time: 2022-05-25 16:09:10-04:00
 published_time: 2022-05-25 16:09:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Kansas Disaster\_Declaration"
 ---

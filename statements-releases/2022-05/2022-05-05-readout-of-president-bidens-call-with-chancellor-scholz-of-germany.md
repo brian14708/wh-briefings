@@ -1,7 +1,7 @@
 ---
 date: '2022-05-05'
 published_time: 2022-05-05 16:32:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/readout-of-president-bidens-call-with-chancellor-scholz-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/readout-of-president-bidens-call-with-chancellor-scholz-of-germany/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Chancellor Scholz of\_Germany"
 ---

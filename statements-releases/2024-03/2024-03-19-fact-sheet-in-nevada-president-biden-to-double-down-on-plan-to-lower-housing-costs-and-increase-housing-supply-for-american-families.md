@@ -2,7 +2,7 @@
 date: '2024-03-19'
 modified_time: 2024-03-21 11:25:14-04:00
 published_time: 2024-03-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/19/fact-sheet-in-nevada-president-biden-to-double-down-on-plan-to-lower-housing-costs-and-increase-housing-supply-for-american-families/
 tags: statements-releases
 title: "FACT SHEET: In Nevada, President\_Biden to Double Down on Plan to Lower Housing\
   \ Costs and Increase Housing Supply for American\_Families"
@@ -39,7 +39,7 @@ corporations and the wealthy to pay their fair share. These new
 proposals build on his [Housing Supply Action
 Plan](https://whitehouse.us19.list-manage.com/track/click?u=c97630621baff8c44fe607661&id=e94fd3af4f&e=26006ec432),
 major investments provided by the
-[ARP](https://www.whitehouse.gov/american-rescue-plan/), and actions the
+[ARP](https://bidenwhitehouse.archives.gov/american-rescue-plan/), and actions the
 Biden-Harris Administration has already taken to increase the housing
 supply and lower housing costs for American families, including reducing
 mortgage insurance premiums by $800 per year for hundreds of thousands
@@ -49,7 +49,7 @@ housing units. These actions have contributed to a record high of nearly
 1.7 million homes currently under construction nationwide.
 
 [**President Biden’s Plan to Lower Housing Costs and Build Two Million
-Homes**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
+Homes**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
 
 *<u>Reduce Barriers to Homeownership  
 </u>*For many Americans, owning a home is the cornerstone of raising a
@@ -158,7 +158,7 @@ renters and homeowners.
 President Biden is also taking actions to lower costs and promote
 housing stability for renters. The White House [Blueprint for a Renters
 Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf) lays
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf) lays
 out the key principles of a fair rental market and has already catalyzed
 new federal actions to make those principles a reality. Today, President
 Biden is announcing new steps to crack down on unfair practices that are
@@ -193,10 +193,10 @@ driving up rental costs:
     rule that if finalized as proposed would ban misleading and hidden
     fees across the economy, including in housing rental agreements. HUD
     has released
-    a [summary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/) of
+    a [summary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/) of
     banned non-rent fees within their rental assistance programs. These
     actions build on
-    voluntary [commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/) the
+    voluntary [commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/) the
     President announced last summer from major rental housing platforms
     to provide customers with the total, upfront cost on rental
     properties on their platform.

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-09'
 published_time: 2024-10-09 15:59:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/09/remarks-by-president-biden-and-vice-president-harris-during-a-briefing-on-the-administrations-life-saving-preparations-for-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/09/remarks-by-president-biden-and-vice-president-harris-during-a-briefing-on-the-administrations-life-saving-preparations-for-hurricane-milton/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris During a Briefing on\
   \ the Administration\u2019s Life-Saving Preparations for Hurricane\_Milton"

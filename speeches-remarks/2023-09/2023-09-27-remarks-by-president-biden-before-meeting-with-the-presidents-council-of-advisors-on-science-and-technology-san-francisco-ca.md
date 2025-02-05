@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-27 18:30:11-04:00
 published_time: 2023-09-27 18:29:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/27/remarks-by-president-biden-before-meeting-with-the-presidents-council-of-advisors-on-science-and-technology-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/27/remarks-by-president-biden-before-meeting-with-the-presidents-council-of-advisors-on-science-and-technology-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting with the President\u2019s Council\
   \ of Advisors on Science and Technology | San Francisco,\_CA"

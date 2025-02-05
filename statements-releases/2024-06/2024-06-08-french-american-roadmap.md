@@ -2,7 +2,7 @@
 date: '2024-06-08'
 modified_time: 2024-06-10 08:57:40-04:00
 published_time: 2024-06-08 13:10:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/08/french-american-roadmap/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/08/french-american-roadmap/
 tags: statements-releases
 title: French-American Roadmap
 ---

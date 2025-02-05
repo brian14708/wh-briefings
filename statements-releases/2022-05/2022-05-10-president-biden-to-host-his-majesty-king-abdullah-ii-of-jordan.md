@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-10 00:46:41-04:00
 published_time: 2022-05-10 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/10/president-biden-to-host-his-majesty-king-abdullah-ii-of-jordan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/10/president-biden-to-host-his-majesty-king-abdullah-ii-of-jordan/
 tags: statements-releases
 title: "President\_Biden to Host His Majesty King Abdullah II of\_Jordan"
 ---

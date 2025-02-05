@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-02-07'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/remarks-by-president-biden-and-chancellor-scholz-of-the-federal-republic-of-germany-at-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/07/remarks-by-president-biden-and-chancellor-scholz-of-the-federal-republic-of-germany-at-press-conference/
 published_time: 2022-02-07 19:56:31-05:00
 title: "Remarks by President\_Biden and Chancellor Scholz of the Federal Republic\
   \ of Germany at Press\_Conference"

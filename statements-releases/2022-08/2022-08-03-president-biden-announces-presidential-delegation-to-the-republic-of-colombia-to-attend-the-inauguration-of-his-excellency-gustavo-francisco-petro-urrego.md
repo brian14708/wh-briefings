@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 16:55:42-04:00
 published_time: 2022-08-03 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/president-biden-announces-presidential-delegation-to-the-republic-of-colombia-to-attend-the-inauguration-of-his-excellency-gustavo-francisco-petro-urrego/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/president-biden-announces-presidential-delegation-to-the-republic-of-colombia-to-attend-the-inauguration-of-his-excellency-gustavo-francisco-petro-urrego/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Republic of Colombia\
   \ to Attend the Inauguration of His Excellency Gustavo Francisco Petro\_Urrego"

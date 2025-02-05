@@ -1,7 +1,7 @@
 ---
 date: '2023-11-14'
 published_time: 2023-11-14 11:35:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/statement-from-nsc-spokesperson-adrienne-watson-on-travel-of-nsc-middle-east-coordinator-to-europe-and-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/statement-from-nsc-spokesperson-adrienne-watson-on-travel-of-nsc-middle-east-coordinator-to-europe-and-the-middle-east/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Travel of NSC Middle East\
   \ Coordinator to Europe and the Middle\_East"

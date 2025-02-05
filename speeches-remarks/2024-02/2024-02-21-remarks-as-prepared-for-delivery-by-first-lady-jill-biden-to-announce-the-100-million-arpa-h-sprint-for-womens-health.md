@@ -1,7 +1,7 @@
 ---
 date: '2024-02-21'
 published_time: 2024-02-21 12:35:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-announce-the-100-million-arpa-h-sprint-for-womens-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-announce-the-100-million-arpa-h-sprint-for-womens-health/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden to Announce the\
   \ $100 Million ARPA-H Sprint for Women\u2019s\_Health"

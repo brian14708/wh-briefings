@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-24 17:14:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/readout-of-virtual-roundtable-with-latino-elected-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/readout-of-virtual-roundtable-with-latino-elected-officials/
 published_time: 2021-09-24 17:14:50-04:00
 title: "Readout of Virtual Roundtable with Latino Elected\_Officials"
 ---
@@ -26,7 +26,7 @@ discussion](https://fb.watch/88TMGSdnBp/) with all four Latino Cabinet
 Members to kick off National Hispanic Heritage Month, a meeting with
 Latino leaders from across the country to listen to their priorities and
 to discuss how the [Build Back Better
-agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-latino-communities/)
+agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-latino-communities/)
 and pathway to citizenship would benefit Latino families, and a meeting
 yesterday with Latino farmworkers and Secretary Vilsack.
 

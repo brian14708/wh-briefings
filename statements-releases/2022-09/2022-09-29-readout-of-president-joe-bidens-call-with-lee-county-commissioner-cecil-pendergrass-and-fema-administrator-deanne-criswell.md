@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 12:21:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/readout-of-president-joe-bidens-call-with-lee-county-commissioner-cecil-pendergrass-and-fema-administrator-deanne-criswell/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/readout-of-president-joe-bidens-call-with-lee-county-commissioner-cecil-pendergrass-and-fema-administrator-deanne-criswell/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Lee County Commissioner Cecil\
   \ Pendergrass and FEMA Administrator Deanne\_Criswell"

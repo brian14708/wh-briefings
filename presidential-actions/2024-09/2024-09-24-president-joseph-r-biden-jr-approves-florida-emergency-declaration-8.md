@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-24 15:57:59-04:00
 published_time: 2024-09-24 15:57:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/24/president-joseph-r-biden-jr-approves-florida-emergency-declaration-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/24/president-joseph-r-biden-jr-approves-florida-emergency-declaration-8/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Florida Emergency\_Declaration"
 ---

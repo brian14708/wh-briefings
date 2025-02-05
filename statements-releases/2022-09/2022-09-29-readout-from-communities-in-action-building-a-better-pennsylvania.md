@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 19:28:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/readout-from-communities-in-action-building-a-better-pennsylvania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/readout-from-communities-in-action-building-a-better-pennsylvania/
 tags: statements-releases
 title: "Readout from Communities in Action: Building A Better\_Pennsylvania"
 ---

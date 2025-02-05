@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 15:55:15-04:00
 published_time: 2024-09-23 15:55:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-and-president-mohamed-bin-zayed-al-nahyan-of-the-united-arab-emirates-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-and-president-mohamed-bin-zayed-al-nahyan-of-the-united-arab-emirates-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Mohamed bin Zayed al Nahyan of the\
   \ United Arab Emirates Before Bilateral\_Meeting"

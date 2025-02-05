@@ -1,7 +1,7 @@
 ---
 date: '2024-07-31'
 published_time: 2024-07-31 20:21:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/31/press-briefing-by-press-secretary-karine-jean-pierre-secretary-of-agriculture-tom-vilsack-and-national-security-advisor-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/31/press-briefing-by-press-secretary-karine-jean-pierre-secretary-of-agriculture-tom-vilsack-and-national-security-advisor-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Secretary of Agriculture\
   \ Tom Vilsack, and National Security Advisor John\_Kirby"

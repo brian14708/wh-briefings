@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-21 12:57:10-04:00
 published_time: 2022-06-21 12:51:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/06/21/press-release-bill-signed-s-1097-s-2520-and-s-3823/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/06/21/press-release-bill-signed-s-1097-s-2520-and-s-3823/
 tags: legislation
 title: "Press Release: Bill Signed: S. 1097,\_S. 2520, and\_S.\_3823"
 ---

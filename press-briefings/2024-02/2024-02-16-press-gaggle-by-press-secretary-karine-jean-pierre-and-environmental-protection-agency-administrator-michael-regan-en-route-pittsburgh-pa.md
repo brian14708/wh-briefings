@@ -2,7 +2,7 @@
 date: '2024-02-16'
 modified_time: 2024-02-16 16:19:26-05:00
 published_time: 2024-02-16 16:19:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/16/press-gaggle-by-press-secretary-karine-jean-pierre-and-environmental-protection-agency-administrator-michael-regan-en-route-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/16/press-gaggle-by-press-secretary-karine-jean-pierre-and-environmental-protection-agency-administrator-michael-regan-en-route-pittsburgh-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Environmental Protection\
   \ Agency Administrator Michael Regan En Route Pittsburgh,\_PA"

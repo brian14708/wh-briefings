@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 20:00:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/international-counter-ransomware-initiative-2023-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/international-counter-ransomware-initiative-2023-joint-statement/
 tags: statements-releases
 title: "International Counter Ransomware Initiative 2023 Joint\_Statement"
 ---

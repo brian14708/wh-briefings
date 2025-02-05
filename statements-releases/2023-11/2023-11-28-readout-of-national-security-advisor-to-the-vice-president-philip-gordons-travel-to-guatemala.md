@@ -2,7 +2,7 @@
 date: '2023-11-28'
 modified_time: 2023-11-28 08:38:18-05:00
 published_time: 2023-11-28 08:38:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/28/readout-of-national-security-advisor-to-the-vice-president-philip-gordons-travel-to-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/28/readout-of-national-security-advisor-to-the-vice-president-philip-gordons-travel-to-guatemala/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Philip Gordon\u2019\
   s Travel to\_Guatemala"

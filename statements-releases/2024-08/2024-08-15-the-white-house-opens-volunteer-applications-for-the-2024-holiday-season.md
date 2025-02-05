@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-15 19:24:05-04:00
 published_time: 2024-08-15 19:24:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/the-white-house-opens-volunteer-applications-for-the-2024-holiday-season/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/the-white-house-opens-volunteer-applications-for-the-2024-holiday-season/
 tags: statements-releases
 title: "The White\_House Opens Volunteer Applications for the 2024 Holiday\_Season"
 ---

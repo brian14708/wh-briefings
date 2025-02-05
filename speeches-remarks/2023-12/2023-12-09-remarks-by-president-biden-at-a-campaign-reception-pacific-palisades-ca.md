@@ -2,7 +2,7 @@
 date: '2023-12-09'
 modified_time: 2023-12-10 18:16:24-05:00
 published_time: 2023-12-09 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/09/remarks-by-president-biden-at-a-campaign-reception-pacific-palisades-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/09/remarks-by-president-biden-at-a-campaign-reception-pacific-palisades-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Pacific Palisades,\_\
   CA"

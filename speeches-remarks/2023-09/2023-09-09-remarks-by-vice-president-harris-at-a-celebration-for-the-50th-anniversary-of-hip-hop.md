@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-12 13:44:58-04:00
 published_time: 2023-09-09 13:41:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/09/remarks-by-vice-president-harris-at-a-celebration-for-the-50th-anniversary-of-hip-hop/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/09/remarks-by-vice-president-harris-at-a-celebration-for-the-50th-anniversary-of-hip-hop/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Celebration for the 50th Anniversary\
   \ of\_Hip-Hop"

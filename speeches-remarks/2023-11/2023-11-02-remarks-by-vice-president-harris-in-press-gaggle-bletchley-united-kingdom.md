@@ -2,7 +2,7 @@
 date: '2023-11-02'
 modified_time: 2023-11-02 18:54:18-04:00
 published_time: 2023-11-02 18:54:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-vice-president-harris-in-press-gaggle-bletchley-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-vice-president-harris-in-press-gaggle-bletchley-united-kingdom/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle | Bletchley, United\_Kingdom"
 ---

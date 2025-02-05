@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 20:09:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-president-biden-submits-to-congress-10-year-plans-to-implement-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-president-biden-submits-to-congress-10-year-plans-to-implement-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Submits to Congress 10-Year Plans to Implement\
   \ the U.S. Strategy to Prevent Conflict and Promote\_Stability"

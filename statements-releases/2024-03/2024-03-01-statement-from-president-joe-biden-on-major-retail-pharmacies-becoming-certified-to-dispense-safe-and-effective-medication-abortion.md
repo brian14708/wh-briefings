@@ -2,7 +2,7 @@
 date: '2024-03-01'
 modified_time: 2024-03-01 11:36:03-05:00
 published_time: 2024-03-01 11:36:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/statement-from-president-joe-biden-on-major-retail-pharmacies-becoming-certified-to-dispense-safe-and-effective-medication-abortion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/statement-from-president-joe-biden-on-major-retail-pharmacies-becoming-certified-to-dispense-safe-and-effective-medication-abortion/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Major Retail Pharmacies Becoming Certified\
   \ to Dispense Safe and Effective Medication\_Abortion"

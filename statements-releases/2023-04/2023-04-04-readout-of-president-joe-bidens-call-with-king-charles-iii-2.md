@@ -2,7 +2,7 @@
 date: '2023-04-04'
 modified_time: 2023-04-04 17:32:32-04:00
 published_time: 2023-04-04 17:32:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/readout-of-president-joe-bidens-call-with-king-charles-iii-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/readout-of-president-joe-bidens-call-with-king-charles-iii-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with King Charles\_III"
 ---

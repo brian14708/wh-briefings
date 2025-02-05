@@ -1,7 +1,7 @@
 ---
 date: '2023-02-11'
 published_time: 2023-02-11 23:55:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/11/remarks-by-president-biden-at-the-governors-ball-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/11/remarks-by-president-biden-at-the-governors-ball-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Governors Ball\_Dinner"
 ---

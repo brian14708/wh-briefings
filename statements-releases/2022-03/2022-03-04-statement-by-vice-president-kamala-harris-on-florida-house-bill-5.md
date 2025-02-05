@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-03-04'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/statement-by-vice-president-kamala-harris-on-florida-house-bill-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/04/statement-by-vice-president-kamala-harris-on-florida-house-bill-5/
 published_time: 2022-03-04 12:16:54-05:00
 title: "Statement by Vice President Kamala\_Harris on Florida House Bill\_5"
 ---

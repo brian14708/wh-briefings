@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 17:10:09-04:00
 published_time: 2024-09-06 17:10:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/
 tags: presidential-actions
 title: "Executive Order on Investing in America and Investing in American\_Workers"
 ---

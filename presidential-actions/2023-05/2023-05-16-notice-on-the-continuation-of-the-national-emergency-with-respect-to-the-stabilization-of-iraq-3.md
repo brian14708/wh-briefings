@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 12:21:26-04:00
 published_time: 2023-05-16 12:21:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to the Stabilization\
   \ of\_Iraq"

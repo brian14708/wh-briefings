@@ -2,7 +2,7 @@
 date: '2022-10-18'
 modified_time: 2022-10-18 18:23:08-04:00
 published_time: 2022-10-18 19:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-president-biden-to-announce-new-actions-to-strengthen-u-s-energy-security-encourage-production-and-bring-down-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-president-biden-to-announce-new-actions-to-strengthen-u-s-energy-security-encourage-production-and-bring-down-costs/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Announce New Actions to Strengthen U.S. Energy\
   \ Security, Encourage Production, and Bring Down\_Costs"

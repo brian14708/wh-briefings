@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-03-08'
 modified_time: 2021-03-08 14:07:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/08/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-12/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/03/08/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-12/
 published_time: 2021-03-08 14:07:45-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -648,4 +648,4 @@ Thank you very much, and we’ll be here again on Wednesday.
 11:39 A.M. EST
 
 To view the COVID Press Briefing slides,
-visit <https://www.whitehouse.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_8March2021_for-release.pdf>
+visit <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_8March2021_for-release.pdf>

@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 13:50:55-05:00
 published_time: 2023-12-20 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-strengthening-u-s-international-space-partnerships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-strengthening-u-s-international-space-partnerships/
 tags: statements-releases
 title: "FACT SHEET: Strengthening U.S. International Space\_Partnerships"
 ---
@@ -39,7 +39,7 @@ peaceful, and sustainable use of space, to include promoting
 international rules and norms of responsible behavior.  A key element of
 that effort is the U.S. [commitment not to conduct destructive
 direct-ascent anti-satellite missile
-testing](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-vice-president-harris-on-the-ongoing-work-to-establish-norms-in-space/). 
+testing](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-vice-president-harris-on-the-ongoing-work-to-establish-norms-in-space/). 
 As of today, 36 other countries have made their own national
 commitments.   
   
@@ -216,7 +216,7 @@ The Vice President will announce the following initiatives:
 
 -   **Improving Societal Health in South America and Africa Using
     Environmental Data:** In [April
-    2023](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-a-visit-to-nasa-goddard-space-flight-center/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-a-visit-to-nasa-goddard-space-flight-center/),
     Vice President Harris directed the National Space Council to develop
     a plan to enhance air quality monitoring in the Southern
     Hemisphere.  To help fulfill that direction, NASA is deepening
@@ -299,7 +299,7 @@ President will announce the following:
 -   **Improving Space Weather Forecasting:** The Office of Science and
     Technology Policy will release its [Implementation Plan of the
     National Space Weather Strategy and Action
-    Plan](https://www.whitehouse.gov/ostp/news-updates/2023/12/20/improving-space-weather-forecasting-for-u-s-safety-and-security/),
+    Plan](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/12/20/improving-space-weather-forecasting-for-u-s-safety-and-security/),
     which brings together Federal Departments and Agencies to continue
     to build capabilities to improve the safety and security of our
     nation, and to protect the lives of our astronauts, during space

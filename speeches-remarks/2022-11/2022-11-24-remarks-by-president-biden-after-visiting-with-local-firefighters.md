@@ -2,7 +2,7 @@
 date: '2022-11-24'
 modified_time: 2022-11-24 12:05:39-05:00
 published_time: 2022-11-24 12:05:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/24/remarks-by-president-biden-after-visiting-with-local-firefighters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/24/remarks-by-president-biden-after-visiting-with-local-firefighters/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Visiting With Local\_Firefighters"
 ---

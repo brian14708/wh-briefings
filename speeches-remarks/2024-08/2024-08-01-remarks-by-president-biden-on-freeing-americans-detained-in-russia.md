@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-01 14:08:55-04:00
 published_time: 2024-08-01 14:08:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-president-biden-on-freeing-americans-detained-in-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/01/remarks-by-president-biden-on-freeing-americans-detained-in-russia/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Freeing Americans Detained in\_Russia"
 ---

@@ -2,7 +2,7 @@
 date: '2023-01-24'
 modified_time: 2023-01-24 17:01:07-05:00
 published_time: 2023-01-24 13:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/24/fact-sheet-biden-harris-administration-expands-access-to-capital-and-support-for-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/24/fact-sheet-biden-harris-administration-expands-access-to-capital-and-support-for-small-businesses/
 tags: statements-releases
 title: "FACT SHEET:\_Biden-\u2060Harris Administration Expands Access to Capital and\
   \ Support for Small\_Businesses"

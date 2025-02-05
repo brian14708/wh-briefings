@@ -2,7 +2,7 @@
 date: '2024-02-22'
 modified_time: 2024-02-23 12:31:14-05:00
 published_time: 2024-02-22 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-president-biden-at-a-campaign-reception-los-altos-hills-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/22/remarks-by-president-biden-at-a-campaign-reception-los-altos-hills-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Los Altos Hills,\_CA"
 ---

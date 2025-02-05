@@ -2,7 +2,7 @@
 date: '2023-05-04'
 modified_time: 2023-05-04 00:07:59-04:00
 published_time: 2023-05-04 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/04/remarks-as-prepared-by-nec-director-and-white-house-competition-council-chair-lael-brainard-at-the-american-economic-liberties-projects-anti-monopoly-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/04/remarks-as-prepared-by-nec-director-and-white-house-competition-council-chair-lael-brainard-at-the-american-economic-liberties-projects-anti-monopoly-summit/
 tags: speeches-remarks
 title: "Remarks as Prepared by NEC Director and White\_House Competition Council Chair\
   \ Lael Brainard at the American Economic Liberties Project\u2019s Anti-Monopoly\_\

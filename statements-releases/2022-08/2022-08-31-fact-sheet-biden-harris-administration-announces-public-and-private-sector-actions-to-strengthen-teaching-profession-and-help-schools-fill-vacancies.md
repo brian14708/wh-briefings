@@ -2,7 +2,7 @@
 date: '2022-08-31'
 modified_time: 2022-08-31 05:03:20-04:00
 published_time: 2022-08-31 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/31/fact-sheet-biden-harris-administration-announces-public-and-private-sector-actions-to-strengthen-teaching-profession-and-help-schools-fill-vacancies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/31/fact-sheet-biden-harris-administration-announces-public-and-private-sector-actions-to-strengthen-teaching-profession-and-help-schools-fill-vacancies/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Announces Public and Private\
   \ Sector Actions to Strengthen Teaching Profession and Help Schools Fill\_Vacancies"
@@ -122,7 +122,7 @@ invest in the teaching profession, including:
     Emergency Relief
     funds](https://oese.ed.gov/files/2021/12/21-0414.DCL_Labor-Shortages.pdf)
     and the $350 billion in [State and Local Fiscal
-    Recovery](https://www.whitehouse.gov/wp-content/uploads/2022/07/SLFRF-Learning-Loss-and-Mental-Health-Toolkit-v0630-CLEAN.pdf)
+    Recovery](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/SLFRF-Learning-Loss-and-Mental-Health-Toolkit-v0630-CLEAN.pdf)
     funds to increase teacher pay. Low pay continues to be a significant
     contributor to a weak teacher pipeline and to a history of high
     turnover rates. [On

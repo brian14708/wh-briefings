@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-11 09:39:55-04:00
 published_time: 2024-07-11 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces New Polar Partnership \u201CICE\
   \ Pact\u201D Alongside Finland and\_Canada"

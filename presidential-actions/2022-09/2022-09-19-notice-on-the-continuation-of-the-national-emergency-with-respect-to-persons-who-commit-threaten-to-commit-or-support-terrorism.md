@@ -1,7 +1,7 @@
 ---
 date: '2022-09-19'
 published_time: 2022-09-19 17:36:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/19/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/19/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Persons\
   \ who Commit, Threaten to Commit, or Support\_Terrorism"

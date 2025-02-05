@@ -2,7 +2,7 @@
 date: '2023-05-25'
 modified_time: 2023-05-25 16:27:03-04:00
 published_time: 2023-05-25 16:26:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/25/remarks-by-president-biden-announcing-his-intent-to-nominate-the-next-chairman-of-the-joint-chiefs-of-staff/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/25/remarks-by-president-biden-announcing-his-intent-to-nominate-the-next-chairman-of-the-joint-chiefs-of-staff/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Announcing His Intent to Nominate the Next Chairman\
   \ of the Joint Chiefs of\_Staff"

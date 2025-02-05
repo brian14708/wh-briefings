@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-22'
 modified_time: 2021-04-22 11:06:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/executive-summary-u-s-international-climate-finance-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/22/executive-summary-u-s-international-climate-finance-plan/
 published_time: 2021-04-22 11:06:11-04:00
 title: "EXECUTIVE SUMMARY: U.S. International Climate Finance\_Plan"
 ---
@@ -123,4 +123,4 @@ in FY 2023 to take stock of progress and assess whether changes are
 needed to increase ambition and impact.
 
 *To view the U.S. International Climate Finance Plan in your browser,
-click [here](https://www.whitehouse.gov/wp-content/uploads/2021/04/U.S.-International-Climate-Finance-Plan-4.22.21-Updated-Spacing.pdf).*
+click [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/U.S.-International-Climate-Finance-Plan-4.22.21-Updated-Spacing.pdf).*

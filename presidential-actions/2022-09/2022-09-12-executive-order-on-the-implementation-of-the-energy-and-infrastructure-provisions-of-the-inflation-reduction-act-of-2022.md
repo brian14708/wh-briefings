@@ -1,7 +1,7 @@
 ---
 date: '2022-09-12'
 published_time: 2022-09-12 19:15:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-the-implementation-of-the-energy-and-infrastructure-provisions-of-the-inflation-reduction-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-the-implementation-of-the-energy-and-infrastructure-provisions-of-the-inflation-reduction-act-of-2022/
 tags: presidential-actions
 title: "Executive Order on the Implementation of the Energy and Infrastructure Provisions\
   \ of the Inflation Reduction Act of\_2022"

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 17:10:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-child-health-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-child-health-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Child Health Day,\_2022"
 ---

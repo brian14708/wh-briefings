@@ -1,7 +1,7 @@
 ---
 date: '2023-08-28'
 published_time: 2023-08-28 18:46:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/28/remarks-by-president-biden-and-vice-president-harris-before-a-meeting-with-the-organizers-of-the-60th-anniversary-of-the-march-on-washington-and-members-of-the-king-family/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/28/remarks-by-president-biden-and-vice-president-harris-before-a-meeting-with-the-organizers-of-the-60th-anniversary-of-the-march-on-washington-and-members-of-the-king-family/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris Before a Meeting with\
   \ the Organizers of the 60th Anniversary of the March on Washington and Members\

@@ -2,7 +2,7 @@
 date: '2024-03-06'
 modified_time: 2024-03-07 22:15:24-05:00
 published_time: 2024-03-06 15:41:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes New Steps to Lower Prescription Drug and\
   \ Health Care Costs, Expand Access to Health Care, and Protect\_Consumers"
@@ -241,7 +241,7 @@ Security remain strong for their beneficiaries, now and in the future.
     substantially extend solvency for the Medicare HI Trust Fund,
     guaranteeing seniors the benefits they have been promised.  
 -   **Protects Seniors’ Health and Dignity.** As President Biden
-    [pledged](https://www.whitehouse.gov/state-of-the-union-2022/) to do
+    [pledged](https://bidenwhitehouse.archives.gov/state-of-the-union-2022/) to do
     two years ago in the State of the Union, the Biden-Harris
     Administration is “set\[ting\] higher standards for nursing homes
     and make sure your loved ones get the care they deserve and that

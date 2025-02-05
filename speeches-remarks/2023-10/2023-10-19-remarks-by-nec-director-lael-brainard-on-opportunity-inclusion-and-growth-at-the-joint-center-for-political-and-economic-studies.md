@@ -2,7 +2,7 @@
 date: '2023-10-19'
 modified_time: 2023-10-20 09:54:42-04:00
 published_time: 2023-10-19 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/19/remarks-by-nec-director-lael-brainard-on-opportunity-inclusion-and-growth-at-the-joint-center-for-political-and-economic-studies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/19/remarks-by-nec-director-lael-brainard-on-opportunity-inclusion-and-growth-at-the-joint-center-for-political-and-economic-studies/
 tags: speeches-remarks
 title: "Remarks by NEC Director Lael Brainard on Opportunity, Inclusion, and Growth\
   \ at the Joint Center for Political and Economic\_Studies"

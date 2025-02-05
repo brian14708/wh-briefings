@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 13:03:47-04:00
 published_time: 2022-07-14 13:03:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/remarks-by-president-biden-and-prime-minister-yair-lapid-of-the-state-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/remarks-by-president-biden-and-prime-minister-yair-lapid-of-the-state-of-israel/
 tags: statements-releases
 title: "Remarks by President\_Biden and Prime Minister Yair Lapid of the State of\_\
   Israel"

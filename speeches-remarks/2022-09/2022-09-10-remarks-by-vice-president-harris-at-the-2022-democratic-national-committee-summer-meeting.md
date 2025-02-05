@@ -1,7 +1,7 @@
 ---
 date: '2022-09-10'
 published_time: 2022-09-10 19:34:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/10/remarks-by-vice-president-harris-at-the-2022-democratic-national-committee-summer-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/10/remarks-by-vice-president-harris-at-the-2022-democratic-national-committee-summer-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the 2022 Democratic National Committee\
   \ Summer\_Meeting"

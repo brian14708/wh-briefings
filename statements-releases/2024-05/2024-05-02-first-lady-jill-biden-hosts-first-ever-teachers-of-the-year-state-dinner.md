@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-02 16:55:13-04:00
 published_time: 2024-05-02 16:55:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/first-lady-jill-biden-hosts-first-ever-teachers-of-the-year-state-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/first-lady-jill-biden-hosts-first-ever-teachers-of-the-year-state-dinner/
 tags: statements-releases
 title: "First Lady Jill\_Biden Hosts First-Ever \u201CTeachers of the Year\u201D State\_\
   Dinner"
@@ -15,7 +15,7 @@ and the State Teachers of the Year from across the country for their
 excellence in teaching and commitment to students’ learning.  Ahead of
 tonight’s dinner and Teacher Appreciation Week, the Biden-Harris
 Administration [announced
-new](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-%E2%81%A0harris-administration-announces-new-actions-to-support-and-strengthen-the-teaching-profession/) efforts
+new](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-%E2%81%A0harris-administration-announces-new-actions-to-support-and-strengthen-the-teaching-profession/) efforts
 to strengthen the teaching profession and support schools across the
 country.
 

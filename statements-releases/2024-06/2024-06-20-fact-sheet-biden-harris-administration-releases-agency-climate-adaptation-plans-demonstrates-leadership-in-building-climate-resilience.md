@@ -2,7 +2,7 @@
 date: '2024-06-20'
 modified_time: 2024-06-19 22:03:39-04:00
 published_time: 2024-06-20 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-releases-agency-climate-adaptation-plans-demonstrates-leadership-in-building-climate-resilience/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Agency Climate Adaptation\
   \ Plans, Demonstrates Leadership in Building Climate\_Resilience"
@@ -29,7 +29,7 @@ efforts to ensure their facilities, employees, resources, and operations
 are increasingly resilient to climate change impacts like extreme
 weather. This work advances the Biden-Harris Administration’s [National
 Climate Resilience
-Framework](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
+Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
 which helps to align climate resilience investments across the public
 and private sector through common principles and opportunities for
 action to build a climate-resilient nation. These efforts are backed by
@@ -41,14 +41,14 @@ vulnerable to climate impacts.
 At the beginning of his Administration, President Biden tasked agencies
 with leading a whole-of-government effort to address climate change
 through Executive Order 14008, [*Tackling the Climate
-Cris*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)[*i*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)[*s
+Cris*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)[*i*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)[*s
 at Home and
-Abroad*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
+Abroad*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
 Federal agencies [released initial Climate Adaptation Plans in
-2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
+2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-biden-administration-releases-agency-climate-adaptation-and-resilience-plans-from-across-federal-government/)
 and progress reports outlining advancements toward achieving their
 adaptation goals [in
-2022](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/06/fact-sheet-biden-harris-administration-strengthens-the-federal-governments-resilience-to-climate-change-impacts/).
+2022](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/06/fact-sheet-biden-harris-administration-strengthens-the-federal-governments-resilience-to-climate-change-impacts/).
 With more than 300,000 buildings, four million employees, 640 million
 acres of public land, and $700 billion in annual purchases of goods and
 services, the federal government must continue to be a leader and
@@ -72,16 +72,16 @@ including:
 -   Linking climate adaptation actions with **other Biden-Harris
     Administration priorities**, including advancing environmental
     justice and the President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     strengthening engagement with Tribal Nations, supporting the
     [*America the
     Beautiful*](https://www.conservation.gov/pages/america-the-beautiful-initiative)
     [initiative](https://www.conservation.gov/pages/america-the-beautiful-initiative),
     scaling up [nature-based
-    solutions](https://www.whitehouse.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Roadmap.pdf),
+    solutions](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Roadmap.pdf),
     mobilizing the next generation of climate resilience workers through
     the [American Climate
-    Corps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/),
+    Corps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/),
     and addressing the causes of climate change through climate
     mitigation; and
 -   Adopting [common progress
@@ -188,7 +188,7 @@ operations and mission-delivery include:
     climate impacts on federally-supported projects and advancing
     climate resilience through federal project delivery and
     grant-making, including incorporating [climate-smart
-    infrastructure](https://www.whitehouse.gov/wp-content/uploads/2023/11/M-24-03-Advancing-Climate-Resilience-through-Climate-Smart-Infrastructure-Investments.pdf)
+    infrastructure](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/M-24-03-Advancing-Climate-Resilience-through-Climate-Smart-Infrastructure-Investments.pdf)
     practices across the Administration’s historic infrastructure
     investments. **Department of State** Bureaus have reviewed grant and
     foreign assistance announcements and requirements to ensure relevant

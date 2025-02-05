@@ -1,7 +1,7 @@
 ---
 date: '2022-10-20'
 published_time: 2022-10-20 14:51:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/20/remarks-by-president-biden-before-marine-one-departure-22/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/20/remarks-by-president-biden-before-marine-one-departure-22/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

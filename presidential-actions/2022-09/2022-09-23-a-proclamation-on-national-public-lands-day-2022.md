@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-23 11:49:02-04:00
 published_time: 2022-09-23 11:49:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/23/a-proclamation-on-national-public-lands-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/23/a-proclamation-on-national-public-lands-day-2022/
 tags: presidential-actions
 title: "A Proclamation on National Public Lands Day,\_2022"
 ---

@@ -2,7 +2,7 @@
 date: '2025-01-04'
 modified_time: 2025-01-03 22:28:28-05:00
 published_time: 2025-01-04 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/04/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivan-to-travel-to-new-delhi-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/04/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivan-to-travel-to-new-delhi-india/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on National Security Advisor Jake\
   \ Sullivan to Travel to New Delhi,\_India"

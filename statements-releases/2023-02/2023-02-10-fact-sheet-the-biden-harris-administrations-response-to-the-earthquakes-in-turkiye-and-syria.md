@@ -2,7 +2,7 @@
 date: '2023-02-10'
 modified_time: 2023-02-10 16:48:55-05:00
 published_time: 2023-02-10 16:48:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-the-biden-harris-administrations-response-to-the-earthquakes-in-turkiye-and-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-the-biden-harris-administrations-response-to-the-earthquakes-in-turkiye-and-syria/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Response to the Earthquakes\
   \ in T\xFCrkiye and\_Syria"
@@ -17,7 +17,7 @@ Across the U.S. government, officials expressed their condolences to the
 people of Türkiye and Syria as well as their desire to support the
 humanitarian response. In the hours following the earthquakes,
 [President Biden called President
-Erdogan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/readout-of-president-bidens-call-with-president-erdogan-of-turkiye/)
+Erdogan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/readout-of-president-bidens-call-with-president-erdogan-of-turkiye/)
 to convey the readiness of the U.S. government to provide any and all
 needed assistance to our NATO Ally Türkiye. Secretary Tony Blinken,
 Secretary Lloyd Austin, and National Security Advisor Jake Sullivan

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-02'
 published_time: 2023-10-02 18:45:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/10/02/press-release-bill-signed-s-475/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/10/02/press-release-bill-signed-s-475/
 tags: legislation
 title: "Press Release: Bill Signed: S.\_475"
 ---

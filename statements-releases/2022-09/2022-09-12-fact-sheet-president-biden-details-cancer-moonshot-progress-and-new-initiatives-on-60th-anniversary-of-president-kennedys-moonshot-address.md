@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-12 13:03:34-04:00
 published_time: 2022-09-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-details-cancer-moonshot-progress-and-new-initiatives-on-60th-anniversary-of-president-kennedys-moonshot-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-details-cancer-moonshot-progress-and-new-initiatives-on-60th-anniversary-of-president-kennedys-moonshot-address/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Details Cancer Moonshot Progress and New Initiatives\
   \ on 60th Anniversary of President Kennedy\u2019s Moonshot\_Address"
@@ -38,12 +38,12 @@ Administration is taking to deliver on this mission for the American
 people, and discuss progress made to date, including:
 
 -   [Announcing Dr. Renee Wegrzyn as the inaugural Director of
-    ARPA-H](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/president-biden-announces-intent-to-appoint-dr-renee-wegrzyn-as-inaugural-director-of-advanced-research-projects-agency-for-health-arpa-h/),
+    ARPA-H](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/president-biden-announces-intent-to-appoint-dr-renee-wegrzyn-as-inaugural-director-of-advanced-research-projects-agency-for-health-arpa-h/),
     a new agency to drive biomedical innovation that supports the health
     of all Americans; and
 -   [Signing an Executive Order to launch a National Biotechnology and
     Biomanufacturing
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/)
     to ensure the United States makes cutting-edge biotechnologies and
     other innovations;
 -   The Cancer Cabinet’s progress towards delivering game-changing
@@ -54,7 +54,7 @@ people, and discuss progress made to date, including:
 
 In March, President Biden created the [Advanced Research Projects Agency
 for Health
-(ARPA-H)](https://www.whitehouse.gov/ostp/advanced-research-projects-agency-for-health-arpa-h/)
+(ARPA-H)](https://bidenwhitehouse.archives.gov/ostp/advanced-research-projects-agency-for-health-arpa-h/)
 to improve the U.S. government’s ability to speed health and biomedical
 research. Today, President Biden is announcing his intention to appoint
 Dr. Renee Wegrzyn as the inaugural director of the new agency.  
@@ -112,7 +112,7 @@ months ago, the first-ever Cancer Cabinet was formed to mobilize all
 levers of the federal government and realize the President’s vision of
 ending cancer as we know it. In July 2022, the Cancer Cabinet [unveiled
 priority
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/fact-sheet-president-biden-appoints-cancer-panel-members-and-cancer-cabinet-unveils-priority-actions/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/fact-sheet-president-biden-appoints-cancer-panel-members-and-cancer-cabinet-unveils-priority-actions/)
 to: (1) close the screening gap, (2) understand and address
 environmental exposure, (3) decrease the impact of preventable cancers,
 (4) bring cutting edge research through the pipeline to patients and
@@ -168,10 +168,10 @@ reaching these goals:
 -   **White House Office of Science and Technology Policy (OSTP) Issues
     Guidance to Make Federally-Funded Research Available: **Recently,
     the Biden-Harris Administration [updated U.S. policy
-    guidance](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
+    guidance](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)
     to make the results of taxpayer-supported research immediately
     available to the American public at no cost. In
-    a [memorandum](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf) to
+    a [memorandum](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf) to
     federal departments and agencies, Dr. Alondra Nelson, the head of
     OSTP, delivered guidance for agencies to update their public access
     policies as soon as possible and no later than December 31, 2025 to

@@ -2,7 +2,7 @@
 date: '2022-08-18'
 modified_time: 2022-08-18 13:38:58-04:00
 published_time: 2022-08-18 13:38:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/
 tags: statements-releases
 title: "FACT SHEET: How the Inflation Reduction Act Helps Tribal\_Communities"
 ---

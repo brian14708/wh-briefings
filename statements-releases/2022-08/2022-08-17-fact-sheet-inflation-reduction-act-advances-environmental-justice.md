@@ -1,7 +1,7 @@
 ---
 date: '2022-08-17'
 published_time: 2022-08-17 17:52:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/
 tags: statements-releases
 title: "FACT SHEET: Inflation Reduction Act Advances Environmental\_Justice"
 ---
@@ -30,13 +30,13 @@ energy.
 
 The Inflation Reduction Act builds on the historic investments in
 President Biden’s [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/#:~:text=The%20Bipartisan%20Infrastructure%20Law%20delivers,orphaned%20oil%20and%20gas%20wells.)
+Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/#:~:text=The%20Bipartisan%20Infrastructure%20Law%20delivers,orphaned%20oil%20and%20gas%20wells.)
 and advances his [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which will deliver 40 percent of the overall benefits of climate and
 clean energy investments to disadvantaged communities. In total,
 [hundreds of federal
-programs](https://www.whitehouse.gov/ceq/news-updates/2022/07/26/icymi-biden-harris-administration-announces-additional-covered-programs-for-inclusion-in-the-justice40-initiative/),
+programs](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/07/26/icymi-biden-harris-administration-announces-additional-covered-programs-for-inclusion-in-the-justice40-initiative/),
 including those established by the Inflation Reduction Act and
 Bipartisan Law, representing historic investments are being reimagined
 and transformed to meet the Justice40 goal and maximize benefits to

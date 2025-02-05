@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 16:05:15-05:00
 published_time: 2022-12-14 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/president-biden-announces-presidential-delegation-to-qatar-to-attend-the-closing-ceremonies-of-the-2022-fifa-world-cup/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/president-biden-announces-presidential-delegation-to-qatar-to-attend-the-closing-ceremonies-of-the-2022-fifa-world-cup/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Qatar to Attend the\
   \ Closing Ceremonies of the 2022 FIFA World\_Cup"

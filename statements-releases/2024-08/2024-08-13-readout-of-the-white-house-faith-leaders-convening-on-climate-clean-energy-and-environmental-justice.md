@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 14:57:30-04:00
 published_time: 2024-08-13 14:57:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/readout-of-the-white-house-faith-leaders-convening-on-climate-clean-energy-and-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/readout-of-the-white-house-faith-leaders-convening-on-climate-clean-energy-and-environmental-justice/
 tags: statements-releases
 title: "Readout of the White\_House Faith Leaders Convening on Climate, Clean Energy,\
   \ and Environmental\_Justice"
@@ -15,7 +15,7 @@ representatives of faith-based organizations from across the country for
 the first time to discuss opportunities to benefit from and further
 engage their communities on President Biden’s climate, clean energy, and
 environmental justice agenda, including through the use of [Direct
-Pay](https://www.whitehouse.gov/cleanenergy/directpay/) – a novel
+Pay](https://bidenwhitehouse.archives.gov/cleanenergy/directpay/) – a novel
 provision provided through the Inflation Reduction Act that enables
 tax-exempt entities, including houses of worship, to benefit from
 federal clean energy tax incentives.
@@ -27,7 +27,7 @@ highlighted how meaningful community engagement with faith leaders and
 organizations can advance the Biden-Harris Administration’s work to
 build the nation’s clean energy economy. This includes through Direct
 Pay and programs covered under the President’s [Justice40
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administration-delivers-environmental-justice-with-cleaner-air-clean-water-and-healthier-communities/),
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/24/fact-sheet-biden-harris-administration-delivers-environmental-justice-with-cleaner-air-clean-water-and-healthier-communities/),
 which sets a goal that 40% of the overall benefits of certain federal
 climate, clean energy, and other investments flow to disadvantaged
 communities that are marginalized by underinvestment and overburdened by

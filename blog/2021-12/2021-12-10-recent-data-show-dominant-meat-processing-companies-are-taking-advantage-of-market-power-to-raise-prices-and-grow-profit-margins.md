@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-12-10'
 modified_time: 2021-12-15 16:28:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/
 published_time: 2021-12-10 12:00:00-05:00
 title: "Recent Data Show Dominant Meat Processing Companies Are Taking Advantage of\
   \ Market Power to Raise Prices and Grow Profit\_Margins"
@@ -21,7 +21,7 @@ advantage of their market power to raise prices while increasing their
 own profit margins. Meat prices are a good example. 
 
 In September, we
-[explained](https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
+[explained](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
 that meat prices are the biggest contributor to the rising cost of
 groceries, in part because just a few large corporations dominate meat
 processing. **The November Consumer Price Index data released this
@@ -47,7 +47,7 @@ shareholders since the pandemic began.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/net-income.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/net-income.jpg"
 class="wp-image-41531" loading="lazy" width="600" height="243" />
 </figure>
 
@@ -76,7 +76,7 @@ while actually selling *less beef* than before.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/12/gross-profits-and-margins-.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/gross-profits-and-margins-.jpg"
 class="wp-image-41533" loading="lazy" width="600" height="244" />
 </figure>
 
@@ -89,7 +89,7 @@ promoting competition is a core part of the Biden-Harris
 Administration’s economic agenda.
 
 The Administration has [already
-announced](https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
+announced](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
 strong actions to crack down on illegal price fixing and enforce the
 antitrust laws robustly, investments of hundreds of millions of dollars
 to create more competition in meat-processing, over a billion dollars in

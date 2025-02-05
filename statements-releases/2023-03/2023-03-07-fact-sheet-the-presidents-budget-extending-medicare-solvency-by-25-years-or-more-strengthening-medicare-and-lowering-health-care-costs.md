@@ -2,7 +2,7 @@
 date: '2023-03-07'
 modified_time: 2023-03-06 21:07:18-05:00
 published_time: 2023-03-07 05:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/fact-sheet-the-presidents-budget-extending-medicare-solvency-by-25-years-or-more-strengthening-medicare-and-lowering-health-care-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/fact-sheet-the-presidents-budget-extending-medicare-solvency-by-25-years-or-more-strengthening-medicare-and-lowering-health-care-costs/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget: Extending Medicare Solvency by 25\
   \ Years or More, Strengthening Medicare, and Lowering Health Care\_Costs"

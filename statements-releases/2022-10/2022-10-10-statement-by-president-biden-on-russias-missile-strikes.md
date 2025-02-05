@@ -1,7 +1,7 @@
 ---
 date: '2022-10-10'
 published_time: 2022-10-10 12:13:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/10/statement-by-president-biden-on-russias-missile-strikes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/10/statement-by-president-biden-on-russias-missile-strikes/
 tags: statements-releases
 title: "Statement by President\_Biden on Russia\u2019s Missile\_Strikes"
 ---

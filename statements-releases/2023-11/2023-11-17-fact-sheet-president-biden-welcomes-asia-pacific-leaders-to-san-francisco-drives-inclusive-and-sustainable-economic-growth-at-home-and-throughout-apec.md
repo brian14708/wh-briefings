@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 published_time: 2023-11-17 21:24:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/fact-sheet-president-biden-welcomes-asia-pacific-leaders-to-san-francisco-drives-inclusive-and-sustainable-economic-growth-at-home-and-throughout-apec/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/fact-sheet-president-biden-welcomes-asia-pacific-leaders-to-san-francisco-drives-inclusive-and-sustainable-economic-growth-at-home-and-throughout-apec/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Welcomes Asia-Pacific Leaders To San Francisco,\
   \ Drives Inclusive and Sustainable Economic Growth at Home and Throughout\_APEC"
@@ -32,7 +32,7 @@ catalyzing historic investment from the Asia-Pacific to support growth
 here at home.
 
 -   **APEC Economies are [Investing in
-    America](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-highlights-nearly-200-billion-of-private-sector-investments-from-the-asia-pacific-into-the-united-states-since-taking-office/). **President
+    America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-highlights-nearly-200-billion-of-private-sector-investments-from-the-asia-pacific-into-the-united-states-since-taking-office/). **President
     Biden’s economic policies, combined with deep economic ties with
     Asia-Pacific countries, are driving historic investments into the
     United States across key sectors. Companies based in the
@@ -53,7 +53,7 @@ here at home.
     Across APEC. **Over the course of the U.S. APEC host year,
     U.S.-based companies represented at the APEC Summit
     announced **[over $50
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-50b-of-u-s-private-sector-investments-into-apec-economies-as-well-as-private-sector-contributions-to-sustainability-inclusivity-and-resilience/)** in
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-50b-of-u-s-private-sector-investments-into-apec-economies-as-well-as-private-sector-contributions-to-sustainability-inclusivity-and-resilience/)** in
     new investments into the Asia-Pacific, including nearly $25 billion
     to increase digital connectivity; new subsea cables that will result
     in more than $1 trillion in GDP; 50+ new direct flights per week
@@ -82,7 +82,7 @@ deepen bilateral ones.
     high-standard trade and investment, and tackle pressing issues
     facing our countries, including vulnerable supply chains, clean
     energy transitions, and corruption. This week, the
-    President [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-in-san-francisco-president-biden-and-13-partners-announce-key-outcomes-to-fuel-inclusive-sustainable-growth-as-part-of-the-indo-pacific-economic-framework-for-prosperity/) that
+    President [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-in-san-francisco-president-biden-and-13-partners-announce-key-outcomes-to-fuel-inclusive-sustainable-growth-as-part-of-the-indo-pacific-economic-framework-for-prosperity/) that
     the United States and our IPEF partners have negotiated
     first-of-their-kind agreements to achieve these goals, including a
     Supply Chain Agreement that will help partners promote
@@ -97,7 +97,7 @@ deepen bilateral ones.
     in the United States and in the Indo-Pacific, the United States
     hosted a regional PGI Investor Forum with IPEF governments and the
     U.S. private sector. At the Investor Forum, the United
-    States [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-partnership-for-global-infrastructure-and-investment-pgi-indo-pacific-economic-framework-for-prosperity-ipef-investor-forum/) new
+    States [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-partnership-for-global-infrastructure-and-investment-pgi-indo-pacific-economic-framework-for-prosperity-ipef-investor-forum/) new
     transformative investments from the U.S. Government and U.S. private
     sector and launched the PGI IPEF Investment Accelerator to scale
     high-standard project financing to drive sustainable economic growth
@@ -110,7 +110,7 @@ deepen bilateral ones.
     Strategy. **President Biden has also been clear that growth must
     support workers—both in the United States and around the world. This
     week, President
-    Biden [signed](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-president-biden-takes-historic-step-to-advance-worker-empowerment-rights-and-high-labor-standards-globally/) the
+    Biden [signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-president-biden-takes-historic-step-to-advance-worker-empowerment-rights-and-high-labor-standards-globally/) the
     first-ever Presidential Memorandum outlining the Administration’s
     commitment to workers’ rights globally.  In doing so, President
     Biden is directing Federal departments and agencies to advance labor
@@ -123,7 +123,7 @@ deepen bilateral ones.
     economic engagement.
 -   **Launching the Women in the Sustainable Economy (WISE)
     Initiative. **This week at APEC, the Vice
-    President [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/) the
+    President [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/) the
     Women in the Sustainable Economy (WISE) Initiative, with more than
     $900 million in commitments—including over $163 million in U.S.
     government commitments — by governments, private sector companies,
@@ -161,8 +161,8 @@ Host Year focused on key priorities for future regional growth.
     was issued alongside a companion Chair’s Statement which reflects
     the Leaders’ discussion on Russia’s aggression in Ukraine and other
     geopolitical issues. Read the Golden Gate
-    Declaration **[here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/)**,
+    Declaration **[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/)**,
     and read the Chair’s Statement of the APEC Leader’s
-    Summit **[here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/)**.
+    Summit **[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/)**.
 
 \###

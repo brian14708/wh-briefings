@@ -2,7 +2,7 @@
 date: '2023-06-02'
 modified_time: 2023-06-02 19:08:56-04:00
 published_time: 2023-06-02 21:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/joint-statement-following-the-meeting-between-national-security-advisor-jake-sullivan-and-national-security-advisor-sheikh-tahnoon-bin-zayed-al-nahyan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/joint-statement-following-the-meeting-between-national-security-advisor-jake-sullivan-and-national-security-advisor-sheikh-tahnoon-bin-zayed-al-nahyan/
 tags: statements-releases
 title: "Joint Statement Following the Meeting Between National Security Advisor Jake\
   \ Sullivan and National Security Advisor Sheikh Tahnoon bin Zayed Al\_Nahyan"

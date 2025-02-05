@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-11 11:10:29-04:00
 published_time: 2024-07-10 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/10/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-at-dinner-with-nato-allies-and-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/10/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-at-dinner-with-nato-allies-and-partners/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and NATO Secretary-General Jens Stoltenberg at\
   \ Dinner with NATO Allies and\_Partners"

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 12:13:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/g7-statement-on-ukraine-11-october-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/g7-statement-on-ukraine-11-october-2022/
 tags: statements-releases
 title: "G7 Statement on Ukraine, 11 October\_2022"
 ---

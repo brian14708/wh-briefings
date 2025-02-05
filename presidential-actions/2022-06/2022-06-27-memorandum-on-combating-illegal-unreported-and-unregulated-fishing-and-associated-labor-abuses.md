@@ -1,7 +1,7 @@
 ---
 date: '2022-06-27'
 published_time: 2022-06-27 11:54:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-combating-illegal-unreported-and-unregulated-fishing-and-associated-labor-abuses/
 tags: presidential-actions
 title: "Memorandum on Combating Illegal, Unreported, and Unregulated Fishing and Associated\
   \ Labor\_Abuses"

@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-16 22:15:57-05:00
 published_time: 2023-11-17 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-2023-parapan-american-games-in-santiago-chile/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-2023-parapan-american-games-in-santiago-chile/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to attend the Opening Ceremony\
   \ of the 2023 Parapan American Games in Santiago,\_Chile"

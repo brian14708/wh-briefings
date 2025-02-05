@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-08'
 modified_time: 2021-09-08 09:40:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/08/president-biden-announces-intent-to-appoint-dr-tony-allen-as-chair-of-the-presidents-board-of-advisors-on-historically-black-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/08/president-biden-announces-intent-to-appoint-dr-tony-allen-as-chair-of-the-presidents-board-of-advisors-on-historically-black-colleges-and-universities/
 published_time: 2021-09-08 09:40:26-04:00
 title: "President\_Biden Announces Intent to Appoint Dr. Tony Allen as Chair of the\
   \ President\u2019s Board of Advisors on Historically Black Colleges and\_Universities"
@@ -23,7 +23,7 @@ mission of HBCUs.  Through the American Rescue Plan and by forgiving
 capital improvement debt of many these institutions, the Biden-Harris
 Administration has already committed more than $4 billion in support. 
 [Reestablishing the White House HBCU
-Initiative](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
 – and placing strong leadership at the head of the Board – will allow
 the administration to build on that financial commitment with continued
 institutional support.    

@@ -2,7 +2,7 @@
 date: '2022-09-19'
 modified_time: 2022-09-19 16:17:34-04:00
 published_time: 2022-09-19 16:17:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/19/readout-of-president-joe-bidens-call-with-governor-pedro-pierluisi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/19/readout-of-president-joe-bidens-call-with-governor-pedro-pierluisi/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Governor Pedro\_Pierluisi"
 ---

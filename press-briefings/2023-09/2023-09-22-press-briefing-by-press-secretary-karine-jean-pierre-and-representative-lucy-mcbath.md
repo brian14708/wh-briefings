@@ -2,7 +2,7 @@
 date: '2023-09-22'
 modified_time: 2023-09-22 18:34:59-04:00
 published_time: 2023-09-22 18:34:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/22/press-briefing-by-press-secretary-karine-jean-pierre-and-representative-lucy-mcbath/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/22/press-briefing-by-press-secretary-karine-jean-pierre-and-representative-lucy-mcbath/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Representative Lucy\_\
   McBath"

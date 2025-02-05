@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 17:24:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-kosovan-prime-minister-albin-kurti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-kosovan-prime-minister-albin-kurti/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Call\
   \ with Kosovan Prime Minister Albin\_Kurti"

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-30'
 published_time: 2023-03-30 11:21:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/30/a-proclamation-on-cesar-chavez-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/30/a-proclamation-on-cesar-chavez-day-2023/
 tags: presidential-actions
 title: "A Proclamation on C\xE9sar Ch\xE1vez Day,\_2023"
 ---

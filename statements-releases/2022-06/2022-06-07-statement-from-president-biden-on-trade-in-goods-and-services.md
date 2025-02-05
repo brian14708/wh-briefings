@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 12:21:12-04:00
 published_time: 2022-06-07 12:21:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/statement-from-president-biden-on-trade-in-goods-and-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/statement-from-president-biden-on-trade-in-goods-and-services/
 tags: statements-releases
 title: "Statement from President\_Biden on Trade in Goods and\_Services"
 ---

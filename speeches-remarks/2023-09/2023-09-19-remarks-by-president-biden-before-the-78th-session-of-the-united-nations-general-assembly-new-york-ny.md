@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 published_time: 2023-09-19 15:54:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-before-the-78th-session-of-the-united-nations-general-assembly-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-before-the-78th-session-of-the-united-nations-general-assembly-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before the 78th Session of the United Nations\
   \ General Assembly | New York,\_NY"

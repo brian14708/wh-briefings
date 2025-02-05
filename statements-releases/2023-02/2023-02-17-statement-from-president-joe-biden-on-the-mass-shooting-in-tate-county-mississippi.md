@@ -1,7 +1,7 @@
 ---
 date: '2023-02-17'
 published_time: 2023-02-17 21:11:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/statement-from-president-joe-biden-on-the-mass-shooting-in-tate-county-mississippi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/17/statement-from-president-joe-biden-on-the-mass-shooting-in-tate-county-mississippi/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Mass Shooting in Tate County,\_\
   Mississippi"

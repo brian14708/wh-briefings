@@ -2,7 +2,7 @@
 date: '2023-03-02'
 modified_time: 2023-03-02 17:39:19-05:00
 published_time: 2023-03-02 17:39:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/statement-from-president-joe-biden-on-the-bipartisan-railway-safety-act-of-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/statement-from-president-joe-biden-on-the-bipartisan-railway-safety-act-of-2023/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Bipartisan Railway Safety Act of\_\
   2023"

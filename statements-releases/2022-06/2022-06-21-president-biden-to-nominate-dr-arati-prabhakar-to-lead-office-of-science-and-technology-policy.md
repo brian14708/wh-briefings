@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-21 13:58:11-04:00
 published_time: 2022-06-21 13:57:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/president-biden-to-nominate-dr-arati-prabhakar-to-lead-office-of-science-and-technology-policy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/president-biden-to-nominate-dr-arati-prabhakar-to-lead-office-of-science-and-technology-policy/
 tags: statements-releases
 title: "President\_Biden to Nominate Dr. Arati Prabhakar to Lead Office of Science\
   \ and Technology\_Policy"

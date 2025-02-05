@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 16:59:03-04:00
 published_time: 2022-05-11 16:35:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/11/background-press-call-by-a-senior-administration-official-on-the-u-s-asean-special-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/11/background-press-call-by-a-senior-administration-official-on-the-u-s-asean-special-summit/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on the U.S.-ASEAN\
   \ Special\_Summit"

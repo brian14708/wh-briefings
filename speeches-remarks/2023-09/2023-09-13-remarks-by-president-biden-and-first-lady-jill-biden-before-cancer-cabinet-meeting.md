@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-13 20:13:06-04:00
 published_time: 2023-09-13 20:13:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/13/remarks-by-president-biden-and-first-lady-jill-biden-before-cancer-cabinet-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/13/remarks-by-president-biden-and-first-lady-jill-biden-before-cancer-cabinet-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden Before Cancer Cabinet\_\
   Meeting"

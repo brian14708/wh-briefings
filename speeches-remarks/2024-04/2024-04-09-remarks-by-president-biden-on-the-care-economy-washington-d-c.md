@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-16 14:14:19-04:00
 published_time: 2024-04-09 16:22:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/09/remarks-by-president-biden-on-the-care-economy-washington-d-c/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/09/remarks-by-president-biden-on-the-care-economy-washington-d-c/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Care Economy | Washington,\_D.C."
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-02'
 published_time: 2022-10-02 15:43:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/02/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-head-of-presidential-office-andriy-yermak-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/02/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-head-of-presidential-office-andriy-yermak-of-ukraine/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Head of Presidential Office Andriy Yermak of\_\

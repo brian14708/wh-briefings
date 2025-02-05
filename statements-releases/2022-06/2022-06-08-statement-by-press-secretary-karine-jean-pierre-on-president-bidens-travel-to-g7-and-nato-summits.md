@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-07 21:09:38-04:00
 published_time: 2022-06-08 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-g7-and-nato-summits/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/statement-by-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-g7-and-nato-summits/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to G7 and NATO\_Summits"

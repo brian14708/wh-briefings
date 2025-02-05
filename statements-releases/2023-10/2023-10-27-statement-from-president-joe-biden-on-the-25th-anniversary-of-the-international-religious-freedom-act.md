@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 18:50:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-international-religious-freedom-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-international-religious-freedom-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 25th Anniversary of the International\
   \ Religious Freedom\_Act"

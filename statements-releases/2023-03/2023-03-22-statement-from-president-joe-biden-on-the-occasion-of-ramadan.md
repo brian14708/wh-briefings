@@ -1,7 +1,7 @@
 ---
 date: '2023-03-22'
 published_time: 2023-03-22 17:11:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/22/statement-from-president-joe-biden-on-the-occasion-of-ramadan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/22/statement-from-president-joe-biden-on-the-occasion-of-ramadan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of\_Ramadan"
 ---

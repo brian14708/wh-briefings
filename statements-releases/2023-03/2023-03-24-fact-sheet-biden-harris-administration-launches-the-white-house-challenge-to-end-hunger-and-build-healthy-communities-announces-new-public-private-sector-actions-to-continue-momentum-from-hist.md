@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-27 09:03:28-04:00
 published_time: 2023-03-24 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-end-hunger-and-build-healthy-communities-announces-new-public-private-sector-actions-to-continue-momentum-from-hist/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-end-hunger-and-build-healthy-communities-announces-new-public-private-sector-actions-to-continue-momentum-from-hist/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches the White\_House Challenge\
   \ to End Hunger and Build Healthy Communities, Announces New Public & Private Sector\
@@ -19,12 +19,12 @@ Several organizations and companies are already participating in the
 Challenge by announcing new commitments today. The Challenge builds on
 the success of the $8 billion package of private and public sector
 commitments that the
-Administration [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/) as
+Administration [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/) as
 part of the historic White House Conference on Hunger, Nutrition, and
 Health in September 2022, and complements the Biden-Harris
 Administration’s work to implement the [National Strategy on Hunger,
 Nutrition, and
-Health](https://www.whitehouse.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).  
+Health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf).  
   
 Today, the Biden-Harris Administration will also announce two new
 actions it is taking under the Strategy. The Administration will issue

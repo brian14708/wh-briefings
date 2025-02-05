@@ -2,7 +2,7 @@
 date: '2024-12-05'
 modified_time: 2024-12-06 10:29:15-05:00
 published_time: 2024-12-05 22:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-president-biden-at-the-national-christmas-tree-lighting-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-president-biden-at-the-national-christmas-tree-lighting-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Christmas Tree\_Lighting"
 ---

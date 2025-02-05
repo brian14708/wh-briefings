@@ -2,7 +2,7 @@
 date: '2022-07-31'
 modified_time: 2022-07-31 21:21:11-04:00
 published_time: 2022-07-31 21:20:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/31/statement-of-president-joe-biden-on-the-passing-of-nichelle-nichols/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/31/statement-of-president-joe-biden-on-the-passing-of-nichelle-nichols/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Passing of Nichelle\_Nichols"
 ---

@@ -2,7 +2,7 @@
 date: '2024-12-29'
 modified_time: 2024-12-29 22:25:20-05:00
 published_time: 2024-12-29 22:25:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/29/proclamation-announcing-the-death-of-james-earl-carter-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/29/proclamation-announcing-the-death-of-james-earl-carter-jr/
 tags: presidential-actions
 title: "Proclamation Announcing the Death of James Earl Carter,\_Jr."
 ---

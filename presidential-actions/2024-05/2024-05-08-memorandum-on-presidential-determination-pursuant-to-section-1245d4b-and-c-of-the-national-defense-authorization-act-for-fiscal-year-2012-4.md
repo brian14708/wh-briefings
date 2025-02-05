@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-08 12:50:18-04:00
 published_time: 2024-05-08 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/08/memorandum-on-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-act-for-fiscal-year-2012-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/08/memorandum-on-presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization-act-for-fiscal-year-2012-4/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 1245(d)(4)(B)\
   \ and (C) of the National Defense Authorization Act for Fiscal Year\_2012"

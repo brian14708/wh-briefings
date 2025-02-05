@@ -1,7 +1,7 @@
 ---
 date: '2023-09-28'
 published_time: 2023-09-28 15:42:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/28/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/28/remarks-by-president-biden-at-a-campaign-reception-san-francisco-ca-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | San Francisco,\_CA"
 ---

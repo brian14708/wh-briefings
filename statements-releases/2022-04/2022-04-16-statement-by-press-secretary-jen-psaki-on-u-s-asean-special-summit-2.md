@@ -2,7 +2,7 @@
 date: '2022-04-16'
 modified_time: 2022-04-16 10:16:32-04:00
 published_time: 2022-04-16 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/16/statement-by-press-secretary-jen-psaki-on-u-s-asean-special-summit-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/16/statement-by-press-secretary-jen-psaki-on-u-s-asean-special-summit-2/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on U.S.-ASEAN Special\_Summit"
 ---

@@ -2,7 +2,7 @@
 date: '2024-02-14'
 modified_time: 2024-02-14 15:29:16-05:00
 published_time: 2024-02-14 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/14/memorandum-on-the-deferred-enforced-departure-for-certain-palestinians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/14/memorandum-on-the-deferred-enforced-departure-for-certain-palestinians/
 tags: presidential-actions
 title: "Memorandum on the Deferred Enforced Departure for Certain\_Palestinians"
 ---

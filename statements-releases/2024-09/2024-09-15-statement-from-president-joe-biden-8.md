@@ -2,7 +2,7 @@
 date: '2024-09-15'
 modified_time: 2024-09-15 20:34:10-04:00
 published_time: 2024-09-15 20:34:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/15/statement-from-president-joe-biden-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/15/statement-from-president-joe-biden-8/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

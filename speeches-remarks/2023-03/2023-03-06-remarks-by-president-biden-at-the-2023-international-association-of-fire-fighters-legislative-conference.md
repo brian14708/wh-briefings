@@ -1,7 +1,7 @@
 ---
 date: '2023-03-06'
 published_time: 2023-03-06 18:05:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/06/remarks-by-president-biden-at-the-2023-international-association-of-fire-fighters-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/06/remarks-by-president-biden-at-the-2023-international-association-of-fire-fighters-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2023 International Association of Fire\
   \ Fighters Legislative\_Conference"

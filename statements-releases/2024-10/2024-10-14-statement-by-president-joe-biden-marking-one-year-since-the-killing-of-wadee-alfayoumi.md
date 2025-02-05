@@ -1,7 +1,7 @@
 ---
 date: '2024-10-14'
 published_time: 2024-10-14 15:56:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/14/statement-by-president-joe-biden-marking-one-year-since-the-killing-of-wadee-alfayoumi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/14/statement-by-president-joe-biden-marking-one-year-since-the-killing-of-wadee-alfayoumi/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Marking One Year Since the Killing of Wadee\_\
   Alfayoumi"

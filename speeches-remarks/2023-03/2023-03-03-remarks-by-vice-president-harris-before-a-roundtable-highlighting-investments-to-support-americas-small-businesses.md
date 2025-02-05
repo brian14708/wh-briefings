@@ -2,7 +2,7 @@
 date: '2023-03-03'
 modified_time: 2023-03-04 15:25:13-05:00
 published_time: 2023-03-03 15:23:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-vice-president-harris-before-a-roundtable-highlighting-investments-to-support-americas-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/03/remarks-by-vice-president-harris-before-a-roundtable-highlighting-investments-to-support-americas-small-businesses/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before a Roundtable Highlighting Investments\
   \ to Support America\u2019s Small\_Businesses"

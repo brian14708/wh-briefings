@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-02-15'
 modified_time: 2022-02-15 19:15:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/15/remarks-by-president-biden-providing-an-update-on-russia-and-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/15/remarks-by-president-biden-providing-an-update-on-russia-and-ukraine/
 published_time: 2022-02-15 18:07:43-05:00
 title: "Remarks by President\_Biden Providing an Update on Russia and\_Ukraine"
 ---

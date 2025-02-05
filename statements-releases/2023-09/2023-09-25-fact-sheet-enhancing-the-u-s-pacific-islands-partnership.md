@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-26 10:53:07-04:00
 published_time: 2023-09-25 14:22:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/fact-sheet-enhancing-the-u-s-pacific-islands-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/fact-sheet-enhancing-the-u-s-pacific-islands-partnership/
 tags: statements-releases
 title: "FACT SHEET: Enhancing the U.S.-Pacific Islands\_Partnership"
 ---

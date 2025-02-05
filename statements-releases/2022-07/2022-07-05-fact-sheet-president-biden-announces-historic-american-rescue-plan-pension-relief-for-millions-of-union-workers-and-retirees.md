@@ -2,7 +2,7 @@
 date: '2022-07-05'
 modified_time: 2022-07-05 17:01:44-04:00
 published_time: 2022-07-05 16:42:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-president-biden-announces-historic-american-rescue-plan-pension-relief-for-millions-of-union-workers-and-retirees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-president-biden-announces-historic-american-rescue-plan-pension-relief-for-millions-of-union-workers-and-retirees/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Historic American Rescue Plan Pension\
   \ Relief for Millions of Union Workers and\_Retirees"

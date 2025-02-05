@@ -1,7 +1,7 @@
 ---
 date: '2024-04-25'
 published_time: 2024-04-25 14:41:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/
 tags: statements-releases
 title: "Vice President Kamala\_Harris Launches Nationwide Economic Opportunity\_Tour"
 ---
@@ -53,10 +53,10 @@ states since the beginning of 2024. This includes consistent travel to
 meet with small business owners and entrepreneurs in underserved
 communities to discuss challenges and opportunities they face. In March,
 she traveled to Black Wall Street in Durham, NC to
-[announce](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-vice-president-harris-on-historic-investments-in-strengthening-entrepreneurship-increasing-access-to-capital-and-supporting-small-businesses-durham-nc/)
+[announce](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/01/remarks-by-vice-president-harris-on-historic-investments-in-strengthening-entrepreneurship-increasing-access-to-capital-and-supporting-small-businesses-durham-nc/)
 $32 million in funds to support historically underserved entrepreneurs.
 She began the year in Las Vegas, NV where she
-[announced](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/27/remarks-by-vice-president-harris-on-uplifting-small-businesses-and-supporting-entrepreneurship-las-vegas-nv/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/27/remarks-by-vice-president-harris-on-uplifting-small-businesses-and-supporting-entrepreneurship-las-vegas-nv/)
 an SBA rule that will ensure millions of Americans who have served time
 are eligible for SBA loan programs that help individuals start and run
 small businesses.
@@ -64,11 +64,11 @@ small businesses.
 The Vice President has long been focused on ensuring that minority,
 rural, and low-income communities have the capital and resources they
 need to thrive and support small businesses. Last year, she
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/)
 that Treasury’s CDFI Fund has awarded over $1.73 billion in grants to
 603 Community Development Financial Institutions (CDFIs) across the
 country. In 2022, the Vice President also
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
 a first-of-its-kind public-private sector initiative — the Economic
 Opportunity Coalition (EOC) — that is a historic public-private
 partnership of more than 20 private sector organizations that will

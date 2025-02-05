@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-16 20:03:35-04:00
 published_time: 2022-07-15 20:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-and-president-al-sisi-of-the-arab-republic-of-egypt-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-and-president-al-sisi-of-the-arab-republic-of-egypt-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Al Sisi of the Arab Republic of\
   \ Egypt Before Bilateral\_Meeting"

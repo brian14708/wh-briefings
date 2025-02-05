@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-15 10:32:07-05:00
 published_time: 2023-11-14 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-releases-fifth-national-climate-assessment-and-announces-more-than-6-billion-to-strengthen-climate-resilience-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-releases-fifth-national-climate-assessment-and-announces-more-than-6-billion-to-strengthen-climate-resilience-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Fifth National Climate\
   \ Assessment and Announces More Than $6 Billion to Strengthen Climate Resilience\
@@ -53,7 +53,7 @@ new resources to boost climate resilience efforts.
   
 These announcements, which advance the Administration’s [vision for a
 climate resilient
-nation,](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf)
+nation,](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf)
 include:
 
 #### Bolstering America’s Electric Grid
@@ -130,11 +130,11 @@ provide essential grid services.
     climate change factors and impacts in all relevant and applicable
     decisions.  
 -   In addition, the White House is publishing a **[synthesis of
-    insights](https://www.whitehouse.gov/wp-content/uploads/2023/11/PROCEEDINGS_White-House-Summit-on-Building-Climate-Resilient-Communities_092823.pdf)
+    insights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/PROCEEDINGS_White-House-Summit-on-Building-Climate-Resilient-Communities_092823.pdf)
     from the 13 roundtable** discussions on climate resilience that the
     Administration hosted earlier this year as part of the [White House
     Summit on Building Climate Resilient
-    Communities](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/).
+    Communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/).
 
 This resource will help inform federal and non-federal actions,
 investments, and decisions to help build climate resilient communities
@@ -176,7 +176,7 @@ Justice](https://nca2023.globalchange.gov/chapter/20), which provides
 insights into how people understand, experience, and respond in
 different ways to climate change. This chapter, as well as NCA5’s [10
 region-specific
-chapters](https://www.whitehouse.gov/ostp/news-updates/2023/11/09/fact-sheet-fifth-national-climate-assessment-details-impacts-of-climate-change-on-regions-across-the-united-states/),
+chapters](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/09/fact-sheet-fifth-national-climate-assessment-details-impacts-of-climate-change-on-regions-across-the-united-states/),
 describes how certain communities experience disproportionate impacts
 from climate change.  
    
@@ -188,8 +188,8 @@ accessibility, a forthcoming Spanish-language version of the entire NCA5
 will be available for the first time early next year. NCA5 is
 accompanied by 92 original works of art, selected through the first-ever
 [NCA Art
-x](https://www.whitehouse.gov/ostp/news-updates/2023/06/09/white-house-office-of-science-and-technology-policy-announces-national-climate-assessment-art-submission-award-winners/)
-[Climate](https://www.whitehouse.gov/ostp/news-updates/2023/06/09/white-house-office-of-science-and-technology-policy-announces-national-climate-assessment-art-submission-award-winners/)
+x](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/06/09/white-house-office-of-science-and-technology-policy-announces-national-climate-assessment-art-submission-award-winners/)
+[Climate](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/06/09/white-house-office-of-science-and-technology-policy-announces-national-climate-assessment-art-submission-award-winners/)
 initiative, and an original poem,
 “[Startlement](https://nca2023.globalchange.gov/chapter/front-matter/),”
 by the 24th Poet Laureate of the United States, Ada Limón.  
@@ -222,7 +222,7 @@ long-term expansion in most states’ energy and decarbonization
 workforces.  
    
 Under President Biden’s [Investing in America
-agenda](https://www.whitehouse.gov/invest/?utm_source=invest.gov),
+agenda](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov),
 companies have announced $614 billion to build the manufacturing base of
 the future; over $392.2 billion has gone to upgrading our public
 infrastructure and investing in clean energy; and $8.8 billion in home

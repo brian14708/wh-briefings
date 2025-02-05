@@ -1,7 +1,7 @@
 ---
 date: '2024-04-19'
 published_time: 2024-04-19 22:47:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/19/statement-from-president-joe-biden-on-uaw-vote-in-tennessee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/19/statement-from-president-joe-biden-on-uaw-vote-in-tennessee/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on UAW Vote in\_Tennessee"
 ---

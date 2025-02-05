@@ -2,7 +2,7 @@
 date: '2024-11-04'
 modified_time: 2024-11-03 17:34:38-05:00
 published_time: 2024-11-04 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/04/fact-sheet-the-biden-harris-administration-marks-the-anniversary-of-the-americas-partnership-for-economic-prosperity-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/04/fact-sheet-the-biden-harris-administration-marks-the-anniversary-of-the-americas-partnership-for-economic-prosperity-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Marks the Anniversary of\
   \ the Americas Partnership for Economic Prosperity Leaders\u2019\_Summit"
@@ -22,7 +22,7 @@ Partnership or APEP) launched at the Summit of the Americas in
 hemisphere’s GDP and nearly two-thirds of its people.
 
 At the [inaugural Leaders’
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/03/fact-sheet-president-biden-hosts-inaugural-americas-partnership-for-economic-prosperity-leaders-summit/) on
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/03/fact-sheet-president-biden-hosts-inaugural-americas-partnership-for-economic-prosperity-leaders-summit/) on
 November 3, 2023, President Biden and leaders of the eleven other
 Americas Partnership countries—Barbados, Canada, Chile, Colombia, Costa
 Rica, Dominican Republic, Ecuador, Mexico, Panama, Peru, and
@@ -41,11 +41,11 @@ growth and strengthen critical supply chains in semiconductors, medical
 supplies, and clean energy and critical minerals. 
 
 One year on, [the initiative is delivering concrete
-results](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-of-national-security-adviser-jake-sullivan-54th-washington-conference-on-the-americas-luncheon/) to
+results](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-of-national-security-adviser-jake-sullivan-54th-washington-conference-on-the-americas-luncheon/) to
 improve the lives of people throughout the region while creating
 economic opportunities within the hemisphere. As National Security
 Advisor [Jake Sullivan said at the Brookings
-Institution](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-apnsa-jake-sullivan-at-the-brookings-institution/)this
+Institution](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-apnsa-jake-sullivan-at-the-brookings-institution/)this
 year, “we’re working to make the Western Hemisphere a globally
 competitive supply chain hub for semiconductors, clean energy, and
 more.”
@@ -58,7 +58,7 @@ them with financing opportunities. 
 
 -   The Americas Partnership Investor Network was launched at a [July
     2024 White House
-    meeting](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/readout-of-national-security-advisor-jake-sullivans-meeting-to-inaugurate-the-americas-partnership-angel-investor-network/) hosted
+    meeting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/readout-of-national-security-advisor-jake-sullivans-meeting-to-inaugurate-the-americas-partnership-angel-investor-network/) hosted
     by National Security Advisor Jake Sullivan. As part of the
     Network, a diverse group of angel and venture capital investors
     pledged to collectively invest more than $1 billion in early-stage

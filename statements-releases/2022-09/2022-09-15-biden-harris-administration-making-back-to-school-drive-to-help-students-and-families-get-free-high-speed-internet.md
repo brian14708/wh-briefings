@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 12:30:19-04:00
 published_time: 2022-09-15 12:30:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/biden-harris-administration-making-back-to-school-drive-to-help-students-and-families-get-free-high-speed-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/biden-harris-administration-making-back-to-school-drive-to-help-students-and-families-get-free-high-speed-internet/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Making \u201CBack to School\u201D Drive\
   \ to Help Students and Families Get Free High-Speed\_Internet"
@@ -49,7 +49,7 @@ includes:**
 -   Working with local leaders to help families in their community sign
     up. Today, White House Infrastructure Coordinator Mitch Landrieu
     [published a
-    letter](https://www.whitehouse.gov/wp-content/uploads/2022/09/2022.09.14-Letter-from-Landrieu-to-Local-Leaders-on-ACP.pdf)
+    letter](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/2022.09.14-Letter-from-Landrieu-to-Local-Leaders-on-ACP.pdf)
     to local government leaders across the country – including mayors,
     county executives, state legislators, school leaders, and others –
     asking them to commit to taking three simple steps to help families
@@ -61,7 +61,7 @@ includes:**
 <!-- -->
 
 -   Providing a “Back to School” toolkit for schools. The
-    [toolkit](https://www.whitehouse.gov/wp-content/uploads/2022/09/School-Outreach-Toolkit-FINAL.docx)
+    [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/School-Outreach-Toolkit-FINAL.docx)
     includes specific, actionable recommendations for how school leaders
     can help their students’ families sign up and includes a ready-to-go
     backpack flyer that schools can distribute providing all the details

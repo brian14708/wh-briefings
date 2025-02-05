@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 19:06:27-04:00
 published_time: 2022-05-19 19:06:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/19/remarks-by-first-lady-jill-biden-in-ecuador/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/19/remarks-by-first-lady-jill-biden-in-ecuador/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden in\_Ecuador"
 ---

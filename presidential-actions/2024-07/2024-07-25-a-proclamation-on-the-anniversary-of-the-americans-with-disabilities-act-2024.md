@@ -1,7 +1,7 @@
 ---
 date: '2024-07-25'
 published_time: 2024-07-25 15:51:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/25/a-proclamation-on-the-anniversary-of-the-americans-with-disabilities-act-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/25/a-proclamation-on-the-anniversary-of-the-americans-with-disabilities-act-2024/
 tags: presidential-actions
 title: "A Proclamation on the Anniversary of the Americans with Disabilities Act,\_\
   2024"

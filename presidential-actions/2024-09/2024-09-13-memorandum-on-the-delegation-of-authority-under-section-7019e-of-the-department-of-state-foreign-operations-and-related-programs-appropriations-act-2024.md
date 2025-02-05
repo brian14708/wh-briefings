@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 17:28:40-04:00
 published_time: 2024-09-13 17:28:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-delegation-of-authority-under-section-7019e-of-the-department-of-state-foreign-operations-and-related-programs-appropriations-act-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/memorandum-on-the-delegation-of-authority-under-section-7019e-of-the-department-of-state-foreign-operations-and-related-programs-appropriations-act-2024/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under Section 7019(e) of the Department\
   \ of State, Foreign Operations, and Related Programs Appropriations Act,\_2024"

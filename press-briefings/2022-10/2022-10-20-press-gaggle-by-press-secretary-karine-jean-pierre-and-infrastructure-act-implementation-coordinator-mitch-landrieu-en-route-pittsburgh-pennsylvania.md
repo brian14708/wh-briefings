@@ -1,7 +1,7 @@
 ---
 date: '2022-10-20'
 published_time: 2022-10-20 15:18:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-infrastructure-act-implementation-coordinator-mitch-landrieu-en-route-pittsburgh-pennsylvania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-infrastructure-act-implementation-coordinator-mitch-landrieu-en-route-pittsburgh-pennsylvania/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Infrastructure Act\
   \ Implementation Coordinator Mitch Landrieu En Route Pittsburgh,\_Pennsylvania"

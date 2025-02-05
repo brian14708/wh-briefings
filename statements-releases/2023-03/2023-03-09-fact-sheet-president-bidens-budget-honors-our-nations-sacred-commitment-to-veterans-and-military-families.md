@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:16:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-honors-our-nations-sacred-commitment-to-veterans-and-military-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-honors-our-nations-sacred-commitment-to-veterans-and-military-families/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Honors Our Nation\u2019s Sacred\
   \ Commitment to Veterans and Military\_Families"

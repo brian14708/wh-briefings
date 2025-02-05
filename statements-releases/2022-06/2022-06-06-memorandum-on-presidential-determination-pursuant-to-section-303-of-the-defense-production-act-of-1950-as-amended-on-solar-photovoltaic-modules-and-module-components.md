@@ -1,7 +1,7 @@
 ---
 date: '2022-06-06'
 published_time: 2022-06-06 12:27:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-solar-photovoltaic-modules-and-module-components/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-solar-photovoltaic-modules-and-module-components/
 tags: statements-releases
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
   \ Production Act of 1950, as amended, on Solar Photovoltaic Modules and Module\_\

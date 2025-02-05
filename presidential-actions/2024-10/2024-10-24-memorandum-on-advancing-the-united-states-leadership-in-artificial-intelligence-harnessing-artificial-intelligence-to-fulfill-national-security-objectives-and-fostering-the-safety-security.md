@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-24 10:38:41-04:00
 published_time: 2024-10-24 10:38:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/
 tags: presidential-actions
 title: "Memorandum on Advancing the United\_States\u2019 Leadership in Artificial\
   \ Intelligence; Harnessing Artificial Intelligence to Fulfill National Security\

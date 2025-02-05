@@ -2,7 +2,7 @@
 date: '2023-11-06'
 modified_time: 2023-11-06 17:49:51-05:00
 published_time: 2023-11-06 17:49:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/readout-of-vice-president-harriss-call-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/readout-of-vice-president-harriss-call-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Mohamed bin Zayed\
   \ of the United Arab\_Emirates"

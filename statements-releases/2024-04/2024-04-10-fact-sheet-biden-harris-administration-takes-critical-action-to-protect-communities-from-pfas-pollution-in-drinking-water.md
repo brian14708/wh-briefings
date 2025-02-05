@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-09 17:44:56-04:00
 published_time: 2024-04-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Critical Action to Protect\
   \ Communities from PFAS Pollution in Drinking\_Water"
@@ -15,7 +15,7 @@ Investing in America Agenda to Combat PFAS Pollution*
 President Biden believes every community has the right to clean, safe
 drinking water, free of pollutants that harm people’s health and
 wellbeing. That is why the President [launched a comprehensive action
-plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/)
+plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/)
 and provided billions in funding to protect communities from toxic
 “forever chemicals” that are linked to a range of severe health
 problems, including cancers, liver and heart damage, and developmental
@@ -42,7 +42,7 @@ contaminants in drinking water – the largest-ever investment in tackling
 PFAS pollution. An additional $12 billion in funding from the Bipartisan
 Infrastructure Law supports general drinking water investments,
 including PFAS treatment. The investments are part of the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which aims to ensure that 40 percent of the overall benefits of certain
 federal investments flow to disadvantaged communities.
 
@@ -57,12 +57,12 @@ address PFAS contamination, including a $33 million award for Tucson,
 Arizona to treat its PFAS-contaminated drinking water wells.
 
 This funding also builds on [President Biden’s action
-plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/) to
+plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/) to
 [address PFAS
-pollution](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/),
+pollution](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/),
 safeguard public health, and advance environmental justice – all while
 advancing the [Biden Cancer
-Moonshot](https://www.whitehouse.gov/cancermoonshot/progress-updates/fact-sheets/)
+Moonshot](https://bidenwhitehouse.archives.gov/cancermoonshot/progress-updates/fact-sheets/)
 goal of cutting the cancer death rate by at least half by 2047 and
 preventing cancer before it starts by protecting communities from known
 risks associated with PFAS exposure.
@@ -92,7 +92,7 @@ decade.
 
 Under President Biden’s leadership, nearly two dozen federal agencies
 and offices have made [systematic and substantive
-progress](https://www.whitehouse.gov/wp-content/uploads/2023/03/CEQ-PFAS-Report-March-2023.pdf)
+progress](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/CEQ-PFAS-Report-March-2023.pdf)
 to safeguard public health and protect the environment from PFAS in
 drinking water and beyond. This work is coordinated by the White House
 Council on Environmental Quality, which leads the Interagency Policy

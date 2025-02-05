@@ -2,7 +2,7 @@
 date: '2024-10-11'
 modified_time: 2024-10-11 16:34:07-04:00
 published_time: 2024-10-11 16:34:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/11/a-proclamation-on-blind-americans-equality-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/11/a-proclamation-on-blind-americans-equality-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Blind Americans Equality Day,\_2024"
 ---

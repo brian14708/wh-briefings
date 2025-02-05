@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 published_time: 2022-11-03 11:40:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-on-standing-up-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-on-standing-up-for-democracy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Standing up for\_Democracy"
 ---

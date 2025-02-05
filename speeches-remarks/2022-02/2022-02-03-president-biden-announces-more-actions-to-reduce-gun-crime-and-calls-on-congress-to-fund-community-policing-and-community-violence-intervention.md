@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-02-03'
 modified_time: 2022-02-02 19:32:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/
 published_time: 2022-02-03 05:00:00-05:00
 title: "President\_Biden Announces More Actions to Reduce Gun Crime And Calls on Congress\
   \ to Fund Community Policing and Community Violence\_Intervention"
@@ -62,7 +62,7 @@ and that’s exactly what his plan does.
 **The President’s Comprehensive Strategy to Reduce Gun Crime**  
   
 Last June, President Biden announced a [five-part, comprehensive
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
 to tackle the persistent spike in gun crime cities across the country
 have experienced since the start of the pandemic. The President’s
 strategy:
@@ -133,7 +133,7 @@ Below are a few highlights of the Administration’s work to implement the
 President’s comprehensive gun crime reduction strategy over the past
 seven months. You can read a full wrap-up of the Administration’s first
 year of gun violence prevention work
-[here](https://www.whitehouse.gov/ope/briefing-room/2021/12/14/2021-efforts-to-reduce-gun-violence/).  
+[here](https://bidenwhitehouse.archives.gov/ope/briefing-room/2021/12/14/2021-efforts-to-reduce-gun-violence/).  
   
 1. Stemming the flow of firearms used to commit violence. In June 2021,
 the Justice Department announced a new policy to underscore zero
@@ -193,10 +193,10 @@ country, such as Seattle, Washington; Buffalo, New York; and Atlanta,
 Georgia – have responded to this call by committing and deploying ARP
 funds for CVI. In addition, [five federal agencies made changes to 26
 different
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
 to direct vital support to community violence intervention programs as
 quickly as possible. In July, senior White House staff
-[established](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)
+[established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)
 The White House Community Violence Intervention Collaborative, a
 16-jurisdiction cohort of mayors, law enforcement, CVI experts, and
 philanthropic leaders committed to using American Rescue Plan funding or
@@ -261,7 +261,7 @@ good jobs and successfully reenter their communities. The Bipartisan
 Infrastructure Law will create hundreds of thousands of good-paying jobs
 that formerly incarcerated individuals will be able to access. Lastly,
 in his [Executive Order on Advancing Diversity, Equity, Inclusion, and
-Accessibility](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+Accessibility](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
 President Biden directed the Office of Personnel Management to evaluate
 barriers to federal employment for formerly incarcerated persons and
 actions to reduce these barriers, including educating and partnering

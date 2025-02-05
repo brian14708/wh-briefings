@@ -2,7 +2,7 @@
 date: '2023-05-17'
 modified_time: 2023-05-17 16:51:20-04:00
 published_time: 2023-05-17 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/17/statement-from-president-joe-biden-on-international-day-against-homophobia-biphobia-and-transphobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/17/statement-from-president-joe-biden-on-international-day-against-homophobia-biphobia-and-transphobia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on International Day Against Homophobia,\
   \ Biphobia, and\_Transphobia"
@@ -34,11 +34,11 @@ community, particularly youth.
   
 That is why, during my first month in office, I signed a [Presidential
 Memorandum on Advancing the Human Rights of LGBTQI+ Persons Around the
-World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
+World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/)
 to combat criminalization, protect vulnerable LGBTQI+ refugees, and
 build international coalitions to fight against discrimination. Last
 June, I signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/)
 directing my Administration to work to prevent the use of so-called
 “conversion therapy” in the United States and [around the
 world](https://www.state.gov/summary-of-interagency-action-plan-to-combat-so-called-conversion-therapy-practices-globally-in-accordance-with-e-o-14075/). 

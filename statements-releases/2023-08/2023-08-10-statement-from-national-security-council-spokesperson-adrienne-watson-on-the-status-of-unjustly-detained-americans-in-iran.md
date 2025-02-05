@@ -1,7 +1,7 @@
 ---
 date: '2023-08-10'
 published_time: 2023-08-10 13:18:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/10/statement-from-national-security-council-spokesperson-adrienne-watson-on-the-status-of-unjustly-detained-americans-in-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/10/statement-from-national-security-council-spokesperson-adrienne-watson-on-the-status-of-unjustly-detained-americans-in-iran/
 tags: statements-releases
 title: "Statement from National Security Council Spokesperson Adrienne Watson on the\
   \ Status of Unjustly Detained Americans in\_Iran"

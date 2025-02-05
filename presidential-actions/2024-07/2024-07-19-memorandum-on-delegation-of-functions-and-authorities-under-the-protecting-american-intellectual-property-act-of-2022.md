@@ -1,7 +1,7 @@
 ---
 date: '2024-07-19'
 published_time: 2024-07-19 16:08:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/19/memorandum-on-delegation-of-functions-and-authorities-under-the-protecting-american-intellectual-property-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/19/memorandum-on-delegation-of-functions-and-authorities-under-the-protecting-american-intellectual-property-act-of-2022/
 tags: presidential-actions
 title: "Memorandum on Delegation of Functions and Authorities Under the Protecting\
   \ American Intellectual Property Act of\_2022"

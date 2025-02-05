@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 18:33:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-president-joseph-r-biden-and-president-joko-widodo-announce-the-u-s-indonesia-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-president-joseph-r-biden-and-president-joko-widodo-announce-the-u-s-indonesia-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "FACT SHEET: President Joseph R. Biden and President Joko Widodo Announce the\
   \ U.S.-Indonesia Comprehensive Strategic\_Partnership"

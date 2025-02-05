@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 14:26:02-04:00
 published_time: 2024-09-23 14:26:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-the-united-nations-lgbti-core-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-the-united-nations-lgbti-core-group/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden to the United Nations\
   \ LGBTI Core\_Group"

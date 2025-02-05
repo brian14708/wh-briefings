@@ -1,7 +1,7 @@
 ---
 date: '2024-09-27'
 published_time: 2024-09-27 15:10:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/27/readout-of-2024-partnership-for-global-infrastructure-and-investment-pgi-investor-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/27/readout-of-2024-partnership-for-global-infrastructure-and-investment-pgi-investor-forum/
 tags: statements-releases
 title: "Readout of 2024 Partnership for Global Infrastructure and Investment (PGI)\
   \ Investor\_Forum"

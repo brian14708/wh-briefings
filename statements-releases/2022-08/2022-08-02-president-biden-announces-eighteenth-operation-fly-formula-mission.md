@@ -2,7 +2,7 @@
 date: '2022-08-02'
 modified_time: 2022-08-02 17:27:55-04:00
 published_time: 2022-08-02 17:27:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/president-biden-announces-eighteenth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/president-biden-announces-eighteenth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Eighteenth Operation Fly Formula\_Mission"
 ---

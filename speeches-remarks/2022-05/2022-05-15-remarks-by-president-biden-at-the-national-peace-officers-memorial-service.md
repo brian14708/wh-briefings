@@ -2,7 +2,7 @@
 date: '2022-05-15'
 modified_time: 2022-05-15 17:52:36-04:00
 published_time: 2022-05-15 17:52:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/15/remarks-by-president-biden-at-the-national-peace-officers-memorial-service/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/15/remarks-by-president-biden-at-the-national-peace-officers-memorial-service/
 tags: speeches-remarks
 title: "Remarks By President\_Biden at the National Peace Officers\u2019 Memorial\_\
   Service"

@@ -2,7 +2,7 @@
 date: '2024-03-21'
 modified_time: 2024-03-21 14:16:12-04:00
 published_time: 2024-03-21 12:55:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/statement-from-national-security-advisor-jake-sullivan-on-the-united-nations-general-assembly-resolution-on-artificial-intelligence-for-sustainable-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/21/statement-from-national-security-advisor-jake-sullivan-on-the-united-nations-general-assembly-resolution-on-artificial-intelligence-for-sustainable-development/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the United Nations\
   \ General Assembly Resolution on Artificial Intelligence for Sustainable\_Development"

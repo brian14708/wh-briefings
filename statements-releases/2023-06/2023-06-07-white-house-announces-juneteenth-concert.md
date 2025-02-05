@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 17:17:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/07/white-house-announces-juneteenth-concert/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/07/white-house-announces-juneteenth-concert/
 tags: statements-releases
 title: "White\_House Announces Juneteenth\_Concert"
 ---
@@ -23,11 +23,11 @@ President Biden has worked to advance racial equity and ensure the
 promise of America for Black Americans. See fact sheet on the
 Biden-Harris Administration’s ongoing efforts to advance equity and
 opportunity for Black Americans and communities across the
-country[ here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/).
+country[ here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/).
  
 
 This concert celebration will also take place during [Black Music
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-black-music-month-2023/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-black-music-month-2023/),
 where the Biden-Harris Administration will uplift American art forms
 that sing to the soul of the American experience.
 

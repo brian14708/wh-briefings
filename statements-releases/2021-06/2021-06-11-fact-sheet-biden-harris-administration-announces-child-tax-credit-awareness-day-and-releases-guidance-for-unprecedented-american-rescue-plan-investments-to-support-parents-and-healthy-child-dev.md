@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-11'
 modified_time: 2021-06-11 08:55:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-biden-harris-administration-announces-child-tax-credit-awareness-day-and-releases-guidance-for-unprecedented-american-rescue-plan-investments-to-support-parents-and-healthy-child-dev/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-biden-harris-administration-announces-child-tax-credit-awareness-day-and-releases-guidance-for-unprecedented-american-rescue-plan-investments-to-support-parents-and-healthy-child-dev/
 published_time: 2021-06-11 08:53:13-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Child Tax Credit Awareness\
   \ Day and\_Releases Guidance for Unprecedented American Rescue Plan  Investments\
@@ -321,9 +321,9 @@ for families, and especially for women and people of color. While the
 American Rescue Plan is providing historic investments to confront the
 effects of the pandemic and help provide immediate relief from COVID-19,
 the [American Families
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/)
 and [American Jobs
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
 will reimagine and rebuild a new, stronger economy that leaves no one
 behind. They will:
 
@@ -364,7 +364,7 @@ and strengthens the middle class.
 <span style="text-decoration: underline">**The Child Care Development
 Block Grant guidance released today will help states invest the $15
 billion provided to them on** [**April
-15**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/)**.**
+15**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-biden-harris-administration-announces-american-rescue-plan-funding-to-rescue-the-child-care-industry-so-the-economy-can-recover/)**.**
 </span>The American Rescue Plan’s historic $39 billion investment in
 child care was provided to state, tribal, and territorial partners
 through two programs: (1) $24 billion for a new child care stabilization

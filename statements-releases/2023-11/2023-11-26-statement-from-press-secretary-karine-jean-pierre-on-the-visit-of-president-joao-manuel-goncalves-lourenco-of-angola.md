@@ -2,7 +2,7 @@
 date: '2023-11-26'
 modified_time: 2023-11-26 13:48:49-05:00
 published_time: 2023-11-26 12:21:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/26/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-joao-manuel-goncalves-lourenco-of-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/26/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-joao-manuel-goncalves-lourenco-of-angola/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of President\
   \ Jo\xE3o Manuel Gon\xE7alves Louren\xE7o of\_Angola"

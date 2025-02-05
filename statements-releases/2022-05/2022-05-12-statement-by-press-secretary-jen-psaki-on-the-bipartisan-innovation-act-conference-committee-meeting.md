@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 15:06:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-by-press-secretary-jen-psaki-on-the-bipartisan-innovation-act-conference-committee-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-by-press-secretary-jen-psaki-on-the-bipartisan-innovation-act-conference-committee-meeting/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on\_the Bipartisan Innovation Act\
   \ Conference Committee\_Meeting"

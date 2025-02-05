@@ -1,7 +1,7 @@
 ---
 date: '2022-07-24'
 published_time: 2022-07-24 13:43:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/24/icymi-treasury-secretary-yellen-says-us-economy-not-in-recession/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/24/icymi-treasury-secretary-yellen-says-us-economy-not-in-recession/
 tags: statements-releases
 title: "ICYMI: Treasury Secretary Yellen Says US Economy Not in\_Recession"
 ---

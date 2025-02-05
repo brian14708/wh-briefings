@@ -1,7 +1,7 @@
 ---
 date: '2024-05-22'
 published_time: 2024-05-22 17:18:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/readout-of-white-house-office-of-gun-violence-prevention-convening-of-local-offices-of-violence-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/22/readout-of-white-house-office-of-gun-violence-prevention-convening-of-local-offices-of-violence-prevention/
 tags: statements-releases
 title: "Readout of White\_House Office of Gun Violence Prevention Convening of Local\
   \ Offices of Violence\_Prevention"
@@ -25,7 +25,7 @@ intervene against and prevent crime.
   
 Representatives from across the federal government highlighted the
 [resources their agencies
-offer](https://www.whitehouse.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf)
+offer](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf)
 to support the work that local OVPs do. Job training and reentry
 services grants from the Department of Labor, funding for law
 enforcement to support the basic needs of victims in underserved
@@ -33,7 +33,7 @@ communities from the Department of Justice, awards from the Department
 of Education to increase the number of qualified mental health service
 providers in schools, and much more. The White House Office of Gun
 Violence Prevention amplified these
-[resources](https://www.whitehouse.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf) to
+[resources](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/CVI-Funding-Resources.pdf) to
 make them readily accessible for community leaders nationwide.  
   
 Today’s convening builds on President Biden’s and Vice President Harris’

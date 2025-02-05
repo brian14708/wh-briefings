@@ -2,7 +2,7 @@
 date: '2024-04-14'
 modified_time: 2024-04-14 13:16:34-04:00
 published_time: 2024-04-14 13:16:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/14/g7-leaders-statement-on-irans-attack-against-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/14/g7-leaders-statement-on-irans-attack-against-israel/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on Iran\u2019s Attack Against\_Israel"
 ---

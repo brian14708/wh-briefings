@@ -2,7 +2,7 @@
 date: '2023-03-23'
 modified_time: 2023-03-23 10:45:39-04:00
 published_time: 2023-03-23 11:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/23/fact-sheet-biden-harris-administration-tackles-racial-and-ethnic-bias-in-home-valuations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/23/fact-sheet-biden-harris-administration-tackles-racial-and-ethnic-bias-in-home-valuations/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Tackles Racial and Ethnic Bias\
   \ in Home\_Valuations"

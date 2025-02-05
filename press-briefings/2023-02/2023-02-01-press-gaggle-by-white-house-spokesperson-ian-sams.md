@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 16:47:51-05:00
 published_time: 2023-02-01 16:47:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/01/press-gaggle-by-white-house-spokesperson-ian-sams/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/01/press-gaggle-by-white-house-spokesperson-ian-sams/
 tags: press-briefings
 title: "Press Gaggle by White\_House Spokesperson Ian\_Sams"
 ---

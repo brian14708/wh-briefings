@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-20 09:52:20-04:00
 published_time: 2022-07-20 09:52:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/20/remarks-by-vice-president-harris-to-the-2022-u-s-africa-business-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/20/remarks-by-vice-president-harris-to-the-2022-u-s-africa-business-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris to the 2022 U.S.-Africa Business\_Summit"
 ---

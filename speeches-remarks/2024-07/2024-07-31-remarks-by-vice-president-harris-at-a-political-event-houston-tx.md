@@ -2,7 +2,7 @@
 date: '2024-07-31'
 modified_time: 2024-08-01 11:07:33-04:00
 published_time: 2024-07-31 23:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/31/remarks-by-vice-president-harris-at-a-political-event-houston-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/31/remarks-by-vice-president-harris-at-a-political-event-houston-tx/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political Event Houston,\_TX"
 ---

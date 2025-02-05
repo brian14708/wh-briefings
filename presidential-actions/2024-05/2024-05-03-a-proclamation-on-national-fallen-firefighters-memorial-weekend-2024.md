@@ -2,7 +2,7 @@
 date: '2024-05-03'
 modified_time: 2024-05-03 13:19:47-04:00
 published_time: 2024-05-03 12:54:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/03/a-proclamation-on-national-fallen-firefighters-memorial-weekend-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/03/a-proclamation-on-national-fallen-firefighters-memorial-weekend-2024/
 tags: presidential-actions
 title: "A Proclamation on National Fallen Firefighters Memorial Weekend,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 10:31:25-04:00
 published_time: 2022-09-08 10:31:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-national-security-advisor-jake-sullivans-call-with-prime-minister-edi-rama-of-albania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-national-security-advisor-jake-sullivans-call-with-prime-minister-edi-rama-of-albania/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Prime\
   \ Minister Edi Rama of\_Albania"

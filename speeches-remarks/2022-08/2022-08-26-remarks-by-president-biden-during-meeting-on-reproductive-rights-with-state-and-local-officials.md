@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 16:15:20-04:00
 published_time: 2022-08-26 16:15:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-during-meeting-on-reproductive-rights-with-state-and-local-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-during-meeting-on-reproductive-rights-with-state-and-local-officials/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Meeting on Reproductive Rights with State\
   \ and Local\_Officials"

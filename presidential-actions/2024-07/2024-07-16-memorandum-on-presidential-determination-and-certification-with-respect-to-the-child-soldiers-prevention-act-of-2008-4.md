@@ -2,7 +2,7 @@
 date: '2024-07-16'
 modified_time: 2024-07-16 18:02:26-04:00
 published_time: 2024-07-16 17:59:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/16/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/16/memorandum-on-presidential-determination-and-certification-with-respect-to-the-child-soldiers-prevention-act-of-2008-4/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination on the Proposed Amendment to the\
   \ 1958 Agreement Between the Government of the United\_States of America and the\

@@ -2,7 +2,7 @@
 date: '2024-10-14'
 modified_time: 2024-10-15 09:30:54-04:00
 published_time: 2024-10-14 15:58:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/14/fact-sheet-biden-%e2%81%a0harris-administration-takes-new-actions-to-counter-islamophobia-and-anti-arab-hate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/14/fact-sheet-biden-%e2%81%a0harris-administration-takes-new-actions-to-counter-islamophobia-and-anti-arab-hate/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes New Actions to Counter\
   \ Islamophobia and Anti-Arab\_Hate"
@@ -271,7 +271,7 @@ Strategy include:
 <!-- -->
 
 -   On January 20, 2021, President Biden
-    [rescinded](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/)
+    [rescinded](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/)
     the previous administration’s discriminatory Muslim Ban, which
     included many Arab countries and was inconsistent with our nation’s
     foundation of religious freedom for all. At President Biden’s

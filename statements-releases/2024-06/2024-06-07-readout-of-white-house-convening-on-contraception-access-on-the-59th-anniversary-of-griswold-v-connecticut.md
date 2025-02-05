@@ -1,7 +1,7 @@
 ---
 date: '2024-06-07'
 published_time: 2024-06-07 15:59:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/07/readout-of-white-house-convening-on-contraception-access-on-the-59th-anniversary-of-griswold-v-connecticut/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/07/readout-of-white-house-convening-on-contraception-access-on-the-59th-anniversary-of-griswold-v-connecticut/
 tags: statements-releases
 title: "Readout of White\_House Convening on Contraception Access on the 59th Anniversary\
   \ of Griswold v.\_Connecticut"
@@ -15,7 +15,7 @@ the White House Gender Policy Council, and Erica Songer, Deputy
 Assistant to the President and Counsel to the Vice President, convened
 women’s community leaders, health care advocates, and reproductive
 rights advocates to highlight the Biden-Harris Administration’s [strong
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/fact-sheet-white-house-task-force-on-reproductive-healthcare-access-announces-new-actions-and-marks-the-51st-anniversary-of-roe-v-wade/)
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/fact-sheet-white-house-task-force-on-reproductive-healthcare-access-announces-new-actions-and-marks-the-51st-anniversary-of-roe-v-wade/)
 of strengthening access to affordable, high-quality contraception, an
 essential part of reproductive health care. They were joined by Centers
 for Medicare and Medicaid Services Administrator Chiquita Brooks-LaSure,
@@ -26,7 +26,7 @@ of Health and Human Services’ Office for Civil Rights Jenny Ma.
 Contraception has come under attack by Republican elected officials
 following the Supreme Court’s devastating decision to overturn *Roe v.
 Wade*. Just earlier this week, Senate Republicans
-[refused](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/05/statement-from-president-joe-biden-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-contraception/)
+[refused](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/05/statement-from-president-joe-biden-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-contraception/)
 to support legislation to protect a woman’s fundamental right to
 contraception in every state. As part of its work to continue to protect
 access to reproductive care, including contraception, the Biden-Harris

@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 23:22:17-04:00
 published_time: 2022-08-03 23:22:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-frank-bainimarama-of-the-republic-of-fiji/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-frank-bainimarama-of-the-republic-of-fiji/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Prime\
   \ Minister Frank Bainimarama of the Republic of\_Fiji"

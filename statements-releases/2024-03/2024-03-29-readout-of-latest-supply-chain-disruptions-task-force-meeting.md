@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-03-30 17:03:48-04:00
 published_time: 2024-03-29 20:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/readout-of-latest-supply-chain-disruptions-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/readout-of-latest-supply-chain-disruptions-task-force-meeting/
 tags: statements-releases
 title: "Readout of Latest Supply Chain Disruptions Task Force\_Meeting"
 ---

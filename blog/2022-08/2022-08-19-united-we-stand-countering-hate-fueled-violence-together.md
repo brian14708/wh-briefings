@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-22 11:09:26-04:00
 published_time: 2022-08-19 07:56:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/08/19/united-we-stand-countering-hate-fueled-violence-together/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/08/19/united-we-stand-countering-hate-fueled-violence-together/
 tags: blog
 title: "United We Stand: Countering Hate-Fueled Violence\_Together"
 ---

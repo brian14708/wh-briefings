@@ -2,7 +2,7 @@
 date: '2024-12-30'
 modified_time: 2024-12-29 22:36:13-05:00
 published_time: 2024-12-30 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/30/statement-from-president-joe-biden-on-u-s-support-for-ukraines-defense/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/30/statement-from-president-joe-biden-on-u-s-support-for-ukraines-defense/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on U.S. Support for Ukraine\u2019s\_Defense"
 ---

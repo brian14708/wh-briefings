@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-07-31 17:46:27-04:00
 published_time: 2022-08-01 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/president-biden-statement-ahead-of-the-10th-review-conference-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/president-biden-statement-ahead-of-the-10th-review-conference-of-the-treaty-on-the-non-proliferation-of-nuclear-weapons/
 tags: statements-releases
 title: "President\_Biden Statement Ahead of the 10th\_Review Conference\_of the Treaty\
   \ on the Non-Proliferation of Nuclear\_Weapons"

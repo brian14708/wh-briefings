@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 22:20:39-04:00
 published_time: 2022-05-12 22:20:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/
 tags: statements-releases
 title: "Statement from President\_Biden on the Confirmation of Admiral Linda L. Fagan\
   \ as USCG\_Commandant"

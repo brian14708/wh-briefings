@@ -2,7 +2,7 @@
 date: '2024-06-18'
 modified_time: 2024-06-18 12:18:42-04:00
 published_time: 2024-06-18 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/statement-from-national-security-advisor-jake-sullivan-on-the-global-effort-tostrengthen-the-cybersecurity-of-energy-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/statement-from-national-security-advisor-jake-sullivan-on-the-global-effort-tostrengthen-the-cybersecurity-of-energy-supply-chains/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Global Effort\
   \ toStrengthen the Cybersecurity of Energy Supply\_Chains"

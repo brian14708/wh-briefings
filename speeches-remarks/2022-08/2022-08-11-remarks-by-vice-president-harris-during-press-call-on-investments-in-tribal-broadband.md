@@ -2,7 +2,7 @@
 date: '2022-08-11'
 modified_time: 2022-08-11 17:38:02-04:00
 published_time: 2022-08-11 17:38:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/11/remarks-by-vice-president-harris-during-press-call-on-investments-in-tribal-broadband/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/11/remarks-by-vice-president-harris-during-press-call-on-investments-in-tribal-broadband/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_During Press Call on Investments in Tribal\_\
   Broadband"

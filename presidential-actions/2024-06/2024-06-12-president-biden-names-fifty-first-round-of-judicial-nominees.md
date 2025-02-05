@@ -2,7 +2,7 @@
 date: '2024-06-12'
 modified_time: 2024-06-11 23:25:02-04:00
 published_time: 2024-06-12 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/12/president-biden-names-fifty-first-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/12/president-biden-names-fifty-first-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Fifty-First Round of Judicial\_Nominees"
 ---

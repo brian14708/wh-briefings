@@ -2,7 +2,7 @@
 date: '2022-04-20'
 modified_time: 2022-04-19 18:02:59-04:00
 published_time: 2022-04-20 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-announces-the-rural-partners-network-to-empower-rural-communities-to-access-federal-resources/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-announces-the-rural-partners-network-to-empower-rural-communities-to-access-federal-resources/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces the Rural Partners\
   \ Network to Empower Rural Communities to Access Federal\_Resources"
@@ -55,7 +55,7 @@ organizations; federal agency field offices; existing federal efforts
 such as [Interagency Working Group on Coal and Power Plant Communities
 and Economic Revitalization](https://energycommunities.gov/) and the
 President’s [Justice40
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/);
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/);
 and staff of the Regional Commissions. RPN Directors will be placed in
 states, territories and Tribal Nations to coordinate RPN activities, and
 RPN Liaisons will be placed in selected community networks to work with

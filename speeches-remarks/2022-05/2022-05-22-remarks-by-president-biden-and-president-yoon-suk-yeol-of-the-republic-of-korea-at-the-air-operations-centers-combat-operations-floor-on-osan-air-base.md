@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-22 06:20:25-04:00
 published_time: 2022-05-22 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-the-air-operations-centers-combat-operations-floor-on-osan-air-base/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-the-air-operations-centers-combat-operations-floor-on-osan-air-base/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea at the Air Operations Center\u2019s Combat Operations Floor on Osan Air\_\

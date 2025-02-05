@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 17:02:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-national-domestic-violence-awareness-and-prevention-month-2022/
 tags: presidential-actions
 title: "A Proclamation on National Domestic Violence Awareness And Prevention Month,\_\
   2022"

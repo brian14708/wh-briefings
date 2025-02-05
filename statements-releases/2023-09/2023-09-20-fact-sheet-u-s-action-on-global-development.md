@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 18:18:31-04:00
 published_time: 2023-09-20 18:18:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-u-s-action-on-global-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-u-s-action-on-global-development/
 tags: statements-releases
 title: "FACT SHEET: U.S. Action on Global\_Development"
 ---
@@ -107,7 +107,7 @@ address the issues most important to them, including:
         food, digital, and health systems.  
         -   This includes the landmark [Just Energy Transition
             Partnership
-            (JETP)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/#:~:text=Indonesia%20Just%20Energy,workers%20and%20communities.)
+            (JETP)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/#:~:text=Indonesia%20Just%20Energy,workers%20and%20communities.)
             between Indonesia and a group co-led by the United States
             that will mobilize an initial $20 billion in financing—half
             of which will come from the private sector—to support
@@ -143,10 +143,10 @@ address the issues most important to them, including:
     crisis, the United States is investing in health workers through our
     core health programming supporting the President’s [Global Health
     Worker
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/),
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-marks-progress-on-one-year-anniversary-of-the-global-health-worker-initiative/),
     we have expanded our support to 50 countries to strengthen [global
     health security
-    systems](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-biden-harris-administration-releases-strategy-to-strengthen-health-security-and-prepare-for-biothreats/)
+    systems](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/18/fact-sheet-biden-harris-administration-releases-strategy-to-strengthen-health-security-and-prepare-for-biothreats/)
     in order to prepare, prevent, and respond to the next health
     emergency, and we continue to address core health needs around the
     world. The United States has committed $700 million to [the Pandemic

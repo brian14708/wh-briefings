@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 published_time: 2023-11-21 11:25:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/readout-of-director-of-national-intelligence-avril-hainess-travel-to-democratic-republic-of-congo-and-rwanda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/readout-of-director-of-national-intelligence-avril-hainess-travel-to-democratic-republic-of-congo-and-rwanda/
 tags: statements-releases
 title: "Readout of Director of National Intelligence Avril Haines\u2019s Travel to\
   \ Democratic Republic of Congo and\_Rwanda"

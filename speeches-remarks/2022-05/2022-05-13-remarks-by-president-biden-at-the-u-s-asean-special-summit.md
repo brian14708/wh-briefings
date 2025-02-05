@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-13 21:20:51-04:00
 published_time: 2022-05-13 21:20:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-president-biden-at-the-u-s-asean-special-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-president-biden-at-the-u-s-asean-special-summit/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_at the U.S.-ASEAN Special\_Summit"
 ---

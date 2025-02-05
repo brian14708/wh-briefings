@@ -2,7 +2,7 @@
 date: '2023-01-05'
 modified_time: 2023-01-05 14:38:19-05:00
 published_time: 2023-01-05 14:38:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/05/remarks-by-president-biden-on-border-security-and-enforcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/05/remarks-by-president-biden-on-border-security-and-enforcement/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Border Security and\_Enforcement"
 ---

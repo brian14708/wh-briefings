@@ -1,7 +1,7 @@
 ---
 date: '2022-10-06'
 published_time: 2022-10-06 18:06:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/06/remarks-by-president-biden-on-the-chips-and-science-act-at-ibm-poughkeepsie/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/06/remarks-by-president-biden-on-the-chips-and-science-act-at-ibm-poughkeepsie/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the CHIPS and Science Act at IBM\_Poughkeepsie"
 ---

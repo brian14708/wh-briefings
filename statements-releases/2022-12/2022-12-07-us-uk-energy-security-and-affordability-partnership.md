@@ -2,7 +2,7 @@
 date: '2022-12-07'
 modified_time: 2022-12-07 10:33:10-05:00
 published_time: 2022-12-07 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/07/us-uk-energy-security-and-affordability-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/07/us-uk-energy-security-and-affordability-partnership/
 tags: statements-releases
 title: "US-UK Energy Security and Affordability\_Partnership"
 ---

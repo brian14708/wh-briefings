@@ -1,7 +1,7 @@
 ---
 date: '2024-02-02'
 published_time: 2024-02-02 09:56:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/02/statement-from-president-joe-biden-on-the-january-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/02/statement-from-president-joe-biden-on-the-january-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the January Jobs\_Report"
 ---

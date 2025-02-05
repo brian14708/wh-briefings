@@ -2,7 +2,7 @@
 date: '2022-11-06'
 modified_time: 2022-11-06 11:21:35-05:00
 published_time: 2022-11-06 11:21:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/06/the-biden-harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/06/the-biden-harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
 tags: statements-releases
 title: "The Biden-\u2060Harris Administration Advances Equity and Opportunity for\
   \ Black Americans and Communities Across the\_Country"
@@ -37,7 +37,7 @@ into law the historic American Rescue Plan (ARP),  Bipartisan
 Infrastructure Law, Inflation Reduction Act, and implementing robust
 regulatory reform, President Biden has led [the most equitable economic
 recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
 creating nearly 10 million jobs since coming to office, and helping
 create new economic opportunities for African Americans, including
 Black-owned businesses, and made long overdue investments in Black
@@ -124,7 +124,7 @@ The Biden-Harris Administration’s vital policies and programs include: 
         children and help parents work. States have already delivered
         American Rescue Plan stabilization grants to more [than 200,000
         child care
-        providers](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
+        providers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
         1 in 5 of whom are Black, serving as many as 9.5 million
         children and their families. In most states, providers in at
         least 98% of counties received aid. One
@@ -894,7 +894,7 @@ should stay in place. 
 -   **Implementing Historic Executive Order on Policing and Criminal
     Justice Reform.** On May 25, 2022 – the second anniversary of the
     murder of George Floyd – the President signed an [executive
-    order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
+    order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
     (EO) to advance effective, accountable policing and criminal justice
     practices to enhance public trust and public safety. The EO makes
     good on the President’s promise to do more to ensure that our Nation
@@ -903,7 +903,7 @@ should stay in place. 
     even modest reforms supported by many in law enforcement in the
     course of negotiating the George Floyd Justice in Policing Act.  The
     EO, a summary of which can be found
-    [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/),
+    [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/),
     promotes accountability, raises standards, increases transparency,
     and helps reform the criminal justice system.  It requires all
     federal law enforcement agencies to raise use of force standards and
@@ -962,10 +962,10 @@ should stay in place. 
     criminal justice systems.  
 -   **Supporting Reentry of Returning Citizens.** In April 2022, in
     honor of Second Chance Month, the President
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
     grants of clemency to 78 individuals, along with a series of [over
     20 actions from a dozen federal
-    agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
+    agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
     to support returning citizens.   
     -   To expand employment opportunities, the Administration is also
         leveraging historic investments in infrastructure to promote the
@@ -1154,7 +1154,7 @@ These policies and programs include:
     information about the election process and increased access to voter
     registration opportunities. Agencies across the federal government
     have [announced
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/)
     they are taking to respond to the President’s call for an
     all-of-government action to enhance the ability of all eligible
     Americans to participate in our democracy, including the Centers for

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 23:13:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/05/remarks-by-president-biden-in-meeting-with-his-investing-in-america-cabinet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/05/remarks-by-president-biden-in-meeting-with-his-investing-in-america-cabinet/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meeting with His Investing in America\_Cabinet"
 ---

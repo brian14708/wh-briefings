@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 12:19:51-04:00
 published_time: 2022-06-09 12:19:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-vice-president-harris-launches-the-u-s-caribbean-partnership-to-address-the-climate-crisis-2030-pacc-2030/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-vice-president-harris-launches-the-u-s-caribbean-partnership-to-address-the-climate-crisis-2030-pacc-2030/
 tags: statements-releases
 title: "FACT SHEET:\_Vice President Harris Launches the U.S.-Caribbean Partnership\
   \ to Address the Climate Crisis 2030 (PACC\_2030)"

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-09'
 published_time: 2024-09-09 21:17:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/
 tags: statements-releases
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to Certain Terrorist\_Attacks"

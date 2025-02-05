@@ -2,7 +2,7 @@
 date: '2023-09-05'
 modified_time: 2023-09-05 19:28:16-04:00
 published_time: 2023-09-05 19:28:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/05/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/05/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-6/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake\_Sullivan"

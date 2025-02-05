@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-13 10:56:10-05:00
 published_time: 2023-11-09 22:00:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/09/remarks-by-president-biden-at-a-campaign-reception-chicago-il-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/09/remarks-by-president-biden-at-a-campaign-reception-chicago-il-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Chicago,\_IL"
 ---

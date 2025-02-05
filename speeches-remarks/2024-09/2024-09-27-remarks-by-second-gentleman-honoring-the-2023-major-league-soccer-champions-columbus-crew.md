@@ -2,7 +2,7 @@
 date: '2024-09-27'
 modified_time: 2024-09-27 17:04:53-04:00
 published_time: 2024-09-27 17:04:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/27/remarks-by-second-gentleman-honoring-the-2023-major-league-soccer-champions-columbus-crew/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/27/remarks-by-second-gentleman-honoring-the-2023-major-league-soccer-champions-columbus-crew/
 tags: speeches-remarks
 title: "Remarks by Second Gentleman Honoring the 2023 Major League Soccer Champions,\
   \ Columbus\_Crew"

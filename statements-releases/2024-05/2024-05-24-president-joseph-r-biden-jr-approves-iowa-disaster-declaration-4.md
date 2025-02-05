@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-24 14:03:06-04:00
 published_time: 2024-05-24 14:03:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/president-joseph-r-biden-jr-approves-iowa-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/president-joseph-r-biden-jr-approves-iowa-disaster-declaration-4/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Iowa Disaster\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 12:48:52-04:00
 published_time: 2023-09-09 12:48:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/09/remarks-by-president-biden-at-meeting-for-partnership-for-global-infrastructure-and-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/09/remarks-by-president-biden-at-meeting-for-partnership-for-global-infrastructure-and-investment/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Meeting for Partnership for Global Infrastructure\
   \ and\_Investment"

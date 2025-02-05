@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-21 21:23:40-04:00
 published_time: 2024-10-21 21:23:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/21/remarks-as-prepared-for-delivery-by-dr-liz-sherwood-randall-for-the-eradicate-hate-global-summit-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/21/remarks-as-prepared-for-delivery-by-dr-liz-sherwood-randall-for-the-eradicate-hate-global-summit-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by Dr. Liz Sherwood-Randall for the Eradicate\
   \ Hate Global Summit | Pittsburgh,\_PA"

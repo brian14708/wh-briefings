@@ -2,7 +2,7 @@
 date: '2024-06-04'
 modified_time: 2024-06-04 11:28:40-04:00
 published_time: 2024-06-04 11:28:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/04/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-white-plains-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/04/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-white-plains-ny/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route White Plains,\_\
   NY"

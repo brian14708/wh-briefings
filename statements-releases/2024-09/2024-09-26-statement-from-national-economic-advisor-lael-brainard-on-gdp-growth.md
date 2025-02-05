@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-26 12:26:44-04:00
 published_time: 2024-09-26 12:26:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/statement-from-national-economic-advisor-lael-brainard-on-gdp-growth/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/statement-from-national-economic-advisor-lael-brainard-on-gdp-growth/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on GDP\_Growth"
 ---

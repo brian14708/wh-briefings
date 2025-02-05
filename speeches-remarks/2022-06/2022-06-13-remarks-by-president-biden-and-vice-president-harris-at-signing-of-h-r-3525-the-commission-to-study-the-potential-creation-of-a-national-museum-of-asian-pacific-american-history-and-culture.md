@@ -1,7 +1,7 @@
 ---
 date: '2022-06-13'
 published_time: 2022-06-13 16:29:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/13/remarks-by-president-biden-and-vice-president-harris-at-signing-of-h-r-3525-the-commission-to-study-the-potential-creation-of-a-national-museum-of-asian-pacific-american-history-and-culture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/13/remarks-by-president-biden-and-vice-president-harris-at-signing-of-h-r-3525-the-commission-to-study-the-potential-creation-of-a-national-museum-of-asian-pacific-american-history-and-culture/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at Signing of H.R. 3525,\
   \ the \u201CCommission To Study the Potential Creation of a National Museum of Asian\

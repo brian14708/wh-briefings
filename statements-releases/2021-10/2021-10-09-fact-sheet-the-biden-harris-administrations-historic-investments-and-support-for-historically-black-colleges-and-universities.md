@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-09'
 modified_time: 2021-10-14 13:42:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/09/fact-sheet-the-biden-harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/09/fact-sheet-the-biden-harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
 published_time: 2021-10-09 10:30:05-04:00
 title: "Fact Sheet: The Biden-\u2060Harris Administration\u2019s Historic Investments\
   \ and Support for Historically Black Colleges and\_Universities"
@@ -65,11 +65,11 @@ Universities (HBCUs)</u>***
 ***<u>Strengthening the White House Initiative on HBCUs</u>***
 
 -   In September, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/)
     to re-establish the White House Initiative on Advancing Educational
     Equity, Excellence, and Economic Opportunity through HBCUs and
     issued a
-    [proclamation](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/)
+    [proclamation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/)
     recognizing National HBCU Week.
 -   The President’s Executive Order calls for a whole of government
     approach to support HBCUs in responding to and recovering from the

@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 09:58:32-04:00
 published_time: 2023-03-31 09:58:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/statement-from-president-joe-biden-on-february-pce-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/statement-from-president-joe-biden-on-february-pce-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on February PCE\_Report"
 ---

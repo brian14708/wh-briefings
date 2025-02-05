@@ -2,7 +2,7 @@
 date: '2022-11-16'
 modified_time: 2022-11-16 16:47:20-05:00
 published_time: 2022-11-16 16:47:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/16/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-kazakhstans-special-representative-for-international-cooperation-erzhan-kazykhan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/16/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-kazakhstans-special-representative-for-international-cooperation-erzhan-kazykhan/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Kazakhstan\u2019s Special Representative for International Cooperation Erzhan\_\

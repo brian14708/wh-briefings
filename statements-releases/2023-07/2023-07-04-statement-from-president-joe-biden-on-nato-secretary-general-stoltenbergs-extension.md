@@ -2,7 +2,7 @@
 date: '2023-07-04'
 modified_time: 2023-07-04 10:05:55-04:00
 published_time: 2023-07-04 07:25:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/04/statement-from-president-joe-biden-on-nato-secretary-general-stoltenbergs-extension/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/04/statement-from-president-joe-biden-on-nato-secretary-general-stoltenbergs-extension/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on NATO Secretary General Stoltenberg\u2019\
   s\_Extension"

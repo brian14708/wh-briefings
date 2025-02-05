@@ -2,7 +2,7 @@
 date: '2023-12-02'
 modified_time: 2023-12-03 11:20:52-05:00
 published_time: 2023-12-02 22:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/02/remarks-by-vice-president-harris-at-cop28-leaders-session-fast-tracking-the-just-equitable-and-orderly-energy-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/02/remarks-by-vice-president-harris-at-cop28-leaders-session-fast-tracking-the-just-equitable-and-orderly-energy-transition/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at COP28 Leaders\u2019 Session, \u201CFast-Tracking\
   \ the Just, Equitable, and Orderly Energy Transition\u201D"

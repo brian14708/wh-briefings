@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 15:14:10-05:00
 published_time: 2023-12-20 15:00:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/readout-from-communities-in-action-building-a-better-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/readout-from-communities-in-action-building-a-better-new-york/
 tags: statements-releases
 title: "Readout from Communities in Action: Building a Better New\_York"
 ---

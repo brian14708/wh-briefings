@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 20:49:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/readout-of-president-bidens-call-with-president-andres-manuel-lopez-obrador-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/readout-of-president-bidens-call-with-president-andres-manuel-lopez-obrador-of-mexico/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s call with President Andr\xE9s Manuel L\xF3\
   pez Obrador of\_Mexico"
@@ -23,7 +23,7 @@ North American supply chains. 
 
 They discussed their visions for the Summit of the Americas and
 emphasized ongoing cooperation on [development in Central
-America](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/)
+America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/)
 and southern Mexico, strengthening North American supply chains, and
 modernizing our shared border to further strengthen our agricultural and
 commercial trade.  They also recognized the importance of joint efforts

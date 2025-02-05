@@ -1,7 +1,7 @@
 ---
 date: '2024-01-07'
 published_time: 2024-01-07 15:34:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/07/statement-from-president-joe-biden-on-the-bipartisan-funding-framework/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/07/statement-from-president-joe-biden-on-the-bipartisan-funding-framework/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Bipartisan Funding\_Framework"
 ---

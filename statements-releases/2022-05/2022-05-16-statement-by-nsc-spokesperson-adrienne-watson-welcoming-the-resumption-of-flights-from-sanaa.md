@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 08:08:15-04:00
 published_time: 2022-05-16 07:17:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/statement-by-nsc-spokesperson-adrienne-watson-welcoming-the-resumption-of-flights-from-sanaa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/statement-by-nsc-spokesperson-adrienne-watson-welcoming-the-resumption-of-flights-from-sanaa/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson Welcoming the Resumption of\
   \ Flights from\_Sana\u2019a"

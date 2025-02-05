@@ -1,7 +1,7 @@
 ---
 date: '2023-12-20'
 published_time: 2023-12-20 15:51:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-vice-president-harris-at-a-meeting-of-the-u-s-national-space-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-vice-president-harris-at-a-meeting-of-the-u-s-national-space-council/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Meeting of the U.S. National Space\_\
   Council"

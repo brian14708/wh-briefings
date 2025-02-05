@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-13 15:12:12-04:00
 published_time: 2022-05-13 15:12:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/05/13/bills-signed-s-812-and-s-3059/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/05/13/bills-signed-s-812-and-s-3059/
 tags: legislation
 title: "Bills Signed: S. 812 and S.\_3059"
 ---

@@ -2,7 +2,7 @@
 date: '2023-08-17'
 modified_time: 2023-08-17 18:25:30-04:00
 published_time: 2023-08-17 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/17/the-white-house-opens-volunteer-applications-for-the-2023-holiday-season/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/17/the-white-house-opens-volunteer-applications-for-the-2023-holiday-season/
 tags: statements-releases
 title: "The White\_House Opens Volunteer Applications for the 2023 Holiday\_Season"
 ---

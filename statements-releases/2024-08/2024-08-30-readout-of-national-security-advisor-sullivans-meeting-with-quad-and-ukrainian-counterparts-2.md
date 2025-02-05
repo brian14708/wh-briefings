@@ -2,7 +2,7 @@
 date: '2024-08-30'
 modified_time: 2024-08-30 19:22:07-04:00
 published_time: 2024-08-30 19:22:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/30/readout-of-national-security-advisor-sullivans-meeting-with-quad-and-ukrainian-counterparts-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/30/readout-of-national-security-advisor-sullivans-meeting-with-quad-and-ukrainian-counterparts-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Sullivan\u2019s Meeting with Quad and\
   \ Ukrainian\_Counterparts"

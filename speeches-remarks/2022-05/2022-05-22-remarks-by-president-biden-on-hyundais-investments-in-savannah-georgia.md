@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-22 05:27:34-04:00
 published_time: 2022-05-22 05:27:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-on-hyundais-investments-in-savannah-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-on-hyundais-investments-in-savannah-georgia/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Hyundai\u2019s Investments in Savannah,\_Georgia"
 ---

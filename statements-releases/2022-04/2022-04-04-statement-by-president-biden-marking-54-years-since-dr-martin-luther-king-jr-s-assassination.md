@@ -2,7 +2,7 @@
 date: '2022-04-04'
 modified_time: 2022-04-04 18:23:27-04:00
 published_time: 2022-04-04 18:23:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/statement-by-president-biden-marking-54-years-since-dr-martin-luther-king-jr-s-assassination/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/statement-by-president-biden-marking-54-years-since-dr-martin-luther-king-jr-s-assassination/
 tags: statements-releases
 title: "Statement by President\_Biden Marking 54 Years Since Dr. Martin Luther King,\
   \ Jr.\u2019s\_Assassination"

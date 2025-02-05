@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-02 06:03:14-04:00
 published_time: 2022-06-01 13:29:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-fourth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-fourth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Fourth Operation Fly Formula\_Mission"
 ---
@@ -51,10 +51,10 @@ U.S. market.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?w=640"
 class="wp-image-54573" loading="lazy"
 sizes="(max-width: 1294px) 100vw, 1294px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png 1294w, https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?resize=615,298 615w, https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?resize=768,372 768w, https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?resize=1270,614 1270w, https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?resize=1180,571 1180w, https://www.whitehouse.gov/wp-content/uploads/2022/06/bbypow.png?resize=1038,502 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png 1294w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?resize=615,298 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?resize=768,372 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?resize=1270,614 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?resize=1180,571 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/bbypow.png?resize=1038,502 1038w"
 width="1294" height="626" />
 </figure>
 

@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 15:10:11-05:00
 published_time: 2023-02-02 15:10:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/quad-senior-cyber-group-joint-cybersecurity-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/quad-senior-cyber-group-joint-cybersecurity-statement/
 tags: statements-releases
 title: "Quad Senior Cyber Group Joint Cybersecurity\_Statement"
 ---

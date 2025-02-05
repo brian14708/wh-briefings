@@ -2,7 +2,7 @@
 date: '2024-03-15'
 modified_time: 2024-03-15 09:15:28-04:00
 published_time: 2024-03-15 09:15:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/readout-of-white-house-summer-learning-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/readout-of-white-house-summer-learning-convening/
 tags: statements-releases
 title: "Readout of White\_House Summer Learning\_Convening"
 ---
@@ -11,7 +11,7 @@ This week, Domestic Policy Advisor Neera Tanden and U.S. Deputy
 Secretary of Education Cindy Marten hosted a Summer Learning Convening
 at the White House as part of the Biden-Harris Administration’s
 [Improving Student Achievement
-Agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
+Agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
 focused on improving academic performance for every child in schools
 through the adoption of three evidence-based strategies: (1) increasing
 student attendance; (2) providing high-dosage tutoring; and (3)

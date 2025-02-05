@@ -2,7 +2,7 @@
 date: '2023-04-24'
 modified_time: 2023-04-24 20:05:01-04:00
 published_time: 2023-04-24 20:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/24/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-national-and-state-teachers-of-the-year-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/24/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-national-and-state-teachers-of-the-year-celebration/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2023 National\
   \ and State Teachers of the Year\_Celebration"

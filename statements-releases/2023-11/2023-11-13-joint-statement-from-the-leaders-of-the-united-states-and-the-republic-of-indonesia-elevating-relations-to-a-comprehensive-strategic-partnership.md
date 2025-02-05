@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 21:57:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-indonesia-elevating-relations-to-a-comprehensive-strategic-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/joint-statement-from-the-leaders-of-the-united-states-and-the-republic-of-indonesia-elevating-relations-to-a-comprehensive-strategic-partnership/
 tags: statements-releases
 title: "Joint Statement from the Leaders of the United\_States and the Republic of\
   \ Indonesia: Elevating Relations to a Comprehensive Strategic\_Partnership"

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-12'
 published_time: 2024-03-12 14:59:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/12/remarks-by-national-economic-advisor-lael-brainard-on-president-bidens-bold-plan-for-housing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/12/remarks-by-national-economic-advisor-lael-brainard-on-president-bidens-bold-plan-for-housing/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on President\_Biden\u2019\
   s Bold Plan for\_Housing"
@@ -14,7 +14,7 @@ It is a pleasure to join you at the Urban Institute, which has been at
 the forefront of research on housing for decades. 
 
 During the [State of the Union
-Address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-state-of-the-union-address-3/),
+Address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-state-of-the-union-address-3/),
 President Biden proposed the boldest housing plan in a generation – a
 plan that would lower housing costs for renters and homebuyers and
 expand access to quality, affordable housing.  The President called on
@@ -23,7 +23,7 @@ lower costs for renters, and unlock the housing market for first time
 homebuyers and families seeking to trade up or downsize. And he
 announced new administrative actions to lower closing costs and make
 rental markets fairer. The President’s Fiscal Year 2025
-[budget](https://www.whitehouse.gov/omb/budget/) included a historic
+[budget](https://bidenwhitehouse.archives.gov/omb/budget/) included a historic
 $185 billion investment in housing, in mandatory funding, to give
 working families a fair shot, while reducing the deficit by asking the
 wealthy to pay their fair share.
@@ -134,7 +134,7 @@ sufficient to afford market rents.
 
 The Administration has already secured rental assistance for [over
 100,000 additional low-income
-households](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/)
+households](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/)
 through the Housing Choice Voucher program – guaranteeing them
 affordable rents. The President’s Budget proposes expanding rental
 assistance to hundreds of thousands of additional households. And the
@@ -172,7 +172,7 @@ laws.
 Long-term, durable action is required to build our way out of the
 decades long housing supply shortfall. As the President put it
 yesterday, “[The bottom line is we have to build, build,
-build](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-president-biden-at-the-national-league-of-cities-congressional-city-conference-2/).”
+build](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-president-biden-at-the-national-league-of-cities-congressional-city-conference-2/).”
 The President’s plan, if passed by Congress, would produce or preserve
 over [2 million additional
 homes](https://www.novoco.com/notes-from-novogradac/biden-harris-administrations-proposed-2025-budget-to-include-several-housing-proposals-that-combined-could-finance-as-many-as-2-million-affordable-homes)
@@ -245,7 +245,7 @@ which will lead to the production or preservation of 38,000 units over
 the next decade. In the months ahead, we will take further action– from
 supporting communities in identifying and removing barriers to housing
 production to promoting the use of federal resources for
-[conversions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/)
+[conversions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/)
 from office to residential and transit-oriented development.
 
 **Closing**

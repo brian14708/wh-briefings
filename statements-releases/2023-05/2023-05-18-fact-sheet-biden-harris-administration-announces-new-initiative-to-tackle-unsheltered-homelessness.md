@@ -2,7 +2,7 @@
 date: '2023-05-18'
 modified_time: 2023-05-17 20:19:40-04:00
 published_time: 2023-05-18 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-initiative-to-tackle-unsheltered-homelessness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-initiative-to-tackle-unsheltered-homelessness/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Initiative to\
   \ Tackle Unsheltered\_Homelessness"

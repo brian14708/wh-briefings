@@ -2,7 +2,7 @@
 date: '2024-06-08'
 modified_time: 2024-06-10 13:48:14-04:00
 published_time: 2024-06-08 22:33:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-vice-president-harris-at-a-political-event-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-vice-president-harris-at-a-political-event-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political\_Event"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-31'
 modified_time: 2024-07-30 16:37:41-04:00
 published_time: 2024-07-31 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/31/background-press-call-on-the-administrations-ongoing-counternarcotics-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/31/background-press-call-on-the-administrations-ongoing-counternarcotics-efforts/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on the Administration\u2019\
   s Ongoing Counternarcotics\_Efforts"

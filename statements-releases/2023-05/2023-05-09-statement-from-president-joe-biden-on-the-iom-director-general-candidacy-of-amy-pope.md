@@ -2,7 +2,7 @@
 date: '2023-05-09'
 modified_time: 2023-05-09 14:12:46-04:00
 published_time: 2023-05-09 14:12:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/09/statement-from-president-joe-biden-on-the-iom-director-general-candidacy-of-amy-pope/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/09/statement-from-president-joe-biden-on-the-iom-director-general-candidacy-of-amy-pope/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the IOM Director General Candidacy\
   \ of Amy\_Pope"

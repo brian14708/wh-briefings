@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-19'
 modified_time: 2021-05-19 14:09:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/19/president-joseph-r-biden-jr-to-award-the-medal-of-honor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/19/president-joseph-r-biden-jr-to-award-the-medal-of-honor/
 published_time: 2021-05-19 14:09:35-04:00
 title: "President Joseph R. Biden, Jr. to Award the Medal of\_Honor"
 ---

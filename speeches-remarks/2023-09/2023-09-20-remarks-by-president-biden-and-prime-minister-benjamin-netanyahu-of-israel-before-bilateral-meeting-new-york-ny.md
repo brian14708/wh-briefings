@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 13:59:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-and-prime-minister-benjamin-netanyahu-of-israel-before-bilateral-meeting-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/20/remarks-by-president-biden-and-prime-minister-benjamin-netanyahu-of-israel-before-bilateral-meeting-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Benjamin Netanyahu of Israel\
   \ Before Bilateral Meeting | New York,\_NY"

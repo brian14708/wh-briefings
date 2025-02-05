@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-03-22'
 modified_time: 2022-03-22 18:37:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/22/press-briefing-by-deputy-press-secretary-chris-meagher-and-national-security-advisor-jake-sullivan-march-22-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/03/22/press-briefing-by-deputy-press-secretary-chris-meagher-and-national-security-advisor-jake-sullivan-march-22-2022/
 published_time: 2022-03-22 18:37:06-04:00
 title: "Press Briefing by Deputy Press Secretary Chris Meagher and National Security\
   \ Advisor Jake Sullivan, March 22,\_2022"

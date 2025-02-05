@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-12 22:43:49-04:00
 published_time: 2024-09-13 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/13/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-american-consumers-workers-and-businesses-by-cracking-down-on-de-minimis-shipments-with-unsafe-unfairly-traded-products/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/13/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-american-consumers-workers-and-businesses-by-cracking-down-on-de-minimis-shipments-with-unsafe-unfairly-traded-products/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Protect\
   \ American Consumers, Workers, and Businesses by Cracking Down on De Minimis Shipments\

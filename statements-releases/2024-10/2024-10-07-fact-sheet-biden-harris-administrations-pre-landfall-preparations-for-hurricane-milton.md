@@ -1,7 +1,7 @@
 ---
 date: '2024-10-07'
 published_time: 2024-10-07 15:31:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/fact-sheet-biden-harris-administrations-pre-landfall-preparations-for-hurricane-milton/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/fact-sheet-biden-harris-administrations-pre-landfall-preparations-for-hurricane-milton/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Pre-Landfall Preparations\
   \ for Hurricane\_Milton"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Pre-Landfall Prepar
 Hurricane Milton is forecasted to impact the Western coast of the
 Florida peninsula this week. As communities across the Southeast –
 including in Florida – continue their [road to recovery and
-rebuilding](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
+rebuilding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
 after Hurricane Helene, the Biden-Harris Administration is mobilizing
 additional resources and personnel to prepare for the impacts of this
 new major storm.  
@@ -100,9 +100,9 @@ active-duty National Guard, many of whom will help with debris removal.
 **Pre-Landfall Preparations Supplement Ongoing Helene Response**  
   
 The Administration continues to mobilize a [whole-of-government
-response](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
+response](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/)
 to the impacts of Hurricane Helene. Yesterday, President Biden
-[ordered](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/statement-from-president-joe-biden-on-hurricane-helene-response/)
+[ordered](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/statement-from-president-joe-biden-on-hurricane-helene-response/)
 another 500 active-duty troops with advanced technological assets to
 move into Western North Carolina and assist with the response and
 recovery efforts. With a total of 1,500 troops now supplementing a

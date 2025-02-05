@@ -2,7 +2,7 @@
 date: '2023-07-13'
 modified_time: 2023-07-14 00:48:36-04:00
 published_time: 2023-07-13 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/remarks-by-president-biden-and-president-sauli-niinisto-of-the-republic-of-finland-in-joint-press-conference-helsinki-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/remarks-by-president-biden-and-president-sauli-niinisto-of-the-republic-of-finland-in-joint-press-conference-helsinki-finland/
 tags: statements-releases
 title: "Remarks by President\_Biden and President Sauli Niinist\xF6 of the Republic\
   \ of Finland in Joint Press Conference | Helsinki,\_Finland"

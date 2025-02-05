@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-09 12:18:32-04:00
 published_time: 2024-04-08 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/08/remarks-by-president-biden-on-his-student-loan-debt-relief-plan-for-tens-of-millions-of-americans-madison-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/08/remarks-by-president-biden-on-his-student-loan-debt-relief-plan-for-tens-of-millions-of-americans-madison-wisconsin/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on His Student Loan Debt Relief Plan for Tens\
   \ of Millions of Americans| Madison,\_Wisconsin"

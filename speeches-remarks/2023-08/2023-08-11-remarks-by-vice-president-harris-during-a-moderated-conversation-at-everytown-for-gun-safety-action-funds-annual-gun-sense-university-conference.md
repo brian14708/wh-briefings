@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 published_time: 2023-08-11 18:47:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/11/remarks-by-vice-president-harris-during-a-moderated-conversation-at-everytown-for-gun-safety-action-funds-annual-gun-sense-university-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/11/remarks-by-vice-president-harris-during-a-moderated-conversation-at-everytown-for-gun-safety-action-funds-annual-gun-sense-university-conference/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During a Moderated Conversation at Everytown\
   \ for Gun Safety Action Fund\u2019s Annual Gun Sense University\_Conference"

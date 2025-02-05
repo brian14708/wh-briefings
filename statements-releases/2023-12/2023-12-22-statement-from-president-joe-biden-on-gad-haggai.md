@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 16:35:11-05:00
 published_time: 2023-12-22 16:35:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-gad-haggai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-gad-haggai/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Gad\_Haggai"
 ---

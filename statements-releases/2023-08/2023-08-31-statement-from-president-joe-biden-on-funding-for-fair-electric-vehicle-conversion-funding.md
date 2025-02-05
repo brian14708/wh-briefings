@@ -2,7 +2,7 @@
 date: '2023-08-31'
 modified_time: 2023-08-31 12:18:35-04:00
 published_time: 2023-08-31 12:18:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/31/statement-from-president-joe-biden-on-funding-for-fair-electric-vehicle-conversion-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/31/statement-from-president-joe-biden-on-funding-for-fair-electric-vehicle-conversion-funding/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Funding for Fair Electric Vehicle Conversion\_\
   Funding"

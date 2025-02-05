@@ -2,14 +2,14 @@
 date: '2022-04-14'
 modified_time: 2022-04-14 19:33:29-04:00
 published_time: 2022-04-14 05:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/statement-by-cea-chair-cecilia-rouse-on-the-economic-report-of-the-president/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/14/statement-by-cea-chair-cecilia-rouse-on-the-economic-report-of-the-president/
 tags: statements-releases
 title: "Statement by CEA Chair Cecilia Rouse on the Economic Report of the\_President"
 ---
  
 Today, I am pleased to announce that the Council of Economic Advisers
 has released the [Economic Report of the
-President](https://www.whitehouse.gov/wp-content/uploads/2022/04/2022-ERP-Book-wCover-final.pdf),
+President](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/2022-ERP-Book-wCover-final.pdf),
 which includes the Annual Report of the Council of Economic Advisers.
 This Report demonstrates the robust economic progress we have made over
 the past year, and makes the case for the Administration’s economic
@@ -41,4 +41,4 @@ Chapter 6: Building Resilient Supply Chains
 Chapter 7: Accelerating and Smoothing the Clean Energy Transition
 
 To view the Report, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2022/04/2022-ERP-Book-wCover-final.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/2022-ERP-Book-wCover-final.pdf>

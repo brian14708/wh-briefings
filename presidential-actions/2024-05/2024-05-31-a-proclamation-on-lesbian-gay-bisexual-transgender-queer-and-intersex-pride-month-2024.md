@@ -1,7 +1,7 @@
 ---
 date: '2024-05-31'
 published_time: 2024-05-31 17:20:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/
 tags: presidential-actions
 title: "A Proclamation on Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex\
   \ Pride Month,\_2024"

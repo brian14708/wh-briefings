@@ -1,7 +1,7 @@
 ---
 date: '2023-07-05'
 published_time: 2023-07-05 12:12:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-vice-president-harris-during-visit-of-los-angeles-fire-station-39/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-vice-president-harris-during-visit-of-los-angeles-fire-station-39/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Visit of Los Angeles Fire Station\_\
   39"

@@ -1,7 +1,7 @@
 ---
 date: '2023-01-09'
 published_time: 2023-01-09 20:54:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/09/excerpts-of-remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-fandango-por-la-lectura/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/09/excerpts-of-remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-fandango-por-la-lectura/
 tags: speeches-remarks
 title: "Excerpts of Remarks as Prepared for Delivery by First Lady Jill\_Biden at\
   \ a Fandango por la\_Lectura"

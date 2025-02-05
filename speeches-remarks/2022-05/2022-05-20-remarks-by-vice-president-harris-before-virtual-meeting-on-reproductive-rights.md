@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-21 11:58:57-04:00
 published_time: 2022-05-20 11:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-vice-president-harris-before-virtual-meeting-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-vice-president-harris-before-virtual-meeting-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Virtual Meeting on Reproductive\_\
   Rights"

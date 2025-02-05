@@ -2,7 +2,7 @@
 date: '2023-05-17'
 modified_time: 2023-05-17 12:39:50-04:00
 published_time: 2023-05-17 11:54:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/17/what-they-are-saying-biden-harris-administration-announces-largest-investment-in-rural-electrification-since-the-new-deal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/17/what-they-are-saying-biden-harris-administration-announces-largest-investment-in-rural-electrification-since-the-new-deal/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Biden-\u2060Harris Administration Announces Largest\
   \ Investment in Rural Electrification Since the New\_Deal"

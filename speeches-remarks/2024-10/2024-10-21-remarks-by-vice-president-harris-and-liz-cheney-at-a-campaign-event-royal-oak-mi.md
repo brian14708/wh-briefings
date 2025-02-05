@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-22 15:02:05-04:00
 published_time: 2024-10-21 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/21/remarks-by-vice-president-harris-and-liz-cheney-at-a-campaign-event-royal-oak-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/21/remarks-by-vice-president-harris-and-liz-cheney-at-a-campaign-event-royal-oak-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Liz Cheney at a Campaign Event | Royal\
   \ Oak,\_MI"

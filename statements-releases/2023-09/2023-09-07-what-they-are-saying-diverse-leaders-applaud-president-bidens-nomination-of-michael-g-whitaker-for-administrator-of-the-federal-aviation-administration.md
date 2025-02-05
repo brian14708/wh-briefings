@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 21:45:11-04:00
 published_time: 2023-09-07 17:34:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/07/what-they-are-saying-diverse-leaders-applaud-president-bidens-nomination-of-michael-g-whitaker-for-administrator-of-the-federal-aviation-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/07/what-they-are-saying-diverse-leaders-applaud-president-bidens-nomination-of-michael-g-whitaker-for-administrator-of-the-federal-aviation-administration/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Diverse Leaders Applaud President\_Biden\u2019s Nomination\
   \ of Michael G. Whitaker for Administrator of the Federal Aviation Administration"

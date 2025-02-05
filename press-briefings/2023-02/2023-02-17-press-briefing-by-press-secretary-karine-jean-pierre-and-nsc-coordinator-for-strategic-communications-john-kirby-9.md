@@ -1,7 +1,7 @@
 ---
 date: '2023-02-17'
 published_time: 2023-02-17 20:01:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/17/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/17/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-9/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John\_Kirby"
@@ -1435,7 +1435,7 @@ strong labor leader?  And is that something
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/02/image-1.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/02/image-1.gif"
 title="Anchor" class="wp-image-69899" loading="lazy" width="1"
 height="1" />
 </figure>

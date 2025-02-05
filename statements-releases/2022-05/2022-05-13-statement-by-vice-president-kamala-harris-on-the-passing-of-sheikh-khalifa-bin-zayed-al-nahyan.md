@@ -1,7 +1,7 @@
 ---
 date: '2022-05-13'
 published_time: 2022-05-13 11:54:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/statement-by-vice-president-kamala-harris-on-the-passing-of-sheikh-khalifa-bin-zayed-al-nahyan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/statement-by-vice-president-kamala-harris-on-the-passing-of-sheikh-khalifa-bin-zayed-al-nahyan/
 tags: statements-releases
 title: "Statement by\_Vice President Kamala\_Harris on the Passing of Sheikh Khalifa\
   \ bin Zayed Al\_Nahyan"

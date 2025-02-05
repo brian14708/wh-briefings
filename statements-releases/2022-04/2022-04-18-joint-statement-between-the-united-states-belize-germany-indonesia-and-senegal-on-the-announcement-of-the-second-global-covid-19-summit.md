@@ -2,7 +2,7 @@
 date: '2022-04-18'
 modified_time: 2022-04-17 23:20:12-04:00
 published_time: 2022-04-18 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/18/joint-statement-between-the-united-states-belize-germany-indonesia-and-senegal-on-the-announcement-of-the-second-global-covid-19-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/joint-statement-between-the-united-states-belize-germany-indonesia-and-senegal-on-the-announcement-of-the-second-global-covid-19-summit/
 tags: statements-releases
 title: "Joint Statement Between the United\_States, Belize, Germany, Indonesia, and\
   \ Senegal on the Announcement of the Second Global COVID-\u206019\_Summit"
@@ -17,7 +17,7 @@ efforts to end the acute phase of the COVID-19 pandemic and prepare for
 future health threats.  
    
 This Summit follows the first [Global COVID-19
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/)
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/)
 convened by the United States on September 22, 2021. In advance of the
 May 12 Summit, we are calling on world leaders, members of civil
 society, non-governmental organizations, philanthropists, and the

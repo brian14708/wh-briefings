@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 15:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/25/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-australia-before-bilateral-meeting-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/25/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-australia-before-bilateral-meeting-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Anthony Albanese of Australia\
   \ Before Bilateral\_Meeting"

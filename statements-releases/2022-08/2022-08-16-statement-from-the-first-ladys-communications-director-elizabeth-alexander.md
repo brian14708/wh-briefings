@@ -2,7 +2,7 @@
 date: '2022-08-16'
 modified_time: 2022-08-16 10:57:14-04:00
 published_time: 2022-08-16 10:57:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/16/statement-from-the-first-ladys-communications-director-elizabeth-alexander/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/16/statement-from-the-first-ladys-communications-director-elizabeth-alexander/
 tags: statements-releases
 title: "Statement from the First Lady\u2019s Communications Director Elizabeth\_Alexander"
 ---

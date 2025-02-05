@@ -1,7 +1,7 @@
 ---
 date: '2022-10-18'
 published_time: 2022-10-18 12:01:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/18/readout-of-the-october-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/18/readout-of-the-october-national-climate-task-force-meeting/
 tags: statements-releases
 title: "Readout of the October National Climate Task\_Force\_Meeting"
 ---
@@ -45,11 +45,11 @@ costs associated with clean energy.
 
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
 and amended in the President’s recent [Executive Order on the
 Implementation of the Energy and Infrastructure Provisions of the
 Inflation Reduction Act of
-2022](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-the-implementation-of-the-energy-and-infrastructure-provisions-of-the-inflation-reduction-act-of-2022/),
+2022](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-the-implementation-of-the-energy-and-infrastructure-provisions-of-the-inflation-reduction-act-of-2022/),
 the Task Force includes Cabinet-level leaders from more than 25 federal
 agencies to mobilize the Biden-Harris Administration’s implementation of
 a whole-of-government approach.

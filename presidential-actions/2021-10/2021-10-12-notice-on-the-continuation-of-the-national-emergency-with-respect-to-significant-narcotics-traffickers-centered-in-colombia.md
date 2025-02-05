@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-10-12'
 modified_time: 2021-10-12 17:32:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/12/notice-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
 published_time: 2021-10-12 17:32:06-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Significant\
   \ Narcotics Traffickers Centered in\_Colombia"

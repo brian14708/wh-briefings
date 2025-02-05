@@ -2,7 +2,7 @@
 date: '2024-11-18'
 modified_time: 2024-11-18 15:35:59-05:00
 published_time: 2024-11-18 15:35:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/18/nominations-sent-to-the-senate-156/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/18/nominations-sent-to-the-senate-156/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

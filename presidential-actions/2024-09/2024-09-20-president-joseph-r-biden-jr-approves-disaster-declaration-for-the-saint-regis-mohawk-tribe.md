@@ -1,7 +1,7 @@
 ---
 date: '2024-09-20'
 published_time: 2024-09-20 16:57:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-saint-regis-mohawk-tribe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-saint-regis-mohawk-tribe/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Saint\
   \ Regis Mohawk\_Tribe"

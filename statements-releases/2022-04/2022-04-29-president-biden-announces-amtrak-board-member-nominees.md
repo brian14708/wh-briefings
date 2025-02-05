@@ -2,7 +2,7 @@
 date: '2022-04-29'
 modified_time: 2022-04-29 19:25:49-04:00
 published_time: 2022-04-29 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/president-biden-announces-amtrak-board-member-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/president-biden-announces-amtrak-board-member-nominees/
 tags: statements-releases
 title: "President\_Biden Announces AMTRAK Board Member\_Nominees"
 ---

@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-22 18:01:47-04:00
 published_time: 2024-04-22 18:01:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/readout-of-the-white-house-convening-on-gun-violence-emergency-response-protocol/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/readout-of-the-white-house-convening-on-gun-violence-emergency-response-protocol/
 tags: statements-releases
 title: "Readout of the White\_House Convening on Gun Violence Emergency Response\_\
   Protocol"
@@ -49,7 +49,7 @@ resiliency centers.
 
 This convening comes on the heels of the [Biden-Harris Administration
 announcing a new
-rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/) that
+rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/) that
 will save lives by reducing the number of firearms sold without
 background checks. This action implements the Bipartisan Safer
 Communities Act — the most significant gun safety law in nearly 30 years

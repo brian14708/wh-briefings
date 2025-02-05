@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 00:19:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/
 published_time: 2021-12-07 09:00:00-05:00
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Plans for $11 Billion\
   \ to End Malnutrition at Global Nutrition\_Summit"
@@ -38,7 +38,7 @@ prevent more children from falling into malnutrition.
 The 2021 Tokyo Nutrition for Growth Summit, hosted by the Government of
 Japan, builds off the global momentum for food security and nutrition
 that began at the [United Nations Food Systems Summit in
-September](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-harris-administration-commit-to-end-hunger-and-malnutrition-and-build-sustainable-resilient-food-systems/).
+September](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-harris-administration-commit-to-end-hunger-and-malnutrition-and-build-sustainable-resilient-food-systems/).
 These announcements progress America’s commitment to leadership in
 ending malnutrition, improving diets, preventing child and maternal
 deaths. These investments will place the needs of women and children at

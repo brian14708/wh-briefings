@@ -1,7 +1,7 @@
 ---
 date: '2022-04-25'
 published_time: 2022-04-25 13:39:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/readout-of-president-bidens-call-with-president-macron-of-france-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/readout-of-president-bidens-call-with-president-macron-of-france-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Macron of\_France"
 ---

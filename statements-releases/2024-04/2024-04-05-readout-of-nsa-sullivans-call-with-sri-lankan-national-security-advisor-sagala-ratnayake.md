@@ -2,7 +2,7 @@
 date: '2024-04-05'
 modified_time: 2024-04-05 18:04:55-04:00
 published_time: 2024-04-05 18:04:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/readout-of-nsa-sullivans-call-with-sri-lankan-national-security-advisor-sagala-ratnayake/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/05/readout-of-nsa-sullivans-call-with-sri-lankan-national-security-advisor-sagala-ratnayake/
 tags: statements-releases
 title: "Readout of NSA Sullivan\u2019s Call with Sri Lankan National Security Advisor\
   \ Sagala\_Ratnayake"

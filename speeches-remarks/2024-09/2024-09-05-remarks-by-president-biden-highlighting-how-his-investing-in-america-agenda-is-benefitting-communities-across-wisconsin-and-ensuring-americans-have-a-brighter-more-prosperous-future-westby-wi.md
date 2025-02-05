@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-06 11:26:17-04:00
 published_time: 2024-09-05 22:46:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/05/remarks-by-president-biden-highlighting-how-his-investing-in-america-agenda-is-benefitting-communities-across-wisconsin-and-ensuring-americans-have-a-brighter-more-prosperous-future-westby-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/05/remarks-by-president-biden-highlighting-how-his-investing-in-america-agenda-is-benefitting-communities-across-wisconsin-and-ensuring-americans-have-a-brighter-more-prosperous-future-westby-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Highlighting How His Investing in America Agenda\
   \ is Benefitting Communities Across Wisconsin and Ensuring Americans Have a Brighter,\

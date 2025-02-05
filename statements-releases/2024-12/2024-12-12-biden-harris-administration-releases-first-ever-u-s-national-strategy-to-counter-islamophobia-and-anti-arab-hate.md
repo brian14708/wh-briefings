@@ -1,7 +1,7 @@
 ---
 date: '2024-12-12'
 published_time: 2024-12-12 15:29:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-islamophobia-and-anti-arab-hate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-islamophobia-and-anti-arab-hate/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Releases First-Ever U.S. National Strategy\
   \ to Counter Islamophobia and Anti-Arab\_Hate"
@@ -9,7 +9,7 @@ title: "Biden-\u2060Harris Administration Releases First-Ever U.S. National Stra
  
 Today, the White House is releasing the first-ever [U.S. National
 Strategy to Counter Islamophobia and Anti-Arab
-Hate](https://www.whitehouse.gov/wp-content/uploads/2024/12/National-Strategy-Doc.pdf).
+Hate](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/National-Strategy-Doc.pdf).
 The Strategy was developed through a whole-of-government collaboration
 with a broad range of civil society partners to describe and address the
 bias, discrimination, and threats Muslim and Arab Americans have long

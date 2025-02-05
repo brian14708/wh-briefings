@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 08:37:42-04:00
 published_time: 2022-06-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-biden-harris-administration-combatting-pfas-pollution-to-safeguard-clean-drinking-water-for-all-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/fact-sheet-biden-harris-administration-combatting-pfas-pollution-to-safeguard-clean-drinking-water-for-all-americans/
 tags: statements-releases
 title: "FACT SHEET:\_Biden-\u2060Harris Administration Combatting PFAS Pollution to\
   \ Safeguard Clean Drinking Water for All\_Americans"
@@ -17,9 +17,9 @@ deserves to drink clean water. But for too many communities across this
 country, children and families are drinking water that is contaminated
 with lead and dangerous chemicals. That is why the President and Vice
 President unveiled a [plan to combat water
-pollution](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/) and,
+pollution](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/) and,
 six months ago, launched the [Biden-Harris Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) outlining
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) outlining
 how the Administration is leveraging $55 billion from the Bipartisan
 Infrastructure Law to replace all of America’s lead pipes. Together,
 these plans represent how the President and Vice President have
@@ -43,7 +43,7 @@ bioaccumulative, and remain in human bodies for a long time.
 First, EPA is publishing four new drinking water lifetime health
 advisories for certain PFAS as part of the [President’s plan to combat
 PFAS
-pollution](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/#:~:text=Consistent%20with%20President%20Biden's%20commitment,from%20discharging%20PFAS%20into%20America's) and
+pollution](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/#:~:text=Consistent%20with%20President%20Biden's%20commitment,from%20discharging%20PFAS%20into%20America's) and
 the Environmental Protection Agency’s (EPA) [PFAS
 Roadmap](https://www.epa.gov/pfas/pfas-strategic-roadmap-epas-commitments-action-2021-2024). These
 health advisories reflect the Biden-Harris Administration’s commitment

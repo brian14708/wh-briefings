@@ -2,7 +2,7 @@
 date: '2024-01-17'
 modified_time: 2024-01-17 18:07:27-05:00
 published_time: 2024-01-17 18:07:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/readout-of-president-bidens-meeting-with-congressional-leaders-on-ukraine-and-his-national-security-supplemental/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/readout-of-president-bidens-meeting-with-congressional-leaders-on-ukraine-and-his-national-security-supplemental/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Congressional Leaders on Ukraine\
   \ and His National Security\_Supplemental"

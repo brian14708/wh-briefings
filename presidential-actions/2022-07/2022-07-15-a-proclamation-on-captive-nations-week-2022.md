@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 10:45:01-04:00
 published_time: 2022-07-15 10:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/15/a-proclamation-on-captive-nations-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/15/a-proclamation-on-captive-nations-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Captive Nations Week,\_2022"
 ---

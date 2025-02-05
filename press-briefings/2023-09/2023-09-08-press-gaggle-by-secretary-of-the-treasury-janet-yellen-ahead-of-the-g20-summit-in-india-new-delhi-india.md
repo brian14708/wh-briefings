@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 13:48:08-04:00
 published_time: 2023-09-08 13:48:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/08/press-gaggle-by-secretary-of-the-treasury-janet-yellen-ahead-of-the-g20-summit-in-india-new-delhi-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/08/press-gaggle-by-secretary-of-the-treasury-janet-yellen-ahead-of-the-g20-summit-in-india-new-delhi-india/
 tags: press-briefings
 title: "Press Gaggle by Secretary of the Treasury Janet Yellen Ahead of the G20 Summit\
   \ in India | New Delhi,\_India"

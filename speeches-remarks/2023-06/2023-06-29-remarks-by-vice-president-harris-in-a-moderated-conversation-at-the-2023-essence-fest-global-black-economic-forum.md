@@ -2,7 +2,7 @@
 date: '2023-06-29'
 modified_time: 2023-06-30 10:53:01-04:00
 published_time: 2023-06-29 22:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/29/remarks-by-vice-president-harris-in-a-moderated-conversation-at-the-2023-essence-fest-global-black-economic-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/29/remarks-by-vice-president-harris-in-a-moderated-conversation-at-the-2023-essence-fest-global-black-economic-forum/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation at the 2023 Essence\
   \ Fest Global Black Economic\_Forum"

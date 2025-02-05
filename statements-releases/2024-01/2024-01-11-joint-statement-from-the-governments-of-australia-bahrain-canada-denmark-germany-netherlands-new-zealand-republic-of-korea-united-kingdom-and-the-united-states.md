@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 20:13:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/11/joint-statement-from-the-governments-of-australia-bahrain-canada-denmark-germany-netherlands-new-zealand-republic-of-korea-united-kingdom-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/11/joint-statement-from-the-governments-of-australia-bahrain-canada-denmark-germany-netherlands-new-zealand-republic-of-korea-united-kingdom-and-the-united-states/
 tags: statements-releases
 title: "Joint Statement from the Governments of Australia, Bahrain, Canada, Denmark,\
   \ Germany, Netherlands, New Zealand, Republic of Korea, United Kingdom, and the\

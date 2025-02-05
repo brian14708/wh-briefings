@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 16:29:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-by-president-biden-on-supporting-ukraine-defending-democratic-values-and-taking-action-to-address-global-challenges-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-by-president-biden-on-supporting-ukraine-defending-democratic-values-and-taking-action-to-address-global-challenges-vilnius-lithuania/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Supporting Ukraine, Defending Democratic Values,\
   \ and Taking Action to Address Global Challenges | Vilnius,\_Lithuania"

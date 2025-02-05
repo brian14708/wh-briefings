@@ -1,7 +1,7 @@
 ---
 date: '2024-12-12'
 published_time: 2024-12-12 16:57:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/g7-leaders-statement-on-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/g7-leaders-statement-on-syria/
 tags: statements-releases
 title: "G7 Leaders\u2019 statement on\_Syria"
 ---

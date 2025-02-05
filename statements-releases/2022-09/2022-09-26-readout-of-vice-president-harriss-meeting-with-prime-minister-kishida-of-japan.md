@@ -2,7 +2,7 @@
 date: '2022-09-26'
 modified_time: 2022-09-26 06:33:45-04:00
 published_time: 2022-09-26 06:33:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/26/readout-of-vice-president-harriss-meeting-with-prime-minister-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/26/readout-of-vice-president-harriss-meeting-with-prime-minister-kishida-of-japan/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Kishida\
   \ of\_Japan"

@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-28 11:40:58-04:00
 published_time: 2023-06-27 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/27/remarks-by-president-biden-at-a-campaign-reception-chevy-chase-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/27/remarks-by-president-biden-at-a-campaign-reception-chevy-chase-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Chevy Chase,\_MD"
 ---

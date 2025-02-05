@@ -1,7 +1,7 @@
 ---
 date: '2022-04-19'
 published_time: 2022-04-19 13:34:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/04/19/bill-signed-h-r-3197-and-h-r-5681/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/04/19/bill-signed-h-r-3197-and-h-r-5681/
 tags: legislation
 title: "Bill Signed: H.R. 3197 and H.R.\_5681"
 ---

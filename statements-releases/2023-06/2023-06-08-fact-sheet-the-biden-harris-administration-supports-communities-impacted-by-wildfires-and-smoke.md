@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 13:37:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-the-biden-harris-administration-supports-communities-impacted-by-wildfires-and-smoke/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-the-biden-harris-administration-supports-communities-impacted-by-wildfires-and-smoke/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Supports Communities Impacted\
   \ by Wildfires and\_Smoke"

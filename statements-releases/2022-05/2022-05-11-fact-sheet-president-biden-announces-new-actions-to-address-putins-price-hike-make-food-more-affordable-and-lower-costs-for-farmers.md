@@ -1,7 +1,7 @@
 ---
 date: '2022-05-11'
 published_time: 2022-05-11 08:04:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-president-biden-announces-new-actions-to-address-putins-price-hike-make-food-more-affordable-and-lower-costs-for-farmers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-president-biden-announces-new-actions-to-address-putins-price-hike-make-food-more-affordable-and-lower-costs-for-farmers/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Address Putin\u2019\
   s Price Hike,\_Make Food More Affordable, and Lower Costs for\_Farmers"

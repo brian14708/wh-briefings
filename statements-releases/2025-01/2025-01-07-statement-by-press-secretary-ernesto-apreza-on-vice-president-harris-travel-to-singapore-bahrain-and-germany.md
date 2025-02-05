@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-07 15:22:14-05:00
 published_time: 2025-01-07 15:08:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/statement-by-press-secretary-ernesto-apreza-on-vice-president-harris-travel-to-singapore-bahrain-and-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/statement-by-press-secretary-ernesto-apreza-on-vice-president-harris-travel-to-singapore-bahrain-and-germany/
 tags: statements-releases
 title: "Statement by Press Secretary Ernesto Apreza on Vice President Harris\u2019\
   \ Travel to Singapore, Bahrain, and\_Germany"

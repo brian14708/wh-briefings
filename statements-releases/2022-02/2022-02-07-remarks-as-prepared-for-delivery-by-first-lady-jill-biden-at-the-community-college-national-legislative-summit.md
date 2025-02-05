@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-07'
 modified_time: 2022-02-07 11:36:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-community-college-national-legislative-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-community-college-national-legislative-summit/
 published_time: 2022-02-07 11:36:17-05:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Community\
   \ College National Legislative\_Summit"

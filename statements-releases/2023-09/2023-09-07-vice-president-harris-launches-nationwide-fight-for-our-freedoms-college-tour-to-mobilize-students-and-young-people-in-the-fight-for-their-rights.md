@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 12:16:49-04:00
 published_time: 2023-09-07 12:16:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/07/vice-president-harris-launches-nationwide-fight-for-our-freedoms-college-tour-to-mobilize-students-and-young-people-in-the-fight-for-their-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/07/vice-president-harris-launches-nationwide-fight-for-our-freedoms-college-tour-to-mobilize-students-and-young-people-in-the-fight-for-their-rights/
 tags: statements-releases
 title: "Vice President Harris Launches Nationwide \u201CFight for Our Freedoms College\
   \ Tour\u201D to Mobilize Students and Young People in the Fight for Their\_Rights"

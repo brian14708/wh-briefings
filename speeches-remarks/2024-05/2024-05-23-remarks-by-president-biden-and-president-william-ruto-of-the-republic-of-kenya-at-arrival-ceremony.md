@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-23 15:02:49-04:00
 published_time: 2024-05-23 15:02:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President William Ruto of the Republic of\
   \ Kenya at Arrival\_Ceremony"

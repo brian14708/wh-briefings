@@ -2,7 +2,7 @@
 date: '2024-10-23'
 modified_time: 2024-10-23 23:08:05-04:00
 published_time: 2024-10-23 18:44:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/23/statement-from-vice-president-kamala-harris-and-second-gentleman-douglas-emhoff-on-the-passing-of-fernando-valenzuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/23/statement-from-vice-president-kamala-harris-and-second-gentleman-douglas-emhoff-on-the-passing-of-fernando-valenzuela/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris and Second Gentleman Douglas\
   \ Emhoff on the Passing of Fernando\_Valenzuela"

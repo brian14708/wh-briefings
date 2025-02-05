@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2022-03-01'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/01/a-proclamation-on-read-across-america-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/01/a-proclamation-on-read-across-america-day-2022/
 published_time: 2022-03-01 11:55:56-05:00
 title: "A Proclamation on Read Across America Day,\_2022"
 ---

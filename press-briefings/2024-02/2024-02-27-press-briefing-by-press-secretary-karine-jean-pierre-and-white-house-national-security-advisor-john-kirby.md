@@ -1,7 +1,7 @@
 ---
 date: '2024-02-27'
 published_time: 2024-02-27 21:59:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/27/press-briefing-by-press-secretary-karine-jean-pierre-and-white-house-national-security-advisor-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/27/press-briefing-by-press-secretary-karine-jean-pierre-and-white-house-national-security-advisor-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and White\_House National\
   \ Security Advisor John\_Kirby"

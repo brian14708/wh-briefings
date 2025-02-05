@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-11 19:41:27-05:00
 published_time: 2023-12-11 19:41:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-at-a-campaign-reception-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/11/remarks-by-president-biden-at-a-campaign-reception-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Philadelphia,\_PA"
 ---

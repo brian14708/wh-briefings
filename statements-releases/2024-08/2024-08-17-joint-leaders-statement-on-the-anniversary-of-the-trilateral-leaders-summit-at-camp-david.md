@@ -2,7 +2,7 @@
 date: '2024-08-17'
 modified_time: 2024-08-17 16:43:47-04:00
 published_time: 2024-08-17 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/17/joint-leaders-statement-on-the-anniversary-of-the-trilateral-leaders-summit-at-camp-david/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/17/joint-leaders-statement-on-the-anniversary-of-the-trilateral-leaders-summit-at-camp-david/
 tags: statements-releases
 title: "Joint Leaders\u2019 Statement on the Anniversary of the Trilateral Leaders\u2019\
   \ Summit at Camp\_David"

@@ -2,7 +2,7 @@
 date: '2022-12-09'
 modified_time: 2022-12-09 08:48:36-05:00
 published_time: 2022-12-09 08:48:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-white-house-press-secretary-karine-jean-pierre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/09/statement-by-white-house-press-secretary-karine-jean-pierre/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine\_Jean-Pierre"
 ---

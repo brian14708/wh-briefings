@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 15:22:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/united-states-australia-joint-leaders-statementbuilding-an-innovation-alliance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/united-states-australia-joint-leaders-statementbuilding-an-innovation-alliance/
 tags: statements-releases
 title: "United\_States-Australia Joint Leaders\u2019 StatementBuilding an Innovation\_\
   Alliance"

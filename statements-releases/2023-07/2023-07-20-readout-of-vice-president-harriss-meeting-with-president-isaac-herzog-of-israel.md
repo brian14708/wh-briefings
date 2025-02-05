@@ -1,7 +1,7 @@
 ---
 date: '2023-07-20'
 published_time: 2023-07-20 10:11:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/readout-of-vice-president-harriss-meeting-with-president-isaac-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/readout-of-vice-president-harriss-meeting-with-president-isaac-herzog-of-israel/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Isaac Herzog\
   \ of\_Israel"

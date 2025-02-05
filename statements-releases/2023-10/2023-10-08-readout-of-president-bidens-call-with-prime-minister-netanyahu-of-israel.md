@@ -1,7 +1,7 @@
 ---
 date: '2023-10-08'
 published_time: 2023-10-08 13:10:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/08/readout-of-president-bidens-call-with-prime-minister-netanyahu-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/08/readout-of-president-bidens-call-with-prime-minister-netanyahu-of-israel/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Netanyahu of\_\
   Israel"

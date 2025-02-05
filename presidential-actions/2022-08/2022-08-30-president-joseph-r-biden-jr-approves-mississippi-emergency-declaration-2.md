@@ -2,7 +2,7 @@
 date: '2022-08-30'
 modified_time: 2022-08-30 23:40:26-04:00
 published_time: 2022-08-30 23:40:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/30/president-joseph-r-biden-jr-approves-mississippi-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/30/president-joseph-r-biden-jr-approves-mississippi-emergency-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Mississippi Emergency\_Declaration"
 ---

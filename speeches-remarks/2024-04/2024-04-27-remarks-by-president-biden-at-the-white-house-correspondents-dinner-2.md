@@ -2,7 +2,7 @@
 date: '2024-04-27'
 modified_time: 2024-04-28 21:46:58-04:00
 published_time: 2024-04-27 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/27/remarks-by-president-biden-at-the-white-house-correspondents-dinner-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/27/remarks-by-president-biden-at-the-white-house-correspondents-dinner-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Correspondents\u2019 Dinner"
 ---

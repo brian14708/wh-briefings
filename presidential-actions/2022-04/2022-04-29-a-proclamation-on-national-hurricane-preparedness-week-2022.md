@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 13:00:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-hurricane-preparedness-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-hurricane-preparedness-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Hurricane Preparedness Week,\_2022"
 ---

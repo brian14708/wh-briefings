@@ -2,7 +2,7 @@
 date: '2023-01-22'
 modified_time: 2023-01-22 19:55:34-05:00
 published_time: 2023-01-22 19:17:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/statement-from-president-joe-biden-on-the-shooting-in-monterey-park-california/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/statement-from-president-joe-biden-on-the-shooting-in-monterey-park-california/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Monterey Park,\_California"
 ---

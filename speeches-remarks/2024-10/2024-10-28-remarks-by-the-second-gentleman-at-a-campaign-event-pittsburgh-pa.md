@@ -2,7 +2,7 @@
 date: '2024-10-28'
 modified_time: 2024-10-30 16:21:46-04:00
 published_time: 2024-10-28 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/28/remarks-by-the-second-gentleman-at-a-campaign-event-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/28/remarks-by-the-second-gentleman-at-a-campaign-event-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks by the Second Gentleman at a Campaign Event | Pittsburgh,\_PA"
 ---

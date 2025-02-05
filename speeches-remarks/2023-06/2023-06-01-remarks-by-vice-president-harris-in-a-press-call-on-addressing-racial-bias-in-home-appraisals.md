@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 published_time: 2023-06-01 17:45:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/01/remarks-by-vice-president-harris-in-a-press-call-on-addressing-racial-bias-in-home-appraisals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/01/remarks-by-vice-president-harris-in-a-press-call-on-addressing-racial-bias-in-home-appraisals/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Press Call on Addressing Racial Bias\
   \ in Home\_Appraisals"

@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-01-24'
 modified_time: 2022-01-24 17:13:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/24/press-briefing-by-press-secretary-jen-psaki-january-24-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/01/24/press-briefing-by-press-secretary-jen-psaki-january-24-2022/
 published_time: 2022-01-24 17:30:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, January 24,\_2022"
 ---

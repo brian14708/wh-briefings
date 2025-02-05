@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-10 21:48:34-04:00
 published_time: 2022-04-11 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Announces New Actions to Lessen the Burden\
   \ of Medical Debt and Increase Consumer\_Protection"
@@ -44,7 +44,7 @@ hardship for American families. That is why the Administration is taking
 new action to ease the burden of medical debt and protect consumers from
 predatory collection policies. These actions build upon the President’s
 April 5<sup>th</sup> [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/?msclkid=887ba3d9b67111ec81e80c7ddd11167b) on
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/?msclkid=887ba3d9b67111ec81e80c7ddd11167b) on
 strengthening access to affordable, quality health care coverage, which
 directed federal agencies to take action to reduce the burden of medical
 debt. 

@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-17 16:23:04-04:00
 published_time: 2022-06-17 10:47:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Launches the Talent Pipeline\
   \ Challenge: Supporting Employer Investments in Equitable Workforce Development\

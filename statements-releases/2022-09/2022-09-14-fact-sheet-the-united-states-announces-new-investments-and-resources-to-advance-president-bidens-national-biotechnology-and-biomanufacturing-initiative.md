@@ -2,7 +2,7 @@
 date: '2022-09-14'
 modified_time: 2022-09-14 09:45:41-04:00
 published_time: 2022-09-14 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-the-united-states-announces-new-investments-and-resources-to-advance-president-bidens-national-biotechnology-and-biomanufacturing-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-the-united-states-announces-new-investments-and-resources-to-advance-president-bidens-national-biotechnology-and-biomanufacturing-initiative/
 tags: statements-releases
 title: "FACT SHEET: The United\_States Announces New Investments and Resources to\
   \ Advance President\_Biden\u2019s National Biotechnology and Biomanufacturing Initiative"

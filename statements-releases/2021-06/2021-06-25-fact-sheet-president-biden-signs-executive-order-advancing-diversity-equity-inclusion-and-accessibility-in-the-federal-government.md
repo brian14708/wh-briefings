@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-25'
 modified_time: 2021-06-25 17:33:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/25/fact-sheet-president-biden-signs-executive-order-advancing-diversity-equity-inclusion-and-accessibility-in-the-federal-government/
 published_time: 2021-06-25 18:30:00-04:00
 title: "FACT SHEET: President\_Biden Signs Executive Order Advancing Diversity, Equity,\
   \ Inclusion, and Accessibility in the Federal\_Government"
@@ -26,7 +26,7 @@ practices.
 When public servants reflect the communities they serve, the government
 is more effective and successful. That is why the Biden-Harris
 Administration has appointed [an historic number of  diverse
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/).
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/).
 Today’s Executive Order will help develop a Federal workforce that looks
 like America where qualified people from every background and walk of
 life have an equal opportunity to serve our Nation.

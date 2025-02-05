@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-04'
 modified_time: 2021-08-04 16:55:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/president-biden-announces-11-key-nominations-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/04/president-biden-announces-11-key-nominations-2/
 published_time: 2021-08-04 16:55:51-04:00
 title: "President\_Biden Announces 11 Key\_Nominations"
 ---

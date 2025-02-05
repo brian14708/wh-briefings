@@ -2,7 +2,7 @@
 date: '2023-08-13'
 modified_time: 2023-08-16 12:52:26-04:00
 published_time: 2023-08-13 12:46:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/13/remarks-by-vice-president-harris-at-a-campaign-reception-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/13/remarks-by-vice-president-harris-at-a-campaign-reception-7/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign\_Reception"
 ---

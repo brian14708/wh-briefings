@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-15 16:04:14-04:00
 published_time: 2023-09-15 16:04:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for-fiscal-year-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/15/memorandum-on-presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for-fiscal-year-2024/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination on Major Drug Transit or Major Illicit\
   \ Drug Producing Countries for Fiscal Year\_2024"

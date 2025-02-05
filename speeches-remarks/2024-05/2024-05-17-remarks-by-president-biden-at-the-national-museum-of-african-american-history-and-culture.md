@@ -1,7 +1,7 @@
 ---
 date: '2024-05-17'
 published_time: 2024-05-17 17:27:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/17/remarks-by-president-biden-at-the-national-museum-of-african-american-history-and-culture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/17/remarks-by-president-biden-at-the-national-museum-of-african-american-history-and-culture/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Museum of African American History\
   \ and\_Culture"

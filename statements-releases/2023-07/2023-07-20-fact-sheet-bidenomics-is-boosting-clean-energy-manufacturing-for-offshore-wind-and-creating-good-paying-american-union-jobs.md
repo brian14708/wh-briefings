@@ -2,7 +2,7 @@
 date: '2023-07-20'
 modified_time: 2023-07-19 19:22:09-04:00
 published_time: 2023-07-20 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/fact-sheet-bidenomics-is-boosting-clean-energy-manufacturing-for-offshore-wind-and-creating-good-paying-american-union-jobs/
 tags: statements-releases
 title: "FACT SHEET: Bidenomics is Boosting Clean Energy Manufacturing for Offshore\
   \ Wind and Creating Good-Paying American Union\_Jobs"
@@ -44,7 +44,7 @@ President Biden signed the Inflation Reduction Act.
 Also today, President Biden is announcing the first-ever Gulf of Mexico
 offshore wind lease sale. This is the latest in a [broad set of actions
 by the Biden-Harris
-Administration](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) to
+Administration](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) to
 build 30 gigawatts of offshore wind projects by 2030—enough to power
 more than 10 million homes with clean energy. A key pillar of
 Bidenomics, President Biden’s Investing in America agenda will help
@@ -67,7 +67,7 @@ Industry</u>**
 As part of President Biden’s historic actions to build a clean energy
 economy, the Biden-Harris Administration has [jumpstarted an American
 offshore wind
-industry](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) that
+industry](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) that
 will strengthen the nation’s energy security, make the power grid more
 reliable while lowering energy costs, and reduce dangerous climate
 pollution. The Biden-Harris Administration’s actions to advance
@@ -152,7 +152,7 @@ energy. Additional supply chain progress includes:
 Earlier this year at the International Offshore Wind Partnering Forum in
 Baltimore, White House National Climate Advisor Ali Zaidi outlined [ten
 ways the Administration is making
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) toward
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/) toward
 the goal of deploying 30 gigawatts of offshore wind energy by 2030.
 Recent progress made by the Biden-Harris Administration toward this goal
 includes:

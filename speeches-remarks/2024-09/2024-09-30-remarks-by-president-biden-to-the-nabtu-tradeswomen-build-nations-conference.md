@@ -1,7 +1,7 @@
 ---
 date: '2024-09-30'
 published_time: 2024-09-30 16:24:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-to-the-nabtu-tradeswomen-build-nations-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/30/remarks-by-president-biden-to-the-nabtu-tradeswomen-build-nations-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to the NABTU Tradeswomen Build Nations\_Conference"
 ---

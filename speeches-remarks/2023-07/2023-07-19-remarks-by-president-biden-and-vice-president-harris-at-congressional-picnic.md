@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 22:37:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-president-biden-and-vice-president-harris-at-congressional-picnic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/19/remarks-by-president-biden-and-vice-president-harris-at-congressional-picnic/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at Congressional\_Picnic"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-29'
 published_time: 2023-12-29 12:06:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/29/statement-from-president-joe-biden-on-russias-aerial-assault-on-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/29/statement-from-president-joe-biden-on-russias-aerial-assault-on-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Russia\u2019s Aerial Assault on\_Ukraine"
 ---

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-27'
 modified_time: 2021-07-29 08:01:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/27/fact-sheet-the-biden-administration-blueprint-for-a-fair-orderly-and-humane-immigration-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/27/fact-sheet-the-biden-administration-blueprint-for-a-fair-orderly-and-humane-immigration-system/
 published_time: 2021-07-27 09:30:00-04:00
 title: "FACT SHEET: The Biden Administration Blueprint for a Fair, Orderly and Humane\
   \ Immigration\_System"
@@ -12,14 +12,14 @@ The United States can have an orderly, secure, and well-managed border
 while treating people fairly and humanely.
 
 In January, the Biden-Harris Administration
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-president-biden-sends-immigration-bill-to-congress-as-part-of-his-commitment-to-modernize-our-immigration-system/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/20/fact-sheet-president-biden-sends-immigration-bill-to-congress-as-part-of-his-commitment-to-modernize-our-immigration-system/)
 a broad, whole of government effort to reform our immigration system,
 including sending to Congress legislation that creates a new system to
 responsibly manage and secure our border, provide a pathway to
 citizenship, and better manage migration across the Hemisphere.
 
 In the six months since, the Administration has made considerable
-[progress](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/action-the-biden-harris-administration-has-taken-to-address-the-border-challenge/)
+[progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/15/action-the-biden-harris-administration-has-taken-to-address-the-border-challenge/)
 to build a fair, orderly, and humane immigration system while continuing
 to call on Congress to make long overdue reforms to U.S. immigration
 laws. We successfully processed over 12,500 people who had been returned
@@ -271,7 +271,7 @@ make a life in our country.
     workers who live, work, study, and worship in our communities. 
 
 [FACT SHEET: Strategy to Address the Root Causes of Migration in
-Central America](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/)
+Central America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/)
 
 [FACT SHEET: The Collaborative Migration
-Management Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-the-collaborative-migration-management-strategy/)
+Management Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-the-collaborative-migration-management-strategy/)

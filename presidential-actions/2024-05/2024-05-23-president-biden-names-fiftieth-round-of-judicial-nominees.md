@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-23 12:01:43-04:00
 published_time: 2024-05-23 12:01:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/23/president-biden-names-fiftieth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/23/president-biden-names-fiftieth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Fiftieth Round of Judicial\_Nominees"
 ---

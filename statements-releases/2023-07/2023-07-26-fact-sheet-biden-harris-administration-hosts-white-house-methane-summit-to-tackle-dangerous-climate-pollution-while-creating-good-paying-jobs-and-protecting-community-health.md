@@ -2,7 +2,7 @@
 date: '2023-07-26'
 modified_time: 2023-07-26 04:19:54-04:00
 published_time: 2023-07-26 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-biden-harris-administration-hosts-white-house-methane-summit-to-tackle-dangerous-climate-pollution-while-creating-good-paying-jobs-and-protecting-community-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-biden-harris-administration-hosts-white-house-methane-summit-to-tackle-dangerous-climate-pollution-while-creating-good-paying-jobs-and-protecting-community-health/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hosts White\_House Methane Summit\
   \ to Tackle Dangerous Climate Pollution, while Creating Good-Paying Jobs and Protecting\
@@ -48,7 +48,7 @@ opportunities:
     and support state and local efforts to mitigate and enforce methane
     emissions regulations. The Task Force will accelerate execution of
     the [U.S. Methane Emissions Reduction Action
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2022/11/US-Methane-Emissions-Reduction-Action-Plan-Update.pdf),
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/US-Methane-Emissions-Reduction-Action-Plan-Update.pdf),
     building on over 80 Administration actions taken to date under the
     Plan.  
 -   **Detecting Emissions Using Innovative Technology:** Identifying
@@ -271,7 +271,7 @@ goals, the pledge could eliminate over 0.2 degrees Celsius of warming by
     collaborating with global partners to deliver on the Global Methane
     Pledge with action in the energy, food and agriculture and waste
     sectors, as well as a [$200 million dollar Methane Finance
-    Sprint](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/),
+    Sprint](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/),
     major progress on national methane policies, and a Methane Alert and
     Response System to leverage data for methane action.  
 -   **Verifying emissions throughout the global supply chain:** DOE

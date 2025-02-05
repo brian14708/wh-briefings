@@ -1,7 +1,7 @@
 ---
 date: '2024-10-11'
 published_time: 2024-10-11 10:18:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/11/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-deputy-prime-minister-john-rosso-of-papua-new-guinea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/11/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-deputy-prime-minister-john-rosso-of-papua-new-guinea/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Deputy Prime Minister John Rosso of Papua New\_Guinea"

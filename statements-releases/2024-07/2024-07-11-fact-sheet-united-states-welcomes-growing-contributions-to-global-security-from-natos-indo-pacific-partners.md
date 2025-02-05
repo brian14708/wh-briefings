@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-17 12:43:57-04:00
 published_time: 2024-07-11 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-united-states-welcomes-growing-contributions-to-global-security-from-natos-indo-pacific-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/fact-sheet-united-states-welcomes-growing-contributions-to-global-security-from-natos-indo-pacific-partners/
 tags: statements-releases
 title: "FACT SHEET: United\_States Welcomes Growing Contributions to Global Security\
   \ from NATO\u2019s Indo-Pacific\_Partners"

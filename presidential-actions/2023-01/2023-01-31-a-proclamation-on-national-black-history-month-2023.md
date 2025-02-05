@@ -2,7 +2,7 @@
 date: '2023-01-31'
 modified_time: 2023-01-31 10:54:44-05:00
 published_time: 2023-01-31 10:54:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/31/a-proclamation-on-national-black-history-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/31/a-proclamation-on-national-black-history-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Black History Month,\_2023"
 ---

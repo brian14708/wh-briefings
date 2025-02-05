@@ -2,7 +2,7 @@
 date: '2024-03-06'
 modified_time: 2024-03-12 09:39:11-05:00
 published_time: 2024-03-06 16:25:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/readout-of-the-sixth-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/readout-of-the-sixth-meeting-of-the-white-house-competition-council/
 tags: statements-releases
 title: "Readout of the Sixth Meeting of the White\_House Competition\_Council"
 ---
@@ -45,7 +45,7 @@ rule](https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-excessive-cred
 that will cut credit card late fees from an average of $32 to $8, saving
 Americans $10 billion—an average of $220 per year for the more than 45
 million people who are charged these fees. A [new
-blog](https://www.whitehouse.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/)
+blog](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/)
 from the Council of Economic Advisers finds that actions by the
 Biden-Harris Administration will save Americans more than $20 billion in
 hidden junk fees every year.  

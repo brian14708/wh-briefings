@@ -2,7 +2,7 @@
 date: '2022-08-24'
 modified_time: 2022-08-24 18:36:30-04:00
 published_time: 2022-08-24 18:36:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/24/background-press-call-by-senior-administration-officials-on-student-loan-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/24/background-press-call-by-senior-administration-officials-on-student-loan-relief/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on Student Loan\_\
   Relief"

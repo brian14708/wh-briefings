@@ -2,7 +2,7 @@
 date: '2023-10-27'
 modified_time: 2023-10-30 10:30:06-04:00
 published_time: 2023-10-27 22:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/27/remarks-by-president-biden-at-a-campaign-reception-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/27/remarks-by-president-biden-at-a-campaign-reception-4/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign\_Reception"
 ---

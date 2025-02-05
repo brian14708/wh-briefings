@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 12:53:16-04:00
 published_time: 2022-07-14 12:21:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/14/president-joseph-r-biden-jr-approves-minnesota-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/14/president-joseph-r-biden-jr-approves-minnesota-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Minnesota Disaster\_Declaration"
 ---

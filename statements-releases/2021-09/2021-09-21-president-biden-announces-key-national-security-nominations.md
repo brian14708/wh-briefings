@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-21'
 modified_time: 2021-09-22 20:42:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/21/president-biden-announces-key-national-security-nominations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/21/president-biden-announces-key-national-security-nominations/
 published_time: 2021-09-21 16:19:55-04:00
 title: "President\_Biden Announces Key National Security\_Nominations"
 ---

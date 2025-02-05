@@ -1,7 +1,7 @@
 ---
 date: '2022-11-29'
 published_time: 2022-11-29 12:41:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-summit-for-democracy-progress-in-the-year-of-action/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-summit-for-democracy-progress-in-the-year-of-action/
 tags: statements-releases
 title: "Fact Sheet: Summit for Democracy: Progress in the Year of\_Action"
 ---
@@ -17,7 +17,7 @@ unjustified war against Ukraine. 
    
 President Biden is pleased to announce that on March 29-30, 2023, he
 will [co-host the second Summit for
-Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/joint-statement-between-costa-rica-the-netherlands-the-republic-of-korea-the-republic-of-zambia-and-the-united-states-on-the-announcement-of-the-second-summit-for-democracy/) with
+Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/joint-statement-between-costa-rica-the-netherlands-the-republic-of-korea-the-republic-of-zambia-and-the-united-states-on-the-announcement-of-the-second-summit-for-democracy/) with
 the leaders of Costa Rica, the Netherlands, the Republic of Korea, and
 the Republic of Zambia. This diverse group of co-hosts underscores the
 universal desire for accountable, transparent, and rights-respecting

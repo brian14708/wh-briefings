@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-27 10:15:59-04:00
 published_time: 2023-04-26 13:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/26/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2023-international-summit-on-the-teaching-profession/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/26/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2023-international-summit-on-the-teaching-profession/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2023 International\
   \ Summit on the Teaching\_Profession"

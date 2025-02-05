@@ -2,7 +2,7 @@
 date: '2023-03-28'
 modified_time: 2023-03-29 11:04:09-04:00
 published_time: 2023-03-28 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/28/background-press-call-by-senior-administration-officials-previewing-day-one-of-the-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/28/background-press-call-by-senior-administration-officials-previewing-day-one-of-the-summit-for-democracy/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing Day One\
   \ of the Summit for\_Democracy"

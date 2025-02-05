@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-03'
 modified_time: 2021-06-03 15:11:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-40/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/03/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-40/
 published_time: 2021-06-03 15:11:05-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -568,4 +568,4 @@ MODERATOR:  I think we got to wrap up.  But thank you, Jeff. 
 11:43 A.M. EDT
 
 To view the COVID Press Briefing slides,
-visit <https://www.whitehouse.gov/wp-content/uploads/2021/06/COVID-Press-Briefing_3June2021_for-transcript.pdf>
+visit <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/COVID-Press-Briefing_3June2021_for-transcript.pdf>

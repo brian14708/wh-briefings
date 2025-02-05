@@ -2,7 +2,7 @@
 date: '2023-10-14'
 modified_time: 2023-10-14 13:54:47-04:00
 published_time: 2023-10-14 13:54:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/14/remarks-by-president-biden-on-creating-good-paying-union-jobs-investing-in-america-and-building-the-clean-energy-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/14/remarks-by-president-biden-on-creating-good-paying-union-jobs-investing-in-america-and-building-the-clean-energy-future/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Creating Good-Paying Union Jobs, Investing\
   \ in America, and Building the Clean Energy\_Future"

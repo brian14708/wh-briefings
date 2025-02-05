@@ -1,7 +1,7 @@
 ---
 date: '2024-01-28'
 published_time: 2024-01-28 13:16:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/28/remarks-by-president-biden-at-a-political-event-columbia-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/28/remarks-by-president-biden-at-a-political-event-columbia-sc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Event | Columbia,\_SC"
 ---

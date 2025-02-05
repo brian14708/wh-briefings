@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 10:56:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/statement-from-president-biden-on-reopening-i-95/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/statement-from-president-biden-on-reopening-i-95/
 tags: statements-releases
 title: "Statement From President\_Biden on Reopening\_I-95"
 ---

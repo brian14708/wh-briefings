@@ -2,7 +2,7 @@
 date: '2024-11-11'
 modified_time: 2024-11-12 12:28:04-05:00
 published_time: 2024-11-11 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/11/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/11/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families-2/
 tags: statements-releases
 title: "FACT SHEET: To Mark Veterans Day, Biden-\u2060Harris Administration Highlights\
   \ Historic Care, Benefits & New Actions to Support Veterans and Their\_Families"
@@ -86,7 +86,7 @@ were under lease with vouchers through the HUD-VA Supportive Housing
 Program (HUD-VASH) – the most veterans served at any point in the
 program’s history. President Biden has also called on Congress
 to [triple the number of
-veterans](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/) who
+veterans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/) who
 receive housing vouchers – a critical tool to help prevent veteran
 homelessness in the first place.
 
@@ -138,7 +138,7 @@ quality health care that they’ve earned and deserve.
 **Providing benefits to address toxic exposures.** The [bipartisan
 Sergeant First Class Heath Robinson Honoring our Promise to Address
 Comprehensive Toxics (PACT)
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) represents
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) represents
 the most significant expansion in benefits and services for veterans in
 over thirty years. At President Biden’s direction, VA expedited health
 care and benefits eligibility under the PACT Act by several years,
@@ -165,13 +165,13 @@ a new scientific assessment to determine if there is a relationship
 between per- and polyfluoroalkyl substances (PFAS) exposure during
 military service and kidney cancer among veterans. This review helps
 advance the President’s [Unity Agenda and Biden Cancer
-Moonshot](https://www.whitehouse.gov/cancermoonshot/) goals to
+Moonshot](https://bidenwhitehouse.archives.gov/cancermoonshot/) goals to
 understand and address environmental and toxic exposures and end cancer
 as we know it.
 
 **Reducing veteran suicide.** Since releasing a comprehensive public
 health strategy for [reducing military and
-veteran](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
+veteran](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
 the Biden-Harris Administration has continued to improve suicide
 prevention efforts. As of October 2024, VA has provided no-cost
 life-saving care to more than 82,000 veterans at risk of suicide since
@@ -192,7 +192,7 @@ tools and resources to improve financial wellbeing.
 
 **Improving access to child and long-term care options.** Last year,
 President Biden signed an historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) calling
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) calling
 for more than 50 administrative actions that would improve access to and
 quality of child care and long-term care for Americans, including for
 our nation’s heroes. Thanks to these actions, each VA medical center
@@ -244,11 +244,11 @@ location.
 **Advancing economic security for military and veteran spouses,
 caregivers, and survivors.** Since Day One of the Biden-Harris
 Administration, First Lady Jill Biden, through her [*Joining
-Forces*](https://www.whitehouse.gov/joiningforces/) initiative, has
+Forces*](https://bidenwhitehouse.archives.gov/joiningforces/) initiative, has
 worked to eliminate barriers to employment and increase economic
 opportunity for military-connected families. In June 2023, the
 President, alongside the First Lady, signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) that
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) that
 included nearly 20 new actions to enhance career stability, expand
 employment resources, and improve transition assistance support for
 military and veteran spouses, caregivers, and survivors. In February
@@ -257,7 +257,7 @@ government-wide plan to [tackle employment barriers and expand
 opportunities for military-connected spouses, caregivers, and
 survivors](https://chcoc.gov/content/government-wide-military-connected-strategic-plan-fiscal-years-fys-2024-2028).
 And, in April 2024, the Administration
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/)
 a permanent memorandum of agreement between the Department of Defense
 and State Department to strengthen the Domestic Employees Teleworking
 Overseas (DETO) program for military spouses who work for the federal

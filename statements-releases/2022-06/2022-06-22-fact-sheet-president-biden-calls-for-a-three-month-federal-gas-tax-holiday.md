@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-21 23:46:28-04:00
 published_time: 2022-06-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/22/fact-sheet-president-biden-calls-for-a-three-month-federal-gas-tax-holiday/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/22/fact-sheet-president-biden-calls-for-a-three-month-federal-gas-tax-holiday/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden Calls for a Three-Month Federal Gas Tax\_Holiday"
 ---

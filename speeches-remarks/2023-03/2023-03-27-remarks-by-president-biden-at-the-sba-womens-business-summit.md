@@ -1,7 +1,7 @@
 ---
 date: '2023-03-27'
 published_time: 2023-03-27 17:48:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-president-biden-at-the-sba-womens-business-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-president-biden-at-the-sba-womens-business-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the SBA Women\u2019s Business\_Summit"
 ---

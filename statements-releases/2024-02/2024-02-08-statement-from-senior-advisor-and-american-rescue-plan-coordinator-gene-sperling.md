@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 15:19:51-05:00
 published_time: 2024-02-08 15:19:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/statement-from-senior-advisor-and-american-rescue-plan-coordinator-gene-sperling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/statement-from-senior-advisor-and-american-rescue-plan-coordinator-gene-sperling/
 tags: statements-releases
 title: "Statement from Senior Advisor and American Rescue Plan Coordinator Gene\_\
   Sperling"
@@ -12,7 +12,7 @@ We applaud this bipartisan effort by Senate Finance Committee Chairman
 Ron Wyden and Ranking Member Mike Crapo on fraud prevention and
 technology modernization in the unemployment system that aligns
 with several specific elements from [President Biden’s anti-fraud
-proposal](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/). Emergency
+proposal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/). Emergency
 unemployment benefits were a critical lifeline for millions of workers
 who lost jobs through no fault of their own during the pandemic. But the
 implementation in 2020 exposed the need for stronger fraud

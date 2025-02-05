@@ -2,7 +2,7 @@
 date: '2024-02-20'
 modified_time: 2024-02-21 12:39:41-05:00
 published_time: 2024-02-20 12:25:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/20/press-call-by-secretary-of-education-miguel-cardona-white-house-deputy-chief-of-staff-natalie-quillian-and-senior-administration-officials-on-student-debt-cancelation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/20/press-call-by-secretary-of-education-miguel-cardona-white-house-deputy-chief-of-staff-natalie-quillian-and-senior-administration-officials-on-student-debt-cancelation/
 tags: press-briefings
 title: "Press Call by Secretary of Education Miguel Cardona, White\_House Deputy Chief\
   \ of Staff Natalie Quillian, and Senior Administration Officials on Student Debt\_\

@@ -2,7 +2,7 @@
 date: '2023-11-22'
 modified_time: 2023-11-22 17:05:55-05:00
 published_time: 2023-11-22 17:05:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-bidens-call-with-president-abdel-fattah-al-sisi-of-egypt-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-bidens-call-with-president-abdel-fattah-al-sisi-of-egypt-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Abdel Fattah Al-Sisi\
   \ of\_Egypt"

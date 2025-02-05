@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-05-09'
 modified_time: 2021-05-09 10:36:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/05/09/how-the-american-rescue-plan-the-american-jobs-plan-and-the-american-families-plan-meet-the-moment-for-moms-this-mothers-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/05/09/how-the-american-rescue-plan-the-american-jobs-plan-and-the-american-families-plan-meet-the-moment-for-moms-this-mothers-day/
 published_time: 2021-05-09 10:30:00-04:00
 title: "How the American Rescue Plan, the American Jobs Plan, and the American Families\
   \ Plan Meet the Moment for Moms this Mother\u2019s\_Day"
@@ -59,7 +59,7 @@ Families Plan offer the critical relief and support that mothers and
 families need.**  
 
 **The** [**American Rescue
-Plan**](https://www.whitehouse.gov/american-rescue-plan/) **— signed
+Plan**](https://bidenwhitehouse.archives.gov/american-rescue-plan/) **— signed
 into law in March — delivers for moms.** It provides resources to get
 vaccines in arms and children safely back in school and child care —
 which helps moms kept out of the workforce this past year to get back on
@@ -90,7 +90,7 @@ to 12 months, ensuring that more new moms can stay healthy and keep the
 peace of mind that health coverage provides. 
 
 **The** [**American Jobs
-Plan**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
+Plan**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
 **will  build on that foundation to create an economy that brings
 everyone along.**  This proposed legislation would strengthen our
 families, our communities, and our nation by making bold and necessary
@@ -112,7 +112,7 @@ workplaces free from racial, gender, and other forms of discrimination
 and harassment.
 
 **The** [**American Families
-Plan**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/)
+Plan**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/)
 **will continue to build the economy by making a once-in-a-generation
 investment in our families.** It would invest $1 trillion to help cover
 basic expenses that families need and care about most — making child

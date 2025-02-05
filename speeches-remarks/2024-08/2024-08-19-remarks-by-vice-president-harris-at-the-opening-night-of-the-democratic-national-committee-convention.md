@@ -2,7 +2,7 @@
 date: '2024-08-19'
 modified_time: 2024-08-20 13:14:28-04:00
 published_time: 2024-08-19 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/19/remarks-by-vice-president-harris-at-the-opening-night-of-the-democratic-national-committee-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/19/remarks-by-vice-president-harris-at-the-opening-night-of-the-democratic-national-committee-convention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Opening Night of the Democratic National\
   \ Committee\_Convention"

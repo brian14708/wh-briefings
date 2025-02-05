@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 22:48:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/30/remarks-by-president-biden-at-the-national-christmas-tree-lighting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/30/remarks-by-president-biden-at-the-national-christmas-tree-lighting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Christmas Tree\_Lighting"
 ---

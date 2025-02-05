@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 17:31:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/joint-statement-from-president-biden-and-prime-minister-meloni/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/joint-statement-from-president-biden-and-prime-minister-meloni/
 tags: statements-releases
 title: "Joint Statement from President\_Biden and Prime Minister\_Meloni"
 ---

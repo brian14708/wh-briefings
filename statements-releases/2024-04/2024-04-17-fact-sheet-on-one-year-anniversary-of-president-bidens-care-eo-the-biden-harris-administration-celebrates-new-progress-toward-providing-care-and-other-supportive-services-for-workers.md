@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-16 18:38:46-04:00
 published_time: 2024-04-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-on-one-year-anniversary-of-president-bidens-care-eo-the-biden-harris-administration-celebrates-new-progress-toward-providing-care-and-other-supportive-services-for-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-on-one-year-anniversary-of-president-bidens-care-eo-the-biden-harris-administration-celebrates-new-progress-toward-providing-care-and-other-supportive-services-for-workers/
 tags: statements-releases
 title: "FACT SHEET: On One-Year Anniversary of President\_Biden\u2019s Care EO, the\
   \ Biden-\u2060Harris Administration Celebrates New Progress toward Providing Care\
@@ -13,9 +13,9 @@ title: "FACT SHEET: On One-Year Anniversary of President\_Biden\u2019s Care EO, 
 Leaders, Employers, and Others to Build on These Efforts*
 
 During [Care Workers Recognition
-Month](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/)
+Month](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/)
 and the [Month of Action on
-Care](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/),
+Care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-biden-harris-administration-highlights-substantial-progress-on-the-presidents-care-agenda-during-month-of-action-on-care/),
 the Biden-Harris Administration will mark progress toward expanding
 access to care and other supportive services workers need to train for
 and stay in good-paying jobs. Today, Senior Biden-Harris Administration
@@ -39,7 +39,7 @@ on the Department of Commerce’s historic requirement that companies
 receiving major CHIPS and Science Act grants provide child care for
 their workers, the President’s [Executive Order on Increasing Access to
 High-Quality Care and Supporting
-Caregivers](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+Caregivers](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
 (Care EO) directed every cabinet-level agency to determine how they can
 require, preference, or encourage their own federal funding applicants
 to provide supportive services, including care, for workers.  
@@ -93,14 +93,14 @@ including:
 
 -   **The** **White House Council of Economic Advisers** will publish
     [*Seven Facts About the Economics of Child
-    Care*](https://www.whitehouse.gov/cea/written-materials/2024/04/17/seven-facts-about-the-economics-of-child-care/)*,*
+    Care*](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/04/17/seven-facts-about-the-economics-of-child-care/)*,*
     laying out the research-based imperative for investing in child
     care—including how access to affordable, high-quality care can
     encourage U.S. labor force participation, particularly among
     women.  
 -   **The White House** will release a new guide, *[Advancing Care as a
     Supportive
-    Service](https://www.whitehouse.gov/wp-content/uploads/2024/04/Advancing-Care-as-a-Supportive-Service.pdf)*,
+    Service](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Advancing-Care-as-a-Supportive-Service.pdf)*,
     to help care and workforce development stakeholders leverage federal
     funds to support care and other supportive services for workers,
     including on federally funded and federally supported projects.  
@@ -153,7 +153,7 @@ workers, including:
     authorized by the CHIPS and Science Act.  
 -   **Maryland’s** state Department of Transportation, in support of the
     [Baltimore Workforce
-    Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
+    Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/)
     and the state’s workforce development efforts, is allocating an
     unprecedented $24 million of federal funds over six years to support
     transportation infrastructure workforce in the state. This
@@ -258,7 +258,7 @@ include:
     good-paying jobs, including by enabling wraparound supports for
     learners and students. The inaugural 10 NSF Engines, announced in
     January, are receiving more than [$530
-    million](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-innovation-engines-awards-catalyzing-more-than-530-million-to-boost-economic-growth-and-innovation-in-communities-across-america/) in
+    million](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-innovation-engines-awards-catalyzing-more-than-530-million-to-boost-economic-growth-and-innovation-in-communities-across-america/) in
     federal and matched investments over the next two years to catalyze
     place-based innovation and boost economic growth. In addition, NSF’s
     Experiential Learning for Emerging and Novel Technologies ([ExLENT)

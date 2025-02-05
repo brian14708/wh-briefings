@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 12:42:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/16/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/16/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to the Situation in\_Nicaragua"

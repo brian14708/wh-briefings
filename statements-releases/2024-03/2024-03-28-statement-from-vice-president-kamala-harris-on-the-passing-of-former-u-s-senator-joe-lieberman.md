@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 16:16:21-04:00
 published_time: 2024-03-28 16:15:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/statement-from-vice-president-kamala-harris-on-the-passing-of-former-u-s-senator-joe-lieberman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/statement-from-vice-president-kamala-harris-on-the-passing-of-former-u-s-senator-joe-lieberman/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Former U.S.\
   \ Senator Joe\_Lieberman"

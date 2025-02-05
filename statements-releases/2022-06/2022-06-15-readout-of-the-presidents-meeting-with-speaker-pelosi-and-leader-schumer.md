@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 20:35:30-04:00
 published_time: 2022-06-15 20:35:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/readout-of-the-presidents-meeting-with-speaker-pelosi-and-leader-schumer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/readout-of-the-presidents-meeting-with-speaker-pelosi-and-leader-schumer/
 tags: statements-releases
 title: "Readout of the President\u2019s Meeting with Speaker Pelosi and Leader\_Schumer"
 ---

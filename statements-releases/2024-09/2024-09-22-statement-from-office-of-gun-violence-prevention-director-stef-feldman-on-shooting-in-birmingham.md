@@ -2,7 +2,7 @@
 date: '2024-09-22'
 modified_time: 2024-09-22 17:39:53-04:00
 published_time: 2024-09-22 17:39:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/22/statement-from-office-of-gun-violence-prevention-director-stef-feldman-on-shooting-in-birmingham/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/22/statement-from-office-of-gun-violence-prevention-director-stef-feldman-on-shooting-in-birmingham/
 tags: statements-releases
 title: "Statement from Office of Gun Violence Prevention Director Stef Feldman on\
   \ Shooting in\_Birmingham"

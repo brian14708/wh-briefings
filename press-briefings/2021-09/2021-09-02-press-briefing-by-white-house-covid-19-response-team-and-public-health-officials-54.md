@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-09-02'
 modified_time: 2021-09-02 22:48:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/02/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-54/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/09/02/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-54/
 published_time: 2021-09-02 22:48:47-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -425,4 +425,4 @@ We’ll look forward to seeing you early next week.  Thank you.
 3:28 P.M. EDT
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_2September2021-_transcript.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_2September2021-_transcript.pdf>

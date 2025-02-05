@@ -2,7 +2,7 @@
 date: '2024-02-17'
 modified_time: 2024-02-17 11:07:13-05:00
 published_time: 2024-02-17 11:07:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/17/remarks-by-vice-president-harris-and-president-zelenskyy-of-ukraine-in-joint-press-conference-munich-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/17/remarks-by-vice-president-harris-and-president-zelenskyy-of-ukraine-in-joint-press-conference-munich-germany/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Zelenskyy of Ukraine in Joint\
   \ Press Conference | Munich,\_Germany"

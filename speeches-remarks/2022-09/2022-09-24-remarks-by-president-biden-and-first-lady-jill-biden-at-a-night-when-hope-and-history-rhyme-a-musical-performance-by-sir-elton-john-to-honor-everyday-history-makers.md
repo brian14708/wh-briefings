@@ -1,7 +1,7 @@
 ---
 date: '2022-09-24'
 published_time: 2022-09-24 11:55:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/24/remarks-by-president-biden-and-first-lady-jill-biden-at-a-night-when-hope-and-history-rhyme-a-musical-performance-by-sir-elton-john-to-honor-everyday-history-makers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/24/remarks-by-president-biden-and-first-lady-jill-biden-at-a-night-when-hope-and-history-rhyme-a-musical-performance-by-sir-elton-john-to-honor-everyday-history-makers/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at \u201CA Night When\
   \ Hope and History Rhyme,\u201D a Musical Performance by Sir Elton John to Honor\

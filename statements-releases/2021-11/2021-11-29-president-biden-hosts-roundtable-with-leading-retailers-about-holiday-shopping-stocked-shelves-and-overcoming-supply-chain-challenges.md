@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-29'
 modified_time: 2021-11-29 20:15:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/29/president-biden-hosts-roundtable-with-leading-retailers-about-holiday-shopping-stocked-shelves-and-overcoming-supply-chain-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/29/president-biden-hosts-roundtable-with-leading-retailers-about-holiday-shopping-stocked-shelves-and-overcoming-supply-chain-challenges/
 published_time: 2021-11-29 19:33:19-05:00
 title: "President\_Biden Hosts Roundtable with Leading Retailers About Holiday Shopping,\
   \ Stocked Shelves and Overcoming Supply Chain\_Challenges"
@@ -49,7 +49,7 @@ many Americans did their holiday shopping earlier than usual, spreading
 out the impact of holiday season shopping.  
   
 [Click
-here](https://www.whitehouse.gov/nec/briefing-room/2021/11/29/recent-progress-at-our-ports-robust-inventories-and-new-moves-toward-greater-velocity/)
+here](https://bidenwhitehouse.archives.gov/nec/briefing-room/2021/11/29/recent-progress-at-our-ports-robust-inventories-and-new-moves-toward-greater-velocity/)
 to read the latest updates on the progress at our ports.  
   
 **Attendees at the meeting included:**

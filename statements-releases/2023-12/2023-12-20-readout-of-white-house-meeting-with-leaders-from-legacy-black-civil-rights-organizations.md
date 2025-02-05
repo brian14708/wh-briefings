@@ -1,7 +1,7 @@
 ---
 date: '2023-12-20'
 published_time: 2023-12-20 19:08:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/readout-of-white-house-meeting-with-leaders-from-legacy-black-civil-rights-organizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/readout-of-white-house-meeting-with-leaders-from-legacy-black-civil-rights-organizations/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Leaders from Legacy Black Civil Rights\
   \ Organizations"

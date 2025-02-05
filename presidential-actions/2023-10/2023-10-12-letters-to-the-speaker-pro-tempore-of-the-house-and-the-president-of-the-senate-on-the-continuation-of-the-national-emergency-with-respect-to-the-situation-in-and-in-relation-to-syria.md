@@ -1,7 +1,7 @@
 ---
 date: '2023-10-12'
 published_time: 2023-10-12 11:13:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/12/letters-to-the-speaker-pro-tempore-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/12/letters-to-the-speaker-pro-tempore-of-the-house-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
 tags: presidential-actions
 title: "Letters to the Speaker pro tempore of the House and the President of the Senate\
   \ on the Continuation of the National Emergency With Respect to the Situation in\

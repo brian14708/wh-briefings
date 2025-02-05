@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 18:03:29-04:00
 published_time: 2024-04-15 18:03:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/the-president-and-vice-president-release-their-2023-tax-returns-setting-new-record-for-transparency/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/the-president-and-vice-president-release-their-2023-tax-returns-setting-new-record-for-transparency/
 tags: statements-releases
 title: "The President and Vice President release their 2023 tax returns, setting new\
   \ record for\_transparency"
@@ -40,7 +40,7 @@ Lady also released her Virginia income tax return and reported paying
 $3,549 in Virginia income tax.  
    
 View the President and First Lady’s tax returns
-[here.](https://www.whitehouse.gov/wp-content/uploads/2024/04/POTUS-2023-tax-returns-SIGNED-REDACTED.pdf)  
+[here.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/POTUS-2023-tax-returns-SIGNED-REDACTED.pdf)  
    
 The Vice President and the Second Gentleman also released their 2023
 federal income tax return, as well as state income tax returns for
@@ -55,6 +55,6 @@ $11,599 in District of Columbia income tax. They contributed $23,026 to
 charity in 2023.  
    
 View the Vice President and Second Gentleman’s tax returns
-[here.](https://www.whitehouse.gov/wp-content/uploads/2024/04/VP-2023-tax-returns-SIGNED-REDACTED.pdf)
+[here.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/VP-2023-tax-returns-SIGNED-REDACTED.pdf)
 
 \###

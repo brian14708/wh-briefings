@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 14:03:20-05:00
 published_time: 2022-12-15 14:03:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/15/memorandum-on-certifications-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-kennedy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/15/memorandum-on-certifications-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-kennedy/
 tags: presidential-actions
 title: "Memorandum on Certifications Regarding Disclosure of Information in Certain\
   \ Records Related to the Assassination of President John F.\_Kennedy"

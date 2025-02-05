@@ -2,7 +2,7 @@
 date: '2024-03-21'
 modified_time: 2024-03-21 09:28:12-04:00
 published_time: 2024-03-21 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/fact-sheet-80-of-house-republicans-release-plan-targeting-medicare-social-security-and-the-affordable-care-act-raising-costs-and-cutting-taxes-for-the-wealthy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/21/fact-sheet-80-of-house-republicans-release-plan-targeting-medicare-social-security-and-the-affordable-care-act-raising-costs-and-cutting-taxes-for-the-wealthy/
 tags: statements-releases
 title: "FACT SHEET: 80% of House Republicans Release Plan Targeting Medicare, Social\
   \ Security, and the Affordable Care Act, Raising Costs, and Cutting Taxes for the\_\

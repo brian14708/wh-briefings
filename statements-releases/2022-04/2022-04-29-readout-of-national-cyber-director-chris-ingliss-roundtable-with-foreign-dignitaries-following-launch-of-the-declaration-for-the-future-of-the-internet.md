@@ -2,7 +2,7 @@
 date: '2022-04-29'
 modified_time: 2022-04-29 12:31:27-04:00
 published_time: 2022-04-29 12:31:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/readout-of-national-cyber-director-chris-ingliss-roundtable-with-foreign-dignitaries-following-launch-of-the-declaration-for-the-future-of-the-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/readout-of-national-cyber-director-chris-ingliss-roundtable-with-foreign-dignitaries-following-launch-of-the-declaration-for-the-future-of-the-internet/
 tags: statements-releases
 title: "Readout of National Cyber Director Chris Inglis\u2019s Roundtable with Foreign\
   \ Dignitaries Following Launch of the Declaration for the Future of the\_Internet"

@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 07:58:57-04:00
 published_time: 2024-10-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/17/background-press-call-on-the-presidents-travel-to-berlin-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/17/background-press-call-on-the-presidents-travel-to-berlin-germany/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s Travel to Berlin,\_Germany"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 16:00:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/08/remarks-by-president-biden-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/08/remarks-by-president-biden-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Rishi Sunak of the United Kingdom\
   \ Before Bilateral\_Meeting"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-07'
 published_time: 2023-07-07 18:21:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/07/remarks-by-president-biden-on-lowering-healthcare-costs-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/07/remarks-by-president-biden-on-lowering-healthcare-costs-for-americans/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering Healthcare Costs for\_Americans"
 ---

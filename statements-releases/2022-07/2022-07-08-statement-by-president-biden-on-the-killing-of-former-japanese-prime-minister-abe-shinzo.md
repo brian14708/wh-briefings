@@ -1,7 +1,7 @@
 ---
 date: '2022-07-08'
 published_time: 2022-07-08 08:57:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/statement-by-president-biden-on-the-killing-of-former-japanese-prime-minister-abe-shinzo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/statement-by-president-biden-on-the-killing-of-former-japanese-prime-minister-abe-shinzo/
 tags: statements-releases
 title: "Statement by President\_Biden on the Killing of Former Japanese Prime Minister\
   \ Abe\_Shinzo"

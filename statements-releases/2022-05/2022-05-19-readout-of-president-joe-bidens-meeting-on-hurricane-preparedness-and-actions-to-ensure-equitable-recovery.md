@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 08:32:47-04:00
 published_time: 2022-05-19 07:13:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/readout-of-president-joe-bidens-meeting-on-hurricane-preparedness-and-actions-to-ensure-equitable-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/readout-of-president-joe-bidens-meeting-on-hurricane-preparedness-and-actions-to-ensure-equitable-recovery/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s meeting on Hurricane Preparedness and\
   \ Actions to Ensure Equitable\_Recovery"

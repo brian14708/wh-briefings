@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 published_time: 2023-02-21 14:19:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/21/remarks-by-president-biden-ahead-of-the-one-year-anniversary-of-russias-brutal-and-unprovoked-invasion-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/21/remarks-by-president-biden-ahead-of-the-one-year-anniversary-of-russias-brutal-and-unprovoked-invasion-of-ukraine/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Ahead of the One-Year Anniversary of Russia\u2019\
   s Brutal and Unprovoked Invasion of\_Ukraine"

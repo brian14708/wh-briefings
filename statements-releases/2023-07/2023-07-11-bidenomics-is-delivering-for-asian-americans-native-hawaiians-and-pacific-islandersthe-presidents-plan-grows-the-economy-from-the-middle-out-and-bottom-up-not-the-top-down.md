@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-11 13:27:16-04:00
 published_time: 2023-07-11 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/bidenomics-is-delivering-for-asian-americans-native-hawaiians-and-pacific-islandersthe-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/bidenomics-is-delivering-for-asian-americans-native-hawaiians-and-pacific-islandersthe-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/
 tags: statements-releases
 title: "Bidenomics Is Delivering for Asian Americans, Native Hawaiians, and Pacific\
   \ Islanders: The President\u2019s Plan Grows the Economy from the Middle Out and\

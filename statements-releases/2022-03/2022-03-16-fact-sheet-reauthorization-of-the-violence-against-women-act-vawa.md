@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-16'
 modified_time: 2022-03-16 10:43:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/
 published_time: 2022-03-16 13:30:00-04:00
 title: "Fact Sheet:  Reauthorization of the Violence Against Women Act\_(VAWA)"
 ---
@@ -96,17 +96,17 @@ home and abroad:**
 -   **Reformed the military justice system to address sexual assault,
     harassment, and related crimes.** Signed into law the [National
     Defense Authorization
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/27/statement-by-the-president-on-s-1605-the-national-defense-authorization-act-for-fiscal-year-2022/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/27/statement-by-the-president-on-s-1605-the-national-defense-authorization-act-for-fiscal-year-2022/),
     which included sweeping reforms to the military justice system—the
     most significant since the Uniform Code of Military Justice was
     established more than seventy years ago—and implemented the
     President’s campaign promise to address the scourge of sexual
     assault in our armed forces. In conjunction with the
     President’s [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/) on
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/01/26/executive-order-on-2022-amendments-to-the-manual-for-courts-martial-united-states/) on
     military justice reform, this bipartisan, historic law adopts core
     recommendations of the [Independent Review Commission on Sexual
-    Assault](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/),
+    Assault](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/),
     as called for by President Biden, and fundamentally shifts how the
     military prosecutes and investigates sexual assault, domestic
     violence, sexual harassment, and other serious crimes, and increases
@@ -162,7 +162,7 @@ home and abroad:**
 
 On International Women’s Day in 2021, President Biden signed an
 [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
 creating the White House Gender Policy Council and calling for the
 development of the first-ever government-wide National Action Plan to
 End Gender-Based Violence, as well as an update to the 2016 United

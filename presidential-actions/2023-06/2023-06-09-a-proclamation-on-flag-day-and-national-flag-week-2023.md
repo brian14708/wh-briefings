@@ -1,7 +1,7 @@
 ---
 date: '2023-06-09'
 published_time: 2023-06-09 11:26:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/a-proclamation-on-flag-day-and-national-flag-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/a-proclamation-on-flag-day-and-national-flag-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Flag Day and National Flag Week,\_2023"
 ---

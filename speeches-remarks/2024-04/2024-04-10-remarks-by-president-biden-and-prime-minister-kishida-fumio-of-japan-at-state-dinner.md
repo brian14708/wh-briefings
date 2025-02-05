@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-11 13:20:28-04:00
 published_time: 2024-04-10 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-at-state-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-at-state-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida Fumio of Japan at State\_\
   Dinner"

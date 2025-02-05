@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-02-03'
 modified_time: 2022-02-03 12:26:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/background-press-call-by-senior-administration-officials-on-u-s-counterterrorism-operations-in-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/03/background-press-call-by-senior-administration-officials-on-u-s-counterterrorism-operations-in-syria/
 published_time: 2022-02-03 12:26:27-05:00
 title: "Background Press Call By Senior Administration Officials On U.S. Counterterrorism\
   \ Operations in\_Syria"

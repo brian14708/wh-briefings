@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 22:42:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/14/readout-of-vice-president-kamala-harriss-meeting-on-reproductive-rights-with-student-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/14/readout-of-vice-president-kamala-harriss-meeting-on-reproductive-rights-with-student-leaders/
 tags: speeches-remarks
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting on Reproductive Rights\
   \ with Student Leaders"

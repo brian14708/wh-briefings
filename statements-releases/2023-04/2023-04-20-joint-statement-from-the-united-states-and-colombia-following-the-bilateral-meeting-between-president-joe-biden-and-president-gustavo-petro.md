@@ -1,7 +1,7 @@
 ---
 date: '2023-04-20'
 published_time: 2023-04-20 22:24:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/joint-statement-from-the-united-states-and-colombia-following-the-bilateral-meeting-between-president-joe-biden-and-president-gustavo-petro/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/joint-statement-from-the-united-states-and-colombia-following-the-bilateral-meeting-between-president-joe-biden-and-president-gustavo-petro/
 tags: statements-releases
 title: "Joint Statement from the United\_States and Colombia following the Bilateral\
   \ Meeting Between President Joe\_Biden and President Gustavo\_Petro"

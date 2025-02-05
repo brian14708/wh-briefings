@@ -1,7 +1,7 @@
 ---
 date: '2023-06-12'
 published_time: 2023-06-12 15:56:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/12/fact-sheet-biden-administration-celebrates-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/12/fact-sheet-biden-administration-celebrates-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Celebrates the 75th Anniversary of Women\u2019\
   s Integration in to the Armed\_Forces"
@@ -64,10 +64,10 @@ historic military justice reforms that fundamentally shift the
 prosecution and investigation of sexual assault, sexual harassment, and
 domestic violence, calling for the establishment of the [Independent
 Review Commission on Sexual Assault in the
-Military](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/) as
+Military](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/) as
 one of his earliest acts in office. The President also signed
 an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/) to
 establish sexual harassment as a specific offense under the Uniform Code
 of Military Justice, as well as strengthen the military justice response
 in prosecuting cases of domestic violence, and fully implement changes
@@ -127,7 +127,7 @@ veterans, including extending maternity care coordination services from
 3 months to 12 months post-delivery to better support both the physical
 and mental health of parents. In addition to reproductive and maternal
 health, VA has expanded access to [breast cancer
-screenings](https://www.whitehouse.gov/briefing-room/legislation/2022/06/07/bills-signed-s-1760-s-1872-s-2102-s-2514-s-2533-s-2687-s-3527-s-4089-and-s-4119/). VA
+screenings](https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/06/07/bills-signed-s-1760-s-1872-s-2102-s-2514-s-2533-s-2687-s-3527-s-4089-and-s-4119/). VA
 has prioritized hiring Women’s Health Primary Care Providers in every VA
 medical center across the nation.  These efforts also include work to
 upgrade facilities to ensure VA equipment and exam rooms meet the unique
@@ -177,7 +177,7 @@ partnering with the private sector to expand hiring of women veterans. 
 Achieving Historic “Firsts” in Women’s Command Roles. **Under the
 Biden-Harris Administration, women commanders have risen to
 unprecedented ranks, including: [Admiral Linda
-Fagan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/),
+Fagan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/),
 Commandant of the U.S. Coast Guard, the Coast Guard’s first woman to
 hold the rank of four-star admiral and the first woman Service Chief of
 any U.S. military service; Air Force General Jaqueline

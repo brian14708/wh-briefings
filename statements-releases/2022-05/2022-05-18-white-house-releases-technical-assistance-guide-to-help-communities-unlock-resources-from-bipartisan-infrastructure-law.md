@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 11:50:57-04:00
 published_time: 2022-05-18 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/white-house-releases-technical-assistance-guide-to-help-communities-unlock-resources-from-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/white-house-releases-technical-assistance-guide-to-help-communities-unlock-resources-from-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "White\_House Releases Technical Assistance Guide to Help Communities Unlock\
   \ Resources From Bipartisan Infrastructure\_Law"
@@ -14,7 +14,7 @@ Once-in-a-Generation Opportunity*
 
 Today, the White House released a Bipartisan Infrastructure Law
 [technical assistance
-guide](https://www.whitehouse.gov/wp-content/uploads/2022/05/Infrastructure-Technical-Assistance-Guide_FINAL2.pdf)
+guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Infrastructure-Technical-Assistance-Guide_FINAL2.pdf)
 to help state, local, Tribal and territorial governments navigate,
 access, and deploy infrastructure resources that will build a better
 America. The Biden Administration has identified over $700 million in
@@ -30,10 +30,10 @@ Over 90% of the Bipartisan Infrastructure Law’s historic funding will be
 deployed by non-federal partners. In the past, too many communities have
 lacked the resources to apply for and deploy transformative
 infrastructure opportunities. This
-[guide](https://www.whitehouse.gov/wp-content/uploads/2022/05/Infrastructure-Technical-Assistance-Guide_FINAL2.pdf),
+[guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Infrastructure-Technical-Assistance-Guide_FINAL2.pdf),
 building on the [Bipartisan Infrastructure Law
-Guidebook](https://www.whitehouse.gov/wp-content/uploads/2022/01/BUILDING-A-BETTER-AMERICA_FINAL.pdf)
-and [Rural Playbook](https://www.whitehouse.gov/build/rural/),
+Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/BUILDING-A-BETTER-AMERICA_FINAL.pdf)
+and [Rural Playbook](https://bidenwhitehouse.archives.gov/build/rural/),
 highlights programs that help communities navigate programs and
 resources that can help them deliver infrastructure projects.  While
 some of these programs offer hands-on and intensive planning and
@@ -115,7 +115,7 @@ once-in-a-generation investment. 
 Since President Biden signed the Bipartisan Infrastructure Law six
 months ago, the Biden-Harris Administration has hit the ground running
 to deliver results. [More than $110
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-biden-harris-administration-hits-the-ground-running-to-build-a-better-america-six-months-into-infrastructure-implementation/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/fact-sheet-biden-harris-administration-hits-the-ground-running-to-build-a-better-america-six-months-into-infrastructure-implementation/)
 has been announced and allocated to states and communities from formula
 and competitive programs for roads and highways, bridges, ports,
 airports, and water systems, with another nearly $100 billion in notices

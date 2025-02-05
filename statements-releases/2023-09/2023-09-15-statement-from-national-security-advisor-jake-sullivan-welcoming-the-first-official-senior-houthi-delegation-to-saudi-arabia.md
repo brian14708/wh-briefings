@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 published_time: 2023-09-15 08:39:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/statement-from-national-security-advisor-jake-sullivan-welcoming-the-first-official-senior-houthi-delegation-to-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/statement-from-national-security-advisor-jake-sullivan-welcoming-the-first-official-senior-houthi-delegation-to-saudi-arabia/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Welcoming The First\
   \ Official Senior Houthi Delegation to Saudi\_Arabia"

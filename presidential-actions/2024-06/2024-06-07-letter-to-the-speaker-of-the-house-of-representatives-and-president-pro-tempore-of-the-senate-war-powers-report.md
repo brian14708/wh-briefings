@@ -2,7 +2,7 @@
 date: '2024-06-07'
 modified_time: 2024-06-07 12:59:05-04:00
 published_time: 2024-06-07 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/07/letter-to-the-speaker-of-the-house-of-representatives-and-president-pro-tempore-of-the-senate-war-powers-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/07/letter-to-the-speaker-of-the-house-of-representatives-and-president-pro-tempore-of-the-senate-war-powers-report/
 tags: presidential-actions
 title: "Letter to the Speaker of the House of Representatives and President pro tempore\
   \ of the Senate \u2014 War Powers\_Report"

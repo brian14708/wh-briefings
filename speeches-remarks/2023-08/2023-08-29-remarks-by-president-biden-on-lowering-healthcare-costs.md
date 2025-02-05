@@ -2,7 +2,7 @@
 date: '2023-08-29'
 modified_time: 2023-08-30 09:42:55-04:00
 published_time: 2023-08-29 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-on-lowering-healthcare-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-on-lowering-healthcare-costs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering Healthcare\_Costs"
 ---

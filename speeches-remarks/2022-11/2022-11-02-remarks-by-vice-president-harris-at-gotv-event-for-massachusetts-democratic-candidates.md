@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-03 11:29:22-04:00
 published_time: 2022-11-02 11:28:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-vice-president-harris-at-gotv-event-for-massachusetts-democratic-candidates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-vice-president-harris-at-gotv-event-for-massachusetts-democratic-candidates/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at GOTV Event for Massachusetts Democratic\_\
   Candidates"

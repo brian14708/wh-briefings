@@ -2,7 +2,7 @@
 date: '2023-11-12'
 modified_time: 2023-11-12 11:49:53-05:00
 published_time: 2023-11-12 11:49:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/12/statement-from-president-joe-biden-on-the-death-of-american-service-members/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/12/statement-from-president-joe-biden-on-the-death-of-american-service-members/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Death of American Service\_Members"
 ---

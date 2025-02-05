@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-27 13:56:56-04:00
 published_time: 2022-09-21 14:13:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-before-the-77th-session-of-the-united-nations-general-assembly/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/21/remarks-by-president-biden-before-the-77th-session-of-the-united-nations-general-assembly/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before the 77th Session of the United Nations\
   \ General\_Assembly"

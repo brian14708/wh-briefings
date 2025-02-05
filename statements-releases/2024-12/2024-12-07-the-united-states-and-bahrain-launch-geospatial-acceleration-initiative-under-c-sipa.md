@@ -1,7 +1,7 @@
 ---
 date: '2024-12-07'
 published_time: 2024-12-07 13:50:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/07/the-united-states-and-bahrain-launch-geospatial-acceleration-initiative-under-c-sipa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/07/the-united-states-and-bahrain-launch-geospatial-acceleration-initiative-under-c-sipa/
 tags: statements-releases
 title: "The United\_States and Bahrain Launch Geospatial Acceleration Initiative under\_\
   C-SIPA"

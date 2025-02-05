@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-27 15:04:59-04:00
 published_time: 2022-10-27 15:04:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-albanian-foreign-minister-olta-xhacka/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-albanian-foreign-minister-olta-xhacka/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s meeting\
   \ with Albanian Foreign Minister Olta\_Xhacka"

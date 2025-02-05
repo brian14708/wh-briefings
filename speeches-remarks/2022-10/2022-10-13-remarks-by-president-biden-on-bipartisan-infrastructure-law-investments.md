@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 published_time: 2022-10-13 16:52:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-president-biden-on-bipartisan-infrastructure-law-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-by-president-biden-on-bipartisan-infrastructure-law-investments/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Bipartisan Infrastructure Law\_Investments"
 ---

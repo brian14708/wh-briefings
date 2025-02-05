@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 12:01:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/
 tags: statements-releases
 title: "U.S.-EU Joint Statement of the Trade and Technology\_Council"
 ---

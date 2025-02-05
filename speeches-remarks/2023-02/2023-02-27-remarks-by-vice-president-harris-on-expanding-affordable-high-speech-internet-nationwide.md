@@ -1,7 +1,7 @@
 ---
 date: '2023-02-27'
 published_time: 2023-02-27 15:37:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/27/remarks-by-vice-president-harris-on-expanding-affordable-high-speech-internet-nationwide/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/27/remarks-by-vice-president-harris-on-expanding-affordable-high-speech-internet-nationwide/
 tags: speeches-remarks
 title: Remarks by Vice President Harris on Expanding Affordable High-Speech Internet
   Nationwide

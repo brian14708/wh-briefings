@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 11:06:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/05/president-biden-announces-key-white-house-personnel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/05/president-biden-announces-key-white-house-personnel/
 tags: statements-releases
 title: "President\_Biden Announces Key White\_House\_Personnel"
 ---

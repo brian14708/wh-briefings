@@ -2,7 +2,7 @@
 date: '2023-06-16'
 modified_time: 2023-06-16 16:49:58-04:00
 published_time: 2023-06-16 15:50:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/16/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-west-hartford-ct/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/16/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-west-hartford-ct/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route West\
   \ Hartford,\_CT"

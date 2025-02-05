@@ -2,14 +2,14 @@
 date: '2022-06-16'
 modified_time: 2022-06-16 11:01:34-04:00
 published_time: 2022-06-16 08:59:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/
 tags: statements-releases
 title: "FACT SHEET: Presidential Memorandum Establishing the White\_House Task Force\
   \ to Address Online Harassment and\_Abuse"
 ---
  
 Today, President Biden will sign a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 establishing the White House Task Force to Address Online Harassment and
 Abuse, responding to the need for government leadership to address
 online harms, which disproportionately affect women, girls, people of
@@ -24,7 +24,7 @@ President Biden has long championed efforts to prevent and address
 gender-based violence, including writing and passing the landmark
 Violence Against Women Act (VAWA) nearly three decades ago as a U.S.
 Senator and signing
-its [reauthorization](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/) into
+its [reauthorization](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/) into
 law earlier this year.  The reauthorized VAWA includes historic new
 protections against online harassment and abuse. Vice President Harris,
 who is hosting today’s Task Force, has long been a champion of

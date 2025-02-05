@@ -2,7 +2,7 @@
 date: '2023-11-28'
 modified_time: 2023-11-29 11:13:25-05:00
 published_time: 2023-11-28 22:56:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/28/remarks-by-president-biden-at-a-campaign-reception-denver-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/28/remarks-by-president-biden-at-a-campaign-reception-denver-co/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Denver,\_CO"
 ---

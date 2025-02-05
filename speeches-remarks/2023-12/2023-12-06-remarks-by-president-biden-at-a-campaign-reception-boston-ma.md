@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 13:22:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-at-a-campaign-reception-boston-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-at-a-campaign-reception-boston-ma/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Boston,\_MA"
 ---

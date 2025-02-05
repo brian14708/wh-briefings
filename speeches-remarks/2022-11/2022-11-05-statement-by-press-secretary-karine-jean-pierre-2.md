@@ -2,7 +2,7 @@
 date: '2022-11-05'
 modified_time: 2022-11-05 13:52:50-04:00
 published_time: 2022-11-05 13:52:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/05/statement-by-press-secretary-karine-jean-pierre-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/05/statement-by-press-secretary-karine-jean-pierre-2/
 tags: speeches-remarks
 title: "Statement by Press Secretary Karine\_Jean-Pierre"
 ---

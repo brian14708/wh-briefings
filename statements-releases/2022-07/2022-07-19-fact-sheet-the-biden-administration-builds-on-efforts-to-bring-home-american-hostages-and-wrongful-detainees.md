@@ -2,7 +2,7 @@
 date: '2022-07-19'
 modified_time: 2022-07-18 18:38:09-04:00
 published_time: 2022-07-19 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/19/fact-sheet-the-biden-administration-builds-on-efforts-to-bring-home-american-hostages-and-wrongful-detainees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/19/fact-sheet-the-biden-administration-builds-on-efforts-to-bring-home-american-hostages-and-wrongful-detainees/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Builds on Efforts to Bring Home American\
   \ Hostages and Wrongful\_Detainees"

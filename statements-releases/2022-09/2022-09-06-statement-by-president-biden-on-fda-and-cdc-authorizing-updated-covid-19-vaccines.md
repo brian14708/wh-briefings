@@ -1,7 +1,7 @@
 ---
 date: '2022-09-06'
 published_time: 2022-09-06 18:42:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/06/statement-by-president-biden-on-fda-and-cdc-authorizing-updated-covid-19-vaccines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/06/statement-by-president-biden-on-fda-and-cdc-authorizing-updated-covid-19-vaccines/
 tags: statements-releases
 title: "Statement by President\_Biden on FDA and CDC Authorizing Updated COVID-\u2060\
   19\_Vaccines"

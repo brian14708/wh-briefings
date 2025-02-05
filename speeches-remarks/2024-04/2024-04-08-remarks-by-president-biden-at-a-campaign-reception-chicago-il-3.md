@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-09 15:26:42-04:00
 published_time: 2024-04-08 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/08/remarks-by-president-biden-at-a-campaign-reception-chicago-il-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/08/remarks-by-president-biden-at-a-campaign-reception-chicago-il-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Chicago,\_IL"
 ---

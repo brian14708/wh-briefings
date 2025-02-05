@@ -1,7 +1,7 @@
 ---
 date: '2023-02-06'
 published_time: 2023-02-06 16:17:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/06/remarks-by-vice-president-harris-at-the-central-america-forward-launch-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/06/remarks-by-vice-president-harris-at-the-central-america-forward-launch-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Central America Forward Launch\_Event"
 ---

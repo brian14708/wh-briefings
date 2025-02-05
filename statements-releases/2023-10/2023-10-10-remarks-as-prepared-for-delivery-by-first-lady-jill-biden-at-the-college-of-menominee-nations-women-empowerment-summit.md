@@ -2,7 +2,7 @@
 date: '2023-10-10'
 modified_time: 2023-10-16 14:32:22-04:00
 published_time: 2023-10-10 16:49:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-college-of-menominee-nations-women-empowerment-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-college-of-menominee-nations-women-empowerment-summit/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the College\
   \ of Menominee Nation\u2019s Women Empowerment\_Summit"

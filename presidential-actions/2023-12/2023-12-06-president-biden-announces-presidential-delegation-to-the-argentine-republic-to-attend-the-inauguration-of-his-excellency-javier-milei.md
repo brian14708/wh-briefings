@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 16:28:47-05:00
 published_time: 2023-12-06 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/06/president-biden-announces-presidential-delegation-to-the-argentine-republic-to-attend-the-inauguration-of-his-excellency-javier-milei/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/06/president-biden-announces-presidential-delegation-to-the-argentine-republic-to-attend-the-inauguration-of-his-excellency-javier-milei/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Argentine Republic\
   \ to Attend the Inauguration of His Excellency Javier\_Milei"

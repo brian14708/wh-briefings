@@ -1,7 +1,7 @@
 ---
 date: '2024-03-26'
 published_time: 2024-03-26 17:19:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/26/readout-of-white-house-roundtable-with-survivors-on-guns-and-domestic-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/26/readout-of-white-house-roundtable-with-survivors-on-guns-and-domestic-violence/
 tags: statements-releases
 title: "Readout of White\_House Roundtable with Survivors on Guns and Domestic\_Violence"
 ---
@@ -37,7 +37,7 @@ enactment of extreme risk protection orders; and assisted efforts to
 remove firearms from individuals convicted of domestic abuse or subject
 to domestic violence protection orders. Last year, the Administration
 also released the first-ever [U.S. National Plan to End Gender-Based
-Violence](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf)
+Violence](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf)
 to prevent and address domestic violence, sexual violence, intimate
 partner violence, stalking, and other forms of gender-based violence,
 including effective strategies to strengthen efforts to reduce

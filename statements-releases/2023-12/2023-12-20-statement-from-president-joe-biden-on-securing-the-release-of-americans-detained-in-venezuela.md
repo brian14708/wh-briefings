@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 14:23:50-05:00
 published_time: 2023-12-20 14:13:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/statement-from-president-joe-biden-on-securing-the-release-of-americans-detained-in-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/statement-from-president-joe-biden-on-securing-the-release-of-americans-detained-in-venezuela/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Securing the Release of Americans Detained\
   \ in\_Venezuela"

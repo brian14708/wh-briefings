@@ -1,7 +1,7 @@
 ---
 date: '2024-08-16'
 published_time: 2024-08-16 17:01:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/statement-from-president-joe-biden-on-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/statement-from-president-joe-biden-on-the-middle-east/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Middle\_East"
 ---

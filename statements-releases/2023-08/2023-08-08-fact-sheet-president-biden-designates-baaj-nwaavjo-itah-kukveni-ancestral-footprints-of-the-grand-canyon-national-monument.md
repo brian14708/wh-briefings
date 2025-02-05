@@ -2,7 +2,7 @@
 date: '2023-08-08'
 modified_time: 2023-08-07 21:49:04-04:00
 published_time: 2023-08-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Designates Baaj Nwaavjo I\u2019tah Kukveni \u2013\
   \ Ancestral Footprints of the Grand Canyon National\_Monument"

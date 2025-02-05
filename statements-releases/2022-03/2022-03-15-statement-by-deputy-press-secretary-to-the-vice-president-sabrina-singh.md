@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-03-15'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/statement-by-deputy-press-secretary-to-the-vice-president-sabrina-singh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/15/statement-by-deputy-press-secretary-to-the-vice-president-sabrina-singh/
 published_time: 2022-03-15 18:17:21-04:00
 title: "Statement by Deputy Press Secretary to the Vice President Sabrina\_Singh"
 ---

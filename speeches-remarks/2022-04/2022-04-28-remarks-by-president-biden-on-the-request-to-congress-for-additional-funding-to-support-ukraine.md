@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 13:14:25-04:00
 published_time: 2022-04-28 13:14:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/28/remarks-by-president-biden-on-the-request-to-congress-for-additional-funding-to-support-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/28/remarks-by-president-biden-on-the-request-to-congress-for-additional-funding-to-support-ukraine/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Request to Congress for Additional Funding\
   \ to Support\_Ukraine"

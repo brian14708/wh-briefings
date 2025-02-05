@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 10:40:01-04:00
 published_time: 2023-09-09 10:20:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-president-biden-and-prime-minister-modi-host-leaders-on-the-partnership-for-global-infrastructure-and-investment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-president-biden-and-prime-minister-modi-host-leaders-on-the-partnership-for-global-infrastructure-and-investment/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Prime Minister Modi Host Leaders on the Partnership\
   \ for Global Infrastructure and\_Investment"
@@ -49,14 +49,14 @@ bolstering regional connectivity. Today, the leaders of the United
 States, India, Saudi Arabia, the United Arab Emirates, France, Germany,
 Italy and the European Union announced a new [India-Middle East-Europe
 Economic
-Corridor](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/) .
+Corridor](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/fact-sheet-world-leaders-launch-a-landmark-india-middle-east-europe-economic-corridor/) .
 The transformative partnership has the potential to usher in a new era
 of connectivity from Europe to Asia with a railway, linked through
 ports, connected by the Middle East. This will create novel
 interconnections to facilitate global trade, expand reliable access to
 electricity, facilitate clean energy distribution, and strengthen
 telecommunications links.  The [founding
-partners](https://www.whitehouse.gov/wp-content/uploads/2023/09/Project-Gateway-Multilateral-MOU.pdf) intend
+partners](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Project-Gateway-Multilateral-MOU.pdf) intend
 to work with international partners and the private sector to:
 
 -   Connect India to Europe—linked by a railway line and existing ports
@@ -86,7 +86,7 @@ goods, and promote the mobility of citizens. Specific new announcements
 include:
 
 -   Today, the European Union officially [teamed
-    up](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-and-the-european-union-on-support-for-angola-zambia-and-the-democratic-republic-of-the-congos-commitment-to-further-develop-the-lobito-corridor-and-the/) with
+    up](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/joint-statement-from-the-united-states-and-the-european-union-on-support-for-angola-zambia-and-the-democratic-republic-of-the-congos-commitment-to-further-develop-the-lobito-corridor-and-the/) with
     the United States to support the development of the Corridor,
     including supporting the African Governments in launching
     feasibility studies for the construction of a new greenfield rail
@@ -110,11 +110,11 @@ include:
 World</u>**  
 This G20 event builds on recent PGI investment announcements by
 President Biden and Vice President Harris, including at the [ASEAN
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-u-s-asean-comprehensive-strategic-partnership-one-year-on/) and
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/05/fact-sheet-u-s-asean-comprehensive-strategic-partnership-one-year-on/) and
 visit
-to [Indonesia](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/readout-of-vice-president-kamala-harriss-meeting-with-president-joko-widodo-of-indonesia/),
+to [Indonesia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/readout-of-vice-president-kamala-harriss-meeting-with-president-joko-widodo-of-indonesia/),
 the bilateral meeting with G20
-host, [India](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/joint-statement-from-india-and-the-united-states/),
+host, [India](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/08/joint-statement-from-india-and-the-united-states/),
 and travel to Vietnam. In addition to economic corridors, PGI is driving
 high quality transformative investments around the world across PGI
 target sectors, including:  

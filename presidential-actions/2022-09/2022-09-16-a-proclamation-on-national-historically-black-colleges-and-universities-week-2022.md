@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 18:34:11-04:00
 published_time: 2022-09-16 18:34:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-national-historically-black-colleges-and-universities-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-national-historically-black-colleges-and-universities-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Historically Black Colleges and Universities Week,\_\
   2022"

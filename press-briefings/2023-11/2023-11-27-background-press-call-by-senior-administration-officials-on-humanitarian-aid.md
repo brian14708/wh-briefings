@@ -2,7 +2,7 @@
 date: '2023-11-27'
 modified_time: 2023-11-28 10:21:21-05:00
 published_time: 2023-11-27 22:11:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/27/background-press-call-by-senior-administration-officials-on-humanitarian-aid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/27/background-press-call-by-senior-administration-officials-on-humanitarian-aid/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on Humanitarian\_\
   Aid"

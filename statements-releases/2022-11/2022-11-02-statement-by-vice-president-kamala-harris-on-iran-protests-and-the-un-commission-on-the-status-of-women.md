@@ -1,7 +1,7 @@
 ---
 date: '2022-11-02'
 published_time: 2022-11-02 12:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/statement-by-vice-president-kamala-harris-on-iran-protests-and-the-un-commission-on-the-status-of-women/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/statement-by-vice-president-kamala-harris-on-iran-protests-and-the-un-commission-on-the-status-of-women/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Iran Protests and the UN Commission\
   \ on the Status of\_Women"

@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-17 15:33:55-05:00
 published_time: 2023-01-17 15:33:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/readout-of-vice-president-harriss-meeting-with-prime-minister-davis-of-the-commonwealth-of-the-bahamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/readout-of-vice-president-harriss-meeting-with-prime-minister-davis-of-the-commonwealth-of-the-bahamas/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Davis\
   \ of The Commonwealth of The\_Bahamas"

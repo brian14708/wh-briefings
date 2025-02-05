@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-09 09:47:30-05:00
 published_time: 2024-02-09 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/fact-sheet-biden-harris-administration-announces-over-5-billion-from-the-chips-and-science-act-for-research-development-and-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/fact-sheet-biden-harris-administration-announces-over-5-billion-from-the-chips-and-science-act-for-research-development-and-workforce/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Over $5 Billion from\
   \ the CHIPS and Science Act for Research, Development, and\_Workforce"
@@ -137,7 +137,7 @@ including:
     the United States through implementation of the CHIPS and Science
     Act. Last week, the White House and the [National Science Foundation
     announced 10 U.S.
-    regions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-innovation-engines-awards-catalyzing-more-than-530-million-to-boost-economic-growth-and-innovation-in-communities-across-america/)
+    regions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-innovation-engines-awards-catalyzing-more-than-530-million-to-boost-economic-growth-and-innovation-in-communities-across-america/)
     that are emerging as innovation ecosystems and **receiving over $530
     million in investment catalyzed by the National Science Foundation’s
     Regional Innovation Engines program,** including to support advanced

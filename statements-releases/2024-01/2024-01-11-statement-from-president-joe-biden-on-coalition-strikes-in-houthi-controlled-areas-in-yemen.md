@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 19:31:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/11/statement-from-president-joe-biden-on-coalition-strikes-in-houthi-controlled-areas-in-yemen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/11/statement-from-president-joe-biden-on-coalition-strikes-in-houthi-controlled-areas-in-yemen/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Coalition Strikes in Houthi-Controlled\
   \ Areas in\_Yemen"

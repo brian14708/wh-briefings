@@ -2,7 +2,7 @@
 date: '2024-04-01'
 modified_time: 2024-04-01 13:26:10-04:00
 published_time: 2024-04-01 13:26:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/01/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2024-white-house-easter-egg-roll-blue-room-balcony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/01/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2024-white-house-easter-egg-roll-blue-room-balcony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2024 White\_\
   House Easter Egg Roll | Blue Room\_Balcony"

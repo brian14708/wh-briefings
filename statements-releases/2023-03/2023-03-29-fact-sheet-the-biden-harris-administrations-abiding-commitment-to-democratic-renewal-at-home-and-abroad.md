@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 05:58:57-04:00
 published_time: 2023-03-29 07:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-the-biden-harris-administrations-abiding-commitment-to-democratic-renewal-at-home-and-abroad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-the-biden-harris-administrations-abiding-commitment-to-democratic-renewal-at-home-and-abroad/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Abiding Commitment\
   \ to Democratic Renewal at Home and\_Abroad"
@@ -10,7 +10,7 @@ title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Abiding Commitm
  
 President Biden has called the struggle to bolster democratic governance
 at home and abroad [the defining challenge of our
-time](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-the-summit-for-democracy-opening-session/).
+time](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-the-summit-for-democracy-opening-session/).
 That is because democracy—transparent and accountable government of,
 for, and by the people—remains the best way to realize lasting peace,
 prosperity, and human dignity.  
@@ -23,7 +23,7 @@ with Congress and subject to the availability of appropriations, to
 support democracy, human rights, and good governance globally.  
   
 At the first Summit for Democracy held in December 2021, President Biden
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
 the *Presidential Initiative for Democratic Renewal*, an expansion of
 U.S. Government efforts to defend and grow democratic resilience with
 likeminded partners through diplomacy and foreign assistance. These
@@ -142,7 +142,7 @@ rights of all Americans.
         by supporting sustained investment in election equipment,
         systems, and personnel. Agencies continue to implement the
         President’s [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/) directing
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/) directing
         an all-of-government effort to promote **access to voting**.
     -   In January 2023, President Biden signed into law the **Electoral
         Count Reform Act**, which establishes clear guidelines for our
@@ -171,7 +171,7 @@ rights of all Americans.
         Biden signed a second **Executive Order further** [**advancing
         racial equity and support for underserved communities through
         the federal
-        government**](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
+        government**](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
         This Executive Order launches a new annual, government-wide
         process to address the barriers underserved communities face in
         benefitting from Federal policies, programs, and activities. It
@@ -186,7 +186,7 @@ rights of all Americans.
         Congress to pass the George Floyd Justice in Policing Act to
         advance accountability, transparency, and public trust in law
         enforcement. In May 2022, the President issued an [**Executive
-        Order**](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
+        Order**](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
         **on effective and accountable policing and criminal justice
         practices** that, among other things, requires federal law
         enforcement agencies to ban chokeholds; restrict no-knock
@@ -208,7 +208,7 @@ rights of all Americans.
         government and all sectors of society will take to foster
         national unity and counter hate and toxic polarization. The
         President also
-        [established](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/)
+        [established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/)
         an interagency group to increase and better coordinate U.S.
         Government efforts to counter antisemitism, Islamophobia, and
         related forms of bias and discrimination within the United
@@ -298,7 +298,7 @@ rights of all Americans.
         and serve as counter-weights to the economic and political power
         of Wall Street and large corporations. Earlier this month, the
         White House Task Force on Worker Organizing and Empowerment
-        [released](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/)
+        [released](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/)
         an update detailing agencies’ progress towards implementing more
         than **70 action items to support worker organizing and
         collective bargaining**.

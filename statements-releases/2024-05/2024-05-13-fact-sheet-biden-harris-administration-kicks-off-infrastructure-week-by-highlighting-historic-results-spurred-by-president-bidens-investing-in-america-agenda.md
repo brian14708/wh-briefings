@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-12 16:09:29-04:00
 published_time: 2024-05-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-biden-harris-administration-kicks-off-infrastructure-week-by-highlighting-historic-results-spurred-by-president-bidens-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/fact-sheet-biden-harris-administration-kicks-off-infrastructure-week-by-highlighting-historic-results-spurred-by-president-bidens-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Kicks Off Infrastructure Week\
   \ by Highlighting Historic Results Spurred by President\_Biden\u2019s Investing\
@@ -35,7 +35,7 @@ projects and awards,** across over 4,500 communities in all 50 states,
 D.C., the territories, and for Tribes. To highlight the wide-ranging
 impact of the Bipartisan Infrastructure Law, the White House has
 released [**an updated
-map**](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+map**](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 showcasing the more than 56,000 projects and awards that are identified
 or now underway.
 
@@ -46,7 +46,7 @@ Plan, and the Bipartisan Infrastructure Law. The President’s agenda has
 driven over $866 billion dollars in private sector manufacturing and
 clean energy investments in the United States, and the Administration is
 releasing [**new state by state fact
-sheets**](https://www.whitehouse.gov/invest/?utm_source=invest.gov) that
+sheets**](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) that
 spotlight investments and projects in all 50 states, the territories,
 and Washington DC.
 
@@ -115,7 +115,7 @@ has already:
     contaminated sites and advance environmental justice; and
 -   Provided funding to 180 programs that advance President Biden’s
     [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     which set a goal that 40% of the overall benefits of certain federal
     clean energy, climate, and other investments flow to disadvantaged
     communities.
@@ -145,14 +145,14 @@ Law across key sectors:
     sought to rebuild. This January, the President returned to Wisconsin
     to show the effect of the Bipartisan Infrastructure Law: over $1
     billion was awarded to rebuild the [**Blatnik
-    Bridge**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/)**,**
+    Bridge**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/)**,**
     a key corridor connecting the Twin Ports, to accommodate heavier
     trucks and bikers and pedestrians. To date, the Biden-Harris
     Administration has also announced over $3.5 billion to reconnect and
     rebuild disadvantaged communities that were divided by
     transportation infrastructure decades ago and have long been
     overlooked. These projects include [**“The Stitch” in Atlanta,
-    Georgia**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/),
+    Georgia**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/13/fact-sheet-president-biden-announces-over-3-billion-to-reconnect-communities-that-have-been-left-behind-and-divided-by-transportation-infrastructure/),
     which received $158 million to create a 14-acre mixed-use
     development cap in the Downtown Connector. This investment is
     reconnecting working-class homes and businesses to downtown,
@@ -169,7 +169,7 @@ Law across key sectors:
     has also announced $8.2 billion in new funding for 10 major
     passenger rail projects across the country, including the
     [**Brightline West High-Speed Rail
-    Project**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/)
+    Project**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/)
     that broke ground in April 2024. Connecting Las Vegas, Nevada, and
     Rancho Cucamonga, California, this project will result in a trip
     time of just over 2 hours, which is nearly twice as fast as driving.
@@ -270,7 +270,7 @@ Law across key sectors:
     advancing the President’s Justice40 initiative. This month,
     President Biden visited Wilmington, North Carolina, to [**announce
     another $3 billion to replace lead
-    pipes**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/),
+    pipes**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-harris-administration-announces-3-billion-to-replace-toxic-lead-pipes-and-deliver-clean-drinking-water-to-communities-across-the-country/),
     part of a historic $15 billion in dedicated funding for lead pipe
     replacement. To date, the Administration has deployed funding that
     will help replace up to 1.7 million toxic lead pipes. That includes

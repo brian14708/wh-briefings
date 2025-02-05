@@ -1,7 +1,7 @@
 ---
 date: '2022-04-11'
 published_time: 2022-04-11 15:06:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/statement-by-press-secretary-jen-psaki-on-president-bidens-selection-of-special-advisors-for-the-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/statement-by-press-secretary-jen-psaki-on-president-bidens-selection-of-special-advisors-for-the-summit-of-the-americas/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Selection\
   \ of Special Advisors for the Summit of the\_Americas"

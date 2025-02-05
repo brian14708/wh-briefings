@@ -2,7 +2,7 @@
 date: '2022-12-08'
 modified_time: 2022-12-08 14:02:14-05:00
 published_time: 2022-12-08 14:02:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/08/statement-by-president-joe-biden-on-bipartisan-house-passage-of-the-respect-for-marriage-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/08/statement-by-president-joe-biden-on-bipartisan-house-passage-of-the-respect-for-marriage-act/
 tags: statements-releases
 title: "Statement By President Joe\_Biden on Bipartisan House Passage of the Respect\
   \ for Marriage\_Act"

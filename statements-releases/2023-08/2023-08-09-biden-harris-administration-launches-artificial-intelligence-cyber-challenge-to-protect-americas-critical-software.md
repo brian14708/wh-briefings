@@ -2,7 +2,7 @@
 date: '2023-08-09'
 modified_time: 2023-08-08 17:41:25-04:00
 published_time: 2023-08-09 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial-intelligence-cyber-challenge-to-protect-americas-critical-software/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/biden-harris-administration-launches-artificial-intelligence-cyber-challenge-to-protect-americas-critical-software/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Launches Artificial Intelligence Cyber Challenge\
   \ to Protect America\u2019s Critical\_Software"
@@ -68,7 +68,7 @@ the nation’s great challenges, and that AI is developed safely and
 responsibly to protect Americans from harm and discrimination. Last
 month, the Biden-Harris Administration announced it had
 secured [voluntary
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) from
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/) from
 seven leading AI companies to manage the risks posed by the technology.
 Earlier this year, the Administration announced a commitment from
 several AI companies to participate in an independent, public evaluation

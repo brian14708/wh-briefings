@@ -2,7 +2,7 @@
 date: '2024-05-20'
 modified_time: 2024-05-20 10:53:42-04:00
 published_time: 2024-05-20 10:53:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/20/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/20/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Stabilization\
   \ of\_Iraq"

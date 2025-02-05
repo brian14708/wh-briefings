@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 20:55:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/statement-from-national-security-council-spokesperson-on-meeting-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/statement-from-national-security-council-spokesperson-on-meeting-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
 tags: statements-releases
 title: "Statement from National Security Council Spokesperson on Meeting with Prime\
   \ Minister Mohammed Shia al-Sudani of\_Iraq"

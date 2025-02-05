@@ -2,7 +2,7 @@
 date: '2024-03-01'
 modified_time: 2024-03-01 19:02:40-05:00
 published_time: 2024-03-01 08:06:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/readout-in-wake-of-alabama-supreme-court-ruling-that-has-halted-access-to-ivf-white-house-hosts-convening-with-advocacy-groups-to-discuss-importance-of-work-to-protect-access-to-fertility-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/readout-in-wake-of-alabama-supreme-court-ruling-that-has-halted-access-to-ivf-white-house-hosts-convening-with-advocacy-groups-to-discuss-importance-of-work-to-protect-access-to-fertility-services/
 tags: statements-releases
 title: "Readout: In Wake of Alabama Supreme Court Ruling That Has Halted Access to\
   \ IVF, White\_House Hosts Convening with Advocacy Groups to Discuss Importance of\
@@ -35,7 +35,7 @@ including IVF, in the wake of relentless attacks by Republican elected
 officials following the Supreme Court’s decision to overturn *Roe v.
 Wade*. They underscored the importance of President Biden’s [actions to
 protect access to reproductive health
-care](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/fact-sheet-white-house-task-force-on-reproductive-healthcare-access-announces-new-actions-and-marks-the-51st-anniversary-of-roe-v-wade/)
+care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/fact-sheet-white-house-task-force-on-reproductive-healthcare-access-announces-new-actions-and-marks-the-51st-anniversary-of-roe-v-wade/)
 and urgency around his call for Congress to restore the protections of
 *Roe v. Wade* into federal law to ensure that every woman in this
 country has the freedom to make the decision to have a child, as a

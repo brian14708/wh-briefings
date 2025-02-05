@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-03 18:16:12-05:00
 published_time: 2023-02-03 18:16:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-at-a-democratic-national-committee-finance-event-4/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Democratic National Committee Finance\_\
   Event"

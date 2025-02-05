@@ -2,7 +2,7 @@
 date: '2023-01-05'
 modified_time: 2023-01-05 19:23:12-05:00
 published_time: 2023-01-05 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/05/president-biden-announces-key-regional-appointments-for-gsa-hhs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/05/president-biden-announces-key-regional-appointments-for-gsa-hhs/
 tags: statements-releases
 title: "President\_Biden Announces Key Regional Appointments for GSA,\_HHS"
 ---

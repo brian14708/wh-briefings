@@ -2,7 +2,7 @@
 date: '2023-11-21'
 modified_time: 2023-11-21 15:37:14-05:00
 published_time: 2023-11-21 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/fact-sheet-ahead-of-small-business-saturday-biden-harris-administration-announces-latest-steps-to-support-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/fact-sheet-ahead-of-small-business-saturday-biden-harris-administration-announces-latest-steps-to-support-small-businesses/
 tags: statements-releases
 title: "FACT SHEET: Ahead of Small Business Saturday, Biden-\u2060Harris Administration\
   \ Announces Latest Steps to Support Small\_Businesses"
@@ -32,7 +32,7 @@ and Hispanic households. The percent of Black households owning a
 business during this same period more than doubled — after falling
 between 2007 and 2019. These increases [support wealth building in Black
 and Hispanic
-communities](https://www.whitehouse.gov/cea/written-materials/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/),
+communities](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/),
 as business owners report more wealth as compared to non-business owners
 in this survey. And under President Biden, we’ve achieved the fastest
 growth in Black business ownership in over 30 years.  
@@ -172,7 +172,7 @@ support small businesses in the past few months. This includes:
     million through the Capital Readiness Program to invest in small
     business incubators and accelerators**. The MBDA [awarded 43
     non-profit community-based
-    organizations](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)
+    organizations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)
     funding to support underserved entrepreneurs launch and scale their
     small businesses. This program, funded through the American Rescue
     Plan, is the largest-ever direct federal investment in small

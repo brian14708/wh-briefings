@@ -2,7 +2,7 @@
 date: '2022-05-08'
 modified_time: 2022-05-08 11:44:50-04:00
 published_time: 2022-05-08 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/08/fact-sheet-united-states-and-g7-partners-impose-severe-costs-for-putins-war-against-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/08/fact-sheet-united-states-and-g7-partners-impose-severe-costs-for-putins-war-against-ukraine/
 tags: statements-releases
 title: "FACT SHEET: United\_States and G7 Partners Impose Severe Costs for Putin\u2019\
   s War Against\_Ukraine"

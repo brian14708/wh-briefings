@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 18:21:15-04:00
 published_time: 2022-04-06 18:21:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/06/remarks-by-president-biden-at-signing-of-h-r-3076-the-postal-service-reform-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/06/remarks-by-president-biden-at-signing-of-h-r-3076-the-postal-service-reform-act-of-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of H.R. 3076, the \u201CPostal Service\
   \ Reform Act of\_2022\u201D"

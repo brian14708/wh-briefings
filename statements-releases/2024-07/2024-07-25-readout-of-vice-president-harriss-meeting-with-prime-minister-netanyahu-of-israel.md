@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-25 23:08:53-04:00
 published_time: 2024-07-25 23:08:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/25/readout-of-vice-president-harriss-meeting-with-prime-minister-netanyahu-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/25/readout-of-vice-president-harriss-meeting-with-prime-minister-netanyahu-of-israel/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Netanyahu\
   \ of\_Israel"

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-16'
 published_time: 2024-07-16 17:08:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hostage-taking-and-the-wrongful-detention-of-united-states-nationals-abroad-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hostage-taking-and-the-wrongful-detention-of-united-states-nationals-abroad-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Hostage-Taking\
   \ and the Wrongful Detention of United\_States Nationals\_Abroad"

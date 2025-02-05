@@ -2,7 +2,7 @@
 date: '2023-12-30'
 modified_time: 2024-01-04 14:47:51-05:00
 published_time: 2023-12-30 13:59:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/30/fact-sheet-biden-%e2%81%a0harris-administration-releases-global-health-security-partnerships-annual-progress-report-demonstrating-results-from-united-states-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/30/fact-sheet-biden-%e2%81%a0harris-administration-releases-global-health-security-partnerships-annual-progress-report-demonstrating-results-from-united-states-investments/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Global Health Security\
   \ Partnerships Annual Progress Report Demonstrating Results from United\_States\_\
@@ -26,12 +26,12 @@ across the world. 
 To show the American people the impact of these life-saving investments,
 the Administration is releasing its annual report, *[Progress and Impact
 of U.S. Government Investments in Global Health
-Security](https://www.whitehouse.gov/wp-content/uploads/2024/01/GHS-FY-22-Annual-Progress-Report-010423.pdf) *today. This
+Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/GHS-FY-22-Annual-Progress-Report-010423.pdf) *today. This
 report highlights the Administration’s bold actions to accelerate
 implementation of the [National Biodefense Strategy and Implementation
 Plan for Countering Biological Threats, Enhancing Pandemic Preparedness,
 and Achieving Global Health
-Security](https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf). 
+Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf). 
 
 **EXPANDING GLOBAL HEALTH SECURITY PARTNERSHIPS  
 **  
@@ -66,11 +66,11 @@ Fiscal Year 2022 funds, an increase of over $350 million from Fiscal
 Year 2021, with broader complementary program investments further
 supporting these efforts. The Administration will continue to utilize
 the whole-of-government effort outlined in [Executive Order
-13747](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/), [Executive
+13747](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/), [Executive
 Order
-13987](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/),
+13987](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/),
 and [National Security
-Memorandum-15](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/) to
+Memorandum-15](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/) to
 accelerate progress.  
   
 **DELIVERING RESULTS FROM UNITED STATES INVESTMENTS  

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-16'
 published_time: 2022-07-16 18:11:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/readout-of-vice-president-kamala-harriss-meeting-with-pennsylvania-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/readout-of-vice-president-kamala-harriss-meeting-with-pennsylvania-state-legislators-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Pennsylvania\
   \ State Legislators on Reproductive\_Rights"

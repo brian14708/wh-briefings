@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-16 10:06:25-04:00
 published_time: 2024-04-15 16:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-president-biden-and-prime-minister-petr-fiala-of-the-czech-republic-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/15/remarks-by-president-biden-and-prime-minister-petr-fiala-of-the-czech-republic-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Petr Fiala of the Czech Republic\
   \ Before Bilateral\_Meeting"

@@ -2,7 +2,7 @@
 date: '2022-03-29'
 modified_time: 2022-03-29 11:51:56-04:00
 published_time: 2022-03-29 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/29/president-biden-announces-key-nominees-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/29/president-biden-announces-key-nominees-8/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

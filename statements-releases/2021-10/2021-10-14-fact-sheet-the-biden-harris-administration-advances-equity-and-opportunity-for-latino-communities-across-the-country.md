@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-14'
 modified_time: 2021-10-14 12:43:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country/
 published_time: 2021-10-14 12:43:14-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Latino Communities Across the\_Country"
@@ -106,7 +106,7 @@ vaccines; expand testing eligibility; and invest in more equitable
 public health infrastructure to better serve communities of color. That
 includes working with pharmacies to extend their hours to ensure working
 people have a chance to get their shot. In September, President Biden
-[announced](https://www.whitehouse.gov/covidplan/) a six-pronged,
+[announced](https://bidenwhitehouse.archives.gov/covidplan/) a six-pronged,
 comprehensive national strategy that employs the same science-based
 approach that was used to successfully combat previous variants of
 COVID-19 earlier this year. This plan ensures that the Biden-Harris
@@ -125,7 +125,7 @@ Americans.
 **Re-Establishing the White House Initiative on Advancing Educational
 Equity, Excellence, and Economic Opportunity for Hispanics.** On
 September 13, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/13/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/13/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/)
 re-establishing the White House Initiative on Advancing Educational
 Equity, Excellence, and Economic Opportunity for Hispanics. The
 Executive Order helps to ensure that from early childhood to entering
@@ -155,7 +155,7 @@ over the next five years.
 **Launching a Whole-Of-Government Initiative to Advance Equity and
 Justice for Underserved Communities, Including Latino Communities.** On
 his first day in office, President Biden signed a historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) establishing
 a cross-government initiative to advance equity and justice for
 communities that have been historically underserved, marginalized, and
 adversely affected by persistent poverty and inequality, including many
@@ -260,7 +260,7 @@ racially segregated, high-poverty neighborhoods and significantly
 impacts too many Latino communities. As part of the Administration’s
 plan to reduce gun violence, the Biden-Harris Administration [announced
 historic
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
 in community violence intervention programs to combat the gun violence
 epidemic and keep underserved communities and neighborhoods safe.
 
@@ -276,7 +276,7 @@ of color to be Director of the United States Census Bureau.
 
 President Biden has assembled the most diverse Administration in our
 nation’s history, and is proud to serve alongside the [15
-percent](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/)
+percent](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/)
 of all appointees who identify as Latino or Hispanic, and the 32 percent
 of all appointees who are naturalized citizens or the children of
 immigrants.
@@ -437,7 +437,7 @@ President’s Proposed Build Back Better Agenda.**
 **Advancing Equity and Economic Opportunity for Latinos Through Historic
 Infrastructure Investments.** The Bipartisan Infrastructure Investment
 and Jobs Act [addresses economic
-disparities](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-bipartisan-infrastructure-investment-and-jobs-act-advancing-economic-and-public-health-opportunities-for-communities-of-color/)
+disparities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/03/fact-sheet-bipartisan-infrastructure-investment-and-jobs-act-advancing-economic-and-public-health-opportunities-for-communities-of-color/)
 in our economy and the consequences of decades of disinvestment in
 America’s infrastructure that have disproportionately burdened
 communities of color. Through critical investments, the legislation

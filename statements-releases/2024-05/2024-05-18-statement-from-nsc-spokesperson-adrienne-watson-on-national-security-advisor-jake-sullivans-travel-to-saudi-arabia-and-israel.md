@@ -2,7 +2,7 @@
 date: '2024-05-18'
 modified_time: 2024-05-18 13:07:03-04:00
 published_time: 2024-05-18 12:58:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/18/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-travel-to-saudi-arabia-and-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/18/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-travel-to-saudi-arabia-and-israel/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Travel to Saudi Arabia and\_Israel"

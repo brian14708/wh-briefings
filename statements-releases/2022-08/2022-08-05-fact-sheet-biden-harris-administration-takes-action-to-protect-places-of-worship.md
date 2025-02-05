@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 12:02:04-04:00
 published_time: 2022-08-05 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/fact-sheet-biden-harris-administration-takes-action-to-protect-places-of-worship/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/fact-sheet-biden-harris-administration-takes-action-to-protect-places-of-worship/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Protect Places\
   \ of\_Worship"
@@ -39,15 +39,15 @@ citadel of diversity, unity, and mutual respect.
 To achieve these aims, President Biden signed, and his Administration is
 implementing laws that will make communities safer, including the
 [Bipartisan Safer Communities
-Act](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/25/remarks-by-president-biden-at-signing-of-s-2938-the-bipartisan-safer-communities-act/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/25/remarks-by-president-biden-at-signing-of-s-2938-the-bipartisan-safer-communities-act/)
 and the [COVID-19 Hate Crimes
-Act](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/20/remarks-by-president-biden-at-signing-of-the-covid-19-hate-crimes-act/)
 and the [Jabara-Heyer NO HATE
 Act.](https://www.congress.gov/bill/117th-congress/senate-bill/1086?r=17)
 The Administration is also taking [executive
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/%22)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/%22)
 to: [reduce gun
-violence](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-cracks-down-on-ghost-guns-ensures-that-atf-has-the-leadership-it-needs-to-enforce-our-gun-laws/);
+violence](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-cracks-down-on-ghost-guns-ensures-that-atf-has-the-leadership-it-needs-to-enforce-our-gun-laws/);
 [prioritize
 efforts](https://www.justice.gov/ag/page/file/1399221/download) to
 combat [hate
@@ -55,7 +55,7 @@ crimes](https://www.justice.gov/opa/pr/justice-department-announces-new-initiati
 including crimes committed on the basis of religious identity or
 affiliation; and implement the first-ever [National Strategy for
 Countering Domestic
-Terrorism](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/).
+Terrorism](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/15/fact-sheet-national-strategy-for-countering-domestic-terrorism/).
 These efforts safeguard all individuals, including those who gather at
 places of worship.   
   
@@ -86,7 +86,7 @@ entities**
 to counter terrorism and targeted violence-prevention**
 
 -   As called for in the [National Strategy for Countering Domestic
-    Terrorism](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf),
+    Terrorism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf),
     federal departments and agencies are collaborating to develop a
     one-stop online clearinghouse to help users easily navigate and
     access a wide range of federal resources available to support the

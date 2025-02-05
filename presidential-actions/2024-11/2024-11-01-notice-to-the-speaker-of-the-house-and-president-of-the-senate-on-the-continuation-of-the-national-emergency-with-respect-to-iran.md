@@ -1,7 +1,7 @@
 ---
 date: '2024-11-01'
 published_time: 2024-11-01 15:15:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/01/notice-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/01/notice-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
 tags: presidential-actions
 title: "Notice to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to\_Iran"

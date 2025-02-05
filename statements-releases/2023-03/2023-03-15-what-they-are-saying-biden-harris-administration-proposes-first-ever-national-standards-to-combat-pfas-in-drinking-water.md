@@ -1,7 +1,7 @@
 ---
 date: '2023-03-15'
 published_time: 2023-03-15 16:04:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/what-they-are-saying-biden-harris-administration-proposes-first-ever-national-standards-to-combat-pfas-in-drinking-water/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/15/what-they-are-saying-biden-harris-administration-proposes-first-ever-national-standards-to-combat-pfas-in-drinking-water/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Biden-\u2060Harris Administration Proposes First-Ever\
   \ National Standards to Combat PFAS in Drinking\_Water"
@@ -14,7 +14,7 @@ substances (PFAS) pollution. The first-ever national standard to address
 PFAS contamination in drinking water delivers on President Biden’s
 commitment to protecting public health and advancing environmental
 justice. And it [builds on two years of
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/)
 to ensure every community has access to clean drinking water, free of
 chemicals and pollutants that harm the health and wellbeing of children,
 families, and communities.  

@@ -2,7 +2,7 @@
 date: '2024-09-19'
 modified_time: 2024-09-20 13:51:10-04:00
 published_time: 2024-09-19 20:41:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-president-biden-at-the-congressional-hispanic-caucus-institutes-47th-annual-awards-gala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-president-biden-at-the-congressional-hispanic-caucus-institutes-47th-annual-awards-gala/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Congressional Hispanic Caucus Institute\u2019\
   s 47th Annual Awards\_Gala"

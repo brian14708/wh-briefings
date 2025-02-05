@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 15:50:03-05:00
 published_time: 2023-12-22 15:50:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-h-r-2670-national-defense-authorization-act-for-fiscal-year-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-h-r-2670-national-defense-authorization-act-for-fiscal-year-2024/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on H.R. 2670, National Defense Authorization\
   \ Act for Fiscal Year\_2024"

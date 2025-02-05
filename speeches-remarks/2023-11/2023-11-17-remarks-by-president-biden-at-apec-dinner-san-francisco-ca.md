@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 08:28:41-05:00
 published_time: 2023-11-17 08:28:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-at-apec-dinner-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-at-apec-dinner-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at APEC Dinner | San Francisco,\_CA"
 ---

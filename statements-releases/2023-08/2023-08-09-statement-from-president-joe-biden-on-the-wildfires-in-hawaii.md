@@ -2,7 +2,7 @@
 date: '2023-08-09'
 modified_time: 2023-08-09 20:04:58-04:00
 published_time: 2023-08-09 18:43:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/statement-from-president-joe-biden-on-the-wildfires-in-hawaii/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/statement-from-president-joe-biden-on-the-wildfires-in-hawaii/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Wildfires in\_Hawaii"
 ---

@@ -2,7 +2,7 @@
 date: '2024-02-04'
 modified_time: 2024-02-05 16:21:16-05:00
 published_time: 2024-02-04 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/04/background-press-call-by-senior-administration-officials-on-the-bipartisan-national-security-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/04/background-press-call-by-senior-administration-officials-on-the-bipartisan-national-security-agreement/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Bipartisan\
   \ National Security\_Agreement"

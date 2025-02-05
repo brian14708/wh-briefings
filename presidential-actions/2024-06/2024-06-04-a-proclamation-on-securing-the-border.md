@@ -2,7 +2,7 @@
 date: '2024-06-04'
 modified_time: 2024-06-04 14:12:04-04:00
 published_time: 2024-06-04 14:12:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/04/a-proclamation-on-securing-the-border/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/04/a-proclamation-on-securing-the-border/
 tags: presidential-actions
 title: "A Proclamation on Securing the\_Border"
 ---

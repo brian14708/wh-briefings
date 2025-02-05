@@ -1,7 +1,7 @@
 ---
 date: '2024-04-01'
 published_time: 2024-04-01 16:52:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/01/joint-statement-on-meeting-of-the-u-s-israel-strategic-consultative-group-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/01/joint-statement-on-meeting-of-the-u-s-israel-strategic-consultative-group-2/
 tags: statements-releases
 title: "Joint Statement on Meeting of the U.S.-Israel Strategic Consultative\_Group"
 ---

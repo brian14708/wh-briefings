@@ -2,7 +2,7 @@
 date: '2023-12-18'
 modified_time: 2023-12-18 15:51:22-05:00
 published_time: 2023-12-18 15:51:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/18/message-to-the-senate-transmitting-two-maritime-treaties/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/18/message-to-the-senate-transmitting-two-maritime-treaties/
 tags: presidential-actions
 title: "Message to the Senate Transmitting Two Maritime\_Treaties"
 ---

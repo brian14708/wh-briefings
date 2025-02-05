@@ -1,7 +1,7 @@
 ---
 date: '2022-06-01'
 published_time: 2022-06-01 17:52:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-call-with-baltic-allies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-call-with-baltic-allies/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Call with Baltic\_Allies"

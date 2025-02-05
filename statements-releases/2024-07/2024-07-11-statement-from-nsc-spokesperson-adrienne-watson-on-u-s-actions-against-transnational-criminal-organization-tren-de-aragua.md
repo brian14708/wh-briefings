@@ -1,7 +1,7 @@
 ---
 date: '2024-07-11'
 published_time: 2024-07-11 12:08:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-actions-against-transnational-criminal-organization-tren-de-aragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-actions-against-transnational-criminal-organization-tren-de-aragua/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on U.S. Actions Against Transnational\
   \ Criminal Organization Tren de\_Aragua"
@@ -27,7 +27,7 @@ prioritize actions being taken to identify and disrupt Tren de
 Aragua and other violent criminal organizations through a combination of
 investigative, prosecutorial, diplomatic, screening, and vetting tools,
 in accordance with the [Strategy to Combat Transnational Organized
-Crime](https://www.whitehouse.gov/wp-content/uploads/2024/04/Transnational-Organized-Crime_FINAL_Dec2023.pdf). Law enforcement
+Crime](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Transnational-Organized-Crime_FINAL_Dec2023.pdf). Law enforcement
 agents are working with local and state partners to investigate and
 prosecute Tren de Aragua members and affiliates engaged in criminal
 activities.  The Department of Homeland Security (DHS), the Department
@@ -39,7 +39,7 @@ gang members, including members of Tren de Aragua.  Those identified as
 gang members are detained and either referred for criminal prosecution
 or held pending removal.  The [Presidential Proclamation and Interim
 Final
-Rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/04/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/) issued
+Rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/04/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/) issued
 on June 4, 2024 further strengthen border security in ways that
 support enforcement against criminal organizations like Tren de Aragua. 
 

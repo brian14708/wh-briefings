@@ -2,7 +2,7 @@
 date: '2023-10-25'
 modified_time: 2023-10-25 19:37:39-04:00
 published_time: 2023-10-25 18:18:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/white-house-releases-state-dinner-guest-list-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/white-house-releases-state-dinner-guest-list-3/
 tags: statements-releases
 title: "White\_House Releases State Dinner Guest\_List"
 ---

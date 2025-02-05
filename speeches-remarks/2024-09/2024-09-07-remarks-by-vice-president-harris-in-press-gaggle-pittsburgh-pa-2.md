@@ -2,7 +2,7 @@
 date: '2024-09-07'
 modified_time: 2024-09-09 10:39:03-04:00
 published_time: 2024-09-07 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/07/remarks-by-vice-president-harris-in-press-gaggle-pittsburgh-pa-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/07/remarks-by-vice-president-harris-in-press-gaggle-pittsburgh-pa-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle| Pittsburgh,\_PA"
 ---

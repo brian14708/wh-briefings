@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 13:23:29-05:00
 published_time: 2025-01-06 13:23:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-biden-harris-administration-announces-additional-actions-in-response-to-the-horrific-attack-in-new-orleans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-biden-harris-administration-announces-additional-actions-in-response-to-the-horrific-attack-in-new-orleans/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Additional Actions\
   \ in Response to the Horrific Attack in New\_Orleans"

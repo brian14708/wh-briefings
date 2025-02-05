@@ -1,7 +1,7 @@
 ---
 date: '2024-12-18'
 published_time: 2024-12-18 15:40:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/press-release-message-to-the-senate-agreement-under-the-united-nations-convention-on-the-law-of-the-sea-on-the-conservation-and-sustainable-use-of-marine-biological-diversity-of-areas-beyond-national/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/18/press-release-message-to-the-senate-agreement-under-the-united-nations-convention-on-the-law-of-the-sea-on-the-conservation-and-sustainable-use-of-marine-biological-diversity-of-areas-beyond-national/
 tags: statements-releases
 title: "Press Release Message to the Senate Agreement under the United Nations Convention\
   \ on the Law of the Sea on the conservation and sustainable use of marine biological\

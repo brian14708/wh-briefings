@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-16 20:53:10-05:00
 published_time: 2024-12-16 20:53:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-virtual-thank-you-event-for-educators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-virtual-thank-you-event-for-educators/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Virtual Thank\
   \ You Event for\_Educators"

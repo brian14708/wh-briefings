@@ -1,7 +1,7 @@
 ---
 date: '2023-08-31'
 published_time: 2023-08-31 07:55:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/31/president-joseph-r-biden-jr-approves-south-carolina-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/31/president-joseph-r-biden-jr-approves-south-carolina-emergency-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves South Carolina Emergency\_Declaration"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-01'
 published_time: 2023-12-01 12:44:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/01/a-proclamation-on-international-day-of-persons-with-disabilities-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/01/a-proclamation-on-international-day-of-persons-with-disabilities-2023/
 tags: presidential-actions
 title: "A Proclamation on International Day of Persons with Disabilities,\_2023"
 ---

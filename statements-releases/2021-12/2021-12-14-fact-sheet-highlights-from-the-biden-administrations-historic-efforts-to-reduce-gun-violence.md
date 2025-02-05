@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-14'
 modified_time: 2021-12-14 13:44:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/fact-sheet-highlights-from-the-biden-administrations-historic-efforts-to-reduce-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/14/fact-sheet-highlights-from-the-biden-administrations-historic-efforts-to-reduce-gun-violence/
 published_time: 2021-12-14 12:26:13-05:00
 title: "FACT SHEET: Highlights From The Biden Administration\u2019s Historic Efforts\
   \ To Reduce Gun\_Violence"
@@ -25,11 +25,11 @@ war off our streets.
   
 Since taking office, President Biden has announced three packages of
 executive actions – [an initial set of
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/) during
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/) during
 a Rose Garden address in April, [a comprehensive gun crime reduction
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
 and [steps to promote safe storage of
-firearms](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/).
+firearms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/).
 These executive actions represent a whole-of-government approach,
 mobilizing the Departments of Justice, Veterans Affairs, Defense,
 Transportation, Health and Human Services, Labor, Homeland Security,
@@ -214,7 +214,7 @@ CVI. Cities across the country, such as Seattle, Washington; Buffalo,
 New York; and Atlanta, Georgia – have responded to this call by
 committing and deploying ARP funds for CVI. In addition,[ five federal
 agencies made changes to 26 different
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/) to
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/) to
 direct vital support to community violence intervention programs as
 quickly as possible. For example, the National Institutes of Health
 announced funding through its Firearm Injury and Mortality Prevention
@@ -252,7 +252,7 @@ state lawmakers stepped up.”
   
 **Using the White House’s convening power to support community violence
 interventions. **In July, senior White House
-staff [established ](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)The
+staff [established ](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)The
 White House Community Violence Intervention Collaborative, a
 16-jurisdiction cohort of mayors, law enforcement, CVI experts, and
 philanthropic leaders committed to using American Rescue Plan funding or
@@ -265,7 +265,7 @@ technical assistance to help communities assess their existing public
 safety ecosystem, identify gaps, and build the capacity to expand
 programming that saves lives. White House staff continue to regularly
 work with The Collaborative, including a [second
-convening](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/readout-of-white-house-community-violence-intervention-collaborative-meeting/https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/readout-of-white-house-community-violence-intervention-collaborative-meeting/) with
+convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/readout-of-white-house-community-violence-intervention-collaborative-meeting/https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/readout-of-white-house-community-violence-intervention-collaborative-meeting/) with
 senior staff in October.  
   
 **PROVIDING LAW ENFORCEMENT WITH THE TOOLS AND RESOURCES THEY NEED TO

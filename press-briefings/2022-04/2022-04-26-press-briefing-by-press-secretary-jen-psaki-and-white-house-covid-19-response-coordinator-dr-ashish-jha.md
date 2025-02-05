@@ -1,7 +1,7 @@
 ---
 date: '2022-04-26'
 published_time: 2022-04-26 18:00:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/26/press-briefing-by-press-secretary-jen-psaki-and-white-house-covid-19-response-coordinator-dr-ashish-jha/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/26/press-briefing-by-press-secretary-jen-psaki-and-white-house-covid-19-response-coordinator-dr-ashish-jha/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Jen\_Psaki and White\_House COVID-\u2060\
   19 Response Coordinator Dr. Ashish\_Jha"

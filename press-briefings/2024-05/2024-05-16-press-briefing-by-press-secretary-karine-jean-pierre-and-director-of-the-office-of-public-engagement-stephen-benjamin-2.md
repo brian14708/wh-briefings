@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 17:23:34-04:00
 published_time: 2024-05-16 17:23:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/16/press-briefing-by-press-secretary-karine-jean-pierre-and-director-of-the-office-of-public-engagement-stephen-benjamin-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/16/press-briefing-by-press-secretary-karine-jean-pierre-and-director-of-the-office-of-public-engagement-stephen-benjamin-2/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Director of the Office\
   \ of Public Engagement Stephen\_Benjamin"

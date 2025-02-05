@@ -2,7 +2,7 @@
 date: '2024-12-20'
 modified_time: 2024-12-20 09:25:45-05:00
 published_time: 2024-12-20 09:25:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/20/statement-from-national-economic-advisor-lael-brainard-on-november-2024-pce-and-third-quarter-2024-gdp/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/20/statement-from-national-economic-advisor-lael-brainard-on-november-2024-pce-and-third-quarter-2024-gdp/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on November 2024 PCE\
   \ and Third Quarter 2024\_GDP"

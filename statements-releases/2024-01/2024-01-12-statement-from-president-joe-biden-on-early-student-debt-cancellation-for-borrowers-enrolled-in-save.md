@@ -2,7 +2,7 @@
 date: '2024-01-12'
 modified_time: 2024-01-11 11:46:59-05:00
 published_time: 2024-01-12 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/12/statement-from-president-joe-biden-on-early-student-debt-cancellation-for-borrowers-enrolled-in-save/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/12/statement-from-president-joe-biden-on-early-student-debt-cancellation-for-borrowers-enrolled-in-save/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Early Student Debt Cancellation for\
   \ Borrowers Enrolled in\_SAVE"

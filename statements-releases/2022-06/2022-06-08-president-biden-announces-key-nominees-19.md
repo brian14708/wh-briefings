@@ -1,7 +1,7 @@
 ---
 date: '2022-06-08'
 published_time: 2022-06-08 15:11:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/president-biden-announces-key-nominees-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/president-biden-announces-key-nominees-19/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

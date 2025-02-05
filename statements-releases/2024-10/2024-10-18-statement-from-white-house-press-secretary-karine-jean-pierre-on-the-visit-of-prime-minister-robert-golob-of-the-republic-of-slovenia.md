@@ -2,7 +2,7 @@
 date: '2024-10-18'
 modified_time: 2024-10-18 13:19:18-04:00
 published_time: 2024-10-18 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/18/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-robert-golob-of-the-republic-of-slovenia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/18/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-robert-golob-of-the-republic-of-slovenia/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Prime Minister Robert Golob of the Republic of\_Slovenia"

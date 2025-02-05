@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 22:10:02-04:00
 published_time: 2023-04-12 22:10:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/statement-from-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-icbm-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/statement-from-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-icbm-test/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on the Democratic People\u2019\
   s Republic of Korea\u2019s ICBM\_Test"

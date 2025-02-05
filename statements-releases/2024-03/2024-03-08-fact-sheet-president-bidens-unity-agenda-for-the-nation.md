@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-08 14:49:55-05:00
 published_time: 2024-03-08 11:13:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Unity Agenda for the\_Nation"
 ---
@@ -78,9 +78,9 @@ deliver life-saving medication and care across America.
     sanctioned more than 250 people and organizations involved in the
     global illicit drug trade.  And the United States stepped up
     counternarcotics cooperation with other key governments – including
-    [India](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/fact-sheet-republic-of-india-official-state-visit-to-the-united-states/#:~:text=Counternarcotics%20Cooperation%3A%20The%20United%20States,a%20secure%2C%20resilient%2C%20reliable%20and),
+    [India](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/fact-sheet-republic-of-india-official-state-visit-to-the-united-states/#:~:text=Counternarcotics%20Cooperation%3A%20The%20United%20States,a%20secure%2C%20resilient%2C%20reliable%20and),
     [Mexico, and
-    Canada](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/readout-of-the-third-trilateral-fentanyl-committee-meeting-between-the-united-states-mexico-and-canada/)
+    Canada](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/readout-of-the-third-trilateral-fentanyl-committee-meeting-between-the-united-states-mexico-and-canada/)
     – and launched the Global Coalition to Address Synthetic Drug
     Threats, which unites more than 140 countries in the fight against
     drug trafficking cartels and illicit finance.
@@ -113,7 +113,7 @@ deliver life-saving medication and care across America.
 
 **<u>Tackling the Mental Health Crisis</u>**
 
-[](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-on-expanding-access-to-mental-health-care/)President
+[](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/25/remarks-by-president-biden-on-expanding-access-to-mental-health-care/)President
 Biden believesthat health care is a right, not a privilege, and that
 mental health care is health care – period.  But for millions of
 Americans, mental health care is out of reach.  [In
@@ -157,7 +157,7 @@ Americans.
     million to help schools across America.  These investments will help
     bring 14,000 mental health professionals into America’s schools – [a
     35% increase
-    nationwide](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/readout-white-house-office-of-gun-violence-prevention-hosts-briefing-on-mental-health-with-department-of-education-and-hbcus/). 
+    nationwide](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/readout-white-house-office-of-gun-violence-prevention-hosts-briefing-on-mental-health-with-department-of-education-and-hbcus/). 
     In the coming weeks, the Department of Health and Human Services
     (HHS) will award $50 million in grant funding for Medicaid
     school-based health services, while issuing guidance to help ensure
@@ -227,7 +227,7 @@ recent advancements in artificial intelligence (AI), while carrying
 enormous promise, also exacerbate these risks, introduce new ones, and
 threaten to increase the influence that some tech companies wield over
 our lives.  Since his
-[first](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/)
+[first](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/)
 State of the Union Address, President Biden has called on Congress to
 pass strong bipartisan legislation holding tech companies accountable
 for the harms they cause, and he renewed these calls. 
@@ -248,7 +248,7 @@ for the harms they cause, and he renewed these calls. 
     in the first place and that young people, who are especially
     vulnerable online, need even stronger protections.  Last month,
     President Biden took [the most significant federal
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-biden-issues-sweeping-executive-order-to-protect-americans-sensitive-personal-data/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-biden-issues-sweeping-executive-order-to-protect-americans-sensitive-personal-data/)
     any President has ever taken to protect Americans’ data security. 
     His Executive Order begins a process that will stop the large-scale
     transfer of this data—which includes intimate insights into
@@ -287,7 +287,7 @@ for the harms they cause, and he renewed these calls. 
 -   ***Making Sure AI is Safe, Secure, and Trustworthy. *** Since taking
     office, President Biden has moved swiftly to seize the promise and
     manage the risks of AI.  Last year, he issued a [landmark Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/)
     on AI to ensure that America leads the way toward responsible AI
     innovation.  The Order directed federal agencies to establish new
     high standards for AI safety and security, protect Americans’
@@ -379,7 +379,7 @@ education and workforce opportunity for veterans and their families. 
     are needed to address the large shortage of affordable homes that
     has been growing for more than a decade.  Tonight, President Biden
     will discuss his [plan to lower housing
-    costs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/),
+    costs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/),
     including by building and preserving over 2 million new homes to
     lower rents and the cost of buying a home.  At the same time, the
     Biden Administration is taking steps to ensure access to affordable
@@ -401,7 +401,7 @@ education and workforce opportunity for veterans and their families. 
 -   ***Lowering Costs for Veterans and Cracking Down on Fraud. ***
     President Biden is doing everything in his power to [lower costs for
     all
-    Americans](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/),
+    Americans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/),
     including America’s veterans, and to combat fraud and scams that
     target veterans, service members, and their families.  Fraud against
     veterans and service members is widespread. From 2015-2019,
@@ -412,7 +412,7 @@ education and workforce opportunity for veterans and their families. 
     with the median loss for veterans from fraud 44% higher than for
     other civilians.  President Biden launched the [Veteran Scam and
     Fraud Evasion (VSAFE) Task
-    Force](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/)
+    Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/)
     to crack down on these fraud and scams.  And today, VA is launching
     a new [National Veterans Financial Resource
     Center](https://www.mirecc.va.gov/visn19/finvet/) to promote
@@ -422,7 +422,7 @@ education and workforce opportunity for veterans and their families. 
 
 -   ***Reducing Veteran Suicide*.**  President Biden is working to
     protect America’s veterans and released a [comprehensive
-    strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf)
+    strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf)
     for reducing military and veteran suicide that directs bold and
     comprehensive action.  Alongside the Administration’s expansion of
     peer mental health counseling programs for Veterans, VA has expanded
@@ -444,14 +444,14 @@ education and workforce opportunity for veterans and their families. 
     of our Armed Forces.  In June 2023, the President, alongside Dr.
     Biden, signed an [Executive Order on Advancing Economic Security for
     Military and Veteran Spouses, Military Caregivers, and
-    Survivors](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/). 
+    Survivors](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/). 
     This Executive Order is the most comprehensive set of administrative
     actions any President has directed to support military spouses, and
     it included nearly 20 new actions aimed at enhancing career
     stability, expanding employment resources, and improving transition
     assistance support for military-connected spouses.  Last month, the
     Biden Administration launched [new
-    tools](https://www.whitehouse.gov/joiningforces/blog/2024/02/27/biden-administration-continued-efforts-to-recruit-hire-and-retain-military-connected-spouses-in-the-federal-government/#:~:text=This%20Executive%20Order%20is%20the,support%20for%20military%2Dconnected%20spouses.)
+    tools](https://bidenwhitehouse.archives.gov/joiningforces/blog/2024/02/27/biden-administration-continued-efforts-to-recruit-hire-and-retain-military-connected-spouses-in-the-federal-government/#:~:text=This%20Executive%20Order%20is%20the,support%20for%20military%2Dconnected%20spouses.)
     designed to ensure the Federal government is a leader among
     employers, modeling approaches to hiring and retaining military
     spouse talent.
@@ -471,7 +471,7 @@ States by at least half – preventing more than 4 million cancer deaths
 by 2047 – and improving the experience of people who are touched by
 cancer.  The President also established a Cancer Cabinet to mobilize
 action in advancing these goals.  In the time since, the [Cancer
-Moonshot has announced](https://www.whitehouse.gov/cancermoonshot/) more
+Moonshot has announced](https://bidenwhitehouse.archives.gov/cancermoonshot/) more
 than 60 new programs, policies, and resources, and more than 120 private
 companies, non-profit organizations, patient groups, and academic
 institutions have stepped up with new actions in support of these
@@ -524,7 +524,7 @@ a new advance in the fight to end cancer as we know it:
     drugs](https://www.kff.org/report-section/the-out-of-pocket-cost-burden-for-specialty-drugs-in-medicare-part-d-in-2019-findings/)
     for Medicare beneficiaries.  This week, President Biden announced
     [new
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
     to lower drug and health care costs, including for Americans facing
     cancer, and to deliver support to people with a cancer diagnosis
     through expanded patient navigation services.  Cancer navigation is
@@ -534,12 +534,12 @@ a new advance in the fight to end cancer as we know it:
     improve patient outcomes, reduce healthcare costs, and advance
     health equity, President Biden has prioritized increasing access to
     navigation service and last year the [Biden Cancer Moonshot
-    announced](https://www.whitehouse.gov/ostp/news-updates/2023/11/27/cancer-navigation-improves-equity-outcomes-paying-for-it-matters-too/)
+    announced](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/27/cancer-navigation-improves-equity-outcomes-paying-for-it-matters-too/)
     [new
-    steps](https://www.whitehouse.gov/ostp/news-updates/2023/11/27/cancer-navigation-improves-equity-outcomes-paying-for-it-matters-too/)
+    steps](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/11/27/cancer-navigation-improves-equity-outcomes-paying-for-it-matters-too/)
     to deliver cancer navigation services across America.  With the
     First Lady’s leadership, today the Administration announced [new
-    commitments](https://www.whitehouse.gov/ostp/news-updates/2024/03/08/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
+    commitments](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/03/08/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
     from seven leading insurance companies which cover more than 150
     million Americans to reimburse for navigation services and new
     actions from 40 comprehensive cancer centers and community oncology
@@ -551,7 +551,7 @@ a new advance in the fight to end cancer as we know it:
     Administration is working to tackle the drivers of cancer in
     America, including by making the [largest investment in clean water
     in America
-    history](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
+    history](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)
     thanks to the Bipartisan Infrastructure Law.  The President is
     committed to ensuring every community has access to clean drinking
     water, free of PFAS, or “forever chemicals,” that can cause cancer. 

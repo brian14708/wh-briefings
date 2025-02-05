@@ -2,7 +2,7 @@
 date: '2023-03-15'
 modified_time: 2023-03-15 16:13:26-04:00
 published_time: 2023-03-15 14:31:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-high-speed-internet-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-high-speed-internet-costs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Lower\
   \ High-Speed Internet\_Costs"

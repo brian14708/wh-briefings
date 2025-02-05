@@ -1,7 +1,7 @@
 ---
 date: '2023-08-30'
 published_time: 2023-08-30 17:57:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/30/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/30/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-3/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and FEMA Administrator\
   \ Deanne\_Criswell"

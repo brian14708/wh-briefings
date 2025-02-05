@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 17:55:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-at-the-global-coalition-to-address-synthetic-drug-threats-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-at-the-global-coalition-to-address-synthetic-drug-threats-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Global Coalition to Address Synthetic Drug\
   \ Threats | New York,\_NY"
@@ -88,13 +88,13 @@ has, as the secretary of State said, 150 nations as part of it. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/09/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.gif"
 title="Anchor" class="wp-image-106136" decoding="async" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/09/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.gif"
 title="Anchor" class="wp-image-106138" decoding="async" loading="lazy"
 width="1" height="1" />
 </figure>
@@ -120,7 +120,7 @@ needs to be done. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/09/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/image.gif"
 title="Anchor" class="wp-image-106137" decoding="async" />
 </figure>
 

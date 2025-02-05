@@ -1,7 +1,7 @@
 ---
 date: '2024-11-13'
 published_time: 2024-11-13 19:06:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/13/readout-of-president-bidens-meeting-with-families-of-americans-taken-hostage-by-hamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/13/readout-of-president-bidens-meeting-with-families-of-americans-taken-hostage-by-hamas/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Families of Americans Taken\
   \ Hostage by\_Hamas"

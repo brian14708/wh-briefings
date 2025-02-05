@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-29'
 modified_time: 2021-10-29 13:37:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/29/the-biden-administration-continues-its-work-to-expand-access-to-justice/
 published_time: 2021-10-29 13:37:47-04:00
 title: "The Biden Administration Continues Its Work to Expand Access to\_Justice"
 ---
@@ -35,7 +35,7 @@ Today, the Biden-Harris Administration is announcing the release of both
 reports submitted pursuant to the Presidential Memorandum:
 
 -   Attorney General Garland released his [Report to the
-    President](https://www.whitehouse.gov/wp-content/uploads/2021/10/Report-to-the-President-from-the-Attorney-General-September-15-2021.pdf),
+    President](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Report-to-the-President-from-the-Attorney-General-September-15-2021.pdf),
     which describes a phased strategic plan to restore and expand the
     emphasis on access to justice within the Department of Justice.  As
     part of the strategic plan, Attorney General Garland today announced
@@ -45,7 +45,7 @@ reports submitted pursuant to the Presidential Memorandum:
     urgent legal needs of communities across America.  
 -   The White House Legal Aid Interagency Roundtable released its report
     entitled *[Access to Justice in the Age of
-    COVID-19](https://www.whitehouse.gov/wp-content/uploads/2021/10/White-House-Legal-Aid-Interagency-Roundtable-Report.pdf)*,
+    COVID-19](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/White-House-Legal-Aid-Interagency-Roundtable-Report.pdf)*,
     which examines the impact of the pandemic on access to various
     programs, initiatives, and services across federal government.  The
     Report describes significant challenges faced during the pandemic,

@@ -2,7 +2,7 @@
 date: '2023-01-22'
 modified_time: 2023-01-21 23:52:15-05:00
 published_time: 2023-01-22 07:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-roe-v-wade-decision/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/statement-from-president-joe-biden-on-the-50th-anniversary-of-the-roe-v-wade-decision/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 50th Anniversary of the Roe v.\
   \ Wade\_Decision"

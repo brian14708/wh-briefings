@@ -1,7 +1,7 @@
 ---
 date: '2024-05-30'
 published_time: 2024-05-30 19:37:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-peoples-republic-of-china-executive-vice-minister-of-foreign-affairs-ma-zhaoxu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/30/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-peoples-republic-of-china-executive-vice-minister-of-foreign-affairs-ma-zhaoxu/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with People\u2019s Republic of China Executive Vice Minister of Foreign Affairs\

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-20'
 published_time: 2023-03-20 15:54:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/fact-sheet-biden-harris-administration-provides-communities-resources-to-bolster-resilience-to-wildfires-in-advance-of-2023-fire-season/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/fact-sheet-biden-harris-administration-provides-communities-resources-to-bolster-resilience-to-wildfires-in-advance-of-2023-fire-season/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Provides Communities Resources\
   \ to Bolster Resilience to Wildfires in Advance of 2023 Fire\_Season"

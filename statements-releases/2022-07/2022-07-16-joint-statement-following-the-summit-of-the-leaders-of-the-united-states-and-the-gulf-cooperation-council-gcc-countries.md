@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 18:59:23-04:00
 published_time: 2022-07-16 18:58:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-the-summit-of-the-leaders-of-the-united-states-and-the-gulf-cooperation-council-gcc-countries/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-the-summit-of-the-leaders-of-the-united-states-and-the-gulf-cooperation-council-gcc-countries/
 tags: statements-releases
 title: "Joint Statement Following the Summit of the Leaders of the United\_States\
   \ and the Gulf Cooperation Council (GCC)\_Countries"

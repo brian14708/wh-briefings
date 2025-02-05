@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-10 14:16:27-04:00
 published_time: 2024-07-10 14:16:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-2024-nato-summit-spousal-program-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-2024-nato-summit-spousal-program-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a 2024 NATO\
   \ Summit Spousal Program\_Event"

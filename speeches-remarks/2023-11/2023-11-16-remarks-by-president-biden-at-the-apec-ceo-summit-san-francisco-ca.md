@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-20 08:11:09-05:00
 published_time: 2023-11-16 17:07:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-the-apec-ceo-summit-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-the-apec-ceo-summit-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the APEC CEO Summit | San Francisco,\_CA"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 10:00:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-prime-minister-kishida-prime-minister-modi-and-prime-minister-albanese-at-the-third-in-person-quad-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-prime-minister-kishida-prime-minister-modi-and-prime-minister-albanese-at-the-third-in-person-quad-leaders-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Kishida, Prime Minister Modi,\
   \ and Prime Minister Albanese at the Third In-Person Quad Leaders\u2019\_Summit"

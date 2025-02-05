@@ -2,7 +2,7 @@
 date: '2023-10-22'
 modified_time: 2023-10-22 19:22:23-04:00
 published_time: 2023-10-22 19:22:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/22/joint-statement-on-israel-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/22/joint-statement-on-israel-2/
 tags: statements-releases
 title: "Joint Statement on\_Israel"
 ---

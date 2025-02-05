@@ -2,7 +2,7 @@
 date: '2022-12-09'
 modified_time: 2022-12-09 15:37:02-05:00
 published_time: 2022-12-09 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan Congratulating Inaugural\
   \ Quad\_Fellows"

@@ -2,7 +2,7 @@
 date: '2023-06-05'
 modified_time: 2023-06-11 13:50:22-04:00
 published_time: 2023-06-05 20:27:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/05/readout-of-president-bidens-meeting-with-prime-minister-frederiksen-of-denmark/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/05/readout-of-president-bidens-meeting-with-prime-minister-frederiksen-of-denmark/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Frederiksen\
   \ of\_Denmark"

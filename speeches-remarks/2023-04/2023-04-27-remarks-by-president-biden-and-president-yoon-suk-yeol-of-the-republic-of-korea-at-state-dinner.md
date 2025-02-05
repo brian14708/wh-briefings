@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 11:33:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-state-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-at-state-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea at State\_Dinner"

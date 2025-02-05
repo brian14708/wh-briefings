@@ -1,7 +1,7 @@
 ---
 date: '2022-07-16'
 published_time: 2022-07-16 10:29:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-president-biden-and-president-mohamed-bin-zayed-al-nahyan-of-the-united-arab-emirates-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-president-biden-and-president-mohamed-bin-zayed-al-nahyan-of-the-united-arab-emirates-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Mohamed bin Zayed Al Nahyan of the\
   \ United Arab Emirates Before Bilateral\_Meeting"

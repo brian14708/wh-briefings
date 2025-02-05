@@ -1,7 +1,7 @@
 ---
 date: '2023-08-14'
 published_time: 2023-08-14 11:29:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/14/statement-from-president-joe-biden-on-the-united-auto-workers-and-big-three-contract-negotiations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/14/statement-from-president-joe-biden-on-the-united-auto-workers-and-big-three-contract-negotiations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the United Auto Workers and Big Three\
   \ Contract\_Negotiations"

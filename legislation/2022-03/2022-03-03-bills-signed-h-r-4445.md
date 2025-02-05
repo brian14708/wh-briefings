@@ -2,7 +2,7 @@
 tags: legislation
 date: '2022-03-03'
 modified_time: 2022-03-15 10:05:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/03/03/bills-signed-h-r-4445/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/03/03/bills-signed-h-r-4445/
 published_time: 2022-03-03 18:37:52-05:00
 title: "Bills Signed: H.R.\_4445"
 ---

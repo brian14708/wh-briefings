@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 15:35:09-04:00
 published_time: 2023-09-20 15:35:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/statement-from-president-joe-biden-on-student-debt-relief-action-for-university-of-phoenix-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/statement-from-president-joe-biden-on-student-debt-relief-action-for-university-of-phoenix-borrowers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Student Debt Relief Action for University\
   \ of Phoenix\_Borrowers"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-13'
 modified_time: 2021-10-12 20:43:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-ongoing-public-u-s-efforts-to-counter-ransomware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-ongoing-public-u-s-efforts-to-counter-ransomware/
 published_time: 2021-10-13 05:00:00-04:00
 title: "FACT SHEET: Ongoing Public U.S. Efforts to Counter\_Ransomware"
 ---
@@ -129,14 +129,14 @@ Actions to date within these lines of effort include:
     respond to threats to critical companies in the pipeline sector.
 -   Deputy National Security Advisor for Cyber and Emerging Technology,
     Anne Neuberger, [sent an open letter to
-    CEOs](https://www.whitehouse.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
+    CEOs](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
     in June communicating best practices to defend against and prepare
     for ransomware incidents, including backing up data, implementing
     multi-factor authentication, and testing incident response plans.
 -   In August, President Biden met with private sector and education
     leaders to discuss the whole-of-nation effort needed to address
     cybersecurity threats – and leaders [announced ambitious
-    initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/)
+    initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/)
     to bolster the Nation’s cybersecurity.
 -   The National Institute of Standards and Technology (NIST), within
     the Department of Commerce, is working with industry to improve

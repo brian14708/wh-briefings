@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-07 05:46:52-05:00
 published_time: 2022-11-07 07:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/07/joint-readout-of-u-s-eu-task-force-meeting-on-energy-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/07/joint-readout-of-u-s-eu-task-force-meeting-on-energy-security/
 tags: statements-releases
 title: "Joint Readout of U.S.-EU Task Force Meeting on Energy\_Security"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-02-05'
 published_time: 2024-02-05 20:29:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/05/statement-from-president-joe-biden-on-the-wildfires-in-chile/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/05/statement-from-president-joe-biden-on-the-wildfires-in-chile/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Wildfires in\_Chile"
 ---

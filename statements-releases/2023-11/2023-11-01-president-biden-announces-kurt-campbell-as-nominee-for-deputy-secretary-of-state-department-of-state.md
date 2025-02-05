@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 08:26:48-04:00
 published_time: 2023-11-01 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/president-biden-announces-kurt-campbell-as-nominee-for-deputy-secretary-of-state-department-of-state/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/president-biden-announces-kurt-campbell-as-nominee-for-deputy-secretary-of-state-department-of-state/
 tags: statements-releases
 title: "President\_Biden Announces Kurt Campbell as Nominee for Deputy Secretary of\
   \ State, Department of\_State"

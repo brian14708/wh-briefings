@@ -2,7 +2,7 @@
 date: '2024-01-30'
 modified_time: 2024-01-30 16:22:51-05:00
 published_time: 2024-01-30 02:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/30/remarks-by-vice-president-harris-at-a-campaign-reception-los-gatos-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/30/remarks-by-vice-president-harris-at-a-campaign-reception-los-gatos-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Reception | Los Gatos,\_CA"
 ---

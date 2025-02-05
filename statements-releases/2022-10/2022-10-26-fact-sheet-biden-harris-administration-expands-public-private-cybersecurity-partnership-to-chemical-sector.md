@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 published_time: 2022-10-26 14:42:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/26/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-chemical-sector/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/26/fact-sheet-biden-harris-administration-expands-public-private-cybersecurity-partnership-to-chemical-sector/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Expands Public-Private Cybersecurity\
   \ Partnership to Chemical\_Sector"

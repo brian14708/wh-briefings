@@ -2,7 +2,7 @@
 date: '2024-09-14'
 modified_time: 2024-09-14 11:40:23-04:00
 published_time: 2024-09-14 11:40:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-historically-black-college-and-university-presidents-on-partnerships-to-advance-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-historically-black-college-and-university-presidents-on-partnerships-to-advance-national-security/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Historically\
   \ Black College and University Presidents on Partnerships to Advance National\_\
@@ -23,7 +23,7 @@ security and foreign policy Departments and Agencies have made
 implementing benchmarks directed by President Biden in his [White House
 Memorandum on Revitalizing America’s Foreign Policy and National
 Security Workforce, Institutions, and
-Partnerships](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/). 
+Partnerships](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/). 
 Mr. Sullivan reported the addition of more than 4,000 paid internships
 across agencies including the State Department, the Department of
 Defense (DOD), the Department of Homeland Security (DHS), and the

@@ -1,7 +1,7 @@
 ---
 date: '2024-07-29'
 published_time: 2024-07-29 17:52:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/29/remarks-by-president-biden-after-air-force-one-arrival-austin-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/29/remarks-by-president-biden-after-air-force-one-arrival-austin-tx/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Austin,\_TX"
 ---

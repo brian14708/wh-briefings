@@ -1,7 +1,7 @@
 ---
 date: '2022-12-27'
 published_time: 2022-12-27 17:08:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/27/statement-by-white-house-press-secretary-karine-jean-pierre-on-supreme-court-title-42-order/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/27/statement-by-white-house-press-secretary-karine-jean-pierre-on-supreme-court-title-42-order/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on Supreme Court\
   \ Title 42\_Order"

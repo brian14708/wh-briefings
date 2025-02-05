@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-15'
 modified_time: 2021-11-14 22:16:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-building-a-new-era-of-nation-to-nation-engagement/
 published_time: 2021-11-15 08:00:00-05:00
 title: "Fact Sheet: Building A New Era of Nation-to-Nation\_Engagement"
 ---
@@ -49,7 +49,7 @@ laying the foundation for robust Tribal economies, making health care
 more accessible, expanding early childhood education, modernizing
 infrastructure, and advancing climate resilience. In March 2021, the
 President signed [the American Rescue Plan (ARP)
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-biden-administration-invests-4-billion-in-american-rescue-plan-funding-to-combat-covid-19-in-indian-country/),
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-biden-administration-invests-4-billion-in-american-rescue-plan-funding-to-combat-covid-19-in-indian-country/),
 which made the largest single federal financial investment in Native
 communities in the history of the United States. The ARP is helping the
 country recover from a world-altering pandemic with $1.9 trillion in
@@ -60,9 +60,9 @@ devastated by the pandemic.
 
 **Building Physical and Human Infrastructure in Indian Country.** In
 November, President Biden signed [the Infrastructure Investment and Jobs
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/04/white-house-releases-state-fact-sheets-highlighting-the-impact-of-the-infrastructure-investment-and-jobs-act-nationwide/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/04/white-house-releases-state-fact-sheets-highlighting-the-impact-of-the-infrastructure-investment-and-jobs-act-nationwide/)
 and is working to pass [the Build Back Better
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/29/white-house-highlights-nationwide-impact-of-build-back-better-framework/).
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/29/white-house-highlights-nationwide-impact-of-build-back-better-framework/).
 Together, these two economic packages contain billions of dollars to
 support Indian families with programs that will cut the costs of raising
 a family, make it easier to afford health care and care for older
@@ -176,7 +176,7 @@ and serves as an important opportunity to celebrate the progress we have
 made, and work together on a plan of action to move forward. To mark
 this occasion, the Administration is releasing a [full report on the
 progress we have made to date in our effort to support Tribal
-communities](https://www.whitehouse.gov/wp-content/uploads/2021/11/WH-Tribal-Nations-Summit-Progress-Report.pdf).
+communities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/WH-Tribal-Nations-Summit-Progress-Report.pdf).
 
 To demonstrate the Administration’s commitment to this work, we are also
 announcing a number of new commitments during the Tribal Nations Summit.

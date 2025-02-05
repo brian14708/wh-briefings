@@ -1,7 +1,7 @@
 ---
 date: '2022-12-14'
 published_time: 2022-12-14 17:58:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/readout-of-the-national-security-advisor-to-the-vice-presidents-strategy-session-with-partnership-for-central-america-leadership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/readout-of-the-national-security-advisor-to-the-vice-presidents-strategy-session-with-partnership-for-central-america-leadership/
 tags: statements-releases
 title: "Readout of the National Security Advisor to the Vice President\u2019s Strategy\
   \ Session with Partnership for Central America Leadership"

@@ -1,7 +1,7 @@
 ---
 date: '2024-12-19'
 published_time: 2024-12-19 17:58:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/readout-of-president-bidens-call-with-his-holiness-pope-francis-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/readout-of-president-bidens-call-with-his-holiness-pope-francis-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with His Holiness Pope\_Francis"
 ---

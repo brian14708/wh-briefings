@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-30 18:15:23-04:00
 published_time: 2023-10-30 18:15:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-intent-to-terminate-the-designation-of-the-central-african-republic-the-gabonese-republic-niger-and-the-republic-of-uganda-as-bene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/letters-to-the-speaker-of-the-house-and-president-of-the-senate-on-intent-to-terminate-the-designation-of-the-central-african-republic-the-gabonese-republic-niger-and-the-republic-of-uganda-as-bene/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and President of the Senate on Intent\
   \ to Terminate the Designation of the Central African Republic, the Gabonese Republic,\

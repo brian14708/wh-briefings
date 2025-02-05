@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 12:29:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/fact-sheet-biden-harris-administration-expands-efforts-to-hold-nicaraguan-government-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/fact-sheet-biden-harris-administration-expands-efforts-to-hold-nicaraguan-government-accountable/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Expands Efforts to Hold Nicaraguan\
   \ Government\_Accountable"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-08'
 published_time: 2023-05-08 17:27:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Actions\
   \ of the Government of\_Syria"

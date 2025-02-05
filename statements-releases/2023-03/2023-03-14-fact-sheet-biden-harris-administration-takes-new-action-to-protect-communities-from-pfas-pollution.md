@@ -1,7 +1,7 @@
 ---
 date: '2023-03-14'
 published_time: 2023-03-14 10:16:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes New Action to Protect\
   \ Communities from PFAS\_Pollution"
@@ -17,7 +17,7 @@ communities. Today the Administration announced the first-ever national
 drinking water standard for per- and polyfluoroalkyl substances (PFAS),
 a major step to advance that commitment. This action builds on two years
 of progress on [President Biden’s action
-plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/#:~:text=Consistent%20with%20President%20Biden's%20commitment,from%20discharging%20PFAS%20into%20America's)
+plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/fact-sheet-biden-harris-administration-launches-plan-to-combat-pfas-pollution/#:~:text=Consistent%20with%20President%20Biden's%20commitment,from%20discharging%20PFAS%20into%20America's)
 to combat PFAS pollution, safeguarding public health and advancing
 environmental justice.
 
@@ -32,7 +32,7 @@ containments like PFAS. His Bipartisan Infrastructure Law invests $9
 billion over five years to help communities that are on the frontlines
 of PFAS and other contamination reduce levels in drinking water. The
 investments are part of the [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which aims to ensure that 40 percent of the overall benefits of certain
 Federal investments flow to disadvantaged communities that are
 marginalized, underserved, and overburdened by pollution.
@@ -74,7 +74,7 @@ impacts of contamination on disadvantaged communities.
 Activities**  
 Today, the White House Office of Science and Technology Policy (OSTP)
 [released a state of science
-report](https://www.whitehouse.gov/wp-content/uploads/2023/03/OSTP-March-2023-PFAS-Report.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/OSTP-March-2023-PFAS-Report.pdf)
 on PFAS. The report summarizes current PFAS research in key strategic
 areas, including safe removal and destruction of PFAS and alternatives
 to PFAS that are safer, as well as gaps in PFAS data and knowledge. It
@@ -98,7 +98,7 @@ efforts to address the disproportionate health impacts on disadvantaged
 communities, including those that are low income, rural, or located near
 polluting facilities. Today the Council on Environmental Quality, which
 leads the Interagency Policy Committee on PFAS, released [a new
-report](https://www.whitehouse.gov/wp-content/uploads/2023/03/CEQ-PFAS-Report-March-2023.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/CEQ-PFAS-Report-March-2023.pdf)
 on the Administration’s actions on PFAS and next steps.
 
 Highlights include:

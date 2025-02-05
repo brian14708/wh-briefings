@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 11:38:28-05:00
 published_time: 2022-12-15 12:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/biden-harris-administration-releases-inflation-reduction-act-guidebook-for-clean-energy-and-climate-programs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/biden-harris-administration-releases-inflation-reduction-act-guidebook-for-clean-energy-and-climate-programs/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Releases Inflation Reduction Act Guidebook\
   \ for Clean Energy and Climate\_Programs"

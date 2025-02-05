@@ -1,7 +1,7 @@
 ---
 date: '2024-02-04'
 published_time: 2024-02-04 20:36:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/04/statement-from-vice-president-kamala-harris-on-the-bipartisan-senate-national-security-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/04/statement-from-vice-president-kamala-harris-on-the-bipartisan-senate-national-security-agreement/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Bipartisan Senate National\
   \ Security\_Agreement"

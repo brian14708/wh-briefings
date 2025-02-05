@@ -2,7 +2,7 @@
 date: '2024-11-18'
 modified_time: 2024-11-18 13:40:15-05:00
 published_time: 2024-11-18 13:55:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/18/on-the-record-press-gaggle-by-deputy-national-security-advisor-jon-finer-on-the-presidents-engagements-at-the-g20-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/18/on-the-record-press-gaggle-by-deputy-national-security-advisor-jon-finer-on-the-presidents-engagements-at-the-g20-summit/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by Deputy National Security Advisor Jon Finer on\
   \ the President\u2019s Engagements at the G20\_Summit"

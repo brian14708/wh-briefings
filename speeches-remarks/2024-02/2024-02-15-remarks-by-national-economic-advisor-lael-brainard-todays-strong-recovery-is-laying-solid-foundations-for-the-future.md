@@ -2,7 +2,7 @@
 date: '2024-02-15'
 modified_time: 2024-02-15 08:09:22-05:00
 published_time: 2024-02-15 08:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/15/remarks-by-national-economic-advisor-lael-brainard-todays-strong-recovery-is-laying-solid-foundations-for-the-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/15/remarks-by-national-economic-advisor-lael-brainard-todays-strong-recovery-is-laying-solid-foundations-for-the-future/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard: Today\u2019s Strong Recovery\
   \ Is Laying Solid Foundations for the\_Future"
@@ -46,17 +46,17 @@ fall by this much without a jump in the unemployment rate.
 Rather than necessitating the output and employment costs associated
 with the Phillips Curve, as some anticipated, the resolution of a
 perfect storm of [supply
-shocks](https://www.whitehouse.gov/cea/written-materials/2023/11/30/disinflation-explanation-supply-demand-and-their-interaction/)
+shocks](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/30/disinflation-explanation-supply-demand-and-their-interaction/)
 and other pandemic distortions bears primary responsibility for the
 rapid decline in inflation. In part, this reflects the Administration’s
 efforts in partnership with the private sector to fix broken [supply
-chains](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
+chains](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
 in areas like [ocean
-shipping](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/),
-[trucking](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/),
-[semiconductors](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/),
+shipping](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-lowering-prices-and-leveling-the-playing-field-in-ocean-shipping/),
+[trucking](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/),
+[semiconductors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/),
 and [at the
-ports](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
+ports](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
 as distortions unwound. As [supply chain
 pressures](https://www.newyorkfed.org/research/policy/gscpi#/overview)
 fell from record highs to pre-pandemic lows, disinflation followed close
@@ -87,7 +87,7 @@ played an important role in this surge as well.
 
 President Biden secured unparalleled support for small businesses and
 startups through
-[dozens](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
+[dozens](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/20/fact-sheet-president-biden-to-highlight-how-his-investing-in-america-agenda-has-led-to-a-black-small-business-boom/)
 of initiatives, ranging from expanding access to credit and federal
 procurement to ensuring universal access to high speed internet.
 
@@ -136,10 +136,10 @@ three years after the pandemic downturn began, while it took more than
 12 years to reach its prior peak after the global financial crisis.
 
 [Administration
-policies](https://www.whitehouse.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
+policies](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/07/child-care-stabilization/)
 enabled record numbers of people to come back into the labor
 force—including by providing vital support for [child
-care](https://www.whitehouse.gov/wp-content/uploads/2023/11/Child-Care-Stabilization.pdf)
+care](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/Child-Care-Stabilization.pdf)
 and other support to household balance sheets. [Prime age employment for
 women](https://www.hamiltonproject.org/publication/post/prime-age-women-are-going-above-and-beyond-in-the-labor-market-recovery/)
 was at its highest level on record for much of 2023, reflecting shifts
@@ -163,7 +163,7 @@ so far.
 The combination of inflation coming down alongside a strong job market
 has led to measurable gains for household balance sheets. This has been
 the [strongest recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-the-january-consumer-price-index/)
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-the-january-consumer-price-index/)
 for real wage growth in over 50 years with real wages rising a
 cumulative 3.4% over the business cycle. We have also seen the [largest
 increase in median wealth on
@@ -176,13 +176,13 @@ payments](https://www.federalreserve.gov/econres/scfindex.htm).
 Biden’s signature legislative achievements—the Bipartisan Infrastructure
 Law (BIL), CHIPS and Science Act, and Inflation Reduction Act
 (IRA)—represent the most significant public commitment to [investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in a
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in a
 generation. Even after President Biden had signed his historic Investing
 in America laws, professional forecasters projected non-residential
 fixed investment would stagnate in 2023. Instead, [non-residential fixed
 investment](https://fred.stlouisfed.org/series/PNFIC1#0) grew by 4.1% in
 real terms last year, including the [largest
-contribution](https://www.whitehouse.gov/cea/written-materials/2024/01/25/q4-gdp-advance-estimate-context-for-todays-strong-report/)
+contribution](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/01/25/q4-gdp-advance-estimate-context-for-todays-strong-report/)
 on record from manufacturing. In fact, inflation-adjusted [manufacturing
 construction](https://www.census.gov/construction/c30/c30index.html)
 spending has more than doubled in the United States, and

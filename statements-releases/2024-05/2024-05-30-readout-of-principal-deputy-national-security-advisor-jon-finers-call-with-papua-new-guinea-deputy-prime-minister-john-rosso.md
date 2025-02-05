@@ -2,7 +2,7 @@
 date: '2024-05-30'
 modified_time: 2024-05-30 21:36:43-04:00
 published_time: 2024-05-30 21:36:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-papua-new-guinea-deputy-prime-minister-john-rosso/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/30/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-papua-new-guinea-deputy-prime-minister-john-rosso/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Call\
   \ with Papua New Guinea Deputy Prime Minister John\_Rosso"

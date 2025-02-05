@@ -2,7 +2,7 @@
 date: '2024-01-11'
 modified_time: 2024-01-11 16:02:08-05:00
 published_time: 2024-01-11 16:02:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-health-research-event-at-the-university-of-illinois-chicago/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-health-research-event-at-the-university-of-illinois-chicago/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Women\u2019\
   s Health Research Event at the University of Illinois,\_Chicago"

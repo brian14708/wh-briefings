@@ -1,7 +1,7 @@
 ---
 date: '2022-08-15'
 published_time: 2022-08-15 16:27:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/15/by-the-numbers-the-inflation-reduction-act/
 tags: statements-releases
 title: "BY THE NUMBERS: The Inflation Reduction\_Act"
 ---

@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-03 18:39:30-05:00
 published_time: 2025-01-03 18:39:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/memorandum-on-the-designation-of-officials-of-the-united-states-agency-for-global-media-to-act-as-chief-executive-officer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/memorandum-on-the-designation-of-officials-of-the-united-states-agency-for-global-media-to-act-as-chief-executive-officer/
 tags: presidential-actions
 title: "Memorandum on the Designation of Officials of the United\_States Agency for\
   \ Global Media to Act as Chief Executive\_Officer"

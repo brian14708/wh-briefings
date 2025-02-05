@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 13:29:18-04:00
 published_time: 2024-04-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/
 tags: statements-releases
 title: "FACT SHEET: This Tax Day, the Tax Contrast Couldn\u2019t Be\_Clearer"
 ---
@@ -123,7 +123,7 @@ to the wealthy and big corporations, including:
     economy rather than windfalls for investors.
 -   <span style="text-decoration: underline">Blocking the President’s
     global minimum tax agreement </span>in order to [keep taxes
-    low](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/)
+    low](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/)
     for big multinationals, including Big Pharma.
 -   <span style="text-decoration: underline">Rewarding wealth, not work,
     by cutting capital gains taxes,</span> overwhelmingly benefitting

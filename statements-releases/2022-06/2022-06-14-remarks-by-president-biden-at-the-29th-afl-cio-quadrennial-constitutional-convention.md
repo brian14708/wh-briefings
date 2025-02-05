@@ -1,7 +1,7 @@
 ---
 date: '2022-06-14'
 published_time: 2022-06-14 17:42:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/14/remarks-by-president-biden-at-the-29th-afl-cio-quadrennial-constitutional-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/14/remarks-by-president-biden-at-the-29th-afl-cio-quadrennial-constitutional-convention/
 tags: statements-releases
 title: "Remarks by President\_Biden at the 29th AFL-CIO Quadrennial Constitutional\_\
   Convention"

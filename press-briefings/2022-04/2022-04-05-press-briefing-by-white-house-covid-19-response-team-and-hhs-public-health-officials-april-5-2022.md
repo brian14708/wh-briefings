@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 21:07:52-04:00
 published_time: 2022-04-05 21:07:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/05/press-briefing-by-white-house-covid-19-response-team-and-hhs-public-health-officials-april-5-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/05/press-briefing-by-white-house-covid-19-response-team-and-hhs-public-health-officials-april-5-2022/
 tags: press-briefings
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and HHS Public\
   \ Health Officials | April 5,\_2022"
@@ -666,4 +666,4 @@ So bottom line, thank you.
 3:40 P.M. EDT
 
 To view the COVID Press Briefing slides, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2022/04/COVID-Press-Briefing_4.05.22.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/COVID-Press-Briefing_4.05.22.pdf>

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-08'
 published_time: 2023-09-08 18:33:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/08/readout-of-white-house-and-department-of-agriculture-roundtable-on-climate-smart-agriculture-and-forestry-with-agriculture-conservation-and-environmental-organizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/08/readout-of-white-house-and-department-of-agriculture-roundtable-on-climate-smart-agriculture-and-forestry-with-agriculture-conservation-and-environmental-organizations/
 tags: statements-releases
 title: "Readout of White\_House and Department of Agriculture Roundtable on Climate-Smart\
   \ Agriculture and Forestry with Agriculture, Conservation, and Environmental Organizations"

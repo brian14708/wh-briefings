@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-24 09:16:29-04:00
 published_time: 2024-09-24 09:16:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/24/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-queens-ny-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/24/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-queens-ny-3/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Queens,\_NY"
 ---

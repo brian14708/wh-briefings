@@ -2,7 +2,7 @@
 date: '2023-06-12'
 modified_time: 2023-06-11 20:28:18-04:00
 published_time: 2023-06-12 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/12/statement-from-president-joe-biden-on-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/12/statement-from-president-joe-biden-on-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 75th Anniversary of Women\u2019\
   s Integration in to the Armed\_Forces"

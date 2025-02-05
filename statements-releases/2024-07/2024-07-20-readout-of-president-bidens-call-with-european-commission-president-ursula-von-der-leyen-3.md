@@ -1,7 +1,7 @@
 ---
 date: '2024-07-20'
 published_time: 2024-07-20 13:18:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/20/readout-of-president-bidens-call-with-european-commission-president-ursula-von-der-leyen-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/20/readout-of-president-bidens-call-with-european-commission-president-ursula-von-der-leyen-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with European Commission President\
   \ Ursula von der\_Leyen"

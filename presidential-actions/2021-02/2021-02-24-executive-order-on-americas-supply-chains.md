@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-02-24'
 modified_time: 2021-02-24 17:49:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/
 published_time: 2021-02-24 17:49:44-05:00
 title: "Executive Order on America\u2019s Supply\_Chains"
 ---

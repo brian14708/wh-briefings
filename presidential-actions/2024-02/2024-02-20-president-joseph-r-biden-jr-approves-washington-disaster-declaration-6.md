@@ -2,7 +2,7 @@
 date: '2024-02-20'
 modified_time: 2024-02-20 15:59:50-05:00
 published_time: 2024-02-20 13:45:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/20/president-joseph-r-biden-jr-approves-washington-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/20/president-joseph-r-biden-jr-approves-washington-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Washington Disaster\_Declaration"
 ---

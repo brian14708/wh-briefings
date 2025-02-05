@@ -1,7 +1,7 @@
 ---
 date: '2022-05-23'
 published_time: 2022-05-23 21:15:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/23/background-press-call-previewing-president-bidens-final-day-in-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/23/background-press-call-previewing-president-bidens-final-day-in-japan/
 tags: press-briefings
 title: "Background Press Call Previewing President\_Biden\u2019s Final Day in\_Japan"
 ---

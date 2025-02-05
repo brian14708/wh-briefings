@@ -2,7 +2,7 @@
 date: '2024-07-02'
 modified_time: 2024-07-01 18:10:41-04:00
 published_time: 2024-07-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-biden-harris-administration-announces-investment-in-twelve-regional-technology-hubs-creating-good-paying-jobs-and-driving-economic-opportunity-and-innovation-in-communities-across-the-cou/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-biden-harris-administration-announces-investment-in-twelve-regional-technology-hubs-creating-good-paying-jobs-and-driving-economic-opportunity-and-innovation-in-communities-across-the-cou/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Investment in Twelve\
   \ Regional Technology Hubs, Creating Good-paying Jobs and Driving Economic Opportunity\

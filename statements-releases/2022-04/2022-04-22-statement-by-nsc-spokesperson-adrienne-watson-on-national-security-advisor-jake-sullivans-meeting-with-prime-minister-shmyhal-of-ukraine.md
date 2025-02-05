@@ -1,7 +1,7 @@
 ---
 date: '2022-04-22'
 published_time: 2022-04-22 19:06:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-prime-minister-shmyhal-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-prime-minister-shmyhal-of-ukraine/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s meeting with Prime Minister Shmyhal of\_Ukraine"

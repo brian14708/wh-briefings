@@ -2,7 +2,7 @@
 date: '2024-04-04'
 modified_time: 2024-04-03 21:50:44-04:00
 published_time: 2024-04-04 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Historic $20 Billion in Awards\
   \ to Expand Access to Clean Energy and Climate Solutions and Lower Energy Costs\
@@ -55,7 +55,7 @@ underserved communities.
   
 The Greenhouse Gas Reduction Program advances the Biden-Harris
 Administration’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which sets the goal that 40% of the overall benefits from certain
 federal climate, clean energy, and other investments flow to
 disadvantaged communities that are marginalized by underinvestment and
@@ -73,7 +73,7 @@ Meanwhile, Republicans in Congress are already attempting to roll back
 these historic investments. Last month, the House of Representatives
 passed H.R. 1023, which would repeal the EPA’s Greenhouse Gas Reduction
 Fund. On March 19, President Biden issued a [Statement of Administration
-Policy](https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR1023.pdf)
+Policy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/SAP-HR1023.pdf)
 with his intent to veto that bill if it were to pass the Senate and come
 to his desk.  
   

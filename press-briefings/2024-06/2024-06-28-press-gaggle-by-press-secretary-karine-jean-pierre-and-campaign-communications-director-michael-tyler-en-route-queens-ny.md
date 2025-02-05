@@ -2,7 +2,7 @@
 date: '2024-06-28'
 modified_time: 2024-06-28 17:13:18-04:00
 published_time: 2024-06-28 17:22:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-campaign-communications-director-michael-tyler-en-route-queens-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-campaign-communications-director-michael-tyler-en-route-queens-ny/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Campaign Communications\
   \ Director Michael Tyler En Route Queens,\_NY"

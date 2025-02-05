@@ -1,7 +1,7 @@
 ---
 date: '2022-07-12'
 published_time: 2022-07-12 12:44:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/readout-of-vice-president-harriss-meeting-with-president-lopez-obrador-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/readout-of-vice-president-harriss-meeting-with-president-lopez-obrador-of-mexico/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Lopez Obrador\
   \ of\_Mexico"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-18'
 published_time: 2024-01-18 17:22:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/18/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-morrisville-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/18/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-morrisville-nc/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and NSC Coordinator\
   \ for Strategic Communications John Kirby En Route Morrisville,\_NC"

@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 21:09:33-04:00
 published_time: 2023-04-14 21:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-president-biden-to-the-people-of-county-mayo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/14/remarks-by-president-biden-to-the-people-of-county-mayo/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to the People of County\_Mayo"
 ---

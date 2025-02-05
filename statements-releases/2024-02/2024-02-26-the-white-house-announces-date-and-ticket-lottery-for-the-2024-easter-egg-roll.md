@@ -2,7 +2,7 @@
 date: '2024-02-26'
 modified_time: 2024-02-26 12:36:50-05:00
 published_time: 2024-02-26 12:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/the-white-house-announces-date-and-ticket-lottery-for-the-2024-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/26/the-white-house-announces-date-and-ticket-lottery-for-the-2024-easter-egg-roll/
 tags: statements-releases
 title: "The White\_House Announces Date and Ticket Lottery for the 2024 Easter Egg\_\
   Roll"

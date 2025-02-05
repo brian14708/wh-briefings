@@ -2,7 +2,7 @@
 date: '2023-10-16'
 modified_time: 2023-10-16 16:29:41-04:00
 published_time: 2023-10-16 16:29:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/statement-from-president-joe-biden-on-hate-crime-statistics/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/statement-from-president-joe-biden-on-hate-crime-statistics/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Hate Crime\_Statistics"
 ---

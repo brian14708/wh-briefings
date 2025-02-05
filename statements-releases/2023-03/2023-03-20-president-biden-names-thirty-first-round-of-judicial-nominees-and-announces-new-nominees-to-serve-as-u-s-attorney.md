@@ -1,7 +1,7 @@
 ---
 date: '2023-03-20'
 published_time: 2023-03-20 17:33:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/president-biden-names-thirty-first-round-of-judicial-nominees-and-announces-new-nominees-to-serve-as-u-s-attorney/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/president-biden-names-thirty-first-round-of-judicial-nominees-and-announces-new-nominees-to-serve-as-u-s-attorney/
 tags: statements-releases
 title: "President\_Biden Names Thirty-First Round of Judicial Nominees and Announces\
   \ New Nominees to Serve as U.S.\_Attorney"

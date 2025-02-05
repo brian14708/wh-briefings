@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 08:46:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-during-meeting-with-groundbreaking-women-leaders-from-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-during-meeting-with-groundbreaking-women-leaders-from-the-republic-of-korea/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Meeting with Groundbreaking Women\
   \ Leaders From the Republic of\_Korea"

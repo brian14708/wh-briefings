@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 13:24:39-05:00
 published_time: 2022-12-02 13:24:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-signing-of-h-j-res-100-providing-a-resolution-to-avert-a-nationwide-rail-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-at-signing-of-h-j-res-100-providing-a-resolution-to-avert-a-nationwide-rail-shutdown/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of H.J.Res.100 Providing a Resolution\
   \ to Avert a Nationwide Rail\_Shutdown"

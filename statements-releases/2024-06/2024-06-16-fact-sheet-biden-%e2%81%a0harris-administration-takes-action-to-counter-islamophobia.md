@@ -2,7 +2,7 @@
 date: '2024-06-16'
 modified_time: 2024-06-16 21:07:12-04:00
 published_time: 2024-06-16 20:05:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/16/fact-sheet-biden-%e2%81%a0harris-administration-takes-action-to-counter-islamophobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/16/fact-sheet-biden-%e2%81%a0harris-administration-takes-action-to-counter-islamophobia/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Counter\_Islamophobia"
 ---
@@ -28,7 +28,7 @@ actions: 
 
 -   On March 15, 2024, President Biden became the first U.S. President
     to recognize the International Day to Combat Islamophobia. In his
-    [statement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/statement-from-president-joe-biden-on-the-international-day-to-combat-islamophobia/),
+    [statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/statement-from-president-joe-biden-on-the-international-day-to-combat-islamophobia/),
     President Biden recognized the violence and hate that Muslims
     worldwide too often face because of their religious beliefs—and the
     ugly resurgence of Islamophobia in the wake of the devastating war
@@ -56,7 +56,7 @@ actions: 
     protections](https://www.justice.gov/crt/page/file/1070736/dl?inline).
         
 -   Through the Fiscal Year 2024 [National Security
-    Supplemental](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-supplemental/),
+    Supplemental](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-supplemental/),
     President Biden secured an additional $400 million for the Nonprofit
     Security Grant Program, which funds security improvements and
     training to nonprofits and houses of worship, including mosques. The

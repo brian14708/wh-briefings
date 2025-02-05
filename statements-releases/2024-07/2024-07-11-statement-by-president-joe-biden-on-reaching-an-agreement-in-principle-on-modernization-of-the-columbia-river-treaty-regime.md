@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-11 07:17:12-04:00
 published_time: 2024-07-11 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/statement-by-president-joe-biden-on-reaching-an-agreement-in-principle-on-modernization-of-the-columbia-river-treaty-regime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/statement-by-president-joe-biden-on-reaching-an-agreement-in-principle-on-modernization-of-the-columbia-river-treaty-regime/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Reaching an Agreement in Principle\
   \ on Modernization of the Columbia River Treaty\_Regime"

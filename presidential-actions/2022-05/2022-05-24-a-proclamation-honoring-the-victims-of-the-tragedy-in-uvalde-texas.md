@@ -1,7 +1,7 @@
 ---
 date: '2022-05-24'
 published_time: 2022-05-24 17:56:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/24/a-proclamation-honoring-the-victims-of-the-tragedy-in-uvalde-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/24/a-proclamation-honoring-the-victims-of-the-tragedy-in-uvalde-texas/
 tags: presidential-actions
 title: "A Proclamation Honoring The Victims Of The Tragedy In Uvalde,\_Texas"
 ---

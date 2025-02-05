@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-21 14:03:30-04:00
 published_time: 2024-03-20 14:03:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-research-triangle-park/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-research-triangle-park/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Research Triangle\_\
   Park"

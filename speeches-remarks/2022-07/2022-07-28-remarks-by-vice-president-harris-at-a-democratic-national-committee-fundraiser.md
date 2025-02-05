@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-31 13:04:39-04:00
 published_time: 2022-07-28 13:02:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-vice-president-harris-at-a-democratic-national-committee-fundraiser/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-vice-president-harris-at-a-democratic-national-committee-fundraiser/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Democratic National Committee\_Fundraiser"
 ---

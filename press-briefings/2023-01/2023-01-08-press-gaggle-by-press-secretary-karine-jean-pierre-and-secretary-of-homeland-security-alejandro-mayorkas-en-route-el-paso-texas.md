@@ -1,7 +1,7 @@
 ---
 date: '2023-01-08'
 published_time: 2023-01-08 17:33:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-el-paso-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/08/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-el-paso-texas/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Secretary of Homeland\
   \ Security Alejandro Mayorkas En Route El Paso,\_Texas"

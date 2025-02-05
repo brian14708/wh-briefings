@@ -1,7 +1,7 @@
 ---
 date: '2023-12-21'
 published_time: 2023-12-21 16:35:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/21/statement-from-national-economic-advisor-lael-brainard-on-u-s-steel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/21/statement-from-national-economic-advisor-lael-brainard-on-u-s-steel/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on U.S.\_Steel"
 ---

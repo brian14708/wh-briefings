@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-20 15:04:26-04:00
 published_time: 2024-03-20 15:04:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-at-a-campaign-event-phoenix-az-march-19-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-at-a-campaign-event-phoenix-az-march-19-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Phoenix, AZ (March 19,\_\
   2024)"

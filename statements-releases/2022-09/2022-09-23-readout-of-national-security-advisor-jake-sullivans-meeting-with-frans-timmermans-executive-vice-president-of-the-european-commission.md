@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 19:12:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/readout-of-national-security-advisor-jake-sullivans-meeting-with-frans-timmermans-executive-vice-president-of-the-european-commission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/readout-of-national-security-advisor-jake-sullivans-meeting-with-frans-timmermans-executive-vice-president-of-the-european-commission/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Frans\
   \ Timmermans, Executive Vice President of the European\_Commission"

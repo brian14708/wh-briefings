@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-23'
 modified_time: 2021-07-22 22:40:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-how-the-biden-harris-administration-is-advancing-educational-equity/
 published_time: 2021-07-23 07:00:00-04:00
 title: "FACT SHEET: How the Biden-\u2060Harris Administration Is Advancing Educational\_\
   Equity"
@@ -48,7 +48,7 @@ students](https://nces.ed.gov/programs/coe/indicator/cge) now students
 of color, addressing these disparities is critical for not only all our
 children, but for our nation’s collective health, happiness, and
 economic security. Consistent with the President’s [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
 the Administration is committed to advancing educational equity for
 every child—so that schools and students not only recover from the
 pandemic, but Build Back Better. As First Lady Dr. Biden says, “Any
@@ -90,10 +90,10 @@ Administration will:
 **<u>ADVANCING EDUCATIONAL EQUITY IN THE AMERICAN RESCUE PLAN</u>**  
   
 The President made clear on [Day One of this
-Administration](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
+Administration](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
 that safely reopening schools was a national priority, signing an
 [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-supporting-the-reopening-and-continuing-operation-of-schools-and-early-childhood-education-providers/)
 that launched a comprehensive effort across the White House, Department
 of Education, and Department of Health and Human Services to safely
 reopen schools. The Department of Education has worked to support states

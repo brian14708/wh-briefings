@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-04 12:11:56-04:00
 published_time: 2024-10-03 23:49:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-after-marine-one-arrival-27/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/03/remarks-by-president-biden-after-marine-one-arrival-27/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-29'
 published_time: 2023-12-29 11:55:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/29/readout-of-national-security-advisor-jake-sullivans-call-with-polish-secretary-of-state-head-of-the-national-security-bureau-jacek-siewiera/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/29/readout-of-national-security-advisor-jake-sullivans-call-with-polish-secretary-of-state-head-of-the-national-security-bureau-jacek-siewiera/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Polish\
   \ Secretary of State, Head of the National Security Bureau Jacek\_Siewiera"

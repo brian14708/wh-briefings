@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 16:28:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/readout-of-the-white-house-states-convening-on-child-care/
 tags: statements-releases
 title: "Readout of the White\_House States Convening on Child\_Care"
 ---
@@ -34,7 +34,7 @@ be eligible for child care assistance and the average family would pay
 no more than $10 a day for care. As Congress considers that proposal,
 the President did not want to wait to take action on child care, which
 is why he signed a historic [executive
-order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) in
+order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) in
 April that directs nearly every cabinet-level agency to expand access to
 affordable, high-quality care, and provide support for care workers and
 family caregivers. This EO represents the most comprehensive set of
@@ -48,7 +48,7 @@ out-of-pocket for care, and how much child providers are reimbursed.
 Thanks to actions by the Biden-Harris Administration, states have even
 more avenues to improve child care access, affordability, and quality.
 An HHS notice of proposed rulemaking
-(NPRM) [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-vice-president-harris-announces-actions-to-lower-child-care-costs-and-support-child-care-providers/) by
+(NPRM) [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-vice-president-harris-announces-actions-to-lower-child-care-costs-and-support-child-care-providers/) by
 Vice President Harris earlier this month would cap child care payments
 for families served by CCDBG at 7% of a family’s income, and encourage
 states to waive copayments for families at or below 150% of the federal

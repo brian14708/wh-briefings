@@ -1,7 +1,7 @@
 ---
 date: '2023-09-16'
 published_time: 2023-09-16 10:03:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/16/president-joseph-r-biden-jr-approves-massachusetts-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/16/president-joseph-r-biden-jr-approves-massachusetts-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Massachusetts Emergency\_Declaration"
 ---

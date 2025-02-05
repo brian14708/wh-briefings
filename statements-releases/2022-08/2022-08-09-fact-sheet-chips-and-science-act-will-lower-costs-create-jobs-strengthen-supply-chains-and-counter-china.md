@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 07:52:51-04:00
 published_time: 2022-08-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/
 tags: statements-releases
 title: "FACT SHEET: CHIPS and Science Act Will Lower Costs, Create Jobs, Strengthen\
   \ Supply Chains, and Counter\_China"
@@ -79,7 +79,7 @@ funding:</u>**
     permitting-related project delivery issues for high-tech
     manufacturing, consistent with the [President’s Permitting Action
     Plan announced in
-    May](https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf). 
+    May](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf). 
     This interagency working group will build on the interagency CHIPS
     and Science Act planning to date between the Council on
     Environmental Quality, Environmental Protection Agency, and the

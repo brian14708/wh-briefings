@@ -1,7 +1,7 @@
 ---
 date: '2023-02-03'
 published_time: 2023-02-03 17:38:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-on-the-administrations-efforts-to-replace-lead-pipes-and-provide-clean-drinking-water-for-all-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-on-the-administrations-efforts-to-replace-lead-pipes-and-provide-clean-drinking-water-for-all-americans/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Administration\u2019s Efforts to Replace\
   \ Lead Pipes and Provide Clean Drinking Water for All\_Americans"

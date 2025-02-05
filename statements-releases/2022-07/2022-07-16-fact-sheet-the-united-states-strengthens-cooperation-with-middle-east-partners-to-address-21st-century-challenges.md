@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-19 11:56:01-04:00
 published_time: 2022-07-16 18:48:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/fact-sheet-the-united-states-strengthens-cooperation-with-middle-east-partners-to-address-21st-century-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/fact-sheet-the-united-states-strengthens-cooperation-with-middle-east-partners-to-address-21st-century-challenges/
 tags: statements-releases
 title: "FACT SHEET: The United\_States Strengthens Cooperation with Middle East Partners\
   \ to Address 21st Century\_Challenges"

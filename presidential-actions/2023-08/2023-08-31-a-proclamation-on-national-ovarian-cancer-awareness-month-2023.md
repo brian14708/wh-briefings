@@ -2,7 +2,7 @@
 date: '2023-08-31'
 modified_time: 2023-08-31 12:28:35-04:00
 published_time: 2023-08-31 12:28:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/31/a-proclamation-on-national-ovarian-cancer-awareness-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/31/a-proclamation-on-national-ovarian-cancer-awareness-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Ovarian Cancer Awareness Month,\_2023"
 ---

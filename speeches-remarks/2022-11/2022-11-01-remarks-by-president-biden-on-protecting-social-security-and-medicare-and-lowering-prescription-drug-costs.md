@@ -1,7 +1,7 @@
 ---
 date: '2022-11-01'
 published_time: 2022-11-01 20:59:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-on-protecting-social-security-and-medicare-and-lowering-prescription-drug-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-on-protecting-social-security-and-medicare-and-lowering-prescription-drug-costs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Protecting Social Security and Medicare and\
   \ Lowering Prescription Drug\_Costs"

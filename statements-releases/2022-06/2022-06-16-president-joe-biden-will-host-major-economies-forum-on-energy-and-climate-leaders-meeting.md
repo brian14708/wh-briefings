@@ -2,7 +2,7 @@
 date: '2022-06-16'
 modified_time: 2022-06-16 15:09:39-04:00
 published_time: 2022-06-16 15:09:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/president-joe-biden-will-host-major-economies-forum-on-energy-and-climate-leaders-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/president-joe-biden-will-host-major-economies-forum-on-energy-and-climate-leaders-meeting/
 tags: statements-releases
 title: "President Joe\_Biden will Host Major Economies Forum on Energy and Climate\
   \ Leaders\_Meeting"

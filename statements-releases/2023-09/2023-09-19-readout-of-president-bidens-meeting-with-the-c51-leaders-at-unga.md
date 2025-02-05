@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 published_time: 2023-09-19 17:53:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/readout-of-president-bidens-meeting-with-the-c51-leaders-at-unga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/readout-of-president-bidens-meeting-with-the-c51-leaders-at-unga/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with the C5+1 Leaders at\_UNGA"
 ---

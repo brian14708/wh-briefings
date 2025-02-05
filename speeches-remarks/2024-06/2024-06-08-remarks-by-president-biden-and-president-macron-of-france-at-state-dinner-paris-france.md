@@ -2,7 +2,7 @@
 date: '2024-06-08'
 modified_time: 2024-06-08 17:53:41-04:00
 published_time: 2024-06-08 17:53:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-president-biden-and-president-macron-of-france-at-state-dinner-paris-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/08/remarks-by-president-biden-and-president-macron-of-france-at-state-dinner-paris-france/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Macron of France at State Dinner\
   \ | Paris,\_France"

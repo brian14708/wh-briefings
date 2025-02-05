@@ -1,7 +1,7 @@
 ---
 date: '2023-09-23'
 published_time: 2023-09-23 18:47:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/23/readout-of-workforce-roundtable-with-black-elected-officials-philanthropies-unions-and-ngos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/23/readout-of-workforce-roundtable-with-black-elected-officials-philanthropies-unions-and-ngos/
 tags: statements-releases
 title: "Readout of Workforce Roundtable with Black Elected Officials, Philanthropies,\
   \ Unions, and\_NGOs"
@@ -27,9 +27,9 @@ governments to create effective partnerships with philanthropy, unions
 and NGOs to train and connect American workers to jobs. They also
 focused on how resources like the [Investing in American Technical
 Assistance
-Guide](https://www.whitehouse.gov/wp-content/uploads/2023/09/IIA-Technical-Assistance-Guide-September-2023-v091223.pdf) and
+Guide](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/IIA-Technical-Assistance-Guide-September-2023-v091223.pdf) and
 initiatives like the [White House Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) can
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) can
 ensure equitable access to good jobs for all. Senior Biden-Harris
 Administration officials attending included:
 

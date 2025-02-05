@@ -1,7 +1,7 @@
 ---
 date: '2024-08-14'
 published_time: 2024-08-14 17:59:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/readout-of-president-bidens-call-with-president-jose-raul-mulino-of-panama/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/readout-of-president-bidens-call-with-president-jose-raul-mulino-of-panama/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Jos\xE9 Ra\xFAl Mulino\
   \ of\_Panama"

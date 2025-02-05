@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-05-28'
 modified_time: 2021-05-28 18:44:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/28/remarks-by-president-biden-addressing-service-members-and-their-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/28/remarks-by-president-biden-addressing-service-members-and-their-families/
 published_time: 2021-05-28 18:44:29-04:00
 title: "Remarks by President\_Biden Addressing Service Members and their\_Families"
 ---

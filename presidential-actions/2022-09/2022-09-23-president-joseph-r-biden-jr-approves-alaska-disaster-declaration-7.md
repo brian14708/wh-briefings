@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 21:49:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/23/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/23/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-7/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-03 18:05:16-04:00
 published_time: 2022-05-04 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/04/background-press-call-by-senior-administration-officials-on-the-presidents-new-directives-to-advance-quantum-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/04/background-press-call-by-senior-administration-officials-on-the-presidents-new-directives-to-advance-quantum-technology/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the President\u2019\
   s New Directives to Advance Quantum\_Technology"

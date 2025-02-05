@@ -2,7 +2,7 @@
 date: '2024-07-26'
 modified_time: 2024-07-26 09:11:38-04:00
 published_time: 2024-07-26 08:29:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/statement-from-president-joe-biden-on-the-arrest-of-two-drug-trafficker-leaders-of-the-sinaloa-cartel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/statement-from-president-joe-biden-on-the-arrest-of-two-drug-trafficker-leaders-of-the-sinaloa-cartel/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Arrest of Two Drug Trafficker Leaders\
   \ of the Sinaloa\_Cartel"

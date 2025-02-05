@@ -2,7 +2,7 @@
 date: '2022-04-12'
 modified_time: 2022-04-12 19:54:34-04:00
 published_time: 2022-04-12 19:54:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/12/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-call-with-president-maia-sandu-of-moldova/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/12/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-call-with-president-maia-sandu-of-moldova/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Call with President Maia Sandu of\_Moldova"

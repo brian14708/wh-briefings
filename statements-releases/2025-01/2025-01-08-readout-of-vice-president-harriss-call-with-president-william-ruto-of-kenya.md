@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 18:24:55-05:00
 published_time: 2025-01-08 18:24:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-president-william-ruto-of-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-president-william-ruto-of-kenya/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President William Ruto of\_\
   Kenya"

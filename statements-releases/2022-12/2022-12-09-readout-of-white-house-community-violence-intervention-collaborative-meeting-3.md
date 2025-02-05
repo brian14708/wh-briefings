@@ -2,7 +2,7 @@
 date: '2022-12-09'
 modified_time: 2022-12-09 17:27:21-05:00
 published_time: 2022-12-09 08:17:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/readout-of-white-house-community-violence-intervention-collaborative-meeting-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/09/readout-of-white-house-community-violence-intervention-collaborative-meeting-3/
 tags: statements-releases
 title: "Readout of White\_House Community Violence Intervention Collaborative\_Meeting"
 ---

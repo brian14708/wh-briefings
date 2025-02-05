@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 08:05:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-delivering-on-the-next-generation-of-innovation-and-partnership-with-australia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-delivering-on-the-next-generation-of-innovation-and-partnership-with-australia/
 tags: statements-releases
 title: "FACT SHEET: Delivering on the Next Generation of Innovation and Partnership\
   \ with\_Australia"

@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 15:50:30-05:00
 published_time: 2024-12-11 16:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/11/remarks-by-president-biden-at-a-christmas-for-all-dinner-in-celebration-of-unity-america-and-special-olympics/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/11/remarks-by-president-biden-at-a-christmas-for-all-dinner-in-celebration-of-unity-america-and-special-olympics/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Christmas For All Dinner in Celebration of\
   \ Unity, America, and Special\_Olympics"

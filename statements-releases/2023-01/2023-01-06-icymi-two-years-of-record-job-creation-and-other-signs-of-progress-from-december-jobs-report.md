@@ -2,7 +2,7 @@
 date: '2023-01-06'
 modified_time: 2023-01-07 13:36:20-05:00
 published_time: 2023-01-06 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/06/icymi-two-years-of-record-job-creation-and-other-signs-of-progress-from-december-jobs-report/
 tags: statements-releases
 title: "ICYMI:\_Two Years of Record Job Creation and Other Signs of Progress from\
   \ December Jobs\_Report"

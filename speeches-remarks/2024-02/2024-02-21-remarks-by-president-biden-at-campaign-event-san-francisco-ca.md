@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-22 16:46:37-05:00
 published_time: 2024-02-21 22:43:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/21/remarks-by-president-biden-at-campaign-event-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/21/remarks-by-president-biden-at-campaign-event-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Campaign Event | San Francisco,\_CA"
 ---

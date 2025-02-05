@@ -2,7 +2,7 @@
 date: '2023-12-12'
 modified_time: 2023-12-12 18:13:22-05:00
 published_time: 2023-12-12 18:13:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/readout-of-vice-president-harriss-meeting-with-president-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/12/readout-of-vice-president-harriss-meeting-with-president-zelenskyy-of-ukraine/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Zelenskyy of\_\
   Ukraine"

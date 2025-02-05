@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 22:55:59-05:00
 published_time: 2025-01-08 22:55:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/statement-from-president-joe-biden-on-the-ila-and-usmx-tentative-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/statement-from-president-joe-biden-on-the-ila-and-usmx-tentative-agreement/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the ILA and USMX Tentative\_Agreement"
 ---

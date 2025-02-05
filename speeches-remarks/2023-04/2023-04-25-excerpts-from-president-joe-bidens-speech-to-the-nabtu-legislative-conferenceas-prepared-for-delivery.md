@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 12:20:39-04:00
 published_time: 2023-04-25 12:18:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/25/excerpts-from-president-joe-bidens-speech-to-the-nabtu-legislative-conferenceas-prepared-for-delivery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/25/excerpts-from-president-joe-bidens-speech-to-the-nabtu-legislative-conferenceas-prepared-for-delivery/
 tags: speeches-remarks
 title: "Excerpts from President Joe\_Biden\u2019s Speech to the NABTU Legislative\
   \ Conference As Prepared for\_Delivery"

@@ -2,7 +2,7 @@
 date: '2023-11-25'
 modified_time: 2023-11-25 11:08:06-05:00
 published_time: 2023-11-25 11:08:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/25/statement-by-president-biden-in-remembrance-of-holodomor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/25/statement-by-president-biden-in-remembrance-of-holodomor/
 tags: statements-releases
 title: "Statement by President\_Biden in Remembrance of\_Holodomor"
 ---

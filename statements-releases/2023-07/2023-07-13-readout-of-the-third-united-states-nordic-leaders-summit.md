@@ -2,7 +2,7 @@
 date: '2023-07-13'
 modified_time: 2023-07-13 09:53:49-04:00
 published_time: 2023-07-13 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/readout-of-the-third-united-states-nordic-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/readout-of-the-third-united-states-nordic-leaders-summit/
 tags: statements-releases
 title: "Readout of the Third United\_States \u2013 Nordic Leaders\u2019\_Summit"
 ---

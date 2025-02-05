@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-15 11:51:41-05:00
 published_time: 2024-11-15 11:49:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-advancing-the-united-states-peru-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-advancing-the-united-states-peru-partnership/
 tags: statements-releases
 title: "Fact Sheet: Advancing the United\_States \u2013 Peru\_Partnership"
 ---
@@ -21,9 +21,9 @@ promote economic, social, and political development and to support Peru
 as it manages the migration flows impacting the region.  Peru is a
 founding partner of the [Americas Partnership for Economic Prosperity
 (Americas Partnership or APEP)
-initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/04/fact-sheet-the-biden-harris-administration-marks-the-anniversary-of-the-americas-partnership-for-economic-prosperity-leaders-summit/),
+initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/04/fact-sheet-the-biden-harris-administration-marks-the-anniversary-of-the-americas-partnership-for-economic-prosperity-leaders-summit/),
 endorsed the [Los Angeles Declaration on Migration and
-Protection](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection/),
+Protection](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/fact-sheet-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection/),
 and recently agreed to [increase cooperation with the United States on
 space and critical
 minerals](https://www.state.gov/the-united-states-of-america-and-peru-sign-memorandum-of-understanding-to-strengthen-cooperation-on-critical-minerals/).

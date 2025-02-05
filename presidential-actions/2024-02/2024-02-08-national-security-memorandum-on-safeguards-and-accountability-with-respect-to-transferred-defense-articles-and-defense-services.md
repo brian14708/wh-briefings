@@ -1,7 +1,7 @@
 ---
 date: '2024-02-08'
 published_time: 2024-02-08 20:31:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/08/national-security-memorandum-on-safeguards-and-accountability-with-respect-to-transferred-defense-articles-and-defense-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/08/national-security-memorandum-on-safeguards-and-accountability-with-respect-to-transferred-defense-articles-and-defense-services/
 tags: presidential-actions
 title: "National Security Memorandum on Safeguards and Accountability With Respect\
   \ to Transferred Defense Articles and Defense\_Services"

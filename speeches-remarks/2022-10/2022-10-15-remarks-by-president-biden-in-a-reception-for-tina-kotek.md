@@ -2,7 +2,7 @@
 date: '2022-10-15'
 modified_time: 2022-10-16 08:18:29-04:00
 published_time: 2022-10-15 23:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-president-biden-in-a-reception-for-tina-kotek/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-president-biden-in-a-reception-for-tina-kotek/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Reception for Tina\_Kotek"
 ---

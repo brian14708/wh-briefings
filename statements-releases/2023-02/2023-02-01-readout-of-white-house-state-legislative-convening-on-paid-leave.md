@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 16:04:25-05:00
 published_time: 2023-02-01 14:31:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/readout-of-white-house-state-legislative-convening-on-paid-leave/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/readout-of-white-house-state-legislative-convening-on-paid-leave/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Paid\_Leave"
 ---

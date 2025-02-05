@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-12 11:18:07-04:00
 published_time: 2023-10-12 11:18:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/meeting-with-jewish-leaders-on-biden-administrations-commitment-to-supporting-israel-and-countering-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/meeting-with-jewish-leaders-on-biden-administrations-commitment-to-supporting-israel-and-countering-antisemitism/
 tags: statements-releases
 title: "Meeting with Jewish Leaders on Biden-Administration\u2019s Commitment to Supporting\
   \ Israel and Countering\_Antisemitism"

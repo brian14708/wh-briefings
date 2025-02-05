@@ -2,7 +2,7 @@
 date: '2023-08-30'
 modified_time: 2023-08-30 11:05:28-04:00
 published_time: 2023-08-30 09:56:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/what-they-are-saying-elected-officials-labor-leaders-aging-advocates-health-and-advocacy-groups-and-more-applaud-administrations-prescription-drug-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/what-they-are-saying-elected-officials-labor-leaders-aging-advocates-health-and-advocacy-groups-and-more-applaud-administrations-prescription-drug-announcement/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Elected Officials, Labor Leaders, Aging Advocates, Health\
   \ and Advocacy Groups, And More Applaud Administration\u2019s Prescription Drug\_\

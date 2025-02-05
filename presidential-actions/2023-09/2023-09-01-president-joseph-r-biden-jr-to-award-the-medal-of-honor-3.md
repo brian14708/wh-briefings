@@ -2,7 +2,7 @@
 date: '2023-09-01'
 modified_time: 2023-09-01 10:00:48-04:00
 published_time: 2023-09-01 10:00:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/01/president-joseph-r-biden-jr-to-award-the-medal-of-honor-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/01/president-joseph-r-biden-jr-to-award-the-medal-of-honor-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. to Award the Medal of\_Honor"
 ---

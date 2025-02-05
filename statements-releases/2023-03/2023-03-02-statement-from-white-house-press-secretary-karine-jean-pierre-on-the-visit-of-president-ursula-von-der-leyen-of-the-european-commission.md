@@ -1,7 +1,7 @@
 ---
 date: '2023-03-02'
 published_time: 2023-03-02 13:31:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-ursula-von-der-leyen-of-the-european-commission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-ursula-von-der-leyen-of-the-european-commission/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of President Ursula von der Leyen of the European\_Commission"

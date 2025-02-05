@@ -1,7 +1,7 @@
 ---
 date: '2023-09-12'
 published_time: 2023-09-12 09:01:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/12/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-new-york-city/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/12/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-new-york-city/
 tags: speeches-remarks
 title: "Statement from Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to New York\_City"

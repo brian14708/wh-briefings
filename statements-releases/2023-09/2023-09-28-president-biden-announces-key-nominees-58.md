@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-29 13:09:35-04:00
 published_time: 2023-09-28 15:40:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/president-biden-announces-key-nominees-58/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/president-biden-announces-key-nominees-58/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

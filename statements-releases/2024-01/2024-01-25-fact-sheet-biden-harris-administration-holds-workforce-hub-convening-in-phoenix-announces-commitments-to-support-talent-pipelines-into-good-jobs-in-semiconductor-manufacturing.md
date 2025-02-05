@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-25 10:31:56-05:00
 published_time: 2024-01-25 13:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-phoenix-announces-commitments-to-support-talent-pipelines-into-good-jobs-in-semiconductor-manufacturing/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Holds Workforce Hub Convening\
   \ in Phoenix, Announces Commitments to Support Talent Pipelines into Good Jobs in\
@@ -18,7 +18,7 @@ Today, Senior Biden-Harris Administration officials will travel to
 Phoenix, Arizona for a Workforce Hub convening announcing commitments to
 equitable workforce development from Hub collaborators. In 2023, First
 Lady Jill Biden announced Phoenix as one of five [Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) where
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) where
 President Biden’s Investing in America agenda—including the American
 Rescue Plan, Bipartisan Infrastructure Law, CHIPS and Science Act, and
 Inflation Reduction Act—is driving historic private and public
@@ -58,7 +58,7 @@ to sponsor a Registered Apprenticeship program in this industry.
 
 The Hub’s work also supports the Administration’s [Advanced
 Manufacturing Workforce
-Sprint](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) —an
+Sprint](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) —an
 intensive nationwide drive to build a diverse, skilled pipeline of
 workers for good advanced manufacturing jobs.
 

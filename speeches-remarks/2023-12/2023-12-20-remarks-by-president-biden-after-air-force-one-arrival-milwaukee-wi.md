@@ -1,7 +1,7 @@
 ---
 date: '2023-12-20'
 published_time: 2023-12-20 15:03:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-after-air-force-one-arrival-milwaukee-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-after-air-force-one-arrival-milwaukee-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Milwaukee,\_WI"
 ---

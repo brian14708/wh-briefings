@@ -1,7 +1,7 @@
 ---
 date: '2023-04-21'
 published_time: 2023-04-21 18:56:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Supreme Court\u2019s Decision in\
   \ Alliance for Hippocratic Medicine v.\_FDA"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 12:09:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/statement-from-president-joe-biden-on-supreme-court-decision-in-303-creative-llc-v-elenis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/statement-from-president-joe-biden-on-supreme-court-decision-in-303-creative-llc-v-elenis/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Supreme Court Decision in 303 Creative\
   \ LLC v.\_Elenis"

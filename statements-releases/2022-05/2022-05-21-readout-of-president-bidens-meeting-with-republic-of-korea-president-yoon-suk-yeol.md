@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 03:20:34-04:00
 published_time: 2022-05-21 03:05:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/21/readout-of-president-bidens-meeting-with-republic-of-korea-president-yoon-suk-yeol/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/21/readout-of-president-bidens-meeting-with-republic-of-korea-president-yoon-suk-yeol/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Republic of Korea President\
   \ Yoon Suk\_Yeol"

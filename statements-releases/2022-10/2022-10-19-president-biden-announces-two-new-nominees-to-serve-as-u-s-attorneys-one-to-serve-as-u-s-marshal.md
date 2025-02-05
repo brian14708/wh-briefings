@@ -1,7 +1,7 @@
 ---
 date: '2022-10-19'
 published_time: 2022-10-19 19:50:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/president-biden-announces-two-new-nominees-to-serve-as-u-s-attorneys-one-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/president-biden-announces-two-new-nominees-to-serve-as-u-s-attorneys-one-to-serve-as-u-s-marshal/
 tags: statements-releases
 title: "President\_Biden Announces Two New Nominees to Serve as U.S. Attorneys, One\
   \ to Serve as U.S.\_Marshal"

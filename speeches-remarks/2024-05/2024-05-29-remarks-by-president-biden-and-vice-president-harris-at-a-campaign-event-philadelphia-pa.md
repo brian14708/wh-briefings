@@ -2,7 +2,7 @@
 date: '2024-05-29'
 modified_time: 2024-05-29 20:14:59-04:00
 published_time: 2024-05-29 20:14:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/29/remarks-by-president-biden-and-vice-president-harris-at-a-campaign-event-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/29/remarks-by-president-biden-and-vice-president-harris-at-a-campaign-event-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at a Campaign Event\
   \ | Philadelphia,\_PA"

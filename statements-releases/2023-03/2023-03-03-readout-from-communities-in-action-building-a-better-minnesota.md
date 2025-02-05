@@ -2,7 +2,7 @@
 date: '2023-03-03'
 modified_time: 2023-03-03 16:55:53-05:00
 published_time: 2023-03-03 16:55:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/readout-from-communities-in-action-building-a-better-minnesota/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/readout-from-communities-in-action-building-a-better-minnesota/
 tags: statements-releases
 title: 'Readout from Communities in Action: Building A Better Minnesota'
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-04'
 modified_time: 2024-07-05 10:29:55-04:00
 published_time: 2024-07-04 16:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/04/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-private-philip-g-shadrach-and-private-george-d-wilson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/04/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-private-philip-g-shadrach-and-private-george-d-wilson/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Medal of Honor to Army\
   \ Private Philip G. Shadrach and Private George D.\_Wilson"

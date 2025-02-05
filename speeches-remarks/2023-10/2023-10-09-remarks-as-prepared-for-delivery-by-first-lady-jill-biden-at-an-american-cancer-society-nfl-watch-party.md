@@ -2,7 +2,7 @@
 date: '2023-10-09'
 modified_time: 2023-10-16 14:32:35-04:00
 published_time: 2023-10-09 22:42:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-american-cancer-society-nfl-watch-party/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-american-cancer-society-nfl-watch-party/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an American\
   \ Cancer Society NFL Crucial Catch Watch\_Party"

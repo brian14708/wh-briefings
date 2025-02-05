@@ -2,7 +2,7 @@
 date: '2024-03-31'
 modified_time: 2024-03-31 08:41:40-04:00
 published_time: 2024-03-31 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/31/statement-from-president-joe-biden-on-easter-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/31/statement-from-president-joe-biden-on-easter-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on\_Easter"
 ---

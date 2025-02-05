@@ -2,7 +2,7 @@
 date: '2024-09-14'
 modified_time: 2024-09-16 12:15:16-04:00
 published_time: 2024-09-14 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/14/remarks-by-vice-president-harris-at-the-2024-phoenix-awards-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/14/remarks-by-vice-president-harris-at-the-2024-phoenix-awards-dinner/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the 2024 Phoenix Awards\_Dinner"
 ---

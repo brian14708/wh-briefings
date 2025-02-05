@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-02 12:37:15-04:00
 published_time: 2022-11-01 23:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-at-dnc-grassroots-rally-for-senatorial-candidate-val-demings-and-gubernatorial-candidate-charlie-crist/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/01/remarks-by-president-biden-at-dnc-grassroots-rally-for-senatorial-candidate-val-demings-and-gubernatorial-candidate-charlie-crist/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at DNC Grassroots Rally for Senatorial Candidate\
   \ Val Demings and Gubernatorial Candidate Charlie\_Crist"

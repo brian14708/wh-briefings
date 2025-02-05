@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 23:18:44-05:00
 published_time: 2022-11-18 23:17:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/statement-by-vice-president-kamala-harris-on-selection-of-san-francisco-as-host-city-for-2023-apec-leaders-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/statement-by-vice-president-kamala-harris-on-selection-of-san-francisco-as-host-city-for-2023-apec-leaders-meeting/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on Selection of San Francisco as\
   \ Host City for 2023 APEC Leaders\_Meeting"

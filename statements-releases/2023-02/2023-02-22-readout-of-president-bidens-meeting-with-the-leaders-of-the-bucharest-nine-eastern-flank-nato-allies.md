@@ -1,7 +1,7 @@
 ---
 date: '2023-02-22'
 published_time: 2023-02-22 11:48:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/readout-of-president-bidens-meeting-with-the-leaders-of-the-bucharest-nine-eastern-flank-nato-allies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/readout-of-president-bidens-meeting-with-the-leaders-of-the-bucharest-nine-eastern-flank-nato-allies/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with the Leaders of the Bucharest\
   \ Nine Eastern Flank NATO\_Allies"

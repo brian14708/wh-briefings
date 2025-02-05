@@ -2,7 +2,7 @@
 date: '2024-06-14'
 modified_time: 2024-06-14 16:28:20-04:00
 published_time: 2024-06-14 16:28:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/14/readout-of-president-bidens-pull-aside-with-president-sheikh-mohammed-bin-zayed-al-nahyan-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/14/readout-of-president-bidens-pull-aside-with-president-sheikh-mohammed-bin-zayed-al-nahyan-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Pull Aside with President Sheikh Mohammed\
   \ bin Zayed Al Nahyan of the United Arab\_Emirates"

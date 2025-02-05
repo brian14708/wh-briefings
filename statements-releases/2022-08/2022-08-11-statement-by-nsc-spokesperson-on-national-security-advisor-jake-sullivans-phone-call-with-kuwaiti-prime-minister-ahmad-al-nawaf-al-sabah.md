@@ -1,7 +1,7 @@
 ---
 date: '2022-08-11'
 published_time: 2022-08-11 11:38:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-phone-call-with-kuwaiti-prime-minister-ahmad-al-nawaf-al-sabah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/11/statement-by-nsc-spokesperson-on-national-security-advisor-jake-sullivans-phone-call-with-kuwaiti-prime-minister-ahmad-al-nawaf-al-sabah/
 tags: statements-releases
 title: "Statement by NSC Spokesperson on National Security Advisor Jake Sullivan\u2019\
   s Phone Call with Kuwaiti Prime Minister Ahmad al-Nawaf\_al-Sabah"

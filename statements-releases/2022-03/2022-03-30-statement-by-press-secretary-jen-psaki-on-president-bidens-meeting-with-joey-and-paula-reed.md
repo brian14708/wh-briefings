@@ -2,7 +2,7 @@
 date: '2022-03-30'
 modified_time: 2022-03-30 21:07:15-04:00
 published_time: 2022-03-30 21:07:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/statement-by-press-secretary-jen-psaki-on-president-bidens-meeting-with-joey-and-paula-reed/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/30/statement-by-press-secretary-jen-psaki-on-president-bidens-meeting-with-joey-and-paula-reed/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on President\_Biden\u2019s Meeting\
   \ with Joey and Paula\_Reed"

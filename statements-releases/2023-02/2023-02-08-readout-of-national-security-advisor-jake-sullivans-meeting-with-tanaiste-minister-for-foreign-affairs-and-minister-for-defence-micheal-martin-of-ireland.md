@@ -1,7 +1,7 @@
 ---
 date: '2023-02-08'
 published_time: 2023-02-08 19:23:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/08/readout-of-national-security-advisor-jake-sullivans-meeting-with-tanaiste-minister-for-foreign-affairs-and-minister-for-defence-micheal-martin-of-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/08/readout-of-national-security-advisor-jake-sullivans-meeting-with-tanaiste-minister-for-foreign-affairs-and-minister-for-defence-micheal-martin-of-ireland/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with T\xE1\
   naiste, Minister for Foreign Affairs and Minister for Defence Miche\xE1l Martin\

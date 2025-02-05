@@ -1,7 +1,7 @@
 ---
 date: '2025-01-07'
 published_time: 2025-01-07 17:51:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-biden-%e2%81%a0harris-administration-launches-new-era-in-public-private-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-biden-%e2%81%a0harris-administration-launches-new-era-in-public-private-partnership/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches New Era in Public-Private\
   \ Partnership"

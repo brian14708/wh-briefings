@@ -2,7 +2,7 @@
 date: '2023-09-01'
 modified_time: 2023-09-01 14:56:58-04:00
 published_time: 2023-09-01 14:56:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-leaders-of-ukrainian-anti-corruption-institutions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/01/readout-of-national-security-advisor-jake-sullivans-meeting-with-leaders-of-ukrainian-anti-corruption-institutions/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Leaders\
   \ of Ukrainian Anti-Corruption Institutions"

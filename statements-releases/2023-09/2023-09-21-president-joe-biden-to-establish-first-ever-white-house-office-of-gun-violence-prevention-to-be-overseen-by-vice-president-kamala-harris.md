@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 18:00:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/president-joe-biden-to-establish-first-ever-white-house-office-of-gun-violence-prevention-to-be-overseen-by-vice-president-kamala-harris/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/president-joe-biden-to-establish-first-ever-white-house-office-of-gun-violence-prevention-to-be-overseen-by-vice-president-kamala-harris/
 tags: statements-releases
 title: "President Joe\_Biden to Establish First-Ever White\_House Office of Gun Violence\
   \ Prevention, To Be Overseen by Vice President Kamala\_Harris"

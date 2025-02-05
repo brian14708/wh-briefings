@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-03 13:39:18-05:00
 published_time: 2023-02-03 13:39:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-widespread-humanitarian-crisis-in-afghanistan-and-the-potential-for-a-deepening-economic-collapse-in-afghanistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/03/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-widespread-humanitarian-crisis-in-afghanistan-and-the-potential-for-a-deepening-economic-collapse-in-afghanistan/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to the Widespread\
   \ Humanitarian Crisis in Afghanistan and the Potential for a Deepening Economic\

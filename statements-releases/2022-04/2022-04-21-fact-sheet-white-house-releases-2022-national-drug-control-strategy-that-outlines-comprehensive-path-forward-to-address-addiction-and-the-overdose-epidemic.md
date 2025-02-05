@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-20 22:16:31-04:00
 published_time: 2022-04-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/
 tags: statements-releases
 title: "FACT SHEET: White\_House Releases 2022 National Drug Control Strategy that\
   \ Outlines Comprehensive Path Forward to Address Addiction and the Overdose\_Epidemic"
@@ -10,15 +10,15 @@ title: "FACT SHEET: White\_House Releases 2022 National Drug Control Strategy th
  
 Today, President Biden sent his Administration’s inaugural [*National
 Drug Control
-Strategy*](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
+Strategy*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
 to Congress at a time when drug overdoses have taken a heartbreaking
 toll, claiming 106,854 lives in the most recent 12-month period. The
-[*Strategy*](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
+[*Strategy*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
 delivers on the call to action in President Biden’s Unity Agenda through
 a whole-of-government approach to beat the overdose epidemic.
 
 The
-[*Strategy*](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
+[*Strategy*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf)
 focuses on two critical drivers of the epidemic: untreated addiction and
 drug trafficking. It instructs federal agencies to prioritize actions
 that will save lives, get people the care they need, go after drug
@@ -99,7 +99,7 @@ synthetic drugs, and drug traffickers continue to refine their methods
 and techniques for distributing them throughout our communities.
 
 The Strategy builds on the [President’s FY 23 budget
-request](https://www.whitehouse.gov/wp-content/uploads/2022/03/FY-2023-ONDCP-CONGRESSIONAL-BUDGET-SUBMISSION.pdf)
+request](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/FY-2023-ONDCP-CONGRESSIONAL-BUDGET-SUBMISSION.pdf)
 for a $300 million increase to support the work of Customs and Border
 Protection (CBP)–one of the largest ever increases for CBP–and for a
 $300 million increase for the Drug Enforcement Administration. The
@@ -179,9 +179,9 @@ supportive  services to help reintegrate people into society after
 incarceration.
 
 The Biden-Harris Administration has already taken [significant
-actions](https://www.whitehouse.gov/ondcp/briefing-room/2021/11/17/fact-sheet-actions-the-biden-harris-administration-has-taken-to-address-addiction-and-the-overdose-epidemic/)
+actions](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/11/17/fact-sheet-actions-the-biden-harris-administration-has-taken-to-address-addiction-and-the-overdose-epidemic/)
 to address addiction and the overdose epidemic based on the President’s
 [Drug Policy Priorities for Year
-One](https://www.whitehouse.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf?fbclid=IwAR2TBk34U_XRqlqK_pAYnUd_9f7zY3IbCQI9KxI6S5eYeRJdFzl9B09hZ84).
+One](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf?fbclid=IwAR2TBk34U_XRqlqK_pAYnUd_9f7zY3IbCQI9KxI6S5eYeRJdFzl9B09hZ84).
 
 \###

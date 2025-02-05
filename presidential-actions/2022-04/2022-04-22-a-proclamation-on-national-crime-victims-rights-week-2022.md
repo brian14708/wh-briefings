@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 15:13:51-04:00
 published_time: 2022-04-22 15:13:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/a-proclamation-on-national-crime-victims-rights-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/22/a-proclamation-on-national-crime-victims-rights-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Crime Victims\u2019 Rights Week,\_2022"
 ---

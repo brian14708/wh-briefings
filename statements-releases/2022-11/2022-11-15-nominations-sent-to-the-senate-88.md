@@ -1,7 +1,7 @@
 ---
 date: '2022-11-15'
 published_time: 2022-11-15 15:38:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/nominations-sent-to-the-senate-88/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/nominations-sent-to-the-senate-88/
 tags: statements-releases
 title: "Nominations Sent to\_the\_Senate"
 ---

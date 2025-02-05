@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 05:06:27-04:00
 published_time: 2022-06-07 05:06:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/07/background-press-call-by-a-senior-administration-official-on-the-vice-presidents-engagements-regarding-root-causes-of-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/07/background-press-call-by-a-senior-administration-official-on-the-vice-presidents-engagements-regarding-root-causes-of-migration/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on the Vice President\u2019\
   s Engagements Regarding Root Causes of\_Migration"

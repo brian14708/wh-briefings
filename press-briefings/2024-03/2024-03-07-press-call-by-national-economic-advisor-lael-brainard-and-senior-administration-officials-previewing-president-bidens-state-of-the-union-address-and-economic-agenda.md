@@ -1,7 +1,7 @@
 ---
 date: '2024-03-07'
 published_time: 2024-03-07 10:08:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/07/press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-previewing-president-bidens-state-of-the-union-address-and-economic-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/07/press-call-by-national-economic-advisor-lael-brainard-and-senior-administration-officials-previewing-president-bidens-state-of-the-union-address-and-economic-agenda/
 tags: press-briefings
 title: "Press Call by National Economic Advisor Lael Brainard and Senior Administration\
   \ Officials Previewing President\_Biden\u2019s State of the Union Address and Economic\_\

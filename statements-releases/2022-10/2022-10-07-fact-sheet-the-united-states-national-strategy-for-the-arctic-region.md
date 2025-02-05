@@ -2,13 +2,13 @@
 date: '2022-10-07'
 modified_time: 2022-10-06 23:22:17-04:00
 published_time: 2022-10-07 09:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-the-united-states-national-strategy-for-the-arctic-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-the-united-states-national-strategy-for-the-arctic-region/
 tags: statements-releases
 title: "FACT SHEET:\_The United\_States\u2019 National Strategy for the Arctic\_Region"
 ---
  
 *[Read the full strategy
-here](https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Strategy-for-the-Arctic-Region.pdf)*
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/National-Strategy-for-the-Arctic-Region.pdf)*
 
 [Watch Secretary Blinken’s remarks on the strategy
 here](https://youtu.be/SFm-fzj_U_w)

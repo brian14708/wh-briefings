@@ -2,7 +2,7 @@
 date: '2023-03-23'
 modified_time: 2023-03-23 10:52:49-04:00
 published_time: 2023-03-23 10:52:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/23/what-they-are-saying-president-biden-champions-conservation-takes-action-to-protect-lands-and-waters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/23/what-they-are-saying-president-biden-champions-conservation-takes-action-to-protect-lands-and-waters/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Champions Conservation, Takes Action\
   \ to Protect Lands and\_Waters"

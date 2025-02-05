@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-10-05'
 modified_time: 2021-10-05 15:11:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/10/05/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-lansing-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/10/05/press-gaggle-by-principal-deputy-press-secretary-karine-jean-pierre-en-route-lansing-mi/
 published_time: 2021-10-05 15:30:00-04:00
 title: "Press Gaggle by Principal Deputy Press Secretary Karine Jean-Pierre En Route\
   \ Lansing,\_MI"

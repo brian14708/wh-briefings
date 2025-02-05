@@ -2,7 +2,7 @@
 date: '2023-07-06'
 modified_time: 2023-07-06 13:53:19-04:00
 published_time: 2023-07-06 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/06/fact-sheet-biden-harris-administration-advances-gateway-hudson-river-tunnel-project/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/06/fact-sheet-biden-harris-administration-advances-gateway-hudson-river-tunnel-project/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Gateway Hudson River\
   \ Tunnel\_Project"

@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-28 20:46:26-04:00
 published_time: 2023-09-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/during-an-extreme-republican-shutdown-american-small-businesses-would-lose-out-on-more-than-100-million-in-critical-financing-every-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/during-an-extreme-republican-shutdown-american-small-businesses-would-lose-out-on-more-than-100-million-in-critical-financing-every-day/
 tags: statements-releases
 title: "During an Extreme Republican Shutdown, American Small Businesses Would Lose\
   \ Out on More Than $100 Million in Critical Financing Every\_Day"
@@ -52,7 +52,7 @@ needs for the American people. House Republicans have turned their backs
 on the bipartisan budget deal that two-thirds of them voted for just a
 few months ago and instead proposed a continuing resolution (CR)
 that would make [devastating
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
 programs that millions of hardworking Americans count on—including to
 the Small Business Administration.  
    

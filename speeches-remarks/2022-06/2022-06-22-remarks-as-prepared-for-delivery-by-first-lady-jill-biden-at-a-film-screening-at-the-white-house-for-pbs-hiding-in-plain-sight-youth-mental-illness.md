@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-23 10:06:40-04:00
 published_time: 2022-06-22 19:24:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-film-screening-at-the-white-house-for-pbs-hiding-in-plain-sight-youth-mental-illness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-film-screening-at-the-white-house-for-pbs-hiding-in-plain-sight-youth-mental-illness/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Film\_Screening\
   \ at the White\_House for PBS\u2019\_Hiding In Plain Sight: Youth Mental\_Illness"

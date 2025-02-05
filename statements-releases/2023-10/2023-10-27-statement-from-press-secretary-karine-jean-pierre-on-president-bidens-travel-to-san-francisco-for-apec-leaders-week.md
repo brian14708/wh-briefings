@@ -1,7 +1,7 @@
 ---
 date: '2023-10-27'
 published_time: 2023-10-27 19:22:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-san-francisco-for-apec-leaders-week/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/statement-from-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-san-francisco-for-apec-leaders-week/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on President\_Biden\u2019\
   s Travel to San Francisco for APEC Leaders\u2019\_Week"

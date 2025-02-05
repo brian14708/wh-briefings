@@ -1,7 +1,7 @@
 ---
 date: '2023-04-11'
 published_time: 2023-04-11 20:08:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/readout-of-vice-president-harriss-meeting-with-prime-minister-mateusz-morawiecki-of-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/readout-of-vice-president-harriss-meeting-with-prime-minister-mateusz-morawiecki-of-poland/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Mateusz\
   \ Morawiecki of\_Poland"

@@ -2,7 +2,7 @@
 date: '2024-09-10'
 modified_time: 2024-09-10 14:36:54-04:00
 published_time: 2024-09-10 14:36:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/10/remarks-by-president-biden-honoring-the-2023-2024-ncaa-womens-basketball-champions-the-university-of-south-carolina-gamecocks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/10/remarks-by-president-biden-honoring-the-2023-2024-ncaa-womens-basketball-champions-the-university-of-south-carolina-gamecocks/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2023-2024 NCAA Women\u2019s Basketball\
   \ Champions, the University of South Carolina\_Gamecocks"

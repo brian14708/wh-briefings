@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 09:47:01-05:00
 published_time: 2023-11-09 09:47:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/statement-from-president-joe-biden-on-the-tentative-agreement-between-the-alliance-of-motion-picture-and-television-producers-and-sag-aftra/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/statement-from-president-joe-biden-on-the-tentative-agreement-between-the-alliance-of-motion-picture-and-television-producers-and-sag-aftra/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Tentative Agreement Between the\
   \ Alliance of Motion Picture and Television Producers and\_SAG-AFTRA"

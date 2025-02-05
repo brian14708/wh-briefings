@@ -2,7 +2,7 @@
 date: '2023-08-29'
 modified_time: 2023-08-29 08:02:01-04:00
 published_time: 2023-08-29 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/statement-from-president-joe-biden-on-historic-action-to-lower-prescription-drug-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/statement-from-president-joe-biden-on-historic-action-to-lower-prescription-drug-costs/
 tags: statements-releases
 title: "Statement from President\_Biden on Historic Action to Lower Prescription Drug\_\
   Costs"

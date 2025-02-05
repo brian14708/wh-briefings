@@ -2,7 +2,7 @@
 date: '2022-06-12'
 modified_time: 2022-06-13 10:55:41-04:00
 published_time: 2022-06-12 13:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/12/remarks-by-vice-president-harris-at-the-south-carolina-democratic-party-blue-palmetto-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/12/remarks-by-vice-president-harris-at-the-south-carolina-democratic-party-blue-palmetto-dinner/
 tags: speeches-remarks
 title: "REMARKS BY VICE PRESIDENT HARRIS AT THE 2022 CAPITAL PRIDE\_PARADE"
 ---

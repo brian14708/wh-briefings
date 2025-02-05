@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 12:51:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/president-joseph-r-biden-jr-approves-virginia-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/president-joseph-r-biden-jr-approves-virginia-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Virginia Disaster\_Declaration"
 ---

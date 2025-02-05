@@ -1,7 +1,7 @@
 ---
 date: '2024-12-19'
 published_time: 2024-12-19 18:16:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/statement-from-press-secretary-karine-jean-pierre-on-republicans-billionaire-giveaway/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/statement-from-press-secretary-karine-jean-pierre-on-republicans-billionaire-giveaway/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Republicans\u2019 Billionaire\_\
   Giveaway"

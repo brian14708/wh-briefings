@@ -2,7 +2,7 @@
 date: '2024-08-09'
 modified_time: 2024-08-09 10:43:55-04:00
 published_time: 2024-08-09 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/09/statement-from-joe-biden-on-the-second-anniversary-of-the-pact-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/09/statement-from-joe-biden-on-the-second-anniversary-of-the-pact-act/
 tags: statements-releases
 title: "Statement from Joe\_Biden on the Second Anniversary of the PACT\_Act"
 ---

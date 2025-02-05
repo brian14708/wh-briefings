@@ -1,7 +1,7 @@
 ---
 date: '2024-07-17'
 published_time: 2024-07-17 15:19:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/statement-from-president-joe-biden-on-u-s-navy-port-chicago-exonerations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/statement-from-president-joe-biden-on-u-s-navy-port-chicago-exonerations/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on U.S. Navy Port Chicago\_Exonerations"
 ---

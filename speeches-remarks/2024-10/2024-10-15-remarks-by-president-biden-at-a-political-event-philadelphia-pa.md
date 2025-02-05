@@ -2,7 +2,7 @@
 date: '2024-10-15'
 modified_time: 2024-10-16 15:32:46-04:00
 published_time: 2024-10-15 14:40:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/15/remarks-by-president-biden-at-a-political-event-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/15/remarks-by-president-biden-at-a-political-event-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Event | Philadelphia,\_PA"
 ---

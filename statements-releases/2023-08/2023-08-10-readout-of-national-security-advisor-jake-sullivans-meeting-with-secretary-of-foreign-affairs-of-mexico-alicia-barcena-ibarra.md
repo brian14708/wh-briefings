@@ -1,7 +1,7 @@
 ---
 date: '2023-08-10'
 published_time: 2023-08-10 15:39:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/10/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-foreign-affairs-of-mexico-alicia-barcena-ibarra/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/10/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-foreign-affairs-of-mexico-alicia-barcena-ibarra/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Secretary\
   \ of Foreign Affairs of Mexico Alicia B\xE1rcena\_Ibarra"

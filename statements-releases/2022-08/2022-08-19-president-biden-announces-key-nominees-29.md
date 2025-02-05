@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-18 17:12:18-04:00
 published_time: 2022-08-19 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/president-biden-announces-key-nominees-29/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/president-biden-announces-key-nominees-29/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
 published_time: 2022-11-21 17:12:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/21/fact-sheet-vice-president-harris-launches-initiatives-to-support-u-s-philippines-maritime-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/21/fact-sheet-vice-president-harris-launches-initiatives-to-support-u-s-philippines-maritime-cooperation/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Launches Initiatives to Support U.S.-Philippines\
   \ Maritime\_Cooperation"

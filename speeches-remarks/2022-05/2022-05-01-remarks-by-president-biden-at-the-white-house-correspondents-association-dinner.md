@@ -2,7 +2,7 @@
 date: '2022-05-01'
 modified_time: 2022-05-02 10:29:11-04:00
 published_time: 2022-05-01 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/01/remarks-by-president-biden-at-the-white-house-correspondents-association-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/01/remarks-by-president-biden-at-the-white-house-correspondents-association-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Correspondents\u2019 Association\_\
   Dinner"

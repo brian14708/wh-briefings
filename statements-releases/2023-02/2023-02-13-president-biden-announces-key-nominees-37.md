@@ -2,7 +2,7 @@
 date: '2023-02-13'
 modified_time: 2023-02-13 09:51:31-05:00
 published_time: 2023-02-13 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/13/president-biden-announces-key-nominees-37/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/13/president-biden-announces-key-nominees-37/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

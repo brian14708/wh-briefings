@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-25 21:25:26-05:00
 published_time: 2024-01-25 21:25:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-first-lady-jill-biden-at-a-gun-violence-prevention-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-first-lady-jill-biden-at-a-gun-violence-prevention-event/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at a Gun Violence Prevention\_Event"
 ---

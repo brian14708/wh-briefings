@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 10:29:38-04:00
 published_time: 2023-09-20 08:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches American Climate Corps\
   \ to Train Young People in Clean Energy, Conservation, and Climate Resilience Skills,\
@@ -42,7 +42,7 @@ justice – prioritizing communities traditionally left behind, including
 energy communities that powered our nation for generations, leveraging
 the talents of all members of our society, and prioritizing projects
 that help meet the [Administration’s Justice40
-goal](https://www.whitehouse.gov/environmentaljustice/justice40/).
+goal](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
 Additionally, President Biden is calling on Tribal, State, and local
 governments, labor unions, nonprofit service allies, the private sector,
 and philanthropy to collaborate with the Federal government to expand
@@ -55,7 +55,7 @@ announcement, ten states will have launched Climate Corps since 2021.
 Additionally, the White House is launching a new website where anyone
 interested in joining or supporting the American Climate Corps can sign
 up to learn more:
-[www.whitehouse.gov/climatecorps](https://www.whitehouse.gov/climatecorps).
+[www.whitehouse.gov/climatecorps](https://bidenwhitehouse.archives.gov/climatecorps).
 
 The American Climate Corps will:
 
@@ -119,7 +119,7 @@ The American Climate Corps will:
 Today’s announcement builds on nearly $500 million of Biden-Harris
 Administration investments to expand pathways into good-paying union
 jobs by
-[prioritizing](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/17/fact-sheet-biden-administration-to-take-steps-to-bolster-registered-apprenticeships/)
+[prioritizing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/17/fact-sheet-biden-administration-to-take-steps-to-bolster-registered-apprenticeships/)
 Registered Apprenticeships and pre-apprenticeship programs, including in
 clean energy and other climate-focused careers. To continue building on
 this historic agenda, the Administration is:

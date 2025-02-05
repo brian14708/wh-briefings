@@ -1,7 +1,7 @@
 ---
 date: '2024-04-17'
 published_time: 2024-04-17 18:45:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/joint-statement-from-the-united-states-and-norway-on-cooperation-on-high-standard-market-oriented-trade-of-critical-minerals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/joint-statement-from-the-united-states-and-norway-on-cooperation-on-high-standard-market-oriented-trade-of-critical-minerals/
 tags: statements-releases
 title: "Joint Statement from the United\_States and Norway on Cooperation on High-Standard,\
   \ Market-Oriented Trade of Critical\_Minerals"

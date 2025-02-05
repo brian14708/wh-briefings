@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-11 18:20:47-04:00
 published_time: 2023-10-12 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/10/12/investing-in-america-to-create-fair-and-competitive-markets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/10/12/investing-in-america-to-create-fair-and-competitive-markets/
 tags: blog
 title: "Investing in America to Create Fair and Competitive\_Markets"
 ---
@@ -14,22 +14,22 @@ title: "Investing in America to Create Fair and Competitive\_Markets"
 ## **Introduction**
 
 Promoting fair competition is a key pillar of
-[Bidenomics](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/),
+[Bidenomics](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/),
 along with investing in America and empowering workers. Competition is
 the
-[backbone](https://www.whitehouse.gov/cea/written-materials/2021/07/09/the-importance-of-competition-for-the-american-economy/)
+[backbone](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/07/09/the-importance-of-competition-for-the-american-economy/)
 of a market economy; it supports lower prices, higher quality goods and
 services, greater variety, and more innovation. Accordingly, President
 Biden has pushed for a whole-of-government approach to identify and
 address barriers to healthy competition wherever they appear, starting
 with an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
 in the early months of the Administration, which created the [White
-House Competition Council](https://www.whitehouse.gov/competition/) and
+House Competition Council](https://bidenwhitehouse.archives.gov/competition/) and
 identified 72 actions agencies could take to increase competition.
 
 As the Biden-Harris Administration implements its [Investing in America
-agenda](https://www.whitehouse.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf),
+agenda](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Economics-of-Investing-in-America.pdf),
 which includes the American Rescue Plan, Bipartisan Infrastructure Law,
 the CHIPS and Science Act, and the Inflation Reduction Act, there is a
 pivotal role for attention to competition. Just as regulations shape
@@ -52,7 +52,7 @@ policy complements our historic investments in America to develop
 mature, innovative industries that are competitive on a global scale.
 
 To this end, the Office of Management and Budget (OMB) released [new
-guidance](https://www.whitehouse.gov/wp-content/uploads/2023/10/RegulatoryCompetitionGuidance.pdf)
+guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/RegulatoryCompetitionGuidance.pdf)
 yesterday to help agencies developing Federal regulations better assess
 their potential effects on competition. In light of OMB’s new guidance,
 this blog describes the central role for competition in industrial
@@ -160,7 +160,7 @@ resilient markets.
 Regulations can enhance competition. Earlier this year, the Federal
 Highway Administration
 [outlined](https://highways.dot.gov/newsroom/biden-harris-administration-announces-latest-steps-deliver-national-network-convenient)
-[standards](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/)
+[standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/)
 for electric vehicle chargers funded by the Bipartisan Infrastructure
 Law, including requirements that the chargers have consistent plug types
 and power levels. Additionally, digital applications that support these
@@ -178,7 +178,7 @@ Federal agencies have long been
 assess the benefits and costs of certain proposed regulations to ensure
 that they serve the public interest. The new guidance on competition,
 which elaborates on [existing
-guidance](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A4/a-4.pdf),<a href="#_ftn1" id="_ftnref1">[1]</a>
+guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A4/a-4.pdf),<a href="#_ftn1" id="_ftnref1">[1]</a>
 encourages regulators to consider important questions such as how
 competitive the regulated market already is, whether new regulation
 would affect the number of firms in the market, and how the regulation
@@ -197,7 +197,7 @@ Promoting competition is essential for ensuring effective implementation
 of the President’s economic agenda. In tandem with
 [historic](https://home.treasury.gov/news/featured-stories/unpacking-the-boom-in-us-construction-of-manufacturing-facilities)
 private-sector
-[investments](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[investments](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 in America, agency rulemaking will play a critical role in shaping new
 markets. This new guidance provides Federal agencies with a toolkit for
 evaluating how proposed regulations may impact the competitive nature of

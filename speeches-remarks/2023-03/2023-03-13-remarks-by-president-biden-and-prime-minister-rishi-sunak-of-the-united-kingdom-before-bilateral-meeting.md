@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 20:16:24-04:00
 published_time: 2023-03-13 20:16:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-and-prime-minister-rishi-sunak-of-the-united-kingdom-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Rishi Sunak of the United Kingdom\
   \ Before Bilateral\_Meeting"

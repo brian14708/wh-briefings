@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 published_time: 2023-09-26 16:09:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/26/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-wayne-county-michigan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/26/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-wayne-county-michigan/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre en Route Wayne County,\_\
   Michigan"

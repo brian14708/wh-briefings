@@ -2,7 +2,7 @@
 date: '2023-09-05'
 modified_time: 2023-09-04 17:26:39-04:00
 published_time: 2023-09-05 09:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/05/president-biden-announces-jacob-j-lew-as-nominee-for-ambassador-extraordinary-and-plenipotentiary-to-the-state-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/05/president-biden-announces-jacob-j-lew-as-nominee-for-ambassador-extraordinary-and-plenipotentiary-to-the-state-of-israel/
 tags: statements-releases
 title: "President\_Biden Announces Jacob J. Lew as Nominee for Ambassador Extraordinary\
   \ and Plenipotentiary to the State of\_Israel"

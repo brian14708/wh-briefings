@@ -1,7 +1,7 @@
 ---
 date: '2023-02-17'
 published_time: 2023-02-17 12:05:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/17/letters-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-libya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/17/letters-to-the-speaker-of-the-house-of-representatives-and-the-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-libya/
 tags: presidential-actions
 title: "Letters to the Speaker of the House of Representatives and the President of\
   \ the Senate on the Continuation of the National Emergency with Respect to\_Libya"

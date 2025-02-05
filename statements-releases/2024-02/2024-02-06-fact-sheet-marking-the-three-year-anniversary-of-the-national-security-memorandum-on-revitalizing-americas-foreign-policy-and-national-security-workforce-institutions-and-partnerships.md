@@ -2,7 +2,7 @@
 date: '2024-02-06'
 modified_time: 2024-02-06 19:20:38-05:00
 published_time: 2024-02-06 19:20:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-marking-the-three-year-anniversary-of-the-national-security-memorandum-on-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-marking-the-three-year-anniversary-of-the-national-security-memorandum-on-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/
 tags: statements-releases
 title: "FACT SHEET: Marking the Three-Year Anniversary of the National Security Memorandum\
   \ on Revitalizing America\u2019s Foreign Policy and National Security Workforce,\
@@ -46,14 +46,14 @@ government-wide initiatives with similar goals, including the
 [President’s Management Agenda](https://www.performance.gov/pma/) (PMA),
 workforce-related Executive Orders (e.g., [Executive Order 14035:
 Diversity, Equity, Inclusion, and Accessibility in the Federal
-Workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+Workforce](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
 and [Executive Order 14100: Advancing Economic Security for Military and
 Veteran Spouses, Military Caregivers, and
-Survivors](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/)),
+Survivors](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/)),
 [Presidential
-Memoranda](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/02/memorandum-on-supporting-access-to-leave-for-federal-employees/),
+Memoranda](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/02/memorandum-on-supporting-access-to-leave-for-federal-employees/),
 and the [National Cyber Workforce and Education
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/31/fact-sheet-biden-%E2%81%A0harris-administration-announces-national-cyber-workforce-and-education-strategy-unleashing-americas-cyber-talent/)
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/31/fact-sheet-biden-%E2%81%A0harris-administration-announces-national-cyber-workforce-and-education-strategy-unleashing-americas-cyber-talent/)
 (NCWES). Many of the initiatives, mentioned in the context of agency
 accomplishments in this Fact Sheet, are cross-government implementation
 efforts.  
@@ -456,7 +456,7 @@ improving professional development to close mission critical gaps*
     for skills-based hiring, market competitive compensation, and
     specialized career development opportunities. 
 -   In conjunction with the launch of the [National Cybersecurity
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
     ONCD, OPM and OMB partnered to develop a legislative proposal to
     support agencies in recruiting, hiring and retaining the cyber
     workforce. ONCD, OPM, and OMB are leveraging the Federal Cyber

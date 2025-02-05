@@ -2,7 +2,7 @@
 date: '2024-03-07'
 modified_time: 2024-03-08 17:03:40-05:00
 published_time: 2024-03-07 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-is-taking-action-to-lower-costs-for-families-and-fight-corporate-rip-offs/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Is Taking Action to Lower Costs for Families\
   \ and Fight Corporate\_Rip-Offs"

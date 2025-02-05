@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-31'
 modified_time: 2022-01-31 14:01:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/fact-sheet-biden-administration-tackles-super-polluting-methane-emissions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/fact-sheet-biden-administration-tackles-super-polluting-methane-emissions/
 published_time: 2022-01-31 14:13:00-05:00
 title: "FACT SHEET: Biden Administration Tackles Super-Polluting Methane\_Emissions"
 ---
@@ -13,9 +13,9 @@ Jobs Capping Wells Alongside Additional Federal Action*
   
  When President Biden reestablished U.S. climate leadership on the world
 stage in Glasgow at the U.N. climate conference,
-he [unveiled](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/) the [U.S.
+he [unveiled](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-president-biden-tackles-methane-emissions-spurs-innovations-and-supports-sustainable-agriculture-to-build-a-clean-energy-economy-and-create-jobs/) the [U.S.
 Methane Emissions Reduction Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf).
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/US-Methane-Emissions-Reduction-Action-Plan-1.pdf).
 The ambitious action plan outlined how the United States will leverage
 all available tools to tackle super-polluting methane emissions – a
 major contributor to climate change – while protecting public health,
@@ -52,7 +52,7 @@ taking bold action at home to follow through on international
 commitments. At the US-led Major Economies Forum on Energy and Climate
 in September 2021, the [President and the EU announced the Global
 Methane
-Pledge](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-an-event-highlighting-the-progress-of-the-global-methane-pledge/):
+Pledge](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/02/remarks-by-president-biden-at-an-event-highlighting-the-progress-of-the-global-methane-pledge/):
 a global partnership to collectively cut emissions of methane by 30%
 compared with 2020 levels by 2030. President Biden has helped rally more
 than 110 countries to join the initiative, which now covers nearly half

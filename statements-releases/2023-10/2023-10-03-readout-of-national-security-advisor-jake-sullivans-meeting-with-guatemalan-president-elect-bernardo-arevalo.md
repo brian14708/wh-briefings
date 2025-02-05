@@ -1,7 +1,7 @@
 ---
 date: '2023-10-03'
 published_time: 2023-10-03 20:07:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-guatemalan-president-elect-bernardo-arevalo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/readout-of-national-security-advisor-jake-sullivans-meeting-with-guatemalan-president-elect-bernardo-arevalo/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Guatemalan\
   \ President-elect Bernardo\_Ar\xE9valo"

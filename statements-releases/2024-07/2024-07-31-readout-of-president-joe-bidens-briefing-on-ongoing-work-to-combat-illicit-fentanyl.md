@@ -1,7 +1,7 @@
 ---
 date: '2024-07-31'
 published_time: 2024-07-31 20:45:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/31/readout-of-president-joe-bidens-briefing-on-ongoing-work-to-combat-illicit-fentanyl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/31/readout-of-president-joe-bidens-briefing-on-ongoing-work-to-combat-illicit-fentanyl/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Briefing on Ongoing Work to Combat\
   \ Illicit\_Fentanyl"
@@ -18,13 +18,13 @@ individuals involved in the global illicit drug trade; and the forging
 of historic counternarcotics cooperation with China and Mexico, and with
 more than 150 countries via the [Global Coalition to Address Synthetic
 Drug
-Threats](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-launch-of-the-global-coalition-to-address-synthetic-drug-threats/).
+Threats](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/07/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-launch-of-the-global-coalition-to-address-synthetic-drug-threats/).
  These efforts have led to the first decline in fentanyl overdose deaths
 in the homeland in five years.
 
 The President and his team also discussed the significance of his new
 [National Security
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/31/memorandum-on-prioritizing-the-strategic-disruption-of-the-supply-chain-for-illicit-fentanyl-and-synthetic-opioids-through-a-coordinated-whole-of-government-information-driven-effort/),
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/31/memorandum-on-prioritizing-the-strategic-disruption-of-the-supply-chain-for-illicit-fentanyl-and-synthetic-opioids-through-a-coordinated-whole-of-government-information-driven-effort/),
 in which the President directed his administration to do even more to
 work across Departments and Agencies to disrupt drug networks and
 increase the number of illicit drug seizures.  The President also

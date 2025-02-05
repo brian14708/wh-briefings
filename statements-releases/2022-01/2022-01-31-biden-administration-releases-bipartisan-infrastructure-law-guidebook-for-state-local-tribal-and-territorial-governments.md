@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-31'
 modified_time: 2022-01-31 08:23:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/biden-administration-releases-bipartisan-infrastructure-law-guidebook-for-state-local-tribal-and-territorial-governments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/biden-administration-releases-bipartisan-infrastructure-law-guidebook-for-state-local-tribal-and-territorial-governments/
 published_time: 2022-01-31 10:00:00-05:00
 title: "Biden Administration Releases Bipartisan Infrastructure Law Guidebook for\
   \ State, Local, Tribal and Territorial\_Governments"
@@ -58,7 +58,7 @@ recommending a series of preparatory actions, including appointing
 infrastructure coordinators to manage the flow of funds to their states.
 Yesterday, he addressed the National Governors Association winter
 meeting.  Landrieu also [outlined steps
-cities](https://www.whitehouse.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf)
+cities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/BIL-Factsheet-Local-Competitive-Funding.pdf)
 can take to prepare at the U.S. Conference of Mayors, and he has begun
 deeper intergovernmental engagements with Tribal leaders, county
 officials, and territorial leaders through outreach calls, listening

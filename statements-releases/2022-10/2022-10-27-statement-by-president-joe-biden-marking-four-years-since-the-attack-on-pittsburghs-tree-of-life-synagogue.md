@@ -2,7 +2,7 @@
 date: '2022-10-27'
 modified_time: 2022-10-27 08:20:12-04:00
 published_time: 2022-10-27 08:20:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-joe-biden-marking-four-years-since-the-attack-on-pittsburghs-tree-of-life-synagogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/27/statement-by-president-joe-biden-marking-four-years-since-the-attack-on-pittsburghs-tree-of-life-synagogue/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Marking Four Years Since the Attack on Pittsburgh\u2019\
   s Tree of Life\_Synagogue"

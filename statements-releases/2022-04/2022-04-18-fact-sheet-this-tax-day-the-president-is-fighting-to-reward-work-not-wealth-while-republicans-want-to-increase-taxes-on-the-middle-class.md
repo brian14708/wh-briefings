@@ -2,7 +2,7 @@
 date: '2022-04-18'
 modified_time: 2022-04-18 09:25:54-04:00
 published_time: 2022-04-18 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-this-tax-day-the-president-is-fighting-to-reward-work-not-wealth-while-republicans-want-to-increase-taxes-on-the-middle-class/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-this-tax-day-the-president-is-fighting-to-reward-work-not-wealth-while-republicans-want-to-increase-taxes-on-the-middle-class/
 tags: statements-releases
 title: "FACT SHEET: This Tax Day, the President Is Fighting to Reward Work, Not Wealth,\
   \ While Republicans Want to Increase Taxes on the Middle\_Class"

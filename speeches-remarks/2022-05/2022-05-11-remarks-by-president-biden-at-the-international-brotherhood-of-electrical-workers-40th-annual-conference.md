@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 23:01:42-04:00
 published_time: 2022-05-11 21:37:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-at-the-international-brotherhood-of-electrical-workers-40th-annual-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-at-the-international-brotherhood-of-electrical-workers-40th-annual-conference/
 tags: speeches-remarks
 title: "Remarks By President\_Biden at the International Brotherhood of Electrical\
   \ Workers 40th Annual\_Conference"

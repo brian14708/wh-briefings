@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-08-01 21:11:03-04:00
 published_time: 2022-08-01 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-10-ways-the-biden-harris-administration-is-making-america-resilient-to-climate-change/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-10-ways-the-biden-harris-administration-is-making-america-resilient-to-climate-change/
 tags: statements-releases
 title: "FACT SHEET: 10 Ways the Biden-\u2060Harris Administration Is Making America\
   \ Resilient to Climate\_Change"
@@ -36,7 +36,7 @@ Bipartisan Infrastructure Law.
 Today’s announcement is part of the Biden-Harris Administration’s broad
 efforts to strengthen our nation’s resilience and tackle the climate
 crisis. [President Biden’s National Climate Task
-Force](https://www.whitehouse.gov/climate/) has launched interagency
+Force](https://bidenwhitehouse.archives.gov/climate/) has launched interagency
 efforts to build resilience to climate impacts, including extreme heat,
 wildfires, drought, flooding, coastal threats, financial risks, and
 more. This builds on the historic investments President Biden and Vice
@@ -61,7 +61,7 @@ The President and Vice President’s key actions include:
     routes, and addressing at-risk highway infrastructure.
 2.  **Combating growing wildfire threats:** Agencies are [undertaking
     various
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/)s,
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/)s,
     such as the [joint
     planning](https://www.usda.gov/media/press-releases/2022/01/18/secretary-vilsack-announces-new-10-year-strategy-confront-wildfire)
     and [coordination of historic
@@ -82,7 +82,7 @@ The President and Vice President’s key actions include:
     wildland fire prevention, mitigation, suppression, and management.
 3.  **Protecting communities and workers from extreme heat:** The
     Biden-Harris Administration is taking a [wide range of
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/)
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-10-ways-the-biden-harris-administration-is-responding-to-extreme-heat/)
     to respond to intensifying heat waves and reduce associated health
     risks, especially for vulnerable groups and underserved communities.
     These efforts include using the [Low Income Home Energy Assistance
@@ -106,7 +106,7 @@ The President and Vice President’s key actions include:
 4.  **Strengthening drought resilience:** In June, Vice President Harris
     highlighted the [Drought Resilience Interagency Working Group First
     Year Summary
-    Report](https://www.whitehouse.gov/wp-content/uploads/2022/05/DroughtIWGReport_Final_Embargoed-Until-June-1-at-6AM-ET.pdf),
+    Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/DroughtIWGReport_Final_Embargoed-Until-June-1-at-6AM-ET.pdf),
     which details the efforts accomplished and underway to assist
     drought-stricken communities and build their resilience to worsening
     conditions. A new [Federal-state task
@@ -124,7 +124,7 @@ The President and Vice President’s key actions include:
     systems](https://www.noaa.gov/news-release/statement-from-noaa-administrator-rick-spinrad-on-signing-of-bipartisan-infrastructure-investment).
 5.  **Reducing flood risk for households and communities:** President
     Biden [re-established the Federal Flood Risk Management
-    Standard](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
+    Standard](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
     that will reduce flood risk and protect infrastructure investments.
     The White House is coordinating Federal efforts on flood resilience
     and ensuring that federal investments include safety standards for
@@ -144,7 +144,7 @@ The President and Vice President’s key actions include:
     funds](https://www.noaa.gov/news-release/biden-administration-announces-historic-coastal-and-climate-resilience-funding)
     to strengthen coastal resilience, improve climate data and services,
     and more. As directed in President Biden’s [Earth Day Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/),
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-president-biden-signs-executive-order-to-strengthen-americas-forests-boost-wildfire-resilience-and-combat-global-deforestation/),
     the Administration is exploring greater deployment of nature-based
     solutions to address coastal and other climate impacts. Through the
     [Coastal Resilience Interagency Working
@@ -161,7 +161,7 @@ The President and Vice President’s key actions include:
     to advise on how to promote and execute equitable climate change
     resilience and disaster management. The White House continues to
     coordinate with agencies to implement the [President’s Justice40
-    Program](https://www.whitehouse.gov/ceq/news-updates/2022/07/26/icymi-biden-harris-administration-announces-additional-covered-programs-for-inclusion-in-the-justice40-initiative/),
+    Program](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/07/26/icymi-biden-harris-administration-announces-additional-covered-programs-for-inclusion-in-the-justice40-initiative/),
     ensuring that 40% of program benefits reach disadvantaged
     communities. This includes benefits offered through the FEMA BRIC
     program.
@@ -179,7 +179,7 @@ The President and Vice President’s key actions include:
     movement away from high-risk regions.
 9.  **Addressing climate risks to the economy:** The Biden-Harris
     Administration launched the first [comprehensive, government-wide
-    strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
+    strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
     to measure, disclose, manage, and mitigate the systemic risks that
     climate change poses to American families, businesses, and economy.
     Climate change has cost Americans an additional $600 billion in

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-08'
 published_time: 2024-03-08 12:43:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/readout-of-white-house-meeting-with-the-un-special-representative-of-the-secretary-general-on-sexual-violence-in-conflict/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/readout-of-white-house-meeting-with-the-un-special-representative-of-the-secretary-general-on-sexual-violence-in-conflict/
 tags: statements-releases
 title: "Readout of White\_House Meeting with the UN Special Representative of the\
   \ Secretary General on Sexual Violence in\_Conflict"

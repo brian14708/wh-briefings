@@ -2,7 +2,7 @@
 date: '2023-08-26'
 modified_time: 2023-08-25 18:41:30-04:00
 published_time: 2023-08-26 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/26/statement-from-president-joe-biden-on-equal-rights-amendment-centennial/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/26/statement-from-president-joe-biden-on-equal-rights-amendment-centennial/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Equal Rights Amendment\_Centennial"
 ---

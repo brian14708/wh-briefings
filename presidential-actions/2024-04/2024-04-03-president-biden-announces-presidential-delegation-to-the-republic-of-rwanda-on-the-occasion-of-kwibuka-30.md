@@ -2,7 +2,7 @@
 date: '2024-04-03'
 modified_time: 2024-04-03 17:49:11-04:00
 published_time: 2024-04-03 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/03/president-biden-announces-presidential-delegation-to-the-republic-of-rwanda-on-the-occasion-of-kwibuka-30/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/03/president-biden-announces-presidential-delegation-to-the-republic-of-rwanda-on-the-occasion-of-kwibuka-30/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Rwanda\
   \ on the Occasion of Kwibuka\_30"

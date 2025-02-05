@@ -2,7 +2,7 @@
 date: '2024-10-07'
 modified_time: 2024-10-07 17:23:37-04:00
 published_time: 2024-10-07 17:23:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-vice-president-harris-marking-one-year-since-hamas-october-7th-terrorist-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/07/remarks-by-vice-president-harris-marking-one-year-since-hamas-october-7th-terrorist-attacks/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Marking One Year Since Hamas\u2019 October\
   \ 7th Terrorist\_Attacks"

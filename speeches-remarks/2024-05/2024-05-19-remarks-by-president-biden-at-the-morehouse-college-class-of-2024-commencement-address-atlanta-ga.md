@@ -2,7 +2,7 @@
 date: '2024-05-19'
 modified_time: 2024-05-19 16:38:03-04:00
 published_time: 2024-05-19 16:38:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-the-morehouse-college-class-of-2024-commencement-address-atlanta-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/19/remarks-by-president-biden-at-the-morehouse-college-class-of-2024-commencement-address-atlanta-ga/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Morehouse College Class of 2024 Commencement\
   \ Address | Atlanta,\_GA"
@@ -179,7 +179,7 @@ there was a reckoning on race. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/05/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/image.gif"
 title="Anchor" class="wp-image-99501" decoding="async" loading="lazy"
 width="1" height="1" />
 </figure>

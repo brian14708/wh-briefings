@@ -2,7 +2,7 @@
 date: '2023-08-25'
 modified_time: 2023-08-25 19:29:53-04:00
 published_time: 2023-08-25 19:29:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/25/remarks-by-president-biden-in-press-gaggle-15/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/25/remarks-by-president-biden-in-press-gaggle-15/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press\_Gaggle"
 ---

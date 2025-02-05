@@ -2,7 +2,7 @@
 date: '2022-09-01'
 modified_time: 2022-09-01 12:25:10-04:00
 published_time: 2022-09-01 12:25:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/
 tags: statements-releases
 title: "FACT SHEET:  \_Biden-\u2060Harris Administration Launches the Apprenticeship\
   \ Ambassador Initiative to Create Equitable, Debt-Free Pathways to High-Paying Jobs"
@@ -86,7 +86,7 @@ For example, through the Initiative:
     will help high school students earn credits towards an associate
     degree while receiving hands-on training, supporting the [Biden
     Administration’s Talent Pipeline
-    Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/).
+    Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/).
     Siemens also committed to expand its apprenticeship program and the
     number of apprentices hired in EV charging infrastructure, advanced
     manufacturing, and supply chain.  
@@ -99,7 +99,7 @@ For example, through the Initiative:
     partnership with Teamsters, and their commitment to hire 1,000 truck
     driver apprentices in 2022 as part of the [Biden Administration’s
     Trucking
-    Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/).  
+    Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/).  
 -   The North American Building Trades Union (NABTU), which has 1,900
     training centers across the country, committed to training 250,000
     new apprentices over the next five years. It recently launched
@@ -156,7 +156,7 @@ These efforts complement the Administration’s efforts to expand
 Registered Apprenticeships to build a skilled, diverse workforce in high
 demand areas—including those that are bolstered by President’s economic
 agenda. For example,  the Administration launched the [Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/),
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-the-biden-harris-administration-launches-the-talent-pipeline-challenge-supporting-employer-investments-in-equitable-workforce-development-for-infrastructure-jobs/),
 a nationwide call to action for employers, education and training
 providers, states, local, Tribal, and territorial governments, and
 philanthropic organizations to make tangible commitments that support
@@ -169,7 +169,7 @@ Apprenticeship programs and pay prevailing wage rates – ensuring our
 clean energy investments create high-quality training pathways that lead
 to good-paying jobs. State and local governments are using [American
 Rescue
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
 Fiscal Recovery Funds to expand pre-apprenticeships and Registered
 Apprenticeships in response to the negative economic impacts of the
 pandemic. 

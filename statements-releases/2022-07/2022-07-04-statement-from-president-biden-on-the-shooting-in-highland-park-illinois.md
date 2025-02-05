@@ -2,7 +2,7 @@
 date: '2022-07-04'
 modified_time: 2022-07-04 15:52:32-04:00
 published_time: 2022-07-04 15:50:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/04/statement-from-president-biden-on-the-shooting-in-highland-park-illinois/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/04/statement-from-president-biden-on-the-shooting-in-highland-park-illinois/
 tags: statements-releases
 title: "Statement from President\_Biden on the Shooting in Highland Park,\_Illinois"
 ---

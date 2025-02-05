@@ -2,7 +2,7 @@
 date: '2022-07-01'
 modified_time: 2022-07-01 15:08:45-04:00
 published_time: 2022-07-01 15:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/readout-of-president-bidens-meeting-with-governors-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/01/readout-of-president-bidens-meeting-with-governors-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Governors on Reproductive\_\
   Rights"
@@ -27,7 +27,7 @@ v. Wade*.
 In the meeting, the President highlighted the impact the decision will
 continue to have on the health and safety of millions of women. He
 reiterated [his Administration’s
-commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/)
+commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/fact-sheet-president-biden-announces-actions-in-light-of-todays-supreme-court-decision-on-dobbs-v-jackson-womens-health-organization/)
 to defend women’s freedom to travel for lawful abortion care, as well as
 access to critical, FDA-approved medications for reproductive health
 care, including medication abortion and contraception. The President

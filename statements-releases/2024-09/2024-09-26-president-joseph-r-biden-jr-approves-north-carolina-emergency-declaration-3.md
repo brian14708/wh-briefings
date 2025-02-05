@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 11:44:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/president-joseph-r-biden-jr-approves-north-carolina-emergency-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/president-joseph-r-biden-jr-approves-north-carolina-emergency-declaration-3/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves North Carolina Emergency\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2023-06-29'
 modified_time: 2023-06-28 20:48:38-04:00
 published_time: 2023-06-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-biden-harris-administration-takes-action-to-address-veteran-homelessness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-biden-harris-administration-takes-action-to-address-veteran-homelessness/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Address Veteran\_\
   Homelessness"
@@ -97,7 +97,7 @@ series of grants totaling $486 million, as well as approximately 3,300
 housing stability vouchers to help 62 communities address unsheltered
 and rural homelessness and homeless encampments. And, in May, the
 Biden-Harris Administration launched [ALL
-INside](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-initiative-to-tackle-unsheltered-homelessness/),
+INside](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-initiative-to-tackle-unsheltered-homelessness/),
 a new initiative to address unsheltered homelessness in selected
 communities.
 

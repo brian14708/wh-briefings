@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 16:15:12-05:00
 published_time: 2022-12-02 16:14:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-senior-administration-travel-to-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-senior-administration-travel-to-brazil/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Senior Administration Official\
   \ Travel to\_Brazil"

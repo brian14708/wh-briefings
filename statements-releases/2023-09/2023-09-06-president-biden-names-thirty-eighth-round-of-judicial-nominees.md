@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 15:32:10-04:00
 published_time: 2023-09-06 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/president-biden-names-thirty-eighth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/president-biden-names-thirty-eighth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Thirty-Eighth Round of Judicial\_Nominees"
 ---

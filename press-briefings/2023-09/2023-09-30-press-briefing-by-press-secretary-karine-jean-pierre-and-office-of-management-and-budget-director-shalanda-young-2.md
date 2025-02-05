@@ -2,7 +2,7 @@
 date: '2023-09-30'
 modified_time: 2023-09-30 14:16:55-04:00
 published_time: 2023-09-30 14:16:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/30/press-briefing-by-press-secretary-karine-jean-pierre-and-office-of-management-and-budget-director-shalanda-young-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/30/press-briefing-by-press-secretary-karine-jean-pierre-and-office-of-management-and-budget-director-shalanda-young-2/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Office of Management\
   \ and Budget Director Shalanda\_Young"

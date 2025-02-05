@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-18 13:38:37-04:00
 published_time: 2022-06-17 06:40:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-president-biden-to-galvanize-global-action-to-strengthen-energy-security-and-tackle-the-climate-crisis-through-the-major-economies-forum-on-energy-and-climate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-president-biden-to-galvanize-global-action-to-strengthen-energy-security-and-tackle-the-climate-crisis-through-the-major-economies-forum-on-energy-and-climate/
 tags: statements-releases
 title: "FACT SHEET:\_ President\_Biden to Galvanize Global Action to Strengthen Energy-Security\
   \ and Tackle the Climate Crisis through the Major Economies Forum on Energy and\_\

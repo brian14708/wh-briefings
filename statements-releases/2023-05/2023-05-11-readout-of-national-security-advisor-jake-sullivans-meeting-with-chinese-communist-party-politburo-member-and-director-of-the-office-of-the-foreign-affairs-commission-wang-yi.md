@@ -1,7 +1,7 @@
 ---
 date: '2023-05-11'
 published_time: 2023-05-11 09:46:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/readout-of-national-security-advisor-jake-sullivans-meeting-with-chinese-communist-party-politburo-member-and-director-of-the-office-of-the-foreign-affairs-commission-wang-yi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/readout-of-national-security-advisor-jake-sullivans-meeting-with-chinese-communist-party-politburo-member-and-director-of-the-office-of-the-foreign-affairs-commission-wang-yi/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Chinese\
   \ Communist Party Politburo Member and Director of the Office of the Foreign Affairs\

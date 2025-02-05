@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-20 18:44:35-04:00
 published_time: 2022-05-20 18:44:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/20/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-district-court-ruling-on-title-42/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/20/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-district-court-ruling-on-title-42/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the District\
   \ Court Ruling on Title 42"

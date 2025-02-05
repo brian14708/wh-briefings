@@ -2,7 +2,7 @@
 date: '2022-05-02'
 modified_time: 2022-05-02 10:34:06-04:00
 published_time: 2022-05-02 00:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/02/first-lady-jill-biden-to-travel-to-romania-and-slovakia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/02/first-lady-jill-biden-to-travel-to-romania-and-slovakia/
 tags: statements-releases
 title: "First Lady Jill\_Biden to Travel to Romania and\_Slovakia"
 ---

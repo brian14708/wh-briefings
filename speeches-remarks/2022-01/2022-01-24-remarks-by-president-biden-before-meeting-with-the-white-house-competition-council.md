@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-01-24'
 modified_time: 2022-01-24 20:26:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/24/remarks-by-president-biden-before-meeting-with-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/24/remarks-by-president-biden-before-meeting-with-the-white-house-competition-council/
 published_time: 2022-01-24 19:30:00-05:00
 title: "Remarks by President\_Biden Before Meeting with the White\_House Competition\_\
   Council"

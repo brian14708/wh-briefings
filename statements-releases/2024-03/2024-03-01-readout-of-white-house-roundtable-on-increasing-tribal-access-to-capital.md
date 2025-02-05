@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 18:36:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/readout-of-white-house-roundtable-on-increasing-tribal-access-to-capital/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/readout-of-white-house-roundtable-on-increasing-tribal-access-to-capital/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Increasing Tribal Access to\_Capital"
 ---
@@ -19,7 +19,7 @@ The Biden-Harris Administration has made strengthening the
 self-determination and economic vitality of Tribal Nations and Native
 people a key priority. Last December, President Biden signed a historic
 [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/#:~:text=The%20Executive%20Order%20affirms%20that,America%27s%20overlapping%20system%20of%20government.)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-president-biden-signs-historic-executive-order-to-usher-in-the-next-era-of-tribal-self-determination/#:~:text=The%20Executive%20Order%20affirms%20that,America%27s%20overlapping%20system%20of%20government.)
 urging federal agencies to make their funding streams and programs fully
 accessible to Tribal communities. These commitments create long-overdue
 opportunities to advance Tribal self-determination––and positively

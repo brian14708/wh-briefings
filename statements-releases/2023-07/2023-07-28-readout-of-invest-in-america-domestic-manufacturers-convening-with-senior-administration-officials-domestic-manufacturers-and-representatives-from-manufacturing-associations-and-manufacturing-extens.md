@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 10:28:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/readout-of-invest-in-america-domestic-manufacturers-convening-with-senior-administration-officials-domestic-manufacturers-and-representatives-from-manufacturing-associations-and-manufacturing-extens/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/readout-of-invest-in-america-domestic-manufacturers-convening-with-senior-administration-officials-domestic-manufacturers-and-representatives-from-manufacturing-associations-and-manufacturing-extens/
 tags: statements-releases
 title: "Readout of Invest in America Domestic Manufacturers Convening with Senior\
   \ Administration Officials, Domestic Manufacturers, and Representatives from Manufacturing\
@@ -12,12 +12,12 @@ Yesterday, the Biden-Harris Administration met with representatives from
 more than manufacturers, manufacturing experts, and manufacturers’
 associations to discuss how small and medium-sized domestic
 manufacturers can participate in the [Investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 agenda. Director of the National Economic Council Lael Brainard,
 Infrastructure Implementation Coordinator Mayor Mitch Landrieu, and
 Chief Economist to the Investing in America Cabinet Heather Boushey, and
 other senior administration officials reviewed opportunities for
-[domestic](https://www.whitehouse.gov/wp-content/uploads/2022/07/Build-America-Buy-America-Factsheet-and-FAQs-for-Award-Recipients.pdf)
+[domestic](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/Build-America-Buy-America-Factsheet-and-FAQs-for-Award-Recipients.pdf)
 manufacturers to participate in clean energy, infrastructure, and
 semi-conductor supply chains.     
   
@@ -26,9 +26,9 @@ Administration’s work to invest in American infrastructure and clean
 energy is revitalizing America’s manufacturing base, promoting
 innovation, and creating high quality jobs across the country, as well
 as the Administration’s work to support [training and
-education](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
+education](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
 so that manufacturers can find the skilled
-[workforce](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[workforce](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 they need. Manufacturers offered advice on how the Biden-Harris
 Administration can better reach small firms to ensure they can
 capitalize on the opportunities to participate in Investing in America

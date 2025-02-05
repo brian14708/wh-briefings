@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-10 18:48:35-04:00
 published_time: 2022-06-10 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-president-biden-at-endorsement-event-for-the-los-angeles-declaration-on-migration-and-protection/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-president-biden-at-endorsement-event-for-the-los-angeles-declaration-on-migration-and-protection/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Endorsement Event for the Los Angeles Declaration\
   \ on Migration and\_Protection"

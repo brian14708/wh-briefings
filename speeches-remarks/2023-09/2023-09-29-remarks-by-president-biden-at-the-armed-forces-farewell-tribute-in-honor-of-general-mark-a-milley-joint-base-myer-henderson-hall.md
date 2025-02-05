@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 14:49:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/29/remarks-by-president-biden-at-the-armed-forces-farewell-tribute-in-honor-of-general-mark-a-milley-joint-base-myer-henderson-hall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/29/remarks-by-president-biden-at-the-armed-forces-farewell-tribute-in-honor-of-general-mark-a-milley-joint-base-myer-henderson-hall/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Armed Forces Farewell Tribute in Honor\
   \ of General Mark A. Milley | Joint Base Myer-Henderson\_Hall"

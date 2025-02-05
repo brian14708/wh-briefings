@@ -2,7 +2,7 @@
 date: '2024-08-07'
 modified_time: 2024-08-08 17:21:42-04:00
 published_time: 2024-08-07 17:13:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/07/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-eau-clarie-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/07/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-eau-clarie-wi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Governor Tim Walz at a Campaign Event\
   \ | Eau Clarie,\_WI"

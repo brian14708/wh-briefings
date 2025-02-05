@@ -2,7 +2,7 @@
 date: '2024-11-08'
 modified_time: 2024-11-08 18:29:03-05:00
 published_time: 2024-11-08 18:29:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/08/letter-to-the-speaker-of-the-house-and-president-of-the-senate-to-facilitate-positive-adjustment-to-competition-from-imports-of-fine-denier-polyester-staple-fiber/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/08/letter-to-the-speaker-of-the-house-and-president-of-the-senate-to-facilitate-positive-adjustment-to-competition-from-imports-of-fine-denier-polyester-staple-fiber/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate to Facilitate\
   \ Positive Adjustment to Competition from Imports of Fine Denier Polyester Staple\_\

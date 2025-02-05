@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-06-01 13:45:02-04:00
 published_time: 2024-05-31 13:22:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/31/remarks-by-president-biden-honoring-the-super-bowl-lviii-champions-kansas-city-chiefs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/31/remarks-by-president-biden-honoring-the-super-bowl-lviii-champions-kansas-city-chiefs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the Super Bowl LVIII Champions, Kansas\
   \ City\_Chiefs"

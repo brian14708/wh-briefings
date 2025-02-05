@@ -2,7 +2,7 @@
 date: '2022-07-21'
 modified_time: 2022-07-21 11:59:58-04:00
 published_time: 2022-07-21 11:59:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-biden-harris-administration-launches-effort-to-create-more-affordable-and-equitable-outdoor-recreation-opportunities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-biden-harris-administration-launches-effort-to-create-more-affordable-and-equitable-outdoor-recreation-opportunities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Effort to Create More\
   \ Affordable and Equitable Outdoor Recreation\_Opportunities"
@@ -81,7 +81,7 @@ In addition to launching the FICOR, the Administration has:
     <!-- -->
 
     -   [Established the America the Beautiful
-        Challenge](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/),
+        Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/),
         a $1 billion public-private competitive grant program which
         funds locally led, voluntary conservation and restoration
         activities, including the development of outdoor recreation

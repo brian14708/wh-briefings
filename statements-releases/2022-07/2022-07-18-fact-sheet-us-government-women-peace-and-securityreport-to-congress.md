@@ -2,7 +2,7 @@
 date: '2022-07-18'
 modified_time: 2022-07-18 14:43:45-04:00
 published_time: 2022-07-18 14:39:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/18/fact-sheet-us-government-women-peace-and-securityreport-to-congress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/18/fact-sheet-us-government-women-peace-and-securityreport-to-congress/
 tags: statements-releases
 title: "FACT SHEET: U.S. Government Women Peace and Security Report to\_Congress"
 ---

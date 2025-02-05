@@ -1,7 +1,7 @@
 ---
 date: '2023-08-14'
 published_time: 2023-08-14 18:22:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/14/statement-from-president-joe-biden-on-student-loan-debt-cancellation-for-more-than-800000-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/14/statement-from-president-joe-biden-on-student-loan-debt-cancellation-for-more-than-800000-borrowers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Student Loan Debt Cancellation for\
   \ More Than 800,000\_Borrowers"

@@ -2,7 +2,7 @@
 date: '2024-02-02'
 modified_time: 2024-02-02 22:26:25-05:00
 published_time: 2024-02-02 22:26:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/02/readout-from-vice-president-kamala-harriss-convening-of-faith-leaders-in-south-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/02/readout-from-vice-president-kamala-harriss-convening-of-faith-leaders-in-south-carolina/
 tags: statements-releases
 title: "Readout From Vice President Kamala\_Harris\u2019s Convening of Faith Leaders\
   \ in South\_Carolina"

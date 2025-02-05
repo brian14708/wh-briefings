@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 11:29:41-04:00
 published_time: 2022-06-29 11:29:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/29/remarks-by-president-biden-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-kishida-fumio-of-japan-before-trilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/29/remarks-by-president-biden-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-kishida-fumio-of-japan-before-trilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, President Yoon Suk Yeol of the Republic of Korea,\
   \ and Prime Minister Kishida Fumio of Japan Before Trilateral\_Meeting"

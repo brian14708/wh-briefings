@@ -2,7 +2,7 @@
 date: '2024-09-21'
 modified_time: 2024-09-21 13:44:51-04:00
 published_time: 2024-09-21 13:44:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-celebration-for-the-opening-of-the-peoples-house-a-white-house-experience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-celebration-for-the-opening-of-the-peoples-house-a-white-house-experience/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Celebration\
   \ for the Opening of \u201CThe People\u2019s House: A White\_House Experience\u201D"

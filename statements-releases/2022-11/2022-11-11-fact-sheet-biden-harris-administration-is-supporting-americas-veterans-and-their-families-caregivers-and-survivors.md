@@ -2,7 +2,7 @@
 date: '2022-11-11'
 modified_time: 2022-11-10 18:42:23-05:00
 published_time: 2022-11-11 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-biden-harris-administration-is-supporting-americas-veterans-and-their-families-caregivers-and-survivors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-biden-harris-administration-is-supporting-americas-veterans-and-their-families-caregivers-and-survivors/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration is Supporting America\u2019\
   s Veterans and Their Families, Caregivers, and\_Survivors"
@@ -35,7 +35,7 @@ bipartisan bill President Biden got through Congress—marking the biggest
 expansion of VA health care in nearly 30 years. In August, President
 Biden signed the [bipartisan Sergeant First Class Heath Robinson
 Honoring our Promise to Address Comprehensive Toxics (PACT)
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) and
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) and
 announced that the Secretary of Veterans Affairs would make all
 presumptive conditions effective immediately. This new law makes it
 easier for veterans to get benefits and services they have earned. Since
@@ -49,7 +49,7 @@ decreasing exposure for troops in the future.
   
 **Reducing veteran suicide. **Since releasing a comprehensive public
 health strategy for [reducing military and
-veteran](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide
+veteran](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide
 last year, the Biden-Harris Administration has continued to improve
 suicide prevention efforts. This year,
 both [DoD](https://www.defense.gov/News/Releases/Release/Article/3193806/department-of-defense-releases-the-annual-report-on-suicide-in-the-military-cal/) and [VA](https://www.va.gov/OPA/PRESSREL/pressrelease.cfm?id=5823) have
@@ -90,7 +90,7 @@ VA has expanded access to reproductive health services to
 include [abortion counseling and abortion services in limited
 circumstances](https://www.va.gov/OPA/PRESSREL/pressrelease.cfm?id=5820),
 committed to [improving maternal
-health](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
 and placed a Women’s Mental Health Champion at every VA Medical Center
 to ensure women feel welcome and receive equitable treatment and care.  
   
@@ -159,7 +159,7 @@ processing or clinical review.
 **Helping educators support military-connected students. **As part of
 First Lady Jill Biden’s Joining Forces initiative, the Administration
 will [release new
-toolkits](https://www.whitehouse.gov/joiningforces/#resources) later
+toolkits](https://bidenwhitehouse.archives.gov/joiningforces/#resources) later
 this month to help educators support military-connected children,
 including the more than 2.3 million children and youth living with and
 supporting wounded, ill, or injured service members and veterans. The
@@ -185,7 +185,7 @@ supporting this mission.
 increasing healthy eating and physical activity are key to improving
 health outcomes for veterans. As part of the [White House Strategy on
 Hunger, Nutrition, and
-Health](https://www.whitehouse.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf),
+Health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf),
 VA announced it will establish an Office of Food Security to help tackle
 food insecurity among veterans, expand the clinical nutrition services
 it provides to veterans receiving VA health care, and pilot produce

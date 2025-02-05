@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-27 20:36:54-04:00
 published_time: 2023-03-27 20:36:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/readout-of-vice-president-kamala-harriss-meeting-with-president-nana-akufo-addo-of-ghana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/readout-of-vice-president-kamala-harriss-meeting-with-president-nana-akufo-addo-of-ghana/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with President Nana\
   \ Akufo-Addo of\_Ghana"

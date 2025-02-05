@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 13:20:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/03/east-room-declaration-of-the-leaders-of-the-americas-partnership-for-economic-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/03/east-room-declaration-of-the-leaders-of-the-americas-partnership-for-economic-prosperity/
 tags: statements-releases
 title: "East Room Declaration of the Leaders of the Americas Partnership for Economic\_\
   Prosperity"

@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 08:02:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/order-regarding-the-proposed-acquisition-of-united-states-steel-corporation-by-nippon-steel-corporation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/order-regarding-the-proposed-acquisition-of-united-states-steel-corporation-by-nippon-steel-corporation/
 tags: presidential-actions
 title: "Order Regarding the Proposed Acquisition of United\_States Steel Corporation\
   \ by Nippon Steel\_Corporation"

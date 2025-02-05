@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-22 17:43:50-04:00
 published_time: 2024-05-22 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/readout-of-white-house-meetings-on-the-u-s-uk-atlantic-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/22/readout-of-white-house-meetings-on-the-u-s-uk-atlantic-declaration/
 tags: statements-releases
 title: "Readout of White\_House Meetings on the U.S.-UK Atlantic\_Declaration"
 ---

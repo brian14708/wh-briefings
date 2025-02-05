@@ -2,7 +2,7 @@
 date: '2023-07-05'
 modified_time: 2023-07-05 16:56:05-04:00
 published_time: 2023-07-05 16:56:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-president-biden-and-prime-minister-ulf-kristersson-of-sweden-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-president-biden-and-prime-minister-ulf-kristersson-of-sweden-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Ulf Kristersson of Sweden Before\
   \ Bilateral\_Meeting"

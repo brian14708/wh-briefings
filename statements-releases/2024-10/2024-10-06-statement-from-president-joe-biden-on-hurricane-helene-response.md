@@ -2,7 +2,7 @@
 date: '2024-10-06'
 modified_time: 2024-10-06 14:08:14-04:00
 published_time: 2024-10-06 14:08:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/statement-from-president-joe-biden-on-hurricane-helene-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/statement-from-president-joe-biden-on-hurricane-helene-response/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Hurricane Helene\_Response"
 ---

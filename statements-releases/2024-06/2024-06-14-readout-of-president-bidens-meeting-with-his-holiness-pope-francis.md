@@ -1,7 +1,7 @@
 ---
 date: '2024-06-14'
 published_time: 2024-06-14 16:55:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/14/readout-of-president-bidens-meeting-with-his-holiness-pope-francis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/14/readout-of-president-bidens-meeting-with-his-holiness-pope-francis/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with His Holiness Pope\_Francis"
 ---

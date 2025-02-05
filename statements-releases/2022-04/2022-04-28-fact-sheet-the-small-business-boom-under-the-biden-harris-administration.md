@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-27 22:37:51-04:00
 published_time: 2022-04-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-the-small-business-boom-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-the-small-business-boom-under-the-biden-harris-administration/
 tags: statements-releases
 title: "FACT SHEET: The Small Business Boom Under the Biden-\u2060Harris\_Administration"
 ---
@@ -59,6 +59,6 @@ available resources,
 the tax code.
 
 Read the full report here:
-<https://www.whitehouse.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/President-Biden-Small-Biz-Boom-full-report-2022.04.28.pdf>
 
 \###

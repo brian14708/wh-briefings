@@ -2,7 +2,7 @@
 date: '2023-01-22'
 modified_time: 2023-01-22 00:04:58-05:00
 published_time: 2023-01-22 07:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden to Sign Presidential Memorandum on Ensuring\
   \ Safe Access to Medication\_Abortion"
@@ -12,7 +12,7 @@ title: "FACT SHEET:\_President\_Biden to Sign Presidential Memorandum on Ensurin
 in Florida to Mark 50<sup>th</sup> Anniversary of* Roe v. Wade
 
 On what would have been the [50th
-anniversary](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/20/a-proclamation-on-50th-anniversary-of-the-roe-v-wade-decision/)
+anniversary](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/20/a-proclamation-on-50th-anniversary-of-the-roe-v-wade-decision/)
 of the Supreme Court’s decision in *Roe v. Wade*, President Biden will
 issue a Presidential Memorandum on Further Efforts to Protect Access to
 Reproductive Healthcare Services. Vice President Harris will announce

@@ -2,7 +2,7 @@
 date: '2024-06-04'
 modified_time: 2024-06-04 16:36:49-04:00
 published_time: 2024-06-04 16:36:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/04/background-press-call-by-senior-administration-officials-on-additional-actions-to-secure-the-borderbackground-press-call-by-senior-administration-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/04/background-press-call-by-senior-administration-officials-on-additional-actions-to-secure-the-borderbackground-press-call-by-senior-administration-officials/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials on Additional Actions\
   \ to Secure the BorderBackground Press Call by Senior Administration\_Officials"

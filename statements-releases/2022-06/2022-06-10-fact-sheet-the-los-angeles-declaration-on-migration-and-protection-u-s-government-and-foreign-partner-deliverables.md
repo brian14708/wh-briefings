@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-10 15:07:46-04:00
 published_time: 2022-06-10 10:58:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/
 tags: statements-releases
 title: "Fact Sheet: The Los Angeles Declaration on Migration and Protection U.S. Government\
   \ and Foreign Partner\_Deliverables"

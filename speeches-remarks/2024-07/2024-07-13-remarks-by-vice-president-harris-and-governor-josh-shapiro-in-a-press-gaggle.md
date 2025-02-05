@@ -2,7 +2,7 @@
 date: '2024-07-13'
 modified_time: 2024-07-14 19:55:31-04:00
 published_time: 2024-07-13 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/13/remarks-by-vice-president-harris-and-governor-josh-shapiro-in-a-press-gaggle/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/13/remarks-by-vice-president-harris-and-governor-josh-shapiro-in-a-press-gaggle/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Governor Josh Shapiro in a Press\_Gaggle"
 ---

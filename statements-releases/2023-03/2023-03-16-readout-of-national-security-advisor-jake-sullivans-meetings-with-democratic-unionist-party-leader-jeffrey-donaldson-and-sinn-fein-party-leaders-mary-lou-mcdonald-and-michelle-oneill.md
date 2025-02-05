@@ -2,7 +2,7 @@
 date: '2023-03-16'
 modified_time: 2023-03-16 20:12:08-04:00
 published_time: 2023-03-16 20:12:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/16/readout-of-national-security-advisor-jake-sullivans-meetings-with-democratic-unionist-party-leader-jeffrey-donaldson-and-sinn-fein-party-leaders-mary-lou-mcdonald-and-michelle-oneill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/16/readout-of-national-security-advisor-jake-sullivans-meetings-with-democratic-unionist-party-leader-jeffrey-donaldson-and-sinn-fein-party-leaders-mary-lou-mcdonald-and-michelle-oneill/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meetings with Democratic\
   \ Unionist Party Leader Jeffrey Donaldson and Sinn F\xE9in Party Leaders Mary Lou\

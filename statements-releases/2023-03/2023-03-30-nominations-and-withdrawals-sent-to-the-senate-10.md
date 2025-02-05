@@ -1,12 +1,12 @@
 ---
 date: '2023-03-30'
 published_time: 2023-03-30 14:05:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/nominations-and-withdrawals-sent-to-the-senate-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/nominations-and-withdrawals-sent-to-the-senate-10/
 tags: statements-releases
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---
  
-[](https://www.whitehouse.gov/)NOMINATIONS SENT TO THE SENATE:
+[](https://bidenwhitehouse.archives.gov/)NOMINATIONS SENT TO THE SENATE:
 
      Nisha Desai Biswal, of Virginia, to be Deputy Chief Executive
 Officer of the United States International Development Finance

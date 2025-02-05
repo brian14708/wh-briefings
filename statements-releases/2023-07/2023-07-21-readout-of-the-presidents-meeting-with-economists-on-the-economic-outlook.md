@@ -2,7 +2,7 @@
 date: '2023-07-21'
 modified_time: 2023-07-21 19:54:05-04:00
 published_time: 2023-07-21 19:49:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/readout-of-the-presidents-meeting-with-economists-on-the-economic-outlook/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/readout-of-the-presidents-meeting-with-economists-on-the-economic-outlook/
 tags: statements-releases
 title: "Readout of the President\u2019s Meeting with Economists on the Economic\_\
   Outlook"

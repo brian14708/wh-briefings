@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 16:03:16-05:00
 published_time: 2024-02-08 16:03:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/president-joseph-r-biden-jr-amends-u-s-virgin-islands-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/president-joseph-r-biden-jr-amends-u-s-virgin-islands-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends U.S. Virgin Islands Disaster\_Declaration"
 ---

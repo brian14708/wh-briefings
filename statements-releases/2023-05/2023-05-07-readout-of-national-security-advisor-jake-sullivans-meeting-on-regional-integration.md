@@ -2,7 +2,7 @@
 date: '2023-05-07'
 modified_time: 2023-05-08 11:40:57-04:00
 published_time: 2023-05-07 19:46:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/07/readout-of-national-security-advisor-jake-sullivans-meeting-on-regional-integration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/07/readout-of-national-security-advisor-jake-sullivans-meeting-on-regional-integration/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting on Regional\_\
   Integration"

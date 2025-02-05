@@ -1,7 +1,7 @@
 ---
 date: '2022-10-06'
 published_time: 2022-10-06 13:49:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/06/press-gaggle-by-press-secretary-karine-jean-pierre-and-nec-director-brian-deese-en-route-poughkeepsie-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/06/press-gaggle-by-press-secretary-karine-jean-pierre-and-nec-director-brian-deese-en-route-poughkeepsie-ny/
 tags: speeches-remarks
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NEC Director Brian\
   \ Deese En Route Poughkeepsie,\_NY"

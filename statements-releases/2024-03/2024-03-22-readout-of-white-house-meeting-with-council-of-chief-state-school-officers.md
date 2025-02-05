@@ -1,7 +1,7 @@
 ---
 date: '2024-03-22'
 published_time: 2024-03-22 18:43:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/readout-of-white-house-meeting-with-council-of-chief-state-school-officers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/readout-of-white-house-meeting-with-council-of-chief-state-school-officers/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Council of Chief State School\_Officers"
 ---
@@ -20,7 +20,7 @@ President Biden’s commitment to improving student achievement and
 ensuring that children are equipped to compete in the 21st century.
 Earlier this year, the Administration announced its [Improving Student
 Achievement
-Agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
+Agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/)
 using all of its tools—including accountability, reporting, grants, and
 technical assistance—to intensify and sustain State and local adoption
 of three evidence-based strategies that improve student learning: (1)

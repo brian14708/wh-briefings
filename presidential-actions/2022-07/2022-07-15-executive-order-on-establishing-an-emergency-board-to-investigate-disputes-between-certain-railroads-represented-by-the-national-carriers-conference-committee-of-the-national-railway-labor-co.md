@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 14:30:32-04:00
 published_time: 2022-07-15 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/15/executive-order-on-establishing-an-emergency-board-to-investigate-disputes-between-certain-railroads-represented-by-the-national-carriers-conference-committee-of-the-national-railway-labor-co/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/15/executive-order-on-establishing-an-emergency-board-to-investigate-disputes-between-certain-railroads-represented-by-the-national-carriers-conference-committee-of-the-national-railway-labor-co/
 tags: presidential-actions
 title: "Executive Order on Establishing an Emergency Board to Investigate Disputes\
   \ Between Certain Railroads Represented by the National Carriers\u2019 Conference\

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-17'
 published_time: 2022-05-17 16:17:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/17/remarks-by-president-biden-and-first-lady-biden-honoring-the-lives-lost-in-buffalo-new-york-and-calling-on-all-americans-to-condemn-white-supremacy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/17/remarks-by-president-biden-and-first-lady-biden-honoring-the-lives-lost-in-buffalo-new-york-and-calling-on-all-americans-to-condemn-white-supremacy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Biden Honoring the Lives Lost in\
   \ Buffalo, New York, and Calling on All Americans to Condemn White\_Supremacy"

@@ -2,7 +2,7 @@
 date: '2022-08-02'
 modified_time: 2022-08-02 21:14:43-04:00
 published_time: 2022-08-02 21:14:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/02/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-august-2-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/02/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-august-2-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby, August 2,\_2022"

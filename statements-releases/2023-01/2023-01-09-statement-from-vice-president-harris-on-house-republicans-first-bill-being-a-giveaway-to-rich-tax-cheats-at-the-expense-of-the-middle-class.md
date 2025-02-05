@@ -2,7 +2,7 @@
 date: '2023-01-09'
 modified_time: 2023-01-09 18:40:47-05:00
 published_time: 2023-01-09 18:40:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/09/statement-from-vice-president-harris-on-house-republicans-first-bill-being-a-giveaway-to-rich-tax-cheats-at-the-expense-of-the-middle-class/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/09/statement-from-vice-president-harris-on-house-republicans-first-bill-being-a-giveaway-to-rich-tax-cheats-at-the-expense-of-the-middle-class/
 tags: statements-releases
 title: "Statement from Vice President Harris on House Republicans\u2019 First Bill\
   \ Being a Giveaway to Rich Tax Cheats at the Expense of the Middle\_Class"

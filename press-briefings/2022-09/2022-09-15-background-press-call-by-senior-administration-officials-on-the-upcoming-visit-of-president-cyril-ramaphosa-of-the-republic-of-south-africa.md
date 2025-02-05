@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 22:21:18-04:00
 published_time: 2022-09-15 22:21:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/15/background-press-call-by-senior-administration-officials-on-the-upcoming-visit-of-president-cyril-ramaphosa-of-the-republic-of-south-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/15/background-press-call-by-senior-administration-officials-on-the-upcoming-visit-of-president-cyril-ramaphosa-of-the-republic-of-south-africa/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Upcoming Visit\
   \ of President Cyril Ramaphosa of the Republic of South\_Africa"

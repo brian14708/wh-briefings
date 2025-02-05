@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-11-22'
 modified_time: 2021-11-22 18:49:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/22/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-69/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/11/22/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-69/
 published_time: 2021-11-22 19:00:00-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -586,4 +586,4 @@ enjoyable Thanksgiving.
 5:04 P.M. EST
 
 To view the COVID Press Briefing slides, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2021/11/COVID-Press-Briefing_22November2021.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/COVID-Press-Briefing_22November2021.pdf>

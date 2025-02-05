@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 11:57:57-04:00
 published_time: 2023-09-06 11:57:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/06/remarks-by-vice-president-harris-and-president-joko-widodo-of-the-republic-of-indonesia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/06/remarks-by-vice-president-harris-and-president-joko-widodo-of-the-republic-of-indonesia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Joko Widodo of the Republic\
   \ of Indonesia Before Bilateral\_Meeting"

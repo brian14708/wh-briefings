@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-11-04 12:25:41-04:00
 published_time: 2024-11-01 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/01/remarks-by-president-biden-on-his-administrations-historic-support-for-unions-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/01/remarks-by-president-biden-on-his-administrations-historic-support-for-unions-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Administration\u2019s Historic Support\
   \ for Unions | Philadelphia,\_PA"

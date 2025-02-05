@@ -2,7 +2,7 @@
 date: '2022-09-04'
 modified_time: 2022-09-04 17:24:05-04:00
 published_time: 2022-09-04 17:24:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/04/readout-of-vice-president-harriss-call-with-prime-minister-morawiecki-of-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/04/readout-of-vice-president-harriss-call-with-prime-minister-morawiecki-of-poland/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with Prime Minister Morawiecki\
   \ of\_Poland"

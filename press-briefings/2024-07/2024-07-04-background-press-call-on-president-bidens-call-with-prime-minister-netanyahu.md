@@ -2,7 +2,7 @@
 date: '2024-07-04'
 modified_time: 2024-07-05 10:38:16-04:00
 published_time: 2024-07-04 14:37:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/04/background-press-call-on-president-bidens-call-with-prime-minister-netanyahu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/04/background-press-call-on-president-bidens-call-with-prime-minister-netanyahu/
 tags: press-briefings
 title: "Background Press Call on President\_Biden\u2019s Call with Prime Minister\_\
   Netanyahu"

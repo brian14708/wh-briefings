@@ -1,7 +1,7 @@
 ---
 date: '2022-06-10'
 published_time: 2022-06-10 18:34:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/joint-readout-of-president-joe-biden-vice-president-kamala-harris-meeting-with-leaders-of-the-caribbean-community-caricom-and-the-dominican-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/joint-readout-of-president-joe-biden-vice-president-kamala-harris-meeting-with-leaders-of-the-caribbean-community-caricom-and-the-dominican-republic/
 tags: statements-releases
 title: "Joint Readout of President Joe\_Biden & Vice President Kamala\_Harris\u2019\
   \ Meeting with Leaders of The Caribbean Community (CARICOM) and the Dominican\_\

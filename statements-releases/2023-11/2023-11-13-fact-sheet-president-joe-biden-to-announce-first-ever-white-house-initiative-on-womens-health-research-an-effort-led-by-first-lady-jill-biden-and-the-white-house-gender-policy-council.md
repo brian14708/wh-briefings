@@ -1,7 +1,7 @@
 ---
 date: '2023-11-13'
 published_time: 2023-11-13 11:00:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-president-joe-biden-to-announce-first-ever-white-house-initiative-on-womens-health-research-an-effort-led-by-first-lady-jill-biden-and-the-white-house-gender-policy-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-president-joe-biden-to-announce-first-ever-white-house-initiative-on-womens-health-research-an-effort-led-by-first-lady-jill-biden-and-the-white-house-gender-policy-council/
 tags: statements-releases
 title: "FACT SHEET: President Joe\_Biden to Announce First-Ever White\_House Initiative\
   \ on Women\u2019s Health Research, An Effort Led by First Lady Jill\_Biden and the\

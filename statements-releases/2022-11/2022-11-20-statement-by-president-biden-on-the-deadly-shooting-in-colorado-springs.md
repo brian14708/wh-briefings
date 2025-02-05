@@ -1,7 +1,7 @@
 ---
 date: '2022-11-20'
 published_time: 2022-11-20 12:32:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/statement-by-president-biden-on-the-deadly-shooting-in-colorado-springs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/20/statement-by-president-biden-on-the-deadly-shooting-in-colorado-springs/
 tags: statements-releases
 title: "Statement by President\_Biden on the Deadly Shooting in Colorado\_Springs"
 ---

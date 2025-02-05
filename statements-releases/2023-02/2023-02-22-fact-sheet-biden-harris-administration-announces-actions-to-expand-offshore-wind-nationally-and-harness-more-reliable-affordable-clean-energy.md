@@ -2,7 +2,7 @@
 date: '2023-02-22'
 modified_time: 2023-02-23 08:47:49-05:00
 published_time: 2023-02-22 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-actions-to-expand-offshore-wind-nationally-and-harness-more-reliable-affordable-clean-energy/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Actions to Expand\
   \ Offshore Wind Nationally and Harness More Reliable, Affordable Clean\_Energy"
@@ -45,7 +45,7 @@ throughout the nation, by:
 -   **Expanding the Federal-State Offshore Wind Implementation
     Partnership:** Last year, President Biden joined East Coast
     governors to launch the [Federal-State Offshore Wind Implementation
-    Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/),
+    Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/),
     with eleven states working alongside the Administration to maximize
     the benefits of Atlantic offshore wind development for workers and
     communities. Now, following DOI’s recent [California offshore wind
@@ -89,7 +89,7 @@ regions, from steel production in Alabama, Kentucky, and West Virginia
 to shipbuilding in Texas, Louisiana, Mississippi, and beyond.   
   
 The President has also set [bold
-goals](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)
+goals](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)
 of deploying 30 gigawatts (GW) of offshore wind by 2030, as well as 15
 GW specifically of floating offshore wind by 2035. The White House,
 federal agencies, states, and other key stakeholders are coordinating to

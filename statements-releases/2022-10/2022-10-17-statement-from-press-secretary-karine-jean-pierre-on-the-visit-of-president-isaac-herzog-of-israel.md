@@ -1,7 +1,7 @@
 ---
 date: '2022-10-17'
 published_time: 2022-10-17 14:34:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-isaac-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-isaac-herzog-of-israel/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of President\
   \ Isaac Herzog of\_Israel"

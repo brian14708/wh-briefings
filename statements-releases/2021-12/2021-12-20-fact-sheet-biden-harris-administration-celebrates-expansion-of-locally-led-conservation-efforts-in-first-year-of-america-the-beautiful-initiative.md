@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-20'
 modified_time: 2021-12-20 08:32:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/20/fact-sheet-biden-harris-administration-celebrates-expansion-of-locally-led-conservation-efforts-in-first-year-of-america-the-beautiful-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/20/fact-sheet-biden-harris-administration-celebrates-expansion-of-locally-led-conservation-efforts-in-first-year-of-america-the-beautiful-initiative/
 published_time: 2021-12-20 09:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Expansion of Locally-Led\
   \ Conservation Efforts in First Year of \u201CAmerica the Beautiful\u201D\_Initiative"
@@ -13,9 +13,9 @@ Pursues First-Ever National Conservation Goal*
 
   
 Today, the Biden-Harris Administration issued its first annual [progress
-report](https://www.whitehouse.gov/wp-content/uploads/2021/12/AtB-Year-One-Report_.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/AtB-Year-One-Report_.pdf)
 on the [*America the Beautiful
-<u>initiative</u>*](https://www.whitehouse.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/),
+<u>initiative</u>*](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/05/06/biden-harris-administration-outlines-america-the-beautiful-initiative/),
 highlighting steps the Administration has taken over the past year to
 support locally-led and voluntary efforts to conserve, connect, and
 restore lands and waters across the nation that sustain the health of
@@ -53,7 +53,7 @@ land and water resources that sustain the nation’s communities and
 economies. 
 
 Notably, President Biden’s [Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/bipartisan-infrastructure-law/) provides
+Law](https://bidenwhitehouse.archives.gov/bipartisan-infrastructure-law/) provides
 a major boost to the America the Beautiful initiative. The new law
 provides the largest investment in the resilience of physical and
 natural systems in American history and will help communities be more

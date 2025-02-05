@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 15:21:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-president-biden-after-meeting-with-federal-emergency-preparedness-and-response-leaders-on-extreme-weather-preparedness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-president-biden-after-meeting-with-federal-emergency-preparedness-and-response-leaders-on-extreme-weather-preparedness/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Meeting With Federal Emergency Preparedness\
   \ and Response Leaders on Extreme Weather\_Preparedness"

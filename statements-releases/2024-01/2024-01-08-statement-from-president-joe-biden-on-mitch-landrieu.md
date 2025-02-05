@@ -2,7 +2,7 @@
 date: '2024-01-08'
 modified_time: 2024-01-07 20:37:20-05:00
 published_time: 2024-01-08 08:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/08/statement-from-president-joe-biden-on-mitch-landrieu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/08/statement-from-president-joe-biden-on-mitch-landrieu/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Mitch\_Landrieu"
 ---

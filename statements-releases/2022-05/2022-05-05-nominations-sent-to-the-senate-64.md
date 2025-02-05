@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-05 14:03:24-04:00
 published_time: 2022-05-05 14:03:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/nominations-sent-to-the-senate-64/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/nominations-sent-to-the-senate-64/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

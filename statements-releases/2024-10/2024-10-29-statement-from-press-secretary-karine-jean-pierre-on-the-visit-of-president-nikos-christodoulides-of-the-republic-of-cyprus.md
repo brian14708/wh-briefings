@@ -1,7 +1,7 @@
 ---
 date: '2024-10-29'
 published_time: 2024-10-29 11:37:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-nikos-christodoulides-of-the-republic-of-cyprus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-nikos-christodoulides-of-the-republic-of-cyprus/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of President\
   \ Nikos Christodoulides of the Republic of\_Cyprus"

@@ -2,7 +2,7 @@
 date: '2024-09-24'
 modified_time: 2024-09-25 14:24:31-04:00
 published_time: 2024-09-24 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/
 tags: statements-releases
 title: "FACT SHEET: The United\_States Commitment to Address the Global Mpox\_Outbreak"
 ---
@@ -68,7 +68,7 @@ mpox response.
 
 -   **Global health security partnerships.** In April 2024, the United
     States announced formal [global health security partnerships with 50
-    countries](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%e2%81%a0harris-administration-releases-strategy-to-strengthen-global-health-security/),
+    countries](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%e2%81%a0harris-administration-releases-strategy-to-strengthen-global-health-security/),
     including Burundi, DRC, Kenya, and Uganda. Global health security
     investments make it possible for the United States to address
     country-identified gaps in their capacity to prevent, detect,
@@ -235,7 +235,7 @@ wellbeing of people living in the affected countries.
     in 2021 as a global force for good, including working together to
     help partners address pandemics and disease. During a [September 21
     Quad
-    Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/),
+    Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/21/fact-sheet-2024-quad-leaders-summit/),
     leaders agreed to coordinate efforts to promote equitable access to
     safe, effective, quality-assured mpox vaccines, including where
     appropriate expanding vaccine manufacturing in low and middle-income

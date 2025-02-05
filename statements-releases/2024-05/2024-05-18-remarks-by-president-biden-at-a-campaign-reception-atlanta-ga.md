@@ -2,7 +2,7 @@
 date: '2024-05-18'
 modified_time: 2024-05-19 18:31:25-04:00
 published_time: 2024-05-18 18:17:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/18/remarks-by-president-biden-at-a-campaign-reception-atlanta-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/18/remarks-by-president-biden-at-a-campaign-reception-atlanta-ga/
 tags: statements-releases
 title: "Remarks by President\_Biden at a Campaign Reception | Atlanta,\_GA"
 ---

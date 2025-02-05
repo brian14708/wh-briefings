@@ -2,7 +2,7 @@
 date: '2022-04-29'
 modified_time: 2022-04-29 13:07:08-04:00
 published_time: 2022-04-29 13:07:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-teacher-appreciation-day-and-national-teacher-appreciation-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-national-teacher-appreciation-day-and-national-teacher-appreciation-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Teacher Appreciation Day and National Teacher Appreciation\
   \ Week,\_2022"

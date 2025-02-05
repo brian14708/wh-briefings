@@ -1,7 +1,7 @@
 ---
 date: '2023-03-20'
 published_time: 2023-03-20 18:19:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/statement-from-president-joe-biden-on-the-release-of-american-jeff-woodke/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/statement-from-president-joe-biden-on-the-release-of-american-jeff-woodke/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Release of American Jeff\_Woodke"
 ---

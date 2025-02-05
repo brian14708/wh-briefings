@@ -2,7 +2,7 @@
 date: '2024-02-14'
 modified_time: 2024-02-14 21:11:47-05:00
 published_time: 2024-02-14 21:11:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/14/statement-from-president-joe-biden-on-todays-deadly-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/14/statement-from-president-joe-biden-on-todays-deadly-gun-violence/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Today\u2019s Deadly Gun\_Violence"
 ---

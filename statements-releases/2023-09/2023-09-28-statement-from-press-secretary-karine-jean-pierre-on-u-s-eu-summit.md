@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-27 20:08:30-04:00
 published_time: 2023-09-28 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/statement-from-press-secretary-karine-jean-pierre-on-u-s-eu-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/statement-from-press-secretary-karine-jean-pierre-on-u-s-eu-summit/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on U.S. \u2013 EU\_Summit"
 ---

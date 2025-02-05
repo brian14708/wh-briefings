@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-24 20:50:41-04:00
 published_time: 2022-10-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/fact-sheet-president-biden-to-announce-additional-efforts-to-help-americans-get-their-free-updated-covid-19-vaccine-this-fall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/fact-sheet-president-biden-to-announce-additional-efforts-to-help-americans-get-their-free-updated-covid-19-vaccine-this-fall/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Announce Additional Efforts to Help Americans\
   \ Get Their Free, Updated COVID-\u206019 Vaccine This\_Fall"
@@ -104,7 +104,7 @@ severity of illness, keep people out of the hospital, and save lives.
      
     -   **Fall Playbook for Businesses to Manage COVID-19:** The
         Administration is releasing a [fall playbook for
-        businesses](https://www.whitehouse.gov/wp-content/uploads/2022/10/Fall-Playbook-for-Businesses-to-Manage-COVID-19-and-Protect-Workers.pdf),
+        businesses](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Fall-Playbook-for-Businesses-to-Manage-COVID-19-and-Protect-Workers.pdf),
         with clear information about steps that businesses of all kinds
         can take to protect their workforces and customers and to keep
         their doors open—including actions they can take to get workers

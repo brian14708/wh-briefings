@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-24 20:16:54-04:00
 published_time: 2024-05-24 20:16:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/statement-from-president-biden-on-the-signing-of-the-recruit-and-retain-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/statement-from-president-biden-on-the-signing-of-the-recruit-and-retain-act/
 tags: statements-releases
 title: "Statement from President\_Biden on the Signing of the Recruit and Retain\_\
   Act"

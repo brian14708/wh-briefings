@@ -1,7 +1,7 @@
 ---
 date: '2023-11-21'
 published_time: 2023-11-21 14:04:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/21/a-proclamation-on-the-death-of-rosalynn-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/21/a-proclamation-on-the-death-of-rosalynn-carter/
 tags: presidential-actions
 title: "A Proclamation on the Death of Rosalynn\_Carter"
 ---

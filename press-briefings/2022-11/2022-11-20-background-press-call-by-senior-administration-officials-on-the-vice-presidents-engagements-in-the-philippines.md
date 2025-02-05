@@ -2,7 +2,7 @@
 date: '2022-11-20'
 modified_time: 2022-11-20 17:13:10-05:00
 published_time: 2022-11-20 17:11:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/20/background-press-call-by-senior-administration-officials-on-the-vice-presidents-engagements-in-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/20/background-press-call-by-senior-administration-officials-on-the-vice-presidents-engagements-in-the-philippines/
 tags: press-briefings
 title: "Background Press Call By Senior Administration Officials\_On the Vice President\u2019\
   s Engagements in the Philippines"

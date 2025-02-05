@@ -1,7 +1,7 @@
 ---
 date: '2023-09-01'
 published_time: 2023-09-01 08:53:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-biden-harris-administration-takes-steps-to-crack-down-on-nursing-homes-that-endanger-resident-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/01/fact-sheet-biden-harris-administration-takes-steps-to-crack-down-on-nursing-homes-that-endanger-resident-safety/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Steps to Crack Down on\
   \ Nursing Homes that Endanger Resident\_Safety"
@@ -31,14 +31,14 @@ receive high-quality services and supports in the setting of their
 choice, and where there is a pipeline of direct care workers into
 good-paying jobs with the free and fair choice to join a union. In his
 [State of the Union
-address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/),
+address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/),
 President Biden pledged that his Administration would “protect seniors’
 lives and life savings by cracking down on nursing homes that commit
 fraud, endanger patient safety, or prescribe drugs they don’t need.”
 
 In April, President Biden signed an [Executive Order on Increasing
 Access to High-Quality Care and Supporting
-Caregivers](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/),
+Caregivers](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/),
 a first of its kind, government-wide commitment to support caregivers,
 direct care workers, and families caring for children, people with
 disabilities, and aging loved ones. The Executive Order carries forward
@@ -277,7 +277,7 @@ Program. CMS will also work to streamline entry to and raise awareness
 of rewarding career opportunities in nursing homes.  
 
 These new investments are on top of the [hundreds of
-millions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
+millions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
 of dollars the Administration has made available to invest in training
 and recruiting nurses and other caregivers. For example:
 
@@ -293,7 +293,7 @@ and recruiting nurses and other caregivers. For example:
     number of clinical and vocational nursing instructors and
     educators.  
 -   HRSA has also provided [grant
-    funding](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
+    funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
     to increase the number of nursing preceptors—those who supervise
     nursing students in clinical rotations—to help support nursing
     schools in expanding admissions to train more students and providing
@@ -346,7 +346,7 @@ President’s Action Plan. These include:
     retention.  
 -   **Strengthening oversight of the worst-performing nursing homes.**
     CMS
-    [implemented](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
+    [implemented](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/)
     escalating penalties and raised the safety standards for homes in
     the Special Focus Facility program, which provides oversight for the
     worst-performing nursing homes. It also enhanced technical

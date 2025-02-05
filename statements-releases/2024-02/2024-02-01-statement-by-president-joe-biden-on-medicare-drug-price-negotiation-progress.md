@@ -2,7 +2,7 @@
 date: '2024-02-01'
 modified_time: 2024-01-31 18:58:01-05:00
 published_time: 2024-02-01 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/statement-by-president-joe-biden-on-medicare-drug-price-negotiation-progress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/01/statement-by-president-joe-biden-on-medicare-drug-price-negotiation-progress/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Medicare Drug Price Negotiation\_Progress"
 ---

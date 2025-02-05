@@ -1,7 +1,7 @@
 ---
 date: '2024-12-25'
 published_time: 2024-12-25 16:24:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/25/statement-from-president-joe-biden-on-russias-overnight-aerial-attacks-against/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/25/statement-from-president-joe-biden-on-russias-overnight-aerial-attacks-against/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Russia\u2019s Overnight Aerial Attacks\_\
   against"

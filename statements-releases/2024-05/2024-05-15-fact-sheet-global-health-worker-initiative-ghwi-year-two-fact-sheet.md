@@ -2,7 +2,7 @@
 date: '2024-05-15'
 modified_time: 2024-05-15 17:33:43-04:00
 published_time: 2024-05-15 17:33:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-global-health-worker-initiative-ghwi-year-two-fact-sheet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-global-health-worker-initiative-ghwi-year-two-fact-sheet/
 tags: statements-releases
 title: "FACT SHEET: Global Health Worker Initiative (GHWI) Year Two Fact\_Sheet"
 ---

@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 12:05:01-05:00
 published_time: 2023-12-22 12:05:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-vice-president-kamala-harris-on-clemency-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-vice-president-kamala-harris-on-clemency-actions/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on Clemency\_Actions"
 ---

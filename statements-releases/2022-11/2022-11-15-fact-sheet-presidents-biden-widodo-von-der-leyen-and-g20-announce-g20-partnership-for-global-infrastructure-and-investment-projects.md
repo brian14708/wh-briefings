@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 05:14:42-05:00
 published_time: 2022-11-15 05:14:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-presidents-biden-widodo-von-der-leyen-and-g20-announce-g20-partnership-for-global-infrastructure-and-investment-projects/
 tags: statements-releases
 title: "FACT SHEET: Presidents Biden, Widodo, von der Leyen, and G20 Announce G20\
   \ Partnership for Global Infrastructure and Investment\_Projects"
@@ -32,11 +32,11 @@ infrastructure and to mobilize the private sector as drivers of quality
 global infrastructure and investment. This event comes at the end of a
 week of additional PGII project announcements by President Biden,
 including
-at [COP](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/),
+at [COP](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/),
 the [ASEAN
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/12/fact-sheet-president-biden-and-asean-leaders-launch-the-u-s-asean-comprehensive-strategic-partnership/),
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/12/fact-sheet-president-biden-and-asean-leaders-launch-the-u-s-asean-comprehensive-strategic-partnership/),
 and in a bilateral meeting with G20
-host, [Indonesia](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/fact-sheet-strengthening-the-u-s-indonesia-strategic-partnership/).  
+host, [Indonesia](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/fact-sheet-strengthening-the-u-s-indonesia-strategic-partnership/).  
    
 In his remarks, President Biden delivered an update on PGII’s progress
 and impact to date. He announced new projects and followed up on several

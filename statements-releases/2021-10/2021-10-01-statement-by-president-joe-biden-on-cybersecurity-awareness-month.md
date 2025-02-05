@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-01'
 modified_time: 2021-10-01 12:07:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/01/statement-by-president-joe-biden-on-cybersecurity-awareness-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/01/statement-by-president-joe-biden-on-cybersecurity-awareness-month/
 published_time: 2021-10-01 12:07:17-04:00
 title: "Statement by President Joe\_Biden on Cybersecurity Awareness\_Month"
 ---
@@ -16,7 +16,7 @@ critical infrastructure against cyberattacks, disrupting ransomware
 networks, working to establish and promote clear rules of the road for
 all nations in cyberspace, and making clear we will hold accountable
 those that threaten our security. In May, I issued an [executive
-order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
+order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
 to modernize our defenses and position the Federal government to lead,
 rather than lag, in its own cybersecurity. By using the power of Federal
 technology spending, we are improving the software available for use to
@@ -27,11 +27,11 @@ technologies, and we are working to deploy action plans for additional
 critical infrastructure sectors. Both the public and private sectors
 have a role to play in strengthening cybersecurity, which is why we also
 [issued a National Security
-Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-biden-administration-announces-further-actions-to-protect-u-s-critical-infrastructure/)
 outlining the cybersecurity practices that responsible owners and
 operators of critical infrastructure should put in place and [brought
 together leading American
-executives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/)
+executives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-and-private-sector-leaders-announce-ambitious-initiatives-to-bolster-the-nations-cybersecurity/)
 to expand public-private cooperation on cybersecurity.  
   
 We are also partnering closely with nations around the world on these
@@ -47,7 +47,7 @@ both the risks and opportunities of emerging technologies like quantum
 computing and artificial intelligence. The Federal government needs the
 partnership of every American and every American company in these
 efforts. We must lock [our digital
-doors](https://www.whitehouse.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
+doors](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
 — by encrypting our data and using multifactor authentication, for
 example—and we must build technology securely by design, enabling
 consumers to understand the risks in the technologies they buy. Because

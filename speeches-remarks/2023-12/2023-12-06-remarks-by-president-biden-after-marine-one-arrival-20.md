@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 14:18:18-05:00
 published_time: 2023-12-06 14:18:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-after-marine-one-arrival-20/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-after-marine-one-arrival-20/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

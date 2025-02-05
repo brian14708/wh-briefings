@@ -1,7 +1,7 @@
 ---
 date: '2022-10-06'
 published_time: 2022-10-06 17:51:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/06/background-press-call-on-marijuana-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/06/background-press-call-on-marijuana-reform/
 tags: press-briefings
 title: "Background Press Call on Marijuana\_Reform"
 ---

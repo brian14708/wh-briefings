@@ -2,7 +2,7 @@
 date: '2023-12-17'
 modified_time: 2023-12-16 19:11:08-05:00
 published_time: 2023-12-17 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/17/statement-from-president-joe-biden-on-the-80th-anniversary-of-the-repeal-of-the-chinese-exclusion-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/17/statement-from-president-joe-biden-on-the-80th-anniversary-of-the-repeal-of-the-chinese-exclusion-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 80th Anniversary of the Repeal\
   \ of the Chinese Exclusion\_Act"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 22:56:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/statement-by-nsc-spokesperson-adam-hodge-welcoming-the-visit-of-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-to-baghdad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/statement-by-nsc-spokesperson-adam-hodge-welcoming-the-visit-of-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-to-baghdad/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adam Hodge Welcoming the Visit of Amir Sheikh\
   \ Tamim Bin Hamad al-Thani of Qatar to\_Baghdad"

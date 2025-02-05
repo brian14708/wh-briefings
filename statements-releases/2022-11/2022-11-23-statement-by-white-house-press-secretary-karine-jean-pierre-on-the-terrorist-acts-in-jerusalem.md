@@ -2,7 +2,7 @@
 date: '2022-11-23'
 modified_time: 2022-11-23 19:20:11-05:00
 published_time: 2022-11-23 07:58:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/23/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-terrorist-acts-in-jerusalem/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/23/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-terrorist-acts-in-jerusalem/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Terrorist\
   \ Acts in\_Jerusalem"

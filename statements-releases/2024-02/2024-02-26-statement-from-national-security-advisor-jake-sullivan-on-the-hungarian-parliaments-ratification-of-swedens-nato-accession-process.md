@@ -1,7 +1,7 @@
 ---
 date: '2024-02-26'
 published_time: 2024-02-26 17:11:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/statement-from-national-security-advisor-jake-sullivan-on-the-hungarian-parliaments-ratification-of-swedens-nato-accession-process/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/26/statement-from-national-security-advisor-jake-sullivan-on-the-hungarian-parliaments-ratification-of-swedens-nato-accession-process/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Hungarian Parliament\u2019\
   s Ratification of Sweden\u2019s NATO Accession\_Process"

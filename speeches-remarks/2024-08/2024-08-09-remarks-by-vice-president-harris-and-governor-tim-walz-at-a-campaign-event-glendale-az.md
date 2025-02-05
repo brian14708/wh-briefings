@@ -2,7 +2,7 @@
 date: '2024-08-09'
 modified_time: 2024-08-12 11:04:03-04:00
 published_time: 2024-08-09 23:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/09/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-glendale-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/09/remarks-by-vice-president-harris-and-governor-tim-walz-at-a-campaign-event-glendale-az/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Governor Tim Walz at a Campaign Event\
   \ | Glendale,\_AZ"

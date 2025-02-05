@@ -1,7 +1,7 @@
 ---
 date: '2022-08-07'
 published_time: 2022-08-07 09:58:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/07/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/07/president-joseph-r-biden-jr-amends-kentucky-disaster-declaration-3/
 tags: presidential-actions
 title: "President\_Joseph R. Biden, Jr. Amends\_Kentucky\_Disaster\_Declaration"
 ---

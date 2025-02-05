@@ -2,7 +2,7 @@
 date: '2023-11-12'
 modified_time: 2023-11-13 12:58:18-05:00
 published_time: 2023-11-12 06:00:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/12/background-press-call-by-senior-administration-officials-previewing-the-bilateral-engagement-of-president-biden-and-president-joko-widodo-of-indonesia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/12/background-press-call-by-senior-administration-officials-previewing-the-bilateral-engagement-of-president-biden-and-president-joko-widodo-of-indonesia/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the Bilateral\
   \ Engagement of President\_Biden and President Joko Widodo of\_Indonesia"

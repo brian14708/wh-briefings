@@ -2,7 +2,7 @@
 date: '2022-05-25'
 modified_time: 2022-05-25 15:42:23-04:00
 published_time: 2022-05-25 15:41:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/president-biden-announces-key-nominees-17/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/president-biden-announces-key-nominees-17/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

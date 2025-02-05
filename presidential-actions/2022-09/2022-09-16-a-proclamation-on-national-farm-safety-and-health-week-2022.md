@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 11:39:10-04:00
 published_time: 2022-09-16 11:39:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-national-farm-safety-and-health-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-national-farm-safety-and-health-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Farm Safety and Health Week,\_2022"
 ---

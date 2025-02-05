@@ -1,7 +1,7 @@
 ---
 date: '2022-09-08'
 published_time: 2022-09-08 14:32:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/statement-of-president-joe-biden-and-first-lady-jill-biden-on-the-death-of-queen-elizabeth-ii/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/statement-of-president-joe-biden-and-first-lady-jill-biden-on-the-death-of-queen-elizabeth-ii/
 tags: statements-releases
 title: "Statement of President Joe\_Biden and First Lady Jill\_Biden on the Death\
   \ of Queen Elizabeth\_II"

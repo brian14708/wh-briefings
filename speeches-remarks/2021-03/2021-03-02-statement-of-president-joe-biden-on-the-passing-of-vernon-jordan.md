@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-03-02'
 modified_time: 2021-03-02 19:24:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/02/statement-of-president-joe-biden-on-the-passing-of-vernon-jordan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/03/02/statement-of-president-joe-biden-on-the-passing-of-vernon-jordan/
 published_time: 2021-03-02 19:24:31-05:00
 title: "Statement of President Joe\_Biden on the Passing of Vernon\_Jordan"
 ---

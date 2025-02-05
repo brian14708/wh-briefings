@@ -1,7 +1,7 @@
 ---
 date: '2022-12-22'
 published_time: 2022-12-22 20:04:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/22/readout-of-apnsa-jake-sullivans-calls-with-national-security-council-secretary-armen-grigoryan-of-armenia-and-head-of-the-foreign-relations-department-of-the-presidential-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/22/readout-of-apnsa-jake-sullivans-calls-with-national-security-council-secretary-armen-grigoryan-of-armenia-and-head-of-the-foreign-relations-department-of-the-presidential-administration/
 tags: statements-releases
 title: "Readout of APNSA Jake Sullivan\u2019s Calls with National Security Council\
   \ Secretary Armen Grigoryan of Armenia and\_Head of the Foreign Relations Department\

@@ -2,7 +2,7 @@
 date: '2024-10-01'
 modified_time: 2024-10-01 22:36:35-04:00
 published_time: 2024-10-01 22:36:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/01/readout-of-president-bidens-call-with-prime-minister-ishiba-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/01/readout-of-president-bidens-call-with-prime-minister-ishiba-of-japan/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Ishiba of\_Japan"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 16:21:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/remarks-by-first-lady-jill-biden-on-the-anniversary-of-the-americans-with-disabilities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/remarks-by-first-lady-jill-biden-on-the-anniversary-of-the-americans-with-disabilities-act/
 tags: statements-releases
 title: "Remarks by First Lady Jill\_Biden on the Anniversary of the Americans with\
   \ Disabilities\_Act"

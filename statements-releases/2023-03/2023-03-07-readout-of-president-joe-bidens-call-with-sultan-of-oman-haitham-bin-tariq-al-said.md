@@ -2,7 +2,7 @@
 date: '2023-03-07'
 modified_time: 2023-03-07 13:40:41-05:00
 published_time: 2023-03-07 13:40:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/readout-of-president-joe-bidens-call-with-sultan-of-oman-haitham-bin-tariq-al-said/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/readout-of-president-joe-bidens-call-with-sultan-of-oman-haitham-bin-tariq-al-said/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Sultan of Oman Haitham bin\
   \ Tariq Al\_Said"

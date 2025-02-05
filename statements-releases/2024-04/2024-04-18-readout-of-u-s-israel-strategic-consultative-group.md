@@ -1,7 +1,7 @@
 ---
 date: '2024-04-18'
 published_time: 2024-04-18 15:57:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/18/readout-of-u-s-israel-strategic-consultative-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/18/readout-of-u-s-israel-strategic-consultative-group/
 tags: statements-releases
 title: "Readout of U.S.-Israel Strategic Consultative\_Group"
 ---

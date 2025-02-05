@@ -2,7 +2,7 @@
 date: '2023-03-03'
 modified_time: 2023-03-03 16:04:09-05:00
 published_time: 2023-03-03 16:03:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/
 tags: statements-releases
 title: "EXECUTIVE SUMMARY: Initial Blueprint for the White\_House Task Force to Address\
   \ Online Harassment and\_Abuse"
@@ -24,21 +24,21 @@ sufficiently prevented or addressed how these modalities are used for
 harm.
 
 To tackle this scourge, President Biden issued a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 in June 2022 establishing the White House Task Force to Address Online
 Harassment and Abuse (Task Force), with a mandate to develop concrete
 actions in a Blueprint to prevent online harassment and abuse, provide
 support for survivors, increase accountability, and expand research.
 
 Since its
-[launch](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
+[launch](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
 the Task Force has heard from hundreds of stakeholders—survivors,
 advocates, parents, educators, law enforcement, medical and legal
 professionals, and researchers—who discussed the significant harm caused
 by online harassment and abuse. The powerful [testimonies of
-survivors](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/readout-of-the-white-house-task-force-to-address-online-harassment-and-abuse-launch/),
+survivors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/readout-of-the-white-house-task-force-to-address-online-harassment-and-abuse-launch/),
 [including from
-youth](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/readout-of-white-house-task-force-to-address-online-harassment-and-abuse-youth-roundtable/),
+youth](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/readout-of-white-house-task-force-to-address-online-harassment-and-abuse-youth-roundtable/),
 college students, public figures, and social media influencers,
 demonstrate the widespread reach of technology-facilitated GBV.  While
 each of their stories is unique, they share common threads and lessons
@@ -79,10 +79,10 @@ technology-facilitated GBV across four main lines of effort: Prevention,
 Survivor Support, Accountability, and Research. Through this Blueprint,
 Senior Administration officials are working to operationalize the
 President’s [call to
-action](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/)
 in the State of Union for solutions to address online safety, health,
 privacy, and
-[accountability](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/). 
+[accountability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/). 
 While the President continues to [call on
 Congress](https://www.wsj.com/articles/unite-against-big-tech-abuses-social-media-privacy-competition-antitrust-children-algorithm-11673439411?mod=article_inline)
 to do its part, senior officials from Federal departments and agencies

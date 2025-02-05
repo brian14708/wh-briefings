@@ -2,7 +2,7 @@
 date: '2022-06-24'
 modified_time: 2022-06-24 20:40:08-04:00
 published_time: 2022-06-24 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/24/statement-by-australia-japan-new-zealand-the-united-kingdom-and-the-united-states-on-the-establishment-of-the-partners-in-the-blue-pacific-pbp/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/24/statement-by-australia-japan-new-zealand-the-united-kingdom-and-the-united-states-on-the-establishment-of-the-partners-in-the-blue-pacific-pbp/
 tags: statements-releases
 title: "Statement by Australia, Japan, New Zealand, the United Kingdom, and the United\_\
   States on the Establishment of the Partners in the Blue Pacific\_(PBP)"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-03'
 published_time: 2023-05-03 11:30:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/03/a-proclamation-on-national-day-of-prayer-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/03/a-proclamation-on-national-day-of-prayer-2023/
 tags: presidential-actions
 title: "A Proclamation on National Day of Prayer,\_2023"
 ---

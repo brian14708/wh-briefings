@@ -2,7 +2,7 @@
 date: '2023-12-08'
 modified_time: 2023-12-08 11:39:06-05:00
 published_time: 2023-12-08 11:39:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-meeting-between-senior-administration-officials-and-black-male-economic-empowerment-advocates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-meeting-between-senior-administration-officials-and-black-male-economic-empowerment-advocates/
 tags: statements-releases
 title: "Readout of Meeting between Senior Administration Officials and Black Male\
   \ Economic Empowerment\_Advocates"

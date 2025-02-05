@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-14 23:59:18-05:00
 published_time: 2022-12-15 10:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-in-promoting-peace-security-and-democratic-governance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-in-promoting-peace-security-and-democratic-governance/
 tags: statements-releases
 title: "FACT SHEET: U.S.-Africa Partnership in\_Promoting Peace, Security, and Democratic\_\
   Governance"
@@ -142,9 +142,9 @@ transitions and institutions.
     public life.  
 -   **The Presidential Initiative for Democratic Renewal (PIDR):**
     Announced at the
-    [2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+    [2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
     [Summit for
-    Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
+    Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
     the PIDR is a landmark set of policy and foreign assistance
     initiatives totaling more than $400 million that build upon the U.S.
     Government’s significant, ongoing work to bolster democracy and

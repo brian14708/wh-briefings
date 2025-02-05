@@ -2,7 +2,7 @@
 date: '2023-12-02'
 modified_time: 2023-12-02 12:13:44-05:00
 published_time: 2023-12-02 12:13:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-meeting-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-meeting-with-president-mohamed-bin-zayed-of-the-united-arab-emirates/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Mohamed bin\
   \ Zayed of the United Arab\_Emirates"

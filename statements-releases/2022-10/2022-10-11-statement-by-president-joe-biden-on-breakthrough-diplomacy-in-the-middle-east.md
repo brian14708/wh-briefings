@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-11 12:42:16-04:00
 published_time: 2022-10-11 12:42:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-breakthrough-diplomacy-in-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-breakthrough-diplomacy-in-the-middle-east/
 tags: statements-releases
 title: "Statement by President\_Joe\_Biden on Breakthrough Diplomacy in the Middle\_\
   East"

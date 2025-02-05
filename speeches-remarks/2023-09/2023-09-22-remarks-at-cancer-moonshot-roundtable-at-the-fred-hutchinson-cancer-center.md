@@ -1,7 +1,7 @@
 ---
 date: '2023-09-22'
 published_time: 2023-09-22 19:29:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/22/remarks-at-cancer-moonshot-roundtable-at-the-fred-hutchinson-cancer-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/22/remarks-at-cancer-moonshot-roundtable-at-the-fred-hutchinson-cancer-center/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Cancer Moonshot\
   \ Listening Session at the Fred Hutchinson Cancer\_Center"

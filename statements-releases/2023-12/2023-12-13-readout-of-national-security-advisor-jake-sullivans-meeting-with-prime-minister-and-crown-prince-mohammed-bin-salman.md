@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 23:58:13-05:00
 published_time: 2023-12-13 23:58:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-and-crown-prince-mohammed-bin-salman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-prime-minister-and-crown-prince-mohammed-bin-salman/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Prime\
   \ Minister and Crown Prince Mohammed bin\_Salman"

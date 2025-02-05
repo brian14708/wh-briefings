@@ -2,7 +2,7 @@
 date: '2023-10-10'
 modified_time: 2023-10-10 19:05:24-04:00
 published_time: 2023-10-10 19:05:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/10/remarks-by-president-biden-at-the-u-s-fire-administrators-summit-on-fire-prevention-and-control/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/10/remarks-by-president-biden-at-the-u-s-fire-administrators-summit-on-fire-prevention-and-control/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S. Fire Administrator\u2019s Summit on\
   \ Fire Prevention and\_Control"

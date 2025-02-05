@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-21'
 modified_time: 2022-01-21 08:45:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-actions-to-attract-stem-talent-and-strengthen-our-economy-and-competitiveness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-actions-to-attract-stem-talent-and-strengthen-our-economy-and-competitiveness/
 published_time: 2022-01-21 08:45:56-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions to Attract STEM Talent\
   \ and Strengthen our Economy and\_Competitiveness"
@@ -35,7 +35,7 @@ These announcements build on the Biden Administration’s efforts to
 remove barriers to legal immigration, such as under [Executive Order
 14012, Restoring Faith in Our Legal Immigration Systems and
 Strengthening Integration and Inclusion Efforts for New
-Americans](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/),
+Americans](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/),
 and to promote educational exchange, such as under the recent [Joint
 Statement of Principles in Support of International
 Education](http://educationusa.state.gov/us-higher-education-professionals/us-government-resources-and-guidance/joint-statement)

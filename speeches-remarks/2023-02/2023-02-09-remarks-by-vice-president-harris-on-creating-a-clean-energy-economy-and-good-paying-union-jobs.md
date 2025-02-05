@@ -2,7 +2,7 @@
 date: '2023-02-09'
 modified_time: 2023-02-10 13:20:09-05:00
 published_time: 2023-02-09 13:16:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/09/remarks-by-vice-president-harris-on-creating-a-clean-energy-economy-and-good-paying-union-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/09/remarks-by-vice-president-harris-on-creating-a-clean-energy-economy-and-good-paying-union-jobs/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Creating a Clean Energy Economy and Good-Paying,\
   \ Union\_Jobs"

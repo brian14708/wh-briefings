@@ -2,7 +2,7 @@
 date: '2023-11-19'
 modified_time: 2023-11-19 13:13:09-05:00
 published_time: 2023-11-19 13:11:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/19/icymi-joe-biden-the-u-s-wont-back-down-from-the-challenge-of-putin-and-hamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/19/icymi-joe-biden-the-u-s-wont-back-down-from-the-challenge-of-putin-and-hamas/
 tags: statements-releases
 title: "ICYMI: Joe\_Biden: The U.S. won\u2019t back down from the challenge of Putin\
   \ and\_Hamas"

@@ -2,7 +2,7 @@
 date: '2023-06-09'
 modified_time: 2023-06-08 22:52:05-04:00
 published_time: 2023-06-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Sweeping Executive\
   \ Actions to Strengthen Economic Opportunity for Military and Veteran Spouses, Caregivers,\
@@ -40,7 +40,7 @@ The President and First Lady, as a military family, recognize the
 commitment and resilience of military-connected families as essential to
 the recruitment, retention, and readiness of our Armed Forces. Since Day
 One of the Biden Administration, Dr. Biden, through her [*Joining
-Forces*](https://www.whitehouse.gov/joiningforces/) initiative, has
+Forces*](https://bidenwhitehouse.archives.gov/joiningforces/) initiative, has
 worked to eliminate barriers to employment and increase economic
 opportunity for military families. Meeting the economic, social, and
 emotional needs of our military and veteran families, caregivers, and
@@ -167,7 +167,7 @@ of military and veteran families, caregivers and survivors.
 
 In September 2021, the Biden-Harris Administration published the
 [Strengthening America’s Military
-Families](https://www.whitehouse.gov/wp-content/uploads/2021/09/Strengthening_Americas_Military_Families.pdf)
+Families](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/Strengthening_Americas_Military_Families.pdf)
 report. Prepared by representatives from the White House with
 contributions from Federal agencies, the report was signed by the
 President with a foreword by Dr. Biden, and outlined the first round of
@@ -188,7 +188,7 @@ Austin](https://www.defense.gov/News/Releases/Release/Article/3338023/dod-announ
 announced additional actions to enhance military family economic
 security, including the expansion of eligibility for the military spouse
 career advancement financial assistance program.  The President also
-[directed](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/31/memorandum-on-fourteenth-quadrennial-review-of-military-compensation/)
+[directed](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/31/memorandum-on-fourteenth-quadrennial-review-of-military-compensation/)
 the Secretary of Defense to initiate the 14th Quadrennial Review of
 Military Compensation to evaluate pay and benefits with a particular
 focus on factors such as the challenge of military spouse unemployment,
@@ -197,7 +197,7 @@ service members and their spouses (including dual military couples), and
 childcare access and cost.  
   
 And, in April 2023, the President signed [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/)
 14095, “Increasing Access to High Quality Care and Supporting
 Caregivers.”  Among the many directives were several focused on making
 child care and long-term care more accessible and affordable for

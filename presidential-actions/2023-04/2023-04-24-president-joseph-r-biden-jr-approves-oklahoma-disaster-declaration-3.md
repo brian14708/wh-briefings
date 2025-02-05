@@ -1,7 +1,7 @@
 ---
 date: '2023-04-24'
 published_time: 2023-04-24 09:53:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/24/president-joseph-r-biden-jr-approves-oklahoma-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/24/president-joseph-r-biden-jr-approves-oklahoma-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Oklahoma Disaster\_Declaration"
 ---

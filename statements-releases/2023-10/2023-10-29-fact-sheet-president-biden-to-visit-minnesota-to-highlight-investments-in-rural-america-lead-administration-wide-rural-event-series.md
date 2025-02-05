@@ -2,7 +2,7 @@
 date: '2023-10-29'
 modified_time: 2023-10-30 11:15:34-04:00
 published_time: 2023-10-29 08:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/29/fact-sheet-president-biden-to-visit-minnesota-to-highlight-investments-in-rural-america-lead-administration-wide-rural-event-series/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Visit Minnesota to Highlight Investments in\
   \ Rural America, Lead Administration-Wide Rural Event\_Series"
@@ -125,7 +125,7 @@ and poultry corporations. These investments are also providing consumers
 with more choices and affordable prices at the grocery store. This is
 part of the Biden-Harris Administration’s [Action Plan for a Fairer,
 More Competitive, and More Resilient Meat and Poultry Supply
-Chain](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/).
+Chain](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/).
 USDA has awarded nearly $366.9 million to help more than 300 businesses
 [build or expand new meat and poultry processing
 facilities](https://www.usda.gov/meat) in rural areas, or to help them
@@ -247,7 +247,7 @@ other sites across the country.
   
 In addition, the Biden-Harris Administration is leading a
 [whole-of-government
-effort](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
+effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/)
 to make Western communities more resilient to climate change and the
 ongoing megadrought by harnessing the full resources of the President’s
 historic Investing in America agenda. The Inflation Reduction Act and

@@ -2,7 +2,7 @@
 date: '2023-05-14'
 modified_time: 2023-05-14 16:36:07-04:00
 published_time: 2023-05-14 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/14/statement-from-president-joe-biden-on-united-steelworkers-vote-in-fort-valley-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/14/statement-from-president-joe-biden-on-united-steelworkers-vote-in-fort-valley-ga/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on United Steelworkers Vote in Fort Valley,\_\
   GA"

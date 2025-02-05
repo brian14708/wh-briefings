@@ -1,7 +1,7 @@
 ---
 date: '2022-06-17'
 published_time: 2022-06-17 18:13:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-vice-president-harris-after-air-force-two-arrival-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-vice-president-harris-after-air-force-two-arrival-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_After Air Force Two\_Arrival"
 ---

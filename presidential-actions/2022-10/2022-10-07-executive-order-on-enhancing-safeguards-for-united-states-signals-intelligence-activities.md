@@ -2,7 +2,7 @@
 date: '2022-10-07'
 modified_time: 2022-10-07 10:35:33-04:00
 published_time: 2022-10-07 10:28:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/07/executive-order-on-enhancing-safeguards-for-united-states-signals-intelligence-activities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/07/executive-order-on-enhancing-safeguards-for-united-states-signals-intelligence-activities/
 tags: presidential-actions
 title: "Executive Order On Enhancing Safeguards For United\_States Signals Intelligence\_\
   Activities"

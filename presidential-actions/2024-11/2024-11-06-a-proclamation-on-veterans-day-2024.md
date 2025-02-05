@@ -1,7 +1,7 @@
 ---
 date: '2024-11-06'
 published_time: 2024-11-06 17:44:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/06/a-proclamation-on-veterans-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/06/a-proclamation-on-veterans-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Veterans Day,\_2024"
 ---

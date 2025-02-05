@@ -1,7 +1,7 @@
 ---
 date: '2023-05-04'
 published_time: 2023-05-04 10:41:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/04/executive-order-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/04/executive-order-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/
 tags: presidential-actions
 title: "Executive Order on Imposing Sanctions on Certain Persons Destabilizing Sudan\
   \ and Undermining the Goal of a Democratic\_Transition"

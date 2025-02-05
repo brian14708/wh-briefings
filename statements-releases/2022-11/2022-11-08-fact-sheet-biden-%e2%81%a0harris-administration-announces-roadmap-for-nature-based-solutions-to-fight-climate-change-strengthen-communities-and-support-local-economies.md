@@ -2,7 +2,7 @@
 date: '2022-11-08'
 modified_time: 2022-11-08 00:31:41-05:00
 published_time: 2022-11-08 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/08/fact-sheet-biden-%e2%81%a0harris-administration-announces-roadmap-for-nature-based-solutions-to-fight-climate-change-strengthen-communities-and-support-local-economies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/08/fact-sheet-biden-%e2%81%a0harris-administration-announces-roadmap-for-nature-based-solutions-to-fight-climate-change-strengthen-communities-and-support-local-economies/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Roadmap for Nature-Based\
   \ Solutions to Fight Climate Change, Strengthen Communities, and Support Local\_\
@@ -70,7 +70,7 @@ the President’s commitment to reduce greenhouse gas emissions 50-52%
 below 2005 levels in 2030, to conserve at least 30% of U.S. lands and
 waters by 2030, and to increase community resilience to extreme weather
 and other climate impacts. The new [Nature Based Solutions
-Roadmap](https://www.whitehouse.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Roadmap.pdf)
+Roadmap](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Roadmap.pdf)
 will help the Administration seize additional opportunities; key
 recommendations and related new and recent agency commitments are below.
 
@@ -79,7 +79,7 @@ with examples of nature-based climate solutions and over 150 resources
 to spur action. The Nature-Based Solutions Resource Guide: Compendium of
 Federal Examples, Guidance, Resource Documents, Tools and Technical
 Assistance is available
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Resource-Guide-2022.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Nature-Based-Solutions-Resource-Guide-2022.pdf).
  
 
 **<u>NATURE-BASED SOLUTIONS ROADMAP: FIVE STRATEGIC AREAS FOR
@@ -104,7 +104,7 @@ analysis. Aligned Administration actions include:
     nature-based solutions and other analysis needs. This is coupled
     with the developing [National Strategy for a system of natural
     capital
-    accounts](https://www.whitehouse.gov/omb/briefing-room/2022/08/18/A-New-National-Strategy-to-Reflect-Natural-Assets-on-Americas-Balance-Sheet/),
+    accounts](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/08/18/A-New-National-Strategy-to-Reflect-Natural-Assets-on-Americas-Balance-Sheet/),
     which will place nature on the nation’s balance sheet and allow
     regular tracking of the economic benefits that investments in
     nature-based solutions provide.

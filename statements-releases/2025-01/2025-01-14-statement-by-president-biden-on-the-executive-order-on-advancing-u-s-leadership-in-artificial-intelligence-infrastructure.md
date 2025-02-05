@@ -2,7 +2,7 @@
 date: '2025-01-14'
 modified_time: 2025-01-14 01:08:45-05:00
 published_time: 2025-01-14 07:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/14/statement-by-president-biden-on-the-executive-order-on-advancing-u-s-leadership-in-artificial-intelligence-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/14/statement-by-president-biden-on-the-executive-order-on-advancing-u-s-leadership-in-artificial-intelligence-infrastructure/
 tags: statements-releases
 title: "Statement by President\_Biden on the Executive Order on Advancing U.S. Leadership\
   \ in Artificial Intelligence Infrastructure"

@@ -2,7 +2,7 @@
 date: '2023-06-04'
 modified_time: 2023-06-04 12:40:14-04:00
 published_time: 2023-06-04 09:22:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-empowerment-event-at-the-ennakhil-association/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/04/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-empowerment-event-at-the-ennakhil-association/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Women\u2019\
   s Empowerment Event at the Ennakhil\_Association"

@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-10 19:13:36-04:00
 published_time: 2024-04-11 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/press-call-by-vice-president-harris-on-reducing-gun-violence-and-expanding-background-checks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/press-call-by-vice-president-harris-on-reducing-gun-violence-and-expanding-background-checks/
 tags: statements-releases
 title: "Press Call by Vice President Harris on Reducing Gun Violence and Expanding\
   \ Background\_Checks"

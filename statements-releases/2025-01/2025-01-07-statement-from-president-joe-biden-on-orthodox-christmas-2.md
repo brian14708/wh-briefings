@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-06 17:16:34-05:00
 published_time: 2025-01-07 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-orthodox-christmas-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-orthodox-christmas-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Orthodox\_Christmas"
 ---

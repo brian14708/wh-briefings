@@ -2,7 +2,7 @@
 date: '2024-07-06'
 modified_time: 2024-07-08 12:29:29-04:00
 published_time: 2024-07-06 18:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/06/remarks-by-vice-president-harris-and-caroline-wanga-during-a-moderated-conversation-at-the-30th-annual-essence-festival-of-culture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/06/remarks-by-vice-president-harris-and-caroline-wanga-during-a-moderated-conversation-at-the-30th-annual-essence-festival-of-culture/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Caroline Wanga During a Moderated Conversation\
   \ at the 30th Annual ESSENCE Festival of\_Culture"

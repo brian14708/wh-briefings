@@ -1,7 +1,7 @@
 ---
 date: '2022-07-21'
 published_time: 2022-07-21 11:28:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-2/
 tags: statements-releases
 title: "Notice on the Continuation of the National Emergency with Respect to Transnational\
   \ Criminal\_Organizations."

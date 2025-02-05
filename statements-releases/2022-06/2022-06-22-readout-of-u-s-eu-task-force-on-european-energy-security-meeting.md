@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-22 17:02:45-04:00
 published_time: 2022-06-22 17:02:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/22/readout-of-u-s-eu-task-force-on-european-energy-security-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/22/readout-of-u-s-eu-task-force-on-european-energy-security-meeting/
 tags: statements-releases
 title: "Readout of U.S.-EU Task Force on European Energy Security\_Meeting"
 ---

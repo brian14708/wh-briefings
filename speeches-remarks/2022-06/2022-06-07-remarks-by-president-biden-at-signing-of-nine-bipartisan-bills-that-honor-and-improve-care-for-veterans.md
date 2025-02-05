@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-08 15:25:03-04:00
 published_time: 2022-06-07 18:27:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/07/remarks-by-president-biden-at-signing-of-nine-bipartisan-bills-that-honor-and-improve-care-for-veterans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/07/remarks-by-president-biden-at-signing-of-nine-bipartisan-bills-that-honor-and-improve-care-for-veterans/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of Nine Bipartisan Bills that Honor\
   \ and Improve Care for\_Veterans"

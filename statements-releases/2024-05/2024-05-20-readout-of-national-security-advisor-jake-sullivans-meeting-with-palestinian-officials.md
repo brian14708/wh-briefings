@@ -2,7 +2,7 @@
 date: '2024-05-20'
 modified_time: 2024-05-20 15:08:46-04:00
 published_time: 2024-05-20 15:08:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/readout-of-national-security-advisor-jake-sullivans-meeting-with-palestinian-officials/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/20/readout-of-national-security-advisor-jake-sullivans-meeting-with-palestinian-officials/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Palestinian\_\
   Officials"

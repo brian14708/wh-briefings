@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-06-03 11:45:36-04:00
 published_time: 2024-05-31 11:14:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/authorizing-the-city-of-laredo-texas-to-expand-and-continue-to-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-at-the-world-trade-bridge-land-port-of-entry/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/authorizing-the-city-of-laredo-texas-to-expand-and-continue-to-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-at-the-world-trade-bridge-land-port-of-entry/
 tags: presidential-actions
 title: "Presidential Permit Authorizing the City of Laredo, Texas, to Expand and Continue\
   \ to Maintain and Operate a Vehicular and Pedestrian Border Crossing at the World\

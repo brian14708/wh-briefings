@@ -2,7 +2,7 @@
 date: '2023-06-09'
 modified_time: 2023-06-09 11:54:52-04:00
 published_time: 2023-06-09 03:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/president-biden-announces-key-nominee-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/president-biden-announces-key-nominee-8/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominee"
 ---

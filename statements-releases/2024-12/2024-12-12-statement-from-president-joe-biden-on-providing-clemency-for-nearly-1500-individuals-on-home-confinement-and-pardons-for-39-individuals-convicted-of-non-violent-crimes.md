@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-11 19:02:36-05:00
 published_time: 2024-12-12 05:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/statement-from-president-joe-biden-on-providing-clemency-for-nearly-1500-individuals-on-home-confinement-and-pardons-for-39-individuals-convicted-of-non-violent-crimes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/statement-from-president-joe-biden-on-providing-clemency-for-nearly-1500-individuals-on-home-confinement-and-pardons-for-39-individuals-convicted-of-non-violent-crimes/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Providing Clemency for Nearly 1,500\
   \ Individuals on Home Confinement and Pardons for 39 Individuals Convicted of Non-Violent\_\

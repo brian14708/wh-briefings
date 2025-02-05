@@ -1,7 +1,7 @@
 ---
 date: '2023-02-24'
 published_time: 2023-02-24 09:53:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/24/a-proclamation-on-national-eating-disorders-awareness-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/24/a-proclamation-on-national-eating-disorders-awareness-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Eating Disorders Awareness Week,\_2023"
 ---

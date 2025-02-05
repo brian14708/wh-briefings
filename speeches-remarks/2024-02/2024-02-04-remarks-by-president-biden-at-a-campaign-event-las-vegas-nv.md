@@ -2,7 +2,7 @@
 date: '2024-02-04'
 modified_time: 2024-02-05 17:06:49-05:00
 published_time: 2024-02-04 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/04/remarks-by-president-biden-at-a-campaign-event-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/04/remarks-by-president-biden-at-a-campaign-event-las-vegas-nv/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Las Vegas,\_NV"
 ---

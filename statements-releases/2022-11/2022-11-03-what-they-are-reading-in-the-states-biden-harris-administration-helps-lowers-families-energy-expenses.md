@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 published_time: 2022-11-03 20:35:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/03/what-they-are-reading-in-the-states-biden-harris-administration-helps-lowers-families-energy-expenses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/03/what-they-are-reading-in-the-states-biden-harris-administration-helps-lowers-families-energy-expenses/
 tags: statements-releases
 title: "What They Are Reading in the States: Biden-\u2060Harris Administration Helps\
   \ Lowers Families\u2019 Energy\_Expenses"

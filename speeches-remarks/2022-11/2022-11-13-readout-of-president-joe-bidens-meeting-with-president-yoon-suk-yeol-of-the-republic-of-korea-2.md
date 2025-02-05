@@ -2,7 +2,7 @@
 date: '2022-11-13'
 modified_time: 2022-11-13 13:09:28-05:00
 published_time: 2022-11-13 10:29:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/13/readout-of-president-joe-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/13/readout-of-president-joe-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea-2/
 tags: speeches-remarks
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Yoon Suk Yeol\
   \ of the Republic of\_Korea"

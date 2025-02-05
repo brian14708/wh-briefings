@@ -1,7 +1,7 @@
 ---
 date: '2024-10-30'
 published_time: 2024-10-30 14:42:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/30/readout-of-president-joe-bidens-meeting-with-president-nikos-christodoulides-of-the-republic-of-cyprus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/30/readout-of-president-joe-bidens-meeting-with-president-nikos-christodoulides-of-the-republic-of-cyprus/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Nikos Christodoulides\
   \ of the Republic of\_Cyprus"

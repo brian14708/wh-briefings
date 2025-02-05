@@ -1,7 +1,7 @@
 ---
 date: '2023-01-31'
 published_time: 2023-01-31 16:23:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/31/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-lula-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/31/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-lula-of-brazil/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of President Lula of\_Brazil"

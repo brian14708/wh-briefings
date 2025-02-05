@@ -2,7 +2,7 @@
 date: '2022-05-07'
 modified_time: 2022-05-10 10:31:53-04:00
 published_time: 2022-05-07 10:38:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/07/fact-sheet-the-biden-administration-responds-to-early-wildfires-in-new-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/07/fact-sheet-the-biden-administration-responds-to-early-wildfires-in-new-mexico/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Responds to Early Wildfires in New\_\
   Mexico"

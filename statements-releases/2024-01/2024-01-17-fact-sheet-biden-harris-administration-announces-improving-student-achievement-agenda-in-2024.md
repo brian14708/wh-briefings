@@ -2,7 +2,7 @@
 date: '2024-01-17'
 modified_time: 2024-01-19 11:36:29-05:00
 published_time: 2024-01-17 15:34:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/fact-sheet-biden-harris-administration-announces-improving-student-achievement-agenda-in-2024/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Improving Student\
   \ Achievement Agenda in\_2024"
@@ -52,7 +52,7 @@ not accept that as a new normal. Students who are chronically absent are
 likely](https://www.brookings.edu/articles/chronic-absenteeism-an-old-problem-in-search-of-new-answers/)
 to read at grade level and to graduate high school. [According to the
 Council of Economic
-Advisers](https://www.whitehouse.gov/cea/written-materials/2023/09/13/chronic-absenteeism-and-disrupted-learning-require-an-all-hands-on-deck-approach/),
+Advisers](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/09/13/chronic-absenteeism-and-disrupted-learning-require-an-all-hands-on-deck-approach/),
 absenteeism can account for up to 27% and 45% of the test score declines
 in math and reading, respectively. Low-cost informational interventions,
 like sending texts to parents about their children’s missed school, can
@@ -328,7 +328,7 @@ commitments to support academic achievement. The Administration will
 continue to work with these kinds of organizations to further build on
 these commitments. [Read about the commitments from the organizations
 below
-here:](https://www.whitehouse.gov/wp-content/uploads/2024/01/R-Philanthropic-Commitments-FINAL.pdf)**
+here:](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/R-Philanthropic-Commitments-FINAL.pdf)**
 
 -   Afterschool Alliance
 -   Attendance Works

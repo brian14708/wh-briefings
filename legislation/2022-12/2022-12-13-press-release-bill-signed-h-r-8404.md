@@ -1,7 +1,7 @@
 ---
 date: '2022-12-13'
 published_time: 2022-12-13 18:46:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/13/press-release-bill-signed-h-r-8404/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/13/press-release-bill-signed-h-r-8404/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_8404"
 ---

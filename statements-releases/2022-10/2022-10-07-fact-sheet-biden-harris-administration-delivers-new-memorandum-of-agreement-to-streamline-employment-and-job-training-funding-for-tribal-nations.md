@@ -1,7 +1,7 @@
 ---
 date: '2022-10-07'
 published_time: 2022-10-07 11:15:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/fact-sheet-biden-harris-administration-delivers-new-memorandum-of-agreement-to-streamline-employment-and-job-training-funding-for-tribal-nations/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers New Memorandum of Agreement\
   \ to Streamline Employment and Job Training Funding for Tribal\_Nations"
@@ -34,7 +34,7 @@ immediately sought the renegotiation of the MOA.
 In October 2021, Vice President Harris addressed the Annual Convention
 of the National Congress of American Indians and committed that the
 Administration would “[renegotiate this agreement to support Tribal
-sovereignty](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/12/remarks-by-vice-president-harris-at-the-national-congress-of-american-indians-78th-annual-convention/).”
+sovereignty](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/10/12/remarks-by-vice-president-harris-at-the-national-congress-of-american-indians-78th-annual-convention/).”
 Today, the Administration is delivering on that promise.  The new MOA
 streamlines plan approval procedures and re-affirms the decisional
 authority of the Secretary of the Interior in approving plans. This
@@ -65,15 +65,15 @@ Administration is committed to ensuring Tribal communities and other
 underserved populations have equitable access to good jobs in in-demand
 sectors – including those required to implement the [Bipartisan
 Infrastructure
-Law](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-releases-tribal-playbook-announces-massive-new-tribal-funding-from-bipartisan-infrastructure-law/),
+Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/fact-sheet-biden-harris-administration-releases-tribal-playbook-announces-massive-new-tribal-funding-from-bipartisan-infrastructure-law/),
 the [CHIPS and Science
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/),
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/),
 and the [Inflation Reduction
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/).
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/18/fact-sheet-how-the-inflation-reduction-act-helps-tribal-communities/).
 This includes supporting worker-centered sector strategies to better
 recruit, train, and retain a diverse, local, and skilled workforce;
 [strengthening Tribal colleges and
-universities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/11/executive-order-on-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-native-americans-and-strengthening-tribal-colleges-and-universities/);
+universities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/11/executive-order-on-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-native-americans-and-strengthening-tribal-colleges-and-universities/);
 and advancing Registered Apprenticeships, and other high-quality
 education and training that lead to good jobs.
 

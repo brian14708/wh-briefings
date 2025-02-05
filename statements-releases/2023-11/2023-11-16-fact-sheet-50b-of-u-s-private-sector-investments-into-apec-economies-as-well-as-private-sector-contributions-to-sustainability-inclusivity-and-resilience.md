@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 16:08:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-50b-of-u-s-private-sector-investments-into-apec-economies-as-well-as-private-sector-contributions-to-sustainability-inclusivity-and-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-50b-of-u-s-private-sector-investments-into-apec-economies-as-well-as-private-sector-contributions-to-sustainability-inclusivity-and-resilience/
 tags: statements-releases
 title: "FACT SHEET: $50B+ of U.S. Private Sector Investments into APEC Economies,\
   \ as well as Private Sector Contributions to Sustainability, Inclusivity, and\_\

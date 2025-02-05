@@ -1,7 +1,7 @@
 ---
 date: '2024-05-12'
 published_time: 2024-05-12 13:43:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/12/readout-of-national-security-advisor-jake-sullivans-call-with-israeli-national-security-advisor-tzachi-hanegbi-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/12/readout-of-national-security-advisor-jake-sullivans-call-with-israeli-national-security-advisor-tzachi-hanegbi-3/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Israeli\
   \ National Security Advisor Tzachi\_Hanegbi"

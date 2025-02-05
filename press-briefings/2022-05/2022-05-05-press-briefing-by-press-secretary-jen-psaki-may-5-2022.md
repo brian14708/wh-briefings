@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-06 00:29:45-04:00
 published_time: 2022-05-05 00:04:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/05/press-briefing-by-press-secretary-jen-psaki-may-5-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/05/press-briefing-by-press-secretary-jen-psaki-may-5-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Jen\_Psaki, May\_5,\_2022"
 ---

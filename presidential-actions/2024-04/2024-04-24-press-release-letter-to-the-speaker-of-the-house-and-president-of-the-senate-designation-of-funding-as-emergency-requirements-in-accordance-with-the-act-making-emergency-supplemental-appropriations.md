@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-24 13:37:13-04:00
 published_time: 2024-04-24 13:37:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/24/press-release-letter-to-the-speaker-of-the-house-and-president-of-the-senate-designation-of-funding-as-emergency-requirements-in-accordance-with-the-act-making-emergency-supplemental-appropriations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/24/press-release-letter-to-the-speaker-of-the-house-and-president-of-the-senate-designation-of-funding-as-emergency-requirements-in-accordance-with-the-act-making-emergency-supplemental-appropriations/
 tags: presidential-actions
 title: "Press Release: Letter to the Speaker of the House and President of the Senate:\
   \ Designation of Funding as Emergency Requirements in Accordance with the Act Making\

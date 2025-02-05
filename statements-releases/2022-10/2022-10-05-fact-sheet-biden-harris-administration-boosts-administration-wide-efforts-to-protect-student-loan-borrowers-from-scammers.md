@@ -1,7 +1,7 @@
 ---
 date: '2022-10-05'
 published_time: 2022-10-05 10:36:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-biden-harris-administration-boosts-administration-wide-efforts-to-protect-student-loan-borrowers-from-scammers/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Boosts Administration-Wide Efforts\
   \ to Protect Student Loan Borrowers from\_Scammers"

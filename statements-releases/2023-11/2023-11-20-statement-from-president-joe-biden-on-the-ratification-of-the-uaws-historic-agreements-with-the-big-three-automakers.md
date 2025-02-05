@@ -1,7 +1,7 @@
 ---
 date: '2023-11-20'
 published_time: 2023-11-20 13:35:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/20/statement-from-president-joe-biden-on-the-ratification-of-the-uaws-historic-agreements-with-the-big-three-automakers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/20/statement-from-president-joe-biden-on-the-ratification-of-the-uaws-historic-agreements-with-the-big-three-automakers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Ratification of the UAW\u2019s\
   \ Historic Agreements with the Big Three\_Automakers"

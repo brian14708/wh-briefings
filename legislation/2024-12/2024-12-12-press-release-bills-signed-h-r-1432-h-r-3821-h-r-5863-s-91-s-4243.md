@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-12 17:25:00-05:00
 published_time: 2024-12-12 17:24:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/12/12/press-release-bills-signed-h-r-1432-h-r-3821-h-r-5863-s-91-s-4243/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/12/12/press-release-bills-signed-h-r-1432-h-r-3821-h-r-5863-s-91-s-4243/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 1432, H.R. 3821, H.R. 5863, S. 91, S.\_\
   4243"

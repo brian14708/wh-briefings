@@ -2,7 +2,7 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 20:57:33-04:00
 published_time: 2023-10-20 20:56:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/readout-of-white-house-meeting-with-long-term-care-leadershippartners-and-experts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/readout-of-white-house-meeting-with-long-term-care-leadershippartners-and-experts/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Long-Term Care Leadership, Partners and\_\
   Experts"

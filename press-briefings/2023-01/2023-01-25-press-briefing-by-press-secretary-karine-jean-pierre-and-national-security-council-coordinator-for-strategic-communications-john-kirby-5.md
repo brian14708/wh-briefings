@@ -2,7 +2,7 @@
 date: '2023-01-25'
 modified_time: 2023-01-25 17:39:23-05:00
 published_time: 2023-01-25 17:39:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/25/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/25/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-5/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Council Coordinator for Strategic Communications John\_Kirby"

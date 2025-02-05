@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 17:56:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-vice-president-harris-at-swearing-in-ceremony-of-commissioners-for-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-by-vice-president-harris-at-swearing-in-ceremony-of-commissioners-for-the-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Swearing-In Ceremony of Commissioners\
   \ for the White\_House Initiative on Advancing Educational Equity, Excellence, and\

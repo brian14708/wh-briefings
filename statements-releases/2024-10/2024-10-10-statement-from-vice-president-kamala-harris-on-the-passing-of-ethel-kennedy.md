@@ -1,7 +1,7 @@
 ---
 date: '2024-10-10'
 published_time: 2024-10-10 22:32:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/statement-from-vice-president-kamala-harris-on-the-passing-of-ethel-kennedy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/statement-from-vice-president-kamala-harris-on-the-passing-of-ethel-kennedy/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Ethel\_Kennedy"
 ---

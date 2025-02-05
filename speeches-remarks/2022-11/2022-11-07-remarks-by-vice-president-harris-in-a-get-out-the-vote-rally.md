@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-08 11:12:37-05:00
 published_time: 2022-11-07 23:12:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-vice-president-harris-in-a-get-out-the-vote-rally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-vice-president-harris-in-a-get-out-the-vote-rally/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Get Out the Vote\_Rally"
 ---

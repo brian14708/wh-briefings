@@ -2,7 +2,7 @@
 date: '2022-10-26'
 modified_time: 2022-10-29 17:32:31-04:00
 published_time: 2022-10-26 10:53:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/
 tags: blog
 title: "The President\u2019s Initiative on Junk Fees and Related Pricing\_Practices"
 ---
@@ -14,7 +14,7 @@ By: Brian Deese, Neale Mahoney, Tim Wu
 
 Last month, at a meeting of the White House Competition Council,
 President Biden [called
-on](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-president-biden-at-the-third-meeting-of-the-white-house-competition-council/)
+on](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/26/remarks-by-president-biden-at-the-third-meeting-of-the-white-house-competition-council/)
 all agencies to reduce or eliminate hidden fees, charges, and add-ons
 for everything from banking services to cable and internet bills to
 airline and concert tickets.  

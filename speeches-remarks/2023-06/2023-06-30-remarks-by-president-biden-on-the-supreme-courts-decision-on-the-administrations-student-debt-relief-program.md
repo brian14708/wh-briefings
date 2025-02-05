@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 17:37:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/30/remarks-by-president-biden-on-the-supreme-courts-decision-on-the-administrations-student-debt-relief-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/30/remarks-by-president-biden-on-the-supreme-courts-decision-on-the-administrations-student-debt-relief-program/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Supreme Court\u2019s Decision on the Administration\u2019\
   s Student Debt Relief\_Program"

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-30'
 published_time: 2022-06-30 17:40:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-the-swearing-in-of-supreme-court-justice-ketanji-brown-jackson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-the-swearing-in-of-supreme-court-justice-ketanji-brown-jackson/
 tags: statements-releases
 title: "Statement by President\_Biden on the Swearing in of Supreme Court Justice\
   \ Ketanji Brown\_Jackson"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-27'
 published_time: 2023-02-27 20:26:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/readout-of-white-house-meeting-with-black-speakers-of-the-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/readout-of-white-house-meeting-with-black-speakers-of-the-house/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Black Speakers of the\_House"
 ---

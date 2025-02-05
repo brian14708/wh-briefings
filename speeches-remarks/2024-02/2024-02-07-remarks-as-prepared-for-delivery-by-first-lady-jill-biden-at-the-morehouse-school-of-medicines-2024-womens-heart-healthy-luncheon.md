@@ -2,7 +2,7 @@
 date: '2024-02-07'
 modified_time: 2024-02-07 14:01:40-05:00
 published_time: 2024-02-07 14:01:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-morehouse-school-of-medicines-2024-womens-heart-healthy-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/07/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-morehouse-school-of-medicines-2024-womens-heart-healthy-luncheon/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Morehouse\
   \ School of Medicine\u2019s 2024 Women\u2019s Heart Healthy\_Luncheon"

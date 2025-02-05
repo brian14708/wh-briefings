@@ -2,7 +2,7 @@
 date: '2023-03-28'
 modified_time: 2023-03-31 10:46:39-04:00
 published_time: 2023-03-28 19:25:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/
 tags: statements-releases
 title: "The Status of Women is the Status of Democracy: Advancing Women\u2019s Political\
   \ and Civic Participation and Leadership at the Second Summit for\_Democracy"
@@ -37,7 +37,7 @@ intervening Year of Action.
 **Accelerating Women’s and Girls’ Civic and Political Leadership under
 the Presidential Initiative for Democratic Renewal.** At the first
 Summit, President Biden established the [Presidential
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
 for Democratic Renewal, a landmark set of policy and foreign assistance
 initiatives that increase the Administration’s ongoing work to bolster
 democracy and defend human rights globally. Today, we are building on
@@ -207,12 +207,12 @@ include:
     -   *Building a blueprint for action to prevent and address
         technology-facilitated gender-based violence.* To tackle this
         scourge in the U.S, President Biden
-        [established](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+        [established](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
         a Task Force with a mandate to identify concrete actions in a
         Blueprint to prevent online harassment and abuse, provide
         support for survivors, increase accountability, and expand
         research. Last month, the White House published an [Executive
-        Summary](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+        Summary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/executive-summary-initial-blueprint-for-the-white-house-task-force-to-address-online-harassment-and-abuse/)
         of the initial Task Force blueprint, which includes a broad
         range of new and expanded commitments from Federal agencies to
         address technology-facilitated gender-based violence across four
@@ -221,7 +221,7 @@ include:
     -   *Integrating a gender lens in the National Cybersecurity
         Strategy*. Earlier this month, the Administration released the
         [National Cybersecurity
-        Strategy,](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/)
+        Strategy,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/)
         which integrates a gender lens across key priorities to secure
         cyberspace and our digital ecosystem, including the imperative
         of increasing the participation of women and LGBTQI+ persons in

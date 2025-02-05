@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 20:37:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/readout-of-white-house-meeting-with-iranian-human-rights-activists/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/readout-of-white-house-meeting-with-iranian-human-rights-activists/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Iranian Human Rights\_Activists"
 ---

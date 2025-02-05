@@ -2,7 +2,7 @@
 date: '2024-07-15'
 modified_time: 2024-07-16 08:32:20-04:00
 published_time: 2024-07-15 17:31:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/15/a-proclamation-on-national-atomic-veterans-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/15/a-proclamation-on-national-atomic-veterans-day-2024/
 tags: presidential-actions
 title: "A Proclamation on National Atomic Veterans Day,\_2024"
 ---

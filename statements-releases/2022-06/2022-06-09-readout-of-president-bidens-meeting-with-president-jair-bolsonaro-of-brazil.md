@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 22:38:20-04:00
 published_time: 2022-06-09 22:38:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/readout-of-president-bidens-meeting-with-president-jair-bolsonaro-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/readout-of-president-bidens-meeting-with-president-jair-bolsonaro-of-brazil/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Jair Bolsonaro of\_\
   Brazil"

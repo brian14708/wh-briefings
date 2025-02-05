@@ -2,7 +2,7 @@
 date: '2023-02-24'
 modified_time: 2023-02-26 17:08:16-05:00
 published_time: 2023-02-24 23:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/24/icymi-defense-secretaries-panetta-and-hagel-debt-ceiling-brinksmanship-weakens-us-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/24/icymi-defense-secretaries-panetta-and-hagel-debt-ceiling-brinksmanship-weakens-us-national-security/
 tags: statements-releases
 title: "ICYMI:  Defense Secretaries Panetta and Hagel: \u201CDebt-ceiling brinksmanship\
   \ weakens US national\_security\u201D"

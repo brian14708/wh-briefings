@@ -2,7 +2,7 @@
 date: '2023-02-10'
 modified_time: 2023-02-14 14:19:04-05:00
 published_time: 2023-02-10 12:36:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-resources-for-asian-american-native-hawaiian-and-pacific-islander-communities-in-the-aftermath-of-mass-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-resources-for-asian-american-native-hawaiian-and-pacific-islander-communities-in-the-aftermath-of-mass-violence/
 tags: statements-releases
 title: "FACT SHEET:\_Resources for Asian American, Native Hawaiian, and Pacific Islander\
   \ Communities in the Aftermath of Mass\_Violence"

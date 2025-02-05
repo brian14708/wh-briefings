@@ -2,7 +2,7 @@
 date: '2022-10-26'
 modified_time: 2022-10-26 15:17:52-04:00
 published_time: 2022-10-26 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/26/president-biden-announces-key-appointments-to-the-board-of-trustees-of-the-john-f-kennedy-center-for-the-performing-arts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/26/president-biden-announces-key-appointments-to-the-board-of-trustees-of-the-john-f-kennedy-center-for-the-performing-arts/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to the Board of Trustees of the\
   \ John F. Kennedy Center for the Performing\_Arts"

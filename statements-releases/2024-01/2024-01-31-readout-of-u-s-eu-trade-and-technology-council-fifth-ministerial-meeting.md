@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 07:54:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/readout-of-u-s-eu-trade-and-technology-council-fifth-ministerial-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/readout-of-u-s-eu-trade-and-technology-council-fifth-ministerial-meeting/
 tags: statements-releases
 title: "Readout of U.S.-EU Trade and Technology Council Fifth Ministerial\_Meeting"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 18:19:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/26/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-designation-of-funding-as-emergency-requirements-in-accordance-with-section-114b-of-the-continuing-appropriations-and-extensions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/26/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-designation-of-funding-as-emergency-requirements-in-accordance-with-section-114b-of-the-continuing-appropriations-and-extensions/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Designation\
   \ of Funding as Emergency Requirements in Accordance with Section 114(b) of the\

@@ -1,7 +1,7 @@
 ---
 date: '2023-08-16'
 published_time: 2023-08-16 19:16:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/16/press-briefing-by-press-secretary-karine-jean-pierre-fema-administrator-criswell-senior-advisor-for-clean-energy-innovation-podesta-and-domestic-policy-advisor-tanden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/16/press-briefing-by-press-secretary-karine-jean-pierre-fema-administrator-criswell-senior-advisor-for-clean-energy-innovation-podesta-and-domestic-policy-advisor-tanden/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, FEMA Administrator Criswell,\
   \ Senior Advisor for Clean Energy Innovation Podesta, and Domestic Policy Advisor\_\

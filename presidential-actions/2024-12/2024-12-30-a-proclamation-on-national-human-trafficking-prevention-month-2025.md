@@ -2,7 +2,7 @@
 date: '2024-12-30'
 modified_time: 2024-12-30 18:24:43-05:00
 published_time: 2024-12-30 18:24:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/30/a-proclamation-on-national-human-trafficking-prevention-month-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/30/a-proclamation-on-national-human-trafficking-prevention-month-2025/
 tags: presidential-actions
 title: "A Proclamation on National Human Trafficking Prevention Month,\_2025"
 ---

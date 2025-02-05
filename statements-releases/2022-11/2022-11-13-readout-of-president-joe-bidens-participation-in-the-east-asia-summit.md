@@ -1,7 +1,7 @@
 ---
 date: '2022-11-13'
 published_time: 2022-11-13 02:33:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-participation-in-the-east-asia-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/13/readout-of-president-joe-bidens-participation-in-the-east-asia-summit/
 tags: statements-releases
 title: "Readout of President\_Joe\_Biden\u2019s Participation in the East Asia\_Summit"
 ---

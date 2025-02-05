@@ -2,7 +2,7 @@
 date: '2025-01-13'
 modified_time: 2025-01-13 15:57:39-05:00
 published_time: 2025-01-13 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/statement-from-president-biden-announcing-the-names-of-cvn-82-and-cvn-83/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/13/statement-from-president-biden-announcing-the-names-of-cvn-82-and-cvn-83/
 tags: statements-releases
 title: "Statement from President\_Biden Announcing the Names of CVN 82 and CVN\_83"
 ---

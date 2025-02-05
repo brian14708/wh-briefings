@@ -2,7 +2,7 @@
 date: '2023-12-12'
 modified_time: 2023-12-12 17:51:24-05:00
 published_time: 2023-12-12 17:51:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/statement-from-president-joe-biden-on-continued-denials-of-abortion-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/12/statement-from-president-joe-biden-on-continued-denials-of-abortion-care/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Continued Denials of Abortion\_Care"
 ---

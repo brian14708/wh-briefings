@@ -1,7 +1,7 @@
 ---
 date: '2023-03-23'
 published_time: 2023-03-23 21:29:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/23/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-ottawa-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/23/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-ottawa-canada/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Ottawa,\_Canada"
 ---

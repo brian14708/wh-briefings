@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-12-10'
 modified_time: 2021-12-10 20:40:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/10/remarks-by-vice-president-harris-on-the-supreme-court-ruling-on-texas-law-s-b-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/10/remarks-by-vice-president-harris-on-the-supreme-court-ruling-on-texas-law-s-b-8/
 published_time: 2021-12-10 20:40:53-05:00
 title: "Remarks by Vice President Harris on the Supreme Court Ruling on Texas Law\
   \ S.B.\_8"

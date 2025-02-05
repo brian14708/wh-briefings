@@ -1,7 +1,7 @@
 ---
 date: '2023-04-03'
 published_time: 2023-04-03 16:11:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/03/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-fridley-mn/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/03/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-fridley-mn/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Fridley,\_\
   MN"

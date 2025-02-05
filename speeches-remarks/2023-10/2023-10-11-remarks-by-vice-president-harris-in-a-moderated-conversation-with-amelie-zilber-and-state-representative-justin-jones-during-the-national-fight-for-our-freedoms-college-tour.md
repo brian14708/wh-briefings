@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-12 10:49:41-04:00
 published_time: 2023-10-11 22:43:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-vice-president-harris-in-a-moderated-conversation-with-amelie-zilber-and-state-representative-justin-jones-during-the-national-fight-for-our-freedoms-college-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/11/remarks-by-vice-president-harris-in-a-moderated-conversation-with-amelie-zilber-and-state-representative-justin-jones-during-the-national-fight-for-our-freedoms-college-tour/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Amelie Zilber\
   \ and State Representative Justin Jones During the National \u201CFight for Our\

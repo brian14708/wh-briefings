@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-22 06:50:03-04:00
 published_time: 2022-05-21 21:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/21/background-press-call-by-a-senior-administration-official-previewing-president-bidens-third-day-in-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/21/background-press-call-by-a-senior-administration-official-previewing-president-bidens-third-day-in-the-republic-of-korea/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official Previewing President\_\
   Biden\u2019s Third Day in the Republic of\_Korea"

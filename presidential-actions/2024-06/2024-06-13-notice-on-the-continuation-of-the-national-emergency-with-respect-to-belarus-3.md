@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 13:27:05-04:00
 published_time: 2024-06-13 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-belarus-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-belarus-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to\_Belarus"
 ---

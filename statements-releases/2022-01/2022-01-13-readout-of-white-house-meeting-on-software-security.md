@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-01-13'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/13/readout-of-white-house-meeting-on-software-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/13/readout-of-white-house-meeting-on-software-security/
 published_time: 2022-01-13 22:51:44-05:00
 title: "Readout of White\_House Meeting on Software\_Security"
 ---
@@ -33,7 +33,7 @@ prioritize the most important open source projects and put in place
 sustainable mechanisms to maintain them. In the final category,
 participants discussed ways to accelerate and improve the use of
 Software Bills of Material, as required in the [President’s Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/),
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/),
 to make it easier to know what is in the software we purchase and use.
 All participants – private sector and government – will continue
 discussions to support these initiatives in the coming weeks, which are

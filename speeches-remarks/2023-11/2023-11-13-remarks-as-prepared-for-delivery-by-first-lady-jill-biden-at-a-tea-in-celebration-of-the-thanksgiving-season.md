@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-13 17:46:32-05:00
 published_time: 2023-11-13 17:46:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-tea-in-celebration-of-the-thanksgiving-season/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-tea-in-celebration-of-the-thanksgiving-season/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Tea in Celebration\
   \ of the Thanksgiving\_Season"

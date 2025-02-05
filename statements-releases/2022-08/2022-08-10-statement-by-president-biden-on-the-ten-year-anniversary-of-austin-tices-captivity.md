@@ -2,7 +2,7 @@
 date: '2022-08-10'
 modified_time: 2022-08-10 08:32:42-04:00
 published_time: 2022-08-10 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/statement-by-president-biden-on-the-ten-year-anniversary-of-austin-tices-captivity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/statement-by-president-biden-on-the-ten-year-anniversary-of-austin-tices-captivity/
 tags: statements-releases
 title: "Statement by President\_Biden on the Ten-Year Anniversary of Austin Tice\u2019\
   s\_Captivity"

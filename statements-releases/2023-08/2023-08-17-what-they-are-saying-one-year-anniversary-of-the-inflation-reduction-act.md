@@ -2,7 +2,7 @@
 date: '2023-08-17'
 modified_time: 2023-08-21 11:00:22-04:00
 published_time: 2023-08-17 17:43:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/17/what-they-are-saying-one-year-anniversary-of-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/17/what-they-are-saying-one-year-anniversary-of-the-inflation-reduction-act/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: One Year Anniversary of the Inflation Reduction\_Act"
 ---

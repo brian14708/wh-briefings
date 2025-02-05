@@ -2,7 +2,7 @@
 date: '2023-08-10'
 modified_time: 2023-08-09 23:34:06-04:00
 published_time: 2023-08-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/10/fact-sheet-in-first-year-president-bidens-bipartisan-pact-act-delivers-care-for-veterans-in-all-50-states-and-u-s-territories-and-advances-unity-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/10/fact-sheet-in-first-year-president-bidens-bipartisan-pact-act-delivers-care-for-veterans-in-all-50-states-and-u-s-territories-and-advances-unity-agenda/
 tags: statements-releases
 title: "FACT SHEET: In First Year, President\_Biden\u2019s Bipartisan PACT Act Delivers\
   \ Care for Veterans in all 50 States and U.S. Territories and Advances Unity\_Agenda"
@@ -44,7 +44,7 @@ Today, the Biden-Harris administration will also release new national
 and state-by-state data on PACT Act claims, which have been processed at
 record rates by the Department of Veterans Affairs (VA). **In the past
 year, the Administration has helped veterans in [every state and
-territory](https://www.whitehouse.gov/wp-content/uploads/2023/08/PACT-Act-Geographic-Table-8.8-sk-003.pdf) receive
+territory](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/PACT-Act-Geographic-Table-8.8-sk-003.pdf) receive
 the services and care they deserve by:**
 
 -   **Screening veterans for toxic exposures:** More than 4.1 million
@@ -111,7 +111,7 @@ veterans**
 -   **Investing in mental health & suicide prevention efforts.** Since
     releasing a comprehensive public health strategy for [reducing
     military and
-    veteran](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
+    veteran](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
     the Biden-Harris Administration has continued to improve mental
     health care and suicide prevention efforts for veterans. VA is doing
     everything it can, including expanding mental health screenings,
@@ -137,7 +137,7 @@ veterans**
      
 -   **Supporting veterans and caregivers.** This spring, President Biden
     signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) directing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) directing
     the VA to cut red tape and give veterans who need assistance at home
     more flexibility to pick their own caregivers. The order also
     directed expansion of caregiver support programs, including
@@ -145,7 +145,7 @@ veterans**
     caregivers. And, earlier this summer, President Biden went to North
     Carolina and signed an Executive Order at Fort Liberty.
     The [Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/) calls
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/09/fact-sheet-biden-harris-administration-announces-sweeping-executive-actions-to-strengthen-economic-opportunity-for-military-and-veteran-spouses-caregivers-and-survivors/) calls
     for the most comprehensive set of administrative actions in our
     nation’s history to support the economic security of military and
     veteran spouses, caregivers, and survivors.
@@ -155,6 +155,6 @@ go to your local VA hospital to see if you are eligible for PACT Act
 benefits and services.  
   
 For a state-by-state breakdown of PACT Act data,
-click [here](https://www.whitehouse.gov/wp-content/uploads/2023/08/PACT-Act-Geographic-Table-8.8-sk-003.pdf).
+click [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/PACT-Act-Geographic-Table-8.8-sk-003.pdf).
 
 \###

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 22:28:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/24/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/24/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-7/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Kansas Disaster\_Declaration"
 ---

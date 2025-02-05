@@ -2,7 +2,7 @@
 date: '2024-08-31'
 modified_time: 2024-09-03 10:01:58-04:00
 published_time: 2024-08-31 18:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/31/remarks-by-president-biden-in-press-gaggle-rehoboth-beach-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/31/remarks-by-president-biden-in-press-gaggle-rehoboth-beach-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press Gaggle | Rehoboth Beach,\_DE"
 ---

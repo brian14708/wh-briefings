@@ -2,7 +2,7 @@
 date: '2022-08-04'
 modified_time: 2022-08-04 11:27:22-04:00
 published_time: 2022-08-04 11:27:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/04/statement-by-president-joe-biden-on-the-sentencing-of-wrongfully-detained-american-brittney-griner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/04/statement-by-president-joe-biden-on-the-sentencing-of-wrongfully-detained-american-brittney-griner/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Sentencing of Wrongfully Detained\
   \ American Brittney\_Griner"

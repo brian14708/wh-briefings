@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-10 18:14:21-04:00
 published_time: 2024-07-09 18:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/09/statement-from-national-climate-advisor-ali-zaidi-on-the-signing-of-the-accelerating-deployment-of-versatile-advanced-nuclear-for-clean-energy-advance-act-into-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/09/statement-from-national-climate-advisor-ali-zaidi-on-the-signing-of-the-accelerating-deployment-of-versatile-advanced-nuclear-for-clean-energy-advance-act-into-law/
 tags: statements-releases
 title: "Statement From National Climate Advisor Ali Zaidi on the Signing of the Accelerating\
   \ Deployment of Versatile, Advanced Nuclear for Clean Energy (ADVANCE) Act into\_\
@@ -28,7 +28,7 @@ Act builds on the historic track record that the Biden-Harris
 Administration has already established, delivering results and taking
 action to deploy of carbon-free energy to meet the needs of a growing
 economy propelled by President’s [Investing in America
-agenda](https://www.whitehouse.gov/invest).
+agenda](https://bidenwhitehouse.archives.gov/invest).
 
 “The law better equips the Nuclear Regulatory Commission to license new
 reactor designs by giving the agency more resources to hire and retain

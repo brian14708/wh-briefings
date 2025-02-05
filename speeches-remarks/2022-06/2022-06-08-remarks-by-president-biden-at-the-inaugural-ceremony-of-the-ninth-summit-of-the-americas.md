@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 22:56:10-04:00
 published_time: 2022-06-08 23:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/08/remarks-by-president-biden-at-the-inaugural-ceremony-of-the-ninth-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/08/remarks-by-president-biden-at-the-inaugural-ceremony-of-the-ninth-summit-of-the-americas/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Inaugural Ceremony of the Ninth Summit\
   \ of the\_Americas"

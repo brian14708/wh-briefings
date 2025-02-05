@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 14:18:13-04:00
 published_time: 2023-09-06 09:57:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/readout-of-bilateral-meeting-between-the-vice-president-kamala-harris-of-the-united-states-and-president-ferdinand-marcos-jr-of-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/readout-of-bilateral-meeting-between-the-vice-president-kamala-harris-of-the-united-states-and-president-ferdinand-marcos-jr-of-the-philippines/
 tags: statements-releases
 title: "Readout of Bilateral Meeting Between the Vice President Kamala\_Harris of\
   \ the United\_States and President Ferdinand Marcos Jr. of the\_Philippines"

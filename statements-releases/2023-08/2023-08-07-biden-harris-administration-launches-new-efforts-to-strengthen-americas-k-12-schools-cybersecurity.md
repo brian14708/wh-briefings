@@ -2,7 +2,7 @@
 date: '2023-08-07'
 modified_time: 2023-08-06 19:44:44-04:00
 published_time: 2023-08-07 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/07/biden-harris-administration-launches-new-efforts-to-strengthen-americas-k-12-schools-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/07/biden-harris-administration-launches-new-efforts-to-strengthen-americas-k-12-schools-cybersecurity/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Launches New Efforts to Strengthen America\u2019\
   s K-12 Schools\u2019 Cybersecurity"
@@ -44,9 +44,9 @@ months.  Further, the monetary losses to school districts following a
 cyber incident ranged from $50,000 to $1 million. That is why the
 Biden-Harris Administration has [had a relentless focus on securing our
 nation’s critical
-infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
+infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 since day one, and continues to work tirelessly to [provide
-resources](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/quad-joint-statement-on-cooperation-to-promote-responsible-cyber-habits/)
+resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/quad-joint-statement-on-cooperation-to-promote-responsible-cyber-habits/)
 that enable the U.S.’s more than 13,000 school districts to better
 protect and defend their students and employees against cyberattacks.  
   
@@ -131,7 +131,7 @@ the best position to secure their networks to keep their students,
 educators, and employees safe. This is the latest example of President
 Biden’s commitment to ease the everyday concerns facing Americans – from
 [strengthening confidence in the safety of the devices brought into
-homes](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/)
+homes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/)
 and classrooms to securing the cyber infrastructure of our nation’s
 schools. 
 

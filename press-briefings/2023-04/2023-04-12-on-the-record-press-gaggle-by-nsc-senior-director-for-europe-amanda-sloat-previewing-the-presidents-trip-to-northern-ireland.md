@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 09:34:08-04:00
 published_time: 2023-04-12 09:14:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/12/on-the-record-press-gaggle-by-nsc-senior-director-for-europe-amanda-sloat-previewing-the-presidents-trip-to-northern-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/12/on-the-record-press-gaggle-by-nsc-senior-director-for-europe-amanda-sloat-previewing-the-presidents-trip-to-northern-ireland/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by NSC Senior Director for Europe Amanda Sloat\
   \ Previewing the President\u2019s Trip to Northern\_Ireland"

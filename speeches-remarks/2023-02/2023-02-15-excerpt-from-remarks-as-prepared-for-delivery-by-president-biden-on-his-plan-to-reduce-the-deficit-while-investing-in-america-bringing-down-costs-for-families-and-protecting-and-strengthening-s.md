@@ -1,7 +1,7 @@
 ---
 date: '2023-02-15'
 published_time: 2023-02-15 10:00:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/15/excerpt-from-remarks-as-prepared-for-delivery-by-president-biden-on-his-plan-to-reduce-the-deficit-while-investing-in-america-bringing-down-costs-for-families-and-protecting-and-strengthening-s/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/15/excerpt-from-remarks-as-prepared-for-delivery-by-president-biden-on-his-plan-to-reduce-the-deficit-while-investing-in-america-bringing-down-costs-for-families-and-protecting-and-strengthening-s/
 tags: speeches-remarks
 title: "Excerpt from Remarks as Prepared for Delivery by President\_Biden on\_His\
   \ Plan to Reduce the Deficit While Investing in America, Bringing Down Costs for\

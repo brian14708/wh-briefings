@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 20:49:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/fact-sheet-the-biden-harris-administrations-work-to-support-black-disabled-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/fact-sheet-the-biden-harris-administrations-work-to-support-black-disabled-americans/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Work to Support Black\
   \ Disabled\_Americans"

@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-11-18'
 modified_time: 2021-11-18 08:33:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/18/background-press-call-by-senior-administration-officials-previewing-the-north-american-leaders-summit-nals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/11/18/background-press-call-by-senior-administration-officials-previewing-the-north-american-leaders-summit-nals/
 published_time: 2021-11-18 08:33:35-05:00
 title: "Background Press Call by Senior Administration Officials Previewing the North\
   \ American Leaders\u2019 Summit\_(NALS)"

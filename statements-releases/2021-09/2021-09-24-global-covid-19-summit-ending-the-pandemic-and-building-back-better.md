@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-24'
 modified_time: 2021-09-26 12:58:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/global-covid-19-summit-ending-the-pandemic-and-building-back-better/
 published_time: 2021-09-24 15:20:00-04:00
 title: "Global COVID-\u206019 Summit: Ending the Pandemic and Building Back\_Better"
 ---
@@ -71,11 +71,11 @@ oxygen, testing, health systems, and health security financing.
 
 A list of new commitments announced by the United States at or around
 the Summit can be found in this [Fact
-Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/).
+Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/).
 
 A link to the common targets released by the United States during the
 Summit for tracking and accountability can be found
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-targets-for-global-covid-19-summit/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-targets-for-global-covid-19-summit/).
 
 **\###**
 
@@ -626,7 +626,7 @@ most effective ways to deliver and build capacity to administer.  He
 asked countries to stand by existing pledges and make more generous ones
 and gave support to the EU plan to develop regional manufacturing hubs
 in Africa, and the U.S.-EU global vaccination
-[partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/)
+[partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/)
 that launched this week. Finally, he committed that the G20 Summit will
 build on the outcomes from today’s summit.
 

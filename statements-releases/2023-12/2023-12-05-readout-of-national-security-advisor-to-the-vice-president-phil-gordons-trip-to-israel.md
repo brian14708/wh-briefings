@@ -2,7 +2,7 @@
 date: '2023-12-05'
 modified_time: 2023-12-05 17:59:59-05:00
 published_time: 2023-12-05 19:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-trip-to-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-trip-to-israel/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Trip to\_Israel"

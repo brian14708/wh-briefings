@@ -2,7 +2,7 @@
 date: '2025-01-02'
 modified_time: 2025-01-02 18:44:15-05:00
 published_time: 2025-01-02 18:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/02/remarks-by-president-biden-on-securing-235-judicial-confirmations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/02/remarks-by-president-biden-on-securing-235-judicial-confirmations/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Securing 235 Judicial Confirmations"
 ---

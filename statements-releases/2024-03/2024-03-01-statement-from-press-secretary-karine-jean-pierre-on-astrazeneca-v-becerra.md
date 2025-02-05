@@ -2,7 +2,7 @@
 date: '2024-03-01'
 modified_time: 2024-03-01 18:42:55-05:00
 published_time: 2024-03-01 18:40:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/statement-from-press-secretary-karine-jean-pierre-on-astrazeneca-v-becerra/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/statement-from-press-secretary-karine-jean-pierre-on-astrazeneca-v-becerra/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on AstraZeneca v.\_Becerra"
 ---

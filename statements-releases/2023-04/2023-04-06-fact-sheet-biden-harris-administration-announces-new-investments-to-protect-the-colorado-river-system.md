@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-06 15:47:19-04:00
 published_time: 2023-04-06 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/fact-sheet-biden-harris-administration-announces-new-investments-to-protect-the-colorado-river-system/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Investments to\
   \ Protect the Colorado River\_System"

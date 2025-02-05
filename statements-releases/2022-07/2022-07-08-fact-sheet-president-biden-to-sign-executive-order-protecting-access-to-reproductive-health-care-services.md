@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 00:49:47-04:00
 published_time: 2022-07-08 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/08/fact-sheet-president-biden-to-sign-executive-order-protecting-access-to-reproductive-health-care-services/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Sign Executive Order Protecting Access to\
   \ Reproductive Health Care\_Services"
@@ -167,7 +167,7 @@ Administration has taken the following steps to protect access to
 reproductive health care and defend reproductive rights in the wake of
 the Supreme Court decision in *Dobbs*.  On the day of the decision, [the
 President strongly denounced the
-decision](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/)
+decision](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/)
 as an affront to women’s fundamental rights and the right to choose In
 addition to action mentioned above, the Biden-Harris Administration is:
 

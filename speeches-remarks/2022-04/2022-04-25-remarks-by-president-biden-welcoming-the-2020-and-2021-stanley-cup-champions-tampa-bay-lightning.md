@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 16:32:17-04:00
 published_time: 2022-04-25 16:32:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/25/remarks-by-president-biden-welcoming-the-2020-and-2021-stanley-cup-champions-tampa-bay-lightning/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/25/remarks-by-president-biden-welcoming-the-2020-and-2021-stanley-cup-champions-tampa-bay-lightning/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Welcoming the 2020 and 2021 Stanley Cup Champions\
   \ Tampa Bay\_Lightning"

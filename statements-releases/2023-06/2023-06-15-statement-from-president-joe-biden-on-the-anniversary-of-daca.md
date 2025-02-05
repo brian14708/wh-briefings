@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 09:55:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-the-anniversary-of-daca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-the-anniversary-of-daca/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Anniversary of\_DACA"
 ---

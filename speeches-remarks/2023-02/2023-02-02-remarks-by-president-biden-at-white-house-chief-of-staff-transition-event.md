@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 08:51:53-05:00
 published_time: 2023-02-02 08:50:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/02/remarks-by-president-biden-at-white-house-chief-of-staff-transition-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/02/remarks-by-president-biden-at-white-house-chief-of-staff-transition-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at White\_House Chief of Staff Transition\_Event"
 ---

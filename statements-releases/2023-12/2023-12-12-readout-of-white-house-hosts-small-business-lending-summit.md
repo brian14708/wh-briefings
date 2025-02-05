@@ -1,7 +1,7 @@
 ---
 date: '2023-12-12'
 published_time: 2023-12-12 17:48:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/12/readout-of-white-house-hosts-small-business-lending-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/12/readout-of-white-house-hosts-small-business-lending-summit/
 tags: statements-releases
 title: "Readout of White\_House Hosts Small Business Lending\_Summit"
 ---
@@ -29,7 +29,7 @@ and other stakeholders about how to best meet the capital needs of small
 businesses, especially in underserved communities.  
   
 Last year, the SBA [provided $50 billion in
-capital](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/21/fact-sheet-ahead-of-small-business-saturday-biden-harris-administration-announces-latest-steps-to-support-small-businesses/)
+capital](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/21/fact-sheet-ahead-of-small-business-saturday-biden-harris-administration-announces-latest-steps-to-support-small-businesses/)
 to small businesses nationwide, partnering with lenders to provide a
 historic $34 billion in small business loans through their signature
 7(a) and 504 loan programs. These loans have helped promote inclusive

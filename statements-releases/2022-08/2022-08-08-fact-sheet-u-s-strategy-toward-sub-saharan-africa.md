@@ -2,13 +2,13 @@
 date: '2022-08-08'
 modified_time: 2022-08-08 17:00:53-04:00
 published_time: 2022-08-08 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/08/fact-sheet-u-s-strategy-toward-sub-saharan-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/08/fact-sheet-u-s-strategy-toward-sub-saharan-africa/
 tags: statements-releases
 title: "FACT SHEET: U.S. STRATEGY TOWARD SUB-SAHARAN\_AFRICA"
 ---
  
 *[Read the full strategy
-here](https://www.whitehouse.gov/wp-content/uploads/2022/08/U.S.-Strategy-Toward-Sub-Saharan-Africa-FINAL.pdf)*
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/U.S.-Strategy-Toward-Sub-Saharan-Africa-FINAL.pdf)*
 
 Sub-Saharan Africa plays a critical role in advancing global priorities
 to the benefit of Africans and Americans.   It has one of the world’s

@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 15:07:45-04:00
 published_time: 2023-04-12 13:52:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-in-meet-and-greet-with-embassy-families-and-firefighters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-in-meet-and-greet-with-embassy-families-and-firefighters/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meet-and-Greet with Embassy Families and\_\
   Firefighters"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-07'
 published_time: 2023-12-07 16:01:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/07/letter-to-the-speaker-of-the-house-of-representatives-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/07/letter-to-the-speaker-of-the-house-of-representatives-and-president-pro-tempore-of-the-senate-regarding-the-war-powers-report/
 tags: presidential-actions
 title: "Letter to the Speaker of the House of Representatives and President pro tempore\
   \ of the Senate regarding the War Powers\_Report"

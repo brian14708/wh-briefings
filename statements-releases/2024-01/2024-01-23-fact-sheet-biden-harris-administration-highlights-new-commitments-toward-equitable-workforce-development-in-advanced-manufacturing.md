@@ -1,7 +1,7 @@
 ---
 date: '2024-01-23'
 published_time: 2024-01-23 14:35:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights New Commitments Toward\
   \ Equitable Workforce Development in Advanced Manufacturing"
@@ -10,9 +10,9 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Highlights New Commitments
 Today, the Biden-Harris Administration will announce new commitments to
 workforce development from the Advanced Manufacturing Workforce Sprint.
 The Sprint, which First Lady Jill Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 in May and the Administration [kicked
-off](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%E2%81%A0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/)
+off](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%E2%81%A0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/)
 in October, is an intensive drive to build a diverse, skilled pipeline
 of workers for good advanced manufacturing jobs, including union jobs,
 many of which do not require a four-year college degree. This comes as
@@ -66,7 +66,7 @@ manufacturing jobs and careers:
     occupations created or under development during the course of its
     Advanced Manufacturing Registered Apprenticeship Accelerator Series.
     The effort was
-    [launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%e2%81%a0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/)
+    [launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%e2%81%a0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/)
     on October 6 to meet critical recruitment, retention, and training
     needs in advanced manufacturing occupations—including in the clean
     energy, semiconductor, aerospace, automotive, and biotechnology
@@ -222,7 +222,7 @@ manufacturing jobs and careers:
         districts, community colleges, and unions form partnerships to
         build students’ awareness of and access to good union
         careers—building on similar MOUs
-        [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
+        [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/08/fact-sheet-biden-%E2%81%A0harris-administration-holds-workforce-hub-convenings-in-augusta-and-pittsburgh-announces-commitments-to-expand-pathways-into-good-paying-jobs/)
         in the Augusta Workforce Hub. The template may include language
         for developing training partnerships such as pre-apprenticeship
         and Registered Apprenticeship programs; engaging education
@@ -235,7 +235,7 @@ manufacturing jobs and careers:
 <!-- -->
 
 -   The White House Workforce
-    Hubs—[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    Hubs—[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
     in five cities across the country that are seeing significant
     public- and private-sector investment—continue to lead the way on
     equitable workforce development, including for good advanced
@@ -243,7 +243,7 @@ manufacturing jobs and careers:
     -   **In Columbus,** **Columbus State Community College (CSCC)**
         launched its semiconductor technician certificate program
         developed with
-        Intel—[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/)
+        Intel—[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/)
         during First Lady Jill Biden’s visit to the Columbus Workforce
         Hub in July—which is part of a suite of engineering technology
         programs that CSCC plans to grow fourfold by 2030, enrolling
@@ -366,12 +366,12 @@ on the Administration’s prior workforce sprints, which have driven
 commitments to equitable workforce development and job quality
 improvement to address critical needs. These include efforts to expand
 Registered Apprenticeships
-in [trucking](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/) and [cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
+in [trucking](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/) and [cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
 and to build pathways into good jobs and careers in broadband,
 electrification, and construction through the [Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
 The Sprint also supports the goals of [the
-plan](https://www.whitehouse.gov/wp-content/uploads/2023/06/Building-the-Bioworkforce-of-the-Future.pdf) to
+plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Building-the-Bioworkforce-of-the-Future.pdf) to
 expand education and training opportunities to biotechnology and
 biomanufacturing released in July.
 

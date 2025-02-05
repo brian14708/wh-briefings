@@ -2,7 +2,7 @@
 date: '2024-10-20'
 modified_time: 2024-10-21 10:18:50-04:00
 published_time: 2024-10-20 21:12:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/20/fact-sheet-biden-harris-administration-announces-new-actions-to-support-north-carolinas-hurricane-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/20/fact-sheet-biden-harris-administration-announces-new-actions-to-support-north-carolinas-hurricane-recovery/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Support\
   \ North Carolina\u2019s Hurricane\_Recovery"
@@ -78,10 +78,10 @@ Additional actions the Administration is taking to protect public
 health, provide flexibilities to homeowners and taxpayers, support
 infrastructure recovery, and support workers, farmers, and students in
 North Carolina can be [found
-here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/).
+here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/).
 Additional actions President Biden directed before Helene’s landfall can
 be found
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/).
 
 Biden-Harris Administration’s Continuous Commitment to Being on the
 Ground

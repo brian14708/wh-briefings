@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-09 23:08:07-04:00
 published_time: 2022-05-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/10/the-biden-harris-inflation-plan-lowering-costs-and-lowering-the-deficit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/10/the-biden-harris-inflation-plan-lowering-costs-and-lowering-the-deficit/
 tags: statements-releases
 title: "The Biden-\u2060Harris Inflation Plan:\_Lowering Costs and Lowering the\_\
   Deficit"

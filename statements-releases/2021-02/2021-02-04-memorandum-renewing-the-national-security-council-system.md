@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-02-04'
 modified_time: 2021-02-05 11:56:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/04/memorandum-renewing-the-national-security-council-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/04/memorandum-renewing-the-national-security-council-system/
 published_time: 2021-02-04 20:22:38-05:00
 title: "Memorandum on Renewing the National Security Council\_System"
 ---

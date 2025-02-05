@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 08:45:17-04:00
 published_time: 2022-06-27 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/27/on-the-record-press-gaggle-by-national-security-advisor-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/27/on-the-record-press-gaggle-by-national-security-advisor-jake-sullivan/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by National Security Advisor Jake\_Sullivan"
 ---

@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-05 23:40:23-05:00
 published_time: 2025-01-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/fact-sheet-president-biden-protects-atlantic-and-pacific-coasts-from-offshore-oil-and-gas-drilling/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Protects Atlantic and Pacific Coasts from Offshore\
   \ Oil and Gas\_Drilling"
@@ -120,7 +120,7 @@ The Biden-Harris Administration’s climate and conservation record
 includes creating three new national marine sanctuaries and a new
 national estuarine research reserve, including the [Chumash Heritage
 National Marine
-Sanctuary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/)
+Sanctuary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-biden-harris-administration-advances-chumash-heritage-national-marine-sanctuary-reinforces-ocean-conservation-legacy/)
 off the coast of Central California; advancing
 [designations](https://sanctuaries.noaa.gov/management/designations.html)
 for four additional sanctuaries; safeguarding [Bristol Bay salmon
@@ -131,15 +131,15 @@ enough to power more than 6 million homes; investing [$2.6 billion in
 coastal
 communities](https://www.noaa.gov/news-releases/noaa-ira-framework-2023);
 and releasing the first-ever U. S. [Ocean Climate Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf).
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Ocean-Climate-Action-Plan_Final.pdf).
 
 With today’s withdrawals, President Biden has now conserved more than
 670 million acres of U.S. lands, waters, and ocean – more than any
 president in history. This includes establishing or expanding [ten
 national
-monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) and [restoring
+monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) and [restoring
 protections for three
-more](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
+more](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
 creating [six new national wildlife
 refuges](https://www.doi.gov/pressreleases/interior-department-establishes-everglades-gulf-conservation-area-conserve-habitat);
 protecting the [Boundary Waters of

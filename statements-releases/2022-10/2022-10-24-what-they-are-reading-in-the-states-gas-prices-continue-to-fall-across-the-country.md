@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 19:15:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/what-they-are-reading-in-the-states-gas-prices-continue-to-fall-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/what-they-are-reading-in-the-states-gas-prices-continue-to-fall-across-the-country/
 tags: statements-releases
 title: "What They Are Reading in the States:  Gas Prices Continue to Fall Across the\_\
   Country"

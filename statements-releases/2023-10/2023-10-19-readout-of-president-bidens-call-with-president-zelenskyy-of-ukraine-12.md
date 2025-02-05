@@ -1,7 +1,7 @@
 ---
 date: '2023-10-19'
 published_time: 2023-10-19 16:37:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-12/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/19/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-12/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

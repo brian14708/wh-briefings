@@ -1,7 +1,7 @@
 ---
 date: '2023-02-19'
 published_time: 2023-02-19 10:32:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/19/readout-of-vice-president-harriss-meeting-with-prime-minister-sunak-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/19/readout-of-vice-president-harriss-meeting-with-prime-minister-sunak-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Sunak\
   \ of the United Kingdom"

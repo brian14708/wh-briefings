@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 11:40:08-04:00
 published_time: 2022-07-16 11:40:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-between-president-biden-and-president-of-the-uae-sheikh-mohammed-bin-zayed-in-jeddah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/joint-statement-following-meeting-between-president-biden-and-president-of-the-uae-sheikh-mohammed-bin-zayed-in-jeddah/
 tags: statements-releases
 title: "Joint Statement Following Meeting Between President\_Biden and President of\
   \ the UAE Sheikh Mohammed bin Zayed in\_Jeddah"

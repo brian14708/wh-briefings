@@ -2,7 +2,7 @@
 date: '2024-04-19'
 modified_time: 2024-04-18 22:12:48-04:00
 published_time: 2024-04-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/19/statement-from-president-joe-biden-on-protecting-alaskas-arctic-lands-waters-and-wildlife/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/19/statement-from-president-joe-biden-on-protecting-alaskas-arctic-lands-waters-and-wildlife/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Protecting Alaska\u2019s Arctic Lands,\
   \ Waters, and\_Wildlife"

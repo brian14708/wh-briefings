@@ -2,7 +2,7 @@
 date: '2024-09-10'
 modified_time: 2024-09-10 09:55:14-04:00
 published_time: 2024-09-10 09:55:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/10/patriot-day-and-national-day-of-service-and-remembrance-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/10/patriot-day-and-national-day-of-service-and-remembrance-2024/
 tags: presidential-actions
 title: "Patriot Day and National Day of Service and Remembrance,\_2024"
 ---

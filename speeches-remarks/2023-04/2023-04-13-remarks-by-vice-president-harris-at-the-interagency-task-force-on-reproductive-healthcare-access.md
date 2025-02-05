@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 09:20:30-04:00
 published_time: 2023-04-13 09:20:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-vice-president-harris-at-the-interagency-task-force-on-reproductive-healthcare-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/13/remarks-by-vice-president-harris-at-the-interagency-task-force-on-reproductive-healthcare-access/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Interagency Task Force on Reproductive\
   \ Healthcare\_Access"

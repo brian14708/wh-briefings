@@ -2,7 +2,7 @@
 date: '2023-06-26'
 modified_time: 2023-06-26 11:22:13-04:00
 published_time: 2023-06-26 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-historic-support-for-tribal-small-businesses-as-part-of-president-bidens-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-historic-support-for-tribal-small-businesses-as-part-of-president-bidens-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Historic Support for\
   \ Tribal Small Businesses as Part of President\_Biden\u2019s Investing in America\_\
@@ -96,7 +96,7 @@ For a full list of approved SSBCI awards to Tribes, click
 
 **Today’s announcement builds upon the Biden-Harris
 Administration’s **[**historic
-support**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/30/fact-sheet-biden-harris-administration-announces-new-actions-to-support-indian-country-and-native-communities-ahead-of-the-administrations-second-tribal-nations-summit/)
+support**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/30/fact-sheet-biden-harris-administration-announces-new-actions-to-support-indian-country-and-native-communities-ahead-of-the-administrations-second-tribal-nations-summit/)
 **for recovery, expanded economic opportunity, and better access to
 capital for Native people and Tribal communities, including:**
 

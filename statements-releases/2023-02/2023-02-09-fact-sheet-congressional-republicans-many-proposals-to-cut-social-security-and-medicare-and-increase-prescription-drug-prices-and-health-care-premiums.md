@@ -2,7 +2,7 @@
 date: '2023-02-09'
 modified_time: 2023-02-08 22:26:26-05:00
 published_time: 2023-02-09 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/09/fact-sheet-congressional-republicans-many-proposals-to-cut-social-security-and-medicare-and-increase-prescription-drug-prices-and-health-care-premiums/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/09/fact-sheet-congressional-republicans-many-proposals-to-cut-social-security-and-medicare-and-increase-prescription-drug-prices-and-health-care-premiums/
 tags: statements-releases
 title: "FACT SHEET: Congressional Republicans\u2019 Many Proposals to Cut Social Security\
   \ and Medicare, and Increase Prescription Drug Prices and Health Care\_Premiums"
@@ -45,7 +45,7 @@ Social Security:**
     [declared](https://www.bloomberg.com/news/articles/2022-11-29/gop-s-thune-sees-debt-ceiling-hike-as-vehicle-for-budget-cuts)
     that Social Security and Medicare benefits should be slashed.
 -   Florida Senator Rick Scott is championing [a
-    plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
+    plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
     to put Medicare, Medicaid, and Social Security on the chopping block
     every five years, which would put the health and economic security
     of 63 million Medicare beneficiaries, 69 million Medicaid
@@ -83,7 +83,7 @@ in Florida:
     cannot negotiate the price of drugs.
 -   Tens of billions of dollars will go right back to Big Pharma, which
     will increase the deficit.
--   [3.3](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
+-   [3.3](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
     million Medicare beneficiaries who use insulin will no longer have
     the peace of mind of knowing that their insulin is capped at $35.
 -   Millions of seniors will no longer be able to get recommended
@@ -111,7 +111,7 @@ Through President Biden’s Inflation Reduction Act:
     seniors hundreds of dollars.
 -   Seniors’ out of pocket prescription drug costs will be capped at
     $2000 per year – benefitting [over a
-    million](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
+    million](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/)
     Medicare beneficiaries and cancer patients paying skyrocketing
     prices for prescription drugs each year.
 -   An estimated 14.5 million Americans are saving on health insurance

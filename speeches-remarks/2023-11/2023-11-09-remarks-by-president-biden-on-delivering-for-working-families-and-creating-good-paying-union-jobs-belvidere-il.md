@@ -1,7 +1,7 @@
 ---
 date: '2023-11-09'
 published_time: 2023-11-09 17:08:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/09/remarks-by-president-biden-on-delivering-for-working-families-and-creating-good-paying-union-jobs-belvidere-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/09/remarks-by-president-biden-on-delivering-for-working-families-and-creating-good-paying-union-jobs-belvidere-il/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Delivering for Working Families and Creating\
   \ Good-Paying Union Jobs | Belvidere\_IL"

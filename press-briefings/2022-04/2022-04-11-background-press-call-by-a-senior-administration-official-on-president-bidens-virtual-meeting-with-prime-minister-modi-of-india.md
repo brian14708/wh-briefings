@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-11 16:31:45-04:00
 published_time: 2022-04-11 16:31:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/11/background-press-call-by-a-senior-administration-official-on-president-bidens-virtual-meeting-with-prime-minister-modi-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/11/background-press-call-by-a-senior-administration-official-on-president-bidens-virtual-meeting-with-prime-minister-modi-of-india/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
   s Virtual Meeting with Prime Minister Modi of\_India"

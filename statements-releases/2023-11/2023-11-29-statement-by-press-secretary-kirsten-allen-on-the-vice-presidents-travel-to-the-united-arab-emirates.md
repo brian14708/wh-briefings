@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-29 15:04:30-05:00
 published_time: 2023-11-29 15:04:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/29/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/29/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-the-united-arab-emirates/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on the Vice President\u2019s Travel\
   \ to the United Arab\_Emirates"

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-31'
 published_time: 2022-10-31 12:40:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-alzheimers-disease-awareness-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-alzheimers-disease-awareness-month-2022/
 tags: presidential-actions
 title: "A Proclamation on National Alzheimer\u2019s Disease Awareness Month,\_2022"
 ---

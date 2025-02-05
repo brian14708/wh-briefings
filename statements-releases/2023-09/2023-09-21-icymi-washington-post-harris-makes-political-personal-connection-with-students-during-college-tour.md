@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 10:11:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/icymi-washington-post-harris-makes-political-personal-connection-with-students-during-college-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/icymi-washington-post-harris-makes-political-personal-connection-with-students-during-college-tour/
 tags: statements-releases
 title: "ICYMI: Washington Post: Harris makes political, personal connection with students\
   \ during college\_tour"

@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 11:37:41-04:00
 published_time: 2023-03-31 11:37:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/readout-of-vice-president-kamala-harriss-meeting-with-president-hakainde-hichilema-of-zambia-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/readout-of-vice-president-kamala-harriss-meeting-with-president-hakainde-hichilema-of-zambia-2/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with President Hakainde\
   \ Hichilema of\_Zambia"

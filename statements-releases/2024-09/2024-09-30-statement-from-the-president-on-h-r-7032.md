@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 17:00:53-04:00
 published_time: 2024-09-30 17:00:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/30/statement-from-the-president-on-h-r-7032/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/30/statement-from-the-president-on-h-r-7032/
 tags: statements-releases
 title: "Statement from the President on H.R.\_7032"
 ---

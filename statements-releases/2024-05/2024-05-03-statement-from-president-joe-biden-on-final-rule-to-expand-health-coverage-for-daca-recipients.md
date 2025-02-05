@@ -2,7 +2,7 @@
 date: '2024-05-03'
 modified_time: 2024-05-02 20:33:02-04:00
 published_time: 2024-05-03 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/03/statement-from-president-joe-biden-on-final-rule-to-expand-health-coverage-for-daca-recipients/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/03/statement-from-president-joe-biden-on-final-rule-to-expand-health-coverage-for-daca-recipients/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Final Rule to Expand Health Coverage\
   \ for DACA\_Recipients"

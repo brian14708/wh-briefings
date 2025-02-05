@@ -2,7 +2,7 @@
 date: '2022-04-18'
 modified_time: 2022-04-18 23:33:53-04:00
 published_time: 2022-04-18 23:33:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-vice-president-harris-on-the-ongoing-work-to-establish-norms-in-space/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/18/remarks-by-vice-president-harris-on-the-ongoing-work-to-establish-norms-in-space/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Ongoing Work to Establish Norms in\_\
   Space"

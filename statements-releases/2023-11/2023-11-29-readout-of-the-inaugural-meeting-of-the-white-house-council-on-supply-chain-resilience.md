@@ -1,7 +1,7 @@
 ---
 date: '2023-11-29'
 published_time: 2023-11-29 18:41:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/29/readout-of-the-inaugural-meeting-of-the-white-house-council-on-supply-chain-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/29/readout-of-the-inaugural-meeting-of-the-white-house-council-on-supply-chain-resilience/
 tags: statements-releases
 title: "Readout of the Inaugural Meeting of the White\_House Council on Supply Chain\_\
   Resilience"
@@ -16,7 +16,7 @@ fixing supply chains to lower costs and provide more breathing room to
 American families. He announced more than 30 new actions to strengthen
 America’s supply chains, lower costs for families, and secure key
 sectors, detailed in a fact
-sheet [here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/).
+sheet [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/).
 They include new steps through the Defense Production Act to support
 domestic manufacturing of essential medicines, as well as new data
 collaboration to spot supply chain risks sooner. President Biden lauded

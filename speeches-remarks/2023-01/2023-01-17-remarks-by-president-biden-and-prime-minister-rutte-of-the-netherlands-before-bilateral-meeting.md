@@ -1,7 +1,7 @@
 ---
 date: '2023-01-17'
 published_time: 2023-01-17 17:28:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/17/remarks-by-president-biden-and-prime-minister-rutte-of-the-netherlands-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/17/remarks-by-president-biden-and-prime-minister-rutte-of-the-netherlands-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Rutte of the Netherlands Before\
   \ Bilateral\_Meeting"

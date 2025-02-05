@@ -2,7 +2,7 @@
 date: '2024-09-21'
 modified_time: 2024-09-24 22:21:32-04:00
 published_time: 2024-09-21 16:54:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/21/roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/21/roadmap-for-u-s-india-initiative-to-build-safe-and-secure-global-clean-energy-supply-chains/
 tags: statements-releases
 title: "Roadmap For U.S.-India Initiative to Build Safe and Secure Global Clean Energy\
   \ Supply\_Chains"

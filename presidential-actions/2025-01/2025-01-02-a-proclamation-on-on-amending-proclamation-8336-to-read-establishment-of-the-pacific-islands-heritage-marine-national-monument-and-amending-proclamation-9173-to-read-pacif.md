@@ -2,7 +2,7 @@
 date: '2025-01-02'
 modified_time: 2025-01-02 18:00:26-05:00
 published_time: 2025-01-02 18:00:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/02/a-proclamation-on-on-amending-proclamation-8336-to-read-establishment-of-the-pacific-islands-heritage-marine-national-monument-and-amending-proclamation-9173-to-read-pacif/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/02/a-proclamation-on-on-amending-proclamation-8336-to-read-establishment-of-the-pacific-islands-heritage-marine-national-monument-and-amending-proclamation-9173-to-read-pacif/
 tags: presidential-actions
 title: "A Proclamation on on Amending Proclamation 8336 to Read, \u201CEstablishment\
   \ of the Pacific Islands Heritage Marine National Monument\u201D and Amending Proclamation\

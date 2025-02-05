@@ -1,7 +1,7 @@
 ---
 date: '2024-10-31'
 published_time: 2024-10-31 11:26:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-national-veterans-and-military-families-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/31/a-proclamation-on-national-veterans-and-military-families-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Veterans and Military Families Month,\_2024"
 ---

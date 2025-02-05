@@ -1,7 +1,7 @@
 ---
 date: '2023-07-26'
 published_time: 2023-07-26 17:02:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/26/a-proclamation-on-national-korean-war-veterans-armistice-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/26/a-proclamation-on-national-korean-war-veterans-armistice-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National Korean War Veterans Armistice Day,\_2023"
 ---

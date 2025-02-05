@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-19 16:30:54-04:00
 published_time: 2022-07-20 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/20/statement-by-president-biden-on-the-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/20/statement-by-president-biden-on-the-u-s-africa-leaders-summit/
 tags: speeches-remarks
 title: "Statement by President\_Biden on the U.S.-Africa Leaders\_Summit"
 ---

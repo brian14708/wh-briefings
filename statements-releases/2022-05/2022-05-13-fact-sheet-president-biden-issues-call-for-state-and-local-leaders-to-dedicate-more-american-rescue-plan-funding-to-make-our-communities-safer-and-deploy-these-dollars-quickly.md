@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-16 17:23:38-04:00
 published_time: 2022-05-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Call for State and Local Leaders to Dedicate\
   \ More American Rescue Plan Funding to Make Our Communities Safer \u2013 And Deploy\
@@ -18,7 +18,7 @@ President Biden believes that Americans deserve to feel safe no matter
 where they live, and he is committed to using every tool at his disposal
 to fight violent crime. As the cornerstone of the [comprehensive gun
 crime reduction
-agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/) he
+agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/) he
 issued in June 2021, President Biden called on cities and states to
 dedicate American Recue Plan state and local funding to proven
 strategies that will make our communities safer – including by putting

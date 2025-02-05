@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-17 12:22:30-04:00
 published_time: 2022-06-17 12:22:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-president-biden-at-the-major-economies-forum-on-energy-and-climate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/17/remarks-by-president-biden-at-the-major-economies-forum-on-energy-and-climate/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Major Economies Forum on Energy and\_Climate"
 ---

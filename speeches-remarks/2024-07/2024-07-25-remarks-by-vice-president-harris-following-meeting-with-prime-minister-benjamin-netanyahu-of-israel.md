@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-26 10:39:13-04:00
 published_time: 2024-07-25 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/25/remarks-by-vice-president-harris-following-meeting-with-prime-minister-benjamin-netanyahu-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/25/remarks-by-vice-president-harris-following-meeting-with-prime-minister-benjamin-netanyahu-of-israel/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Following Meeting with Prime Minister Benjamin\
   \ Netanyahu of\_Israel"

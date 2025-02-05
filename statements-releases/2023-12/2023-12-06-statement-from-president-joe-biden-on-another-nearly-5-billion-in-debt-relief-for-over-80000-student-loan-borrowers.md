@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 14:47:23-05:00
 published_time: 2023-12-06 14:47:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/statement-from-president-joe-biden-on-another-nearly-5-billion-in-debt-relief-for-over-80000-student-loan-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/statement-from-president-joe-biden-on-another-nearly-5-billion-in-debt-relief-for-over-80000-student-loan-borrowers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Another Nearly $5 Billion in Debt Relief\
   \ for Over 80,000 Student Loan\_Borrowers"

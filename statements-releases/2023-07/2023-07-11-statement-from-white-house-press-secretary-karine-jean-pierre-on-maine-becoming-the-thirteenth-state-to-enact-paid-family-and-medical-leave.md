@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-11 14:06:31-04:00
 published_time: 2023-07-11 12:34:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/statement-from-white-house-press-secretary-karine-jean-pierre-on-maine-becoming-the-thirteenth-state-to-enact-paid-family-and-medical-leave/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/statement-from-white-house-press-secretary-karine-jean-pierre-on-maine-becoming-the-thirteenth-state-to-enact-paid-family-and-medical-leave/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Maine Becoming\
   \ the Thirteenth State to Enact Paid Family and Medical\_Leave"

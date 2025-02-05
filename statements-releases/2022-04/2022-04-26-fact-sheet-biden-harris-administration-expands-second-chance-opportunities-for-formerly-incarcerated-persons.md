@@ -2,7 +2,7 @@
 date: '2022-04-26'
 modified_time: 2022-04-26 13:34:46-04:00
 published_time: 2022-04-26 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Expands Second Chance Opportunities\
   \ for Formerly Incarcerated\_Persons"
@@ -27,8 +27,8 @@ training or drug treatment in prison.
 Advancing successful reentry outcomes makes our communities safer,
 disrupts cycles of economic hardship, and strengthens our economy.
 Improving reentry is also key part of the comprehensive
-[strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
-[](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+[strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+[](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
 President Biden announced last June to tackle gun crime and violence.
 And, since President Biden took office, our economy has added a record
 7.9 million jobs and the unemployment rate has fallen to 3.6 percent. At
@@ -40,7 +40,7 @@ stable employment is among the most significant challenges.
   
 Today, during Second Chance Month, the Biden-Harris Administration is
 releasing a comprehensive
-[strategy ](https://www.whitehouse.gov/wp-content/uploads/2022/04/Incarceration-to-Employment-Strategy.pdf)that
+[strategy ](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Incarceration-to-Employment-Strategy.pdf)that
 expands Incarceration to Employment opportunities, as well as the
 following concrete policy actions as part of a whole-of-government
 effort to advance employment, bolster reentry, empower formerly

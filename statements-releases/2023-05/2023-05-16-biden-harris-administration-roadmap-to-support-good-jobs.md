@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-15 22:08:30-04:00
 published_time: 2023-05-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Roadmap to Support Good\_Jobs"
 ---
@@ -96,15 +96,15 @@ have, but the talent and skills they possess.
 -   Scaled and expanded Registered Apprenticeships to provide
     earn-while-you-learn opportunities by investing a historic $285
     million in fiscal year (FY) 2023, proposing [$335
-    million](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-the-presidents-budget-for-fiscal-year-2024/)
+    million](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-the-presidents-budget-for-fiscal-year-2024/)
     in the FY 2024 budget, and encouraging Registered Apprenticeships
     through Federal grants and contracts. Launched the [Apprenticeship
     Ambassadors
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/#:~:text=FACT%20SHEET%3A%20Biden%2D%E2%81%A0Harris,Pathways%20to%20High%2DPaying%20Jobs)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/01/fact-sheet-biden-harris-administration-launches-the-apprenticeship-ambassador-initiative-to-create-equitable-debt-free-pathways-to-high-paying-jobs/#:~:text=FACT%20SHEET%3A%20Biden%2D%E2%81%A0Harris,Pathways%20to%20High%2DPaying%20Jobs)
     to amplify the Registered Apprenticeship model with private- and
     public-sector employers and took bold action to quickly scale
     apprenticeship in critical sectors like
-    [cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/).
+    [cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/).
 -   Released [nearly $23
     million](https://www.hhs.gov/about/news/2023/03/31/hhs-awards-start-up-funds-community-based-health-care-providers-develop-programs-train-medical-dental-residents-in-community-settings.html)
     in American Rescue Plan funds to develop and establish new primary
@@ -184,7 +184,7 @@ Apprenticeship programs and training funds in BIL and CHIPS.
     Pathways to Infrastructure Jobs grants over multiple rounds of
     funding.
 -   Invested more than [$40
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/#:~:text=July%2012%2C%202022-,FACT%20SHEET%3A%20White%20House%20Announces%20over%20%2440%20Billion%20in%20American,Our%20Workforce%20%E2%80%93%20With%20More%20Coming&text=On%20Wednesday%2C%20the%20White%20House,strengthening%20and%20expanding%20our%20workforce.)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/#:~:text=July%2012%2C%202022-,FACT%20SHEET%3A%20White%20House%20Announces%20over%20%2440%20Billion%20in%20American,Our%20Workforce%20%E2%80%93%20With%20More%20Coming&text=On%20Wednesday%2C%20the%20White%20House,strengthening%20and%20expanding%20our%20workforce.)
     in workforce efforts through ARP funds to strengthen and expand our
     workforce, including efforts to train workers for in-demand jobs in
     fields from healthcare to clean energy manufacturing to
@@ -193,7 +193,7 @@ Apprenticeship programs and training funds in BIL and CHIPS.
     3,500 workforce investments worth $11 billion.
 -   Secured commitments to equitable workforce development from [more
     than 350
-    organizations](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
+    organizations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
     in construction, broadband, and electrification as part of the White
     House Infrastructure Talent Pipeline Challenge.
 -   Launched the [Battery Workforce
@@ -228,7 +228,7 @@ transportation assistance are integral to our workforce investments.
 *Key actions to date:*
 
 -   [Child Care Stabilization
-    funding](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
+    funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
     already reaching over 220,000 child care programs across the
     country. These funds are allowing child care providers to retain and
     rehire workers and continue to support working families. More than
@@ -242,7 +242,7 @@ transportation assistance are integral to our workforce investments.
 -   and provided more than $400 million in competitive funding toward
     programs to develop, recruit, and retain high-quality educators.
 -   [120 new trucking Registered
-    Apprenticeship](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/)
+    Apprenticeship](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/)
     programs.
 -   [CHIPS
     Incentives](https://www.commerce.gov/news/press-releases/2023/02/biden-harris-administration-launches-first-chips-america-funding)

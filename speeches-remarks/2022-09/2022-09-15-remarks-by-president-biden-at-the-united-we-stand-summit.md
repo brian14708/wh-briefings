@@ -1,7 +1,7 @@
 ---
 date: '2022-09-15'
 published_time: 2022-09-15 22:03:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/15/remarks-by-president-biden-at-the-united-we-stand-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/15/remarks-by-president-biden-at-the-united-we-stand-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the United We Stand\_Summit"
 ---

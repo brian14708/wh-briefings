@@ -2,7 +2,7 @@
 date: '2024-10-02'
 modified_time: 2024-10-02 12:03:30-04:00
 published_time: 2024-10-02 12:03:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/international-counter-ransomware-initiative-2024-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/02/international-counter-ransomware-initiative-2024-joint-statement/
 tags: statements-releases
 title: "International Counter Ransomware Initiative 2024 Joint\_Statement"
 ---

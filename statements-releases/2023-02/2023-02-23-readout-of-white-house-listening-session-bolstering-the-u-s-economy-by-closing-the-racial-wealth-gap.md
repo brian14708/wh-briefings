@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 21:06:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/readout-of-white-house-listening-session-bolstering-the-u-s-economy-by-closing-the-racial-wealth-gap/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/readout-of-white-house-listening-session-bolstering-the-u-s-economy-by-closing-the-racial-wealth-gap/
 tags: statements-releases
 title: "Readout of White\_House Listening Session: Bolstering the U.S. Economy by\
   \ Closing the Racial Wealth\_Gap"

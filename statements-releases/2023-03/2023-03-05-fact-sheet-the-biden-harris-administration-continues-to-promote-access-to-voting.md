@@ -2,7 +2,7 @@
 date: '2023-03-05'
 modified_time: 2023-03-04 22:56:52-05:00
 published_time: 2023-03-05 08:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/05/fact-sheet-the-biden-harris-administration-continues-to-promote-access-to-voting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/05/fact-sheet-the-biden-harris-administration-continues-to-promote-access-to-voting/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Continues to Promote Access\
   \ to\_Voting"
@@ -44,10 +44,10 @@ In the meantime, the Biden-Harris Administration remains committed to
 using every tool at its disposal to protect the right to vote. On March
 7, 2021, the anniversary of Bloody Sunday, President Biden signed an
 [executive
-order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
 directing an all-of-government effort to promote access to voting. As
 [previously
-outlined](https://www.whitehouse.gov/briefing-room/blog/2022/09/20/how-the-biden-harris-administration-is-continuing-to-promote-voting-access/),
+outlined](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/09/20/how-the-biden-harris-administration-is-continuing-to-promote-voting-access/),
 agencies continue leveraging their resources to provide Americans with
 access to voter registration services and nonpartisan information about
 elections:

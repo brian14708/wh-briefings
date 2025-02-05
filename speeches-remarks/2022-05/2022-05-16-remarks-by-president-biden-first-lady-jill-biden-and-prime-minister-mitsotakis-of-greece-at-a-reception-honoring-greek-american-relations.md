@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 23:03:22-04:00
 published_time: 2022-05-16 23:02:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/16/remarks-by-president-biden-first-lady-jill-biden-and-prime-minister-mitsotakis-of-greece-at-a-reception-honoring-greek-american-relations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/16/remarks-by-president-biden-first-lady-jill-biden-and-prime-minister-mitsotakis-of-greece-at-a-reception-honoring-greek-american-relations/
 tags: speeches-remarks
 title: "Remarks By President\_Biden,\_First Lady Jill\_Biden,\_and Prime Minister\
   \ Mitsotakis Of Greece at a Reception Honoring Greek American\_Relations"

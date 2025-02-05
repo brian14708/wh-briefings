@@ -2,7 +2,7 @@
 date: '2024-07-02'
 modified_time: 2024-07-01 21:56:41-04:00
 published_time: 2024-07-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Protect Workers and\
   \ Communities from Extreme\_Weather"
@@ -38,7 +38,7 @@ the most ambitious climate agenda in American history — an agenda that
 is lowering energy costs for hardworking families, bolstering America’s
 energy security, creating thousands of good-paying jobs, and
 strengthening [community-driven climate
-resilience](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/)
+resilience](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/19/fact-sheet-biden-harris-administration-makes-historic-investments-to-build-community-climate-resilience/)
 across the country.  
   
 **Today, the President is receiving an operational briefing on extreme
@@ -74,7 +74,7 @@ including:  **
     improved flood drainage channel; and $724,000 to build shaded bus
     stops in areas of high heat exposure in Washington, D.C. This
     program is part of the President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     which aims to ensure 40 percent of the overall benefits of certain
     federal climate, clean energy and other investment areas flow to
     disadvantaged communities that are marginalized by underinvestment
@@ -104,9 +104,9 @@ themselves from extreme weather events.
   
 **Protecting Communities from Extreme Heat:** President Biden has taken
 [historic
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
 to [protect workers and
-communities](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-president-biden-to-announce-new-actions-to-protect-workers-and-communities-from-extreme-heat/)
+communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/fact-sheet-president-biden-to-announce-new-actions-to-protect-workers-and-communities-from-extreme-heat/)
 from the impacts of extreme heat, including [lowering home energy
 costs](https://www.hhs.gov/about/news/2023/10/24/biden-harris-administration-announces-3.7b-help-lower-home-energy-costs-launches-national-liheap-eligibility-tool.html)
 and helping more Americans [stay safe, cool, and
@@ -161,7 +161,7 @@ investing billions of dollars to reduce flood risks across America and
 protect communities from rising insurance costs, President Biden
 also [reinstated](https://www.fema.gov/floodplain-management/intergovernmental/federal-flood-risk-management-standard) and
 is
-[implementing](https://www.whitehouse.gov/ostp/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/#:~:text=As%20part%20of%20this%20effort,a%20high%20flood%20risk%20area.)
+[implementing](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/04/11/a-new-tool-to-help-plan-for-and-protect-against-floods/#:~:text=As%20part%20of%20this%20effort,a%20high%20flood%20risk%20area.)
 the Federal Flood Risk Management Standard, which ensures that Federal
 agencies are considering and managing current and future flood risks in
 order to build a more resilient nation.  
@@ -182,7 +182,7 @@ off the immediate collapse of the Colorado River.
 infrastructure investments last for generations when done right, so it
 is critical to plan and build in ways that promote climate resilience.
 President Biden’s [National Initiative to Advance Building
-Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/) is
+Codes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/) is
 accelerating adoption of modern building codes that protect people from
 extreme-weather events and save communities an estimated [$1.6
 billion](https://www.fema.gov/emergency-managers/risk-management/building-science/building-codes-save-study) a
@@ -202,7 +202,7 @@ flood
 risk](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html) 
 ensure that Federal agencies are [producing coordinated, actionable
 climate
-information](https://www.whitehouse.gov/wp-content/uploads/2023/03/FTAC_Report_03222023_508.pdf);
+information](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/FTAC_Report_03222023_508.pdf);
 and increase support for [regional applied science and services
 centers](https://www.usda.gov/media/press-releases/2022/01/12/usda-invests-9m-expand-reach-and-increase-adoption-climate-smart).  
   
@@ -210,11 +210,11 @@ centers](https://www.usda.gov/media/press-releases/2022/01/12/usda-invests-9m-ex
 intensified by climate change, threatens the U.S. economy and the
 financial security of families, businesses, and workers. President
 Biden’s [Executive Order on Climate-Related Financial
-Risk](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/) ensures
+Risk](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/) ensures
 that climate risk and resilience actions are appropriately factored into
 the formulation and execution of the President’s Budget, thereby
 properly managing and protecting Federal funding on behalf of taxpayers.
 This includes [formally
-accounting](https://www.whitehouse.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/) for
+accounting](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/) for
 the risks that climate change pose in the President’s Budget for the
 first time.

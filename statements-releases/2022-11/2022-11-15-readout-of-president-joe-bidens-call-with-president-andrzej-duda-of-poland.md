@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 17:54:10-05:00
 published_time: 2022-11-15 17:54:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/readout-of-president-joe-bidens-call-with-president-andrzej-duda-of-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/readout-of-president-joe-bidens-call-with-president-andrzej-duda-of-poland/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Andrzej Duda of\_\
   Poland"

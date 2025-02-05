@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 12:26:58-05:00
 published_time: 2023-01-27 13:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/statement-by-president-joe-biden-on-the-americas-partnership-for-economic-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/statement-by-president-joe-biden-on-the-americas-partnership-for-economic-prosperity/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Americas Partnership for Economic\_\
   Prosperity"

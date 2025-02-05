@@ -2,7 +2,7 @@
 date: '2024-01-06'
 modified_time: 2024-01-08 10:35:24-05:00
 published_time: 2024-01-06 22:24:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/06/remarks-by-vice-president-harris-at-the-annual-retreat-of-the-womens-missionary-society-of-the-7th-episcopal-district-of-the-african-methodist-episcopal-church-myrtle-beach-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/06/remarks-by-vice-president-harris-at-the-annual-retreat-of-the-womens-missionary-society-of-the-7th-episcopal-district-of-the-african-methodist-episcopal-church-myrtle-beach-sc/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Annual Retreat of the Women\u2019\
   s Missionary Society of the 7th Episcopal District of the African Methodist Episcopal\

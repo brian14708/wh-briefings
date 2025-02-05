@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-13 18:48:11-04:00
 published_time: 2024-08-13 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/13/remarks-by-president-biden-after-air-force-one-arrival-kenner-la/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/13/remarks-by-president-biden-after-air-force-one-arrival-kenner-la/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Kenner,\_LA"
 ---

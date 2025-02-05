@@ -2,7 +2,7 @@
 date: '2023-06-26'
 modified_time: 2023-06-27 14:17:19-04:00
 published_time: 2023-06-26 20:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-vice-president-harris-at-biden-victory-fund-and-the-lgbtq-leadership-council-24th-annual-lgbtq-gala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-vice-president-harris-at-biden-victory-fund-and-the-lgbtq-leadership-council-24th-annual-lgbtq-gala/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Biden Victory Fund and the LGBTQ+ Leadership\
   \ Council 24th Annual LGBTQ+\_Gala"

@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 13:20:11-04:00
 published_time: 2022-09-02 13:20:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-senior-clean-energy-and-climate-team/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-senior-clean-energy-and-climate-team/
 tags: statements-releases
 title: "President\_Biden Announces Senior Clean Energy and Climate\_Team"
 ---

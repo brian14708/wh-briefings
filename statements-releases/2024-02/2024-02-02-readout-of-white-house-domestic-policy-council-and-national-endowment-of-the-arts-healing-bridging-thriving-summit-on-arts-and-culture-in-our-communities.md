@@ -2,7 +2,7 @@
 date: '2024-02-02'
 modified_time: 2024-02-02 16:07:18-05:00
 published_time: 2024-02-02 16:07:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/02/readout-of-white-house-domestic-policy-council-and-national-endowment-of-the-arts-healing-bridging-thriving-summit-on-arts-and-culture-in-our-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/02/readout-of-white-house-domestic-policy-council-and-national-endowment-of-the-arts-healing-bridging-thriving-summit-on-arts-and-culture-in-our-communities/
 tags: statements-releases
 title: "Readout of White\_House Domestic Policy Council and National Endowment of\
   \ the Arts \u201CHealing, Bridging, Thriving\u201D Summit on Arts and Culture in\
@@ -18,7 +18,7 @@ sectors, including government officials; policymakers; artists;
 advocates; academics; and philanthropic, labor, and community leaders.
 This convening built on President Biden’s 2022 [Executive Order to
 Promote the Arts, Humanities, and Museum Library
-Services](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/)
+Services](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/)
 which outlined how the arts are essential to the well-being, health,
 vitality, and Democracy of our nation.
 

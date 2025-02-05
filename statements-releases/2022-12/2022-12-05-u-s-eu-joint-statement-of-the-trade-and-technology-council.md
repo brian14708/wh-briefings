@@ -2,7 +2,7 @@
 date: '2022-12-05'
 modified_time: 2022-12-06 10:53:27-05:00
 published_time: 2022-12-05 16:25:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/05/u-s-eu-joint-statement-of-the-trade-and-technology-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/05/u-s-eu-joint-statement-of-the-trade-and-technology-council/
 tags: statements-releases
 title: "U.S.-EU Joint Statement of the Trade and Technology\_Council"
 ---
@@ -174,7 +174,7 @@ synthetic data in health and medicine, in line with applicable data
 protection rules.  
   
 A [joint
-study](https://www.whitehouse.gov/cea/written-materials/2022/12/05/the-impact-of-artificial-intelligence-on-the-future-of-workforces-in-the-european-union-and-the-united-states-of-america/)
+study](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/12/05/the-impact-of-artificial-intelligence-on-the-future-of-workforces-in-the-european-union-and-the-united-states-of-america/)
 on the impact of AI on the workforce was finalized, with U.S. and EU
 case studies on hiring and logistics.  
   

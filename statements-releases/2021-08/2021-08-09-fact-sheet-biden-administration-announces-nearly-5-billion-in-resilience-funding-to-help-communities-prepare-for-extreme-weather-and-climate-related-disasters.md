@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-09'
 modified_time: 2021-08-09 09:45:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/
 published_time: 2021-08-09 09:45:19-04:00
 title: "FACT SHEET: Biden Administration Announces Nearly $5 Billion in Resilience\
   \ Funding to Help Communities Prepare for Extreme Weather and Climate-Related\_\
@@ -61,7 +61,7 @@ Better Agenda. This agenda includes historic investments to make our
 aging infrastructure more resilient in the face of increasingly severe
 floods, wildfires, droughts, hurricanes, and other risks. It also
 supports the President’s [Justice40
-Initiative](https://www.whitehouse.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/),
 which set a goal of delivering at least 40% of the overall benefits of
 Federal investments in climate and clean energy to disadvantaged
 communities. Through these investments, we will advance environmental
@@ -121,7 +121,7 @@ and other needs that help level the playing field for up to 20
 disadvantaged communities. Pursuant to President Biden’s [Executive
 Order 13985, on *Advancing Racial Equity and Support for Underserved
 Communities through the Federal
-Government*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
+Government*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/),
 FEMA is also conducting an equity assessment for all of its hazard
 mitigation grant programs to address barriers and expand access for
 disadvantaged communities. In addition, the FMA program will employ the
@@ -136,13 +136,13 @@ address the needs of communities across the country, including through
 task forces like the Department of Homeland Security’s DHS Climate
 Change Action Group. Through [Executive Order 14008, on *Tackling the
 Climate Crisis at Home and
-Abroad*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the President established the National Climate Task Force. The Task
 Force created five interagency working groups to support communities in
 addressing resilience strategies tied to
-[drought](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/readout-of-the-third-national-climate-task-force-meeting/),
+[drought](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/21/readout-of-the-third-national-climate-task-force-meeting/),
 wildfires, extreme heat,
-[coastal](https://www.whitehouse.gov/ceq/news-updates/2021/07/30/readout-of-the-white-house-coastal-resilience-interagency-working-group-convening/),
+[coastal](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/07/30/readout-of-the-white-house-coastal-resilience-interagency-working-group-convening/),
 and flood risks. In addition, key agencies are supporting climate action
 by preparing plans to outline strategies to improve climate resilience.
 Under Executive Orders 14030, *Climate-Related Financial Risk,* and

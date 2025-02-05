@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 22:16:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/readout-of-president-bidens-meeting-with-his-majesty-king-abdullah-ii-of-jordan-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/readout-of-president-bidens-meeting-with-his-majesty-king-abdullah-ii-of-jordan-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with His Majesty King Abdullah\
   \ II of\_Jordan"

@@ -2,7 +2,7 @@
 date: '2024-07-08'
 modified_time: 2024-07-08 18:57:19-04:00
 published_time: 2024-07-08 18:57:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/08/statement-from-president-joe-biden-on-russian-missile-strikes-in-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/08/statement-from-president-joe-biden-on-russian-missile-strikes-in-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Russian Missile Strikes in\_Ukraine"
 ---

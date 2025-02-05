@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 10:16:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/statement-from-national-security-advisor-jake-sullivan-on-legal-pathways-initiative-with-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/statement-from-national-security-advisor-jake-sullivan-on-legal-pathways-initiative-with-mexico/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Legal Pathways Initiative\
   \ with\_Mexico"

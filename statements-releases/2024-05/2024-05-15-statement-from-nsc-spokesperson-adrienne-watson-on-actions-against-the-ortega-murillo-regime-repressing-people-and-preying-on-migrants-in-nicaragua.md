@@ -1,7 +1,7 @@
 ---
 date: '2024-05-15'
 published_time: 2024-05-15 13:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/statement-from-nsc-spokesperson-adrienne-watson-on-actions-against-the-ortega-murillo-regime-repressing-people-and-preying-on-migrants-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/statement-from-nsc-spokesperson-adrienne-watson-on-actions-against-the-ortega-murillo-regime-repressing-people-and-preying-on-migrants-in-nicaragua/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Actions Against the Ortega-Murillo\
   \ Regime Repressing People and Preying on Migrants in\_Nicaragua"

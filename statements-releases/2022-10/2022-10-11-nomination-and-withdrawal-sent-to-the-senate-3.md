@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 11:49:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/nomination-and-withdrawal-sent-to-the-senate-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/nomination-and-withdrawal-sent-to-the-senate-3/
 tags: statements-releases
 title: "Nomination and Withdrawal Sent to the\_Senate"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 16:59:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/12/statement-from-president-joe-biden-ahead-of-the-fifth-review-conference-of-the-chemical-weapons-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/12/statement-from-president-joe-biden-ahead-of-the-fifth-review-conference-of-the-chemical-weapons-convention/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Ahead of the Fifth Review Conference of\
   \ the Chemical Weapons\_Convention"

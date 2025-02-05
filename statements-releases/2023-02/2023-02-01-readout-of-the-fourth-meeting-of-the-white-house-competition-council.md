@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 18:47:23-05:00
 published_time: 2023-02-01 18:47:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/readout-of-the-fourth-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/readout-of-the-fourth-meeting-of-the-white-house-competition-council/
 tags: statements-releases
 title: "Readout of the Fourth Meeting of the White\_House Competition\_Council"
 ---
@@ -19,7 +19,7 @@ competition to America’s consumers, workers, farmers, and small
 businesses.  
    
 The President commended Council members for taking up his [call to
-action](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)
 to address exorbitant junk fees in a variety of industries, announced
 new steps by his Administration, and urged more action to address these
 hidden, surprise fees that hit the most vulnerable Americans the
@@ -37,7 +37,7 @@ hardest. Today’s announcements include:
 -   The President called on Congress to take action to address some of
     the most persistent and unfair fees that Americans face by passing a
     [Junk Fee Prevention
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/fact-sheet-president-biden-highlights-new-progress-on-his-competition-agenda/),
     which would:  
     -   Crack down on excessive online concert, sporting event, and
         other entertainment ticket fees.

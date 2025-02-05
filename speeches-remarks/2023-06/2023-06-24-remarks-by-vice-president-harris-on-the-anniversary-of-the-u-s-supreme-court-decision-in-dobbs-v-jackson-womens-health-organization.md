@@ -2,7 +2,7 @@
 date: '2023-06-24'
 modified_time: 2023-06-25 08:30:22-04:00
 published_time: 2023-06-24 20:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/24/remarks-by-vice-president-harris-on-the-anniversary-of-the-u-s-supreme-court-decision-in-dobbs-v-jackson-womens-health-organization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/24/remarks-by-vice-president-harris-on-the-anniversary-of-the-u-s-supreme-court-decision-in-dobbs-v-jackson-womens-health-organization/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Anniversary of the U.S. Supreme Court\
   \ Decision in Dobbs v. Jackson Women\u2019s Health\_Organization"

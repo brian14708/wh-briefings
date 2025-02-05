@@ -1,7 +1,7 @@
 ---
 date: '2024-04-23'
 published_time: 2024-04-23 21:44:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-package/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-package/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Passage of the National Security\_\
   Package"

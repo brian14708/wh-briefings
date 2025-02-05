@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 published_time: 2023-03-31 09:12:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/statement-from-president-joe-biden-on-transgender-day-of-visibility/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/statement-from-president-joe-biden-on-transgender-day-of-visibility/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Transgender Day of\_Visibility"
 ---

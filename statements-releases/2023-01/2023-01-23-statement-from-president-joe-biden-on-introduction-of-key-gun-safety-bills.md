@@ -2,7 +2,7 @@
 date: '2023-01-23'
 modified_time: 2023-01-23 20:11:32-05:00
 published_time: 2023-01-23 20:11:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/23/statement-from-president-joe-biden-on-introduction-of-key-gun-safety-bills/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/23/statement-from-president-joe-biden-on-introduction-of-key-gun-safety-bills/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Introduction of Key Gun Safety\_Bills"
 ---

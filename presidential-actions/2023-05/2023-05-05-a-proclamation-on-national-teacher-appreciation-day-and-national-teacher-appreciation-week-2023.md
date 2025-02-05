@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 10:49:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/05/a-proclamation-on-national-teacher-appreciation-day-and-national-teacher-appreciation-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/05/a-proclamation-on-national-teacher-appreciation-day-and-national-teacher-appreciation-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Teacher Appreciation Day and National Teacher Appreciation\
   \ Week,\_2023"

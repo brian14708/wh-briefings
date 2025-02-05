@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 16:43:59-04:00
 published_time: 2022-08-05 16:43:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/05/remarks-by-president-biden-on-the-july-jobs-report-and-signing-of-anti-fraud-bills/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/05/remarks-by-president-biden-on-the-july-jobs-report-and-signing-of-anti-fraud-bills/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the July Jobs Report and Signing of Anti-Fraud\_\
   Bills"

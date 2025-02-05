@@ -2,7 +2,7 @@
 date: '2023-06-29'
 modified_time: 2023-06-29 16:58:04-04:00
 published_time: 2023-06-29 16:58:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/29/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-new-york-ny-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/29/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-new-york-ny-2/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route New York,\_NY"
 ---

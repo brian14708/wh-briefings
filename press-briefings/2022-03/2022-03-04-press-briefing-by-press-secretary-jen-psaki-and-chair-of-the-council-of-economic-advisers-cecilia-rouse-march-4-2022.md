@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2022-03-04'
 modified_time: 2022-03-04 20:47:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/04/press-briefing-by-press-secretary-jen-psaki-and-chair-of-the-council-of-economic-advisers-cecilia-rouse-march-4-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/03/04/press-briefing-by-press-secretary-jen-psaki-and-chair-of-the-council-of-economic-advisers-cecilia-rouse-march-4-2022/
 published_time: 2022-03-04 21:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki and Chair of the Council of Economic\
   \ Advisers Cecilia Rouse, March 4,\_2022"

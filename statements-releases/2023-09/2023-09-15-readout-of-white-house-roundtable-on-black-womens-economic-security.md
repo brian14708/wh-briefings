@@ -1,7 +1,7 @@
 ---
 date: '2023-09-15'
 published_time: 2023-09-15 18:42:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/readout-of-white-house-roundtable-on-black-womens-economic-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/readout-of-white-house-roundtable-on-black-womens-economic-security/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Black Women\u2019s Economic\_Security"
 ---
@@ -29,7 +29,7 @@ model employer and working to prohibit the use of salary history for
 federal workers and employees of federal contractors. They highlighted
 efforts to strengthen child care infrastructure, such as through the
 President’s historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
 to expand access to high-quality, affordable care. And they also
 underscored work to ensure women have access to the millions of
 good-paying jobs created by the President’s historic Investing in

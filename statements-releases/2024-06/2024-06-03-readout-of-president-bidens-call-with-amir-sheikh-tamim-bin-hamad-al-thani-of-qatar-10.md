@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 14:53:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-10/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Amir Sheikh Tamim Bin Hamad Al-Thani\
   \ of\_Qatar"

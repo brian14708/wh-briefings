@@ -1,7 +1,7 @@
 ---
 date: '2022-05-11'
 published_time: 2022-05-11 17:29:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-vice-president-harris-after-the-senate-vote-on-the-womens-health-protection-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-vice-president-harris-after-the-senate-vote-on-the-womens-health-protection-act/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris After the Senate Vote on the Women\u2019\
   s Health Protection\_Act"

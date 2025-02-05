@@ -1,7 +1,7 @@
 ---
 date: '2022-11-11'
 published_time: 2022-11-11 22:30:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/11/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-phnom-penh-cambodia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/11/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-phnom-penh-cambodia/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Phnom Penh,\_Cambodia"

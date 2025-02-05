@@ -1,7 +1,7 @@
 ---
 date: '2024-11-26'
 published_time: 2024-11-26 16:13:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/26/joint-statement-from-president-biden-of-the-united-states-and-president-macron-of-france-announcing-a-cessation-of-hostilities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/26/joint-statement-from-president-biden-of-the-united-states-and-president-macron-of-france-announcing-a-cessation-of-hostilities/
 tags: statements-releases
 title: "Joint Statement from President\_Biden of the United\_States and President\
   \ Macron of France Announcing a Cessation of\_Hostilities"

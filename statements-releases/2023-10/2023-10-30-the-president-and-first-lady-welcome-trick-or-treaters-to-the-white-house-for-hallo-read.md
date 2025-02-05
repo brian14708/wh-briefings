@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-30 12:41:04-04:00
 published_time: 2023-10-30 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/the-president-and-first-lady-welcome-trick-or-treaters-to-the-white-house-for-hallo-read/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/the-president-and-first-lady-welcome-trick-or-treaters-to-the-white-house-for-hallo-read/
 tags: statements-releases
 title: "The President and First Lady Welcome Trick-or-Treaters to the White\_House\
   \ for \u201CHallo-READ!\u201D"

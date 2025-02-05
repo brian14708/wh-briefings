@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-21 13:15:45-05:00
 published_time: 2023-12-20 08:00:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-before-air-force-one-departure-milwaukee-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/20/remarks-by-president-biden-before-air-force-one-departure-milwaukee-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Milwaukee,\_\
   WI"

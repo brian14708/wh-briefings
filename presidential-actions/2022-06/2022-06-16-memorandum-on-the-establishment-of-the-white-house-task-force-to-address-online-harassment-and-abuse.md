@@ -2,7 +2,7 @@
 date: '2022-06-16'
 modified_time: 2022-06-16 09:47:47-04:00
 published_time: 2022-06-16 09:47:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/
 tags: presidential-actions
 title: "Memorandum on the Establishment of the White\_House Task Force to Address\
   \ Online Harassment and\_Abuse"

@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-10 16:24:38-04:00
 published_time: 2024-10-10 16:24:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/a-proclamation-on-general-pulaski-memorial-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/a-proclamation-on-general-pulaski-memorial-day-2024/
 tags: statements-releases
 title: "A Proclamation on General Pulaski Memorial Day,\_2024"
 ---

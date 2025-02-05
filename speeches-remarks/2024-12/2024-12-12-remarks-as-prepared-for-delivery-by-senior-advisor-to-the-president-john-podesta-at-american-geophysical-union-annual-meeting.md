@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-16 16:29:47-05:00
 published_time: 2024-12-12 16:27:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/12/remarks-as-prepared-for-delivery-by-senior-advisor-to-the-president-john-podesta-at-american-geophysical-union-annual-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/12/remarks-as-prepared-for-delivery-by-senior-advisor-to-the-president-john-podesta-at-american-geophysical-union-annual-meeting/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by Senior Advisor to the President John Podesta\
   \ at American Geophysical Union Annual\_Meeting"

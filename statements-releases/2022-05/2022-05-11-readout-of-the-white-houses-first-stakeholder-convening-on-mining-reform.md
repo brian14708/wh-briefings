@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 19:44:27-04:00
 published_time: 2022-05-11 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/readout-of-the-white-houses-first-stakeholder-convening-on-mining-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/readout-of-the-white-houses-first-stakeholder-convening-on-mining-reform/
 tags: statements-releases
 title: "Readout of the White\_House\u2019s First Stakeholder Convening on Mining\_\
   Reform"

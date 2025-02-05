@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-19 16:43:16-04:00
 published_time: 2022-08-19 16:43:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/statement-by-president-joseph-r-biden-jr-on-world-humanitarian-day-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/statement-by-president-joseph-r-biden-jr-on-world-humanitarian-day-2/
 tags: statements-releases
 title: "Statement by President Joseph R. Biden, Jr. on World Humanitarian\_Day"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 12:40:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Situation\
   \ in\_Nicaragua"

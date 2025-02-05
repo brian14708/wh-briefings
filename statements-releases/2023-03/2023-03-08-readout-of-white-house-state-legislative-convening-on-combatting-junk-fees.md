@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-08 16:04:20-05:00
 published_time: 2023-03-08 15:33:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Combatting Junk\_Fees"
 ---
@@ -64,7 +64,7 @@ junk fees, he knows that state leaders also play a critical role in
 advancing this effort. To support state leaders, today the White House
 released a new resource, a “[Guide for States: Cracking Down on Junk
 Fees to Lower Costs for
-Consumers](https://www.whitehouse.gov/wp-content/uploads/2023/03/WH-Junk-Fees-Guide-for-States.pdf).”
+Consumers](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/WH-Junk-Fees-Guide-for-States.pdf).”
 Also today, Department of Housing and Urban Development (HUD) Secretary
 Marcia Fudge released an [open
 letter](https://www.hud.gov/sites/dfiles/PA/documents/Junk_Fees_Memo_SOHUD_signed.pdf)
@@ -79,7 +79,7 @@ legislation has been introduced in the Vermont legislature to prohibit
 hotels from charging undisclosed resort fees and ensure that accurate
 and fair descriptions of fees are included prominently up front. Just
 this week, California legislators introduced a slate of [six
-bills](https://www.whitehouse.gov/wp-content/uploads/2023/03/Background-Packet-for-CFC-Junk-Fees-Unveiling-Press-conference-3.6.23-FINAL.pdf)
+bills](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/Background-Packet-for-CFC-Junk-Fees-Unveiling-Press-conference-3.6.23-FINAL.pdf)
 tackling junk fees, including on resort fees, rental housing fees,
 ticketing fees, and more. White House officials thanked the state
 leaders for their work and ongoing partnership on behalf of American

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-28'
 published_time: 2023-04-28 16:23:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/28/remarks-by-president-biden-at-presentation-of-the-commander-in-chiefs-trophy-to-the-air-force-falcons/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/28/remarks-by-president-biden-at-presentation-of-the-commander-in-chiefs-trophy-to-the-air-force-falcons/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Commander-in-Chief\u2019\
   s Trophy to the Air Force\_Falcons"

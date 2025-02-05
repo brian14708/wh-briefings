@@ -1,7 +1,7 @@
 ---
 date: '2022-10-01'
 published_time: 2022-10-01 15:13:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/01/statement-by-president-joe-biden-marking-five-years-since-the-las-vegas-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/01/statement-by-president-joe-biden-marking-five-years-since-the-las-vegas-shooting/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Marking Five Years Since the Las Vegas\_\
   Shooting"

@@ -2,7 +2,7 @@
 date: '2024-12-14'
 modified_time: 2024-12-14 22:54:01-05:00
 published_time: 2024-12-14 22:54:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/14/readout-of-president-joe-bidens-call-with-acting-president-and-prime-minister-han-duck-soo-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/14/readout-of-president-joe-bidens-call-with-acting-president-and-prime-minister-han-duck-soo-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Acting President and Prime\
   \ Minister Han Duck-soo of the Republic of\_Korea"

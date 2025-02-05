@@ -2,14 +2,14 @@
 date: '2023-03-17'
 modified_time: 2023-03-17 11:42:03-04:00
 published_time: 2023-03-17 11:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/fact-sheet-president-biden-urges-congressional-action-to-strengthen-accountability-for-senior-bank-executives/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/fact-sheet-president-biden-urges-congressional-action-to-strengthen-accountability-for-senior-bank-executives/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Urges Congressional Action to Strengthen Accountability\
   \ for Senior Bank\_Executives"
 ---
  
 As the President
-[said](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/12/statement-from-president-joe-biden-on-actions-to-strengthen-confidence-in-the-banking-system/)
+[said](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/12/statement-from-president-joe-biden-on-actions-to-strengthen-confidence-in-the-banking-system/)
 on Sunday when his administration took steps to stabilize the banking
 system, he is firmly committed to accountability for those responsible.
 Already, key executives that ran Silicon Valley Bank and Signature Bank

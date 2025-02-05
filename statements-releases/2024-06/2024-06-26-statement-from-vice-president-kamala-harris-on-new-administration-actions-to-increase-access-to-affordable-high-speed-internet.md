@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-26 13:00:40-04:00
 published_time: 2024-06-26 13:00:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/statement-from-vice-president-kamala-harris-on-new-administration-actions-to-increase-access-to-affordable-high-speed-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/statement-from-vice-president-kamala-harris-on-new-administration-actions-to-increase-access-to-affordable-high-speed-internet/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on New Administration Actions\
   \ to Increase Access to Affordable, High-Speed\_Internet"

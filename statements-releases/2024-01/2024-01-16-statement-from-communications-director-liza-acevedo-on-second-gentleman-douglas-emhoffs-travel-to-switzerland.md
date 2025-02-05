@@ -1,7 +1,7 @@
 ---
 date: '2024-01-16'
 published_time: 2024-01-16 12:12:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/16/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-switzerland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/16/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-switzerland/
 tags: statements-releases
 title: "Statement from Communications Director Liza Acevedo on Second Gentleman Douglas\
   \ Emhoff\u2019s Travel to\_Switzerland"

@@ -2,7 +2,7 @@
 date: '2023-07-25'
 modified_time: 2023-07-25 13:17:20-04:00
 published_time: 2023-07-25 13:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/statement-from-president-joe-biden-on-student-debt-relief-action-in-colorado/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/statement-from-president-joe-biden-on-student-debt-relief-action-in-colorado/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Student Debt Relief Action in\_Colorado"
 ---

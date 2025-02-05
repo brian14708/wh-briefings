@@ -2,7 +2,7 @@
 date: '2023-05-09'
 modified_time: 2023-05-09 11:46:15-04:00
 published_time: 2023-05-09 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/a-proclamation-on-revoking-the-air-travel-covid-19-vaccination-requirement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/09/a-proclamation-on-revoking-the-air-travel-covid-19-vaccination-requirement/
 tags: presidential-actions
 title: "A Proclamation on Revoking the Air Travel COVID-\u206019 Vaccination\_Requirement"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-16 22:32:26-04:00
 published_time: 2022-05-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/fact-sheet-the-biden-administration-announces-americans-can-order-additional-free-at-home-rapid-covid-19-tests-at-covidtests-gov/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/fact-sheet-the-biden-administration-announces-americans-can-order-additional-free-at-home-rapid-covid-19-tests-at-covidtests-gov/
 tags: statements-releases
 title: "Fact Sheet: The Biden Administration Announces Americans Can Order Additional\
   \ Free At-Home, Rapid COVID-\u206019 Tests at\_COVIDTests.gov"

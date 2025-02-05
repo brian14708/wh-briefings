@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-03-31'
 modified_time: 2021-03-31 19:23:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/31/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-22/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/03/31/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-22/
 published_time: 2021-03-31 13:39:29-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -549,4 +549,4 @@ CDC is a part of that — that is actually looking at exactly this
 question right now.
 
 To view the COVID Press Briefing slides,
-visit: [https://www.whitehouse.gov/wp-content/uploads/2021/03/COVID-Press-Briefing\_31March2021\_-for-transcript.pdf](https://www.whitehouse.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_31March2021_-for-transcript-1.pdf)
+visit: [https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/COVID-Press-Briefing\_31March2021\_-for-transcript.pdf](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/COVID-Press-Briefing_31March2021_-for-transcript-1.pdf)

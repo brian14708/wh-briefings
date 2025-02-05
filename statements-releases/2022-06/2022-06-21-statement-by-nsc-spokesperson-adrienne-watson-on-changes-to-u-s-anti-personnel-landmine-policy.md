@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-21 05:30:35-04:00
 published_time: 2022-06-21 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/statement-by-nsc-spokesperson-adrienne-watson-on-changes-to-u-s-anti-personnel-landmine-policy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/statement-by-nsc-spokesperson-adrienne-watson-on-changes-to-u-s-anti-personnel-landmine-policy/
 tags: statements-releases
 title: "Statement by\_NSC Spokesperson Adrienne Watson\_on\_Changes to U.S.\_Anti-Personnel\_\
   Landmine\_Policy"

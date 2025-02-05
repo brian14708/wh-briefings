@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-03'
 modified_time: 2022-01-03 18:33:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/
 published_time: 2022-01-03 05:00:00-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Action Plan for a Fairer, More Competitive,\
   \ and More Resilient Meat and Poultry Supply\_Chain"
@@ -18,7 +18,7 @@ opportunities—raising prices and decreasing options for American
 families, while also squeezing out small businesses and entrepreneurs.  
   
 The [meat and poultry processing
-sector](https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
+sector](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
 is a textbook example, with lack of competition hurting consumers,
 producers, and our economy.  
   
@@ -31,7 +31,7 @@ in the food supply chain.
   
 When dominant middlemen control so much of the supply chain, they can
 increase their own
-[profits](https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
+[profits](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
 at the expense of both farmers—who make less—and consumers—who pay more.
 Most farmers now have little or no choice of buyer for their product and
 little leverage to negotiate, causing their share of every dollar spent
@@ -42,7 +42,7 @@ ago, down to about 19 cents today.
   
 Even as farmers’ share of profits have dwindled, American consumers are
 paying more—with meat and poultry prices now the [single largest
-contributor](https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
+contributor](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
 to the rising cost of food people consume at home.  
   
 And, when too few companies control such a large portion of the market,

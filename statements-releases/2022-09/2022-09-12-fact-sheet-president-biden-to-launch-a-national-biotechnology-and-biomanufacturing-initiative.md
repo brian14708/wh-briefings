@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-11 20:06:24-04:00
 published_time: 2022-09-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-president-biden-to-launch-a-national-biotechnology-and-biomanufacturing-initiative/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Launch a National Biotechnology and Biomanufacturing\_\
   Initiative"

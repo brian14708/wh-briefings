@@ -2,7 +2,7 @@
 date: '2024-10-01'
 modified_time: 2024-10-01 10:29:14-04:00
 published_time: 2024-10-01 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/01/fact-sheet-biden-harris-administration-announces-new-actions-to-reduce-medical-debt-and-address-illegal-medical-debt-collection-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/01/fact-sheet-biden-harris-administration-announces-new-actions-to-reduce-medical-debt-and-address-illegal-medical-debt-collection-practices/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Reduce\
   \ Medical Debt and Address Illegal Medical Debt Collection\_Practices"
@@ -33,11 +33,11 @@ collections—more than credit cards, utilities, and auto loans.
    
 That is unacceptable to President Biden and Vice President Harris. [Vice
 President Harris has repeatedly
-highlighted](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/#:~:text=So,%20President%20Biden%20and%20I%20have%20made%20debt)
+highlighted](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/06/remarks-by-vice-president-harris-during-the-nationwide-economic-opportunity-tour/#:~:text=So,%20President%20Biden%20and%20I%20have%20made%20debt)
 the negative impacts of medical debt, noting that medical debt can stand
 in the way of someone’s dream to own a car, home, or small businesses.
 In June, Vice President Harris
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/)
 the CFPB’s proposed rule to remove medical debt from the consumer credit
 reports of more than 15 million Americans and called on states to take
 action to tackle medical debt. Following the Vice President’s call to

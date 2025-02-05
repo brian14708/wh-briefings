@@ -2,7 +2,7 @@
 date: '2024-01-09'
 modified_time: 2024-01-09 21:51:59-05:00
 published_time: 2024-01-09 20:29:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/09/readout-of-national-security-advisor-jake-sullivans-call-with-the-director-of-the-national-security-office-of-the-republic-of-korea-chan-ho-jin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/09/readout-of-national-security-advisor-jake-sullivans-call-with-the-director-of-the-national-security-office-of-the-republic-of-korea-chan-ho-jin/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with the Director\
   \ of the National Security Office of the Republic of Korea Chang\_Hojin"

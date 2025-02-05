@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 22:39:50-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-creates-opportunity-advances-equity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-creates-opportunity-advances-equity/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Creates Opportunity, Advances\_Equity"
 ---
@@ -154,7 +154,7 @@ for HUD staffing and technical assistance to affirmatively further fair
 housing and improve access to affordable housing.
 
 **Prevents Evictions.** The Administration stood up [a
-historic](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/) national
+historic](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/) national
 eviction prevention infrastructure during the pandemic, helping keep
 eviction filings 20% below historical averages in 2021. The Budget
 provides $3 billion in mandatory funding for competitive grants to

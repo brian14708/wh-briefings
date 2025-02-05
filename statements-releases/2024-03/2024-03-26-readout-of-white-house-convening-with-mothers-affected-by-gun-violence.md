@@ -2,7 +2,7 @@
 date: '2024-03-26'
 modified_time: 2024-03-26 15:05:27-04:00
 published_time: 2024-03-26 15:05:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/26/readout-of-white-house-convening-with-mothers-affected-by-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/26/readout-of-white-house-convening-with-mothers-affected-by-gun-violence/
 tags: statements-releases
 title: "Readout of White\_House Convening with Mothers Affected by Gun\_Violence"
 ---
@@ -57,7 +57,7 @@ have also seen key provisions of the BCSA begin to deliver results in
 making communities safer, including enhanced background check provisions
 that have enabled the Department of Justice to [stop more than 600
 illegal gun
-purchases](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/#:~:text=January%2005%2C%202024-,Statement%20from%20President%20Joe%20Biden%20on%20Stopping%20Over%20500%20Illegal,the%20Bipartisan%20Safer%20Communities%20Act&text=Today%20is%20an%20important%20milestone,fabric%20of%20our%20nation%20apart.) by
+purchases](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/#:~:text=January%2005%2C%202024-,Statement%20from%20President%20Joe%20Biden%20on%20Stopping%20Over%20500%20Illegal,the%20Bipartisan%20Safer%20Communities%20Act&text=Today%20is%20an%20important%20milestone,fabric%20of%20our%20nation%20apart.) by
 prohibited persons under 21 years old, and the first ever federal gun
 trafficking and straw purchasing law.  
   

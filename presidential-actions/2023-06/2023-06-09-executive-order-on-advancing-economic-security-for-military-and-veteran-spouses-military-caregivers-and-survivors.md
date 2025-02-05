@@ -2,7 +2,7 @@
 date: '2023-06-09'
 modified_time: 2023-06-09 18:35:31-04:00
 published_time: 2023-06-09 18:35:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/
 tags: presidential-actions
 title: "Executive Order on Advancing Economic Security for Military and Veteran Spouses,\
   \ Military Caregivers, and\_Survivors"

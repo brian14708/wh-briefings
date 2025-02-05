@@ -2,7 +2,7 @@
 date: '2022-05-10'
 modified_time: 2022-05-10 16:36:53-04:00
 published_time: 2022-05-10 16:36:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/10/remarks-by-president-biden-and-prime-minister-draghi-of-italy-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/10/remarks-by-president-biden-and-prime-minister-draghi-of-italy-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks By President\_Biden\_and Prime Minister Draghi Of Italy\_Before Bilateral\_\
   Meeting"

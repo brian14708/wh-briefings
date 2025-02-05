@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 11:21:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-world-refugee-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-world-refugee-day/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on World Refugee\_Day"
 ---

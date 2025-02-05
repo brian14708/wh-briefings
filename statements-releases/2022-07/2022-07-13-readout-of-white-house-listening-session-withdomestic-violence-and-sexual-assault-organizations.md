@@ -1,7 +1,7 @@
 ---
 date: '2022-07-13'
 published_time: 2022-07-13 13:50:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/readout-of-white-house-listening-session-withdomestic-violence-and-sexual-assault-organizations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/readout-of-white-house-listening-session-withdomestic-violence-and-sexual-assault-organizations/
 tags: statements-releases
 title: "Readout of White\_House Listening Session withDomestic Violence and Sexual\
   \ Assault\_Organizations"

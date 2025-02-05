@@ -2,7 +2,7 @@
 date: '2023-10-18'
 modified_time: 2023-10-19 15:18:00-04:00
 published_time: 2023-10-18 20:26:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/press-gaggle-by-president-biden-and-nsc-coordinator-for-strategic-communications-john-kirby-ramstein-air-base-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/18/press-gaggle-by-president-biden-and-nsc-coordinator-for-strategic-communications-john-kirby-ramstein-air-base-germany/
 tags: speeches-remarks
 title: "Press Gaggle by President\_Biden and NSC Coordinator for Strategic Communications\
   \ John Kirby | Ramstein Air Base,\_Germany"

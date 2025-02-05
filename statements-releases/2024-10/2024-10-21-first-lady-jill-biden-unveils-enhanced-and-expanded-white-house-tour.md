@@ -2,7 +2,7 @@
 date: '2024-10-21'
 modified_time: 2024-10-20 20:37:52-04:00
 published_time: 2024-10-21 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/
 tags: statements-releases
 title: "First Lady Jill\_Biden Unveils Enhanced and Expanded White\_House\_Tour"
 ---

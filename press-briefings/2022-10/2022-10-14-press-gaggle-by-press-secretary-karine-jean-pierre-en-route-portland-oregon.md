@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 22:10:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/14/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-portland-oregon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/14/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-portland-oregon/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Portland,\_Oregon"
 ---

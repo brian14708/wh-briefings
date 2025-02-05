@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 15:33:54-04:00
 published_time: 2022-07-12 15:28:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/12/remarks-by-president-biden-and-president-lopez-obrador-of-mexico-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/12/remarks-by-president-biden-and-president-lopez-obrador-of-mexico-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President L\xF3pez Obrador of Mexico Before\
   \ Bilateral\_Meeting"

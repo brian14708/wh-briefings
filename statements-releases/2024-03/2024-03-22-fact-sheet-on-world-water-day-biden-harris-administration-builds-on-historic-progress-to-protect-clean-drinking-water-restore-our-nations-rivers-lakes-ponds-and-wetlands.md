@@ -2,7 +2,7 @@
 date: '2024-03-22'
 modified_time: 2024-03-21 23:31:50-04:00
 published_time: 2024-03-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/
 tags: statements-releases
 title: "FACT SHEET: On World Water Day, Biden-\u2060Harris Administration Builds on\
   \ Historic Progress to Protect Clean Drinking Water, Restore Our Nation\u2019s Rivers,\
@@ -21,7 +21,7 @@ to the health, prosperity, and resiliency of the nation, and sacred to
 many Tribes. Through the [America the Beautiful
 Initiative](https://www.doi.gov/priorities/america-the-beautiful) and
 the global [Freshwater
-Challenge](https://www.whitehouse.gov/ceq/news-updates/2023/12/12/ceq-chair-brenda-mallory-announces-united-states-participation-in-the-global-freshwater-challenge-at-cop28/),
+Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/12/12/ceq-chair-brenda-mallory-announces-united-states-participation-in-the-global-freshwater-challenge-at-cop28/),
 the Biden-Harris Administration is delivering on the first-ever national
 conservation goal to protect at least 30 percent of our lands and waters
 by 2030 – accelerating locally-led efforts to tackle the world’s
@@ -37,9 +37,9 @@ billion to help ensure every community has access to clean water.
   
 While the Biden-Harris Administration delivers on [a national commitment
 to protect clean
-water](https://www.whitehouse.gov/ceq/news-updates/2023/11/15/ceq-chair-brenda-mallory-outlines-biden-harris-administrations-vision-for-clean-water-post-sackett-v-epa/),
+water](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/15/ceq-chair-brenda-mallory-outlines-biden-harris-administrations-vision-for-clean-water-post-sackett-v-epa/),
 this week Congressional Republicans are [continuing
-attempts](https://www.whitehouse.gov/wp-content/uploads/2024/03/SAP-HR-7023.pdf) to
+attempts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/SAP-HR-7023.pdf) to
 weaken the Clean Water Act. These attacks are part of a decades-long
 effort to undermine Clean Water Act safeguards, which culminated in the
 U.S. Supreme Court’s *Sackett* decision last year – one of the largest
@@ -62,7 +62,7 @@ in history:
      
 -   The White House Council on Environmental Quality is **releasing
     a** [**Wetland and Water Protection Resource
-    Guide**](https://www.whitehouse.gov/wp-content/uploads/2024/03/Wetland-and-Water-Protection-Resource-Guide.pdf) for
+    Guide**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Wetland-and-Water-Protection-Resource-Guide.pdf) for
     Tribes, States, Territories, local governments, private land owners,
     and non-governmental organizations to advance water resource
     protection. The Resource Guide highlights technical assistance and
@@ -100,7 +100,7 @@ Initiative, include:
 -   **Safeguarding the Colorado River watershed by creating **[**the
     Baaj Nwaavjo I’tah Kukveni – Ancestral Footprints of the Grand
     Canyon National
-    Monument**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/),
+    Monument**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/),
     protecting nearly one million acres of greater Grand Canyon
     landscape. President Biden’s designation honors Tribal Nations and
     Indigenous Peoples by protecting sacred ancestral places and their
@@ -132,7 +132,7 @@ Initiative, include:
     from contamination associated with developing the Pebble Mine.  
      
 -   **Tackling **[**transboundary water pollution in the Elk-Kootenai
-    watershed**](https://www.whitehouse.gov/ceq/news-updates/2024/03/11/biden-harris-administration-announces-historic-action-to-address-water-pollution-crossing-u-s-canada-border/)** to
+    watershed**](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/03/11/biden-harris-administration-announces-historic-action-to-address-water-pollution-crossing-u-s-canada-border/)** to
     protect the people and species that depend on this vital river
     system**. For over a decade, the Tribal Nations and Indigenous
     Peoples within the Elk-Kootenai watershed have requested that the
@@ -161,7 +161,7 @@ Biden-Harris Administration’s work to build the resilience of our
 communities and waters include:
 
 -   **Delivering the **[**largest single federal investment in the
-    Everglades**](https://www.whitehouse.gov/wp-content/uploads/2022/11/Florida-BIL-State-Fact-Sheet-Nov-22.pdf) **through
+    Everglades**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Florida-BIL-State-Fact-Sheet-Nov-22.pdf) **through
     President Biden’s Bipartisan Infrastructure Law.** Years of human
     development have isolated portions of the Florida Everglades and
     altered natural flow patterns for freshwater, and the Everglades are
@@ -181,7 +181,7 @@ communities and waters include:
      
 -   **Leading a comprehensive effort to **[**make Western communities
     more resilient to climate change and ongoing
-    megadrought**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/) by
+    megadrought**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/) by
     harnessing the full resources of President Biden’s historic
     Investing in America agenda. As climate change has accelerated over
     the past two decades, the Colorado River Basin experienced the
@@ -198,7 +198,7 @@ communities and waters include:
      
 -   **Restoring wild salmon, steelhead and other native fish, in
     the **[**Columbia River
-    Basin**](https://www.whitehouse.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/).
+    Basin**](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/12/14/biden-harris-administration-announces-ten-year-partnership-with-tribes-states-to-restore-wild-salmon-expand-clean-energy-production-increase-resilience-and-provide-energy-stability-in-the-col/).
     Building on President Biden’s direction to Federal agencies, the
     Biden-Harris Administration announced a historic agreement to work
     in partnership with Pacific Northwest Tribes and States to restore
@@ -261,7 +261,7 @@ history.** Highlights of this effort and other steps to address water
 pollution include:
 
 -   [**Removing all lead service
-    lines**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)**.** Over
+    lines**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/20/fact-sheet-biden-harris-administration-announces-nearly-6-billion-for-clean-drinking-water-and-wastewater-infrastructure-as-part-of-investing-in-america-tour/)**.** Over
     9 million homes, schools, and businesses receive their drinking
     water through a lead pipe. Exposure to lead can cause irreversible
     brain damage in children, even knocking off several IQ points. The
@@ -269,7 +269,7 @@ pollution include:
     dedicated funding for lead pipe replacement, in support of President
     Biden’s goal of replacing all lead pipes within a decade.  
 -   **Combatting toxic **[**“forever
-    chemicals”**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/#:~:text=President%20Biden%20has%20secured%20historic,reduce%20levels%20in%20drinking%20water.)** in
+    chemicals”**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-biden-harris-administration-takes-new-action-to-protect-communities-from-pfas-pollution/#:~:text=President%20Biden%20has%20secured%20historic,reduce%20levels%20in%20drinking%20water.)** in
     drinking water and wastewater.** The Bipartisan Infrastructure Law
     invests $10 billion to address harmful PFAS pollution in drinking
     water and wastewater. EPA has also proposed the first-ever national
@@ -283,7 +283,7 @@ pollution include:
     drinking water and wastewater investments will be provided as grants
     or forgivable loans to disadvantaged communities, advancing
     President Biden’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).
     In addition, EPA has launched several initiatives to partner with
     underserved communities nationwide to provide the support and
     technical assistance they need to access clean water funding. EPA

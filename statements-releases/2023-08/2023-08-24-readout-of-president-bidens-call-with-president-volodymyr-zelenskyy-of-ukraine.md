@@ -1,7 +1,7 @@
 ---
 date: '2023-08-24'
 published_time: 2023-08-24 19:12:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/24/readout-of-president-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/24/readout-of-president-bidens-call-with-president-volodymyr-zelenskyy-of-ukraine/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Volodymyr Zelenskyy\
   \ of\_Ukraine"

@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 19:21:59-04:00
 published_time: 2024-09-30 19:21:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-national-disability-employment-awareness-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/30/a-proclamation-on-national-disability-employment-awareness-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Disability Employment Awareness Month,\_2024"
 ---

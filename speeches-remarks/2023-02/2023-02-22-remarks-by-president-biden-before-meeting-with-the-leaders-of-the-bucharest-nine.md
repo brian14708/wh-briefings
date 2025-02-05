@@ -1,7 +1,7 @@
 ---
 date: '2023-02-22'
 published_time: 2023-02-22 10:25:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/22/remarks-by-president-biden-before-meeting-with-the-leaders-of-the-bucharest-nine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/22/remarks-by-president-biden-before-meeting-with-the-leaders-of-the-bucharest-nine/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting with the Leaders of the Bucharest\_\
   Nine"

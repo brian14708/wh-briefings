@@ -1,7 +1,7 @@
 ---
 date: '2022-06-14'
 published_time: 2022-06-14 15:39:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/14/remarks-by-vice-president-harris-before-roundtable-to-discuss-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/14/remarks-by-vice-president-harris-before-roundtable-to-discuss-roe-v-wade/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_Before Roundtable to Discuss Roe V.\_Wade"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-14 17:42:47-04:00
 published_time: 2024-05-13 17:42:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/13/remarks-by-president-biden-and-vice-president-harris-at-a-reception-in-celebration-of-aanhpi-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/13/remarks-by-president-biden-and-vice-president-harris-at-a-reception-in-celebration-of-aanhpi-heritage-month/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at a Reception in Celebration\
   \ of AANHPI Heritage\_Month"

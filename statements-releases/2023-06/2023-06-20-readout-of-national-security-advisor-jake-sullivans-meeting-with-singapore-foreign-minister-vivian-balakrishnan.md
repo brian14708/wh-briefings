@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 19:53:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/readout-of-national-security-advisor-jake-sullivans-meeting-with-singapore-foreign-minister-vivian-balakrishnan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/readout-of-national-security-advisor-jake-sullivans-meeting-with-singapore-foreign-minister-vivian-balakrishnan/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Singapore\
   \ Foreign Minister Vivian\_Balakrishnan"

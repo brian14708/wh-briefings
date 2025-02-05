@@ -1,7 +1,7 @@
 ---
 date: '2024-02-13'
 published_time: 2024-02-13 19:29:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-house-gops-baseless-impeachment-of-secretary-mayorkas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-house-gops-baseless-impeachment-of-secretary-mayorkas/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on House GOP\u2019s Baseless Impeachment\
   \ of Secretary\_Mayorkas"

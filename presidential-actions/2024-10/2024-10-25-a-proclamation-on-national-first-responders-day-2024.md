@@ -1,7 +1,7 @@
 ---
 date: '2024-10-25'
 published_time: 2024-10-25 16:02:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/25/a-proclamation-on-national-first-responders-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/25/a-proclamation-on-national-first-responders-day-2024/
 tags: presidential-actions
 title: "A Proclamation on National First Responders Day,\_2024"
 ---

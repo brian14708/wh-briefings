@@ -2,7 +2,7 @@
 date: '2024-07-17'
 modified_time: 2024-07-18 12:06:54-04:00
 published_time: 2024-07-17 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/17/remarks-by-vice-president-harris-in-a-moderated-conversation-with-amanda-stratton-and-olivia-troye-at-a-political-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/17/remarks-by-vice-president-harris-in-a-moderated-conversation-with-amanda-stratton-and-olivia-troye-at-a-political-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Amanda Stratton\
   \ and Olivia Troye at a Political\_Event"

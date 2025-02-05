@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-06 21:32:38-05:00
 published_time: 2025-01-07 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-vice-president-harris-announces-final-rule-removing-medical-debt-from-all-credit-reports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-vice-president-harris-announces-final-rule-removing-medical-debt-from-all-credit-reports/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Final Rule Removing Medical Debt\
   \ from All Credit\_Reports"
@@ -87,7 +87,7 @@ Eliminate Medical Debt**
    
 In June 2024, Vice President Harris [called on states, local
 governments, and health care providers to take
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/) to
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/) to
 reduce the burden of medical debt. States and localities have responded
 to this call by directly relieving debt and launching innovative
 programs to improve their health systems. Thanks to the President Biden
@@ -180,7 +180,7 @@ Administration to reduce the burden of medical debt, including:
     they suspect that they have been improperly billed or if they have
     had improper or illegal collection actions taken against them.
 -   The Department of Veterans Affairs (VA) implemented [a streamlined
-    process](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/#:~:text=VA%20will%20streamline%20the%20request%20process%20and%20set,effect%20in%20the%20next%2090%20to%20120%20days.) to
+    process](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/#:~:text=VA%20will%20streamline%20the%20request%20process%20and%20set,effect%20in%20the%20next%2090%20to%20120%20days.) to
     make it easier and faster for lower-income veterans to get their VA
     medical debt forgiven, already providing relief to over 10,000
     veterans and saved them more than $10 million in copay debt.
@@ -203,7 +203,7 @@ Administration to reduce the burden of medical debt, including:
     Standard Operating Procedures and Lender Match tool to discourage
     consideration of medical debt.
 -   The White House Office of Management and Budget (OMB) issued
-    memorandum [M-22-17](https://www.whitehouse.gov/wp-content/uploads/2022/08/M-22-17.pdf) to
+    memorandum [M-22-17](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/M-22-17.pdf) to
     direct agencies to reduce the impact of medical debt in the
     underwriting of Federal credit programs, helping to spur the actions
     by VA, FHFA, and SBA listed above.
@@ -219,11 +219,11 @@ Administration to reduce the burden of medical debt, including:
     Qualified Medicare Beneficiary program. 
 -   The Departments of Health and Human Services, Labor, and Treasury
     have prioritized implementing [surprise billing
-    protections](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/),
+    protections](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/),
     preventing 1 million surprise medical bills every single month.
 -   As a part of the Inflation Reduction Act, President Biden [capped
     the cost of insulin at
-    $35](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/#:~:text=Eli%20Lilly%20announced%20they%20are%20lowering%20the%20cost,diabetes%20in%20all%20fifty%20states%20and%20U.S.%20territories.) for
+    $35](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/#:~:text=Eli%20Lilly%20announced%20they%20are%20lowering%20the%20cost,diabetes%20in%20all%20fifty%20states%20and%20U.S.%20territories.) for
     a month’s supply of each covered insulin and capped out-of-pocket
     prescription drug costs at $2,000 in 2025 for seniors and others
     with Medicare. Thanks to the $3500 cap, nearly 1.5 million Medicare
@@ -231,10 +231,10 @@ Administration to reduce the burden of medical debt, including:
     first half of 2024. Since taking these actions, President Biden has
     called on Congress [to expand the cap on out-of-pocket prescription
     drug
-    costs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/#:~:text=Expand%20Cap%20on%20Out%2Dof%2DPocket%20Prescription%20Drug%20Costs.&text=The%20President%20is%20calling%20on,putting%20food%20on%20the%20table.) to
+    costs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/#:~:text=Expand%20Cap%20on%20Out%2Dof%2DPocket%20Prescription%20Drug%20Costs.&text=The%20President%20is%20calling%20on,putting%20food%20on%20the%20table.) to
     cover all Americans.
 -   President Biden has [called on
-    states](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/) to
+    states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/) to
     close the Medicaid coverage gap and create new pathways to health
     coverage by expanding Medicaid under the Affordable Care Act.
 -   Secretary Becerra directed HHS to evaluate how providers’ billing
@@ -260,7 +260,7 @@ Administration to reduce the burden of medical debt, including:
     underinsured patients who cannot afford their hospital bills and to
     Medicare beneficiaries who cannot afford their Medicare cost.
 -   The Biden-Harris
-    Administration [issued](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/#:~:text=Under%20the%20new%20rules%2C%20new%20plans%20that%20claim,they%20in%20fact%20provided%20little%20to%20no%20coverage.) a
+    Administration [issued](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/#:~:text=Under%20the%20new%20rules%2C%20new%20plans%20that%20claim,they%20in%20fact%20provided%20little%20to%20no%20coverage.) a
     final rule that protects consumers from junk health insurance and
     makes sure Americans aren’t scammed into low-quality coverage that
     leaves consumers on the hook for thousands of dollars in medical
@@ -271,7 +271,7 @@ Administration to reduce the burden of medical debt, including:
     Marketplace coverage could connect consumers to hospital financial
     assistance programs designed to reduce medical debt.
 -   The White House[ convened state and local
-    leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/) to
+    leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/) to
     discuss initiatives to further lower health care costs and reduce
     the burden of medical debt, including addressing medical payment
     products, unfair debt collection practices, surprise billing and

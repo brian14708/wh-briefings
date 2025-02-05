@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 18:59:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/statement-from-national-security-advisor-jake-sullivan-on-president-bidens-national-security-supplemental-request/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/statement-from-national-security-advisor-jake-sullivan-on-president-bidens-national-security-supplemental-request/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on President\_Biden\u2019\
   s National Security Supplemental\_Request"

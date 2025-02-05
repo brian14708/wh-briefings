@@ -2,7 +2,7 @@
 date: '2023-01-21'
 modified_time: 2023-01-21 09:10:13-05:00
 published_time: 2023-01-21 09:10:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/21/remarks-by-president-biden-at-the-u-s-conference-of-mayors-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/21/remarks-by-president-biden-at-the-u-s-conference-of-mayors-winter-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S. Conference of Mayors Winter\_Meeting"
 ---

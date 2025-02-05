@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-31'
 modified_time: 2022-01-31 16:51:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-designating-qatar-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/letter-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-designating-qatar-as-a-major-non-nato-ally/
 published_time: 2022-01-31 16:51:42-05:00
 title: "Letter to the Speaker of the House and the President of the Senate on Designating\
   \ Qatar as a Major Non-NATO\_Ally"

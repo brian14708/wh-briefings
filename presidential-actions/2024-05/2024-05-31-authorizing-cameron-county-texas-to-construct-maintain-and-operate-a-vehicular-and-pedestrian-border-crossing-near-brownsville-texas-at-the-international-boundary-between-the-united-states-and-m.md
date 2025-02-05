@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-06-03 11:45:42-04:00
 published_time: 2024-05-31 11:15:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/authorizing-cameron-county-texas-to-construct-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-near-brownsville-texas-at-the-international-boundary-between-the-united-states-and-m/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/authorizing-cameron-county-texas-to-construct-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-near-brownsville-texas-at-the-international-boundary-between-the-united-states-and-m/
 tags: presidential-actions
 title: "Presidential Permit Authorizing Cameron County, Texas, to Construct, Maintain,\
   \ and Operate a Vehicular and Pedestrian Border Crossing Near Brownsville, Texas,\

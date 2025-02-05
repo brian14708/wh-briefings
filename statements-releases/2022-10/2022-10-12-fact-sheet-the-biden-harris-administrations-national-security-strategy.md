@@ -2,14 +2,14 @@
 date: '2022-10-12'
 modified_time: 2022-10-12 11:09:11-04:00
 published_time: 2022-10-12 12:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-the-biden-harris-administrations-national-security-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-the-biden-harris-administrations-national-security-strategy/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s National Security\_\
   Strategy"
 ---
  
 [***<u>Read the full strategy
-here</u>***](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf)
+here</u>***](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf)
 
 President Biden’s National Security Strategy outlines how the United
 States will advance our vital interests and pursue a free, open,

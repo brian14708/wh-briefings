@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-04'
 modified_time: 2021-07-04 18:17:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/04/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neuberger-on-reporting-kaseya-compromises/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/04/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neuberger-on-reporting-kaseya-compromises/
 published_time: 2021-07-04 18:17:31-04:00
 title: "Statement by Deputy National Security Advisor for Cyber and Emerging Technology\
   \ Anne Neuberger on Reporting Kaseya\_Compromises"
@@ -14,7 +14,7 @@ response. The Federal Bureau of Investigation (FBI) and
 the Cybersecurity and Infrastructure Security Agency (CISA) have been
 working with Kaseya and coordinating to conduct outreach to impacted
 victims. Yesterday, President
-Biden [directed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/03/remarks-by-president-biden-after-visiting-king-orchards/) the
+Biden [directed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/03/remarks-by-president-biden-after-visiting-king-orchards/) the
 full resources of the government to investigate this incident. We extend
 our thanks to the cybersecurity professionals across the FBI, CISA, and
 the intelligence community for working around the clock to respond to

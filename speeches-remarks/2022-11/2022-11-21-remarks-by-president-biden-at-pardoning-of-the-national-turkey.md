@@ -2,7 +2,7 @@
 date: '2022-11-21'
 modified_time: 2022-11-21 14:07:44-05:00
 published_time: 2022-11-21 14:07:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-president-biden-at-pardoning-of-the-national-turkey/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-president-biden-at-pardoning-of-the-national-turkey/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Pardoning of the National\_Turkey"
 ---

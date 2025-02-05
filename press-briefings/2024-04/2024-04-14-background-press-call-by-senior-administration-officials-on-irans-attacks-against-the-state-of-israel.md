@@ -2,7 +2,7 @@
 date: '2024-04-14'
 modified_time: 2024-04-16 19:58:11-04:00
 published_time: 2024-04-14 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/14/background-press-call-by-senior-administration-officials-on-irans-attacks-against-the-state-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/14/background-press-call-by-senior-administration-officials-on-irans-attacks-against-the-state-of-israel/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on Iran\u2019s Attacks\
   \ Against the State of\_Israel"

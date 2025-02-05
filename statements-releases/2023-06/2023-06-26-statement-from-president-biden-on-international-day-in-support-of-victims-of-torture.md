@@ -1,7 +1,7 @@
 ---
 date: '2023-06-26'
 published_time: 2023-06-26 10:32:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/statement-from-president-biden-on-international-day-in-support-of-victims-of-torture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/statement-from-president-biden-on-international-day-in-support-of-victims-of-torture/
 tags: statements-releases
 title: "Statement from President\_Biden on International Day in Support of Victims\
   \ of\_Torture"

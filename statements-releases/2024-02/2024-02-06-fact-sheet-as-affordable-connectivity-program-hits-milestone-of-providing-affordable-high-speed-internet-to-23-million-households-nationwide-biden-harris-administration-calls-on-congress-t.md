@@ -2,7 +2,7 @@
 date: '2024-02-06'
 modified_time: 2024-02-06 07:46:12-05:00
 published_time: 2024-02-06 05:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-as-affordable-connectivity-program-hits-milestone-of-providing-affordable-high-speed-internet-to-23-million-households-nationwide-biden-harris-administration-calls-on-congress-t/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-as-affordable-connectivity-program-hits-milestone-of-providing-affordable-high-speed-internet-to-23-million-households-nationwide-biden-harris-administration-calls-on-congress-t/
 tags: statements-releases
 title: "FACT SHEET: As Affordable Connectivity Program Hits Milestone of Providing\
   \ Affordable High-Speed Internet To 23 Million Households Nationwide, Biden-\u2060\
@@ -26,7 +26,7 @@ However, without action from Congress, this program will sunset this
 spring and millions of Americans may no longer be able to afford
 high-speed internet service. On October 25, 2023, the Biden-Harris
 Administration sent Congress [a supplemental request for $6
-billion](https://www.whitehouse.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) to
+billion](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Summary-of-Funding-Request-to-Meet-Critical-Needs.pdf) to
 extend funding for the Affordable Connectivity Program. Tomorrow, the
 FCC will be pausing new enrollments in the program. This means that
 households that can’t afford high-speed internet and haven’t yet signed
@@ -65,75 +65,75 @@ Below, find state by state data on how many families are enrolled in the
 Affordable Connectivity Program, including estimates of percentages of
 households enrolled in ACP in every Congressional District.
 
--   [Alabama](https://www.whitehouse.gov/wp-content/uploads/2024/01/Alabama-ACP-Fact-Sheet.pdf)
--   [Alaska](https://www.whitehouse.gov/wp-content/uploads/2024/01/Alaska-ACP-Fact-Sheet.pdf)
+-   [Alabama](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Alabama-ACP-Fact-Sheet.pdf)
+-   [Alaska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Alaska-ACP-Fact-Sheet.pdf)
 -   [American
-    Samoa](https://www.whitehouse.gov/wp-content/uploads/2024/01/American-Samoa-ACP-Fact-Sheet.pdf)
--   [Arizona](https://www.whitehouse.gov/wp-content/uploads/2024/01/Arizona-ACP-Fact-Sheet.pdf)
--   [Arkansas](https://www.whitehouse.gov/wp-content/uploads/2024/01/Arkansas-ACP-Fact-Sheet.pdf)
--   [California](https://www.whitehouse.gov/wp-content/uploads/2024/01/California-ACP-Fact-Sheet.pdf)
--   [Colorado](https://www.whitehouse.gov/wp-content/uploads/2024/01/Colorado-ACP-Fact-Sheet.pdf)
+    Samoa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/American-Samoa-ACP-Fact-Sheet.pdf)
+-   [Arizona](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Arizona-ACP-Fact-Sheet.pdf)
+-   [Arkansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Arkansas-ACP-Fact-Sheet.pdf)
+-   [California](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/California-ACP-Fact-Sheet.pdf)
+-   [Colorado](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Colorado-ACP-Fact-Sheet.pdf)
 -   [Commonwealth of the Northern Mariana
-    Islands](https://www.whitehouse.gov/wp-content/uploads/2024/01/Northern-Mariana-Islands-ACP-Fact-Sheet.pdf)
--   [Connecticut](https://www.whitehouse.gov/wp-content/uploads/2024/01/Connecticut-ACP-Fact-Sheet.pdf)
--   [DC](https://www.whitehouse.gov/wp-content/uploads/2024/01/Washington-DC-ACP-Fact-Sheet.pdf)
--   [Delaware](https://www.whitehouse.gov/wp-content/uploads/2024/01/Delaware-ACP-Fact-Sheet.pdf)
--   [Florida](https://www.whitehouse.gov/wp-content/uploads/2024/01/Florida-ACP-Fact-Sheet.pdf)
--   [Georgia](https://www.whitehouse.gov/wp-content/uploads/2024/01/Georgia-ACP-Fact-Sheet.pdf)
--   [Guam](https://www.whitehouse.gov/wp-content/uploads/2024/01/Guam-ACP-Fact-Sheet.pdf)
--   [Hawaiʻi](https://www.whitehouse.gov/wp-content/uploads/2024/01/Hawaii-ACP-Fact-Sheet.pdf)
--   [Idaho](https://www.whitehouse.gov/wp-content/uploads/2024/01/Idaho-ACP-Fact-Sheet.pdf)
--   [Illinois](https://www.whitehouse.gov/wp-content/uploads/2024/01/Illinois-ACP-Fact-Sheet.pdf)
--   [Indiana](https://www.whitehouse.gov/wp-content/uploads/2024/01/Indiana-ACP-Fact-Sheet.pdf)
--   [Iowa](https://www.whitehouse.gov/wp-content/uploads/2024/01/Iowa-ACP-Fact-Sheet.pdf)
--   [Kansas](https://www.whitehouse.gov/wp-content/uploads/2024/01/Kansas-ACP-Fact-Sheet.pdf)
--   [Kentucky](https://www.whitehouse.gov/wp-content/uploads/2024/01/Kentucky-ACP-Fact-Sheet.pdf)
--   [Louisiana](https://www.whitehouse.gov/wp-content/uploads/2024/01/Louisiana-ACP-Fact-Sheet.pdf)
--   [Maine](https://www.whitehouse.gov/wp-content/uploads/2024/01/Maine-ACP-Fact-Sheet.pdf)
--   [Maryland](https://www.whitehouse.gov/wp-content/uploads/2024/01/Maryland-ACP-Fact-Sheet.pdf)
--   [Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2024/01/Massachusetts-ACP-Fact-Sheet.pdf)
--   [Michigan](https://www.whitehouse.gov/wp-content/uploads/2024/01/Michigan-ACP-Fact-Sheet.pdf)
--   [Minnesota](https://www.whitehouse.gov/wp-content/uploads/2024/01/Minnesota-ACP-Fact-Sheet.pdf)
--   [Mississippi](https://www.whitehouse.gov/wp-content/uploads/2024/01/Mississippi-ACP-Fact-Sheet.pdf)
--   [Missouri](https://www.whitehouse.gov/wp-content/uploads/2024/01/Missouri-ACP-Fact-Sheet.pdf)
--   [Montana](https://www.whitehouse.gov/wp-content/uploads/2024/01/Montana-ACP-Fact-Sheet.pdf)
--   [Nebraska](https://www.whitehouse.gov/wp-content/uploads/2024/01/Nebraska-ACP-Fact-Sheet.pdf)
--   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2024/01/Nevada-ACP-Fact-Sheet.pdf)
+    Islands](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Northern-Mariana-Islands-ACP-Fact-Sheet.pdf)
+-   [Connecticut](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Connecticut-ACP-Fact-Sheet.pdf)
+-   [DC](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Washington-DC-ACP-Fact-Sheet.pdf)
+-   [Delaware](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Delaware-ACP-Fact-Sheet.pdf)
+-   [Florida](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Florida-ACP-Fact-Sheet.pdf)
+-   [Georgia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Georgia-ACP-Fact-Sheet.pdf)
+-   [Guam](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Guam-ACP-Fact-Sheet.pdf)
+-   [Hawaiʻi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Hawaii-ACP-Fact-Sheet.pdf)
+-   [Idaho](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Idaho-ACP-Fact-Sheet.pdf)
+-   [Illinois](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Illinois-ACP-Fact-Sheet.pdf)
+-   [Indiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Indiana-ACP-Fact-Sheet.pdf)
+-   [Iowa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Iowa-ACP-Fact-Sheet.pdf)
+-   [Kansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Kansas-ACP-Fact-Sheet.pdf)
+-   [Kentucky](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Kentucky-ACP-Fact-Sheet.pdf)
+-   [Louisiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Louisiana-ACP-Fact-Sheet.pdf)
+-   [Maine](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Maine-ACP-Fact-Sheet.pdf)
+-   [Maryland](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Maryland-ACP-Fact-Sheet.pdf)
+-   [Massachusetts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Massachusetts-ACP-Fact-Sheet.pdf)
+-   [Michigan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Michigan-ACP-Fact-Sheet.pdf)
+-   [Minnesota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Minnesota-ACP-Fact-Sheet.pdf)
+-   [Mississippi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Mississippi-ACP-Fact-Sheet.pdf)
+-   [Missouri](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Missouri-ACP-Fact-Sheet.pdf)
+-   [Montana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Montana-ACP-Fact-Sheet.pdf)
+-   [Nebraska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Nebraska-ACP-Fact-Sheet.pdf)
+-   [Nevada](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Nevada-ACP-Fact-Sheet.pdf)
 -   [New
-    Hampshire](https://www.whitehouse.gov/wp-content/uploads/2024/01/New-Hampshire-ACP-Fact-Sheet.pdf)
+    Hampshire](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/New-Hampshire-ACP-Fact-Sheet.pdf)
 -   [New
-    Jersey](https://www.whitehouse.gov/wp-content/uploads/2024/01/New-Jersey-ACP-Fact-Sheet.pdf)
+    Jersey](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/New-Jersey-ACP-Fact-Sheet.pdf)
 -   [New
-    Mexico](https://www.whitehouse.gov/wp-content/uploads/2024/01/New-Mexico-ACP-Fact-Sheet.pdf)
+    Mexico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/New-Mexico-ACP-Fact-Sheet.pdf)
 -   [New
-    York](https://www.whitehouse.gov/wp-content/uploads/2024/01/New-York-ACP-Fact-Sheet.pdf)
+    York](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/New-York-ACP-Fact-Sheet.pdf)
 -   [North
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2024/01/North-Carolina-ACP-Fact-Sheet.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/North-Carolina-ACP-Fact-Sheet.pdf)
 -   [North
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2024/01/North-Dakota-ACP-Fact-Sheet.pdf)
--   [Ohio](https://www.whitehouse.gov/wp-content/uploads/2024/01/Ohio-ACP-Fact-Sheet.pdf)
--   [Oklahoma](https://www.whitehouse.gov/wp-content/uploads/2024/01/Oklahoma-ACP-Fact-Sheet.pdf)
--   [Oregon](https://www.whitehouse.gov/wp-content/uploads/2024/01/Oregon-ACP-Fact-Sheet.pdf)
--   [Pennsylvania](https://www.whitehouse.gov/wp-content/uploads/2024/01/Pennsylvania-ACP-Fact-Sheet.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/North-Dakota-ACP-Fact-Sheet.pdf)
+-   [Ohio](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Ohio-ACP-Fact-Sheet.pdf)
+-   [Oklahoma](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Oklahoma-ACP-Fact-Sheet.pdf)
+-   [Oregon](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Oregon-ACP-Fact-Sheet.pdf)
+-   [Pennsylvania](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Pennsylvania-ACP-Fact-Sheet.pdf)
 -   [Puerto
-    Rico](https://www.whitehouse.gov/wp-content/uploads/2024/01/Puerto-Rico-ACP-Fact-Sheet.pdf)
+    Rico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Puerto-Rico-ACP-Fact-Sheet.pdf)
 -   [Rhode
-    Island](https://www.whitehouse.gov/wp-content/uploads/2024/01/Rhode-Island-ACP-Fact-Sheet.pdf)
+    Island](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Rhode-Island-ACP-Fact-Sheet.pdf)
 -   [South
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2024/01/South-Carolina-ACP-Fact-Sheet.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/South-Carolina-ACP-Fact-Sheet.pdf)
 -   [South
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2024/01/South-Dakota-ACP-Fact-Sheet.pdf)
--   [Tennessee](https://www.whitehouse.gov/wp-content/uploads/2024/01/Tennessee-ACP-Fact-Sheet.pdf)
--   [Texas](https://www.whitehouse.gov/wp-content/uploads/2024/01/Texas-ACP-Fact-Sheet.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/South-Dakota-ACP-Fact-Sheet.pdf)
+-   [Tennessee](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Tennessee-ACP-Fact-Sheet.pdf)
+-   [Texas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Texas-ACP-Fact-Sheet.pdf)
 -   [U.S. Virgin
-    Islands](https://www.whitehouse.gov/wp-content/uploads/2024/01/Virgin-Islands-ACP-Fact-Sheet.pdf)
--   [Utah](https://www.whitehouse.gov/wp-content/uploads/2024/01/Utah-ACP-Fact-Sheet.pdf)
--   [Vermont](https://www.whitehouse.gov/wp-content/uploads/2024/01/Vermont-ACP-Fact-Sheet.pdf)
--   [Virginia](https://www.whitehouse.gov/wp-content/uploads/2024/01/Virginia-ACP-Fact-Sheet.pdf)
--   [Washington](https://www.whitehouse.gov/wp-content/uploads/2024/01/Washington-ACP-Fact-Sheet.pdf)
+    Islands](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Virgin-Islands-ACP-Fact-Sheet.pdf)
+-   [Utah](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Utah-ACP-Fact-Sheet.pdf)
+-   [Vermont](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Vermont-ACP-Fact-Sheet.pdf)
+-   [Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Virginia-ACP-Fact-Sheet.pdf)
+-   [Washington](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Washington-ACP-Fact-Sheet.pdf)
 -   [West
-    Virginia](https://www.whitehouse.gov/wp-content/uploads/2024/01/West-Virginia-ACP-Fact-Sheet.pdf)
--   [Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2024/01/Wisconsin-ACP-Fact-Sheet.pdf)
--   [Wyoming](https://www.whitehouse.gov/wp-content/uploads/2024/01/Wyoming-ACP-Fact-Sheet.pdf)
+    Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/West-Virginia-ACP-Fact-Sheet.pdf)
+-   [Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Wisconsin-ACP-Fact-Sheet.pdf)
+-   [Wyoming](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Wyoming-ACP-Fact-Sheet.pdf)
 
 \###

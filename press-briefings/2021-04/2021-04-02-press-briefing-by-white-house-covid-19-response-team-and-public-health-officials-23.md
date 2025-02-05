@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-04-02'
 modified_time: 2021-04-02 17:35:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/02/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-23/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/04/02/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-23/
 published_time: 2021-04-02 17:35:48-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -555,4 +555,4 @@ And we look forward to seeing you on Monday.  Thank you.
 12:13 P.M. EDT
 
 To view the COVID Briefing Slides, visit
-<https://www.whitehouse.gov/wp-content/uploads/2021/04/COVID-Press-Briefing_2April2021_for-transcript.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/COVID-Press-Briefing_2April2021_for-transcript.pdf>

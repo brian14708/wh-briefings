@@ -2,7 +2,7 @@
 date: '2022-05-24'
 modified_time: 2022-05-24 03:09:20-04:00
 published_time: 2022-05-24 03:09:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/readout-of-president-bidens-meeting-with-prime-minister-modi-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/readout-of-president-bidens-meeting-with-prime-minister-modi-of-india/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Modi of\_India"
 ---

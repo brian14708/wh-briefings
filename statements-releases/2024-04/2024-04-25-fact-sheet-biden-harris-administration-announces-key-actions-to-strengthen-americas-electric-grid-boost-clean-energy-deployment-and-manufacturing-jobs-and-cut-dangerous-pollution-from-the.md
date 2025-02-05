@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-24 23:15:55-04:00
 published_time: 2024-04-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-announces-key-actions-to-strengthen-americas-electric-grid-boost-clean-energy-deployment-and-manufacturing-jobs-and-cut-dangerous-pollution-from-the/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-announces-key-actions-to-strengthen-americas-electric-grid-boost-clean-energy-deployment-and-manufacturing-jobs-and-cut-dangerous-pollution-from-the/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Key Actions to Strengthen\
   \ America\u2019s Electric Grid, Boost Clean Energy Deployment and Manufacturing\
@@ -91,7 +91,7 @@ up and running; and smart standards to provide rules of the road for
 power companies, enabling them to seize the unprecedented opportunities
 to deliver clean electricity across the country. These steps – which are
 part of a broader slate of Earth Week
-[announcements](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/#:~:text=Throughout%20Earth%20Week%2C%20the%20Biden,focus%20on%20steps%20to%20cut)
+[announcements](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/#:~:text=Throughout%20Earth%20Week%2C%20the%20Biden,focus%20on%20steps%20to%20cut)
 – build on President Biden’s actions since Day One to tackle the climate
 crisis and advance environmental justice.  
    
@@ -142,7 +142,7 @@ Chains</u>**
 Thanks to incentives from President Biden’s Inflation Reduction Act and
 Bipartisan Infrastructure Law, the clean energy future will be made in
 America. Under the Biden-Harris Administration, private companies have
-[invested](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+[invested](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 almost $80 billion in clean energy manufacturing. Strengthening U.S.
 clean energy supply chains not only benefits American workers but also
 makes it easier to deploy clean energy even faster to cut emissions.
@@ -182,7 +182,7 @@ manufacturing:
 
 **<u>Deploying Clean Energy to Meet America’s Power Needs</u>**  
 The President’s Investing in America agenda has unleashed [unprecedented
-investment](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+investment](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 deployment of clean energy technologies, attracting hundreds of billions
 of dollars in private sector investment and creating over 270,000 new
 clean energy jobs. The Administration is taking additional steps to
@@ -274,7 +274,7 @@ actions continue this progress:
 
 -   **Reducing Energy Bills for Low-Income Households:** This week the
     EPA
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/#:~:text=Throughout%20Earth%20Week%2C%20the%20Biden,focus%20on%20steps%20to%20cut)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/#:~:text=Throughout%20Earth%20Week%2C%20the%20Biden,focus%20on%20steps%20to%20cut)
     $7 billion to deploy solar energy for low-income communities through
     the Solar for All program, funded by the Inflation Reduction Act.
     The 60 selections will provide funding to support 60 states,
@@ -325,7 +325,7 @@ actions continue this progress:
     sovereignty.  
 -   **Advancing Environmental Justice:** Through the Justice40
     Initiative, [518 programs across 19 federal
-    agencies](https://www.whitehouse.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
+    agencies](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/11/29/biden-harris-administration-continues-to-accelerate-environmental-justice-in-disadvantaged-communities-through-the-presidents-investing-in-america-agenda/)
     are being reimagined and transformed to ensure the benefits reach
     the communities that need them most. Federal agencies are making
     this happen with the [Climate and Economic Justice Screening

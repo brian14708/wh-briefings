@@ -1,7 +1,7 @@
 ---
 date: '2023-08-17'
 published_time: 2023-08-17 15:33:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/17/remarks-by-president-biden-before-air-force-one-departure-joint-base-andrews-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/17/remarks-by-president-biden-before-air-force-one-departure-joint-base-andrews-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Joint Base Andrews,\_\
   MD"

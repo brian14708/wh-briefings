@@ -1,7 +1,7 @@
 ---
 date: '2023-10-14'
 published_time: 2023-10-14 16:23:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/14/statement-from-president-biden-on-george-floyds-50th-birthday/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/14/statement-from-president-biden-on-george-floyds-50th-birthday/
 tags: statements-releases
 title: "Statement from President\_Biden on George Floyd\u2019s 50th\_Birthday"
 ---

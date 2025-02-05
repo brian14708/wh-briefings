@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-24 17:10:41-04:00
 published_time: 2024-05-24 17:10:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/statement-from-president-joe-biden-on-the-landslide-in-papua-new-guinea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/statement-from-president-joe-biden-on-the-landslide-in-papua-new-guinea/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Landslide in Papua New\_Guinea"
 ---

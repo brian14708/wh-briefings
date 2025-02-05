@@ -1,7 +1,7 @@
 ---
 date: '2024-03-07'
 published_time: 2024-03-07 08:57:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-biden-harris-administration-continues-the-fight-for-reproductive-freedom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-biden-harris-administration-continues-the-fight-for-reproductive-freedom/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues the Fight for Reproductive\_\
   Freedom"
@@ -74,7 +74,7 @@ to:*
 -   **Protect Access to Safe and Legal Medication Abortion.**  On what
     would have been the 50th anniversary of *Roe v. Wade*, President
     Biden issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/#:~:text=The%20Presidential%20Memorandum%20directs%20the,or%20provide%20mifepristone%E2%80%94no%20matter) directing
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/#:~:text=The%20Presidential%20Memorandum%20directs%20the,or%20provide%20mifepristone%E2%80%94no%20matter) directing
     agencies to consider further efforts to support patients, providers,
     and pharmacies who wish to legally access, prescribe, or provide
     medication abortion. This Presidential Memorandum followed
@@ -96,7 +96,7 @@ to:*
     independent, expert judgment in court, including in a lawsuit before
     the Supreme Court that attempts to curtail access nationwide. The
     Administration will [continue to stand
-    by](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/) FDA’s
+    by](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/) FDA’s
     decades-old approval and regulation of the medication as well as
     FDA’s ability to review, approve, and regulate a wide range of
     prescription medications. Efforts to impose outdated restrictions on
@@ -104,7 +104,7 @@ to:*
     state in the country.  
 -   **Partner with State Leaders on the Frontlines of Abortion Access.**
      The White House continues to
-    [partner](https://www.whitehouse.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
+    [partner](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
     with leaders on the frontlines of protecting access to abortion—both
     those fighting extreme state legislation and those advancing
     proactive policies to protect access to reproductive health care,
@@ -193,7 +193,7 @@ travel, the Administration will continue to:*
 
 -   **Defend the Right to Travel.**  On the day the Supreme Court
     overturned *Roe v. Wade*, President
-    Biden [reaffirmed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
+    Biden [reaffirmed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
     Attorney General’s statement that women must remain free to travel
     safely to another state to seek the care they need. In November
     2023, DOJ filed a [statement of
@@ -227,7 +227,7 @@ to:*
 -   **Strengthen Access to Affordable, High-Quality Contraception.**
      Ahead of the one-year anniversary of the Supreme Court’s decision
     to overturn *Roe v. Wade*, the President [issued an Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) directing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) directing
     agencies to consider actions to improve access and affordability for
     women with private health insurance; bolster access across Federal
     health programs; promote access to over-the-counter contraception;
@@ -268,19 +268,19 @@ to:*
         contraception, at no cost and without a prescription from a
         health care provider.
     -   Vice President Harris and the Department of Education
-        [convened](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/)
+        [convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/readout-of-vice-president-kamala-harriss-participation-at-the-department-of-educations-convening-on-access-to-contraception-for-college-students/)
         representatives from 68 college and university leaders in 32
         states to hear promising strategies from leaders of
         postsecondary institutions for protecting and expanding access
         to contraception for their students and on campus.
     -   The Gender Policy Council, Domestic Policy Council, and leaders
         from the Departments of the Treasury, Labor, and HHS
-        [called](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/readout-of-white-house-meeting-on-increasing-contraception-access-and-affordability/)
+        [called](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/readout-of-white-house-meeting-on-increasing-contraception-access-and-affordability/)
         on private sector leaders to take robust additional actions to
         further expand access to contraception.
     -   The Gender Policy Council and the Department of Health and Human
         Services joined a
-        [convening](https://www.whitehouse.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/)
+        [convening](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2024/02/29/strengthening-access-to-contraception-at-pharmacies/)
         focused on strategies to expand the role of pharmacies and
         pharmacists in promoting access to contraception and breaking
         down barriers for consumers.  
@@ -412,7 +412,7 @@ information about their rights, the Administration will continue to:*
     federal law.  
 -   **Hosted a Convening of Lawyers in Defense of Reproductive
     Rights.**  DOJ and the Office of White House
-    Counsel [convened](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/) more
+    Counsel [convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/) more
     than 200 lawyers and advocates from private firms, bar associations,
     legal aid organizations, reproductive rights groups, and law schools
     across the country for a convening of pro-bono attorneys, as

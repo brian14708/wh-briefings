@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-22 06:28:20-04:00
 published_time: 2022-05-22 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/22/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-tokyo-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/22/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-tokyo-japan/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Tokyo,\_Japan"

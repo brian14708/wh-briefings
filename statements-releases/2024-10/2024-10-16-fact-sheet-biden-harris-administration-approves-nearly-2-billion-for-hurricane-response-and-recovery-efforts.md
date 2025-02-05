@@ -2,7 +2,7 @@
 date: '2024-10-16'
 modified_time: 2024-10-16 11:26:22-04:00
 published_time: 2024-10-16 11:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-biden-harris-administration-approves-nearly-2-billion-for-hurricane-response-and-recovery-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-biden-harris-administration-approves-nearly-2-billion-for-hurricane-response-and-recovery-efforts/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Approves Nearly $2 Billion for\
   \ Hurricane Response and Recovery\_Efforts"
@@ -27,7 +27,7 @@ measures, and restoring public infrastructure, including roads, bridges,
 schools, and courthouses.
 
 **In North Carolina, where the Administration** [**continues to surge
-resources**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/)**,
+resources**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/)**,
 more than $100 million in assistance has been approved for more than
 77,000 survivors.**
 

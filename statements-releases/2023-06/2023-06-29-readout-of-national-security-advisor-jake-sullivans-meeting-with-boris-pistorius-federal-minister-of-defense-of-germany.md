@@ -1,7 +1,7 @@
 ---
 date: '2023-06-29'
 published_time: 2023-06-29 08:10:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-boris-pistorius-federal-minister-of-defense-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/29/readout-of-national-security-advisor-jake-sullivans-meeting-with-boris-pistorius-federal-minister-of-defense-of-germany/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Boris\
   \ Pistorius, Federal Minister of Defense of\_Germany"

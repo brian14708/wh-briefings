@@ -2,7 +2,7 @@
 date: '2024-11-29'
 modified_time: 2024-11-27 15:32:58-05:00
 published_time: 2024-11-29 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/29/fact-sheet-ahead-of-small-business-saturday-the-biden-harris-administration-takes-new-actions-to-increase-federal-support-for-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/29/fact-sheet-ahead-of-small-business-saturday-the-biden-harris-administration-takes-new-actions-to-increase-federal-support-for-small-businesses/
 tags: statements-releases
 title: "FACT SHEET: Ahead of Small Business Saturday, the Biden-\u2060Harris Administration\
   \ Takes New Actions to Increase Federal Support for Small\_Businesses"
@@ -28,10 +28,10 @@ resilience in federal research and development (R&D) supply chains.
 
 President Biden and Vice President Harris invested a record [$56 billion
 in SBA-backed capital in small
-businesses](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-a-record-20-million-new-business-applications/)
+businesses](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/14/fact-sheet-a-record-20-million-new-business-applications/)
 last year—and have overseen a small business boom. American
 entrepreneurs have filed over [20 million new business
-applications](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/14/statement-from-president-biden-on-a-record-20-million-new-business-applications/),
+applications](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/14/statement-from-president-biden-on-a-record-20-million-new-business-applications/),
 the most in any single Presidential term in history. And these
 applications are leading historic business creation, with new
 establishment growth higher under President Biden than at any point in
@@ -104,7 +104,7 @@ actions:
     contracts, with two-year average annual spending at $2.5 billion in
     Fiscal Years 2022 and 2023—an all-time high and nearly $450 million
     a year more than in 2020. Following [OMB’s call for
-    agencies](https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-11-Creating-a-More-Diverse-and-Resilient-Federal-Marketplace.pdf) to
+    agencies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/02/M-23-11-Creating-a-More-Diverse-and-Resilient-Federal-Marketplace.pdf) to
     strategically build out resilience within specific supply chains,
     the White House, SBA, and the National Aeronautics and Space
     Administration (NASA) released an internal set of best practices to

@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 09:59:01-04:00
 published_time: 2022-04-28 09:57:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/statement-by-president-joe-biden-on-gross-domestic-product/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/statement-by-president-joe-biden-on-gross-domestic-product/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Gross Domestic\_Product"
 ---

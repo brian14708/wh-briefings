@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-07 21:05:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
 published_time: 2021-06-08 05:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Supply Chain Disruptions\
   \ Task Force to Address Short-Term Supply Chain\_Discontinuities"
@@ -11,10 +11,10 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Announces Supply Chain Dis
 **100-Day Review Outlines Steps to Strengthen Critical Supply Chains  
 **  
 [**FINAL
-REPORT**](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
+REPORT**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
 
 Today, the Biden-Harris Administration is announcing [key
-findings](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf) from
+findings](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf) from
 the reviews directed under Executive Order (E.O.) 14017 “America’s
 Supply Chains,” as well as immediate actions the Administration will
 take to strengthen American supply chains to promote economic security,

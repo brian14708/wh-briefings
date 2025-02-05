@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-29 20:11:18-04:00
 published_time: 2023-10-30 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/
 tags: statements-releases
 title: "FACT SHEET:Biden-\u2060Harris Administration Announces Historic Investment\
   \ to Bolster Nation\u2019s Electric Grid Infrastructure, Cut Energy Costs for Families,\
@@ -176,7 +176,7 @@ planning, and more. Key actions include:
     nine federal agencies to facilitate timely, responsible, and
     equitable transmission permitting – part of the Biden-Harris
     Administration’s [Permitting Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/).  
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/).  
      
 -   **Launching Additional Transmission Programs: **The U.S. Department
     of Agriculture opened applications for the [Empowering Rural America

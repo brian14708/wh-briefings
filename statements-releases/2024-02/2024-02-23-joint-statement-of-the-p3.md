@@ -2,7 +2,7 @@
 date: '2024-02-23'
 modified_time: 2024-02-23 20:58:41-05:00
 published_time: 2024-02-23 20:58:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/23/joint-statement-of-the-p3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/23/joint-statement-of-the-p3/
 tags: statements-releases
 title: "Joint Statement of the\_P3"
 ---

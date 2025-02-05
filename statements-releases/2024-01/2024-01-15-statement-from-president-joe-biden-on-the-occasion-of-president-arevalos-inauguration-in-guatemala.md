@@ -1,7 +1,7 @@
 ---
 date: '2024-01-15'
 published_time: 2024-01-15 07:01:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/15/statement-from-president-joe-biden-on-the-occasion-of-president-arevalos-inauguration-in-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/15/statement-from-president-joe-biden-on-the-occasion-of-president-arevalos-inauguration-in-guatemala/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of President Ar\xE9valo\u2019\
   s Inauguration in\_Guatemala"

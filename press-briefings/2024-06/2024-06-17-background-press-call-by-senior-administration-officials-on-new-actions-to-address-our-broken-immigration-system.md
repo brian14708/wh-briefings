@@ -2,7 +2,7 @@
 date: '2024-06-17'
 modified_time: 2024-06-18 18:27:17-04:00
 published_time: 2024-06-17 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/17/background-press-call-by-senior-administration-officials-on-new-actions-to-address-our-broken-immigration-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/17/background-press-call-by-senior-administration-officials-on-new-actions-to-address-our-broken-immigration-system/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on New Actions to\
   \ Address Our Broken Immigration\_System"

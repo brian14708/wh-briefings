@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 16:54:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/readout-of-president-joe-bidens-call-with-lieutenant-commander-christopher-hooper-and-aviation-survival-technician-second-class-zach-loesch-of-the-u-s-coast-guard/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/readout-of-president-joe-bidens-call-with-lieutenant-commander-christopher-hooper-and-aviation-survival-technician-second-class-zach-loesch-of-the-u-s-coast-guard/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Lieutenant Commander Christopher\
   \ Hooper and Aviation Survival Technician Second Class Zach Loesch of the U. S.\

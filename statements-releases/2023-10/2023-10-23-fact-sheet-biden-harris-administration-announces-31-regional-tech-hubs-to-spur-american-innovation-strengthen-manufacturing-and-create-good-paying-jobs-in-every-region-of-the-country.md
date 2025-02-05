@@ -2,7 +2,7 @@
 date: '2023-10-23'
 modified_time: 2023-10-22 16:20:14-04:00
 published_time: 2023-10-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-biden-harris-administration-announces-31-regional-tech-hubs-to-spur-american-innovation-strengthen-manufacturing-and-create-good-paying-jobs-in-every-region-of-the-country/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces 31 Regional Tech Hubs\
   \ to Spur American Innovation, Strengthen Manufacturing, and Create Good-Paying\

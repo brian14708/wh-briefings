@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 13:33:24-05:00
 published_time: 2023-12-13 13:33:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/13/remarks-by-vice-president-harris-at-a-convening-of-state-legislators-on-advancing-efforts-on-gun-violence-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/13/remarks-by-vice-president-harris-at-a-convening-of-state-legislators-on-advancing-efforts-on-gun-violence-prevention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Convening of State Legislators on Advancing\
   \ Efforts on Gun Violence\_Prevention"

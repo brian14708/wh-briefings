@@ -2,7 +2,7 @@
 date: '2023-10-16'
 modified_time: 2023-10-16 14:31:03-04:00
 published_time: 2023-10-16 13:58:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-survivorship-summit-hosted-by-rep-debbie-wasserman-schultz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-survivorship-summit-hosted-by-rep-debbie-wasserman-schultz/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Cancer Survivorship\
   \ Summit hosted by Rep. Debbie Wasserman\_Schultz"

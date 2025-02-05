@@ -1,7 +1,7 @@
 ---
 date: '2024-06-09'
 published_time: 2024-06-09 13:17:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/09/remarks-by-president-biden-in-press-gaggle-16/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/09/remarks-by-president-biden-in-press-gaggle-16/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press\_Gaggle"
 ---

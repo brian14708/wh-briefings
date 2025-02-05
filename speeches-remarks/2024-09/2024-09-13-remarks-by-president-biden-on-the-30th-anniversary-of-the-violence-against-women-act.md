@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 14:13:28-04:00
 published_time: 2024-09-13 14:13:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-president-biden-on-the-30th-anniversary-of-the-violence-against-women-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-president-biden-on-the-30th-anniversary-of-the-violence-against-women-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the 30th Anniversary of the Violence Against\
   \ Women\_Act"

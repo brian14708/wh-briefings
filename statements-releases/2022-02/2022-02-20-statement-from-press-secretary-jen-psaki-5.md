@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-20'
 modified_time: 2022-02-20 20:32:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/20/statement-from-press-secretary-jen-psaki-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/20/statement-from-press-secretary-jen-psaki-5/
 published_time: 2022-02-20 20:32:52-05:00
 title: "Statement from Press Secretary Jen\_Psaki"
 ---

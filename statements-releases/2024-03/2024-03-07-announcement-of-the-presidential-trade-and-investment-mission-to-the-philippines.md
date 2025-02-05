@@ -1,7 +1,7 @@
 ---
 date: '2024-03-07'
 published_time: 2024-03-07 21:25:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/announcement-of-the-presidential-trade-and-investment-mission-to-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/07/announcement-of-the-presidential-trade-and-investment-mission-to-the-philippines/
 tags: statements-releases
 title: "Announcement of the Presidential Trade and Investment Mission to the\_Philippines"
 ---

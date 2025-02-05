@@ -1,7 +1,7 @@
 ---
 date: '2023-09-06'
 published_time: 2023-09-06 07:08:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/readout-of-president-bidens-meeting-with-the-presidents-intelligence-advisory-board/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/readout-of-president-bidens-meeting-with-the-presidents-intelligence-advisory-board/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with the President\u2019s Intelligence\
   \ Advisory\_Board"

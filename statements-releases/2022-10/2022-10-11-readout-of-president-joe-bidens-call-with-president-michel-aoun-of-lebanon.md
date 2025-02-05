@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 13:28:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/readout-of-president-joe-bidens-call-with-president-michel-aoun-of-lebanon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/readout-of-president-joe-bidens-call-with-president-michel-aoun-of-lebanon/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Michel Aoun of\_\
   Lebanon"

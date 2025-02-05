@@ -2,7 +2,7 @@
 date: '2024-01-31'
 modified_time: 2024-01-31 18:23:33-05:00
 published_time: 2024-01-31 18:23:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/statement-from-national-security-advisor-jake-sullivan-on-john-podesta/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/statement-from-national-security-advisor-jake-sullivan-on-john-podesta/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on John\_Podesta"
 ---

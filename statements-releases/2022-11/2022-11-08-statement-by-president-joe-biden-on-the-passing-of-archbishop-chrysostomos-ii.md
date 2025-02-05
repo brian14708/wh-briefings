@@ -2,7 +2,7 @@
 date: '2022-11-08'
 modified_time: 2022-11-08 11:55:55-05:00
 published_time: 2022-11-08 11:55:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/08/statement-by-president-joe-biden-on-the-passing-of-archbishop-chrysostomos-ii/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/08/statement-by-president-joe-biden-on-the-passing-of-archbishop-chrysostomos-ii/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Passing of Archbishop Chrysostomos\_\
   II"

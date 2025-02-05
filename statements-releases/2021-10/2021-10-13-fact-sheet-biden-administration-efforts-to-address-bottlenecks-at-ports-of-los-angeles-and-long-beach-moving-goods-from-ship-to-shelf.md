@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-13'
 modified_time: 2021-10-13 08:26:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/
 published_time: 2021-10-13 05:00:00-04:00
 title: "FACT SHEET: Biden Administration Efforts to Address Bottlenecks at Ports of\
   \ Los Angeles and Long Beach, Moving Goods from Ship to\_Shelf"
@@ -41,12 +41,12 @@ made the transportation supply chain more unstable and difficult to
 predict.  
   
 The President [launched the Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
 in June, which included a focus on transportation and logistics
 bottlenecks to the U.S. economic recovery. After meeting with local
 government leaders and companies to diagnose the problems and identify
 solutions, [Port Envoy John Porcari was
-appointed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/)
+appointed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/)
 in August to help drive coordination between the many private firms who
 control the transportation and logistics supply chain.  
   

@@ -2,7 +2,7 @@
 date: '2022-08-11'
 modified_time: 2022-08-12 00:56:18-04:00
 published_time: 2022-08-11 00:54:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/11/readout-of-vice-president-kamala-harriss-meeting-with-california-state-legislators-and-advocates-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/11/readout-of-vice-president-kamala-harriss-meeting-with-california-state-legislators-and-advocates-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with California State\
   \ Legislators and Advocates on Reproductive\_Rights"

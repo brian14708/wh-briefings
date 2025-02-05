@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-22 05:39:18-04:00
 published_time: 2022-05-22 05:39:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-before-air-force-one-departure-pyeongtaek-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/22/remarks-by-president-biden-before-air-force-one-departure-pyeongtaek-republic-of-korea/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One Departure | Pyeongtaek, Republic\
   \ of\_Korea"

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 11:09:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/24/a-proclamation-on-greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/24/a-proclamation-on-greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2023/
 tags: presidential-actions
 title: "A Proclamation on Greek Independence Day: A National Day of Celebration of\
   \ Greek and American Democracy,\_2023"

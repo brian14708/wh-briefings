@@ -2,7 +2,7 @@
 date: '2022-05-08'
 modified_time: 2022-05-08 11:44:11-04:00
 published_time: 2022-05-08 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/08/g7-leaders-statement-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/08/g7-leaders-statement-2/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement"
 ---

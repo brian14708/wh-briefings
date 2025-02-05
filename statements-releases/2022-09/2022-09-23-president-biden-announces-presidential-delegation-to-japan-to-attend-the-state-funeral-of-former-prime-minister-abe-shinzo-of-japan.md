@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-23 12:05:53-04:00
 published_time: 2022-09-23 12:05:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/president-biden-announces-presidential-delegation-to-japan-to-attend-the-state-funeral-of-former-prime-minister-abe-shinzo-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/president-biden-announces-presidential-delegation-to-japan-to-attend-the-state-funeral-of-former-prime-minister-abe-shinzo-of-japan/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Japan to Attend the\
   \ State Funeral of former Prime Minister Abe Shinzo of\_Japan"

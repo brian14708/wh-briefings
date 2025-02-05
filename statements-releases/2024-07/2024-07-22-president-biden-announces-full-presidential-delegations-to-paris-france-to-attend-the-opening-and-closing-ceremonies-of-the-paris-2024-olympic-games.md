@@ -2,7 +2,7 @@
 date: '2024-07-22'
 modified_time: 2024-07-22 16:17:04-04:00
 published_time: 2024-07-22 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/22/president-biden-announces-full-presidential-delegations-to-paris-france-to-attend-the-opening-and-closing-ceremonies-of-the-paris-2024-olympic-games/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/22/president-biden-announces-full-presidential-delegations-to-paris-france-to-attend-the-opening-and-closing-ceremonies-of-the-paris-2024-olympic-games/
 tags: statements-releases
 title: "President\_Biden Announces Full Presidential Delegations to Paris, France\
   \ to Attend the Opening and Closing Ceremonies of the Paris 2024 Olympic\_Games"

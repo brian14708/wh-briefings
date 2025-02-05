@@ -2,7 +2,7 @@
 date: '2024-01-19'
 modified_time: 2024-01-19 13:21:05-05:00
 published_time: 2024-01-19 13:21:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/01/19/press-release-bill-signed-h-r-2872/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/01/19/press-release-bill-signed-h-r-2872/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_2872"
 ---

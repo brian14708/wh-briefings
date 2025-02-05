@@ -1,7 +1,7 @@
 ---
 date: '2023-06-28'
 published_time: 2023-06-28 13:11:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/28/excerpt-from-remarks-as-prepared-for-delivery-by-president-biden-on-bidenomics-in-chicago-illinois/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/28/excerpt-from-remarks-as-prepared-for-delivery-by-president-biden-on-bidenomics-in-chicago-illinois/
 tags: speeches-remarks
 title: "Excerpt from Remarks as Prepared for Delivery by President\_Biden on Bidenomics\
   \ in Chicago,\_Illinois"

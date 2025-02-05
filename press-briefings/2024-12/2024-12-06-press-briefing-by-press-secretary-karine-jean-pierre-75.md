@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-08 22:41:05-05:00
 published_time: 2024-12-06 22:40:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/06/press-briefing-by-press-secretary-karine-jean-pierre-75/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/06/press-briefing-by-press-secretary-karine-jean-pierre-75/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

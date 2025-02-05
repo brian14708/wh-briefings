@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 19:09:16-04:00
 published_time: 2022-06-07 19:09:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/07/press-briefing-by-press-secretary-karine-jean-pierre-and-matthew-mcconaughey/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/07/press-briefing-by-press-secretary-karine-jean-pierre-and-matthew-mcconaughey/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Matthew\_McConaughey"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-06'
 published_time: 2024-10-06 14:11:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/06/fact-sheet-update-biden-harris-administration-sparing-no-resource-to-support-communities-impacted-by-hurricane-helene/
 tags: statements-releases
 title: "FACT SHEET: UPDATE: Biden-\u2060Harris Administration Sparing No Resource\
   \ to Support Communities Impacted by Hurricane\_Helene"
@@ -44,7 +44,7 @@ response ](https://www.fema.gov/disaster/current/hurricane-helene/rumor-respons
 which can discourage people from seeking critical and
 life-saving assistance. The Administration is [actively working
 to identify
-and combat](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/05/interested-parties-memo-fighting-hurricane-helene-falsehoods-with-facts/) this
+and combat](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/05/interested-parties-memo-fighting-hurricane-helene-falsehoods-with-facts/) this
 misinformation and disinformation and support survivors in every
 possible way. 
 
@@ -189,7 +189,7 @@ and connectivity is being restored.
 Communities **
 
 President Biden [wrote a
-letter](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) to
+letter](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) to
 Congressional leaders calling on them to provide more funding for
 disaster relief efforts. President Biden warned that most urgently, the
 Small Business Administration’s (SBA) disaster loan program will run out

@@ -2,7 +2,7 @@
 date: '2023-05-25'
 modified_time: 2023-05-25 14:43:27-04:00
 published_time: 2023-05-25 11:34:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases First-Ever U.S. National\
   \ Strategy to Counter\_Antisemitism"
@@ -15,7 +15,7 @@ includes new stakeholder commitments.*
 
 Today, the Biden-Harris Administration is releasing the first-ever [U.S.
 National Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
 This strategy includes over 100 new actions the Administration will take
 to raise awareness of antisemitism and its threat to American democracy,
 protect Jewish communities, reverse the normalization of antisemitism,
@@ -89,7 +89,7 @@ out because of anti-Jewish hatred, that is antisemitism.
   
 To read the full strategy, all agency actions, and the Administration’s
 calls to action, [click
-here](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf).
 Among other steps, the Biden-Harris Administration will:  
   
 **Pillar 1: Increase awareness and understanding of antisemitism,

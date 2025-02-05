@@ -1,7 +1,7 @@
 ---
 date: '2022-10-18'
 published_time: 2022-10-18 11:32:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/
 tags: presidential-actions
 title: "National Security Memorandum on Countering Biological Threats, Enhancing Pandemic\
   \ Preparedness, and Achieving Global Health\_Security"

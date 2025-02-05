@@ -1,7 +1,7 @@
 ---
 date: '2022-05-16'
 published_time: 2022-05-16 11:26:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/05/16/bills-signed-h-r-3182-and-h-r-6023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/05/16/bills-signed-h-r-3182-and-h-r-6023/
 tags: legislation
 title: "Bills Signed: H.R. 3182 and H.R.\_6023"
 ---

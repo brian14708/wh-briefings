@@ -2,7 +2,7 @@
 date: '2024-03-15'
 modified_time: 2024-03-14 20:15:27-04:00
 published_time: 2024-03-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/fact-sheet-biden-harris-administration-takes-new-action-to-crack-down-on-junk-fees-in-higher-education/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/fact-sheet-biden-harris-administration-takes-new-action-to-crack-down-on-junk-fees-in-higher-education/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes New Action to Crack Down\
   \ on Junk Fees in Higher\_Education"

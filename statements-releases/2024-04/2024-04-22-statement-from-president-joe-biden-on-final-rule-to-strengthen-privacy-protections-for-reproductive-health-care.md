@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-22 20:29:33-04:00
 published_time: 2024-04-22 20:28:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/statement-from-president-joe-biden-on-final-rule-to-strengthen-privacy-protections-for-reproductive-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/statement-from-president-joe-biden-on-final-rule-to-strengthen-privacy-protections-for-reproductive-health-care/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Final Rule to Strengthen Privacy Protections\
   \ for Reproductive Health\_Care"

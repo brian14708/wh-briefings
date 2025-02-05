@@ -1,7 +1,7 @@
 ---
 date: '2024-01-25'
 published_time: 2024-01-25 16:59:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-president-biden-on-investing-in-america-and-the-bipartisan-infrastructure-law-superior-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/25/remarks-by-president-biden-on-investing-in-america-and-the-bipartisan-infrastructure-law-superior-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Investing in America and the Bipartisan Infrastructure\
   \ Law | Superior,\_WI"

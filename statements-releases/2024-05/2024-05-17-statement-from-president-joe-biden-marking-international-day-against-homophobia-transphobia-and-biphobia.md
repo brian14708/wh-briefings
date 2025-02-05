@@ -2,7 +2,7 @@
 date: '2024-05-17'
 modified_time: 2024-05-17 16:49:26-04:00
 published_time: 2024-05-17 09:13:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/statement-from-president-joe-biden-marking-international-day-against-homophobia-transphobia-and-biphobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/17/statement-from-president-joe-biden-marking-international-day-against-homophobia-transphobia-and-biphobia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking International Day Against Homophobia,\
   \ Transphobia and\_Biphobia"
@@ -22,7 +22,7 @@ From Day One of my presidency, my Administration has made advancing the
 human rights of LGBTQI+ people a priority. In my first month in office,
 I signed a [Presidential Memorandum on Advancing the Human Rights of
 LGBTQI+ Persons Around the
-World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
+World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/),
 directing that our diplomacy and development work around the world be
 conducted in a manner that reflects our commitment to the equal human
 rights of this population. We have stood up against laws that target
@@ -33,7 +33,7 @@ Globally](https://www.state.gov/reports/united-states-strategy-to-prevent-and-re
 to ensure that our efforts to confront the scourge of gender-based
 violence address the unique risks and barriers that LGBTQI+ people face.
 I also signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/) directing
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/) directing
 my Administration to work to prevent the use of so-called “conversion
 therapy” – an abusive and discredited practice that often targets
 children.  And my Administration continues to engage with governments,

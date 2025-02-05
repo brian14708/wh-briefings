@@ -2,7 +2,7 @@
 date: '2023-10-25'
 modified_time: 2023-10-25 17:57:27-04:00
 published_time: 2023-10-25 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Efforts to Expand Capital\
   \ Access and Contracting Opportunities for Minority-Owned and Underserved Businesses\
@@ -93,7 +93,7 @@ communities:</u>**
     reporting of commitments. Micron, Xcel Energy, and Air Products have
     made commitments as first movers under the [Economic Opportunity
     Coalition
-    (EOC)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
+    (EOC)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-vice-president-announces-new-private-and-public-sector-efforts-to-align-tens-of-billions-in-investments-in-underserved-communities/)
     – a coordinated set of companies aligning major investments in
     underserved communities with investments made by the Biden-Harris
     Administration. These companies represent billions of dollars in
@@ -182,7 +182,7 @@ opportunity for underserved small businesses:</u>**
     will support this goal through capacity building and information
     sharing to minority-owned businesses that want to access federal
     contracts. Shortly after taking office, President Biden [set a
-    goal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
+    goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
     of increasing the share of contracts with SDBs to 15% of all federal
     contracts by FY 2025, a 50% increase from spending levels when he
     first took office. The U.S. government buys about $650 billion in

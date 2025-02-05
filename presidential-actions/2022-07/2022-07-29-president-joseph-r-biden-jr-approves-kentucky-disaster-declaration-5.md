@@ -1,7 +1,7 @@
 ---
 date: '2022-07-29'
 published_time: 2022-07-29 09:30:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/29/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/29/president-joseph-r-biden-jr-approves-kentucky-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Kentucky Disaster\_Declaration"
 ---

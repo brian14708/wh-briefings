@@ -1,7 +1,7 @@
 ---
 date: '2023-01-23'
 published_time: 2023-01-23 20:39:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/23/on-the-record-press-call-by-white-house-spokesperson-ian-sams-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/23/on-the-record-press-call-by-white-house-spokesperson-ian-sams-2/
 tags: press-briefings
 title: "On-the-Record Press Call by White\_House Spokesperson Ian\_Sams"
 ---

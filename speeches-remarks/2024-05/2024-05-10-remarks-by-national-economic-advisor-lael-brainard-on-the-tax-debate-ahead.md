@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 10:21:27-04:00
 published_time: 2024-05-10 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-national-economic-advisor-lael-brainard-on-the-tax-debate-ahead/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/10/remarks-by-national-economic-advisor-lael-brainard-on-the-tax-debate-ahead/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on the Tax Debate\_Ahead"
 ---
@@ -104,7 +104,7 @@ paying for its $1.9 trillion
 Revenues were [projected](https://www.cbo.gov/publication/52801) to be
 over 18% of GDP in 2023 before the TCJA passed, but revenues have turned
 out to be
-[only](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2023/)
+[only](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/joint-statement-of-janet-l-yellen-secretary-of-the-treasury-and-shalanda-d-young-director-of-the-office-of-management-and-budget-on-budget-results-for-fiscal-year-2023/)
 16.5% of GDP—a shortfall of over $400 billion. CBO estimates unpaid-for
 extensions of the TCJA would increase primary deficits by over 1% of GDP
 over the next decade.
@@ -120,7 +120,7 @@ offset.
 
 Republicans will likely respond to fiscal pressures created by
 unpaid-for tax cuts by [pushing
-for](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/fact-sheet-extreme-house-republican-plan-would-cut-medicare-and-social-security-while-slashing-taxes-for-big-corporations-and-the-wealthy/)
+for](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/fact-sheet-extreme-house-republican-plan-would-cut-medicare-and-social-security-while-slashing-taxes-for-big-corporations-and-the-wealthy/)
 draconian cuts to Social Security, Medicare, health care, and other
 programs that hardworking Americans count on. They have already raised
 taxes by opposing the extension at the end of 2021 of the President’s
@@ -156,14 +156,14 @@ not pay any more in taxes. He has stood by that pledge, and will
 continue to stand by that pledge.
 
 He has gone further and
-[proposed](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
+[proposed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
 tax cuts for millions of families to help them invest in their children,
 make work pay, and secure health insurance, building on the targeted tax
 cuts in the American Rescue Plan (ARP) and Inflation Reduction Act (IRA)
 that Republicans have fought to eliminate.
 
 The President has
-[expanded](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
+[expanded](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/)
 the premium tax credits to make health insurance more affordable for
 millions of Americans purchasing coverage on the Affordable Care Act’s
 marketplace. This expansion helped lift health insurance coverage to
@@ -173,19 +173,19 @@ levels, with
 21 million people covered in the exchanges. The expansion will lapse if
 there is no action by fall 2025, so making it permanent is at the top of
 President Biden’s 2025
-[agenda](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/16/remarks-by-president-biden-at-a-campaign-event-scranton-pa/).
+[agenda](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/16/remarks-by-president-biden-at-a-campaign-event-scranton-pa/).
 
 Expanding the Child Tax Credit is one of the highest-yielding
 investments we can make. The President’s expansion of the Child Tax
 Credit
-[cut](https://www.whitehouse.gov/cea/written-materials/2023/11/20/the-anti-poverty-and-income-boosting-impacts-of-the-enhanced-ctc/)
+[cut](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/11/20/the-anti-poverty-and-income-boosting-impacts-of-the-enhanced-ctc/)
 child poverty nearly in half in 2021,
 [primarily](https://www.cbpp.org/research/federal-tax/earnings-requirement-would-undermine-child-tax-credits-poverty-reducing-impact)
 by allowing all low-income families to access the full credit for the
 first time. Despite its documented effectiveness, Republicans refused to
 extend the expansion, causing three million children to fall into
 poverty. Restoring the expanded Child Tax Credit
-[would](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
+[would](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/fact-sheet-this-tax-day-the-tax-contrast-couldnt-be-clearer/)
 lift those children out of poverty and cut taxes by an average of $2,600
 a year for 39 million families. And, restoring the expansion of the
 Earned Income Tax Credit would cut taxes by an average of $800 per year
@@ -194,7 +194,7 @@ for 19 million low-paid workers, especially younger workers.
 Achieving a fairer tax system also means we cannot extend expiring TCJA
 tax cuts for those with incomes above $400,000 or bring back deductions
 and other tax breaks for these households. As the President has
-[said](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/19/remarks-by-president-biden-at-the-ibew-construction-and-maintenance-conference/),
+[said](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/19/remarks-by-president-biden-at-the-ibew-construction-and-maintenance-conference/),
 tax cuts for the wealthy will stay expired on his watch.
 
 ***Second,*** ***tax policy in 2025 should raise revenue consistent with
@@ -211,13 +211,13 @@ GDP has averaged 17% of GDP, compared to over 19% of GDP on average in
 the five years leading up to the Bush tax cuts. Revenue has fallen at
 the very time we long knew we would need more revenue to meet
 commitments to our seniors. The aging of the population directly
-[increases](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/statement-from-president-joe-biden-on-the-social-security-and-medicare-trustees-reports/)
+[increases](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/statement-from-president-joe-biden-on-the-social-security-and-medicare-trustees-reports/)
 fiscal pressures on programs that are the bedrock of financial security
 for Americans, and tax revenue must keep pace.
 
 Our seniors earned their Social Security and Medicare benefits paycheck
 by paycheck. As the President has made clear, he
-[rejects](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-protects-and-strengthens-social-security-and-medicare/)
+[rejects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-protects-and-strengthens-social-security-and-medicare/)
 Republican efforts to cut Social Security, Medicare, or Medicaid, or put
 health care and other programs that families count on at risk. The
 President’s Budget reflects his commitment to protect and strengthen
@@ -231,7 +231,7 @@ of tax responsibilities at a time when corporations’ profits are
 unusually elevated should be at the center of next year’s tax debate.
 The evidence suggests we can increase corporate tax revenues without
 undermining productive business investment. Recent evidence has
-[shown](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/15/remarks-by-national-economic-advisor-lael-brainard-todays-strong-recovery-is-laying-solid-foundations-for-the-future/)
+[shown](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/15/remarks-by-national-economic-advisor-lael-brainard-todays-strong-recovery-is-laying-solid-foundations-for-the-future/)
 that targeted investment incentives are more effective in boosting
 productivity-enhancing business investment than the unconditional large
 tax cuts enacted in 2017.  
@@ -254,7 +254,7 @@ taxation more in line with past U.S. and current international practice
 could raise substantial revenue without hindering economic growth.
 
 The President’s Budget
-[would](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
+[would](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
 scale back the TCJA’s corporate rate cut by bringing it to 28%—only
 halfway back to the previous 35% rate. It would also build on the IRA’s
 minimum tax on billion-dollar corporations by increasing the rate from
@@ -287,7 +287,7 @@ funding.
 
 ***Finally, our tax system should avoid an international race to the
 bottom on tax***. The Treasury Secretary
-[negotiated](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
+[negotiated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/08/statement-by-president-joseph-r-biden-jr-on-the-unprecedented-oecd-agreement-for-a-global-minimum-tax/)
 a historic multilateral agreement, signed by more than 130 nations, that
 will do just that. The agreement will finally address the race to the
 bottom in corporate taxes, while enabling businesses to compete and
@@ -301,7 +301,7 @@ Many of the world’s largest economies are
 [implementing](https://www.pwc.com/gx/en/services/tax/pillar-two-readiness/country-tracker.html)
 this transformational agreement. It is critical that we join them in
 2025. The President’s proposals would
-[implement](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
+[implement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-taxes-for-working-families-and-makes-big-corporations-and-the-wealthy-pay-their-fair-share/)
 the agreement and impose a 21% minimum tax on the foreign profits of the
 biggest multinationals. Implementing the Administration’s international
 tax reform is crucial to leveling the playing field and fixing our

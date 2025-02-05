@@ -1,7 +1,7 @@
 ---
 date: '2022-05-19'
 published_time: 2022-05-19 18:21:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/biden-administration-approves-first-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/biden-administration-approves-first-operation-fly-formula-mission/
 tags: statements-releases
 title: "Biden Administration Approves First Operation Fly Formula\_Mission"
 ---
@@ -36,17 +36,17 @@ not currently being produced for the U.S. market.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/05/Alfamino.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Alfamino.png"
 class="wp-image-53631" loading="lazy"
 sizes="(max-width: 356px) 100vw, 356px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/05/Alfamino.png 820w, https://www.whitehouse.gov/wp-content/uploads/2022/05/Alfamino.png?resize=615,357 615w, https://www.whitehouse.gov/wp-content/uploads/2022/05/Alfamino.png?resize=768,446 768w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Alfamino.png 820w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Alfamino.png?resize=615,357 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Alfamino.png?resize=768,446 768w"
 width="356" height="207" alt="Photo credit: Nestlé S.A." />
 <figcaption aria-hidden="true">Photo credit: Nestlé S.A.</figcaption>
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/05/Gerber.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Gerber.png"
 class="wp-image-53632" loading="lazy" width="128" height="190"
 alt="Photo credit: Nestlé S.A." />
 <figcaption aria-hidden="true">Photo credit: Nestlé S.A.</figcaption>

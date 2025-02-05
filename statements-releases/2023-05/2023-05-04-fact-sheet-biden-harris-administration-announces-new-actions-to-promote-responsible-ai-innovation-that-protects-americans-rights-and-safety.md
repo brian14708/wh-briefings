@@ -2,7 +2,7 @@
 date: '2023-05-04'
 modified_time: 2023-05-04 11:18:26-04:00
 published_time: 2023-05-04 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Promote\
   \ Responsible AI Innovation that Protects Americans\u2019 Rights and\_Safety"
@@ -38,9 +38,9 @@ communities, international partners, and others on critical AI issues.
 This effort builds on the considerable steps the Administration has
 taken to date to promote responsible innovation. These include the
 landmark [Blueprint for an AI Bill of
-Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and [related
+Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) and [related
 executive
-actions](https://www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/) announced
+actions](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/) announced
 last fall, as well as the [AI Risk Management
 Framework](https://www.nist.gov/itl/ai-risk-management-framework) and
 a [roadmap for standing up a National AI Research
@@ -49,7 +49,7 @@ earlier this year.
   
 The Administration has also taken important actions to protect Americans
 in the AI age. In February, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) that
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) that
 directs federal agencies to root out bias in their design and use of new
 technologies, including AI, and to protect the public from algorithmic
 discrimination. Last week, the Federal Trade Commission, Consumer

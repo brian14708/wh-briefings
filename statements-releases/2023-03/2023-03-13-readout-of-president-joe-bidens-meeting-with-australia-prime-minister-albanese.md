@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 21:15:40-04:00
 published_time: 2023-03-13 21:15:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/13/readout-of-president-joe-bidens-meeting-with-australia-prime-minister-albanese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/readout-of-president-joe-bidens-meeting-with-australia-prime-minister-albanese/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Australia Prime Minister\_\
   Albanese"

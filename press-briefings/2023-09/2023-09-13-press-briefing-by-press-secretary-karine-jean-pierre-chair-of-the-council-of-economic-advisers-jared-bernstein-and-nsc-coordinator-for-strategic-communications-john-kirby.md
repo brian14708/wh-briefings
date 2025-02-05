@@ -1,7 +1,7 @@
 ---
 date: '2023-09-13'
 published_time: 2023-09-13 18:48:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/13/press-briefing-by-press-secretary-karine-jean-pierre-chair-of-the-council-of-economic-advisers-jared-bernstein-and-nsc-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/13/press-briefing-by-press-secretary-karine-jean-pierre-chair-of-the-council-of-economic-advisers-jared-bernstein-and-nsc-coordinator-for-strategic-communications-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Chair of the Council\
   \ of Economic Advisers Jared Bernstein, and NSC Coordinator for Strategic Communications\

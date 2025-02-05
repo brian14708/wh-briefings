@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 published_time: 2022-12-15 17:31:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/statement-special-presidential-representative-for-u-s-africa-leaders-summit-implementation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/statement-special-presidential-representative-for-u-s-africa-leaders-summit-implementation/
 tags: statements-releases
 title: 'Statement: Special Presidential Representative for U.S.-Africa Leaders Summit
   Implementation'

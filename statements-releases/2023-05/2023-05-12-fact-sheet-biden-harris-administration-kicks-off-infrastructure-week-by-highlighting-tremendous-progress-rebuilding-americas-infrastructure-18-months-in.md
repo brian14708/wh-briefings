@@ -1,7 +1,7 @@
 ---
 date: '2023-05-12'
 published_time: 2023-05-12 07:14:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/12/fact-sheet-biden-harris-administration-kicks-off-infrastructure-week-by-highlighting-tremendous-progress-rebuilding-americas-infrastructure-18-months-in/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/12/fact-sheet-biden-harris-administration-kicks-off-infrastructure-week-by-highlighting-tremendous-progress-rebuilding-americas-infrastructure-18-months-in/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Kicks off Infrastructure Week\
   \ by Highlighting Tremendous Progress Rebuilding America\u2019s Infrastructure 18\
@@ -38,7 +38,7 @@ trips to all 50 states, as well as D.C., Puerto Rico, and the
 territories, to discuss this once-in-a-generation opportunity with
 community members. Today, the White House Infrastructure Implementation
 Team released a [new map highlighting signature projects in all 50
-states](https://www.whitehouse.gov/build/), along with a map showcasing
+states](https://bidenwhitehouse.archives.gov/build/), along with a map showcasing
 the more than [32,000 projects and
 awards](https://d2d.gsa.gov/report/bipartisan-infrastructure-law-bil-maps-dashboard)
 identified or underway.  

@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 10:20:24-04:00
 published_time: 2022-04-06 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/president-biden-announces-key-nominees-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/president-biden-announces-key-nominees-10/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

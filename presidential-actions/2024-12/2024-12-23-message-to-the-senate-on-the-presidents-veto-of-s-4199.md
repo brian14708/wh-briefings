@@ -1,7 +1,7 @@
 ---
 date: '2024-12-23'
 published_time: 2024-12-23 20:51:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/23/message-to-the-senate-on-the-presidents-veto-of-s-4199/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/23/message-to-the-senate-on-the-presidents-veto-of-s-4199/
 tags: presidential-actions
 title: "Message to the Senate on the President\u2019s Veto of S.\_4199"
 ---

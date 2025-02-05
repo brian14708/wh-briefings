@@ -1,7 +1,7 @@
 ---
 date: '2024-02-20'
 published_time: 2024-02-20 15:34:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/20/remarks-by-vice-president-harris-on-delivering-clean-water-for-every-american-pittsburgh-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/20/remarks-by-vice-president-harris-on-delivering-clean-water-for-every-american-pittsburgh-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Delivering Clean Water for Every American\
   \ | Pittsburgh,\_PA"

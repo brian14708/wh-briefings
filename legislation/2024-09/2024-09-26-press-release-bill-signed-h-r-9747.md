@@ -1,7 +1,7 @@
 ---
 date: '2024-09-26'
 published_time: 2024-09-26 16:42:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/26/press-release-bill-signed-h-r-9747/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/26/press-release-bill-signed-h-r-9747/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_9747"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-02'
 published_time: 2023-02-02 21:32:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/readout-of-national-security-advisor-jake-sullivans-meeting-with-swedish-national-security-advisor-henrik-landerholm/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/readout-of-national-security-advisor-jake-sullivans-meeting-with-swedish-national-security-advisor-henrik-landerholm/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Swedish\
   \ National Security Advisor Henrik\_Landerholm"

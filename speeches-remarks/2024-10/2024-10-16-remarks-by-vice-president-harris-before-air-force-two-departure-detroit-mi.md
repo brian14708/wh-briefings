@@ -1,7 +1,7 @@
 ---
 date: '2024-10-16'
 published_time: 2024-10-16 15:59:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/16/remarks-by-vice-president-harris-before-air-force-two-departure-detroit-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/16/remarks-by-vice-president-harris-before-air-force-two-departure-detroit-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Air Force Two Departure | Detroit,\_\
   MI"

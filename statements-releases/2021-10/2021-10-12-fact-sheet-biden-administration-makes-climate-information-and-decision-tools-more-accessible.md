@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-12'
 modified_time: 2021-10-12 10:46:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/12/fact-sheet-biden-administration-makes-climate-information-and-decision-tools-more-accessible/
 published_time: 2021-10-12 10:00:00-04:00
 title: "FACT SHEET: Biden Administration Makes Climate Information and Decision Tools\
   \ More\_Accessible"
@@ -19,7 +19,7 @@ outlooks, to businesses planning for extreme weather, to families making
 decisions about their homes and neighborhoods. The initiative answers
 President Biden’s call in his [Executive Order on Tackling the Climate
 Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/)
 to enhance understanding of climate risks and empower communities to
 better prepare and become more resilient.  
   
@@ -93,7 +93,7 @@ Today’s announcements include:
     money.
 
 This whole-of-government effort builds on FEMA’s
-[announcement](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/)
+[announcement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/09/fact-sheet-biden-administration-announces-nearly-5-billion-in-resilience-funding-to-help-communities-prepare-for-extreme-weather-and-climate-related-disasters/)
 earlier this year of nearly $5 billion in funding available for
 community projects to prepare for extreme weather and other
 climate-related disasters. It will improve climate information and
@@ -102,7 +102,7 @@ their resilience to climate change, equitably deploy increased
 resilience resources, and mitigate climate change-related risks to the
 financial and economic security of America’s families, businesses, and
 workers—a [key Administration
-priority](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/).  
+priority](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/).  
   
 The Biden Administration is today announcing:  
   
@@ -137,7 +137,7 @@ Other updates include:
 **Interagency Reports on Climate Information Services**  
 As directed by President Biden’s [Executive Order on Tackling the
 Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 agencies have developed two reports to the National Climate Task Force
 on climate information services to help governments, communities, and
 businesses prepare for and adapt to climate impacts.  

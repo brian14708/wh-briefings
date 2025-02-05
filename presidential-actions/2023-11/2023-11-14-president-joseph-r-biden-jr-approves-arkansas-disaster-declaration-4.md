@@ -1,7 +1,7 @@
 ---
 date: '2023-11-14'
 published_time: 2023-11-14 14:57:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/14/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/14/president-joseph-r-biden-jr-approves-arkansas-disaster-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Arkansas Disaster\_Declaration"
 ---

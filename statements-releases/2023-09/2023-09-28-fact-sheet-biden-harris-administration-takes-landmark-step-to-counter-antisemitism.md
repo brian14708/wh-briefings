@@ -2,14 +2,14 @@
 date: '2023-09-28'
 modified_time: 2023-09-28 11:46:33-04:00
 published_time: 2023-09-28 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Takes Landmark Step to Counter\_\
   Antisemitism"
 ---
  
 Today, as part of President Biden’s [National Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
 eight federal agencies clarified—for the first time in writing—that
 Title VI of the Civil Rights Act of 1964 prohibits certain forms of
 antisemitic, Islamophobic, and related forms of discrimination in
@@ -51,7 +51,7 @@ protections are wide-ranging and provide important tools to prevent and
 curb discrimination.  
 Today’s announcement is a deliverable of President Biden’s [National
 Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
 released in May 2023. This strategy represents the most comprehensive
 and ambitious U.S. government effort to counter antisemitism in American
 history. It includes over 100 actions the Biden-Harris Administration is

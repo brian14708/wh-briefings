@@ -2,7 +2,7 @@
 date: '2023-09-04'
 modified_time: 2023-09-04 14:57:43-04:00
 published_time: 2023-09-04 14:57:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/04/remarks-by-president-biden-celebrating-labor-day-and-honoring-americas-workers-and-unions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/04/remarks-by-president-biden-celebrating-labor-day-and-honoring-americas-workers-and-unions/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Celebrating Labor Day and Honoring America\u2019\
   s Workers and\_Unions"

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 17:06:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/nominations-and-withdrawals-sent-to-the-senate-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/nominations-and-withdrawals-sent-to-the-senate-7/
 tags: statements-releases
 title: "Nominations and Withdrawals Sent to the\_Senate"
 ---

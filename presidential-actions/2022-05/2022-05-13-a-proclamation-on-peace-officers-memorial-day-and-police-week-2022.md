@@ -1,7 +1,7 @@
 ---
 date: '2022-05-13'
 published_time: 2022-05-13 17:51:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/13/a-proclamation-on-peace-officers-memorial-day-and-police-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/13/a-proclamation-on-peace-officers-memorial-day-and-police-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Peace Officers Memorial Day and Police Week,\_2022"
 ---

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-23'
 modified_time: 2021-09-23 20:08:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/readout-of-biden-administration-convening-to-discuss-and-address-semiconductor-supply-chain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/23/readout-of-biden-administration-convening-to-discuss-and-address-semiconductor-supply-chain/
 published_time: 2021-09-23 20:08:33-04:00
 title: "Readout of Biden Administration Convening to Discuss and Address Semiconductor\
   \ Supply\_Chain"
@@ -55,6 +55,6 @@ critical to advance both our economic competitiveness and our national
 security. 
 
 Read more
-here: <https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/>
+here: <https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/>
 
 \###

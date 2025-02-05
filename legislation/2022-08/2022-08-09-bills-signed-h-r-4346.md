@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 13:32:43-04:00
 published_time: 2022-08-09 13:24:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/08/09/bills-signed-h-r-4346/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/08/09/bills-signed-h-r-4346/
 tags: legislation
 title: "Bills Signed: H.R.\_4346"
 ---

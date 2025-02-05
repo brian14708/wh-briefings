@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-31 08:44:53-04:00
 published_time: 2023-07-27 16:00:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/readout-of-vice-president-harriss-call-with-president-tinubu-of-nigeria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/readout-of-vice-president-harriss-call-with-president-tinubu-of-nigeria/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Tinubu of\_Nigeria"
 ---

@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-19 12:45:31-04:00
 published_time: 2022-08-19 15:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/president-biden-announces-key-appointments-to-boards-and-commissions-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/president-biden-announces-key-appointments-to-boards-and-commissions-5/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

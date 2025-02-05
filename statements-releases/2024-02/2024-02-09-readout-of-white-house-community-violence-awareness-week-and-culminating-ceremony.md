@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-14 13:42:05-05:00
 published_time: 2024-02-09 22:29:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/readout-of-white-house-community-violence-awareness-week-and-culminating-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/readout-of-white-house-community-violence-awareness-week-and-culminating-ceremony/
 tags: statements-releases
 title: "Readout of White\_House Community Violence Awareness Week and Culminating\_\
   Ceremony"
@@ -13,7 +13,7 @@ Prevention (OGVP) hosted Community Violence Intervention leaders from
 across the country to recognize their efforts in reducing and preventing
 violence, and ultimately, saving lives. Community Violence Intervention
 programs are a key piece of the [President’s Safer America
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/),
 with some behavioral science-informed CVI programs proven to [reduce
 violence by close to
 50%](https://crimelab.uchicago.edu/wp-content/uploads/sites/2/2023/06/ChoosetoChangeResearchBrief.pdf).
@@ -89,7 +89,7 @@ have also seen key provisions created by the BCSA begin to deliver
 results in making communities safer against gun violence, including
 recent announcements by the Department of Justice on [stopping more than
 500 illegal gun
-purchases](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/#:~:text=January%2005%2C%202024-,Statement%20from%20President%20Joe%20Biden%20on%20Stopping%20Over%20500%20Illegal,the%20Bipartisan%20Safer%20Communities%20Act&text=Today%20is%20an%20important%20milestone,fabric%20of%20our%20nation%20apart.) by
+purchases](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/05/statement-from-president-joe-biden-on-stopping-over-500-illegal-under-21-gun-purchases-through-the-bipartisan-safer-communities-act/#:~:text=January%2005%2C%202024-,Statement%20from%20President%20Joe%20Biden%20on%20Stopping%20Over%20500%20Illegal,the%20Bipartisan%20Safer%20Communities%20Act&text=Today%20is%20an%20important%20milestone,fabric%20of%20our%20nation%20apart.) by
 people under 21 years old who presented a danger to our communities,
 and [hundreds of charges brought by the Justice
 Department](https://www.washingtonpost.com/national-security/2023/12/04/gun-law-arrests-seizures/) for
@@ -101,7 +101,7 @@ and identify executive orders to save lives, while announcing new
 initiatives to encourage action at the state and local level. This past
 December, the Vice President convened 100 state legislators at the White
 House to launch [the Biden-Harris Administration’s Safer States
-Initiative](https://www.whitehouse.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf),
+Initiative](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/OGVP-Safer-States-Policy-Agenda.pdf),
 providing states with additional tools and the support they need to
 reduce gun violence—and we have already seen states begin to [answer the
 call and implement these critical
@@ -109,7 +109,7 @@ measures](https://www.washingtonpost.com/dc-md-va/2024/01/09/maryland-juvenile-j
 Last month, the Office of Gun Violence Prevention, in partnership with
 the U.S. Department of Education and the Department of Justice, also
 announced [new executive actions to help promote safe storage of
-firearms](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/) that
+firearms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/) that
 implement President Biden’s Executive Order on promoting safe gun
 storage, which has been shown to dramatically reduce children’s risk of
 self-inflicted harm and unintentional shootings. These are just a few

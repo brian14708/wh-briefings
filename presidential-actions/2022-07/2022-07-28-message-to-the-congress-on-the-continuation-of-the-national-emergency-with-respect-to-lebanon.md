@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 17:59:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/28/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/28/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency with\
   \ Respect to\_Lebanon"

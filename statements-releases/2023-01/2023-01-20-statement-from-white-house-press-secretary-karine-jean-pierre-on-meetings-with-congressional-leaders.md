@@ -2,7 +2,7 @@
 date: '2023-01-20'
 modified_time: 2023-01-20 18:30:11-05:00
 published_time: 2023-01-20 18:29:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-meetings-with-congressional-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-meetings-with-congressional-leaders/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Meetings\
   \ with Congressional\_Leaders"

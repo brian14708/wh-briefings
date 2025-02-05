@@ -2,7 +2,7 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 15:56:28-04:00
 published_time: 2023-10-20 15:56:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/statement-from-press-secretary-karine-jean-pierre-on-the-americas-partnership-for-economic-prosperity-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/statement-from-press-secretary-karine-jean-pierre-on-the-americas-partnership-for-economic-prosperity-leaders-summit/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Americas Partnership\
   \ for Economic Prosperity Leaders\u2019\_Summit"

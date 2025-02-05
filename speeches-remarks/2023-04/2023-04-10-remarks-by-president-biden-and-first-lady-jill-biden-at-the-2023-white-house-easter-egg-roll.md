@@ -1,7 +1,7 @@
 ---
 date: '2023-04-10'
 published_time: 2023-04-10 13:52:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/10/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-white-house-easter-egg-roll/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/10/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-white-house-easter-egg-roll/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2023 White\_\
   House Easter Egg\_Roll"

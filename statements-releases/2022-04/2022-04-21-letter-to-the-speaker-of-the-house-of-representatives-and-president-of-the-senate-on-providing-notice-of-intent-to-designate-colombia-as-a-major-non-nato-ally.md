@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 16:29:46-04:00
 published_time: 2022-04-21 16:27:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-providing-notice-of-intent-to-designate-colombia-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-providing-notice-of-intent-to-designate-colombia-as-a-major-non-nato-ally/
 tags: statements-releases
 title: "Letter to the Speaker of the House of Representatives and President of the\
   \ Senate on Providing Notice of Intent to Designate Colombia as a Major Non-NATO\_\

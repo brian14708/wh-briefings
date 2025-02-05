@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-26 15:36:15-04:00
 published_time: 2023-04-26 15:36:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/26/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/26/remarks-by-president-biden-and-president-yoon-suk-yeol-of-the-republic-of-korea-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Yoon Suk Yeol of the Republic of\
   \ Korea Before Bilateral\_Meeting"

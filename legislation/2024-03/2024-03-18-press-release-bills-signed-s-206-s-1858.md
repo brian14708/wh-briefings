@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 16:58:41-04:00
 published_time: 2024-03-18 16:41:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/03/18/press-release-bills-signed-s-206-s-1858/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/03/18/press-release-bills-signed-s-206-s-1858/
 tags: legislation
 title: "Press Release: Bills Signed: S. 206, S.\_1858"
 ---

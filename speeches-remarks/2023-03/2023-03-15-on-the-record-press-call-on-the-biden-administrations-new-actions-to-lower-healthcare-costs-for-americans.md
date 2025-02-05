@@ -2,7 +2,7 @@
 date: '2023-03-15'
 modified_time: 2023-03-14 19:12:56-04:00
 published_time: 2023-03-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/15/on-the-record-press-call-on-the-biden-administrations-new-actions-to-lower-healthcare-costs-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/15/on-the-record-press-call-on-the-biden-administrations-new-actions-to-lower-healthcare-costs-for-americans/
 tags: speeches-remarks
 title: "On-the-Record Press Call on the Biden Administration\u2019s New Actions to\
   \ Lower Healthcare Costs for\_Americans"

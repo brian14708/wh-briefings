@@ -2,7 +2,7 @@
 date: '2022-10-20'
 modified_time: 2022-10-20 09:11:02-04:00
 published_time: 2022-10-20 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/20/fact-sheet-building-bridges-to-a-better-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/20/fact-sheet-building-bridges-to-a-better-america/
 tags: statements-releases
 title: "FACT SHEET: Building Bridges to a Better\_America"
 ---
@@ -32,7 +32,7 @@ across the country. **In less than a year, Bipartisan Infrastructure Law
 funds are being put to work to begin to repair, rehabilitate and replace
 over 2,400 bridge projects across the United States,** [**exceeding
 President Biden’s goal for the first
-year**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19-2/)**.**
+year**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-administration-announces-new-actions-to-address-the-needs-of-people-with-disabilities-and-older-adults-in-response-to-and-recovery-from-covid-19-2/)**.**
 Like the Fern Hollow Bridge, these bridges can be life lines for
 communities, connecting families to their loved ones, students to
 school, workers to their jobs, and providing critical access and

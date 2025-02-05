@@ -2,7 +2,7 @@
 date: '2022-10-20'
 modified_time: 2022-10-20 11:23:41-04:00
 published_time: 2022-10-20 11:23:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/20/fact-sheet-biden-harris-administration-rallies-states-cities-and-companies-to-boost-clean-american-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/20/fact-sheet-biden-harris-administration-rallies-states-cities-and-companies-to-boost-clean-american-manufacturing/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Rallies States, Cities, and\
   \ Companies to Boost Clean American\_Manufacturing"
@@ -36,12 +36,12 @@ Partnerships between state, Tribal, regional, local and industry leaders
 are critical to ensure that Buy Clean investments in clean manufacturing
 and climate-resilient infrastructure benefit all Americans across the
 country. President Biden’s [Action Plan to Accelerate
-Infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-the-biden-harris-administration-announces-action-plan-to-accelerate-infrastructure)
+Infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-the-biden-harris-administration-announces-action-plan-to-accelerate-infrastructure)
 recognizes that over 90% of Bipartisan Infrastructure Law funding is
 delivered by non-federal agencies, underscoring the need for strong
 partnerships across public and private sectors. Building on recent
 [Administration
-announcements](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)
+announcements](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)
 through the [Federal Buy Clean
 Initiative](https://www.sustainability.gov/buyclean/), today’s actions
 to create more good-paying manufacturing jobs while tackling the climate
@@ -84,7 +84,7 @@ crisis include:  
 **<u>NEW FEDERAL SUPPORT</u>**
 
 Last month, the Biden-Harris Administration
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)
 a major set of Buy Clean initiatives, including a policy to prioritize
 the Federal Government’s purchase of steel, concrete, asphalt, and flat
 glass that have lower embodied emissions across their

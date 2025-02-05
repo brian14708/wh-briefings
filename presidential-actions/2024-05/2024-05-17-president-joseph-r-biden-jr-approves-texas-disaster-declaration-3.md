@@ -1,7 +1,7 @@
 ---
 date: '2024-05-17'
 published_time: 2024-05-17 21:02:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/17/president-joseph-r-biden-jr-approves-texas-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/17/president-joseph-r-biden-jr-approves-texas-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Texas Disaster\_Declaration"
 ---

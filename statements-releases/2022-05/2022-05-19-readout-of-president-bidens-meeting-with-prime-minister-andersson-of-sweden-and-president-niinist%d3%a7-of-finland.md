@@ -1,7 +1,7 @@
 ---
 date: '2022-05-19'
 published_time: 2022-05-19 15:32:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/readout-of-president-bidens-meeting-with-prime-minister-andersson-of-sweden-and-president-niinist%d3%a7-of-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/readout-of-president-bidens-meeting-with-prime-minister-andersson-of-sweden-and-president-niinist%d3%a7-of-finland/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Andersson Of\
   \ Sweden and President Niinist\u04E7 of\_Finland"

@@ -1,7 +1,7 @@
 ---
 date: '2024-04-11'
 published_time: 2024-04-11 18:49:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/readout-of-president-bidens-meeting-with-philippine-president-ferdinand-marcos-jr-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/readout-of-president-bidens-meeting-with-philippine-president-ferdinand-marcos-jr-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Philippine President Ferdinand\
   \ Marcos\_Jr."

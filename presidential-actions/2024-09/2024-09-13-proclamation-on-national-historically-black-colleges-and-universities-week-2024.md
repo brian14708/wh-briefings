@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 11:20:33-04:00
 published_time: 2024-09-13 11:20:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-national-historically-black-colleges-and-universities-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/13/proclamation-on-national-historically-black-colleges-and-universities-week-2024/
 tags: presidential-actions
 title: "Proclamation on National Historically Black Colleges and Universities Week,\_\
   2024"

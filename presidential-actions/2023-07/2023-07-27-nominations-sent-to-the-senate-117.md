@@ -1,7 +1,7 @@
 ---
 date: '2023-07-27'
 published_time: 2023-07-27 11:27:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/27/nominations-sent-to-the-senate-117/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/27/nominations-sent-to-the-senate-117/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-08'
 published_time: 2022-07-08 12:41:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/08/a-proclamation-on-the-death-of-abe-shinzo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/08/a-proclamation-on-the-death-of-abe-shinzo/
 tags: presidential-actions
 title: "A Proclamation on the Death Of Abe\_Shinzo"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-17'
 published_time: 2024-09-17 16:12:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/17/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-president-irfaan-ali-of-guyana-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/17/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-president-irfaan-ali-of-guyana-2/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Call\
   \ with President Irfaan Ali of\_Guyana"

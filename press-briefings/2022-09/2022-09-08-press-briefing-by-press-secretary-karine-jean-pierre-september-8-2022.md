@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 15:53:10-04:00
 published_time: 2022-09-08 15:53:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/08/press-briefing-by-press-secretary-karine-jean-pierre-september-8-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/08/press-briefing-by-press-secretary-karine-jean-pierre-september-8-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, September 8,\_2022"
 ---

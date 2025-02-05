@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-21 15:43:01-04:00
 published_time: 2024-04-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/22/background-press-call-by-senior-administration-officials-on-president-bidens-historic-actions-to-mark-earth-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/22/background-press-call-by-senior-administration-officials-on-president-bidens-historic-actions-to-mark-earth-day/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on President\_Biden\u2019\
   s Historic Actions to Mark Earth\_Day"

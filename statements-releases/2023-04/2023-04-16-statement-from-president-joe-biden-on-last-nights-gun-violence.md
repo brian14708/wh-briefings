@@ -1,7 +1,7 @@
 ---
 date: '2023-04-16'
 published_time: 2023-04-16 15:10:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/16/statement-from-president-joe-biden-on-last-nights-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/16/statement-from-president-joe-biden-on-last-nights-gun-violence/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Last Night\u2019s Gun\_Violence"
 ---

@@ -2,7 +2,7 @@
 date: '2023-03-31'
 modified_time: 2023-03-31 16:32:22-04:00
 published_time: 2023-03-31 16:32:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-president-biden-on-tornado-response-and-recovery-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-president-biden-on-tornado-response-and-recovery-efforts/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Tornado Response and Recovery\_Efforts"
 ---

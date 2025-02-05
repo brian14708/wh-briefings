@@ -2,7 +2,7 @@
 date: '2024-09-02'
 modified_time: 2024-09-02 11:49:59-04:00
 published_time: 2024-09-02 11:49:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/02/readout-of-president-bidens-situation-room-meeting-with-u-s-negotiators-of-the-gaza-ceasefire-and-hostage-release-deal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/02/readout-of-president-bidens-situation-room-meeting-with-u-s-negotiators-of-the-gaza-ceasefire-and-hostage-release-deal/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Situation Room Meeting with U.S. Negotiators\
   \ of the Gaza Ceasefire and Hostage Release\_Deal"

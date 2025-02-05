@@ -1,7 +1,7 @@
 ---
 date: '2024-03-24'
 published_time: 2024-03-24 00:49:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-human-rights-campaign-2024-los-angeles-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-human-rights-campaign-2024-los-angeles-dinner/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Human Rights\
   \ Campaign 2024 Los Angeles\_Dinner"

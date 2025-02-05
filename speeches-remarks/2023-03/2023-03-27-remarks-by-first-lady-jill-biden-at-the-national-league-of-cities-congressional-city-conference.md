@@ -1,7 +1,7 @@
 ---
 date: '2023-03-27'
 published_time: 2023-03-27 16:54:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-first-lady-jill-biden-at-the-national-league-of-cities-congressional-city-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/27/remarks-by-first-lady-jill-biden-at-the-national-league-of-cities-congressional-city-conference/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the National League of Cities Congressional\
   \ City\_Conference"

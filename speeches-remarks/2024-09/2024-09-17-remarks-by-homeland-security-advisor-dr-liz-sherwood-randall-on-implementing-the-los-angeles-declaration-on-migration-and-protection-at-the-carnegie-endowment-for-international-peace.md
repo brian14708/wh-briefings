@@ -2,7 +2,7 @@
 date: '2024-09-17'
 modified_time: 2024-09-18 17:51:19-04:00
 published_time: 2024-09-17 17:49:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/17/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-on-implementing-the-los-angeles-declaration-on-migration-and-protection-at-the-carnegie-endowment-for-international-peace/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/17/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-on-implementing-the-los-angeles-declaration-on-migration-and-protection-at-the-carnegie-endowment-for-international-peace/
 tags: speeches-remarks
 title: "Remarks by Homeland Security Advisor Dr. Liz Sherwood-Randall on Implementing\
   \ the Los Angeles Declaration on Migration and Protection at the Carnegie Endowment\

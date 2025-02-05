@@ -2,7 +2,7 @@
 date: '2024-08-10'
 modified_time: 2024-08-12 13:32:25-04:00
 published_time: 2024-08-10 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/10/remarks-by-vice-president-harris-in-press-gaggle-phoenix-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/10/remarks-by-vice-president-harris-in-press-gaggle-phoenix-az/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle | Phoenix,\_AZ"
 ---

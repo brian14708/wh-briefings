@@ -2,7 +2,7 @@
 date: '2024-01-03'
 modified_time: 2024-01-04 14:18:43-05:00
 published_time: 2024-01-03 12:38:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/03/a-joint-statement-from-the-governments-of-the-united-states-australia-bahrain-belgium-canada-denmark-germany-italy-japan-netherlands-new-zealand-and-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/03/a-joint-statement-from-the-governments-of-the-united-states-australia-bahrain-belgium-canada-denmark-germany-italy-japan-netherlands-new-zealand-and-the-united-kingdom/
 tags: statements-releases
 title: "A Joint Statement from the Governments of the United\_States, Australia, Bahrain,\
   \ Belgium, Canada, Denmark, Germany, Italy, Japan, Netherlands, New Zealand, Republic\

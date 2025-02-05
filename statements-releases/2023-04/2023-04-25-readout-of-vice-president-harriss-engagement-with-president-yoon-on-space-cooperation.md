@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 20:43:48-04:00
 published_time: 2023-04-25 20:43:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/25/readout-of-vice-president-harriss-engagement-with-president-yoon-on-space-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/25/readout-of-vice-president-harriss-engagement-with-president-yoon-on-space-cooperation/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Engagement with President Yoon on\
   \ Space\_Cooperation"

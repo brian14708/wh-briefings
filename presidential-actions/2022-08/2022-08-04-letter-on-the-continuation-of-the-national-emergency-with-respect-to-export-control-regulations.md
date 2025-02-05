@@ -2,7 +2,7 @@
 date: '2022-08-04'
 modified_time: 2022-08-04 17:18:16-04:00
 published_time: 2022-08-04 17:18:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/04/letter-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/04/letter-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations/
 tags: presidential-actions
 title: "Letter on the Continuation Of The National Emergency With Respect To Export\
   \ Control\_Regulations"

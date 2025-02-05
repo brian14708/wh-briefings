@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 18:14:52-04:00
 published_time: 2023-04-25 18:14:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/25/press-briefing-by-press-secretary-karine-jean-pierre-and-the-cast-of-the-l-word-and-the-l-word-generation-q/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/25/press-briefing-by-press-secretary-karine-jean-pierre-and-the-cast-of-the-l-word-and-the-l-word-generation-q/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and the Cast of \u201C\
   The L Word\u201D and \u201CThe L Word: Generation\_Q\u201D"

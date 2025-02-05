@@ -2,7 +2,7 @@
 date: '2022-05-09'
 modified_time: 2022-05-09 17:49:42-04:00
 published_time: 2022-05-09 16:58:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-2/
 tags: presidential-actions
 title: "Notice on the Continuation of The National Emergency with Respect to the Actions\
   \ of the Government of\_Syria"

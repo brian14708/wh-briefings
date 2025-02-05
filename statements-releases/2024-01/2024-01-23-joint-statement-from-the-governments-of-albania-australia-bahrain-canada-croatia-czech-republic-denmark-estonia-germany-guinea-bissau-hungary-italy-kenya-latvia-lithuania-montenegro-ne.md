@@ -2,7 +2,7 @@
 date: '2024-01-23'
 modified_time: 2024-01-23 18:22:32-05:00
 published_time: 2024-01-23 17:07:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/joint-statement-from-the-governments-of-albania-australia-bahrain-canada-croatia-czech-republic-denmark-estonia-germany-guinea-bissau-hungary-italy-kenya-latvia-lithuania-montenegro-ne/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/joint-statement-from-the-governments-of-albania-australia-bahrain-canada-croatia-czech-republic-denmark-estonia-germany-guinea-bissau-hungary-italy-kenya-latvia-lithuania-montenegro-ne/
 tags: statements-releases
 title: "Joint Statement from the Governments of Albania, Australia, Bahrain, Canada,\
   \ Croatia, Czech Republic, Denmark, Estonia, Germany, Guinea-Bissau, Hungary, Italy,\

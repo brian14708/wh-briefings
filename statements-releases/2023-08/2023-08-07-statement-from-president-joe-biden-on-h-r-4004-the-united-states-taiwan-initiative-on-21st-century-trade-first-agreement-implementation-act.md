@@ -1,7 +1,7 @@
 ---
 date: '2023-08-07'
 published_time: 2023-08-07 16:25:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/07/statement-from-president-joe-biden-on-h-r-4004-the-united-states-taiwan-initiative-on-21st-century-trade-first-agreement-implementation-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/07/statement-from-president-joe-biden-on-h-r-4004-the-united-states-taiwan-initiative-on-21st-century-trade-first-agreement-implementation-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on H.R. 4004, the United\_States-Taiwan\
   \ Initiative on 21st-Century Trade First Agreement Implementation\_Act"

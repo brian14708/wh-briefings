@@ -2,7 +2,7 @@
 date: '2024-07-20'
 modified_time: 2024-07-20 13:35:36-04:00
 published_time: 2024-07-20 13:35:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/20/statement-from-vice-president-kamala-harris-on-the-passing-of-congresswoman-sheila-jackson-lee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/20/statement-from-vice-president-kamala-harris-on-the-passing-of-congresswoman-sheila-jackson-lee/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Congresswoman\
   \ Sheila Jackson\_Lee"

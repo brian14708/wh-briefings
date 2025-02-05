@@ -1,7 +1,7 @@
 ---
 date: '2024-08-05'
 published_time: 2024-08-05 19:18:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/05/memorandum-on-the-delegation-of-functions-and-authorities-under-section-6a-c-of-the-united-states-taiwan-initiative-on-21st-century-trade-first-agreement-implementation-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/05/memorandum-on-the-delegation-of-functions-and-authorities-under-section-6a-c-of-the-united-states-taiwan-initiative-on-21st-century-trade-first-agreement-implementation-act/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Functions and Authorities Under Section 6(a)-(c)\
   \ of the United\_States-Taiwan Initiative on 21st-Century Trade First Agreement\

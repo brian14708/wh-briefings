@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-25 15:26:14-04:00
 published_time: 2024-07-25 15:26:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/25/nominations-sent-to-the-senate-153/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/25/nominations-sent-to-the-senate-153/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-22'
 published_time: 2023-03-22 10:43:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/22/statement-by-nsc-spokesperson-adrienne-watson-on-the-administrations-actions-to-invest-in-water-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/22/statement-by-nsc-spokesperson-adrienne-watson-on-the-administrations-actions-to-invest-in-water-security/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the Administration\u2019\
   s Actions to Invest in Water\_Security"

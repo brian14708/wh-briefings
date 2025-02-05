@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-01 12:02:09-04:00
 published_time: 2022-06-01 12:01:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/statement-by-president-biden-on-ism-manufacturing-report-for-may/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/statement-by-president-biden-on-ism-manufacturing-report-for-may/
 tags: statements-releases
 title: "Statement by President\_Biden on ISM Manufacturing Report for\_May"
 ---

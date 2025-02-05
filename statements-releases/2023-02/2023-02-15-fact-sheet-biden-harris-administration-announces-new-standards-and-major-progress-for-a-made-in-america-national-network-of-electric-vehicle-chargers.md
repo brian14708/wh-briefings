@@ -2,7 +2,7 @@
 date: '2023-02-15'
 modified_time: 2023-02-14 21:55:35-05:00
 published_time: 2023-02-15 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces\_New\_Standards and\_\
   Major\_Progress for\_a Made-in-America\_National Network of Electric Vehicle\_Chargers"

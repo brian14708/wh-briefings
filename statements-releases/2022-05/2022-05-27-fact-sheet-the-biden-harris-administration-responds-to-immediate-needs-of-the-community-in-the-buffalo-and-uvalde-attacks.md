@@ -2,7 +2,7 @@
 date: '2022-05-27'
 modified_time: 2022-05-27 12:50:47-04:00
 published_time: 2022-05-27 12:41:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/27/fact-sheet-the-biden-harris-administration-responds-to-immediate-needs-of-the-community-in-the-buffalo-and-uvalde-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/27/fact-sheet-the-biden-harris-administration-responds-to-immediate-needs-of-the-community-in-the-buffalo-and-uvalde-attacks/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Responds to Immediate Needs\
   \ of the Community in the Buffalo and Uvalde\_Attacks"
@@ -234,7 +234,7 @@ mobilization. 
 <!-- -->
 
 -   The [White House Office of Faith-Based and Neighborhood
-    Partnerships](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/) and
+    Partnerships](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/14/fact-sheet-biden-harris-administration-celebrates-first-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/) and
     agency [Centers](https://www.dhs.gov/faith#:~:text=The%20U.S.%20Department%20of%20Homeland,creating%20trust%20and%20developing%20relationships.) for [Faith-Based](https://www.va.gov/cfbnp/) and [Neighborhood](https://sites.ed.gov/cfbnp/#:~:text=The%20U.S.%20Department%20of%20Education,to%20better%20Americans%20in%20need) [Partnerships](https://www.commerce.gov/bureaus-and-offices/os/faith-based-and-neighborhood-partnerships) are
     working with faith and community leaders to facilitate deployments
     of counselors and other care-givers to Buffalo and Uvalde. Last

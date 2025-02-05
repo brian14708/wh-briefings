@@ -1,7 +1,7 @@
 ---
 date: '2022-09-21'
 published_time: 2022-09-21 14:49:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2022-concordia-annual-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2022-concordia-annual-summit/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2022 Concordia\
   \ Annual\_Summit"

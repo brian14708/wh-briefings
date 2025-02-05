@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 14:48:24-04:00
 published_time: 2022-07-16 14:48:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-vice-president-harris-before-meeting-with-pennsylvania-state-legislators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/16/remarks-by-vice-president-harris-before-meeting-with-pennsylvania-state-legislators/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Meeting with Pennsylvania State\_\
   Legislators"

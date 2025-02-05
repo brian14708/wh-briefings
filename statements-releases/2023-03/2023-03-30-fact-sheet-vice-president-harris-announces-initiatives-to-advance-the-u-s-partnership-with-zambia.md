@@ -1,7 +1,7 @@
 ---
 date: '2023-03-30'
 published_time: 2023-03-30 23:03:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-advance-the-u-s-partnership-with-zambia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-vice-president-harris-announces-initiatives-to-advance-the-u-s-partnership-with-zambia/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Initiatives to Advance the U.S.\
   \ Partnership with\_Zambia"

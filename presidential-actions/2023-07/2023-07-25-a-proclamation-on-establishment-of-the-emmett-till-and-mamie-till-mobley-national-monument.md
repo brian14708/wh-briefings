@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 13:49:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/
 tags: presidential-actions
 title: "A Proclamation on Establishment of the Emmett Till and Mamie Till-Mobley National\_\
   Monument"

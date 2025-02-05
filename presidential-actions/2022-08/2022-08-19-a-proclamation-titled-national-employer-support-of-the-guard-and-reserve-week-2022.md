@@ -1,7 +1,7 @@
 ---
 date: '2022-08-19'
 published_time: 2022-08-19 10:32:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/19/a-proclamation-titled-national-employer-support-of-the-guard-and-reserve-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/19/a-proclamation-titled-national-employer-support-of-the-guard-and-reserve-week-2022/
 tags: presidential-actions
 title: "A Proclamation Titled National Employer Support Of The Guard And Reserve Week,\_\
   2022"

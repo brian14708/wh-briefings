@@ -2,7 +2,7 @@
 date: '2023-08-09'
 modified_time: 2023-08-09 15:10:01-04:00
 published_time: 2023-08-09 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/09/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/09/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
 tags: presidential-actions
 title: "Letters to the Speaker of the House and the President of the Senate on Addressing\
   \ United\_States Investments in Certain National Security Technologies and Products\

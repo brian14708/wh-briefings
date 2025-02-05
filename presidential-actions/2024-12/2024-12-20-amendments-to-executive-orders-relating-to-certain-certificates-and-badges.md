@@ -2,7 +2,7 @@
 date: '2024-12-20'
 modified_time: 2024-12-20 15:35:39-05:00
 published_time: 2024-12-20 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/20/amendments-to-executive-orders-relating-to-certain-certificates-and-badges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/20/amendments-to-executive-orders-relating-to-certain-certificates-and-badges/
 tags: presidential-actions
 title: "Amendments to Executive Orders Relating to Certain Certificates and\_Badges"
 ---

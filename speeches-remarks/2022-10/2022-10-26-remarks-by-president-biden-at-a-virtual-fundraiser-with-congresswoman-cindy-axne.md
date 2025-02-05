@@ -2,7 +2,7 @@
 date: '2022-10-26'
 modified_time: 2022-10-27 13:58:42-04:00
 published_time: 2022-10-26 20:54:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-at-a-virtual-fundraiser-with-congresswoman-cindy-axne/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-at-a-virtual-fundraiser-with-congresswoman-cindy-axne/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Virtual Fundraiser with Congresswoman Cindy\_\
   Axne"

@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-09 11:29:58-05:00
 published_time: 2025-01-08 20:10:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/08/president-joseph-r-biden-jr-approves-california-major-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/08/president-joseph-r-biden-jr-approves-california-major-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves California Major Disaster\_Declaration"
 ---

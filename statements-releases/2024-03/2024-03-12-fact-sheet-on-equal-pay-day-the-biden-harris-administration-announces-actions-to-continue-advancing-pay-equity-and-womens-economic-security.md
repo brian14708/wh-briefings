@@ -1,7 +1,7 @@
 ---
 date: '2024-03-12'
 published_time: 2024-03-12 12:43:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/12/fact-sheet-on-equal-pay-day-the-biden-harris-administration-announces-actions-to-continue-advancing-pay-equity-and-womens-economic-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/12/fact-sheet-on-equal-pay-day-the-biden-harris-administration-announces-actions-to-continue-advancing-pay-equity-and-womens-economic-security/
 tags: statements-releases
 title: "FACT SHEET: On Equal Pay Day, the Biden-\u2060Harris Administration Announces\
   \ Actions to Continue Advancing Pay Equity and Women\u2019s Economic\_Security"
@@ -35,7 +35,7 @@ These actions will:
 -   **Promote equitable access to good-paying jobs. **Last week, the
     President signed the [Executive Order on Scaling and Expanding the
     Use of Registered
-    Apprenticeships](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/),
+    Apprenticeships](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/),
     which will expand and diversify Registered Apprenticeship programs,
     benefitting women and other underrepresented workers by increasing
     access to high-quality pathways to good-paying, family-sustaining
@@ -66,7 +66,7 @@ These actions will:
 Today’s announcements follow recent actions the Biden-Harris
 Administration has taken to further pay equity and transparency. On
 Equal Pay Day 2022, the President issued an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/15/executive-order-on-advancing-economy-efficiency-and-effectiveness-in-federal-contracting-by-promoting-pay-equity-and-transparency/) that
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/15/executive-order-on-advancing-economy-efficiency-and-effectiveness-in-federal-contracting-by-promoting-pay-equity-and-transparency/) that
 committed to eliminate discriminatory pay practices in the Federal
 government and Federal contracting workforces. In January 2024, the
 Administration made good on that promise by committing to:
@@ -169,25 +169,25 @@ women since 1953. These include:
     child care programs serving as many as 10 million children across
     the country. Over 90% of the child care programs that have received
     assistance are women-owned. The Council of Economic
-    Advisors [found](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/) that
+    Advisors [found](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/) that
     this stabilization funding supported savings for families with young
     children, raised the real wages of child care workers, and helped
     hundreds of thousands of women with young children enter or re-enter
     the workforce.
 
 In addition, in April 2023, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/) with
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/) with
 more than 50 directives to nearly every cabinet-level agency to increase
 access to affordable, high-quality care and boost job quality for early
 educators and long-term care workers, who are disproportionately women
 of color. Among the many actions agencies have taken, the Department of
 Health and Human
-Services [finalized](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/) a
+Services [finalized](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/) a
 rule strengthening the Child Care and Development Block Grant (CCDBG)
 program and lowering child care costs for more than 100,000 families. 
 
 -   **Increasing the minimum wage**. The President issued [Executive
-    Orders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/) directing
+    Orders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/) directing
     the Administration to work toward ensuring that employees working on
     Federal contracts and Federal employees earned at least a $15 per
     hour minimum wage. Those directives went into effect in January
@@ -210,7 +210,7 @@ program and lowering child care costs for more than 100,000 families. 
     that from 2019 to 2023, women’s small business formation surged,
     substantially outpacing overall formation. This Administration has
     invested $70 million in the [Women Business
-    Centers](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-announces-new-resources-to-support-women-small-businesses-owners-continued-commitment-to-supporting-americas-entrepreneurs/) (WBC)
+    Centers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-announces-new-resources-to-support-women-small-businesses-owners-continued-commitment-to-supporting-americas-entrepreneurs/) (WBC)
     network, expanding it for the first time into all 50 states and
     tripling the number of WBCs at Historically Black Colleges and
     Universities, Hispanic-Serving Institutions, and other

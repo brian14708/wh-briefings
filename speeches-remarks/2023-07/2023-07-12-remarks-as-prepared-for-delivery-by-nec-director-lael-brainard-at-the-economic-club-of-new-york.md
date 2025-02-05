@@ -2,7 +2,7 @@
 date: '2023-07-12'
 modified_time: 2023-07-12 13:28:01-04:00
 published_time: 2023-07-12 12:08:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by NEC Director Lael Brainard at the Economic\
   \ Club of New\_York"
@@ -72,7 +72,7 @@ did not happen by chance, and they will not be sustained absent a
 deliberate strategy. President Biden’s economic strategy aims to grow
 the economy from the middle out and bottom up—not the top down.
 
-[Bidenomics](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/) represents
+[Bidenomics](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/) represents
 a fundamental shift from a flawed top-down economic theory that too
 often drove economic policymaking in the past. Trickle-down economics
 emphasized cutting taxes for big businesses and those at the top, and
@@ -151,7 +151,7 @@ historic legislation that enables smart public investment in
 infrastructure, semiconductors, and clean energy in order to catalyze
 private investment, boost our economic potential, and make our economy
 more resilient to shocks. Already, we’ve seen [over $500
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 private investment in these key industries, and real [manufacturing
 construction spending](https://fred.stlouisfed.org/series/TLMFGCONS) has
 increased by nearly 100 percent since the end of 2021.
@@ -184,11 +184,11 @@ fallen by more than [40
 percent](https://fredblog.stlouisfed.org/2021/10/government-investment-on-the-decline/) since
 the 1960s. President Bident secured the Bipartisan Infrastructure Law,
 and the Biden administration
-is [investing](https://www.whitehouse.gov/build/guidebook/) in tens of
+is [investing](https://bidenwhitehouse.archives.gov/build/guidebook/) in tens of
 thousands of projects around the country to repair and rebuild the
 nation’s roads and bridges, airports, rails, and ports. In the same
 spirit as FDR’s rural electrification plan, President
-Biden’s [broadband](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-high-speed-internet-costs/) initiative
+Biden’s [broadband](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-high-speed-internet-costs/) initiative
 is a generational investment to connect every household and small
 business in America to high-speed internet.
 
@@ -218,8 +218,8 @@ vehicles. In part due to intervention by some foreign
 governments, [production](https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary) of
 key parts in the battery and solar supply chain
 is [highly](https://media.defense.gov/2022/Feb/24/2002944158/-1/-1/1/DOD-EO-14017-REPORT-SECURING-DEFENSE-CRITICAL-SUPPLY-CHAINS.PDF)
-[](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/)
-[concentrated](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/) in
+[](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/)
+[concentrated](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/) in
 a few countries and, in the case of solar, actually declined in the U.S.
 despite growing demand. That is now changing, with the Inflation
 Reduction Act tax incentives for the private sector to innovate and
@@ -281,11 +281,11 @@ training American workers and helping to make these investments in
 America’s future productive and successful. The Administration’s
 policies are designed to encourage
 job [quality](https://www.eda.gov/arpa/good-job-challenge),
-worker [empowerment](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/), [fair](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/)[pay](https://www.dol.gov/agencies/whd/IRA),
+worker [empowerment](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/), [fair](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/)[pay](https://www.dol.gov/agencies/whd/IRA),
 and training and [career
 pathways](https://www.apprenticeship.gov/inflation-reduction-act-apprenticeship-resources),
 as well
-as [enabling](https://www.whitehouse.gov/wp-content/uploads/2022/11/Advancing-Equitable-Workforce-Development-for-Infrastructure-Jobs_110122.pdf) historically [underrepresented](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/) workers
+as [enabling](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Advancing-Equitable-Workforce-Development-for-Infrastructure-Jobs_110122.pdf) historically [underrepresented](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/) workers
 to take on good jobs in sectors of the future.
 
 American workers must have access to training and education to secure
@@ -293,7 +293,7 @@ high-quality jobs. A variety of policies invest in education and
 training–ranging from the President’s commitment to free and universal
 preschool and free community college to increases in Pell Grants,
 Registered
-Apprenticeships, [HBCUs](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%E2%81%A0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/#:~:text=Since%20January%2C%20the%20Biden%2DHarris,to%20HBCUs%20this%20year%20alone.),
+Apprenticeships, [HBCUs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%E2%81%A0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/#:~:text=Since%20January%2C%20the%20Biden%2DHarris,to%20HBCUs%20this%20year%20alone.),
 Tribal Colleges, and Minority-Serving Institutions such as Hispanic
 Serving-Institutions, and career and technical education. Those options
 include important pathways to family sustaining jobs and good careers
@@ -344,7 +344,7 @@ workers, and [greater
 dynamism](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=962261) driven
 by small businesses and new entrants. This is why the President issued
 a [Competition Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/) in
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/) in
 2021, which made promoting competition a whole of government mission. We
 have also secured significantly increased funding for our antitrust
 enforcement agencies –after remaining flat for years.
@@ -353,7 +353,7 @@ We are working to lower the cost of living for middle-class Americans.
 It is important to continue making progress in reducing health care
 costs, which present difficult tradeoffs for many American families. For
 example, the FDA regulatory change enabling [hearing
-aids](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) to
+aids](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) to
 be sold over-the-counter is lowering hearing aid costs by as much as
 $3,000 per pair—a significant savings for the nearly 30 million
 Americans with hearing loss. According to new data, President Biden’s
@@ -365,7 +365,7 @@ the highest drug costs. This includes savings averaging more than $100
 per month for seniors due to the $35 per month cap on insulin.
 
 We are also addressing [junk
-fees](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)—hidden
+fees](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)—hidden
 fees that are added to the final price often without the consumer
 realizing it or a clear rationale. Already, the Consumer Financial
 Protection Bureau’s actions on [overdraft and bounced check

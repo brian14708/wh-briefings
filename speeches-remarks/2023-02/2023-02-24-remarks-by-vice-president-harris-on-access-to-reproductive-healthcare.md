@@ -1,7 +1,7 @@
 ---
 date: '2023-02-24'
 published_time: 2023-02-24 12:10:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/24/remarks-by-vice-president-harris-on-access-to-reproductive-healthcare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/24/remarks-by-vice-president-harris-on-access-to-reproductive-healthcare/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Access to Reproductive\_Healthcare"
 ---

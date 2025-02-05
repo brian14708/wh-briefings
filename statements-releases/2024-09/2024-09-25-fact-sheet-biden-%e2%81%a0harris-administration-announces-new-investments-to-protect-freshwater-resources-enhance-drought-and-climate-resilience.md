@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-25 19:13:53-04:00
 published_time: 2024-09-25 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-investments-to-protect-freshwater-resources-enhance-drought-and-climate-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-investments-to-protect-freshwater-resources-enhance-drought-and-climate-resilience/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Investments to\
   \ Protect Freshwater Resources, Enhance Drought and Climate\_Resilience"
@@ -19,7 +19,7 @@ farmlands they nourish – also play a critical role in the fight against
 climate change.
 
 Since Day One, the Biden-Harris Administration [has
-worked](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/) to
+worked](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/fact-sheet-on-world-water-day-biden-harris-administration-builds-on-historic-progress-to-protect-clean-drinking-water-restore-our-nations-rivers-lakes-ponds-and-wetlands/) to
 secure clean water for all communities, protect our vital freshwater
 resources, and mitigate the impacts of drought. Given that communities
 often acutely experience the climate crisis through water-related
@@ -44,7 +44,7 @@ and address climate impacts felt across the nation:
     make Western communities more resilient to climate change and
     address the ongoing megadrought across the region, including the
     Colorado River Basin, by [harnessing the full
-    resources](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
+    resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
     of President Biden’s historic Investing in America agenda. The
     Administration’s investments in the Lower Colorado River Basin
     bridge the immediate need for water conservation while moving toward
@@ -73,7 +73,7 @@ and address climate impacts felt across the nation:
     make Western communities more resilient to climate change and
     address the ongoing megadrought across the region, including the
     Colorado River Basin, by [harnessing the full
-    resources](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
+    resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
     of President Biden’s historic Investing in America agenda. The
     Administration’s investments in the Lower Colorado River Basin
     bridge the immediate need for water conservation while moving toward
@@ -120,7 +120,7 @@ and address climate impacts felt across the nation:
     ecosystems.
     -   [The Administration is announcing a suite of 10 transformational
         fish passage
-        projects](https://www.whitehouse.gov/ceq/news-updates/2024/09/25/historic-conservation-progress-transformational-fish-passage-projects-to-rejuvenate-ecosystems-bolster-climate-resilience-and-support-cleaner-water-for-communities-across-the-nation/)
+        projects](https://bidenwhitehouse.archives.gov/ceq/news-updates/2024/09/25/historic-conservation-progress-transformational-fish-passage-projects-to-rejuvenate-ecosystems-bolster-climate-resilience-and-support-cleaner-water-for-communities-across-the-nation/)
         that to date have received over $150 million from eight Federal
         agencies. When completed, these fish passage and aquatic
         connectivity projects – located in communities from Maine to
@@ -152,11 +152,11 @@ and address climate impacts felt across the nation:
     Challenge, White House Council on Environmental Quality Chair Brenda
     Mallory announced a doubling of new partners in the [*America the
     Beautiful* Freshwater
-    Challenge](https://www.whitehouse.gov/ceq/the-america-the-beautiful-freshwater-challenge/)
+    Challenge](https://bidenwhitehouse.archives.gov/ceq/the-america-the-beautiful-freshwater-challenge/)
     – a nationwide initiative to protect, restore, and reconnect 8
     million acres of wetlands and 100,000 miles of our nation’s rivers
     and streams by 2030. [Over 100
-    members](https://www.whitehouse.gov/ceq/97632) from across the
+    members](https://bidenwhitehouse.archives.gov/ceq/97632) from across the
     country initially signed on to support freshwater restoration in
     their communities. That number has now more than doubled to over
     211, including 14 states, 16 Tribal entities, 27 local governments,
@@ -200,19 +200,19 @@ and address climate impacts felt across the nation:
 Today’s announcements build on recent actions that deliver on the
 Biden-Harris Administration’s commitment to ensuring safe drinking
 water, including [providing approximately $1 billion in
-funding](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/)
+funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/)
 to bring safe, clean water to Tribal communities; finalizing the
 first-ever standard to [protect communities from toxic “forever
-chemicals,”](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/) along
+chemicals,”](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/) along
 with rulemakings to [hold polluters responsible for PFAS
 cleanup](https://www.epa.gov/newsreleases/biden-harris-administration-finalizes-critical-rule-clean-pfas-contamination-protect) and
 to [enhance safeguards against dangerous chemical spills in our nation’s
 waters](https://www.epa.gov/newsreleases/epa-requires-industrial-facilities-enhance-preparation-chemical-discharges-water);
 and continuing to deliver on President Biden’s goal to [replace every
 lead pipe in
-America](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/) in
+America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/fact-sheet-biden-harris-administration-announces-new-action-to-protect-communities-from-lead-exposure/) in
 the next decade. The Department of the Interior has
-[invested](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
+[invested](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/05/fact-sheet-biden-harris-administration-protects-stability-and-sustainability-of-colorado-river-basin-advances-water-conservation-across-the-west/)
 more than $6.95 billion to fund over 831 Western water projects through
 the Bipartisan Infrastructure Law and the Inflation Reduction Act; the
 Environmental Protection Agency has leveraged more than $9 billion in

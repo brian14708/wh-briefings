@@ -2,7 +2,7 @@
 date: '2023-05-02'
 modified_time: 2023-05-04 09:46:33-04:00
 published_time: 2023-05-02 15:56:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/state-fact-sheets-maga-house-republicans-default-on-america-act-would-have-devastating-impacts-across-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/02/state-fact-sheets-maga-house-republicans-default-on-america-act-would-have-devastating-impacts-across-america/
 tags: statements-releases
 title: "STATE FACT SHEETS: MAGA House Republicans\u2019 Default on America Act Would\
   \ Have Devastating Impacts Across\_America"
@@ -28,12 +28,12 @@ and giveaways skewed to the wealthy and big corporations.
   
 The Default on America Act stands in sharp contrast with [President
 Biden’s
-Budget](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-reduces-deficits-by-nearly-3-trillion-over-10-years/),
+Budget](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-the-presidents-budget-reduces-deficits-by-nearly-3-trillion-over-10-years/),
 which invests in America, [lowers costs for
-families](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/),
+families](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/),
 protects and strengthens Medicare and Social Security, and [reduces the
 deficit by nearly $3
-trillion](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-strongthe-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years-strong/)
+trillion](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-strongthe-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years-strong/)
 over 10 years, while ensuring no one making less than $400,000 per year
 pays a penny more in new taxes.  
   
@@ -160,68 +160,68 @@ Training***
 
 **State Fact Sheets:**
 
--   [Alabama](https://www.whitehouse.gov/wp-content/uploads/2023/05/Alabama.pdf)
--   [Alaska](https://www.whitehouse.gov/wp-content/uploads/2023/05/Alaska.pdf)
--   [Arizona](https://www.whitehouse.gov/wp-content/uploads/2023/05/Arizona-1.pdf)
--   [Arkansas](https://www.whitehouse.gov/wp-content/uploads/2023/05/Arkansas.pdf)
--   [California](https://www.whitehouse.gov/wp-content/uploads/2023/05/California.pdf)
--   [Colorado](https://www.whitehouse.gov/wp-content/uploads/2023/05/Colorado.pdf)
--   [Connecticut](https://www.whitehouse.gov/wp-content/uploads/2023/05/Connecticut.pdf)
+-   [Alabama](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Alabama.pdf)
+-   [Alaska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Alaska.pdf)
+-   [Arizona](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Arizona-1.pdf)
+-   [Arkansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Arkansas.pdf)
+-   [California](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/California.pdf)
+-   [Colorado](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Colorado.pdf)
+-   [Connecticut](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Connecticut.pdf)
 -   [District of
-    Columbia](https://www.whitehouse.gov/wp-content/uploads/2023/05/District-of-Columbia.pdf)
--   [Delaware](https://www.whitehouse.gov/wp-content/uploads/2023/05/Delaware.pdf)
--   [Florida](https://www.whitehouse.gov/wp-content/uploads/2023/05/Florida.pdf)
--   [Georgia](https://www.whitehouse.gov/wp-content/uploads/2023/05/Georgia.pdf)
--   [Hawaii](https://www.whitehouse.gov/wp-content/uploads/2023/05/Hawaii.pdf)
--   [Idaho](https://www.whitehouse.gov/wp-content/uploads/2023/05/Idaho.pdf)
--   [Illinois](https://www.whitehouse.gov/wp-content/uploads/2023/05/Illinois.pdf)
--   [Indiana](https://www.whitehouse.gov/wp-content/uploads/2023/05/Indiana.pdf)
--   [Iowa](https://www.whitehouse.gov/wp-content/uploads/2023/05/Iowa.pdf)
--   [Kansas](https://www.whitehouse.gov/wp-content/uploads/2023/05/Kansas.pdf)
--   [Kentucky](https://www.whitehouse.gov/wp-content/uploads/2023/05/Kentucky.pdf)
--   [Louisiana](https://www.whitehouse.gov/wp-content/uploads/2023/05/Louisiana.pdf)
--   [Maine](https://www.whitehouse.gov/wp-content/uploads/2023/05/Maine.pdf)
--   [Maryland](https://www.whitehouse.gov/wp-content/uploads/2023/05/Maryland.pdf)
--   [Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2023/05/Massachusetts.pdf)
--   [Michigan](https://www.whitehouse.gov/wp-content/uploads/2023/05/Michigan.pdf)
--   [Minnesota](https://www.whitehouse.gov/wp-content/uploads/2023/05/Minnesota.pdf)
--   [Mississippi](https://www.whitehouse.gov/wp-content/uploads/2023/05/Mississippi.pdf)
--   [Missouri](https://www.whitehouse.gov/wp-content/uploads/2023/05/Missouri.pdf)
--   [Montana](https://www.whitehouse.gov/wp-content/uploads/2023/05/Montana.pdf)
--   [Nebraska](https://www.whitehouse.gov/wp-content/uploads/2023/05/Nebraska.pdf)
--   [Nevada](https://www.whitehouse.gov/wp-content/uploads/2023/05/Nevada.pdf)
+    Columbia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/District-of-Columbia.pdf)
+-   [Delaware](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Delaware.pdf)
+-   [Florida](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Florida.pdf)
+-   [Georgia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Georgia.pdf)
+-   [Hawaii](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Hawaii.pdf)
+-   [Idaho](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Idaho.pdf)
+-   [Illinois](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Illinois.pdf)
+-   [Indiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Indiana.pdf)
+-   [Iowa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Iowa.pdf)
+-   [Kansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Kansas.pdf)
+-   [Kentucky](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Kentucky.pdf)
+-   [Louisiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Louisiana.pdf)
+-   [Maine](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Maine.pdf)
+-   [Maryland](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Maryland.pdf)
+-   [Massachusetts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Massachusetts.pdf)
+-   [Michigan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Michigan.pdf)
+-   [Minnesota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Minnesota.pdf)
+-   [Mississippi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Mississippi.pdf)
+-   [Missouri](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Missouri.pdf)
+-   [Montana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Montana.pdf)
+-   [Nebraska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Nebraska.pdf)
+-   [Nevada](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Nevada.pdf)
 -   [New
-    Hampshire](https://www.whitehouse.gov/wp-content/uploads/2023/05/New-Hampshire.pdf)
+    Hampshire](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/New-Hampshire.pdf)
 -   [New
-    Jersey](https://www.whitehouse.gov/wp-content/uploads/2023/05/New-Jersey-1.pdf)
+    Jersey](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/New-Jersey-1.pdf)
 -   [New
-    Mexico](https://www.whitehouse.gov/wp-content/uploads/2023/05/New-Mexico.pdf)
+    Mexico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/New-Mexico.pdf)
 -   [New
-    York](https://www.whitehouse.gov/wp-content/uploads/2023/05/New-York.pdf)
+    York](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/New-York.pdf)
 -   [North
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2023/05/North-Carolina.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/North-Carolina.pdf)
 -   [North
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2023/05/North-Dakota.pdf)
--   [Ohio](https://www.whitehouse.gov/wp-content/uploads/2023/05/Ohio.pdf)
--   [Oklahoma](https://www.whitehouse.gov/wp-content/uploads/2023/05/Oklahoma.pdf)
--   [Oregon](https://www.whitehouse.gov/wp-content/uploads/2023/05/Oregon-1.pdf)
--   [Pennsylvania](https://www.whitehouse.gov/wp-content/uploads/2023/05/Pennsylvania.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/North-Dakota.pdf)
+-   [Ohio](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Ohio.pdf)
+-   [Oklahoma](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Oklahoma.pdf)
+-   [Oregon](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Oregon-1.pdf)
+-   [Pennsylvania](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Pennsylvania.pdf)
 -   [Rhode
-    Island](https://www.whitehouse.gov/wp-content/uploads/2023/05/Rhode-Island.pdf)
+    Island](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Rhode-Island.pdf)
 -   [South
-    Carolina](https://www.whitehouse.gov/wp-content/uploads/2023/05/South-Carolina.pdf)
+    Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/South-Carolina.pdf)
 -   [South
-    Dakota](https://www.whitehouse.gov/wp-content/uploads/2023/05/South-Dakota.pdf)
--   [Tennessee](https://www.whitehouse.gov/wp-content/uploads/2023/05/Tennessee-1.pdf)
--   [Texas](https://www.whitehouse.gov/wp-content/uploads/2023/05/Texas.pdf)
--   [Utah](https://www.whitehouse.gov/wp-content/uploads/2023/05/Utah.pdf)
--   [Vermont](https://www.whitehouse.gov/wp-content/uploads/2023/05/Vermont.pdf)
--   [Virginia](https://www.whitehouse.gov/wp-content/uploads/2023/05/Virginia.pdf)
--   [Washington](https://www.whitehouse.gov/wp-content/uploads/2023/05/Washington.pdf)
+    Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/South-Dakota.pdf)
+-   [Tennessee](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Tennessee-1.pdf)
+-   [Texas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Texas.pdf)
+-   [Utah](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Utah.pdf)
+-   [Vermont](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Vermont.pdf)
+-   [Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Virginia.pdf)
+-   [Washington](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Washington.pdf)
 -   [West
-    Virginia](https://www.whitehouse.gov/wp-content/uploads/2023/05/West-Virginia.pdf)
--   [Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2023/05/Wisconsin.pdf)
--   [Wyoming](https://www.whitehouse.gov/wp-content/uploads/2023/05/Wyoming.pdf)  
+    Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/West-Virginia.pdf)
+-   [Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Wisconsin.pdf)
+-   [Wyoming](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Wyoming.pdf)  
 
 *This analysis assumes an across-the-board reduction of roughly 22%
 compared to currently enacted FY 2023 levels for non-defense

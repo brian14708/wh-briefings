@@ -1,7 +1,7 @@
 ---
 date: '2022-07-12'
 published_time: 2022-07-12 13:13:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/background-press-call-by-a-senior-administration-official-previewing-vice-president-harriss-engagement-with-the-pacific-islands-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/background-press-call-by-a-senior-administration-official-previewing-vice-president-harriss-engagement-with-the-pacific-islands-forum/
 tags: statements-releases
 title: "Background Press Call by a\_Senior Administration Official Previewing Vice\
   \ President Harris\u2019s Engagement With the Pacific Islands\_Forum"

@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-24 23:38:34-04:00
 published_time: 2024-04-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-up-to-6-1-billion-preliminary-agreement-with-micron-under-the-chips-and-science-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-up-to-6-1-billion-preliminary-agreement-with-micron-under-the-chips-and-science-act/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces up to $6.1 Billion Preliminary Agreement\
   \ with Micron under the CHIPS and Science\_Act"

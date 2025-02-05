@@ -2,7 +2,7 @@
 date: '2024-09-22'
 modified_time: 2024-09-24 13:23:13-04:00
 published_time: 2024-09-22 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/22/remarks-by-vice-president-harris-at-a-political-event-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/22/remarks-by-vice-president-harris-at-a-political-event-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political Event | New York,\_NY"
 ---

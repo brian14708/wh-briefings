@@ -1,7 +1,7 @@
 ---
 date: '2023-07-20'
 published_time: 2023-07-20 14:28:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/20/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/20/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-philadelphia-pa/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Philadelphia,\_\
   PA"

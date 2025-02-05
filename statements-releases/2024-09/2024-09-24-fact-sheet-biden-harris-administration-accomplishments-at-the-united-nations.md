@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 08:32:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-biden-harris-administration-accomplishments-at-the-united-nations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-biden-harris-administration-accomplishments-at-the-united-nations/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Accomplishments at the United\_\
   Nations"

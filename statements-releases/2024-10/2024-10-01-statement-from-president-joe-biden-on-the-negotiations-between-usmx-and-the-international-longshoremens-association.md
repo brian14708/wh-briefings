@@ -1,7 +1,7 @@
 ---
 date: '2024-10-01'
 published_time: 2024-10-01 12:15:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/01/statement-from-president-joe-biden-on-the-negotiations-between-usmx-and-the-international-longshoremens-association/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/01/statement-from-president-joe-biden-on-the-negotiations-between-usmx-and-the-international-longshoremens-association/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Negotiations Between USMX and the\
   \ International Longshoremen\u2019s Association"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 22:03:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/readout-of-white-house-meeting-on-increasing-access-and-affordability-of-fda-approved-overdose-reversal-medications/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/readout-of-white-house-meeting-on-increasing-access-and-affordability-of-fda-approved-overdose-reversal-medications/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Increasing Access and Affordability of\
   \ FDA-Approved Overdose Reversal\_Medications"

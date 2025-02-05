@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 17:46:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-the-united-states-and-brazil-launch-first-joint-global-initiative-to-advance-rights-of-working-people-around-the-world/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-the-united-states-and-brazil-launch-first-joint-global-initiative-to-advance-rights-of-working-people-around-the-world/
 tags: statements-releases
 title: "FACT SHEET: The United\_States and Brazil Launch First Joint Global Initiative\
   \ to Advance Rights of Working People Around the\_World"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-12'
 published_time: 2024-01-12 17:24:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/12/remarks-by-president-biden-during-tour-of-nowhere-coffee-co-emmaus-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/12/remarks-by-president-biden-during-tour-of-nowhere-coffee-co-emmaus-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Tour of Nowhere Coffee Co. | Emmaus,\_\
   PA"

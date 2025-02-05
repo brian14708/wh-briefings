@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 16:53:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/president-biden-makes-twenty-seventh-judicial-nominations-announcement-and-announces-new-nominees-to-serve-as-u-s-attorneys-and-u-s-marshals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/president-biden-makes-twenty-seventh-judicial-nominations-announcement-and-announces-new-nominees-to-serve-as-u-s-attorneys-and-u-s-marshals/
 tags: statements-releases
 title: "President\_Biden Makes Twenty-Seventh Judicial Nominations Announcement and\
   \ Announces New Nominees to Serve as U.S. Attorneys and U.S.\_Marshals"

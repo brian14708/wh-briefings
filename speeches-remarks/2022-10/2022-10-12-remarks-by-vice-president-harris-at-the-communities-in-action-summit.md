@@ -2,7 +2,7 @@
 date: '2022-10-12'
 modified_time: 2022-10-13 10:12:35-04:00
 published_time: 2022-10-12 10:11:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/12/remarks-by-vice-president-harris-at-the-communities-in-action-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/12/remarks-by-vice-president-harris-at-the-communities-in-action-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris At the Communities in Action\_Summit"
 ---

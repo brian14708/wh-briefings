@@ -2,7 +2,7 @@
 date: '2023-06-03'
 modified_time: 2023-06-03 13:48:12-04:00
 published_time: 2023-06-03 13:45:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/06/03/press-release-bills-signed-h-r-346-h-r-3746/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/06/03/press-release-bills-signed-h-r-346-h-r-3746/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 346, H.R.\_3746"
 ---

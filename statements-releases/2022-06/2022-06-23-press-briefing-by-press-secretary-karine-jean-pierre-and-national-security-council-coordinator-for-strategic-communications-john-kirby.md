@@ -2,7 +2,7 @@
 date: '2022-06-23'
 modified_time: 2022-06-24 08:57:16-04:00
 published_time: 2022-06-23 08:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby/
 tags: statements-releases
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Council Coordinator for Strategic Communications John\_Kirby"

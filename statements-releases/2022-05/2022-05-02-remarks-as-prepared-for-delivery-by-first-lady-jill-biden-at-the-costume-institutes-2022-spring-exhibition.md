@@ -1,7 +1,7 @@
 ---
 date: '2022-05-02'
 published_time: 2022-05-02 12:02:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-costume-institutes-2022-spring-exhibition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-costume-institutes-2022-spring-exhibition/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at The Costume\
   \ Institute\u2019s 2022 Spring\_Exhibition"

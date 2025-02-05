@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-10 16:15:56-04:00
 published_time: 2022-06-10 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/readout-of-white-house-meeting-with-disabled-activists-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/readout-of-white-house-meeting-with-disabled-activists-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Disabled Activists on Reproductive\_\
   Rights"

@@ -1,7 +1,7 @@
 ---
 date: '2024-11-05'
 published_time: 2024-11-05 21:34:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/05/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-seminole-tribe-of-florida/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/05/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-seminole-tribe-of-florida/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Major Disaster Declaration for the\
   \ Seminole Tribe of\_Florida"

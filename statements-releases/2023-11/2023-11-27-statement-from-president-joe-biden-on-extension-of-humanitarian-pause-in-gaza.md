@@ -1,7 +1,7 @@
 ---
 date: '2023-11-27'
 published_time: 2023-11-27 14:14:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/statement-from-president-joe-biden-on-extension-of-humanitarian-pause-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/statement-from-president-joe-biden-on-extension-of-humanitarian-pause-in-gaza/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Extension of Humanitarian Pause in\_\
   Gaza"

@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 06:02:55-04:00
 published_time: 2023-03-13 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/13/statement-by-press-secretary-kirsten-allen-on-vice-president-harriss-travel-to-ghana-tanzania-and-zambia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/statement-by-press-secretary-kirsten-allen-on-vice-president-harriss-travel-to-ghana-tanzania-and-zambia/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on Vice President Harris\u2019\
   s Travel to Ghana, Tanzania, and\_Zambia"

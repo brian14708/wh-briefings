@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-09 18:37:05-04:00
 published_time: 2024-05-08 23:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/08/remarks-by-vice-president-harris-in-a-moderated-conversation-on-reproductive-freedoms-with-sheryl-lee-ralph/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/08/remarks-by-vice-president-harris-in-a-moderated-conversation-on-reproductive-freedoms-with-sheryl-lee-ralph/
 tags: statements-releases
 title: "Remarks by Vice President Harris in a Moderated Conversation on Reproductive\
   \ Freedoms with Sheryl Lee\_Ralph"

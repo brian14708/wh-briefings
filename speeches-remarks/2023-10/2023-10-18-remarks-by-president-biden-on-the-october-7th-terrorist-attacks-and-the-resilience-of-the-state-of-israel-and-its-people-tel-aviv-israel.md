@@ -2,7 +2,7 @@
 date: '2023-10-18'
 modified_time: 2023-10-18 12:09:17-04:00
 published_time: 2023-10-18 12:09:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-on-the-october-7th-terrorist-attacks-and-the-resilience-of-the-state-of-israel-and-its-people-tel-aviv-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/18/remarks-by-president-biden-on-the-october-7th-terrorist-attacks-and-the-resilience-of-the-state-of-israel-and-its-people-tel-aviv-israel/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the October 7th Terrorist Attacks and the Resilience\
   \ of the State of Israel and its People | Tel Aviv,\_Israel"

@@ -2,7 +2,7 @@
 date: '2024-05-29'
 modified_time: 2024-05-29 10:59:21-04:00
 published_time: 2024-05-29 11:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/29/fact-sheet-biden-harris-administration-announces-new-steps-to-bolster-domestic-nuclear-industry-and-advance-americas-clean-energy-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/29/fact-sheet-biden-harris-administration-announces-new-steps-to-bolster-domestic-nuclear-industry-and-advance-americas-clean-energy-future/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces New Steps to Bolster\
   \ Domestic Nuclear Industry and Advance America\u2019s Clean Energy\_Future"

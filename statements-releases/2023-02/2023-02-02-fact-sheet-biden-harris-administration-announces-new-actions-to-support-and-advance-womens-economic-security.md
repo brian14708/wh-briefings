@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-01 19:17:36-05:00
 published_time: 2023-02-02 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-biden-harris-administration-announces-new-actions-to-support-and-advance-womens-economic-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-biden-harris-administration-announces-new-actions-to-support-and-advance-womens-economic-security/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Support\
   \ and Advance Women\u2019s Economic\_Security"

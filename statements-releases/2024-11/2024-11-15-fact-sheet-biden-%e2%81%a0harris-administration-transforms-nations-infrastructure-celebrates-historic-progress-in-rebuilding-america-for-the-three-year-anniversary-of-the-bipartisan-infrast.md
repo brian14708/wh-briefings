@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-14 17:03:26-05:00
 published_time: 2024-11-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-biden-%e2%81%a0harris-administration-transforms-nations-infrastructure-celebrates-historic-progress-in-rebuilding-america-for-the-three-year-anniversary-of-the-bipartisan-infrast/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-biden-%e2%81%a0harris-administration-transforms-nations-infrastructure-celebrates-historic-progress-in-rebuilding-america-for-the-three-year-anniversary-of-the-bipartisan-infrast/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Transforms Nation\u2019s Infrastructure,\
   \ Celebrates Historic Progress in Rebuilding America for the Three-Year Anniversary\
@@ -112,7 +112,7 @@ the Bipartisan Infrastructure Law across key sectors:
     projects are underway – making our roadways safer and reconnecting
     communities across the country. This includes some of the most
     economically significant bridges in the country, like the [Blatnik
-    Bridge](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/)
+    Bridge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/)
     between Wisconsin and Minnesota or the [I-55 America’s River
     Crossing](https://highways.dot.gov/newsroom/biden-harris-administration-invests-nearly-394-million-i-55-bridge-memphis-tennessee-and)
     between Tennessee and Arkansas. The Infrastructure Law is also
@@ -135,7 +135,7 @@ the Bipartisan Infrastructure Law across key sectors:
     Transportation for rail investments to provide faster, safer, and
     more reliable service for travelers and commuters. For example, the
     [Brightline
-    West](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/)
+    West](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/fact-sheet-president-biden-announces-billions-to-deliver-world-class-high-speed-rail-and-launch-new-passenger-rail-corridors-across-the-country/)
     High Speed Rail project broke ground earlier this year, using $3
     billion from the Bipartisan Infrastructure Law to connect Las Vegas
     and Southern California with 200-mile-per-hour zero emission train
@@ -212,7 +212,7 @@ the Bipartisan Infrastructure Law across key sectors:
     communities across the country from the irreversible health effects
     of lead exposure. To further accelerate lead pipe replacement, last
     month President Biden announced a [new
-    rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/)
+    rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/)
     requiring water systems nationwide to replace lead service lines
     within 10 years. Altogether, funding from the Bipartisan
     Infrastructure Law has financed 2,400 drinking water and wastewater

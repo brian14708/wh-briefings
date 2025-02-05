@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-02-29 12:58:22-05:00
 published_time: 2024-02-29 12:58:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-8/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Amir Sheikh Tamim Bin Hamad Al-Thani\
   \ of\_Qatar"

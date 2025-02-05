@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 13:26:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/14/remarks-by-president-biden-at-a-democratic-congressional-campaign-committee-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/14/remarks-by-president-biden-at-a-democratic-congressional-campaign-committee-reception/
 tags: speeches-remarks
 title: "Remarks By President\_Biden at a Democratic Congressional Campaign Committee\_\
   Reception"

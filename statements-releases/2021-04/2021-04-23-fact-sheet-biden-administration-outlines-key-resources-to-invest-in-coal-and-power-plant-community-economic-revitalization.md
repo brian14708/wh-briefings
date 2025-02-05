@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-23'
 modified_time: 2021-04-22 21:43:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-biden-administration-outlines-key-resources-to-invest-in-coal-and-power-plant-community-economic-revitalization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/23/fact-sheet-biden-administration-outlines-key-resources-to-invest-in-coal-and-power-plant-community-economic-revitalization/
 published_time: 2021-04-23 07:00:00-04:00
 title: "FACT SHEET: Biden Administration Outlines Key Resources to Invest in Coal\
   \ and Power Plant Community Economic\_Revitalization"
@@ -16,7 +16,7 @@ Executive Director to Spearhead Interagency Efforts*
 
 Today, the [White House Interagency Working Group on Coal and Power
 Plant Communities and Economic
-Revitalization](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/26/readout-of-the-white-houses-first-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/)
+Revitalization](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/26/readout-of-the-white-houses-first-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/)
 released a [report](https://netl.doe.gov/IWGInitialReport) that was
 delivered to President Biden and included the initial recommendations
 from the Interagency Working Group  to catalyze economic revitalization,
@@ -33,7 +33,7 @@ Interior](https://www.doi.gov/pressreleases/interior-investing-over-260-million-
 to support abandoned mine land reclamation, predominantly in Appalachia.
 This funding will be bolstered by the historic investment in energy
 communities proposed by President Biden’s [American Jobs
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/#:~:text=The%20American%20Jobs%20Plan%20is%20an%20investment%20in,by%20more%20than%2040%20percent%20since%20the%201960s.). 
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/#:~:text=The%20American%20Jobs%20Plan%20is%20an%20investment%20in,by%20more%20than%2040%20percent%20since%20the%201960s.). 
 
 The report is a first step, delivered to the President 60 days following
 Executive Order 14008, which established the Interagency Working Group.
@@ -282,7 +282,7 @@ Remediation</u>**
 **<u>AMERICAN JOBS PLAN INVESTMENTS IN ENERGY COMMUNITIES  
 </u>**  
 President Biden’s [American Jobs
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/#:~:text=The%20American%20Jobs%20Plan%20is%20an%20investment%20in,by%20more%20than%2040%20percent%20since%20the%201960s.)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/#:~:text=The%20American%20Jobs%20Plan%20is%20an%20investment%20in,by%20more%20than%2040%20percent%20since%20the%201960s.)
 will provide a historic investment in the economic revitalization of
 energy communities. Specifically, the plan will:  
   

@@ -2,7 +2,7 @@
 date: '2023-06-15'
 modified_time: 2023-06-15 10:06:30-04:00
 published_time: 2023-06-15 10:06:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/readout-of-national-security-advisor-jake-sullivans-travel-to-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/readout-of-national-security-advisor-jake-sullivans-travel-to-india/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Travel to\_India"
 ---

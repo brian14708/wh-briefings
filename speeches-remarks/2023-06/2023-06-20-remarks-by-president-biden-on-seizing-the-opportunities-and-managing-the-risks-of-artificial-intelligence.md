@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 18:37:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-on-seizing-the-opportunities-and-managing-the-risks-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/20/remarks-by-president-biden-on-seizing-the-opportunities-and-managing-the-risks-of-artificial-intelligence/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Seizing the Opportunities and Managing the\
   \ Risks of Artificial\_Intelligence"

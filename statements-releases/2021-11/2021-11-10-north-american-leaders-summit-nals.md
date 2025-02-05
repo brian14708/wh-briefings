@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-10 08:04:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/north-american-leaders-summit-nals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/north-american-leaders-summit-nals/
 published_time: 2021-11-10 09:00:00-05:00
 title: "North American Leaders\u2019 Summit\_(NALS)"
 ---

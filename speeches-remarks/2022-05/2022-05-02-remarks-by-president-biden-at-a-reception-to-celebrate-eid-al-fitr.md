@@ -1,7 +1,7 @@
 ---
 date: '2022-05-02'
 published_time: 2022-05-02 18:40:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/02/remarks-by-president-biden-at-a-reception-to-celebrate-eid-al-fitr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/02/remarks-by-president-biden-at-a-reception-to-celebrate-eid-al-fitr/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Reception to Celebrate Eid\_al-Fitr"
 ---

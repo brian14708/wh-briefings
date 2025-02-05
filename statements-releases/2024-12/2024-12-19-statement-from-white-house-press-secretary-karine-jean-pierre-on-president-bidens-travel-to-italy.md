@@ -1,7 +1,7 @@
 ---
 date: '2024-12-19'
 published_time: 2024-12-19 17:53:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/19/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/19/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-italy/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Travel to\_Italy"

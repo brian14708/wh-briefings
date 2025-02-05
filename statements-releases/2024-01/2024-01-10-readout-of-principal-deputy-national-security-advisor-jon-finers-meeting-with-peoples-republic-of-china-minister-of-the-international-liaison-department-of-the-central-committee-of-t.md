@@ -2,7 +2,7 @@
 date: '2024-01-10'
 modified_time: 2024-01-10 18:14:15-05:00
 published_time: 2024-01-10 18:14:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/10/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-peoples-republic-of-china-minister-of-the-international-liaison-department-of-the-central-committee-of-t/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/10/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-peoples-republic-of-china-minister-of-the-international-liaison-department-of-the-central-committee-of-t/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with People\u2019s Republic of China Minister of the International Liaison Department\

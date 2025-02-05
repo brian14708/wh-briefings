@@ -2,7 +2,7 @@
 date: '2022-11-06'
 modified_time: 2022-11-07 15:34:10-05:00
 published_time: 2022-11-06 15:31:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-vice-president-harris-in-a-moderated-conversation-with-senator-tammy-duckworth-and-jeannie-mai-jenkins/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/06/remarks-by-vice-president-harris-in-a-moderated-conversation-with-senator-tammy-duckworth-and-jeannie-mai-jenkins/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris In a Moderated Conversation With Senator\
   \ Tammy Duckworth And Jeannie Mai\_Jenkins"

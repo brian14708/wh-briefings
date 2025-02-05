@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 09:50:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/11/readout-of-senior-advisor-to-the-president-and-director-of-the-office-of-intergovernmental-affairs-tom-perezs-visit-to-the-dominican-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/11/readout-of-senior-advisor-to-the-president-and-director-of-the-office-of-intergovernmental-affairs-tom-perezs-visit-to-the-dominican-republic/
 tags: statements-releases
 title: "Readout of Senior Advisor to the President and Director of the Office of Intergovernmental\
   \ Affairs Tom Perez\u2019s Visit to the Dominican\_Republic"

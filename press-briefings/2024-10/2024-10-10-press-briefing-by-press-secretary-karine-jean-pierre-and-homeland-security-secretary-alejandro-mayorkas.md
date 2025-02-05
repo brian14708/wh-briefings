@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-11 12:53:06-04:00
 published_time: 2024-10-10 13:41:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/10/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-secretary-alejandro-mayorkas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/10/press-briefing-by-press-secretary-karine-jean-pierre-and-homeland-security-secretary-alejandro-mayorkas/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Homeland Security\
   \ Secretary Alejandro\_Mayorkas"

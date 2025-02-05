@@ -1,7 +1,7 @@
 ---
 date: '2022-10-19'
 published_time: 2022-10-19 16:44:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/19/remarks-by-president-biden-on-actions-to-strengthen-energy-security-and-lower-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/19/remarks-by-president-biden-on-actions-to-strengthen-energy-security-and-lower-costs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Actions to Strengthen Energy Security and Lower\_\
   Costs"

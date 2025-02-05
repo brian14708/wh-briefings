@@ -1,7 +1,7 @@
 ---
 date: '2022-05-26'
 published_time: 2022-05-26 16:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/26/nsc-press-statement-on-national-security-advisor-jake-sullivans-phone-call-with-croatian-prime-minister-andrej-plenkovic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/26/nsc-press-statement-on-national-security-advisor-jake-sullivans-phone-call-with-croatian-prime-minister-andrej-plenkovic/
 tags: statements-releases
 title: "NSC Press Statement on National Security Advisor Jake Sullivan\u2019s Phone\
   \ Call with Croatian Prime Minister Andrej\_Plenkovic"

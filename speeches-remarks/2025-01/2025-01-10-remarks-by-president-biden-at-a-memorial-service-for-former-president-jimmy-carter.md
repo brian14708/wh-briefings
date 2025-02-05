@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10'
 published_time: 2025-01-10 13:22:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-at-a-memorial-service-for-former-president-jimmy-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/10/remarks-by-president-biden-at-a-memorial-service-for-former-president-jimmy-carter/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Memorial Service for Former President Jimmy\_\
   Carter"

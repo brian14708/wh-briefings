@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 16:31:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/readout-of-president-bidens-meeting-with-congressional-leadership-on-preventing-default/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/readout-of-president-bidens-meeting-with-congressional-leadership-on-preventing-default/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Congressional Leadership on\
   \ Preventing\_Default"

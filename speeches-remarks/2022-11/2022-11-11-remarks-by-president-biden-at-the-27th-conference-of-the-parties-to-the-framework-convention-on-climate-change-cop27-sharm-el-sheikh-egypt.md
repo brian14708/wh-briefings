@@ -1,7 +1,7 @@
 ---
 date: '2022-11-11'
 published_time: 2022-11-11 13:16:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/11/remarks-by-president-biden-at-the-27th-conference-of-the-parties-to-the-framework-convention-on-climate-change-cop27-sharm-el-sheikh-egypt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/11/remarks-by-president-biden-at-the-27th-conference-of-the-parties-to-the-framework-convention-on-climate-change-cop27-sharm-el-sheikh-egypt/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 27th Conference of the Parties to the Framework\
   \ Convention on Climate Change (COP27) | Sharm el-Sheikh,\_Egypt"

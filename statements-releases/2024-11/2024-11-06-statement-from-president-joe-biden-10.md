@@ -1,7 +1,7 @@
 ---
 date: '2024-11-06'
 published_time: 2024-11-06 17:57:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/06/statement-from-president-joe-biden-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/06/statement-from-president-joe-biden-10/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-14'
 published_time: 2022-04-14 12:59:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/statement-by-national-security-advisor-jake-sullivan-and-national-economic-council-director-brian-deese-on-exim-banks-domestic-finance-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/14/statement-by-national-security-advisor-jake-sullivan-and-national-economic-council-director-brian-deese-on-exim-banks-domestic-finance-initiative/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan and National Economic\
   \ Council Director Brian Deese on EXIM Bank\u2019s Domestic Finance\_Initiative"

@@ -2,7 +2,7 @@
 date: '2024-12-17'
 modified_time: 2024-12-16 17:40:10-05:00
 published_time: 2024-12-17 08:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/17/statement-from-president-joe-biden-on-the-ftc-banning-hidden-junk-fees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/17/statement-from-president-joe-biden-on-the-ftc-banning-hidden-junk-fees/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the FTC Banning Hidden Junk\_Fees"
 ---

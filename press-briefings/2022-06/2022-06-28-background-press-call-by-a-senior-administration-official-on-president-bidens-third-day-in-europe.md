@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 05:57:09-04:00
 published_time: 2022-06-28 06:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/28/background-press-call-by-a-senior-administration-official-on-president-bidens-third-day-in-europe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/28/background-press-call-by-a-senior-administration-official-on-president-bidens-third-day-in-europe/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on President\_Biden\u2019\
   s Third Day in\_Europe"

@@ -2,7 +2,7 @@
 date: '2024-11-07'
 modified_time: 2024-11-07 15:49:08-05:00
 published_time: 2024-11-07 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/07/president-biden-announces-presidential-delegation-to-botswana-to-attend-the-inauguration-of-his-excellency-duma-gideon-boko/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/07/president-biden-announces-presidential-delegation-to-botswana-to-attend-the-inauguration-of-his-excellency-duma-gideon-boko/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Botswana to Attend the\
   \ Inauguration of His Excellency Duma Gideon\_Boko"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 11:43:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/statement-from-president-joe-biden-marking-national-gun-violence-awareness-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/statement-from-president-joe-biden-marking-national-gun-violence-awareness-day/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking National Gun Violence Awareness\_\
   Day"

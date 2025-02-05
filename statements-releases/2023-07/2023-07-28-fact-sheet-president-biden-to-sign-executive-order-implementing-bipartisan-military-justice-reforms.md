@@ -2,7 +2,7 @@
 date: '2023-07-28'
 modified_time: 2023-07-27 17:46:59-04:00
 published_time: 2023-07-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Sign Executive Order Implementing Bipartisan\
   \ Military Justice\_Reforms"
@@ -135,7 +135,7 @@ implementing the IRC’s more than 80 recommendations, including:
         comprehensive approach to address this issue across all Military
         Departments; and
     -   Amended the Manual for Courts-Martial through an [Executive
-        Order](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/) in
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/26/fact-sheet-executive-order-2022-amendments-to-the-manual-for-courts-martial/) in
         January 2022 that established sexual harassment as a specific
         offense under the UCMJ, strengthening the military justice
         response in prosecuting cases of domestic violence, and

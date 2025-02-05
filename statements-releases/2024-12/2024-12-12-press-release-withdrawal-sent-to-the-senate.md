@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-12 17:09:32-05:00
 published_time: 2024-12-12 17:09:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/press-release-withdrawal-sent-to-the-senate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/press-release-withdrawal-sent-to-the-senate/
 tags: statements-releases
 title: "Press Release: Withdrawal Sent to the\_Senate"
 ---

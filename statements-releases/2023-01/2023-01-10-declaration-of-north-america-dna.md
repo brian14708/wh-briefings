@@ -1,7 +1,7 @@
 ---
 date: '2023-01-10'
 published_time: 2023-01-10 21:41:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/10/declaration-of-north-america-dna/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/10/declaration-of-north-america-dna/
 tags: statements-releases
 title: "Declaration of North America\_(DNA)"
 ---

@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-06 12:26:12-05:00
 published_time: 2025-01-03 23:40:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/03/remarks-by-president-biden-at-medal-of-honor-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/03/remarks-by-president-biden-at-medal-of-honor-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Medal of Honor\_Ceremony"
 ---

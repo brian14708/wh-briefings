@@ -2,7 +2,7 @@
 date: '2024-09-19'
 modified_time: 2024-09-19 16:26:16-04:00
 published_time: 2024-09-19 16:26:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/19/a-proclamation-on-national-pow-mia-recognition-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/19/a-proclamation-on-national-pow-mia-recognition-day-2024/
 tags: presidential-actions
 title: "A Proclamation on National POW/MIA Recognition Day,\_2024"
 ---

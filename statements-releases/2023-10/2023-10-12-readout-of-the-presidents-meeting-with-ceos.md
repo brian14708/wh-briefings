@@ -2,7 +2,7 @@
 date: '2023-10-12'
 modified_time: 2023-10-12 22:52:10-04:00
 published_time: 2023-10-12 20:29:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/readout-of-the-presidents-meeting-with-ceos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/readout-of-the-presidents-meeting-with-ceos/
 tags: statements-releases
 title: "Readout of the President\u2019s Meeting with\_CEOs"
 ---
@@ -16,7 +16,7 @@ businesses and workers. The President and business leaders underscored
 the importance of public sector-enabled, private sector-led investments
 as the Biden-Harris Administration kicks off its third [Investing in
 America
-tour](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/).  
+tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/).  
   
   
 **Attendees:**

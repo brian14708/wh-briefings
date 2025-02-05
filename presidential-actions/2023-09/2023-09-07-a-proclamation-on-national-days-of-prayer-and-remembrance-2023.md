@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 11:34:15-04:00
 published_time: 2023-09-07 11:34:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/07/a-proclamation-on-national-days-of-prayer-and-remembrance-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/07/a-proclamation-on-national-days-of-prayer-and-remembrance-2023/
 tags: presidential-actions
 title: "A Proclamation on National Days of Prayer and Remembrance,\_2023"
 ---

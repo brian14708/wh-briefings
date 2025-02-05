@@ -1,7 +1,7 @@
 ---
 date: '2022-07-05'
 published_time: 2022-07-05 12:41:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/05/proclamation-on-honoring-the-victims-of-the-tragedy-in-highland-park-illinois/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/05/proclamation-on-honoring-the-victims-of-the-tragedy-in-highland-park-illinois/
 tags: presidential-actions
 title: "Proclamation on Honoring The Victims Of The Tragedy In Highland Park,\_Illinois"
 ---

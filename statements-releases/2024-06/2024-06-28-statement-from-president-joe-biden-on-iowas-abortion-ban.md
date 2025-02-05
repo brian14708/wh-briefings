@@ -1,7 +1,7 @@
 ---
 date: '2024-06-28'
 published_time: 2024-06-28 15:35:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/28/statement-from-president-joe-biden-on-iowas-abortion-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/28/statement-from-president-joe-biden-on-iowas-abortion-ban/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Iowa\u2019s Abortion\_Ban"
 ---

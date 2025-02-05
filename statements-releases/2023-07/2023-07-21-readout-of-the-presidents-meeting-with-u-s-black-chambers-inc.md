@@ -2,7 +2,7 @@
 date: '2023-07-21'
 modified_time: 2023-07-21 21:05:44-04:00
 published_time: 2023-07-21 20:16:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/readout-of-the-presidents-meeting-with-u-s-black-chambers-inc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/readout-of-the-presidents-meeting-with-u-s-black-chambers-inc/
 tags: statements-releases
 title: "Readout of Meeting between the President, Senior Administration Officials\
   \ and U.S. Black Chambers,\_Inc."

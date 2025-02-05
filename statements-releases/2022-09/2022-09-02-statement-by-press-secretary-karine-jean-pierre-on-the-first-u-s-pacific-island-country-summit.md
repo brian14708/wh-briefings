@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 09:04:45-04:00
 published_time: 2022-09-02 09:04:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/statement-by-press-secretary-karine-jean-pierre-on-the-first-u-s-pacific-island-country-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/statement-by-press-secretary-karine-jean-pierre-on-the-first-u-s-pacific-island-country-summit/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on the First U.S.-Pacific\
   \ Island Country\_Summit"

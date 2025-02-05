@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 18:23:15-04:00
 published_time: 2024-05-31 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/president-biden-announces-key-appointments-to-boards-and-commissions-37/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/31/president-biden-announces-key-appointments-to-boards-and-commissions-37/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-11-22'
 published_time: 2024-11-22 20:39:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/22/press-release-notice-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/22/press-release-notice-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 tags: presidential-actions
 title: "Press Release: Notice to the Speaker of the House and President of the Senate\
   \ on the Continuation of the National Emergency with Respect to the Situation in\_\

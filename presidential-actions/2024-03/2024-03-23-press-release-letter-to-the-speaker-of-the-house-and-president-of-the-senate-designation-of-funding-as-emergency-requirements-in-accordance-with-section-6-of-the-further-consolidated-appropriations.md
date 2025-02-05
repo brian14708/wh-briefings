@@ -1,7 +1,7 @@
 ---
 date: '2024-03-23'
 published_time: 2024-03-23 14:01:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/23/press-release-letter-to-the-speaker-of-the-house-and-president-of-the-senate-designation-of-funding-as-emergency-requirements-in-accordance-with-section-6-of-the-further-consolidated-appropriations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/23/press-release-letter-to-the-speaker-of-the-house-and-president-of-the-senate-designation-of-funding-as-emergency-requirements-in-accordance-with-section-6-of-the-further-consolidated-appropriations/
 tags: presidential-actions
 title: "Press Release: Letter to the Speaker of the House and President of the Senate:\
   \ Designation of Funding as Emergency Requirements in Accordance with Section 6\

@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-06 11:57:02-05:00
 published_time: 2023-02-03 11:55:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-at-a-democratic-national-committee-winter-meeting-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/03/remarks-by-vice-president-harris-at-a-democratic-national-committee-winter-meeting-reception/
 tags: speeches-remarks
 title: Remarks by Vice President Harris At a Democratic National Committee Winter
   Meeting Reception

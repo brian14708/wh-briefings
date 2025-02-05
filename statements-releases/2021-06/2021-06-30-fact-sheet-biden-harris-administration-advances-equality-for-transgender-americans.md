@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 18:42:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-biden-harris-administration-advances-equality-for-transgender-americans/
 published_time: 2021-06-30 19:00:00-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Advances Equality for Transgender\_\
   Americans"
@@ -84,7 +84,7 @@ possible for all passport holders.
 servants. **The Federal government is at its best when its public
 servants reflect the diversity of the American people. On June 25,
 President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) which
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) which
 takes historic new steps to ensure the Federal government is a model
 employer for transgender, gender non-conforming, and non-binary
 employees. The Executive Order charges agencies with building inclusive
@@ -114,7 +114,7 @@ they need and deserve.
 
 **Releasing a toolkit on equality and inclusion for transgender
 Americans. **Today, the White House released a
-new [toolkit](https://www.whitehouse.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf)
+new [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Trans-Equality-Toolkit_REFORMAT-2_WHCO-fix.pdf)
 with best practices for advancing inclusion, opportunity, and safety for
 transgender Americans. The toolkit highlights steps that agencies across
 the Federal government are taking to combat discrimination on the basis
@@ -124,13 +124,13 @@ believe they have faced discrimination.
 **Today’s announcements build on the Administration’s historic actions
 to advance full equality for transgender Americans. **Since taking
 office, the Biden-Harris Administration has [taken critical
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/) to
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-the-biden-harris-administration-champions-lgbtq-equality-and-marks-pride-month/) to
 advance equality for transgender Americans, including by reversing the
 discriminatory ban on transgender servicemembers; expanding
 non-discrimination protections for transgender Americans in housing,
 healthcare, credit and lending, and education; advancing the human
 rights of transgender people around the world;
-and [recognizing](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/)
+and [recognizing](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/)
 Transgender Day of Visibility at the White House for the first time.
 
 \###

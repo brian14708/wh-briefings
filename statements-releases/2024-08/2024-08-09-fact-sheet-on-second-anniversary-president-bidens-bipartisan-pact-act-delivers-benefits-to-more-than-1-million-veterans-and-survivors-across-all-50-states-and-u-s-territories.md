@@ -2,7 +2,7 @@
 date: '2024-08-09'
 modified_time: 2024-08-09 13:28:27-04:00
 published_time: 2024-08-09 13:28:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/09/fact-sheet-on-second-anniversary-president-bidens-bipartisan-pact-act-delivers-benefits-to-more-than-1-million-veterans-and-survivors-across-all-50-states-and-u-s-territories/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/09/fact-sheet-on-second-anniversary-president-bidens-bipartisan-pact-act-delivers-benefits-to-more-than-1-million-veterans-and-survivors-across-all-50-states-and-u-s-territories/
 tags: statements-releases
 title: "FACT SHEET: On Second Anniversary, President\_Biden\u2019s Bipartisan PACT\
   \ Act Delivers Benefits to More Than 1 Million Veterans and Survivors across all\
@@ -97,7 +97,7 @@ benefits today.  
 **Releasing a new federal interagency strategy to address military toxic
 exposures and veteran health.** The Office of Science and Technology
 released a [bold
-plan](https://www.whitehouse.gov/wp-content/uploads/2024/08/08-2024-OSTP-TERWG-Report.pdf)
+plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/08/08-2024-OSTP-TERWG-Report.pdf)
 that aims to provide the evidence for new exposure-related illnesses to
 enable veterans to get the health care and benefits they need and
 deserve. This will be achieved through coordinated interagency efforts
@@ -121,7 +121,7 @@ predatory actors and fraud.** In 2023, veterans, Service members, and
 their families reported [$477M in losses to
 fraud](https://www.ftc.gov/system/files/ftc_gov/pdf/CSN-Annual-Data-Book-2023.pdf).
 Last November, President Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/)
 the Veteran, Service member, and Family-Fraud Evasion (VSAFE) Task Force
 to better protect veterans and their families against scams and fraud.
 Over the last year, the Task Force has worked to implement a “no wrong

@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:58:13-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Cuts Housing Costs, Boosts Supply,\
   \ and Expands Access to Affordable\_Housing"
@@ -43,13 +43,13 @@ President’s economic agenda.
 America faces a longstanding and nationwide shortfall in affordable
 housing that has been growing for decades. In May 2022, the
 Administration released a [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) that
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) that
 included administrative and legislative actions to close the housing
 supply shortfall in five years. The Administration has
 already [delivered on many of those
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
 added new areas of focus including [commercial-to-residential
-conversions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/),
+conversions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/fact-sheet-biden-harris-administration-takes-action-to-create-more-affordable-housing-by-converting-commercial-properties-to-residential-use/),
 and will continue to build on the historic number of multifamily units
 under construction through additional administrative actions that: make
 it easier to build and preserve affordable, multifamily housing; advance
@@ -180,7 +180,7 @@ First-Generation Homebuyers***
 Achieving and maintaining homeownership is the primary way that American
 families build wealth and create economic security. That’s why the
 Administration implemented a series
-of [measures](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/) that
+of [measures](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/) that
 protected homeowners from foreclosure during the pandemic, including
 enhanced loan modifications to resolve delinquencies. In addition, the
 American Rescue Plan’s [Homeowner Assistance
@@ -243,7 +243,7 @@ assistance for more than 100,000 additional households through the
 American Rescue Plan and the 2022 and 2023 appropriations bills. And in
 January 2023, the Administration announced a [Blueprint for a Renters
 Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf),
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf),
 which enumerated principles to shape Federal, state, and local action,
 and announced agency commitments to strengthen tenant protections and
 encourage rental affordability.
@@ -298,7 +298,7 @@ million](https://home.treasury.gov/news/press-releases/jy1213) renter
 households at risk of eviction and kept evictions below pre-pandemic
 levels. In late 2022, President Biden released [All In: The Federal
 Strategic Plan to Prevent and End
-Homelessness](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-announces-plan-to-prevent-and-end-homelessness/).
+Homelessness](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-announces-plan-to-prevent-and-end-homelessness/).
 The Administration’s roadmap is not only about getting people into
 housing, but also ensuring that they have access to the support,
 services, and income that allow them to thrive. The plan focuses
@@ -331,7 +331,7 @@ and providing a critical link to services.
 
 **Supports, Solidifies, and Encourages State and Local Reforms to Avoid
 Evictions**. The Administration stood up [a
-historic](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/) national
+historic](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/) national
 eviction prevention infrastructure during the pandemic, helping keep
 eviction filings 20% below historical averages, even after the eviction
 moratorium ended. The Budget provides $3 billion to build on these

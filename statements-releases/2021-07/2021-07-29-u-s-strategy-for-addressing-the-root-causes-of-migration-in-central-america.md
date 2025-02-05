@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-29'
 modified_time: 2021-07-29 08:04:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
 published_time: 2021-07-29 05:55:00-04:00
 title: "Vice President\u2019s Cover Letter: U.S. Strategy for Addressing the Root\
   \ Causes of Migration in Central\_America"
@@ -97,7 +97,7 @@ right. Because we know: The strength and security of the United States
 depends on the implementation of strategies like this one.
 
 Root Causes Fact Sheet:
-[https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/](https://www.whitehouse.gov/?p=25299)
+[https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/](https://bidenwhitehouse.archives.gov/?p=25299)
 
 Root Causes Report:
-<https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf>

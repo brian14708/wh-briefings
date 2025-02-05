@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-11 10:03:42-05:00
 published_time: 2022-11-10 22:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-president-biden-before-marine-one-departure-24/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/10/remarks-by-president-biden-before-marine-one-departure-24/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

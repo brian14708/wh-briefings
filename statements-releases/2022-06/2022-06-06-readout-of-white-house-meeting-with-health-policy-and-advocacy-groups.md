@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 09:09:22-04:00
 published_time: 2022-06-06 09:09:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/readout-of-white-house-meeting-with-health-policy-and-advocacy-groups/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/readout-of-white-house-meeting-with-health-policy-and-advocacy-groups/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Health Policy and Advocacy\_Groups"
 ---

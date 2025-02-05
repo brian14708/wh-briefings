@@ -1,7 +1,7 @@
 ---
 date: '2022-08-05'
 published_time: 2022-08-05 09:31:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-biden-on-the-july-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-biden-on-the-july-jobs-report/
 tags: statements-releases
 title: "Statement by President\_Biden on the July\_Jobs\_Report"
 ---

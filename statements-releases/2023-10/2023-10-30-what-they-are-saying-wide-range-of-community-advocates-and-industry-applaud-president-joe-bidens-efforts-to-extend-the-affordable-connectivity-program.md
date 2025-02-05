@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-30 12:08:31-04:00
 published_time: 2023-10-30 12:08:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/what-they-are-saying-wide-range-of-community-advocates-and-industry-applaud-president-joe-bidens-efforts-to-extend-the-affordable-connectivity-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/what-they-are-saying-wide-range-of-community-advocates-and-industry-applaud-president-joe-bidens-efforts-to-extend-the-affordable-connectivity-program/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Wide Range of Community Advocates and Industry Applaud\
   \ President Joe\_Biden\u2019s Efforts to Extend the Affordable Connectivity\_Program"

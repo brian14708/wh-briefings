@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 15:42:15-05:00
 published_time: 2023-11-09 15:42:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/09/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-belvidere-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/09/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-belvidere-il/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Belvidere,\_\
   IL"

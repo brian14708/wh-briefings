@@ -2,7 +2,7 @@
 date: '2024-12-18'
 modified_time: 2024-12-18 19:23:27-05:00
 published_time: 2024-12-18 19:23:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/statement-from-press-secretary-karine-jean-pierre-on-republicans-threatening-a-government-shutdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/18/statement-from-press-secretary-karine-jean-pierre-on-republicans-threatening-a-government-shutdown/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Republicans Threatening\
   \ a Government\_Shutdown"

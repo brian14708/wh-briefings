@@ -2,7 +2,7 @@
 date: '2023-01-25'
 modified_time: 2023-01-25 14:38:33-05:00
 published_time: 2023-01-25 13:20:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-presentation-of-her-2021-inauguration-day-and-evening-ensembles-to-the-smithsonian-institution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-presentation-of-her-2021-inauguration-day-and-evening-ensembles-to-the-smithsonian-institution/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Presentation\
   \ of her 2021 Inauguration Day and Evening Ensembles to the Smithsonian\_Institution"

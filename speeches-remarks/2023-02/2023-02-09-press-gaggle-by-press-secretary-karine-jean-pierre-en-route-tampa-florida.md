@@ -1,7 +1,7 @@
 ---
 date: '2023-02-09'
 published_time: 2023-02-09 15:13:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-tampa-florida/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-tampa-florida/
 tags: speeches-remarks
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Tampa,\_Florida"
 ---

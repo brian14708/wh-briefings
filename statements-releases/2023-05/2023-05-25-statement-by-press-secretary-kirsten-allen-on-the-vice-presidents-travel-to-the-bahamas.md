@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 08:32:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-the-bahamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-the-bahamas/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on the Vice President\u2019s Travel\
   \ to The\_Bahamas"

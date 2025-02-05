@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 10:51:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-honda-and-lg-investments-in-ohio/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-honda-and-lg-investments-in-ohio/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Honda and LG Investments in\_Ohio"
 ---

@@ -2,7 +2,7 @@
 date: '2023-02-06'
 modified_time: 2023-02-06 22:31:01-05:00
 published_time: 2023-02-06 22:31:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/06/readout-of-principals-committee-meeting-on-national-strategy-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/06/readout-of-principals-committee-meeting-on-national-strategy-to-counter-antisemitism/
 tags: statements-releases
 title: "Readout of Principals Committee Meeting on National Strategy to Counter\_\
   Antisemitism"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-16'
 published_time: 2024-01-16 14:59:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraq-mohammed-shia-al-sudani/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/16/readout-of-national-security-advisor-jake-sullivans-meeting-with-the-prime-minister-of-iraq-mohammed-shia-al-sudani/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with the\
   \ Prime Minister of Iraq, Mohammed Shia\_al-Sudani"

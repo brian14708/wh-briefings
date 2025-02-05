@@ -1,7 +1,7 @@
 ---
 date: '2022-10-01'
 published_time: 2022-10-01 01:37:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/01/president-joseph-r-biden-jr-approves-north-carolina-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/01/president-joseph-r-biden-jr-approves-north-carolina-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves North Carolina Emergency\_Declaration"
 ---

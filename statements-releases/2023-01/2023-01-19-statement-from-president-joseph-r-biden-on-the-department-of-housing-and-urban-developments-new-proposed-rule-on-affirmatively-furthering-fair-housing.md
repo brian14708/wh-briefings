@@ -2,7 +2,7 @@
 date: '2023-01-19'
 modified_time: 2023-01-19 16:25:35-05:00
 published_time: 2023-01-19 16:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/19/statement-from-president-joseph-r-biden-on-the-department-of-housing-and-urban-developments-new-proposed-rule-on-affirmatively-furthering-fair-housing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/19/statement-from-president-joseph-r-biden-on-the-department-of-housing-and-urban-developments-new-proposed-rule-on-affirmatively-furthering-fair-housing/
 tags: statements-releases
 title: "Statement from President Joseph R. Biden on the Department of Housing and\
   \ Urban Development\u2019s New Proposed Rule on Affirmatively Furthering Fair\_\

@@ -1,7 +1,7 @@
 ---
 date: '2023-11-15'
 published_time: 2023-11-15 09:38:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-vice-president-harris-at-campaign-reception-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-vice-president-harris-at-campaign-reception-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Campaign Reception | San Francisco,\_\
   CA"

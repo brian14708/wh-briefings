@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 12:55:00-04:00
 published_time: 2022-09-15 12:54:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/15/background-press-call-on-president-bidens-executive-order-on-screening-inbound-foreign-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/15/background-press-call-on-president-bidens-executive-order-on-screening-inbound-foreign-investments/
 tags: press-briefings
 title: "Background Press Call on President\_Biden\u2019s Executive Order on Screening\
   \ Inbound Foreign\_Investments"

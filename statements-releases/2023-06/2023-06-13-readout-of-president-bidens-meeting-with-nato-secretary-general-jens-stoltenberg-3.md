@@ -1,7 +1,7 @@
 ---
 date: '2023-06-13'
 published_time: 2023-06-13 22:59:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/13/readout-of-president-bidens-meeting-with-nato-secretary-general-jens-stoltenberg-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/13/readout-of-president-bidens-meeting-with-nato-secretary-general-jens-stoltenberg-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with NATO Secretary General Jens\_\
   Stoltenberg"

@@ -2,7 +2,7 @@
 date: '2023-03-26'
 modified_time: 2023-03-26 19:53:28-04:00
 published_time: 2023-03-26 19:53:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/26/statement-from-nsc-spokesperson-adrienne-watson-on-developments-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/26/statement-from-nsc-spokesperson-adrienne-watson-on-developments-in-israel/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Developments in\_Israel"
 ---

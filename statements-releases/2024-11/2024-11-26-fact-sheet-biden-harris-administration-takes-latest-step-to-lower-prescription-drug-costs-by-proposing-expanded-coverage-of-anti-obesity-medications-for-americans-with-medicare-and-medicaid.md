@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-25 20:24:59-05:00
 published_time: 2024-11-26 05:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/26/fact-sheet-biden-harris-administration-takes-latest-step-to-lower-prescription-drug-costs-by-proposing-expanded-coverage-of-anti-obesity-medications-for-americans-with-medicare-and-medicaid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/26/fact-sheet-biden-harris-administration-takes-latest-step-to-lower-prescription-drug-costs-by-proposing-expanded-coverage-of-anti-obesity-medications-for-americans-with-medicare-and-medicaid/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Latest Step to Lower Prescription\
   \ Drug Costs by Proposing Expanded Coverage of Anti-Obesity Medications for Americans\
@@ -73,7 +73,7 @@ The President’s new actions are all in addition to an already impressive
 track record on fighting for the health care of Americans across the
 nation. The Biden-Harris Administration’s [National Strategy on Hunger,
 Nutrition, and
-Health](https://www.whitehouse.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf)
+Health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/White-House-National-Strategy-on-Hunger-Nutrition-and-Health-FINAL.pdf)
 focused on ending hunger and reducing diet-related diseases such as
 obesity. One of the Strategy’s pillars is integrating nutrition and
 health, which recognizes the opportunities within Medicare and Medicaid

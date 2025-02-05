@@ -2,7 +2,7 @@
 date: '2024-10-18'
 modified_time: 2024-10-18 11:22:23-04:00
 published_time: 2024-10-18 11:22:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-and-president-frank-walter-steinmeier-of-germany-at-an-order-of-merit-ceremony-berlin-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-and-president-frank-walter-steinmeier-of-germany-at-an-order-of-merit-ceremony-berlin-germany/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Frank-Walter Steinmeier of Germany\
   \ at an Order of Merit Ceremony | Berlin,\_Germany"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 12:31:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/19/background-press-call-on-the-white-house-competition-council-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/19/background-press-call-on-the-white-house-competition-council-announcement/
 tags: press-briefings
 title: "Background Press Call on the White\_House Competition Council\_Announcement"
 ---

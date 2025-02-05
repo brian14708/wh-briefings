@@ -2,7 +2,7 @@
 date: '2024-09-03'
 modified_time: 2024-09-03 21:20:12-04:00
 published_time: 2024-09-03 21:20:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/03/statement-from-president-joe-biden-on-russian-attack-on-poltava-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/03/statement-from-president-joe-biden-on-russian-attack-on-poltava-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Russian Attack on Poltava,\_Ukraine"
 ---

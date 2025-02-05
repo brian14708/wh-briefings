@@ -1,7 +1,7 @@
 ---
 date: '2023-03-20'
 published_time: 2023-03-20 17:12:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/20/statement-by-the-president-on-s-619-the-covid-19-origin-act-of-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/20/statement-by-the-president-on-s-619-the-covid-19-origin-act-of-2023/
 tags: statements-releases
 title: "Statement by the President on S. 619, the COVID-\u206019 Origin Act of\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2024-12-10'
 modified_time: 2024-12-11 12:23:49-05:00
 published_time: 2024-12-10 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/10/remarks-by-president-biden-on-his-middle-out-bottom-up-economic-playbook/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/10/remarks-by-president-biden-on-his-middle-out-bottom-up-economic-playbook/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on His Middle-Out, Bottom-Up Economic\_Playbook"
 ---

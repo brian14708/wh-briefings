@@ -1,7 +1,7 @@
 ---
 date: '2023-12-04'
 published_time: 2023-12-04 17:04:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/04/nominations-sent-to-the-senate-132/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/04/nominations-sent-to-the-senate-132/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

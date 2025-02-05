@@ -1,7 +1,7 @@
 ---
 date: '2022-09-08'
 published_time: 2022-09-08 12:43:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-on-tech-platform-accountability/
 tags: statements-releases
 title: "Readout of White\_House Listening Session on Tech Platform\_Accountability"
 ---

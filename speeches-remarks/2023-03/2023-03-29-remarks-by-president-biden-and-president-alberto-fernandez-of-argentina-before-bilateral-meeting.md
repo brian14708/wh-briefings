@@ -1,7 +1,7 @@
 ---
 date: '2023-03-29'
 published_time: 2023-03-29 19:03:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-and-president-alberto-fernandez-of-argentina-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/29/remarks-by-president-biden-and-president-alberto-fernandez-of-argentina-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Alberto Fern\xE1ndez of Argentina\
   \ Before Bilateral\_Meeting"

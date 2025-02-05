@@ -2,7 +2,7 @@
 date: '2024-06-11'
 modified_time: 2024-06-11 16:36:12-04:00
 published_time: 2024-06-11 16:36:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-u-s-support-to-small-island-developing-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-u-s-support-to-small-island-developing-states/
 tags: statements-releases
 title: "FACT SHEET: U.S. Support to Small Island Developing\_States"
 ---

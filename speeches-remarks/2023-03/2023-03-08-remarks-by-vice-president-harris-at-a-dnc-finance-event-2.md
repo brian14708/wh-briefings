@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-09 19:17:48-05:00
 published_time: 2023-03-08 19:16:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/08/remarks-by-vice-president-harris-at-a-dnc-finance-event-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/08/remarks-by-vice-president-harris-at-a-dnc-finance-event-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a DNC Finance\_Event"
 ---

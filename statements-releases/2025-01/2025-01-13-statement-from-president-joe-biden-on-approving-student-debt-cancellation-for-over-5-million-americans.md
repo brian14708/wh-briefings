@@ -2,7 +2,7 @@
 date: '2025-01-13'
 modified_time: 2025-01-13 11:11:28-05:00
 published_time: 2025-01-13 11:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/statement-from-president-joe-biden-on-approving-student-debt-cancellation-for-over-5-million-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/13/statement-from-president-joe-biden-on-approving-student-debt-cancellation-for-over-5-million-americans/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Approving Student Debt Cancellation\
   \ for Over 5 Million\_Americans"

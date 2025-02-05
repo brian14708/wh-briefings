@@ -1,7 +1,7 @@
 ---
 date: '2024-12-06'
 published_time: 2024-12-06 22:27:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-joe-biden-on-u-s-mexico-security-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/06/statement-from-president-joe-biden-on-u-s-mexico-security-cooperation/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on U.S.-Mexico Security\_Cooperation"
 ---

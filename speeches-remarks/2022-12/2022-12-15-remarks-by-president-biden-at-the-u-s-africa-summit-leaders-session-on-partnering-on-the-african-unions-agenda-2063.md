@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 published_time: 2022-12-15 13:23:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-president-biden-at-the-u-s-africa-summit-leaders-session-on-partnering-on-the-african-unions-agenda-2063/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-president-biden-at-the-u-s-africa-summit-leaders-session-on-partnering-on-the-african-unions-agenda-2063/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S.-Africa Summit Leaders Session on Partnering\
   \ on the African Union\u2019s Agenda\_2063"

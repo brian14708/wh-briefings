@@ -1,7 +1,7 @@
 ---
 date: '2022-08-02'
 published_time: 2022-08-02 12:31:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/
 tags: statements-releases
 title: "FACT SHEET: White\_House Summit on Building Lasting Eviction Prevention\_\
   Reform"
@@ -71,7 +71,7 @@ this moment.**
     Plan, the Biden-Harris Administration led the initiative to
     encourage lasting reform. This included three [White House Summits
     on Eviction
-    Diversion](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/);
+    Diversion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/);
     Treasury
     [guidance](https://home.treasury.gov/system/files/136/ERA-FAQ-7.27.22.pdf)
     enabling and encouraging the use of ERA funding for a broad range of
@@ -94,9 +94,9 @@ this moment.**
     Merrick Garland; and an Administration-led initiative that resulted
     in [99 Law Schools starting or expanding clinics to provide legal
     assistance for
-    eviction](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/).
+    eviction](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/).
     The [legal
-    community](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/)
+    community](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/28/fact-sheet-the-white-house-and-department-of-justice-announced-99-law-schools-in-35-states-and-puerto-rico-continue-to-answer-the-attorney-generals-call-to-action-for-stronger-access-to-just/)
     also responded to the Administration’s push for reform, including
     efforts by the American Bar Association, National Bar Association,
     Hispanic National Bar Association, National Conference of Bar

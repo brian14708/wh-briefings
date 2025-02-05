@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 21:16:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-of-white-house-convening-of-state-legislators-on-advancing-gun-violence-prevention-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/readout-of-white-house-convening-of-state-legislators-on-advancing-gun-violence-prevention-efforts/
 tags: statements-releases
 title: "Readout of White\_House Convening of State Legislators on Advancing Gun Violence\
   \ Prevention\_Efforts"
@@ -10,7 +10,7 @@ title: "Readout of White\_House Convening of State Legislators on Advancing Gun 
 Today, Vice President Harris, the Office of Gun Violence Prevention and
 the Office of Intergovernmental Affairs convened 100 state legislators
 to announce the Biden-Harris Administration’s [Safer States
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/) to
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/) to
 reduce gun violence and save lives.  
    
 This was the largest White House convening of state legislators to

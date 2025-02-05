@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 12:50:58-04:00
 published_time: 2022-06-06 12:46:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-insulation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-insulation/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
   \ Production Act of 1950, as amended, on\_Insulation"

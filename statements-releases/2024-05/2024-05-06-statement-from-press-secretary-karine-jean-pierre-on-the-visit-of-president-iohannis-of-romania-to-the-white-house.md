@@ -1,7 +1,7 @@
 ---
 date: '2024-05-06'
 published_time: 2024-05-06 12:41:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-iohannis-of-romania-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-president-iohannis-of-romania-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of President\
   \ Iohannis of Romania to the White\_House"

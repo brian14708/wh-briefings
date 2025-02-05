@@ -1,7 +1,7 @@
 ---
 date: '2023-09-27'
 published_time: 2023-09-27 11:32:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/statement-from-national-security-advisor-jake-sullivan-on-the-return-of-private-travis-king/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/statement-from-national-security-advisor-jake-sullivan-on-the-return-of-private-travis-king/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the return of Private\
   \ Travis\_King"

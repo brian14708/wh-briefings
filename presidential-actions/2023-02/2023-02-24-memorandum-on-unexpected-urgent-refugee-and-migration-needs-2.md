@@ -2,7 +2,7 @@
 date: '2023-02-24'
 modified_time: 2023-02-24 15:26:51-05:00
 published_time: 2023-02-24 17:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/24/memorandum-on-unexpected-urgent-refugee-and-migration-needs-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/24/memorandum-on-unexpected-urgent-refugee-and-migration-needs-2/
 tags: presidential-actions
 title: "Memorandum on Unexpected Urgent Refugee and Migration\_Needs"
 ---

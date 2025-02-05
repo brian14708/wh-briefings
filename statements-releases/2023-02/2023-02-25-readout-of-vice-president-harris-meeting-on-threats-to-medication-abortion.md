@@ -1,7 +1,7 @@
 ---
 date: '2023-02-25'
 published_time: 2023-02-25 00:09:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/25/readout-of-vice-president-harris-meeting-on-threats-to-medication-abortion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/25/readout-of-vice-president-harris-meeting-on-threats-to-medication-abortion/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019 Meeting on\_Threats to\_Medication\_\
   Abortion"

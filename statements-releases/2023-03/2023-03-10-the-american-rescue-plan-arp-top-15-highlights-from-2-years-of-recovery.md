@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-14 11:11:12-05:00
 published_time: 2023-03-10 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/the-american-rescue-plan-arp-top-15-highlights-from-2-years-of-recovery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/the-american-rescue-plan-arp-top-15-highlights-from-2-years-of-recovery/
 tags: statements-releases
 title: "The American Rescue Plan (ARP): Top 15 Highlights from 2 Years of\_Recovery"
 ---

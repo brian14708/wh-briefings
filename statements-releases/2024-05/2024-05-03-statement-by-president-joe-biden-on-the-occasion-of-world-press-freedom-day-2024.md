@@ -2,7 +2,7 @@
 date: '2024-05-03'
 modified_time: 2024-05-02 22:42:34-04:00
 published_time: 2024-05-03 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/03/statement-by-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/03/statement-by-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2024/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Occasion of World Press Freedom Day\_\
   2024"

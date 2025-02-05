@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 12:02:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/11/statement-from-president-joe-biden-on-record-setting-small-business-applications-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/11/statement-from-president-joe-biden-on-record-setting-small-business-applications-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Record-Setting Small Business\_Applications"
 ---

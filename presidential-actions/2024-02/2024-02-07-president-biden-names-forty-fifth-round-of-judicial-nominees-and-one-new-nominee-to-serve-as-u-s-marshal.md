@@ -2,7 +2,7 @@
 date: '2024-02-07'
 modified_time: 2024-02-06 16:41:04-05:00
 published_time: 2024-02-07 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/07/president-biden-names-forty-fifth-round-of-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/07/president-biden-names-forty-fifth-round-of-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-marshal/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Fifth Round of Judicial Nominees and One New\
   \ Nominee to Serve as U.S.\_Marshal"

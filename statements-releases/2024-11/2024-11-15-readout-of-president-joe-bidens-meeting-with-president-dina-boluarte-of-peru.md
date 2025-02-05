@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-15 20:04:22-05:00
 published_time: 2024-11-15 20:04:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/readout-of-president-joe-bidens-meeting-with-president-dina-boluarte-of-peru/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/readout-of-president-joe-bidens-meeting-with-president-dina-boluarte-of-peru/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Dina Boluarte\
   \ of\_Peru"

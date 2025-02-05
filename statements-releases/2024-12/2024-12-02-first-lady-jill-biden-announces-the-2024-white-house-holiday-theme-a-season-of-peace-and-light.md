@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-01 18:36:41-05:00
 published_time: 2024-12-02 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/first-lady-jill-biden-announces-the-2024-white-house-holiday-theme-a-season-of-peace-and-light/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/first-lady-jill-biden-announces-the-2024-white-house-holiday-theme-a-season-of-peace-and-light/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces the 2024 White\_House Holiday Theme: A \u201C\
   Season of Peace and\_Light\u201D"

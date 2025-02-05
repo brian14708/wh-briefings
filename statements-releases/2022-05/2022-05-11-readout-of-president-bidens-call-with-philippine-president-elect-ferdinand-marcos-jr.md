@@ -1,7 +1,7 @@
 ---
 date: '2022-05-11'
 published_time: 2022-05-11 22:24:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/readout-of-president-bidens-call-with-philippine-president-elect-ferdinand-marcos-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/readout-of-president-bidens-call-with-philippine-president-elect-ferdinand-marcos-jr/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Philippine President-Elect Ferdinand\
   \ Marcos\_Jr."

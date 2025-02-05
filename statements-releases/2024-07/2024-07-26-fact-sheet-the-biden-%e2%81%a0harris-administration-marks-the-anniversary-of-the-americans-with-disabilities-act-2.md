@@ -2,7 +2,7 @@
 date: '2024-07-26'
 modified_time: 2024-07-26 14:10:33-04:00
 published_time: 2024-07-26 14:10:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-the-anniversary-of-the-americans-with-disabilities-act-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/fact-sheet-the-biden-%e2%81%a0harris-administration-marks-the-anniversary-of-the-americans-with-disabilities-act-2/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Marks the Anniversary of\
   \ the Americans with Disabilities\_Act"
@@ -37,7 +37,7 @@ ADA.
     services, like transit information and voter registration. In
     December, the Office of Management and Budget issued a
     [government-wide
-    policy](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
+    policy](https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
     to agencies to improve the federal government’s digital
     accessibility. This month, the General Services Administration
     issued a [final
@@ -87,7 +87,7 @@ ADA.
     community-based services (HCBS), which states are using to reduce
     their waiting lists and improve wages for direct care workers. In
     2023, President Biden signed an [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
     on Increasing Access to High-Quality Care and Supporting Caregivers,
     directing more than 50 agency actions, including to expand HCBS for
     veterans with disabilities, improve pay for direct support workers,
@@ -166,7 +166,7 @@ ADA.
 
 -   **Addressing Long COVID. ** As tasked by the President in his
     [Memorandum on Addressing the Long-Term Effects of
-    COVID-19](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/),
+    COVID-19](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/),
     HHS
     [established](https://www.hhs.gov/about/news/2023/07/31/hhs-announces-formation-office-long-covid-research-practice-launch-long-covid-clinical-trials-through-recover-initiative.html)
     the [Office of Long COVID Research and

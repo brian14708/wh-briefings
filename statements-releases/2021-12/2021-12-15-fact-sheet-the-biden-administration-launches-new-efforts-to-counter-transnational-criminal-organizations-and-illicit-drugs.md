@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-15'
 modified_time: 2021-12-15 14:30:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/15/fact-sheet-the-biden-administration-launches-new-efforts-to-counter-transnational-criminal-organizations-and-illicit-drugs/
 published_time: 2021-12-15 14:00:00-05:00
 title: "FACT SHEET: The Biden Administration Launches New Efforts to Counter Transnational\
   \ Criminal Organizations and Illicit\_Drugs"
@@ -32,9 +32,9 @@ representing a 28% increase over the same period last year.
   
 The two executive orders,* *[*Establishing the U.S. Council on
 Transnational Organized
-Crime* ](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-establishing-the-united-states-council-on-transnational-organized-crime/)and *[Imposing
+Crime* ](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-establishing-the-united-states-council-on-transnational-organized-crime/)and *[Imposing
 Sanctions on Foreign Persons Involved in the Global Illicit Drug
-Trade ](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/)*will
+Trade ](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/)*will
 help to counter the threat posed by transnational criminal organizations
 to American communities. The Administration is formally establishing the
 U.S. Council on Transnational Organized Crime, bringing together six key
@@ -143,11 +143,11 @@ communities.  This new authority will allow the United States to better
 target and disrupt those across the drug ecosystem and to safeguard the
 U.S. financial system from use and abuse by those involved in the
 illicit drug trade.  President Biden
-has [prioritized](https://www.whitehouse.gov/wp-content/uploads/2021/05/National-Drug-Control-Budget-FY-2022-Funding-Highlights.pdf) addressing
+has [prioritized](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/National-Drug-Control-Budget-FY-2022-Funding-Highlights.pdf) addressing
 the overdose epidemic and substance use disorders, and, in April 2021
 the Office of National Drug Control Policy released the
 Administration’s [First Year Drug Policy
-Priorities](https://www.whitehouse.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf),
+Priorities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf),
 which focuses on reducing the supply of illicit substances, while
 building a stronger, evidence-based infrastructure to meet public health
 needs.  

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-03'
 published_time: 2024-05-03 12:47:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/03/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-98/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/03/message-to-the-house-of-representatives-presidents-veto-of-h-j-res-98/
 tags: presidential-actions
 title: "Message to the House of Representatives \u2014 President\u2019s Veto of H.J.Res.\_\
   98"

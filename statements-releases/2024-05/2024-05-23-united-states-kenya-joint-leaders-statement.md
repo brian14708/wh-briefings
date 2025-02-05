@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-23 12:44:21-04:00
 published_time: 2024-05-23 12:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/united-states-kenya-joint-leaders-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/united-states-kenya-joint-leaders-statement/
 tags: statements-releases
 title: "United\_States-Kenya Joint Leaders\u2019\_Statement"
 ---
@@ -309,7 +309,7 @@ developing countries.  Far too many countries are forced to make
 difficult decisions between paying back creditors and making critical
 investments in their own economy and people.  Today, we launched the
 [*Nairobi-Washington
-Vision*.](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/) 
+Vision*.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/) 
 It calls for countries with high ambition with respect to investments in
 their own development and addressing global challenges to be met with
 equally high ambition from the international community so that they do

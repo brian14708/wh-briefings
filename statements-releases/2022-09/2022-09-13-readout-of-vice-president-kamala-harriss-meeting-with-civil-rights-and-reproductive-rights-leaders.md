@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-15 11:13:28-04:00
 published_time: 2022-09-13 11:11:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/13/readout-of-vice-president-kamala-harriss-meeting-with-civil-rights-and-reproductive-rights-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/13/readout-of-vice-president-kamala-harriss-meeting-with-civil-rights-and-reproductive-rights-leaders/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Civil Rights\
   \ and Reproductive Rights\_Leaders"

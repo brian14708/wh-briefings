@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-07 09:20:53-05:00
 published_time: 2023-02-07 09:20:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/07/president-joseph-r-biden-jr-amends-commonwealth-of-the-northern-mariana-islands-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/07/president-joseph-r-biden-jr-amends-commonwealth-of-the-northern-mariana-islands-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Commonwealth of the Northern Mariana\
   \ Islands Disaster\_Declaration"

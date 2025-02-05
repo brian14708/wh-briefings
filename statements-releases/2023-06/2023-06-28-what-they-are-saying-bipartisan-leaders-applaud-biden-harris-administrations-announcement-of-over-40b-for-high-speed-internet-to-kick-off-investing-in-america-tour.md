@@ -1,7 +1,7 @@
 ---
 date: '2023-06-28'
 published_time: 2023-06-28 12:19:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/what-they-are-saying-bipartisan-leaders-applaud-biden-harris-administrations-announcement-of-over-40b-for-high-speed-internet-to-kick-off-investing-in-america-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/28/what-they-are-saying-bipartisan-leaders-applaud-biden-harris-administrations-announcement-of-over-40b-for-high-speed-internet-to-kick-off-investing-in-america-tour/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Bipartisan Leaders Applaud Biden-\u2060Harris Administration\u2019\
   s Announcement of Over 40B for High-Speed Internet to Kick off Investing in America\_\

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-17'
 published_time: 2024-10-17 11:04:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-president-biden-and-first-lady-jill-biden-at-an-italian-american-heritage-month-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/17/remarks-by-president-biden-and-first-lady-jill-biden-at-an-italian-american-heritage-month-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at an Italian American\
   \ Heritage Month\_Reception"

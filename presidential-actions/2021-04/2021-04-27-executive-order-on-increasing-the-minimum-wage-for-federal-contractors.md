@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-04-27'
 modified_time: 2021-04-27 15:29:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/27/executive-order-on-increasing-the-minimum-wage-for-federal-contractors/
 published_time: 2021-04-27 15:29:55-04:00
 title: "Executive Order on Increasing the Minimum Wage for Federal\_Contractors"
 ---

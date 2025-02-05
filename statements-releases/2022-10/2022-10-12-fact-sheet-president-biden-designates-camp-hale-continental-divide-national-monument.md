@@ -2,7 +2,7 @@
 date: '2022-10-12'
 modified_time: 2022-10-11 18:49:58-04:00
 published_time: 2022-10-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/
 tags: statements-releases
 title: "FACT SHEET:  President\_Biden Designates Camp Hale \u2013 Continental Divide\
   \ National\_Monument"

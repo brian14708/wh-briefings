@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-13 09:15:37-05:00
 published_time: 2024-12-12 11:42:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/12/clemency-recipient-list-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/12/clemency-recipient-list-7/
 tags: statements-releases
 title: Clemency Recipient List
 ---

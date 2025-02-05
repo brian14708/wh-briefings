@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-27 11:50:24-05:00
 published_time: 2024-02-21 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Initiative to Bolster\
   \ Cybersecurity of U.S.\_Ports"
@@ -18,9 +18,9 @@ U.S. ports – thanks to an over $20 billion investment in U.S. port
 infrastructure under President Biden’s Investing in America Agenda.
 Today’s actions are clear examples of the President’s work to invest in
 America, [secure the country’s supply
-chains](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
+chains](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
 and [strengthen the cybersecurity of our nation’s critical
-infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
+infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
 against 21<sup>st</sup> century threats – priorities his Administration
 has focused on relentlessly since taking office.
 

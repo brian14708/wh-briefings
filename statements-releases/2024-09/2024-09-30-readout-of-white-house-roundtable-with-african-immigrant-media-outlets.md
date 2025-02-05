@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-10-01 12:46:48-04:00
 published_time: 2024-09-30 12:46:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/30/readout-of-white-house-roundtable-with-african-immigrant-media-outlets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/30/readout-of-white-house-roundtable-with-african-immigrant-media-outlets/
 tags: statements-releases
 title: "Readout of White\_House Roundtable with African Immigrant Media\_Outlets"
 ---

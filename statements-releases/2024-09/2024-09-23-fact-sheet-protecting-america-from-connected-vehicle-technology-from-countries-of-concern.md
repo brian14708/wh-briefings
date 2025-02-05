@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-22 20:12:43-04:00
 published_time: 2024-09-23 08:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-protecting-america-from-connected-vehicle-technology-from-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-protecting-america-from-connected-vehicle-technology-from-countries-of-concern/
 tags: statements-releases
 title: "FACT SHEET: Protecting America from Connected Vehicle Technology from Countries\
   \ of\_Concern"

@@ -2,7 +2,7 @@
 date: '2023-06-28'
 modified_time: 2023-06-30 14:25:21-04:00
 published_time: 2023-06-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/
 tags: statements-releases
 title: "Bidenomics Is Working: The President\u2019s Plan Grows the Economy from the\
   \ Middle Out and Bottom Up\u2014Not the Top\_Down"
@@ -45,7 +45,7 @@ applications for new small businesses filed in 2021 and 2022—the
 strongest two years on record. America has seen the [strongest
 growth](https://home.treasury.gov/news/featured-stories/the-us-economic-recovery-in-international-context-2023) since
 the pandemic of any leading economy in the
-world. [Inflation](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/13/statement-from-president-joe-biden-on-may-consumer-price-index/) has
+world. [Inflation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/13/statement-from-president-joe-biden-on-may-consumer-price-index/) has
 fallen for 11 straight months and has come down by more than half. And
 we have done it all while responsibly reducing the deficit.  
   
@@ -59,7 +59,7 @@ opportunity.
 ***Building More in America by Making Smart Public Investments***  
   
 When President Biden came into office,
-public [investment](https://www.whitehouse.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf) as
+public [investment](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf) as
 a share of the economy had fallen from 7% in the 1960s to half that. A
 core tenet of Bidenomics is that targeted public investment can attract
 more private sector investment, rather than crowd it out. This is
@@ -71,7 +71,7 @@ climate security.
 The Biden-Harris Investing in America agenda is rebuilding our
 infrastructure, including our roads and bridges, high-speed internet
 capacity, ports, and airports. This infrastructure is [the necessary
-foundation](https://www.whitehouse.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/) for
+foundation](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/) for
 durable and shared economic growth. Thanks to the Bipartisan
 Infrastructure Law, [35,000 new projects](https://www.build.gov/) have
 been awarded funding in communities all across the country. By requiring
@@ -145,14 +145,14 @@ without a four-year degree. That’s why the Biden-Harris Administration
 is investing more in registered apprenticeships and career technical
 education programs than any previous Administration and continuing to
 fight for [free universal pre-K and free community
-college](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/).  
+college](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-lowers-costs-for-families-and-gives-the-american-people-more-breathing-room/).  
   
 And the President believes a critical tool for empowering workers is
 making it easier to join a union. The President is addressing a
 decades-long decline in unionization by supporting project labor
 agreements and collective bargaining. He asked the Vice President to
 lead the [White House Task Force on Worker Organizing and
-Empowerment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/) to
+Empowerment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/) to
 drive action across the Administration to empower workers and support
 their right to join or form a union. Support for unions is the [highest
 it’s been in more than half a
@@ -178,12 +178,12 @@ competition across the economy.
   
 When the President took office, he signed an historic [Executive Order
 on
-Competition](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/),
+Competition](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/),
 which “[commits the federal government to full and aggressive
 enforcement of our antitrust
-laws](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-president-biden-at-signing-of-an-executive-order-promoting-competition-in-the-american-economy/).”
+laws](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/09/remarks-by-president-biden-at-signing-of-an-executive-order-promoting-competition-in-the-american-economy/).”
 That order identified [72 specific
-initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/) across
+initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/) across
 government to promote competition—and it is paying off. In addition to
 enforcement, the Administration is lowering costs for consumers and
 creating opportunities for innovative new products to come to
@@ -194,7 +194,7 @@ For example, the Administration changed the rules so that hearing aids
 can be sold over-the-counter, instead of just via prescription.
 Previously, hearings aids could cost up to $5,000 per pair, but
 Americans can now get them for a [few hundred
-dollars](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) at
+dollars](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/) at
 a local convenience or electronics store. President Biden has signed
 legislation into law that will lower prescription drug costs for seniors
 and save taxpayers [$160
@@ -202,7 +202,7 @@ billion](https://www.crfb.org/blogs/cbo-scores-ira-238-billion-deficit-reduction
 the next decade by giving Medicare the authority to negotiate lower
 prescription drug prices. The Administration is also fighting to [end
 junk
-fees](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)—hidden
+fees](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)—hidden
 charges that cost Americans’ [tens of billions per
 year](https://www.consumerfinance.gov/about-us/blog/hidden-cost-junk-fees/) and
 rob the marketplace of the kind of transparency that is necessary for
@@ -247,20 +247,20 @@ deficit reduction—a larger reduction than under any other President in
 American history. He has signed legislation into law to [reduce the
 deficit](https://www.cbo.gov/publication/59235) by more than $1 trillion
 over the next
-decade, [including](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/) by
+decade, [including](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-the-inflation-reduction-act-supports-workers-and-families/) by
 ensuring the wealthiest Americans and largest corporations pay their
 fair share, cracking down on wealthy tax cheats, and lowering
 prescription drug costs for the American people by cutting wasteful
 giveaways to Big Pharma. And his Budget would reduce the deficit by
 another [more than $2.5
-trillion](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-strongthe-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years-strong/) over
+trillion](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-strongthe-presidents-budget-cuts-the-deficit-by-nearly-3-trillion-over-10-years-strong/) over
 the next decade with additional reforms, including requiring the
 wealthiest Americans and the largest multinational corporations to pay
 at least the tax rates that many middle-class families do.  
   
 Unlike House Republicans—whose plans would harm hard-working
 families—the President
-has [proposed](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-extreme-maga-congressional-republicans-propose-handouts-to-rich-and-tax-hikes-for-working-families/) cutting
+has [proposed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-extreme-maga-congressional-republicans-propose-handouts-to-rich-and-tax-hikes-for-working-families/) cutting
 taxes for working people and families with children by almost $800
 billion over the next 10 years, including cutting taxes by an average of
 $2,600 for 39 million families that include 62 million children by

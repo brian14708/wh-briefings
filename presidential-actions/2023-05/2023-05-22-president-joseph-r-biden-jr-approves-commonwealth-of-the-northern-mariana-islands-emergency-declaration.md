@@ -1,7 +1,7 @@
 ---
 date: '2023-05-22'
 published_time: 2023-05-22 22:18:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/22/president-joseph-r-biden-jr-approves-commonwealth-of-the-northern-mariana-islands-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/22/president-joseph-r-biden-jr-approves-commonwealth-of-the-northern-mariana-islands-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Commonwealth of the Northern Mariana\
   \ Islands Emergency\_Declaration"

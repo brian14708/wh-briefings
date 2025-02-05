@@ -1,7 +1,7 @@
 ---
 date: '2024-02-06'
 published_time: 2024-02-06 10:01:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country-2/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black Americans and Communities Across the\_Country"
@@ -34,7 +34,7 @@ and Science Act, and the Inflation Reduction Act (IRA)—as well as the
 President’s historic executive orders on racial equity—the Biden-Harris
 Administration is ensuring that federal investments through the
 President’s landmark [Investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 agenda are equitably flowing to communities to address longstanding
 economic inequities that impact people’s economic security, health, and
 safety. And this vision is already delivering results. The Biden-Harris

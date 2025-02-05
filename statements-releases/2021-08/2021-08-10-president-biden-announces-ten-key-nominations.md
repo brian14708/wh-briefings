@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-10'
 modified_time: 2021-08-10 17:51:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/president-biden-announces-ten-key-nominations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/10/president-biden-announces-ten-key-nominations/
 published_time: 2021-08-10 16:41:18-04:00
 title: "President\_Biden Announces Ten Key\_Nominations"
 ---

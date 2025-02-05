@@ -2,7 +2,7 @@
 date: '2022-12-27'
 modified_time: 2022-12-29 09:24:23-05:00
 published_time: 2022-12-27 13:42:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/27/bills-signed/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/27/bills-signed/
 tags: legislation
 title: Bills Signed
 ---

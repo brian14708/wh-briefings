@@ -1,7 +1,7 @@
 ---
 date: '2022-09-28'
 published_time: 2022-09-28 11:29:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/28/remarks-by-vice-president-harris-aboard-the-uss-howard-naval-ship/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/28/remarks-by-vice-president-harris-aboard-the-uss-howard-naval-ship/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Aboard the USS Howard Naval\_Ship"
 ---

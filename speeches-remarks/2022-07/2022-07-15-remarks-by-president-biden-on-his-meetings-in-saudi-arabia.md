@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-17 12:52:36-04:00
 published_time: 2022-07-15 19:06:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-on-his-meetings-in-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/15/remarks-by-president-biden-on-his-meetings-in-saudi-arabia/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on His Meetings in Saudi\_Arabia"
 ---

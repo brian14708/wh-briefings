@@ -1,7 +1,7 @@
 ---
 date: '2022-09-16'
 published_time: 2022-09-16 17:48:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/president-biden-announces-twenty-fourth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/president-biden-announces-twenty-fourth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Twenty-Fourth Operation Fly Formula\_Mission"
 ---
@@ -52,7 +52,7 @@ consent agreement between the FDA and Abbott Nutrition to reopen the
 company’s Sturgis facility, and issuing FDA guidance so that major
 formula manufacturers can safely import formula that is not currently
 being produced for the U.S. market. Details of our actions can be found
-at [whitehouse.gov/formula](https://www.whitehouse.gov/Users/Adam.Friedlander/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/JHSFK5EH/whitehouse.gov/formula).
+at [whitehouse.gov/formula](https://bidenwhitehouse.archives.gov/Users/Adam.Friedlander/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/JHSFK5EH/whitehouse.gov/formula).
 
 ![](https://mcusercontent.com/c97630621baff8c44fe607661/_compresseds/74caa425-1dc8-735f-dcf4-97eedbf975d2.jpg)
 

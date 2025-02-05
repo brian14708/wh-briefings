@@ -1,7 +1,7 @@
 ---
 date: '2022-05-25'
 published_time: 2022-05-25 11:37:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/president-biden-names-eighteenth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/president-biden-names-eighteenth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Eighteenth Round of Judicial\_Nominees"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-28'
 modified_time: 2022-09-27 17:54:38-04:00
 published_time: 2022-09-28 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/fact-sheet-the-biden-harris-administration-announces-more-than-8-billion-in-new-commitments-as-part-of-call-to-action-for-white-house-conference-on-hunger-nutrition-and-health/
 tags: statements-releases
 title: "FACT SHEET: \_ The Biden-\u2060Harris Administration Announces More Than $8\
   \ Billion in New Commitments as Part of Call to Action for White\_House Conference\

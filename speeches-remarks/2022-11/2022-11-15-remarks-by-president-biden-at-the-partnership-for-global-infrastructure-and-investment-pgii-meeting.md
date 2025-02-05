@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 19:16:24-05:00
 published_time: 2022-11-15 08:24:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/15/remarks-by-president-biden-at-the-partnership-for-global-infrastructure-and-investment-pgii-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/15/remarks-by-president-biden-at-the-partnership-for-global-infrastructure-and-investment-pgii-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Partnership for Global Infrastructure and\
   \ Investment (PGII)\_Meeting"

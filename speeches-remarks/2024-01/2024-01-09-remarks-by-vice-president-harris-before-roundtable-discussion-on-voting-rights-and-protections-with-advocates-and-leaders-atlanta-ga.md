@@ -2,7 +2,7 @@
 date: '2024-01-09'
 modified_time: 2024-01-09 15:30:00-05:00
 published_time: 2024-01-09 15:29:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/09/remarks-by-vice-president-harris-before-roundtable-discussion-on-voting-rights-and-protections-with-advocates-and-leaders-atlanta-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/09/remarks-by-vice-president-harris-before-roundtable-discussion-on-voting-rights-and-protections-with-advocates-and-leaders-atlanta-ga/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Roundtable Discussion on Voting Rights\
   \ and Protections With Advocates and Leaders | Atlanta,\_GA"

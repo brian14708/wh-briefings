@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 18:09:52-04:00
 published_time: 2022-05-17 16:20:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/vice-president-harriss-meeting-with-prime-minister-mitsotakis-of-greece/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/vice-president-harriss-meeting-with-prime-minister-mitsotakis-of-greece/
 tags: statements-releases
 title: "Vice President Harris\u2019s Meeting with Prime Minister Mitsotakis of\_Greece"
 ---

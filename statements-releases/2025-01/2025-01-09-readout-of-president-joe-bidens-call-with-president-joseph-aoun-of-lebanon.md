@@ -2,7 +2,7 @@
 date: '2025-01-09'
 modified_time: 2025-01-09 17:49:41-05:00
 published_time: 2025-01-09 17:49:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/09/readout-of-president-joe-bidens-call-with-president-joseph-aoun-of-lebanon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/09/readout-of-president-joe-bidens-call-with-president-joseph-aoun-of-lebanon/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Joseph Aoun of\_\
   Lebanon"

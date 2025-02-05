@@ -1,7 +1,7 @@
 ---
 date: '2023-05-25'
 published_time: 2023-05-25 06:34:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/statement-from-president-joe-biden-on-the-third-anniversary-of-george-floyds-murder/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/statement-from-president-joe-biden-on-the-third-anniversary-of-george-floyds-murder/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Third Anniversary of George Floyd\u2019\
   s\_Murder"

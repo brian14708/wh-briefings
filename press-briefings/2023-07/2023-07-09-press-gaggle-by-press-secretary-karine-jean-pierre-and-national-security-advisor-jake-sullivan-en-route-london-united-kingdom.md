@@ -1,7 +1,7 @@
 ---
 date: '2023-07-09'
 published_time: 2023-07-09 20:01:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/09/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-london-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/09/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-london-united-kingdom/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route London, United\_Kingdom"

@@ -2,7 +2,7 @@
 date: '2023-01-05'
 modified_time: 2023-01-05 13:52:00-05:00
 published_time: 2023-01-05 13:51:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/05/joint-press-statement-following-a-call-between-the-president-joe-biden-and-the-chancellor-of-the-federal-republic-of-germany-olaf-scholz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/05/joint-press-statement-following-a-call-between-the-president-joe-biden-and-the-chancellor-of-the-federal-republic-of-germany-olaf-scholz/
 tags: statements-releases
 title: "Joint Press Statement Following a Call between the President Joe\_Biden and\
   \ the Chancellor of the Federal Republic of Germany Olaf\_Scholz"

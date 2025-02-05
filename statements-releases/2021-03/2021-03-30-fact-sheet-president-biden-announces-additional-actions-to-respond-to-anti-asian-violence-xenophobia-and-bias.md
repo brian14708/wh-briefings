@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-30'
 modified_time: 2021-03-30 19:32:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/30/fact-sheet-president-biden-announces-additional-actions-to-respond-to-anti-asian-violence-xenophobia-and-bias/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/30/fact-sheet-president-biden-announces-additional-actions-to-respond-to-anti-asian-violence-xenophobia-and-bias/
 published_time: 2021-03-30 12:00:00-04:00
 title: "FACT SHEET: President\_Biden Announces Additional Actions to Respond to Anti-Asian\
   \ Violence, Xenophobia and\_Bias"
@@ -32,7 +32,7 @@ inclusion, and belonging for all Asian American, Native Hawaiian, and
 Pacific Islander communities. These actions build on the
 President’s [Memorandum Condemning and Combating Racism, Xenophobia, and
 Intolerance Against Asian Americans and Pacific Islanders in the United
-States](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/),
+States](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/),
 issued his first week in office. In his first 65 days, the President
 announced that it is the official policy of this Administration to
 condemn anti-Asian bias and violence; visited AAPI leaders in Atlanta to
@@ -73,7 +73,7 @@ Native Hawaiian, and Pacific Islander communities.
 ending xenophobia against Asian Americans:** President Biden established
 a COVID-19 Health Equity Task Force through his [Executive Order on
 Ensuring an Equitable Pandemic Response and
-Recovery](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/) on
+Recovery](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/21/executive-order-ensuring-an-equitable-pandemic-response-and-recovery/) on
 January 21, 2021. The Task Force is charged with making recommendations
 to the President to eliminate health and social disparities that result
 in disproportionately higher rates of exposure, illness, hospitalization
@@ -101,7 +101,7 @@ COVID-19 pandemic. 
 **Establishment of a Department of Justice cross-agency initiative to
 address anti-Asian violence: **To implement the President’s
 week-one [Memorandum combatting AAPI
-xenophobia](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/),
+xenophobia](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/),
 DOJ has established a whole agency initiative to respond to anti-Asian
 violence. Actions to date include:
 

@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 13:15:23-04:00
 published_time: 2022-05-17 12:57:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/17/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-buffalo-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/17/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-buffalo-ny/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Buffalo,\_NY"
 ---

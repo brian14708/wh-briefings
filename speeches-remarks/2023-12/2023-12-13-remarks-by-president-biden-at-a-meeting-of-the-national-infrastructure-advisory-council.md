@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 15:28:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/13/remarks-by-president-biden-at-a-meeting-of-the-national-infrastructure-advisory-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/13/remarks-by-president-biden-at-a-meeting-of-the-national-infrastructure-advisory-council/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Meeting of the National Infrastructure Advisory\_\
   Council"

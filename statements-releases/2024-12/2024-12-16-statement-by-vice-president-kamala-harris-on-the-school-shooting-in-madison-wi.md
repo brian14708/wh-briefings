@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-16 19:03:57-05:00
 published_time: 2024-12-16 19:03:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/16/statement-by-vice-president-kamala-harris-on-the-school-shooting-in-madison-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/16/statement-by-vice-president-kamala-harris-on-the-school-shooting-in-madison-wi/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the School Shooting in Madison,\_\
   WI"

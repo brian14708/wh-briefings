@@ -1,7 +1,7 @@
 ---
 date: '2023-04-16'
 published_time: 2023-04-16 12:49:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/16/president-biden-announces-presidential-delegation-to-belfast-northern-ireland-to-attend-the-25th-anniversary-of-the-belfast-good-friday-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/16/president-biden-announces-presidential-delegation-to-belfast-northern-ireland-to-attend-the-25th-anniversary-of-the-belfast-good-friday-agreement/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to Belfast, Northern Ireland\
   \ to Attend the 25th Anniversary of the Belfast/Good Friday\_Agreement"

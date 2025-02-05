@@ -1,7 +1,7 @@
 ---
 date: '2023-07-19'
 published_time: 2023-07-19 07:50:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-samoa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/statement-from-communications-director-liza-acevedo-on-second-gentleman-douglas-emhoffs-travel-to-samoa/
 tags: statements-releases
 title: "Statement from Communications Director Liza Acevedo on Second Gentleman Douglas\
   \ Emhoff\u2019s Travel to\_Samoa"

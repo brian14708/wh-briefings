@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-02 17:42:08-04:00
 published_time: 2022-11-02 17:42:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/02/press-briefing-by-press-secretary-karine-jean-pierre-november-2-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/02/press-briefing-by-press-secretary-karine-jean-pierre-november-2-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, November 2,\_2022"
 ---
@@ -809,7 +809,7 @@ it’s — he’s loud and clear. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/11/image.gif"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/image.gif"
 title="Anchor" class="wp-image-64654" loading="lazy" width="1"
 height="1" />
 </figure>

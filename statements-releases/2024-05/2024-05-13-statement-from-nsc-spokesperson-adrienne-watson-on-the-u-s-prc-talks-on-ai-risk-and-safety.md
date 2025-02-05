@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-13 07:28:17-04:00
 published_time: 2024-05-13 07:28:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/13/statement-from-nsc-spokesperson-adrienne-watson-on-the-u-s-prc-talks-on-ai-risk-and-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/13/statement-from-nsc-spokesperson-adrienne-watson-on-the-u-s-prc-talks-on-ai-risk-and-safety/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on the U.S.-PRC Talks on AI\
   \ Risk and\_Safety"

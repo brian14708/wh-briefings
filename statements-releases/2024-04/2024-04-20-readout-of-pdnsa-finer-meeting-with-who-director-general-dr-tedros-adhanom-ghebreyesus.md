@@ -2,7 +2,7 @@
 date: '2024-04-20'
 modified_time: 2024-04-20 12:30:44-04:00
 published_time: 2024-04-20 12:30:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/20/readout-of-pdnsa-finer-meeting-with-who-director-general-dr-tedros-adhanom-ghebreyesus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/20/readout-of-pdnsa-finer-meeting-with-who-director-general-dr-tedros-adhanom-ghebreyesus/
 tags: statements-releases
 title: "Readout of PDNSA Finer Meeting with WHO Director-General Dr. Tedros Adhanom\_\
   Ghebreyesus"

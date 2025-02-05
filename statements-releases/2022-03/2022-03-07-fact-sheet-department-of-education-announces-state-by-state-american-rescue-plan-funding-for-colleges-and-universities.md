@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-07'
 modified_time: 2022-03-17 16:16:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-department-of-education-announces-state-by-state-american-rescue-plan-funding-for-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-department-of-education-announces-state-by-state-american-rescue-plan-funding-for-colleges-and-universities/
 published_time: 2022-03-07 13:30:00-05:00
 title: "FACT SHEET: Department of Education Announces State-by-State American Rescue\
   \ Plan Funding for Colleges and\_Universities"
@@ -68,121 +68,121 @@ on institutions and students:
 
 **Factsheet by State/Territory:**
 
-[Alabama](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Alabama.pdf)
+[Alabama](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Alabama.pdf)
 
-[Alaska](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Alaska.pdf)
+[Alaska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Alaska.pdf)
 
-[Arizona](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Arizona.pdf)
+[Arizona](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Arizona.pdf)
 
-[Arkansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Arkansas.pdf)
+[Arkansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Arkansas.pdf)
 
-[California](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-California.pdf)
+[California](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-California.pdf)
 
-[Colorado](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Colorado.pdf)
+[Colorado](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Colorado.pdf)
 
-[Connecticut](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Connecticut.pdf)
+[Connecticut](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Connecticut.pdf)
 
-[Delaware](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Delaware.pdf)
+[Delaware](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Delaware.pdf)
 
-[Florida](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Florida.pdf)
+[Florida](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Florida.pdf)
 
-[Georgia](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Georgia.pdf)
+[Georgia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Georgia.pdf)
 
-[Hawaii](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Hawaii.pdf)
+[Hawaii](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Hawaii.pdf)
 
-[Idaho](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Idaho.pdf)
+[Idaho](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Idaho.pdf)
 
-[Illinois](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Illinois.pdf)
+[Illinois](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Illinois.pdf)
 
-[Indiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Indiana.pdf)
+[Indiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Indiana.pdf)
 
-[Iowa](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Iowa.pdf)
+[Iowa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Iowa.pdf)
 
-[Kansas](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Kansas.pdf)
+[Kansas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Kansas.pdf)
 
-[Kentucky](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Kentucky.pdf)
+[Kentucky](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Kentucky.pdf)
 
-[Louisiana](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Louisiana.pdf)
+[Louisiana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Louisiana.pdf)
 
-[Maine](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Maine.pdf)
+[Maine](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Maine.pdf)
 
-[Maryland](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Maryland.pdf)
+[Maryland](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Maryland.pdf)
 
-[Massachusetts](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Massachusetts.pdf)
+[Massachusetts](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Massachusetts.pdf)
 
-[Michigan](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Michigan.pdf)
+[Michigan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Michigan.pdf)
 
-[Minnesota](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Minnesota.pdf)
+[Minnesota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Minnesota.pdf)
 
-[Mississippi](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Mississippi.pdf)
+[Mississippi](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Mississippi.pdf)
 
-[Missouri](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Missouri.pdf)
+[Missouri](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Missouri.pdf)
 
-[Montana](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Montana.pdf)
+[Montana](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Montana.pdf)
 
-[Nebraska](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Nebraska.pdf)
+[Nebraska](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Nebraska.pdf)
 
-[Nevada](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Nevada.pdf)
-
-[New
-Hampshire](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Hampshire.pdf)
+[Nevada](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Nevada.pdf)
 
 [New
-Jersey](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Jersey.pdf)
+Hampshire](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Hampshire.pdf)
 
 [New
-Mexico](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Mexico.pdf)
+Jersey](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Jersey.pdf)
 
 [New
-York](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-York.pdf)
+Mexico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-Mexico.pdf)
+
+[New
+York](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-New-York.pdf)
 
 [North
-Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-North-Carolina.pdf)
+Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-North-Carolina.pdf)
 
 [North
-Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-North-Dakota.pdf)
+Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-North-Dakota.pdf)
 
-[Ohio](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Ohio.pdf)
+[Ohio](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Ohio.pdf)
 
-[Oklahoma](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Oklahoma.pdf)
+[Oklahoma](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Oklahoma.pdf)
 
-[Oregon](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Oregon.pdf)
+[Oregon](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Oregon.pdf)
 
-[Pennsylvania](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Pennsylvania.pdf)
+[Pennsylvania](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Pennsylvania.pdf)
 
 [Rhode
-Island](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Rhode-Island.pdf)
+Island](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Rhode-Island.pdf)
 
 [South
-Carolina](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-South-Carolina.pdf)
+Carolina](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-South-Carolina.pdf)
 
 [South
-Dakota](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-South-Dakota.pdf)
+Dakota](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-South-Dakota.pdf)
 
-[Tennessee](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Tennessee.pdf)
+[Tennessee](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Tennessee.pdf)
 
-[Texas](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Texas.pdf)
+[Texas](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Texas.pdf)
 
-[Utah](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Utah.pdf)
+[Utah](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Utah.pdf)
 
-[Vermont](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Vermont.pdf)
+[Vermont](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Vermont.pdf)
 
-[Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Virginia.pdf)
+[Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Virginia.pdf)
 
-[Washington](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Washington.pdf)
+[Washington](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Washington.pdf)
 
 [West
-Virginia](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-West-Virgina.pdf)
+Virginia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-West-Virgina.pdf)
 
-[Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Wisconsin.pdf)
+[Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Wisconsin.pdf)
 
-[Wyoming](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Wyoming.pdf)
+[Wyoming](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Wyoming.pdf)
 
 [District of
-Columbia](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-DC.pdf)
+Columbia](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-DC.pdf)
 
 [Puerto
-Rico](https://www.whitehouse.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Puerto-Rico.pdf)
+Rico](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/ARP-Higher-Ed-Puerto-Rico.pdf)
 
 \###
 

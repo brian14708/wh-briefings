@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 16:52:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/06/executive-order-on-reforming-federal-funding-and-support-for-tribal-nations-to-better-embrace-our-trust-responsibilities-and-promote-the-next-era-of-tribal-self-determination/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/06/executive-order-on-reforming-federal-funding-and-support-for-tribal-nations-to-better-embrace-our-trust-responsibilities-and-promote-the-next-era-of-tribal-self-determination/
 tags: presidential-actions
 title: Executive Order on Reforming Federal Funding and Support for Tribal Nations
   to Better Embrace Our Trust Responsibilities and Promote the Next Era of Tribal

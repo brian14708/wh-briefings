@@ -1,7 +1,7 @@
 ---
 date: '2024-09-16'
 published_time: 2024-09-16 17:55:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/16/statement-from-national-security-advisor-jake-sullivan-on-the-three-year-anniversary-of-aukus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/16/statement-from-national-security-advisor-jake-sullivan-on-the-three-year-anniversary-of-aukus/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Three Year Anniversary\
   \ of\_AUKUS"

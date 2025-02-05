@@ -2,7 +2,7 @@
 date: '2022-04-12'
 modified_time: 2022-04-12 20:04:13-04:00
 published_time: 2022-04-12 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/12/remarks-by-president-biden-on-lowering-energy-costs-for-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/12/remarks-by-president-biden-on-lowering-energy-costs-for-working-families/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Lowering Energy Costs for Working\_Families"
 ---

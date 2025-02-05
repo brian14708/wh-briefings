@@ -2,7 +2,7 @@
 date: '2023-05-05'
 modified_time: 2023-05-05 11:08:39-04:00
 published_time: 2023-05-05 12:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/05/fact-sheet-biden-harris-administration-announces-key-infrastructure-funding-to-electrify-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/05/fact-sheet-biden-harris-administration-announces-key-infrastructure-funding-to-electrify-ports/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Key Infrastructure\
   \ Funding to Electrify\_Ports"
@@ -54,7 +54,7 @@ announcements made by the Department of Transportation’s Federal Highway
 Administration to improve port efficiency and air quality, reducing
 local pollution and greenhouse gas emissions. They also complement [new
 proposed vehicle pollution
-standards](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-proposes-new-standards-to-protect-public-health-that-will-save-consumers-money-and-increase-energy-security/)
+standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-proposes-new-standards-to-protect-public-health-that-will-save-consumers-money-and-increase-energy-security/)
 that would, if finalized, make trucks cleaner and more efficient and
 position the United States as a leading force in the clean energy
 future.  
@@ -69,7 +69,7 @@ by fence line communities and advancing President Biden’s historic
 commitment to environmental justice.
 
 The investments announced today deliver on the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which is working to ensure that 40 percent of the overall benefits of
 federal investments in climate change, clean energy, and other areas
 flow to disadvantaged communities that are marginalized, underserved,

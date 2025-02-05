@@ -1,7 +1,7 @@
 ---
 date: '2024-05-24'
 published_time: 2024-05-24 09:54:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/24/a-proclamation-on-prayer-for-peace-memorial-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/24/a-proclamation-on-prayer-for-peace-memorial-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Prayer for Peace, Memorial Day,\_2024"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-13'
 published_time: 2022-10-13 19:52:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-second-meeting-of-the-u-s-mexico-high-level-security-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/13/fact-sheet-second-meeting-of-the-u-s-mexico-high-level-security-dialogue/
 tags: statements-releases
 title: "FACT SHEET: Second Meeting of the U.S.-Mexico High-Level Security\_Dialogue"
 ---
@@ -27,7 +27,7 @@ impact of our efforts.
 The Biden-Harris Administration has taken several domestic actions since
 October 2021 to implement our Bicentennial Framework goals. In April,
 the Administration released its [National Drug Control
-Strategy](https://www.whitehouse.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
+Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/National-Drug-Control-2022Strategy.pdf),
 which focuses on two critical factors in the overdose epidemic:
 untreated addiction and drug trafficking. In June, President Biden
 signed the Bipartisan Safer Communities Act, the first major gun safety

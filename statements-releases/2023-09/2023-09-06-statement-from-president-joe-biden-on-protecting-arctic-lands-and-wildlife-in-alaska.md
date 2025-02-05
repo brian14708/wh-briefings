@@ -2,7 +2,7 @@
 date: '2023-09-06'
 modified_time: 2023-09-06 15:51:40-04:00
 published_time: 2023-09-06 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/06/statement-from-president-joe-biden-on-protecting-arctic-lands-and-wildlife-in-alaska/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/06/statement-from-president-joe-biden-on-protecting-arctic-lands-and-wildlife-in-alaska/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Protecting Arctic Lands and Wildlife\
   \ in\_Alaska"

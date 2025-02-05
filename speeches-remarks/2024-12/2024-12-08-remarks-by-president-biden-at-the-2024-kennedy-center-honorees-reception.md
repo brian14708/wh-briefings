@@ -2,7 +2,7 @@
 date: '2024-12-08'
 modified_time: 2024-12-09 12:01:47-05:00
 published_time: 2024-12-08 23:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-president-biden-at-the-2024-kennedy-center-honorees-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/08/remarks-by-president-biden-at-the-2024-kennedy-center-honorees-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2024 Kennedy Center Honorees\_Reception"
 ---

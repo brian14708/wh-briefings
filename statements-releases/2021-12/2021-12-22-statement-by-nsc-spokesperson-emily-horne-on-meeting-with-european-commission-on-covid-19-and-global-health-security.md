@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 22:06:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/statement-by-nsc-spokesperson-emily-horne-on-meeting-with-european-commission-on-covid-19-and-global-health-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/22/statement-by-nsc-spokesperson-emily-horne-on-meeting-with-european-commission-on-covid-19-and-global-health-security/
 published_time: 2021-12-22 22:06:46-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Meeting with European Commission\
   \ on COVID-\u206019 and Global Health\_Security"
@@ -12,7 +12,7 @@ Senior administration officials met today with European Commission
 counterparts on progress and next steps towards achieving the [U.S.-EU
 Agenda for Beating the Global Pandemic Vaccinating the World, Saving
 Lives Now, and Building Back Better Health
-Security](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/).
+Security](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/a-u-s-eu-agenda-for-beating-the-global-pandemic-vaccinating-the-world-saving-lives-now-and-building-back-better-health-security/).
 Led by Principal Deputy National Security Advisor Jon Finer and
 President Ursula von der Leyen’s Head of Cabinet Bjoern Seibert, both
 sides agreed on the importance of the transatlantic partnership and

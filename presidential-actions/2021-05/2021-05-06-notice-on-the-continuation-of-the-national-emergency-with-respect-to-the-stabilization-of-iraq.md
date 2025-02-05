@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2021-05-06'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/06/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq/
 published_time: 2021-05-06 17:58:53-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to the Stabilization\
   \ of\_Iraq"

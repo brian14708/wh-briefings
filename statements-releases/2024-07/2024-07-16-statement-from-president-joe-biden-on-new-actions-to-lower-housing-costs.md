@@ -2,7 +2,7 @@
 date: '2024-07-16'
 modified_time: 2024-07-15 21:24:31-04:00
 published_time: 2024-07-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/16/statement-from-president-joe-biden-on-new-actions-to-lower-housing-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/16/statement-from-president-joe-biden-on-new-actions-to-lower-housing-costs/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Actions to Lower Housing\_Costs"
 ---

@@ -2,7 +2,7 @@
 date: '2023-10-19'
 modified_time: 2023-10-20 09:55:52-04:00
 published_time: 2023-10-19 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/fact-sheet-biden-harris-administration-takes-action-to-cut-energy-bills-housing-costs-and-climate-pollution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/19/fact-sheet-biden-harris-administration-takes-action-to-cut-energy-bills-housing-costs-and-climate-pollution/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Cut Energy Bills,\
   \ Housing Costs and Climate\_Pollution"
@@ -47,7 +47,7 @@ to extreme weather events worsened by climate change, and lowering costs
 for families. All the investments will be made in affordable housing
 communities serving low-income families in alignment with President
 Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 and the Biden-Harris Administration’s commitment to environmental
 justice. These investments will also preserve the long-term viability
 and affordability of our nation’s existing stock of affordable housing
@@ -86,16 +86,16 @@ housing supply and safer, healthier housing.
     efforts to reduce the cost of building will also contribute to the
     Administration’s commitment to increase the nation’s affordable
     housing supply through the [President’s Housing Supply Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/) by
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/biden-harris-administration-announces-actions-to-lower-housing-costs-and-boost-supply/) by
     expanding the production of affordable housing and ensuring the
     long-term viability of existing units.  
 -   The Biden-Harris Administration recently **announced a goal of
     making zero emissions, resilient new construction and retrofits
     common practice by 2030.** To achieve its goal, the Administration
     is developing a [standard
-    national](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
+    national](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
     [definition for zero emissions
-    buildings](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
+    buildings](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-hosts-first-ever-white-house-climate-resilience-summit-and-releases-national-climate-resilience-framework/)
     that will help establish a consistent, verifiable and measurable
     path to a zero-emissions building sector. With over 130 million
     existing buildings, which collectively cost over $400 billion a year

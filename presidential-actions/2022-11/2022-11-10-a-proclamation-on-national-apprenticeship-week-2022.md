@@ -1,7 +1,7 @@
 ---
 date: '2022-11-10'
 published_time: 2022-11-10 13:13:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/10/a-proclamation-on-national-apprenticeship-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/10/a-proclamation-on-national-apprenticeship-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Apprenticeship Week,\_2022"
 ---

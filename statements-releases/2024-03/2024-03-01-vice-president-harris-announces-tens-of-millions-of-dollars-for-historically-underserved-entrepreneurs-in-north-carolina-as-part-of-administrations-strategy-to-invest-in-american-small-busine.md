@@ -2,7 +2,7 @@
 date: '2024-03-01'
 modified_time: 2024-03-01 15:15:32-05:00
 published_time: 2024-03-01 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/vice-president-harris-announces-tens-of-millions-of-dollars-for-historically-underserved-entrepreneurs-in-north-carolina-as-part-of-administrations-strategy-to-invest-in-american-small-busine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/vice-president-harris-announces-tens-of-millions-of-dollars-for-historically-underserved-entrepreneurs-in-north-carolina-as-part-of-administrations-strategy-to-invest-in-american-small-busine/
 tags: statements-releases
 title: "Vice President Harris Announces Tens of Millions of Dollars for Historically\
   \ Underserved Entrepreneurs in North Carolina as part of Administration\u2019s Strategy\
@@ -138,7 +138,7 @@ investments:**
     Administration changed that, instituting a 14-day period during
     which only businesses with fewer than 20 employees could apply for
     relief.   Research shows these
-    reforms [helped](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/) increase
+    reforms [helped](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/11/fact-sheet-new-data-show-progress-on-biden-harris-commitment-to-equity-in-emergency-small-business-relief/) increase
     loans to small businesses in low to moderate income communities by
     62 percent and expanded lending to the smallest businesses by 35
     percent. About two-thirds of Restaurant Revitalization Funds went to
@@ -212,7 +212,7 @@ investments:**
         accelerators.** Last year, Vice President Harris announced that
         the MBDA’s Capital Readiness Program awarded $125 million to[ 43
         non-profit community-based
-        organizations](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) to
+        organizations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/) to
         help underserved entrepreneurs launch and scale their small
         businesses, including by preparing them to seek equity capital
         and connect to venture capital opportunities. This American

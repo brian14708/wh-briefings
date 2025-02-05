@@ -1,7 +1,7 @@
 ---
 date: '2024-04-25'
 published_time: 2024-04-25 17:21:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/25/remarks-by-vice-president-harris-before-a-roundtable-conversation-on-second-chance-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/25/remarks-by-vice-president-harris-before-a-roundtable-conversation-on-second-chance-month/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before a Roundtable Conversation on Second\
   \ Chance\_Month"

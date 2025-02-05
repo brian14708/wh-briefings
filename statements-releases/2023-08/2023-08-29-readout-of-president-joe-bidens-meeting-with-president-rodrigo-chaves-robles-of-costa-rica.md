@@ -2,7 +2,7 @@
 date: '2023-08-29'
 modified_time: 2023-08-29 20:49:51-04:00
 published_time: 2023-08-29 20:20:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/readout-of-president-joe-bidens-meeting-with-president-rodrigo-chaves-robles-of-costa-rica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/readout-of-president-joe-bidens-meeting-with-president-rodrigo-chaves-robles-of-costa-rica/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Rodrigo Chaves\
   \ Robles of Costa\_Rica"
@@ -26,7 +26,7 @@ chains.
    
 The two leaders reaffirmed our commitment to advance the goals outlined
 in the [Los Angeles Declaration on Migration and
-Protection](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/).
+Protection](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/).
 In support of these efforts and to stabilize flows and offer
 opportunities to migrants and refugees, the Department of State is
 contributing more than $12 million through international organization

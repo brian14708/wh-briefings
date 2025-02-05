@@ -1,7 +1,7 @@
 ---
 date: '2022-08-19'
 published_time: 2022-08-19 15:02:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-how-the-inflation-reduction-act-helps-asian-american-native-hawaiian-and-pacific-islander-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/fact-sheet-how-the-inflation-reduction-act-helps-asian-american-native-hawaiian-and-pacific-islander-communities/
 tags: statements-releases
 title: "FACT SHEET:  How the Inflation Reduction Act Helps Asian American, Native\
   \ Hawaiian, and Pacific Islander\_Communities"

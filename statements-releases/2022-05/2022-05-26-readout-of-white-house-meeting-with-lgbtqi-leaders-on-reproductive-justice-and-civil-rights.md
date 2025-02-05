@@ -2,7 +2,7 @@
 date: '2022-05-26'
 modified_time: 2022-05-26 18:55:05-04:00
 published_time: 2022-05-26 18:55:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/26/readout-of-white-house-meeting-with-lgbtqi-leaders-on-reproductive-justice-and-civil-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/26/readout-of-white-house-meeting-with-lgbtqi-leaders-on-reproductive-justice-and-civil-rights/
 tags: statements-releases
 title: "Readout of White\_House Meeting with LGBTQI+ Leaders on Reproductive Justice\
   \ and Civil\_Rights"

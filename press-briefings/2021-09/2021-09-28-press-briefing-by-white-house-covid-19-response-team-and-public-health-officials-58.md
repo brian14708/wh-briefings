@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-09-28'
 modified_time: 2021-09-28 15:35:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/09/28/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-58/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/09/28/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-58/
 published_time: 2021-09-28 16:00:00-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -581,4 +581,4 @@ soon. Thank you.
   
 
 To view the COVID Press Briefing slides,
-visit: <https://www.whitehouse.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_28September2021.pdf>
+visit: <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/09/COVID-Press-Briefing_28September2021.pdf>

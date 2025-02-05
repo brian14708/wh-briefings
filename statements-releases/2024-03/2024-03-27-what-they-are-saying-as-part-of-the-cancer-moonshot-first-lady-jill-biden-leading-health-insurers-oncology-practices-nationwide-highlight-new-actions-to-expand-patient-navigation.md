@@ -2,7 +2,7 @@
 date: '2024-03-27'
 modified_time: 2024-03-27 17:24:36-04:00
 published_time: 2024-03-27 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/27/what-they-are-saying-as-part-of-the-cancer-moonshot-first-lady-jill-biden-leading-health-insurers-oncology-practices-nationwide-highlight-new-actions-to-expand-patient-navigation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/27/what-they-are-saying-as-part-of-the-cancer-moonshot-first-lady-jill-biden-leading-health-insurers-oncology-practices-nationwide-highlight-new-actions-to-expand-patient-navigation/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: As Part of the Cancer Moonshot, First Lady Jill\_Biden,\
   \ Leading Health Insurers & Oncology Practices Nationwide Highlight New Actions\
@@ -13,7 +13,7 @@ Today, as part of the Biden Cancer Moonshot, a key pillar of the
 President’s Unity Agenda, First Lady Jill Biden convened executives from
 leading health insurance companies, community health plans, and health
 plan professional associations to highlight [recent
-commitments](https://www.whitehouse.gov/ostp/news-updates/2024/03/08/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
+commitments](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/03/08/fact-sheet-biden-cancer-moonshot-announces-commitments-from-leading-health-insurers-and-oncology-providers-to-make-navigation-services-accessible-to-more-than-150-million-americans/)
 to expanding access to navigation services to help patients and their
 families navigate health care treatments for cancer and other serious
 illnesses. The companies—Aetna, a CVS Health company; Blue Cross Blue

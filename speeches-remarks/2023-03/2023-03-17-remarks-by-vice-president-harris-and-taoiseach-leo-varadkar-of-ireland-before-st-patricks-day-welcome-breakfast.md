@@ -1,7 +1,7 @@
 ---
 date: '2023-03-17'
 published_time: 2023-03-17 13:40:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-vice-president-harris-and-taoiseach-leo-varadkar-of-ireland-before-st-patricks-day-welcome-breakfast/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-vice-president-harris-and-taoiseach-leo-varadkar-of-ireland-before-st-patricks-day-welcome-breakfast/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris And Taoiseach Leo Varadkar of Ireland Before\
   \ St. Patrick\u2019s Day Welcome\_Breakfast"

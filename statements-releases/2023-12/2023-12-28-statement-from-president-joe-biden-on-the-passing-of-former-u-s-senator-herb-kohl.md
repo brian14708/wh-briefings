@@ -2,7 +2,7 @@
 date: '2023-12-28'
 modified_time: 2023-12-28 11:25:47-05:00
 published_time: 2023-12-28 11:25:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/28/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-herb-kohl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/28/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-herb-kohl/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former U.S. Senator\
   \ Herb\_Kohl"

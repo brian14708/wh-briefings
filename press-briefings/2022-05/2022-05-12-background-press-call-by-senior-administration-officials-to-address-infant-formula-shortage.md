@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 16:45:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-senior-administration-officials-to-address-infant-formula-shortage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/12/background-press-call-by-senior-administration-officials-to-address-infant-formula-shortage/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Address Infant\_\
   Formula\_Shortage"

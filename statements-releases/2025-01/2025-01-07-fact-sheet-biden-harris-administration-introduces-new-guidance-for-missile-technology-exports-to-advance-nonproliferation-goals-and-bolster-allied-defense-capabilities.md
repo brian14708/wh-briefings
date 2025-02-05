@@ -1,7 +1,7 @@
 ---
 date: '2025-01-07'
 published_time: 2025-01-07 15:47:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-biden-harris-administration-introduces-new-guidance-for-missile-technology-exports-to-advance-nonproliferation-goals-and-bolster-allied-defense-capabilities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/fact-sheet-biden-harris-administration-introduces-new-guidance-for-missile-technology-exports-to-advance-nonproliferation-goals-and-bolster-allied-defense-capabilities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Introduces New Guidance for\
   \ Missile Technology Exports to Advance Nonproliferation Goals and Bolster Allied\

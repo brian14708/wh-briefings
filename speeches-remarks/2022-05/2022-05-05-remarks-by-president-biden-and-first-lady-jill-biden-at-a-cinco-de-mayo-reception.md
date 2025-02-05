@@ -1,7 +1,7 @@
 ---
 date: '2022-05-05'
 published_time: 2022-05-05 19:27:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/05/remarks-by-president-biden-and-first-lady-jill-biden-at-a-cinco-de-mayo-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/05/remarks-by-president-biden-and-first-lady-jill-biden-at-a-cinco-de-mayo-reception/
 tags: speeches-remarks
 title: "Remarks By President\_Biden and First Lady Jill\_Biden at a Cinco De Mayo\_\
   Reception"

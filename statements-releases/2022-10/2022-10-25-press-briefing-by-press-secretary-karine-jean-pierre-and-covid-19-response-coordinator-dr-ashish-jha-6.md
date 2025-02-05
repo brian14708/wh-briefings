@@ -1,7 +1,7 @@
 ---
 date: '2022-10-25'
 published_time: 2022-10-25 22:14:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/press-briefing-by-press-secretary-karine-jean-pierre-and-covid-19-response-coordinator-dr-ashish-jha-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/press-briefing-by-press-secretary-karine-jean-pierre-and-covid-19-response-coordinator-dr-ashish-jha-6/
 tags: statements-releases
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and COVID-\u206019 Response\
   \ Coordinator Dr. Ashish\_Jha"

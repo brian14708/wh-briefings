@@ -2,7 +2,7 @@
 date: '2022-12-12'
 modified_time: 2022-12-12 22:13:02-05:00
 published_time: 2022-12-12 22:13:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/12/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/12/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-3/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake\_Sullivan"

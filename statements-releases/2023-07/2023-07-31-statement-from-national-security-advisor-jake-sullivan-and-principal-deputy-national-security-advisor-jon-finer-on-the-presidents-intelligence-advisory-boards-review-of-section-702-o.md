@@ -2,7 +2,7 @@
 date: '2023-07-31'
 modified_time: 2023-07-31 09:16:42-04:00
 published_time: 2023-07-31 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/31/statement-from-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finer-on-the-presidents-intelligence-advisory-boards-review-of-section-702-o/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/31/statement-from-national-security-advisor-jake-sullivan-and-principal-deputy-national-security-advisor-jon-finer-on-the-presidents-intelligence-advisory-boards-review-of-section-702-o/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan and Principal Deputy\
   \ National Security Advisor Jon Finer on the President\u2019s Intelligence Advisory\
@@ -42,6 +42,6 @@ critical national security authority and to working with Congress to
 ensure its reauthorization.  
   
 Read the [full report
-here](https://www.whitehouse.gov/wp-content/uploads/2023/07/Presidents-Intelligence-Advisory-Board-and-Intelligence-Oversight-Board-Review-of-FISA-Section-702-and-Recommendations-for-Reauthorization.pdf).
+here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Presidents-Intelligence-Advisory-Board-and-Intelligence-Oversight-Board-Review-of-FISA-Section-702-and-Recommendations-for-Reauthorization.pdf).
 
 \###

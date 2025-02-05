@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-12-08'
 modified_time: 2021-12-08 13:51:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/
 published_time: 2021-12-08 13:51:39-05:00
 title: "Executive Order on Catalyzing Clean Energy Industries and Jobs Through Federal\_\
   Sustainability"

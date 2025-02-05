@@ -1,7 +1,7 @@
 ---
 date: '2023-10-10'
 published_time: 2023-10-10 17:39:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/10/a-proclamation-on-general-pulaski-memorial-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/10/a-proclamation-on-general-pulaski-memorial-day-2023/
 tags: presidential-actions
 title: "A Proclamation on General Pulaski Memorial Day,\_2023"
 ---

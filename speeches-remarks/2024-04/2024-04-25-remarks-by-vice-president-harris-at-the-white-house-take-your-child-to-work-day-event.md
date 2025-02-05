@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-25 17:32:32-04:00
 published_time: 2024-04-25 17:32:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/25/remarks-by-vice-president-harris-at-the-white-house-take-your-child-to-work-day-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/25/remarks-by-vice-president-harris-at-the-white-house-take-your-child-to-work-day-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the White\_House Take Your Child to Work\
   \ Day\_Event"

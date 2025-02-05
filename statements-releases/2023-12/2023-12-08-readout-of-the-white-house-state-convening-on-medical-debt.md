@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 15:41:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/
 tags: statements-releases
 title: "Readout of the White\_House State Convening on Medical\_Debt"
 ---
@@ -11,7 +11,7 @@ Economic Council, and Domestic Policy Council convened over 80 federal
 and state officials to discuss the importance of reducing medical debt
 as part of the President’s Bidenomics agenda to lower costs for American
 families. [One in three
-adults](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/)
+adults](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-announces-new-actions-to-lessen-the-burden-of-medical-debt-and-increase-consumer-protection/)
 – nearly 100 million Americans – struggle with unpaid medical bills.
 Medical debt keeps [everyday Americans from securing loans, seeking
 medical
@@ -32,11 +32,11 @@ practices, surprise billing and facility fees, and charity care.
 
 This roundtable builds on the Biden-Harris Administration’s commitment
 [and ongoing
-work](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/)
+work](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/)
 to lower health care costs. Recent actions include:
 
 -   [On December
-    7](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-health-care-and-prescription-drug-costs-by-promoting-competition/),
+    7](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-health-care-and-prescription-drug-costs-by-promoting-competition/),
     2023, President Biden announced new actions to lower health care and
     prescription drug costs by addressing consolidation in the health
     care market, which drives higher costs.
@@ -54,11 +54,11 @@ to lower health care costs. Recent actions include:
     CFPB released a report highlighting the challenges American families
     face when debt collectors pursue allegedly unpaid medical bills.
 -   [On September 21,
-    2023](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/21/press-call-by-vice-president-harris-on-an-announcement-to-ease-the-burden-of-medical-debt-on-american-family-budgets/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/21/press-call-by-vice-president-harris-on-an-announcement-to-ease-the-burden-of-medical-debt-on-american-family-budgets/),
     Vice President Harris and CFPB Director Chopra announced that CFPB
     will propose a rule to remove medical bills from credit reports.
 -   [On August 29,
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/),
     Medicare announced the first 10 drugs that had been selected for
     drug price negotiation.
 -   [On July 7,
@@ -68,13 +68,13 @@ to lower health care costs. Recent actions include:
     offering medical credit cards, which drive up debt; they are
     currently evaluating comments.
 -   [On July 7,
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/07/fact-sheetpresident-biden-announces-new-actions-to-lower-health-care-costs-and-protect-consumers-from-scam-insurance-plans-and-junk-fees-as-part-of-bidenomics-push/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/07/fact-sheetpresident-biden-announces-new-actions-to-lower-health-care-costs-and-protect-consumers-from-scam-insurance-plans-and-junk-fees-as-part-of-bidenomics-push/),
     President Biden announced that HHS, the Department of Treasury, and
     the Department of Labor proposed a new rule to crack down on junk
     insurance, and issued guidance to limit surprise medical billing
     (implementing the No Surprises Act).
 -   [On February 14,
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/fact-sheet-new-data-show-8-2-million-fewer-americans-struggling-with-medical-debt-under-the-biden-harris-administration/),
     the White House announced that the Small Business Administration
     (SBA) will reduce the role of medical debt in their main guaranteed
     loan program (7a) by discouraging the consideration of medical debt

@@ -2,7 +2,7 @@
 date: '2023-10-04'
 modified_time: 2023-10-04 07:58:54-04:00
 published_time: 2023-10-04 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/04/president-biden-names-thirty-ninth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/04/president-biden-names-thirty-ninth-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Thirty-Ninth Round of Judicial\_Nominees"
 ---

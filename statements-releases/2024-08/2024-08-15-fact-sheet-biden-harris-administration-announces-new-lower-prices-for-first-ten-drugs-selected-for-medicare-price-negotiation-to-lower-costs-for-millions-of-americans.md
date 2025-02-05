@@ -1,7 +1,7 @@
 ---
 date: '2024-08-15'
 published_time: 2024-08-15 08:08:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/fact-sheet-biden-harris-administration-announces-new-lower-prices-for-first-ten-drugs-selected-for-medicare-price-negotiation-to-lower-costs-for-millions-of-americans/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New, Lower Prices\
   \ for First Ten Drugs Selected for Medicare Price Negotiation to Lower Costs for\
@@ -203,7 +203,7 @@ because of the Biden-Harris Administration’s actions.
     Administration.
 
 Check out the Biden-Harris Administration’s [Savings
-Explorer](https://www.whitehouse.gov/invest/savings-explorer/) to see
+Explorer](https://bidenwhitehouse.archives.gov/invest/savings-explorer/) to see
 how some of the Administration’s policies are helping Americans save
 money on annual expenses – from health care to junk fees, grocery costs
 and more.  

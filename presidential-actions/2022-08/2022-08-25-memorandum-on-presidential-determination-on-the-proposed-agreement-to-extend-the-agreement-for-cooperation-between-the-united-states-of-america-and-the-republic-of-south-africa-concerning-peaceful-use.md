@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 19:17:39-04:00
 published_time: 2022-08-25 19:17:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/25/memorandum-on-presidential-determination-on-the-proposed-agreement-to-extend-the-agreement-for-cooperation-between-the-united-states-of-america-and-the-republic-of-south-africa-concerning-peaceful-use/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/25/memorandum-on-presidential-determination-on-the-proposed-agreement-to-extend-the-agreement-for-cooperation-between-the-united-states-of-america-and-the-republic-of-south-africa-concerning-peaceful-use/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination on the Proposed Agreement to Extend\
   \ the Agreement for Cooperation between the United\_States of America and the Republic\

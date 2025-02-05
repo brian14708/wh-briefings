@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-02'
 modified_time: 2021-11-02 10:06:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/
 published_time: 2021-11-02 10:30:00-04:00
 title: "Fact Sheet: Biden Administration Takes Steps to Prevent Suicide, Including\
   \ by Promoting Safe Storage of\_Firearms"
@@ -37,7 +37,7 @@ the Military and Veteran Suicide Prevention Strategy**
   
 The Biden Administration’s comprehensive [military and veteran suicide
 prevention
-strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf),
+strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf),
 released today, announces an unprecedented federal focus on improving
 lethal means safety as a tool to save lives. The Departments of Defense
 (DOD), Health and Human Services (HHS), Homeland Security (DHS), Justice

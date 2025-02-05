@@ -1,7 +1,7 @@
 ---
 date: '2023-10-04'
 published_time: 2023-10-04 15:35:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/04/remarks-by-president-biden-on-the-administrations-efforts-to-cancel-student-debt-and-support-students-and-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/04/remarks-by-president-biden-on-the-administrations-efforts-to-cancel-student-debt-and-support-students-and-borrowers/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Administration\u2019s Efforts to Cancel\
   \ Student Debt and Support Students and\_Borrowers"

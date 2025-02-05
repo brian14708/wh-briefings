@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 18:50:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-president-biden-in-roundtable-with-ceos-on-the-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/28/remarks-by-president-biden-in-roundtable-with-ceos-on-the-economy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Roundtable with CEOS on the\_Economy"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-24 13:49:15-04:00
 published_time: 2024-05-23 13:44:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/23/remarks-by-president-biden-and-president-william-ruto-of-the-republic-of-kenya-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President William Ruto of the Republic of\
   \ Kenya in Joint Press\_Conference"

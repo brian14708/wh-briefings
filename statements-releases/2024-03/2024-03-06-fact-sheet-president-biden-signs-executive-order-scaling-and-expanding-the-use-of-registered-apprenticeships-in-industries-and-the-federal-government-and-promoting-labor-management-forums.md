@@ -2,7 +2,7 @@
 date: '2024-03-06'
 modified_time: 2024-03-05 21:33:25-05:00
 published_time: 2024-03-06 10:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-signs-executive-order-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order: Scaling and Expanding\
   \ the Use of Registered Apprenticeships in Industries and the Federal Government\
@@ -78,7 +78,7 @@ The new EO also complements existing White House Investing in America
 workforce initiatives, including:
 
 -   **Workforce Hubs.** In May, the White
-    House [designated](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) five
+    House [designated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/) five
     Workforce Hubs—Augusta, Baltimore, Columbus, Phoenix, and
     Pittsburgh— where the Investing in America agenda is catalyzing
     historic private and public investments and creating good-paying
@@ -100,7 +100,7 @@ workforce initiatives, including:
     good advanced manufacturing jobs, including union jobs, many of
     which do not require a four-year college degree. In January, the
     White
-    House [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) new
+    House [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/fact-sheet-biden-harris-administration-highlights-new-commitments-toward-equitable-workforce-development-in-advanced-manufacturing/) new
     commitments to the Sprint, including 150 new advanced
     manufacturing-related Registered Apprenticeship programs and
     occupations have been created or are newly under development, and

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-13'
 published_time: 2023-10-13 15:18:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-columbus-workforce-hub-roundtable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-columbus-workforce-hub-roundtable/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Columbus Workforce\
   \ Hub\_Roundtable"

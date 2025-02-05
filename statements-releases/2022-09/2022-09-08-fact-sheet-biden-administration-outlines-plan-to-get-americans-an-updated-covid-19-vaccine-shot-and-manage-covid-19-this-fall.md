@@ -2,7 +2,7 @@
 date: '2022-09-08'
 modified_time: 2022-09-08 12:34:10-04:00
 published_time: 2022-09-08 12:34:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/fact-sheet-biden-administration-outlines-plan-to-get-americans-an-updated-covid-19-vaccine-shot-and-manage-covid-19-this-fall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/08/fact-sheet-biden-administration-outlines-plan-to-get-americans-an-updated-covid-19-vaccine-shot-and-manage-covid-19-this-fall/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Outlines Plan to Get Americans an Updated\
   \ COVID-\u206019 Vaccine Shot and Manage COVID-\u206019 this\_Fall"

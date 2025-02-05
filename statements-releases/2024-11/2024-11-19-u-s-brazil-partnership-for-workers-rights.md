@@ -2,7 +2,7 @@
 date: '2024-11-19'
 modified_time: 2024-11-19 22:27:26-05:00
 published_time: 2024-11-19 14:28:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/u-s-brazil-partnership-for-workers-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/u-s-brazil-partnership-for-workers-rights/
 tags: statements-releases
 title: "Partnership for Workers\u2019\_Rights"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-05'
 published_time: 2023-03-05 23:00:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/05/statement-from-president-joe-biden-on-japan-rok-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/05/statement-from-president-joe-biden-on-japan-rok-announcement/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Japan-ROK\_Announcement"
 ---

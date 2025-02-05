@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 13:18:57-05:00
 published_time: 2024-02-08 13:18:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/08/background-press-call-on-bilateral-engagements-and-the-trilateral-fentanyl-committees-fourth-meeting-in-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/08/background-press-call-on-bilateral-engagements-and-the-trilateral-fentanyl-committees-fourth-meeting-in-mexico/
 tags: press-briefings
 title: "Background Press Call on Bilateral Engagements and the Trilateral Fentanyl\
   \ Committee\u2019s Fourth Meeting in\_Mexico"

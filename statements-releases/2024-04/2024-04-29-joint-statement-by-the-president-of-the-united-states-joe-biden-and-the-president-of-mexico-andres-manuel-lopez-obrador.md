@@ -1,7 +1,7 @@
 ---
 date: '2024-04-29'
 published_time: 2024-04-29 11:20:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/joint-statement-by-the-president-of-the-united-states-joe-biden-and-the-president-of-mexico-andres-manuel-lopez-obrador/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/joint-statement-by-the-president-of-the-united-states-joe-biden-and-the-president-of-mexico-andres-manuel-lopez-obrador/
 tags: statements-releases
 title: "Joint Statement by the President of the United\_States Joe\_Biden and the\
   \ President of Mexico Andr\xE9s Manuel L\xF3pez\_Obrador"

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 13:56:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/29/executive-order-on-the-continuance-of-certain-federal-advisory-committees-and-amendments-to-other-executive-orders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/29/executive-order-on-the-continuance-of-certain-federal-advisory-committees-and-amendments-to-other-executive-orders/
 tags: presidential-actions
 title: "Executive Order on the Continuance of Certain Federal Advisory Committees\
   \ and Amendments to Other Executive\_Orders"

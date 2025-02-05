@@ -2,7 +2,7 @@
 date: '2024-04-29'
 modified_time: 2024-04-28 21:50:44-04:00
 published_time: 2024-04-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-vice-president-harris-kicks-off-nationwide-economic-opportunity-tour-in-atlanta/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-vice-president-harris-kicks-off-nationwide-economic-opportunity-tour-in-atlanta/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Kicks Off Nationwide Economic Opportunity\
   \ Tour in\_Atlanta"

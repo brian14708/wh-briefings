@@ -1,7 +1,7 @@
 ---
 date: '2024-05-31'
 published_time: 2024-05-31 14:00:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/05/31/affordable-high-speed-internet-is-spurring-economic-growth-and-boosting-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/05/31/affordable-high-speed-internet-is-spurring-economic-growth-and-boosting-small-businesses/
 tags: blog
 title: "Affordable High-Speed Internet is Spurring Economic Growth and Boosting Small\_\
   Businesses"
@@ -13,7 +13,7 @@ title: "Affordable High-Speed Internet is Spurring Economic Growth and Boosting 
 
 Access to affordable, reliable, high-speed internet is a cornerstone of
 the American economy and essential for
-[economic](https://www.whitehouse.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
+[economic](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
 growth. This is also a bipartisan view—Congress has
 [found](https://uscode.house.gov/view.xhtml?path=/prelim@title47/chapter16&edition=prelim)
 that “\[a\]ccess to affordable, reliable, high-speed broadband is
@@ -24,9 +24,9 @@ communities, a lack of necessary infrastructure. In particular,
 communities of color, Native communities, rural communities, and
 low-income households are disproportionately disconnected. That’s why,
 as part of his Internet for All initiative, President Biden
-[committed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-president-biden-on-broadband-investments/)
+[committed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/26/remarks-by-president-biden-on-broadband-investments/)
 to connecting every household in America by 2030, deploying [over $80
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 federal funding to expand access to affordable, reliable, high-speed
 internet across the country.
 
@@ -53,7 +53,7 @@ that more than three-quarters of respondents would have their service
 disrupted by losing their ACP benefit. Depriving these families of this
 funding would leave them without money to spend on other necessities
 like groceries, education, or healthcare. In some
-[states](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/01/fact-sheet-biden-harris-administration-continues-to-call-on-congressional-republicans-and-internet-service-providers-to-keep-americans-connected-as-the-affordable-connectivity-program-enters-final-mo/)
+[states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/01/fact-sheet-biden-harris-administration-continues-to-call-on-congressional-republicans-and-internet-service-providers-to-keep-americans-connected-as-the-affordable-connectivity-program-enters-final-mo/)
 like Kentucky, Ohio, and Nevada, one in four households are enrolled.
 
 That’s why, since last October, President Biden has called on Congress
@@ -150,10 +150,10 @@ adoption varying by income, race, and the density of their community
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/05/Picture1_cc7143.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Picture1_cc7143.png"
 class="wp-image-100219" decoding="async" loading="lazy"
 sizes="(max-width: 766px) 100vw, 766px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/05/Picture1_cc7143.png 766w, https://www.whitehouse.gov/wp-content/uploads/2024/05/Picture1_cc7143.png?resize=615,449 615w, https://www.whitehouse.gov/wp-content/uploads/2024/05/Picture1_cc7143.png?resize=438,320 438w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Picture1_cc7143.png 766w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Picture1_cc7143.png?resize=615,449 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Picture1_cc7143.png?resize=438,320 438w"
 width="766" height="559" />
 </figure>
 
@@ -179,7 +179,7 @@ is making targeted investments in addressing both of those challenges
 and thereby gaining the benefits of widespread high-speed internet
 adoption for business formation, employment, health, education, and
 economic growth. The [Broadband Equity Access and
-Deployment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-over-40-billion-to-connect-everyone-in-america-to-affordable-reliable-high-speed-internet/)
+Deployment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-over-40-billion-to-connect-everyone-in-america-to-affordable-reliable-high-speed-internet/)
 program, created by the Bipartisan Infrastructure Law, invests over $40
 billion in building out high-speed internet infrastructure in every U.S.
 state and territory. In addition, $2.75 billion is included for the
@@ -209,7 +209,7 @@ study](https://progresschamber.org/wp-content/uploads/2024/04/Analysis_-Economic
 found that vulnerable communities are projected to lose over $20 billion
 annually in economic benefits. Furthermore, the first two years of the
 Biden-Harris Administration were the two [highest
-years](https://www.whitehouse.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
+years](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
 of applications to start businesses on record—the third year is on track
 to surpass both. The loss of ACP subsidies could threaten to slow this
 pace because many of these businesses rely on access to high-speed

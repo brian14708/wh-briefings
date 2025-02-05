@@ -1,7 +1,7 @@
 ---
 date: '2023-06-08'
 published_time: 2023-06-08 17:51:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-allen-v-milligan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/statement-from-vice-president-kamala-harris-on-the-supreme-court-ruling-in-allen-v-milligan/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Supreme Court Ruling in\
   \ Allen v.\_Milligan"

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-29'
 published_time: 2023-05-29 16:52:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/29/readout-of-president-bidens-call-with-president-erdogan-of-turkiye-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/29/readout-of-president-bidens-call-with-president-erdogan-of-turkiye-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Erdogan of\_T\xFCrkiye"
 ---

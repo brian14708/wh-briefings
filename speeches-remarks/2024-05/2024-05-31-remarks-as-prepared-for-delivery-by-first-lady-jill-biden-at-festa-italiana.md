@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 19:37:36-04:00
 published_time: 2024-05-31 19:37:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-festa-italiana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/31/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-festa-italiana/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Festa\_Italiana"
 ---

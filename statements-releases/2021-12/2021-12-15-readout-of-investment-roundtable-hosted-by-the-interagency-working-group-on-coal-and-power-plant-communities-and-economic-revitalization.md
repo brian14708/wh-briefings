@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-15'
 modified_time: 2021-12-15 13:38:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/15/readout-of-investment-roundtable-hosted-by-the-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/15/readout-of-investment-roundtable-hosted-by-the-interagency-working-group-on-coal-and-power-plant-communities-and-economic-revitalization/
 published_time: 2021-12-15 13:37:59-05:00
 title: "Readout of Investment Roundtable Hosted by the Interagency Working Group on\
   \ Coal and Power Plant Communities and Economic\_Revitalization"
@@ -134,7 +134,7 @@ Participants included:
     and the Sugar Bush Foundation.
 
 Pursuant to President Biden’s January 27th [Executive Order
-14008](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+14008](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 Tackling the Climate Crisis at Home and Abroad, the Interagency Working
 Group membership is composed of the following government officials:
 

@@ -2,7 +2,7 @@
 date: '2024-06-22'
 modified_time: 2024-06-25 15:55:06-04:00
 published_time: 2024-06-22 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/22/remarks-by-national-security-advisor-jake-sullivan-at-u-s-merchant-marine-academy-commencement-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/22/remarks-by-national-security-advisor-jake-sullivan-at-u-s-merchant-marine-academy-commencement-address/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by National Security Advisor Jake Sullivan\
   \ at U.S. Merchant Marine Academy Commencement\_Address"

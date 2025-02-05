@@ -1,7 +1,7 @@
 ---
 date: '2023-06-01'
 published_time: 2023-06-01 08:08:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/joint-statement-from-the-united-states-and-guatemala-on-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/joint-statement-from-the-united-states-and-guatemala-on-migration/
 tags: statements-releases
 title: "Joint Statement from the United\_States and Guatemala on\_Migration"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-08-03'
 published_time: 2022-08-03 23:31:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/readout-by-nsc-spokesperson-adrienne-watson-of-national-security-advisor-sullivans-call-with-iranian-american-human-rights-activist-masih-alinejad/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/readout-by-nsc-spokesperson-adrienne-watson-of-national-security-advisor-sullivans-call-with-iranian-american-human-rights-activist-masih-alinejad/
 tags: statements-releases
 title: "Readout by NSC Spokesperson Adrienne Watson of National Security Advisor Sullivan\u2019\
   s Call with Iranian-American Human Rights Activist Masih\_Alinejad"

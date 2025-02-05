@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 07:40:00-04:00
 published_time: 2022-04-28 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-u-s-agencies-are-advancing-the-human-rights-of-lgbtqi-persons-around-the-world/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-u-s-agencies-are-advancing-the-human-rights-of-lgbtqi-persons-around-the-world/
 tags: statements-releases
 title: "FACT SHEET: U.S. Agencies Are Advancing the Human Rights of LGBTQI+ Persons\
   \ Around the\_World"
@@ -20,7 +20,7 @@ Today, the U.S. Government released a first of its kind progress
 [report](https://www.state.gov/lgbtqi-human-rights/) on implementation
 of President Biden’s [Memorandum on Advancing the Human Rights of
 LGBTQI+ Persons Around the
-World](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/).
+World](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-advancing-the-human-rights-of-lesbian-gay-bisexual-transgender-queer-and-intersex-persons-around-the-world/).
  The progress demonstrates the U.S. commitment to promoting and
 protecting the human rights of LGBTQI+ people around the world through
 our diplomacy and foreign assistance. 

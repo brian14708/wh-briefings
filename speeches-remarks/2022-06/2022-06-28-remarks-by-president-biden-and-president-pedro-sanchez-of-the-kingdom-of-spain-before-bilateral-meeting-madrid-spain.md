@@ -1,7 +1,7 @@
 ---
 date: '2022-06-28'
 published_time: 2022-06-28 14:51:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/28/remarks-by-president-biden-and-president-pedro-sanchez-of-the-kingdom-of-spain-before-bilateral-meeting-madrid-spain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/28/remarks-by-president-biden-and-president-pedro-sanchez-of-the-kingdom-of-spain-before-bilateral-meeting-madrid-spain/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Pedro S\xE1nchez of the Kingdom\
   \ of Spain Before Bilateral Meeting | Madrid,\_Spain"

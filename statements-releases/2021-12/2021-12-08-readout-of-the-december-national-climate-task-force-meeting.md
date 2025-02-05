@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-08'
 modified_time: 2021-12-08 20:50:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/readout-of-the-december-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/readout-of-the-december-national-climate-task-force-meeting/
 published_time: 2021-12-08 20:50:31-05:00
 title: "Readout of the December National Climate Task Force\_Meeting"
 ---
@@ -17,7 +17,7 @@ Climate Task Force with Cabinet members and senior leadership from
 across the Biden-Harris Administration. This meeting followed on
 President Biden’s signing today of an Executive Order on [Catalyzing
 Clean Energy Industries and Jobs Through Federal
-Sustainability](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/),
+Sustainability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/),
 which directs the federal government to use its scale and procurement
 power to achieve five new, ambitious goals on carbon pollution-free
 electricity, zero-emission vehicle acquisitions, Buy Clean policies,
@@ -51,7 +51,7 @@ commitment to reduce U.S. emissions by 50-52% from 2005 levels in 2030.
 
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the Task Force is chaired by the National Climate Advisor and includes
 Cabinet-level leaders from 21 federal agencies and senior White House
 officials to mobilize the Biden-Harris Administration’s implementation

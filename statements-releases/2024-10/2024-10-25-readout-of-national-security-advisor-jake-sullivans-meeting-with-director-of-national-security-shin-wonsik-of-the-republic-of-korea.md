@@ -2,7 +2,7 @@
 date: '2024-10-25'
 modified_time: 2024-10-25 15:02:12-04:00
 published_time: 2024-10-25 15:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-director-of-national-security-shin-wonsik-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/25/readout-of-national-security-advisor-jake-sullivans-meeting-with-director-of-national-security-shin-wonsik-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Director\
   \ of National Security Shin Wonsik of the Republic of\_Korea"

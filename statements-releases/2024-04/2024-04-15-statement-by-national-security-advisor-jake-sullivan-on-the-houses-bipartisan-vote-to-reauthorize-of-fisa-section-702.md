@@ -1,7 +1,7 @@
 ---
 date: '2024-04-15'
 published_time: 2024-04-15 21:40:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/statement-by-national-security-advisor-jake-sullivan-on-the-houses-bipartisan-vote-to-reauthorize-of-fisa-section-702/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/statement-by-national-security-advisor-jake-sullivan-on-the-houses-bipartisan-vote-to-reauthorize-of-fisa-section-702/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on the House\u2019s Bipartisan\
   \ Vote to Reauthorize of FISA Section\_702"

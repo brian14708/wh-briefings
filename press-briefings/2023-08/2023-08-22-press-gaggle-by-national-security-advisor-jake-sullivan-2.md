@@ -2,7 +2,7 @@
 date: '2023-08-22'
 modified_time: 2023-08-23 11:43:45-04:00
 published_time: 2023-08-22 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/22/press-gaggle-by-national-security-advisor-jake-sullivan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/22/press-gaggle-by-national-security-advisor-jake-sullivan-2/
 tags: press-briefings
 title: "Press Gaggle by National Security Advisor Jake\_Sullivan"
 ---

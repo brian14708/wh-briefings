@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 03:20:53-04:00
 published_time: 2022-05-21 03:20:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/21/united-states-republic-of-korea-leaders-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/21/united-states-republic-of-korea-leaders-joint-statement/
 tags: statements-releases
 title: "United\_States-Republic of Korea Leaders\u2019 Joint\_Statement"
 ---

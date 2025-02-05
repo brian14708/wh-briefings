@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-09-21'
 modified_time: 2021-09-21 14:25:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/21/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-scott-morrison-of-australia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/21/readout-of-president-joseph-r-biden-jr-s-meeting-with-prime-minister-scott-morrison-of-australia/
 published_time: 2021-09-21 14:25:09-04:00
 title: "Readout of President Joseph R. Biden Jr.\u2019s Meeting with Prime Minister\
   \ Scott Morrison of\_Australia"

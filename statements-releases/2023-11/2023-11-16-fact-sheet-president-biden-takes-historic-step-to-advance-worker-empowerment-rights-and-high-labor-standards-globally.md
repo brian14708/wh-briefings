@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 11:13:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-president-biden-takes-historic-step-to-advance-worker-empowerment-rights-and-high-labor-standards-globally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-president-biden-takes-historic-step-to-advance-worker-empowerment-rights-and-high-labor-standards-globally/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Historic Step to Advance Worker Empowerment,\
   \ Rights, and High Labor Standards\_Globally"

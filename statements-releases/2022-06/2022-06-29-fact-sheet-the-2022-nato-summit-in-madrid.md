@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 08:00:22-04:00
 published_time: 2022-06-29 08:00:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/29/fact-sheet-the-2022-nato-summit-in-madrid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/29/fact-sheet-the-2022-nato-summit-in-madrid/
 tags: statements-releases
 title: "FACT SHEET: The 2022 NATO Summit in\_Madrid"
 ---

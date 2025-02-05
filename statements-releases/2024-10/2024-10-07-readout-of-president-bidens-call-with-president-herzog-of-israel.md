@@ -1,7 +1,7 @@
 ---
 date: '2024-10-07'
 published_time: 2024-10-07 12:07:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/readout-of-president-bidens-call-with-president-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/readout-of-president-bidens-call-with-president-herzog-of-israel/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Herzog of\_Israel"
 ---

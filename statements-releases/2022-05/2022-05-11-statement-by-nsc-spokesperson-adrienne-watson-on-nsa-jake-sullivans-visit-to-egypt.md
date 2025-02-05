@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 13:55:46-04:00
 published_time: 2022-05-11 13:55:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/statement-by-nsc-spokesperson-adrienne-watson-on-nsa-jake-sullivans-visit-to-egypt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/statement-by-nsc-spokesperson-adrienne-watson-on-nsa-jake-sullivans-visit-to-egypt/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on NSA Jake Sullivan\u2019s\
   \ visit to\_Egypt"

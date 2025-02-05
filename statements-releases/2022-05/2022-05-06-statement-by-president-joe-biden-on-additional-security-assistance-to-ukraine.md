@@ -2,7 +2,7 @@
 date: '2022-05-06'
 modified_time: 2022-05-06 16:42:27-04:00
 published_time: 2022-05-06 16:42:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/statement-by-president-joe-biden-on-additional-security-assistance-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/06/statement-by-president-joe-biden-on-additional-security-assistance-to-ukraine/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Additional Security Assistance to\_Ukraine"
 ---

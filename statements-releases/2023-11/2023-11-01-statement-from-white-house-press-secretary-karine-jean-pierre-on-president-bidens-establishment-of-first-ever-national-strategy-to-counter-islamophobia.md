@@ -1,7 +1,7 @@
 ---
 date: '2023-11-01'
 published_time: 2023-11-01 17:50:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Establishment of First-Ever National Strategy to Counter\_Islamophobia"

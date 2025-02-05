@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-03-01 10:44:19-05:00
 published_time: 2024-02-29 20:44:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-celebrates-third-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-celebrates-third-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Third Anniversary\
   \ of the Reestablishment of the White\_House Office of Faith-Based and Neighborhood\
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Third Anniversa
 ---
  
 Three years ago this month, President Biden signed an executive order
-[reestablishing](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships)
+[reestablishing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/14/fact-sheet-president-biden-reestablishes-the-white-house-office-of-faith-based-and-neighborhood-partnerships)
 the White House Office of Faith-Based and Neighborhood Partnerships
 (“Partnerships Office”). The Partnerships Office is an essential part of
 the Biden-Harris Administration’s plan to bring people of all
@@ -42,7 +42,7 @@ include:
 aspects of religious freedom**
 
 -   Secured the greatest
-    [funding](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-religious-freedom-day-2024/)
+    [funding](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-religious-freedom-day-2024/)
     increase in our nation’s history for the [Nonprofit Security Grant
     Program](https://www.fema.gov/grants/preparedness/nonprofit-security)
     to bolster the physical security of nonprofits, including churches,
@@ -54,12 +54,12 @@ aspects of religious freedom**
     more than 7,600 faith leaders on maintaining [safe places of
     worship](https://www.fema.gov/event/protecting-places-worship-fall-religious-observance-security-briefing).
 -   Released the [National Strategy to Counter
-    Antisemitism](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/),
+    Antisemitism](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/),
     and
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/)
     the development of a National Strategy to Counter Islamophobia and
     Related Forms of Bias and Discrimination. [These
-    efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/)
+    efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/)
     include the following actions promoting religious freedom:
     -   [Produced](https://www.hhs.gov/about/news/2024/01/25/hhs-office-civil-rights-issues-guidance-to-clarifying-obligations-ensure-religious-non-discrimination-patient-visitation.html)
         [materials](https://www.hhs.gov/civil-rights/for-individuals/special-topics/emergency-preparedness/faqs-patient-visitation/index.html)
@@ -84,7 +84,7 @@ aspects of religious freedom**
     <!-- -->
 
     -   Developed [Allied Against Hate: A Toolkit for Faith
-        Communities](https://www.whitehouse.gov/wp-content/uploads/2023/10/Allied-Against-Hate_A-Toolkit-for-Faith-Communities_September-2023.pdf)
+        Communities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Allied-Against-Hate_A-Toolkit-for-Faith-Communities_September-2023.pdf)
         to help more Americans stand in solidarity across faiths to
         counter hate in all its forms.
 
@@ -101,7 +101,7 @@ aspects of religious freedom**
     development and humanitarian assistance.
 -   Celebrated the 25<sup>th</sup> anniversary of the [International
     Religious Freedom
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-international-religious-freedom-act/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/statement-from-president-joe-biden-on-the-25th-anniversary-of-the-international-religious-freedom-act/)
     and continued to use its tools to give voice to the persecuted,
     empower advocates, and promote religious freedom around the world.
 -   Reestablished the Department of Justice’s Center for Faith-Based and
@@ -127,7 +127,7 @@ aspects of religious freedom**
 -   Launched the M.O.M.S. (Maternal Outcomes Matter Showers) Tour in
     support of the [White House Blueprint for Addressing the Maternal
     Health
-    Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
+    Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),
     holding events in eleven cities and serving over 5,000 mothers and
     families.
 -    Engaged more than 17,000 faith and community leaders to help
@@ -154,13 +154,13 @@ aspects of religious freedom**
     communities.  
 -   Helped veterans across the country receive the services and care
     they deserve by raising awareness about the [PACT
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/10/fact-sheet-in-first-year-president-bidens-bipartisan-pact-act-delivers-care-for-veterans-in-all-50-states-and-u-s-territories-and-advances-unity-agenda/)—the
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/10/fact-sheet-in-first-year-president-bidens-bipartisan-pact-act-delivers-care-for-veterans-in-all-50-states-and-u-s-territories-and-advances-unity-agenda/)—the
     most significant expansion of benefits and services for
     toxic-exposed veterans and survivors in over thirty years.
 -   Provided over 300 [gun locks](https://www.va.gov/reach/lethal-means)
     to veteran-affiliated communities as part of the [White House
     Strategy to Reduce Military and Veteran
-    Suicide](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/).
+    Suicide](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/).
 -   Coordinated with 100 faith-based and community organizations to
     create [veteran welcome
     centers](https://www.va.gov/CFBNP/VeteransMinistry_WelcomeCenter.asp)

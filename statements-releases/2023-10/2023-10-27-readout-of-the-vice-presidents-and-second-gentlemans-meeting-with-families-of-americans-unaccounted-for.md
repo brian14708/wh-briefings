@@ -2,7 +2,7 @@
 date: '2023-10-27'
 modified_time: 2023-10-27 12:45:25-04:00
 published_time: 2023-10-27 12:45:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/27/readout-of-the-vice-presidents-and-second-gentlemans-meeting-with-families-of-americans-unaccounted-for/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/27/readout-of-the-vice-presidents-and-second-gentlemans-meeting-with-families-of-americans-unaccounted-for/
 tags: statements-releases
 title: "Readout of the Vice President\u2019s and Second Gentleman\u2019s Meeting with\
   \ Families of Americans Unaccounted\_For"

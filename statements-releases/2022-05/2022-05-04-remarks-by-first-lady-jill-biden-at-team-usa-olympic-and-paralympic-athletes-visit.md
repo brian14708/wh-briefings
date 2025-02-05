@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 18:56:10-04:00
 published_time: 2022-05-04 15:59:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/remarks-by-first-lady-jill-biden-at-team-usa-olympic-and-paralympic-athletes-visit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/remarks-by-first-lady-jill-biden-at-team-usa-olympic-and-paralympic-athletes-visit/
 tags: statements-releases
 title: "Remarks by First Lady Jill\_Biden at TEAM USA Olympic and Paralympic Athletes\_\
   Visit"

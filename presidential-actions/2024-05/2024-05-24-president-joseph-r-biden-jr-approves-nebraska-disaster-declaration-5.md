@@ -2,7 +2,7 @@
 date: '2024-05-24'
 modified_time: 2024-05-24 18:54:08-04:00
 published_time: 2024-05-24 18:54:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/24/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/24/president-joseph-r-biden-jr-approves-nebraska-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Nebraska Disaster\_Declaration"
 ---

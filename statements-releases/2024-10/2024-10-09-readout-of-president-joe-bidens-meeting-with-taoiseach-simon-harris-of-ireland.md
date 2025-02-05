@@ -2,7 +2,7 @@
 date: '2024-10-09'
 modified_time: 2024-10-09 21:50:14-04:00
 published_time: 2024-10-09 21:50:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/09/readout-of-president-joe-bidens-meeting-with-taoiseach-simon-harris-of-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/09/readout-of-president-joe-bidens-meeting-with-taoiseach-simon-harris-of-ireland/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Taoiseach Simon Harris\
   \ of\_Ireland"

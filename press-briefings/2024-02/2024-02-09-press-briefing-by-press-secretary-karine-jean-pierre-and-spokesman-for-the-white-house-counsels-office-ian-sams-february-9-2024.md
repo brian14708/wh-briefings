@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-09 18:16:29-05:00
 published_time: 2024-02-09 18:16:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/09/press-briefing-by-press-secretary-karine-jean-pierre-and-spokesman-for-the-white-house-counsels-office-ian-sams-february-9-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/09/press-briefing-by-press-secretary-karine-jean-pierre-and-spokesman-for-the-white-house-counsels-office-ian-sams-february-9-2024/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Spokesman for the\
   \ White\_House Counsel\u2019s Office Ian Sams, February 9,\_2024"

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-31'
 published_time: 2022-05-31 13:03:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/joint-readout-of-meeting-between-prime-minister-ardern-and-vice-president-harris/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/joint-readout-of-meeting-between-prime-minister-ardern-and-vice-president-harris/
 tags: statements-releases
 title: "Joint Readout of Meeting Between Prime Minister Ardern and Vice President\_\
   Harris"

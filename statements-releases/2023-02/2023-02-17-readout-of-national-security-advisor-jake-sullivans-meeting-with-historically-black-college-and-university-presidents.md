@@ -1,7 +1,7 @@
 ---
 date: '2023-02-17'
 published_time: 2023-02-17 22:07:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-historically-black-college-and-university-presidents/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-historically-black-college-and-university-presidents/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Historically\
   \ Black College and University\_Presidents"
@@ -41,7 +41,7 @@ existing efforts to recruit talent from HBCUs and other minority-serving
 institutions, including through work President Biden directed in his
 [White House Memorandum on Revitalizing America’s Foreign Policy and
 National Security Workforce, Institutions, and
-Partnerships](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/). 
+Partnerships](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/memorandum-revitalizing-americas-foreign-policy-and-national-security-workforce-institutions-and-partnerships/). 
 Additionally, Mr. Sullivan listened to feedback on how to expand the
 talent pipeline for national security and foreign policy fields.  He
 articulated how the Administration is addressing some of the challenges

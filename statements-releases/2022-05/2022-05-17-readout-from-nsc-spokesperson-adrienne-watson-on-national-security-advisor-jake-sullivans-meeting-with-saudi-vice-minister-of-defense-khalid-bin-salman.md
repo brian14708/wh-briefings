@@ -1,7 +1,7 @@
 ---
 date: '2022-05-17'
 published_time: 2022-05-17 21:45:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/readout-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-saudi-vice-minister-of-defense-khalid-bin-salman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/readout-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-saudi-vice-minister-of-defense-khalid-bin-salman/
 tags: statements-releases
 title: "Readout from NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Saudi Vice Minister of Defense Khalid\_bin\_\

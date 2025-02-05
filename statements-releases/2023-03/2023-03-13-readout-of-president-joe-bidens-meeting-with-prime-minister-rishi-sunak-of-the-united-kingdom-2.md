@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 20:47:01-04:00
 published_time: 2023-03-13 20:47:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/13/readout-of-president-joe-bidens-meeting-with-prime-minister-rishi-sunak-of-the-united-kingdom-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/13/readout-of-president-joe-bidens-meeting-with-prime-minister-rishi-sunak-of-the-united-kingdom-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Rishi Sunak\
   \ of the United\_Kingdom"

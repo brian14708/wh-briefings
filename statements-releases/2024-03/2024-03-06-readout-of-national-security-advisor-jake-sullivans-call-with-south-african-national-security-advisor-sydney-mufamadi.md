@@ -1,7 +1,7 @@
 ---
 date: '2024-03-06'
 published_time: 2024-03-06 16:36:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/readout-of-national-security-advisor-jake-sullivans-call-with-south-african-national-security-advisor-sydney-mufamadi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/readout-of-national-security-advisor-jake-sullivans-call-with-south-african-national-security-advisor-sydney-mufamadi/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with South\
   \ African National Security Advisor Sydney\_Mufamadi"

@@ -2,7 +2,7 @@
 date: '2023-04-19'
 modified_time: 2023-04-19 12:23:29-04:00
 published_time: 2023-04-19 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/19/president-biden-announces-key-nominees-42/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/19/president-biden-announces-key-nominees-42/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

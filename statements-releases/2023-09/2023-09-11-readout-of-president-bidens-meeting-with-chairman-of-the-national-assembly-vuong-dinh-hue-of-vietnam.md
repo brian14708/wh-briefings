@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 10:55:21-04:00
 published_time: 2023-09-11 05:43:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/11/readout-of-president-bidens-meeting-with-chairman-of-the-national-assembly-vuong-dinh-hue-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/11/readout-of-president-bidens-meeting-with-chairman-of-the-national-assembly-vuong-dinh-hue-of-vietnam/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Chairman of the National Assembly\
   \ Vuong Dinh Hue of\_Vietnam"

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 19:40:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/readout-of-white-house-roundtable-with-nurses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/readout-of-white-house-roundtable-with-nurses/
 tags: statements-releases
 title: "Readout of White\_House Roundtable with\_Nurses"
 ---

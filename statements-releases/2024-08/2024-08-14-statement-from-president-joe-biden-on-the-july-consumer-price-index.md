@@ -1,7 +1,7 @@
 ---
 date: '2024-08-14'
 published_time: 2024-08-14 09:12:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-the-july-consumer-price-index/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/14/statement-from-president-joe-biden-on-the-july-consumer-price-index/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the July Consumer Price\_Index"
 ---

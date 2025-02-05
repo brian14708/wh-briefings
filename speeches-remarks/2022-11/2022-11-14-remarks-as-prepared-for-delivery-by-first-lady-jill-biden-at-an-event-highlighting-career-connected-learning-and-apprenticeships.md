@@ -2,7 +2,7 @@
 date: '2022-11-14'
 modified_time: 2022-11-14 18:05:24-05:00
 published_time: 2022-11-14 18:04:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-highlighting-career-connected-learning-and-apprenticeships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-highlighting-career-connected-learning-and-apprenticeships/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event Highlighting\
   \ Career-Connected Learning and\_Apprenticeships"

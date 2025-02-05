@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-11-01 17:38:23-04:00
 published_time: 2024-11-01 17:38:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/01/press-gaggle-by-press-secretary-karine-jean-pierre-and-acting-labor-secretary-julie-su-en-route-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/01/press-gaggle-by-press-secretary-karine-jean-pierre-and-acting-labor-secretary-julie-su-en-route-philadelphia-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Acting Labor Secretary\
   \ Julie Su En Route Philadelphia,\_PA"

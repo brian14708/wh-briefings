@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 11:38:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/07/12/remarks-by-president-biden-prime-minister-kishida-of-japan-and-president-zelenskyy-of-ukraine-in-a-g7-joint-declaration-of-support-for-ukraine-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/07/12/remarks-by-president-biden-prime-minister-kishida-of-japan-and-president-zelenskyy-of-ukraine-in-a-g7-joint-declaration-of-support-for-ukraine-vilnius-lithuania/
 tags: press-briefings
 title: "Remarks by President\_Biden, Prime Minister Kishida of Japan, and President\
   \ Zelenskyy of Ukraine in a G7 Joint Declaration of Support for Ukraine | Vilnius,\_\

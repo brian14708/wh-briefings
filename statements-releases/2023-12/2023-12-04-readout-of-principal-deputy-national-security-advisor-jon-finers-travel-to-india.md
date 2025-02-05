@@ -1,7 +1,7 @@
 ---
 date: '2023-12-04'
 published_time: 2023-12-04 17:16:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/04/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/04/readout-of-principal-deputy-national-security-advisor-jon-finers-travel-to-india/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Travel\
   \ to\_India"

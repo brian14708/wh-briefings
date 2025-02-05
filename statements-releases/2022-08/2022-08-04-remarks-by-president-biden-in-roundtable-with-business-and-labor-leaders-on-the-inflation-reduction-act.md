@@ -2,7 +2,7 @@
 date: '2022-08-04'
 modified_time: 2022-08-04 17:20:35-04:00
 published_time: 2022-08-04 17:20:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/04/remarks-by-president-biden-in-roundtable-with-business-and-labor-leaders-on-the-inflation-reduction-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/04/remarks-by-president-biden-in-roundtable-with-business-and-labor-leaders-on-the-inflation-reduction-act/
 tags: statements-releases
 title: "Remarks by President\_Biden in Roundtable with Business and Labor Leaders\
   \ on the Inflation Reduction\_Act"

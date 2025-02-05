@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-11 09:08:58-04:00
 published_time: 2022-04-11 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/statement-by-president-joe-biden-on-the-rural-infrastructure-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/statement-by-president-joe-biden-on-the-rural-infrastructure-tour/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Rural Infrastructure\_Tour"
 ---

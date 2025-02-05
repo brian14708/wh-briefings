@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 09:38:36-05:00
 published_time: 2022-12-02 07:54:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-biden-harris-administrations-work-to-limit-anti-personnel-landmine-use/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/02/statement-by-nsc-spokesperson-adrienne-watson-on-biden-harris-administrations-work-to-limit-anti-personnel-landmine-use/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on\_Biden-\u2060Harris Administration\u2019\
   s Work to Limit Anti-Personnel Landmine\_Use"

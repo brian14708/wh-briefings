@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 07:27:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/07/president-biden-names-thirty-fourth-round-of-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-attorney/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/07/president-biden-names-thirty-fourth-round-of-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-attorney/
 tags: statements-releases
 title: "President\_Biden Names Thirty-Fourth Round of Judicial Nominees and One New\
   \ Nominee to Serve as U.S.\_Attorney"

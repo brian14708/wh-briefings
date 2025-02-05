@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 20:26:35-04:00
 published_time: 2022-06-06 20:26:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-head-of-the-foreign-relations-department-of-the-presidential-administration-of-azerbaija/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-head-of-the-foreign-relations-department-of-the-presidential-administration-of-azerbaija/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Head of the Foreign Relations Department of\

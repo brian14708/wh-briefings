@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-23'
 modified_time: 2021-12-23 10:11:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/23/summit-for-democracy-summary-of-proceedings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/23/summit-for-democracy-summary-of-proceedings/
 published_time: 2021-12-23 10:11:05-05:00
 title: "Summit for Democracy Summary of\_Proceedings"
 ---
@@ -50,7 +50,7 @@ be made available in January 2022.
 As part of the U.S. Government’s commitment to advance the Summit’s
 goals, President Biden announced the establishment of the [Presidential
 Initiative for Democratic
-Renewal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
+Renewal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/),
 a landmark set of new policy initiatives and foreign assistance programs
 that build upon the U.S. government’s ongoing work to bolster democracy,
 fight corruption, and defend human rights worldwide. Working with
@@ -85,7 +85,7 @@ also delivered remarks.
 DAY ONE
 
 [**In remarks launching the Summit for
-Democracy**](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-the-summit-for-democracy-opening-session/),
+Democracy**](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/09/remarks-by-president-biden-at-the-summit-for-democracy-opening-session/),
 **President Biden** urged collective action from attendees in the face
 of “sustained and alarming challenges to democracy \[and\] universal
 human rights.”  Calling democracy “an ongoing struggle to live up to our
@@ -95,7 +95,7 @@ best way to unleash human potential and defend human dignity and solve
 big problems.”  Additionally, President Biden noted progress made by his
 Administration on, and continued challenges to, strengthening American
 democracy ([Fact
-Sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/)),
+Sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-the-biden-harris-administration-is-taking-action-to-restore-and-strengthen-american-democracy/)),
 and urged the passage of several key bills to protect Americans’ right
 to vote and support continued sustainable and inclusive economic
 growth.  Internationally, he announced the Presidential Initiative on

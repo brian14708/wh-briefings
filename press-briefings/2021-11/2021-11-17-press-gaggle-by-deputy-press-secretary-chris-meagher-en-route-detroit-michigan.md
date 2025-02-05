@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-11-17'
 modified_time: 2021-11-17 21:37:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/11/17/press-gaggle-by-deputy-press-secretary-chris-meagher-en-route-detroit-michigan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/11/17/press-gaggle-by-deputy-press-secretary-chris-meagher-en-route-detroit-michigan/
 published_time: 2021-11-17 16:55:14-05:00
 title: "Press Gaggle by Deputy Press Secretary Chris Meagher En Route Detroit,\_Michigan"
 ---

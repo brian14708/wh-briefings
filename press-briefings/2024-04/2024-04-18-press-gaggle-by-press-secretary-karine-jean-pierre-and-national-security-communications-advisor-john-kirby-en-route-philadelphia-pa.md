@@ -1,7 +1,7 @@
 ---
 date: '2024-04-18'
 published_time: 2024-04-18 14:30:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/18/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/18/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-communications-advisor-john-kirby-en-route-philadelphia-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Communications\
   \ Advisor John Kirby En Route Philadelphia,\_PA"

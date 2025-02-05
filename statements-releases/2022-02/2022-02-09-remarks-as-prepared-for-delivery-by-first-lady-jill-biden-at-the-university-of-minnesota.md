@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-09'
 modified_time: 2022-02-09 14:51:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-university-of-minnesota/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/09/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-university-of-minnesota/
 published_time: 2022-02-09 14:51:16-05:00
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the University\
   \ of\_Minnesota"

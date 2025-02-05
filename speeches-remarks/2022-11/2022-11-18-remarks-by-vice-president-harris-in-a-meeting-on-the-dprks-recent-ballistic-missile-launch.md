@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 09:33:31-05:00
 published_time: 2022-11-18 09:33:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/18/remarks-by-vice-president-harris-in-a-meeting-on-the-dprks-recent-ballistic-missile-launch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/18/remarks-by-vice-president-harris-in-a-meeting-on-the-dprks-recent-ballistic-missile-launch/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Meeting on the DPRK\u2019s Recent Ballistic\
   \ Missile\_Launch"

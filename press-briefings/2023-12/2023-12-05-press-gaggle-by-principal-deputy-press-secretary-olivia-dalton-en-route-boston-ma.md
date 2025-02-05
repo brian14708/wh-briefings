@@ -2,7 +2,7 @@
 date: '2023-12-05'
 modified_time: 2023-12-06 09:57:44-05:00
 published_time: 2023-12-05 14:51:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/05/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-boston-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/05/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-en-route-boston-ma/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton En Route Boston,\_\
   MA"

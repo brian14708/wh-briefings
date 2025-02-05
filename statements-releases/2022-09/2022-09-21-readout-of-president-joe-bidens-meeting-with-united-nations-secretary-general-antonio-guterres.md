@@ -1,7 +1,7 @@
 ---
 date: '2022-09-21'
 published_time: 2022-09-21 15:11:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-united-nations-secretary-general-antonio-guterres/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-united-nations-secretary-general-antonio-guterres/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with United Nations Secretary-General\
   \ Ant\xF3nio\_Guterres"

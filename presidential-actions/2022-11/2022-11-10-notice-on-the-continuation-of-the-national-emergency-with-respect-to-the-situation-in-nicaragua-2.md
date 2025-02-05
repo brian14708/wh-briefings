@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-10 15:09:33-05:00
 published_time: 2022-11-10 15:09:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Situation\
   \ in\_Nicaragua"

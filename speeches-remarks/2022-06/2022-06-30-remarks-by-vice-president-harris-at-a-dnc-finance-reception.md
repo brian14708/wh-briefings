@@ -2,7 +2,7 @@
 date: '2022-06-30'
 modified_time: 2022-06-30 23:11:13-04:00
 published_time: 2022-06-30 23:11:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/30/remarks-by-vice-president-harris-at-a-dnc-finance-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/30/remarks-by-vice-president-harris-at-a-dnc-finance-reception/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a DNC Finance\_Reception"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 16:02:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neubergers-travel-to-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-for-cyber-and-emerging-technology-anne-neubergers-travel-to-india/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Deputy National Security\
   \ Advisor for Cyber and Emerging Technology Anne Neuberger\u2019s Travel to\_India"

@@ -2,7 +2,7 @@
 date: '2023-06-22'
 modified_time: 2023-06-22 15:48:10-04:00
 published_time: 2023-06-22 15:03:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/22/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/22/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Modi of the Republic of India\
   \ Before Bilateral\_Meeting"

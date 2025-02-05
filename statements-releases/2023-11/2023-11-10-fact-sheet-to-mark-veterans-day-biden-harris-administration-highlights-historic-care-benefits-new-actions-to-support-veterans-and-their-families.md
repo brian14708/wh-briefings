@@ -2,7 +2,7 @@
 date: '2023-11-10'
 modified_time: 2023-11-14 17:29:10-05:00
 published_time: 2023-11-10 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/10/fact-sheet-to-mark-veterans-day-biden-harris-administration-highlights-historic-care-benefits-new-actions-to-support-veterans-and-their-families/
 tags: statements-releases
 title: "FACT SHEET: To Mark Veterans Day, Biden-\u2060Harris Administration Highlights\
   \ Historic Care, Benefits & New Actions to Support Veterans and Their\_Families"
@@ -139,7 +139,7 @@ veterans and their families, including: 
 **Addressing toxic exposures. **The [bipartisan Sergeant First Class
 Heath Robinson Honoring our Promise to Address Comprehensive Toxics
 (PACT)
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) represents
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/fact-sheet-president-biden-signs-the-pact-act-and-delivers-on-his-promise-to-americas-veterans/) represents
 the most significant expansion in benefits and services for veterans in
 over thirty years. Since enactment, VA has received over 1.17 million
 PACT Act related claims since enactment and has granted toxic exposure
@@ -150,7 +150,7 @@ for toxic exposure.
   
 **Reducing veteran suicide. **Since releasing a comprehensive public
 health strategy for [reducing military and
-veteran](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
+veteran](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) suicide,
 the Biden-Harris Administration has continued to improve suicide
 prevention efforts. VA has provided no-cost life-saving care to more
 than 33,000 veterans at risk of suicide since January. VA awarded [$105
@@ -164,7 +164,7 @@ to confidential counseling to veterans in crisis.  
   
 **Ending veteran homelessness**. President Biden has called on Congress
 to [triple the number of
-veterans](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/) who
+veterans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/) who
 receive housing vouchers – a critical tool to help prevent veteran
 homelessness. In August, VA also issued $[1 billion in funding to
 community
@@ -201,11 +201,11 @@ families.
 **Advancing economic security for military and veteran spouses,
 caregivers, and survivors.** In June, the President, alongside First
 Lady Jill Biden, signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/09/executive-order-on-advancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/) to
 increase the economic security of military and veteran spouses,
 caregivers, and survivors. Since Day One of the Biden Administration,
 Dr. Biden, through her [*Joining
-Forces*](https://www.whitehouse.gov/joiningforces/) initiative, has
+Forces*](https://bidenwhitehouse.archives.gov/joiningforces/) initiative, has
 worked to eliminate barriers to employment and increase economic
 opportunity for military-connected families. The Executive Order
 included nearly 20 new actions aimed at enhancing career stability,
@@ -217,7 +217,7 @@ Strategic Plan.
 
 **Improving access to child and long-term care options. **Earlier this
 year, President Biden signed an historic [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) calling
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/) calling
 for more than 50 administrative actions that would improve access to and
 quality of child care and long-term care for Americans, including for
 our nation’s heroes. By the end of fiscal year 2024, each VA medical

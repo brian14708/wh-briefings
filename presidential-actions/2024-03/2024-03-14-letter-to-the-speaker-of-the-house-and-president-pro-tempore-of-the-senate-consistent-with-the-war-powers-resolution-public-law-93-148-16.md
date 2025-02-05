@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 16:46:35-04:00
 published_time: 2024-03-14 16:46:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/14/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148-16/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/14/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148-16/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President pro tempore of the Senate\
   \ consistent with the War Powers Resolution (Public Law\_93-148)"

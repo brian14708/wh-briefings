@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 18:13:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-pta-2024-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-pta-2024-legislative-conference/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the National\
   \ PTA 2024 Legislative\_Conference"

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-09'
 published_time: 2024-05-09 15:46:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/09/nominations-sent-to-the-senate-145/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/09/nominations-sent-to-the-senate-145/
 tags: presidential-actions
 title: "Nominations Sent to the\_Senate"
 ---

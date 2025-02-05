@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-14 13:42:35-05:00
 published_time: 2023-12-14 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-dozens-of-pharma-companies-raised-prices-faster-than-inflation-triggering-medicare-rebates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/fact-sheet-biden-harris-administration-announces-dozens-of-pharma-companies-raised-prices-faster-than-inflation-triggering-medicare-rebates/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Dozens of Pharma Companies\
   \ Raised Prices Faster than Inflation, Triggering Medicare\_Rebates"

@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-08 15:24:55-04:00
 published_time: 2022-06-07 19:32:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/07/background-press-call-by-senior-administration-officials-previewing-the-9th-summit-of-americas-health-systems-and-health-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/07/background-press-call-by-senior-administration-officials-previewing-the-9th-summit-of-americas-health-systems-and-health-security/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the 9th\
   \ Summit of Americas: Health Systems and Health\_Security"

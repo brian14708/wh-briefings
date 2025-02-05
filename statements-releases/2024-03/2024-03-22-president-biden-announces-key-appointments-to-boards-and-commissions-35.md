@@ -2,7 +2,7 @@
 date: '2024-03-22'
 modified_time: 2024-03-25 16:09:20-04:00
 published_time: 2024-03-22 15:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/22/president-biden-announces-key-appointments-to-boards-and-commissions-35/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/22/president-biden-announces-key-appointments-to-boards-and-commissions-35/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

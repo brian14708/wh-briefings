@@ -1,7 +1,7 @@
 ---
 date: '2022-09-21'
 published_time: 2022-09-21 22:01:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-prime-minister-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-prime-minister-kishida-of-japan/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Kishida\
   \ of\_Japan"

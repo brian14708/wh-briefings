@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 18:23:02-04:00
 published_time: 2022-09-16 18:23:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/icymi-week-of-climate-action-from-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/icymi-week-of-climate-action-from-the-biden-harris-administration/
 tags: statements-releases
 title: "ICYMI: Week of Climate Action from the Biden-\u2060Harris\_Administration"
 ---
@@ -23,7 +23,7 @@ with major executive actions across sectors to tackle the climate
 crisis:
 
 -   [**Electric
-    Vehicles**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/):
+    Vehicles**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/):
     At the Detroit Auto Show, President Biden highlighted the $85
     billion invested since he took office to make electric vehicles,
     batteries, and chargers in America. He also announced the
@@ -31,7 +31,7 @@ crisis:
     the first 35 state plans for EV charging made possible by the
     President’s Bipartisan Infrastructure Law.
 -   [**Offshore
-    Wind**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)**:** The
+    Wind**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/)**:** The
     Administration launched actions to drive U.S. leadership on floating
     offshore wind platforms, an emerging technology key to harnessing
     the clean energy potential of deep waters along the West Coast, Gulf
@@ -40,7 +40,7 @@ crisis:
     Administration set a new deployment goal of 15 gigawatts of floating
     offshore wind by 2035.
 -   [**Cleaner Industry & Construction
-    Materials**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)**:** The
+    Materials**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-buy-clean-actions-to-ensure-american-manufacturing-leads-in-the-21st-century/)**:** The
     Administration announced new actions under the Federal Buy Clean
     Initiative to prioritize purchase of lower-carbon steel, concrete,
     asphalt, and flat glass—materials that account for nearly half of
@@ -243,7 +243,7 @@ includes about $370 billion to fight climate change, some of it in the
 form of **tax credits and rebates to help consumers save thousands of
 dollars on energy-efficient appliances, plug-in vehicles and renewable
 electricity** for their homes . . . The Biden administration has created
-a [website](https://www.whitehouse.gov/cleanenergy/?utm_source=www.cleanenergy.gov) designed
+a [website](https://bidenwhitehouse.archives.gov/cleanenergy/?utm_source=www.cleanenergy.gov) designed
 to help you figure out which cars, appliances and home improvements will
 qualify for the tax credits and rebates.  
   

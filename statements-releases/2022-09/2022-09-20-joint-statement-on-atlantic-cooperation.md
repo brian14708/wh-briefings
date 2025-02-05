@@ -2,7 +2,7 @@
 date: '2022-09-20'
 modified_time: 2022-09-20 11:55:06-04:00
 published_time: 2022-09-20 11:55:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/joint-statement-on-atlantic-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/joint-statement-on-atlantic-cooperation/
 tags: statements-releases
 title: "Joint Statement on Atlantic\_Cooperation"
 ---

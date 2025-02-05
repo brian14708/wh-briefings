@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 17:33:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/readout-of-president-bidens-virtual-meetings-with-retailers-and-infant-formula-manufacturers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/readout-of-president-bidens-virtual-meetings-with-retailers-and-infant-formula-manufacturers/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Virtual Meetings with Retailers and Infant\
   \ Formula\_Manufacturers"

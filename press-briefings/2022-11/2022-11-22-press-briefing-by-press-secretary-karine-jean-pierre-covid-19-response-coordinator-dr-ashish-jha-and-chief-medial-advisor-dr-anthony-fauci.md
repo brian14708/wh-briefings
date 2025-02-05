@@ -1,7 +1,7 @@
 ---
 date: '2022-11-22'
 published_time: 2022-11-22 17:18:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/22/press-briefing-by-press-secretary-karine-jean-pierre-covid-19-response-coordinator-dr-ashish-jha-and-chief-medial-advisor-dr-anthony-fauci/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/22/press-briefing-by-press-secretary-karine-jean-pierre-covid-19-response-coordinator-dr-ashish-jha-and-chief-medial-advisor-dr-anthony-fauci/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, COVID-\u206019 Response\
   \ Coordinator Dr. Ashish Jha, and Chief Medial Advisor Dr. Anthony\_Fauci"

@@ -2,7 +2,7 @@
 date: '2022-11-03'
 modified_time: 2022-11-03 18:20:22-04:00
 published_time: 2022-11-03 18:32:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-to-overflow-crowd-at-rally-for-the-democratic-party/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-to-overflow-crowd-at-rally-for-the-democratic-party/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to Overflow Crowd at Rally for the Democratic\_\
   Party"

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 15:08:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-before-the-79th-session-of-the-united-nations-general-assembly-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-before-the-79th-session-of-the-united-nations-general-assembly-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before the 79th Session of the United Nations\
   \ General Assembly | New York,\_NY"

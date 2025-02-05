@@ -2,7 +2,7 @@
 date: '2023-08-11'
 modified_time: 2023-08-11 11:43:00-04:00
 published_time: 2023-08-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/11/president-biden-announces-c-kirabo-jackson-to-the-council-of-economic-advisers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/11/president-biden-announces-c-kirabo-jackson-to-the-council-of-economic-advisers/
 tags: statements-releases
 title: "President\_Biden Announces C. Kirabo Jackson to the Council of Economic\_\
   Advisers"

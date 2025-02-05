@@ -2,7 +2,7 @@
 date: '2023-03-08'
 modified_time: 2023-03-08 16:25:46-05:00
 published_time: 2023-03-08 16:11:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-international-women-of-courage-award-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/08/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-international-women-of-courage-award-ceremony/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the International\
   \ Women of Courage Award\_Ceremony"

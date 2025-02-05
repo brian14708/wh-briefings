@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 14:09:43-04:00
 published_time: 2024-10-17 14:09:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/statement-from-president-joe-biden-on-the-death-of-yahya-sinwar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/17/statement-from-president-joe-biden-on-the-death-of-yahya-sinwar/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Death of Yahya\_Sinwar"
 ---

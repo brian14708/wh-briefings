@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-14 10:03:09-04:00
 published_time: 2024-08-13 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/notice-on-the-continuation-of-the-national-emergency-with-respect-to-export-control-regulations-3/
 tags: statements-releases
 title: "Notice on the Continuation of the National Emergency With Respect to Export\
   \ Control\_Regulations"

@@ -2,7 +2,7 @@
 date: '2023-02-10'
 modified_time: 2023-02-10 10:54:07-05:00
 published_time: 2023-02-10 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/leaders-applaud-the-presidents-state-of-the-union-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/leaders-applaud-the-presidents-state-of-the-union-address/
 tags: statements-releases
 title: "Leaders Applaud the President\u2019s State of the Union\_Address"
 ---

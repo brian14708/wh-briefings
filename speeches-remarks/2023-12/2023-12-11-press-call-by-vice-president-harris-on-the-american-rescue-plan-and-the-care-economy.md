@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-13 09:41:53-05:00
 published_time: 2023-12-11 21:39:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/11/press-call-by-vice-president-harris-on-the-american-rescue-plan-and-the-care-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/11/press-call-by-vice-president-harris-on-the-american-rescue-plan-and-the-care-economy/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris on the American Rescue Plan and the Care\_\
   Economy"

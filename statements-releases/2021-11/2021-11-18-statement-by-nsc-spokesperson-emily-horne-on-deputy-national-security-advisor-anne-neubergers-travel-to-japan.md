@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-11-18'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-japan/
 published_time: 2021-11-18 19:29:08-05:00
 title: "Statement by NSC Spokesperson Emily Horne on Deputy National Security Advisor\
   \ Anne Neuberger\u2019s Travel to\_Japan"
@@ -37,12 +37,12 @@ and partners to impose costs on nation-states for malicious cyber
 activity, and disrupt the ransomware ecosystem; hosting an international
 counter-ransomware initiative at the White House in October with over 30
 countries and the European Union to [accelerate
-cooperation](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/) to
+cooperation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/14/joint-statement-of-the-ministers-and-representatives-from-the-counter-ransomware-initiative-meeting-october-2021/) to
 counter ransomware and launching a [Quad Senior Cyber
-Group](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/) to
+Group](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/24/fact-sheet-quad-leaders-summit/) to
 deepen cooperation in areas like secure technology, critical
 infrastructure and workforce. Last week, Neuberger was
-in [Brussels](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/) where
+in [Brussels](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/statement-by-nsc-spokesperson-emily-horne-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/) where
 she met with a range of EU officials and members of the European
 Parliament to discuss cybersecurity and emerging technology policies and
 consulted with the North Atlantic Council at NATO on ways to enhance

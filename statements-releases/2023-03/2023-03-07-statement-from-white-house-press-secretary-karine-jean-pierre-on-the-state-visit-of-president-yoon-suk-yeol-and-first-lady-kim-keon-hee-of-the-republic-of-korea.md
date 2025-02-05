@@ -1,7 +1,7 @@
 ---
 date: '2023-03-07'
 published_time: 2023-03-07 09:20:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-yoon-suk-yeol-and-first-lady-kim-keon-hee-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-yoon-suk-yeol-and-first-lady-kim-keon-hee-of-the-republic-of-korea/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the State\
   \ Visit of President Yoon Suk Yeol and First Lady Kim Keon Hee\_of the Republic\

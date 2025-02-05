@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-14 22:49:22-05:00
 published_time: 2022-12-14 22:49:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/14/remarks-by-president-biden-and-president-sall-of-the-republic-of-senegal-at-the-u-s-africa-leaders-summit-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/14/remarks-by-president-biden-and-president-sall-of-the-republic-of-senegal-at-the-u-s-africa-leaders-summit-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Sall of the Republic of Senegal\
   \ at the U.S.-Africa Leaders Summit\_Dinner"

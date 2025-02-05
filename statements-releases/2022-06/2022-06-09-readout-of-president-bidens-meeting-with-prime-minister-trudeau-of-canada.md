@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 16:23:20-04:00
 published_time: 2022-06-09 16:23:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/readout-of-president-bidens-meeting-with-prime-minister-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/readout-of-president-bidens-meeting-with-prime-minister-trudeau-of-canada/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Trudeau of\_\
   Canada"
@@ -26,7 +26,7 @@ The Leaders also discussed the potential of developing critical minerals
 in both countries and joint efforts to make our supply chains and
 economies more resilient to external shocks, including through the work
 of [the U.S.-Canada Supply Chain Working
-Group](https://www.whitehouse.gov/wp-content/uploads/2022/06/CANADA-U.S.-SUPPLY-CHAINS-PROGRESS-REPORT.pdf). 
+Group](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/CANADA-U.S.-SUPPLY-CHAINS-PROGRESS-REPORT.pdf). 
 As major energy producers, both Canada and the United States play key
 roles in supporting security and resilience of supply chains, but
 Leaders also emphasized a shared commitment to achieve net-zero

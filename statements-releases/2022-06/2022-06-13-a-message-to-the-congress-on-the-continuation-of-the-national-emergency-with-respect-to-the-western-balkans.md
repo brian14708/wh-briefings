@@ -1,7 +1,7 @@
 ---
 date: '2022-06-13'
 published_time: 2022-06-13 17:04:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-western-balkans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/a-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-western-balkans/
 tags: statements-releases
 title: "A Message to the Congress on the\_Continuation of the National Emergency with\
   \ Respect to the Western\_Balkans"

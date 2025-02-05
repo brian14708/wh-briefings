@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-15 13:51:01-04:00
 published_time: 2023-09-13 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-white-house-releases-new-technical-assistance-resources-to-help-communities-unlock-opportunities-from-president-bidens-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/fact-sheet-white-house-releases-new-technical-assistance-resources-to-help-communities-unlock-opportunities-from-president-bidens-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: White\_House Releases New Technical Assistance Resources to Help\
   \ Communities Unlock Opportunities from President\_Biden\u2019s Investing in America\_\
@@ -36,21 +36,21 @@ provide or fund technical advisors for lower-capacity communities, the
 Administration is ensuring all communities can access Federal funding.  
   
 Today, the White House released an [updated technical assistance
-guide ](https://www.whitehouse.gov/build/resources/technical-assistance-guide/)that
+guide ](https://bidenwhitehouse.archives.gov/build/resources/technical-assistance-guide/)that
 focuses on federal and state technical assistance programs aimed at
 accessing and deploying Bipartisan Infrastructure Law and Inflation
 Reduction Act funding. The updated technical assistance guide builds on
 the [Bipartisan Infrastructure Law’s
-Guidebook](https://www.whitehouse.gov/wp-content/uploads/2022/01/BUILDING-A-BETTER-AMERICA_FINAL.pdf),
-[Rural Playbook](https://www.whitehouse.gov/build/rural/), and [Tribal
-Playbook](https://www.whitehouse.gov/build/resources/bipartisan-infrastructure-law-tribal-playbook/),
+Guidebook](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/BUILDING-A-BETTER-AMERICA_FINAL.pdf),
+[Rural Playbook](https://bidenwhitehouse.archives.gov/build/rural/), and [Tribal
+Playbook](https://bidenwhitehouse.archives.gov/build/resources/bipartisan-infrastructure-law-tribal-playbook/),
 and the Inflation Reduction Act’s
-[Guidebook](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/)
-and [Tribal Playbook](https://www.whitehouse.gov/cleanenergy/tribes/).
+[Guidebook](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/)
+and [Tribal Playbook](https://bidenwhitehouse.archives.gov/cleanenergy/tribes/).
 This new guide highlights programs that help communities navigate
 programs and resources that can help them deliver infrastructure, clean
 energy and climate resilience projects. The White House also maintains a
-[webpage](https://www.whitehouse.gov/cleanenergy/directpay/) with
+[webpage](https://bidenwhitehouse.archives.gov/cleanenergy/directpay/) with
 resources on the Inflation Reduction Act’s “elective pay” (often called
 “direct pay”) provisions, through which tax-exempt and governmental
 entities can, for the first time, take advantage of tax credits for

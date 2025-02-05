@@ -1,7 +1,7 @@
 ---
 date: '2024-07-16'
 published_time: 2024-07-16 16:47:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/16/notice-on-the-continuation-of-the-national-emergency-with-respect-to-transnational-criminal-organizations-3/
 tags: presidential-actions
 title: Notice on the Continuation of the National Emergency With Respect to Transnational
   Criminal Organizations

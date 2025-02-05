@@ -2,7 +2,7 @@
 date: '2022-10-14'
 modified_time: 2022-10-14 18:16:18-04:00
 published_time: 2022-10-14 18:16:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/readout-of-homeland-security-advisor-dr-liz-sherwood-randalls-visit-to-qatar/
 tags: statements-releases
 title: "Readout of Homeland Security Advisor Dr. Liz Sherwood-Randall\u2019s Visit\
   \ to\_Qatar"

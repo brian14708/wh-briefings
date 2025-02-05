@@ -1,7 +1,7 @@
 ---
 date: '2023-11-07'
 published_time: 2023-11-07 16:08:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/07/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/07/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Iran"

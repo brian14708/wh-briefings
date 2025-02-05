@@ -1,7 +1,7 @@
 ---
 date: '2023-11-19'
 published_time: 2023-11-19 18:12:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/19/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-former-first-lady-rosalynn-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/19/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-former-first-lady-rosalynn-carter/
 tags: statements-releases
 title: "Statement from President Joe\_Biden and First Lady Jill\_Biden on the Passing\
   \ of Former First Lady Rosalynn\_Carter"

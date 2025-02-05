@@ -2,7 +2,7 @@
 date: '2023-06-08'
 modified_time: 2023-06-08 21:22:36-04:00
 published_time: 2023-06-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-caribbean-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/08/fact-sheet-vice-president-harris-announces-new-initiatives-to-strengthen-u-s-caribbean-partnership/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New Initiatives to Strengthen\
   \ U.S-Caribbean\_Partnership"

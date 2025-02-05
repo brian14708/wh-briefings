@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 20:54:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-trust-for-the-national-malls-ball-for-the-mall/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-trust-for-the-national-malls-ball-for-the-mall/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Trust for\
   \ the National Mall\u2019s Ball for the\_Mall"

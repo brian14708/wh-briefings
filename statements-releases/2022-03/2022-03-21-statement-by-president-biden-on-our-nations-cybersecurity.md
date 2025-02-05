@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-21'
 modified_time: 2022-03-21 15:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/
 published_time: 2022-03-21 14:00:00-04:00
 title: "Statement by President\_Biden on our Nation\u2019s\_Cybersecurity"
 ---
@@ -41,7 +41,7 @@ and networks
 
 If you have not already done so, I urge our private sector partners to
 [harden your cyber defenses
-immediately](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/)
+immediately](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/21/fact-sheet-act-now-to-protect-against-potential-cyberattacks/)
 by implementing the best practices we have developed together over the
 last year. You have the power, the capacity, and the responsibility to
 strengthen the cybersecurity and resilience of the critical services and

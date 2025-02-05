@@ -2,7 +2,7 @@
 date: '2024-12-02'
 modified_time: 2024-12-03 10:56:02-05:00
 published_time: 2024-12-02 08:53:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/readout-of-president-joe-bidens-meeting-with-prime-minister-ulisses-correia-e-silva-of-the-republic-of-cabo-verde/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/readout-of-president-joe-bidens-meeting-with-prime-minister-ulisses-correia-e-silva-of-the-republic-of-cabo-verde/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Ulisses\
   \ Correia e Silva of the Republic of Cabo\_Verde"

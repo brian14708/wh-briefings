@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 14:10:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-the-new-small-business-boom-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/25/fact-sheet-the-new-small-business-boom-under-the-biden-harris-administration/
 published_time: 2022-01-25 14:10:12-05:00
 title: "Fact Sheet: The New Small Business Boom Under the Biden-\u2060Harris\_Administration"
 ---
@@ -68,7 +68,7 @@ Administration is:
 -   **Increasing access to billions of dollars in federal contracts for
     small businesses.** Last year, the Biden-Harris Administration
     [announced its
-    strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+    strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
     for increasing the share of federal procurement dollars that go to
     socially disadvantaged businesses by 50% by 2025.  President Biden’s
     Bipartisan Infrastructure Law also includes a historic procurement

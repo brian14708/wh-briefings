@@ -2,7 +2,7 @@
 date: '2023-11-30'
 modified_time: 2023-11-30 17:15:23-05:00
 published_time: 2023-11-30 17:15:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/30/a-proclamation-on-world-aids-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/30/a-proclamation-on-world-aids-day-2023/
 tags: presidential-actions
 title: "A Proclamation on World AIDS Day,\_2023"
 ---

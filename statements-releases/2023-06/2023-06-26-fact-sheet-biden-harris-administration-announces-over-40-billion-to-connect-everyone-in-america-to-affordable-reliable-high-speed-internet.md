@@ -2,7 +2,7 @@
 date: '2023-06-26'
 modified_time: 2023-06-26 15:05:10-04:00
 published_time: 2023-06-26 11:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-over-40-billion-to-connect-everyone-in-america-to-affordable-reliable-high-speed-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/fact-sheet-biden-harris-administration-announces-over-40-billion-to-connect-everyone-in-america-to-affordable-reliable-high-speed-internet/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces Over $40 Billion to\
   \ Connect Everyone in America to Affordable, Reliable, High-Speed\_Internet"
@@ -79,7 +79,7 @@ awards](https://www.usda.gov/media/press-releases/2023/06/12/biden-harris-admini
 [over $900 million in NTIA Middle Mile
 awards](https://www.commerce.gov/news/press-releases/2023/06/biden-harris-administration-announces-930-million-expand-and-strengthen)
 and launched the [Online for All campaign to increase ACP enrollment and
-visibility](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administration-and-civic-nation-bring-together-over-300-national-and-community-organizations-to-help-students-and-families-cut-costs-and-access-affordable-high-speed-internet/).
+visibility](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administration-and-civic-nation-bring-together-over-300-national-and-community-organizations-to-help-students-and-families-cut-costs-and-access-affordable-high-speed-internet/).
   Beyond BEAD, billions have already been announced or distributed to
 all states and territories to build out high-speed internet
 infrastructure by the Biden-Harris Administration.

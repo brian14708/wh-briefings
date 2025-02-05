@@ -2,7 +2,7 @@
 date: '2023-03-30'
 modified_time: 2023-03-29 20:26:49-04:00
 published_time: 2023-03-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Private and Public\
   \ Sector Investments for Affordable Electric\_Vehicles"
@@ -17,7 +17,7 @@ vehicle sales be electric by 2030, the White House is announcing the
 first set of public and private commitments to support America’s
 historic transition to electric vehicles (EV) under the EV Acceleration
 Challenge. These commitments are part of President Biden’s [Investing in
-America](https://www.whitehouse.gov/invest/) agenda to spur domestic
+America](https://bidenwhitehouse.archives.gov/invest/) agenda to spur domestic
 manufacturing, strengthen supply chains, boost U.S. competitiveness and
 create good-paying jobs. Because of President Biden’s leadership and
 historic investments, electric vehicle sales have tripled and the number
@@ -40,7 +40,7 @@ These incentives will lower the cost of EVs and EV charging
 infrastructure; increase consumer demand and competition; promote equity
 and inclusion; and accelerate the growth of the EV market. The White
 House announced the [EV Acceleration
-Challenge](https://www.whitehouse.gov/cleanenergy/ev-acceleration-challenge/)
+Challenge](https://bidenwhitehouse.archives.gov/cleanenergy/ev-acceleration-challenge/)
 to bring a clean, safe, affordable, and reliable transportation future
 to Americans even faster.
 
@@ -80,7 +80,7 @@ transition to electric vehicles. State and local governments are also
 leveraging federal funds to expand electrification of their vehicle
 fleets. These announcements build on the EV charging network expansion
 and manufacturing announcements [highlighted by the White House in
-February](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/),
+February](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/),
 which will add more than 100,000 public chargers across the country.
 Announcements being spotlighted today fall into four categories:
 Consumer Education and Support, Tools and Resources, EV Fleet Expansion,
@@ -201,7 +201,7 @@ basis. The White House will be highlighting additional commitments soon
 including many more that were already submitted.
 
 Organizations can submit a commitment on the [EV Acceleration
-Challenge](https://www.whitehouse.gov/cleanenergy/ev-acceleration-challenge/)
+Challenge](https://bidenwhitehouse.archives.gov/cleanenergy/ev-acceleration-challenge/)
 landing page.
 
 \###

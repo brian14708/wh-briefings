@@ -1,7 +1,7 @@
 ---
 date: '2022-05-09'
 published_time: 2022-05-09 16:53:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/09/statement-by-president-joe-biden-on-funding-for-covid-19-and-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/09/statement-by-president-joe-biden-on-funding-for-covid-19-and-ukraine/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Funding for COVID-\u206019 and\_Ukraine"
 ---

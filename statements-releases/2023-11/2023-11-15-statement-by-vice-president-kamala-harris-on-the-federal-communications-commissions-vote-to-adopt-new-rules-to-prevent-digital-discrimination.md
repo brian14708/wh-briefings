@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-15 16:05:10-05:00
 published_time: 2023-11-15 16:05:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/15/statement-by-vice-president-kamala-harris-on-the-federal-communications-commissions-vote-to-adopt-new-rules-to-prevent-digital-discrimination/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/15/statement-by-vice-president-kamala-harris-on-the-federal-communications-commissions-vote-to-adopt-new-rules-to-prevent-digital-discrimination/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Federal Communications Commission\u2019\
   s Vote to Adopt New Rules to Prevent Digital Discrimination"

@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-10-15'
 modified_time: 2021-10-15 19:50:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/15/remarks-by-president-biden-before-air-force-one-departure-8/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/10/15/remarks-by-president-biden-before-air-force-one-departure-8/
 published_time: 2021-10-15 20:00:00-04:00
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

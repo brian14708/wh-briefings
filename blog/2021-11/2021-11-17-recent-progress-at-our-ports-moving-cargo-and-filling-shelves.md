@@ -2,13 +2,13 @@
 tags: blog
 date: '2021-11-17'
 modified_time: 2021-12-15 16:28:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/11/17/recent-progress-at-our-ports-moving-cargo-and-filling-shelves/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/17/recent-progress-at-our-ports-moving-cargo-and-filling-shelves/
 published_time: 2021-11-17 16:12:41-05:00
 title: "Recent Progress at Our Ports: Moving Cargo and Filling\_Shelves"
 ---
  
 Earlier this month, [we
-announced](https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
+announced](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
 that we would, twice a month, track how well our nation’s transportation
 and logistics supply chain is handling the increase in demand for goods
 as we recover from the pandemic. With the data for the full month of
@@ -31,10 +31,10 @@ one-third over the first two weeks of November.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg"
 class="wp-image-38699" loading="lazy"
 sizes="(max-width: 936px) 100vw, 936px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg 936w, https://www.whitehouse.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg?resize=615,319 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg?resize=768,399 768w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg 936w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg?resize=615,319 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/11_17-dashboard.jpg?resize=768,399 768w"
 width="936" height="486" />
 </figure>
 
@@ -70,10 +70,10 @@ supply. Its U.S. inventory rose 11.5% in the quarter.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg"
 class="wp-image-38701" loading="lazy"
 sizes="(max-width: 1076px) 100vw, 1076px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg 1076w, https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=615,381 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=768,475 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=1034,640 1034w, https://www.whitehouse.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=1038,642 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg 1076w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=615,381 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=768,475 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=1034,640 1034w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/LA-Port-1117.jpg?resize=1038,642 1038w"
 width="1076" height="666" />
 </figure>
 
@@ -113,7 +113,7 @@ non-containerized exports, which include items such as corn and rice and
 are up eight percent. However, approximately one quarter of agricultural
 exports by ship—which includes goods like cotton and fresh fruit— move
 by container and those volumes are down 2 percent this year. [Our
-work](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
+work](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
 to reduce congestion at the Port of Savannah—the top containerized
 agricultural export port in the country by [number of
 containers](https://gaports.com/press-releases/savannah-now-the-top-us-port-for-ag-exports/)—should
@@ -149,7 +149,7 @@ rot.
 
 In July, the President called attention to these problems in his
 [ Executive Order on Promoting Competition in the American
-Economy](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/),
+Economy](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/),
 which encouraged the Federal Maritime Commission to vigorously enforce
 the prohibition against ocean carriers charging unfair fees to exporters
 and importers. The Federal Maritime Commission, which has jurisdiction

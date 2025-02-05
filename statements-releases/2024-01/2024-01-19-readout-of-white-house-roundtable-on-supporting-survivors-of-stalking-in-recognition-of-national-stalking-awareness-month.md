@@ -2,7 +2,7 @@
 date: '2024-01-19'
 modified_time: 2024-01-19 19:19:48-05:00
 published_time: 2024-01-19 19:19:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/19/readout-of-white-house-roundtable-on-supporting-survivors-of-stalking-in-recognition-of-national-stalking-awareness-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/19/readout-of-white-house-roundtable-on-supporting-survivors-of-stalking-in-recognition-of-national-stalking-awareness-month/
 tags: statements-releases
 title: "Readout of White\_House Roundtable on Supporting Survivors of Stalking in\
   \ Recognition of National Stalking Awareness\_Month"

@@ -2,7 +2,7 @@
 date: '2024-01-22'
 modified_time: 2024-01-23 11:16:19-05:00
 published_time: 2024-01-22 23:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/22/press-briefing-by-press-secretary-karine-jean-pierre-gender-policy-council-director-jennifer-klein-and-nsc-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/22/press-briefing-by-press-secretary-karine-jean-pierre-gender-policy-council-director-jennifer-klein-and-nsc-coordinator-for-strategic-communications-john-kirby/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, Gender Policy Council\
   \ Director Jennifer Klein, and NSC Coordinator for Strategic Communications John\_\

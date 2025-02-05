@@ -1,7 +1,7 @@
 ---
 date: '2023-10-31'
 published_time: 2023-10-31 11:52:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-release-of-the-2023-women-peace-and-security-strategy-and-national-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-release-of-the-2023-women-peace-and-security-strategy-and-national-action-plan/
 tags: statements-releases
 title: "FACT SHEET: Release of the 2023 Women, Peace and Security Strategy and National\
   \ Action\_Plan"
@@ -15,7 +15,7 @@ stability.
   
 Today, the Biden-Harris Administration is proud to release the [2023
 Women, Peace, and Security Strategy (WPS) and National Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf). 
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf). 
 With this Strategy, we renew our commitment to United Nations Security
 Council Resolution 1325, consistent with the Women, Peace, and Security
 Act of 2017, which codified our decades-long, sustained commitment to
@@ -59,7 +59,7 @@ Strategy to Prevent and Respond to Gender-Based Violence
 Globally](https://www.state.gov/reports/united-states-strategy-to-prevent-and-respond-to-gender-based-violence-globally-2022/). 
 WPS is also a core priority in our [National Strategy on Gender Equity
 and
-Equality](https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
+Equality](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/National-Strategy-on-Gender-Equity-and-Equality.pdf),
 which enshrines the advancement of gender equity and equality as a
 strategic imperative across U.S. domestic and foreign policy.  Since the
 start of the Biden-Harris Administration, the President and Vice
@@ -77,20 +77,20 @@ Biden-Harris Administration has:  
     U.S. military. **As Commander-in-Chief, President Biden has made it
     a top priority to eliminate obstacles to women’s military service
     through [unprecedented
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/12/fact-sheet-biden-administration-celebrates-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/) to
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/12/fact-sheet-biden-administration-celebrates-the-75th-anniversary-of-womens-integration-in-to-the-armed-forces/) to
     promote their safety, inclusion, health and wellbeing, including by
     advancing [historic military justice
-    reform](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) and
+    reform](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-president-biden-to-sign-executive-order-implementing-bipartisan-military-justice-reforms/) and
     expanding support for military survivors of gender-based violence as
     recommended by the [Independent Review
-    Commission](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/) on
+    Commission](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/02/statement-of-president-joe-biden-on-the-results-of-the-independent-review-commission-on-military-sexual-assault/) on
     Sexual Assault in the Military. Under the Biden-Harris
     Administration, women commanders have risen to unprecedented ranks,
     including [Admiral Lisa
-    Franchetti,](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/statement-of-president-joe-biden-on-the-nomination-of-military-leaders) nominated
+    Franchetti,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/statement-of-president-joe-biden-on-the-nomination-of-military-leaders) nominated
     to be the first woman to serve as the Chief of Naval Operations and
     on the Joint Chiefs of Staff, and [Admiral Linda
-    Fagan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/),
+    Fagan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-biden-on-the-confirmation-of-admiral-linda-l-fagan-as-uscg-commandant/),
     Commandant of the U.S. Coast Guard, the Coast Guard’s first woman to
     hold the rank of four-star admiral and the first woman Service Chief
     of any U.S. military service.
@@ -122,7 +122,7 @@ Biden-Harris Administration has:  
     implementation in eight focus countries: Côte d’Ivoire, Nigeria,
     Tanzania, Colombia, Ecuador, Honduras, Kyrgyz Republic, and Yemen.
     At the [second Summit for
-    Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/),
+    Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/the-status-of-women-is-the-status-of-democracy-advancing-womens-political-and-civic-participation-and-leadership-at-the-second-summit-for-democracy/),
     USAID also launched the *Transform Digital Spaces Initiative*, with
     investments of up to $6 million over three years, to prevent and
     address technology-facilitated gender-based violence, especially
@@ -177,20 +177,20 @@ crisis**. To date, the Biden-Harris Administration has:  
 
 -   **Promoted accountability for conflict-related sexual violence. **In
     November 2022, President Biden signed the [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/) on
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/) on
     Promoting Accountability for Conflict-Related Sexual Violence,
     directing the U.S. government to use all existing tools to promote
     accountability for perpetrators of CRSV globally, including those
     pertaining to sanctions, visa eligibility, and security assistance.
     In June 2023, the Biden-Harris Administration
-    imposed [sanctions](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/) targeting
+    imposed [sanctions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/) targeting
     actors who perpetrate this abuse—marking the first time that a
     dedicated focus on conflict-related sexual violence in furtherance
     of the Presidential Memorandum has led to the imposition of U.S.
     sanctions. President Biden has further integrated a focus on
     accountability for conflict-related sexual violence and all acts of
     GBV through the [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/04/executive-order-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/) on
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/04/executive-order-on-imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic-transition/) on
     Imposing Sanctions on Certain Persons Destabilizing Sudan and
     Undermining the Goal of a Democratic Transition.  
      
@@ -211,7 +211,7 @@ protection of women and girls in crisis and conflict, including by:
     that undermines sustainable development, child, early and forced
     marriage is associated with lower rates of economic productivity and
     national stability. On [International Day of the Girl
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/),
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/),
     the Biden-Harris Administration announced that for the first time,
     the United States will contribute to the United Nations Children’s
     Fund (UNICEF)–United Nations Population Fund (UNFPA) Global Program
@@ -269,7 +269,7 @@ date, the Biden-Harris Administration has:  
 -   **Incorporated WPS across Global Fragility Act implementation. **In
     selecting partner locations for implementation of the [Global
     Fragility Act and Strategy to Prevent Conflict and Promote
-    Stability](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-president-biden-submits-to-congress-10-year-plans-to-implement-the-u-s-strategy-to-prevent-conflict-and-promote-stability/) (GFA),
+    Stability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-president-biden-submits-to-congress-10-year-plans-to-implement-the-u-s-strategy-to-prevent-conflict-and-promote-stability/) (GFA),
     the Biden-Harris Administration measured gender inequality as a key
     indicator of potential instability. Extensive stakeholder
     consultations were held with women leaders, women-led organizations,
@@ -292,7 +292,7 @@ date, the Biden-Harris Administration has:  
     elevate women’s participation in environmental policy development
     and decision-making. In the [President’s Emergency Plan for
     Adaptation and
-    Resilience](https://www.whitehouse.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf),
+    Resilience](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf),
     the U.S. government  creates adaptation programs with a focus on
     gender, inclusive development and conflict sensitivity
     considerations.

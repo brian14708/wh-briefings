@@ -1,7 +1,7 @@
 ---
 date: '2023-04-21'
 published_time: 2023-04-21 16:39:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/a-proclamation-on-earth-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/21/a-proclamation-on-earth-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Earth Day,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2024-11-12'
 modified_time: 2024-11-13 11:35:35-05:00
 published_time: 2024-11-12 22:50:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-president-joseph-r-biden-and-president-prabowo-subianto-commemorate-75-years-of-diplomatic-relations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-president-joseph-r-biden-and-president-prabowo-subianto-commemorate-75-years-of-diplomatic-relations/
 tags: statements-releases
 title: "FACT SHEET: President Joseph R. Biden and President Prabowo Subianto Commemorate\
   \ 75 Years of Diplomatic\_Relations"

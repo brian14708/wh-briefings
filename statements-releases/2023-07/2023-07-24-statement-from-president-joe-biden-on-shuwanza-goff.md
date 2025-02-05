@@ -1,7 +1,7 @@
 ---
 date: '2023-07-24'
 published_time: 2023-07-24 12:21:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/24/statement-from-president-joe-biden-on-shuwanza-goff/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/24/statement-from-president-joe-biden-on-shuwanza-goff/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Shuwanza\_Goff"
 ---

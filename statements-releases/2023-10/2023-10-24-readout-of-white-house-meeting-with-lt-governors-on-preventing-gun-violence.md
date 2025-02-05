@@ -1,7 +1,7 @@
 ---
 date: '2023-10-24'
 published_time: 2023-10-24 17:57:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/24/readout-of-white-house-meeting-with-lt-governors-on-preventing-gun-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/24/readout-of-white-house-meeting-with-lt-governors-on-preventing-gun-violence/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Lt. Governors on Preventing Gun\_Violence"
 ---

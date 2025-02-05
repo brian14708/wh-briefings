@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-02-04'
 modified_time: 2022-02-17 11:45:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/04/remarks-by-vice-president-harris-at-signing-of-an-executive-order-on-project-labor-agreements/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/04/remarks-by-vice-president-harris-at-signing-of-an-executive-order-on-project-labor-agreements/
 published_time: 2022-02-04 14:06:00-05:00
 title: "Remarks by Vice President Harris at Signing of an Executive Order on Project\
   \ Labor\_Agreements"

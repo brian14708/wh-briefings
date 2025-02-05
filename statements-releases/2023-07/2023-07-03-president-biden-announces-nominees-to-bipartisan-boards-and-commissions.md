@@ -2,7 +2,7 @@
 date: '2023-07-03'
 modified_time: 2023-07-03 14:30:27-04:00
 published_time: 2023-07-03 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/03/president-biden-announces-nominees-to-bipartisan-boards-and-commissions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/03/president-biden-announces-nominees-to-bipartisan-boards-and-commissions/
 tags: statements-releases
 title: "President\_Biden Announces Nominees to Bipartisan Boards and\_Commissions"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-14 12:35:51-04:00
 published_time: 2022-05-13 12:34:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-vice-president-harris-in-a-meeting-on-climate-at-the-u-s-asean-special-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/13/remarks-by-vice-president-harris-in-a-meeting-on-climate-at-the-u-s-asean-special-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Meeting on Climate at the U.S.-ASEAN\
   \ Special\_Summit"

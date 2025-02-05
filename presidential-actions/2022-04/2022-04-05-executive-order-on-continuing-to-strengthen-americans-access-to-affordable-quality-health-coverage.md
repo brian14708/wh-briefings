@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 15:03:22-04:00
 published_time: 2022-04-05 15:03:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/executive-order-on-continuing-to-strengthen-americans-access-to-affordable-quality-health-coverage/
 tags: presidential-actions
 title: "Executive Order on Continuing to Strengthen Americans\u2019 Access to Affordable,\
   \ Quality Health\_Coverage"

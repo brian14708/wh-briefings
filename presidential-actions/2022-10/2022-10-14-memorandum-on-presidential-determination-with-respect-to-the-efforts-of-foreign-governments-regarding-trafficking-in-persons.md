@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 15:43:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/14/memorandum-on-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/14/memorandum-on-presidential-determination-with-respect-to-the-efforts-of-foreign-governments-regarding-trafficking-in-persons/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination with Respect to the Efforts of Foreign\
   \ Governments Regarding Trafficking in\_Persons"

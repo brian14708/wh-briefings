@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 17:56:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-career-connected-learning-round-table/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-career-connected-learning-round-table/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Career-Connected\
   \ Learning Round\_Table"

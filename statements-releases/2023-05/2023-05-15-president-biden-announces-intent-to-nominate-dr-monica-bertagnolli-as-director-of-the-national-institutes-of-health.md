@@ -1,7 +1,7 @@
 ---
 date: '2023-05-15'
 published_time: 2023-05-15 10:33:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/15/president-biden-announces-intent-to-nominate-dr-monica-bertagnolli-as-director-of-the-national-institutes-of-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/15/president-biden-announces-intent-to-nominate-dr-monica-bertagnolli-as-director-of-the-national-institutes-of-health/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Nominate Dr. Monica Bertagnolli as Director\
   \ of the National Institutes of\_Health"

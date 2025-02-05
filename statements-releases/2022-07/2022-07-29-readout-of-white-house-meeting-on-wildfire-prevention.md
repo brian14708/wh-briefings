@@ -1,7 +1,7 @@
 ---
 date: '2022-07-29'
 published_time: 2022-07-29 11:38:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/readout-of-white-house-meeting-on-wildfire-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/readout-of-white-house-meeting-on-wildfire-prevention/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Wildfire\_Prevention"
 ---
@@ -20,7 +20,7 @@ The total number of acres burned this year is 72% above the 10-year
 average. Homeland Security Advisor Sherwood-Randall emphasized [the
 President’s direction to rapidly improve our collective prevention,
 preparedness, and response
-capabilities](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/)through
+capabilities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/)through
 close partnerships with State, local, Tribal, and territorial
 governments and the private sector. She also recognized that the
 Inflation Reduction Act, if enacted, will bolster national resilience by

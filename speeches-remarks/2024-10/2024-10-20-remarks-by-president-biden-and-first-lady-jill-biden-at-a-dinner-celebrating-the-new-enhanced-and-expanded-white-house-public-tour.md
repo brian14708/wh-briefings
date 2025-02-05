@@ -2,7 +2,7 @@
 date: '2024-10-20'
 modified_time: 2024-10-21 11:33:14-04:00
 published_time: 2024-10-20 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/20/remarks-by-president-biden-and-first-lady-jill-biden-at-a-dinner-celebrating-the-new-enhanced-and-expanded-white-house-public-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/20/remarks-by-president-biden-and-first-lady-jill-biden-at-a-dinner-celebrating-the-new-enhanced-and-expanded-white-house-public-tour/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at a Dinner Celebrating\
   \ the New Enhanced and Expanded White\_House Public\_Tour"

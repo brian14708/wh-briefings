@@ -2,7 +2,7 @@
 date: '2022-10-19'
 modified_time: 2022-10-19 16:13:49-04:00
 published_time: 2022-10-19 13:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2022/10/19/takingcareofmilitaryfamiliesiscaringforournationalsecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/19/takingcareofmilitaryfamiliesiscaringforournationalsecurity/
 tags: blog
 title: "Taking Care of Military Families is Critical for Our National\_Security"
 ---
@@ -41,7 +41,7 @@ directly linked to national security confirms that our SOF units are on
 the cutting edge in more areas than just tactics.
 
 Dr. Biden [shared her gratitude and
-appreciation](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-u-s-army-fort-benning/)
+appreciation](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-u-s-army-fort-benning/)
 , specifically to the family members in the room. Afterwards, she went
 table to table to speak with each command team to hear directly from
 military spouses and soldiers about the challenges they are facing in
@@ -76,7 +76,7 @@ After a full day of teaching at the community college, Dr. Biden
 assembled her senior advisors and the Joining Forces team to ensure we
 had a strategy to address the concerns that were raised. Many issues
 raised aligned directly with the focus areas of the [Joining
-Forces](https://www.whitehouse.gov/joiningforces/) initiative . I walked
+Forces](https://bidenwhitehouse.archives.gov/joiningforces/) initiative . I walked
 away from that AAR encouraged that we were not shying away from hard
 problems, but instead facing them head on and working to support
 military families, in big and small ways.

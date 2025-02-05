@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-05-17'
 modified_time: 2021-05-18 14:39:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-administration-accelerates-efforts-to-create-jobs-making-american-buildings-more-affordable-cleaner-and-resilient/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/17/fact-sheet-biden-administration-accelerates-efforts-to-create-jobs-making-american-buildings-more-affordable-cleaner-and-resilient/
 published_time: 2021-05-17 16:15:00-04:00
 title: "FACT SHEET: Biden Administration Accelerates Efforts to Create Jobs Making\
   \ American Buildings More Affordable, Cleaner, and\_Resilient"
@@ -37,7 +37,7 @@ standards program to save consumers money through energy efficient
 appliances and equipment. The President recognizes the opportunity that
 retrofitting and modernizing our nation’s existing buildings presents,
 which is why his [American Jobs
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/)
 American Jobs Plan promises to build, rehabilitate, and retrofit more
 than two million homes across the country while also improving our
 nation’s federal facilities. This effort will create new domestic

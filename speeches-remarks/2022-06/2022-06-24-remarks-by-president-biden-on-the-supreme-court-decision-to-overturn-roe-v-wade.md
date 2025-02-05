@@ -2,7 +2,7 @@
 date: '2022-06-24'
 modified_time: 2022-06-25 14:53:32-04:00
 published_time: 2022-06-24 14:58:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Supreme Court Decision to Overturn Roe\
   \ v.\_Wade"

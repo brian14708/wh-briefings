@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-13 21:41:46-05:00
 published_time: 2023-12-14 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/
 tags: statements-releases
 title: "The Congressional Republican Agenda on Prescription Drugs: Giveaways to Big\
   \ Pharma and Higher Costs for Seniors and\_Families"
@@ -51,7 +51,7 @@ provision [would](https://www.cbo.gov/system/files/2023-02/58850-IRA-Drug-Provs
 
 **Opposing caps on insulin prices. **Monthly insulin costs for Medicare
 beneficiaries are
-now [capped](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/) at
+now [capped](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/) at
 $35—providing certainty and critical cost savings for seniors who in
 some cases were paying as much as $400 for a month’s supply of insulin.
 The Republican Study
@@ -66,7 +66,7 @@ insulin [could](https://aspe.hhs.gov/sites/default/files/documents/bd5568fa0e8a
 their annual costs rise by an average of $500.  
   
 **Protecting Big Pharma’s ability to avoid paying taxes. **President
-Biden [negotiated](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-president-biden-and-g7-leaders-to-announce-steps-to-forge-a-more-fair-and-inclusive-global-economy/) a
+Biden [negotiated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/11/fact-sheet-president-biden-and-g7-leaders-to-announce-steps-to-forge-a-more-fair-and-inclusive-global-economy/) a
 historic agreement with over 130 countries that would enable the U.S.
 and its partners to ensure Big Pharma and other multinationals pay at
 least a minimum tax rate and has proposed that the U.S. implement that

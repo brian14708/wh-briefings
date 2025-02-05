@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-28 17:47:09-04:00
 published_time: 2024-07-29 10:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/statement-from-president-joe-biden-on-protecting-600000-teamster-pensions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/statement-from-president-joe-biden-on-protecting-600000-teamster-pensions/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Protecting 600,000 Teamster\_Pensions"
 ---

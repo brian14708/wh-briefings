@@ -2,7 +2,7 @@
 date: '2024-10-01'
 modified_time: 2024-10-01 12:07:30-04:00
 published_time: 2024-10-01 15:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/01/statement-from-president-joe-biden-on-the-occasion-of-president-sheinbaums-inauguration-in-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/01/statement-from-president-joe-biden-on-the-occasion-of-president-sheinbaums-inauguration-in-mexico/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Occasion of President Sheinbaum\u2019\
   s Inauguration in\_Mexico"

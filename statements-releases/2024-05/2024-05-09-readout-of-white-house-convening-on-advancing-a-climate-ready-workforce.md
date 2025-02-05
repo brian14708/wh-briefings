@@ -1,7 +1,7 @@
 ---
 date: '2024-05-09'
 published_time: 2024-05-09 13:32:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/09/readout-of-white-house-convening-on-advancing-a-climate-ready-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/09/readout-of-white-house-convening-on-advancing-a-climate-ready-workforce/
 tags: statements-releases
 title: "Readout of White\_House Convening on Advancing a Climate-Ready\_Workforce"
 ---
@@ -40,7 +40,7 @@ Inflation Reduction Act – and unleashing a clean energy manufacturing
 boom that has attracted hundreds of billions in private sector
 investment and created over 270,000 new clean energy jobs. And just last
 month, President Biden announced [several new critical
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/)
 to stand up the American Climate Corps – a historic initiative that will
 put more than 20,000 young Americans to work fighting the impacts of
 climate change while training them for careers in the workforce of the

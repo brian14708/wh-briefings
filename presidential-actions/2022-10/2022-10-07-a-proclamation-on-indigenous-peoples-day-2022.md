@@ -1,7 +1,7 @@
 ---
 date: '2022-10-07'
 published_time: 2022-10-07 14:27:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/07/a-proclamation-on-indigenous-peoples-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/07/a-proclamation-on-indigenous-peoples-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Indigenous Peoples\u2019 Day,\_2022"
 ---

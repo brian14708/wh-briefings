@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-06 10:02:40-04:00
 published_time: 2022-07-06 00:50:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/06/remarks-by-vice-president-harris-after-meeting-with-firefighters/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/06/remarks-by-vice-president-harris-after-meeting-with-firefighters/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris After Meeting with\_Firefighters"
 ---

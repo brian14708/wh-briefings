@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-10 19:07:58-05:00
 published_time: 2023-03-10 19:07:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/10/press-briefing-by-press-secretary-karine-jean-pierre-omb-director-shalanda-young-and-cea-chair-cecilia-rouse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/10/press-briefing-by-press-secretary-karine-jean-pierre-omb-director-shalanda-young-and-cea-chair-cecilia-rouse/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, OMB Director Shalanda\
   \ Young, and CEA Chair Cecilia\_Rouse"

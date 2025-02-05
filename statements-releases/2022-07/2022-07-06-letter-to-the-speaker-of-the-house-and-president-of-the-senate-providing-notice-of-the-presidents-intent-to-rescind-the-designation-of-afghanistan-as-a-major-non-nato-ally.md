@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-06 18:29:56-04:00
 published_time: 2022-07-06 18:24:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/06/letter-to-the-speaker-of-the-house-and-president-of-the-senate-providing-notice-of-the-presidents-intent-to-rescind-the-designation-of-afghanistan-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/06/letter-to-the-speaker-of-the-house-and-president-of-the-senate-providing-notice-of-the-presidents-intent-to-rescind-the-designation-of-afghanistan-as-a-major-non-nato-ally/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President of the Senate providing notice\
   \ of the President\u2019s intent to rescind the designation of Afghanistan as a\

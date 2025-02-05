@@ -1,7 +1,7 @@
 ---
 date: '2022-04-20'
 published_time: 2022-04-20 18:23:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/20/remarks-by-president-biden-before-meeting-with-the-secretary-of-defense-deputy-secretary-of-defense-joint-chiefs-of-staff-and-combatant-commanders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/20/remarks-by-president-biden-before-meeting-with-the-secretary-of-defense-deputy-secretary-of-defense-joint-chiefs-of-staff-and-combatant-commanders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting with the Secretary of Defense,\
   \ Deputy Secretary of Defense, Joint Chiefs of Staff, and Combatant\_Commanders"

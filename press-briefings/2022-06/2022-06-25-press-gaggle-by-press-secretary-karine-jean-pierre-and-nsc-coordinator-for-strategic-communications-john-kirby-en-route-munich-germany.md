@@ -1,7 +1,7 @@
 ---
 date: '2022-06-25'
 published_time: 2022-06-25 14:38:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/25/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-munich-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/25/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-munich-germany/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Munich,\_Germany"

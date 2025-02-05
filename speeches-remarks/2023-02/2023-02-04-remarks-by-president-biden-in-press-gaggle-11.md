@@ -1,7 +1,7 @@
 ---
 date: '2023-02-04'
 published_time: 2023-02-04 16:51:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/04/remarks-by-president-biden-in-press-gaggle-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/04/remarks-by-president-biden-in-press-gaggle-11/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press\_Gaggle"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-23'
 published_time: 2024-03-23 13:03:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/23/statement-from-president-joe-biden-on-the-bipartisan-government-funding-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/23/statement-from-president-joe-biden-on-the-bipartisan-government-funding-bill/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Bipartisan Government Funding\_\
   Bill"

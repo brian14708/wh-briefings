@@ -2,7 +2,7 @@
 date: '2022-11-04'
 modified_time: 2022-11-04 22:35:28-04:00
 published_time: 2022-11-04 22:35:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/04/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-chicago-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/04/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-chicago-il/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Chicago,\_IL"
 ---

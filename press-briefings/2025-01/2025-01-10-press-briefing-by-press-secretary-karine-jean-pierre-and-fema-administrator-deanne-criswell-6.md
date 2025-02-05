@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10'
 published_time: 2025-01-10 19:52:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2025/01/10/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2025/01/10/press-briefing-by-press-secretary-karine-jean-pierre-and-fema-administrator-deanne-criswell-6/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and FEMA Administrator\
   \ Deanne\_Criswell"

@@ -2,7 +2,7 @@
 date: '2022-04-20'
 modified_time: 2022-04-20 15:05:05-04:00
 published_time: 2022-04-20 14:58:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/20/remarks-on-a-modern-american-industrial-strategy-by-nec-director-brian-deese/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/20/remarks-on-a-modern-american-industrial-strategy-by-nec-director-brian-deese/
 tags: speeches-remarks
 title: "Remarks on a Modern American Industrial Strategy  By NEC Director Brian\_\
   Deese"

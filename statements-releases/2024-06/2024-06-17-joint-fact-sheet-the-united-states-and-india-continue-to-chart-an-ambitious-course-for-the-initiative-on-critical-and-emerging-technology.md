@@ -1,7 +1,7 @@
 ---
 date: '2024-06-17'
 published_time: 2024-06-17 15:47:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/joint-fact-sheet-the-united-states-and-india-continue-to-chart-an-ambitious-course-for-the-initiative-on-critical-and-emerging-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/joint-fact-sheet-the-united-states-and-india-continue-to-chart-an-ambitious-course-for-the-initiative-on-critical-and-emerging-technology/
 tags: statements-releases
 title: "JOINT FACT SHEET: The United\_States and India Continue to Chart an Ambitious\
   \ Course for the Initiative on Critical and Emerging\_Technology"

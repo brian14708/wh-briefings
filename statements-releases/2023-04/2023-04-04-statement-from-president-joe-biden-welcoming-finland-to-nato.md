@@ -1,7 +1,7 @@
 ---
 date: '2023-04-04'
 published_time: 2023-04-04 09:38:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/statement-from-president-joe-biden-welcoming-finland-to-nato/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/statement-from-president-joe-biden-welcoming-finland-to-nato/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Welcoming Finland to\_NATO"
 ---

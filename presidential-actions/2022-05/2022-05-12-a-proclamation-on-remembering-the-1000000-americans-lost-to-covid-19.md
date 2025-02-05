@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 09:01:00-04:00
 published_time: 2022-05-12 09:00:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/12/a-proclamation-on-remembering-the-1000000-americans-lost-to-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/12/a-proclamation-on-remembering-the-1000000-americans-lost-to-covid-19/
 tags: presidential-actions
 title: "A Proclamation on Remembering the 1,000,000 Americans Lost to\_COVID-\u2060\
   19"

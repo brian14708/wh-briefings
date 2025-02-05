@@ -1,7 +1,7 @@
 ---
 date: '2023-02-22'
 published_time: 2023-02-22 08:17:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/
 tags: statements-releases
 title: "FACT SHEET: BIDEN-HARRIS ADMINISTRATION ANNOUNCES ACTION TO SAVE HOMEBUYERS\
   \ AND HOMEOWNERS $800 PER\_YEAR"
@@ -95,7 +95,7 @@ In part due to policies the Administration has put in place,
 [foreclosures](https://www.blackknightinc.com/data-reports/) and
 [evictions](https://evictionlab.org/) remain well below pre-pandemic
 levels. The Administration implemented a series of
-[measures](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/#:~:text=The%20new%20steps%20the%20Department%20of%20Housing%20and,remain%20in%20their%20homes%20and%20build%20equity%20long-term.)
+[measures](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/#:~:text=The%20new%20steps%20the%20Department%20of%20Housing%20and,remain%20in%20their%20homes%20and%20build%20equity%20long-term.)
 that protected homeowners from foreclosure, including enhanced loan
 modifications to resolve delinquencies. In addition, the [Homeowner
 Assistance
@@ -128,7 +128,7 @@ accessible, and diverse appraiser workforce.
 The President has also taken substantial steps to increase affordability
 for renters and homeowners by increasing the overall supply of housing.
 Last May, the Administration released a [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/), which
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/), which
 set the goal of closing America’s housing supply shortfall in five
 years. For example, the Supply Action Plan calls on Congress to pass the
 Neighborhood Homes Investment Act, which would boost the supply of
@@ -142,7 +142,7 @@ the American Rescue Plan. And in January, the Administration proposed an
 Housing](https://www.hud.gov/press/press_releases_media_advisories/hud_no_23_013)
 rule and announced new actions to increase fairness in the rental market
 through its [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/),
+Rights](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-renters-and-promote-rental-affordability/),
 which lays out principles and actions to drive federal, state, local,
 and private sector action to strengthen tenant protections and encourage
 rental affordability.

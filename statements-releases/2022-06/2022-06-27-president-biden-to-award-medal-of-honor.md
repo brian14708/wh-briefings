@@ -1,7 +1,7 @@
 ---
 date: '2022-06-27'
 published_time: 2022-06-27 17:14:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/president-biden-to-award-medal-of-honor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/president-biden-to-award-medal-of-honor/
 tags: statements-releases
 title: "President\_Biden to Award Medal of\_Honor"
 ---

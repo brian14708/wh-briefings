@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-17 17:39:26-04:00
 published_time: 2022-05-11 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-private-sector-steps-up-on-cancer-moonshot-call-to-action-on-cancer-screening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-private-sector-steps-up-on-cancer-moonshot-call-to-action-on-cancer-screening/
 tags: statements-releases
 title: "FACT SHEET: Private Sector Steps Up on Cancer Moonshot Call to Action on Cancer\_\
   Screening"
@@ -20,7 +20,7 @@ the death rate from cancer by at least 50 percent over the next 25
 years, and improve the experience of people and their families living
 with and surviving cancer – and, by doing this and more, [end cancer as
 we know it
-today](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).
+today](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/02/fact-sheet-president-biden-reignites-cancer-moonshot-to-end-cancer-as-we-know-it/).
 
 In March, in his first State of the Union Address, President Biden
 highlighted the Cancer Moonshot as part of his Unity Agenda for the
@@ -28,14 +28,14 @@ nation. The White House convened the Cancer Cabinet to establish a
 prioritized agenda across government including the development of new
 interagency programs and collaborations and announced [initial steps for
 the Cancer
-Moonshot](https://www.whitehouse.gov/ostp/news-updates/2022/03/17/fact-sheet-white-house-announces-initial-steps-for-reignited-cancer-moonshot/). 
+Moonshot](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/03/17/fact-sheet-white-house-announces-initial-steps-for-reignited-cancer-moonshot/). 
 
 Last week, Cancer Cabinet agencies and departments hosted a virtual
 series of 10 roundtable discussions, [Cancer Moonshot Community
-Conversations](https://www.whitehouse.gov/cancermoonshot/events-and-webinars/past-events/),
+Conversations](https://bidenwhitehouse.archives.gov/cancermoonshot/events-and-webinars/past-events/),
 to inform and advance Cancer Moonshot priorities and the White House
 released a new webpage featuring the [stories of
-people](https://www.whitehouse.gov/cancermoonshot/yourstories/) living
+people](https://bidenwhitehouse.archives.gov/cancermoonshot/yourstories/) living
 with cancer, survivors, and caregivers. 
 
 Today, leaders from the patient and caregiver community, foundations,

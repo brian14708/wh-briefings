@@ -2,7 +2,7 @@
 date: '2022-11-03'
 modified_time: 2022-11-04 11:14:26-04:00
 published_time: 2022-11-03 23:12:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-vice-president-harris-at-a-gotv-event-with-governor-kathy-hochul/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-vice-president-harris-at-a-gotv-event-with-governor-kathy-hochul/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a GOTV Event with Governor Kathy\_Hochul"
 ---

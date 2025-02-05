@@ -1,7 +1,7 @@
 ---
 date: '2022-07-19'
 published_time: 2022-07-19 10:09:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/19/executive-order-on-bolstering-efforts-to-bring-hostages-and-wrongfully-detained-united-states-nationals-home/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/19/executive-order-on-bolstering-efforts-to-bring-hostages-and-wrongfully-detained-united-states-nationals-home/
 tags: presidential-actions
 title: "Executive Order on Bolstering Efforts to Bring Hostages and Wrongfully Detained\
   \ United\_States Nationals\_Home"

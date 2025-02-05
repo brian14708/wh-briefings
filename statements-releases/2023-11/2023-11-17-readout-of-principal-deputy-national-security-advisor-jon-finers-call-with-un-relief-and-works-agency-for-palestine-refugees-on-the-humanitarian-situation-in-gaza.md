@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 published_time: 2023-11-17 16:59:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-un-relief-and-works-agency-for-palestine-refugees-on-the-humanitarian-situation-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/readout-of-principal-deputy-national-security-advisor-jon-finers-call-with-un-relief-and-works-agency-for-palestine-refugees-on-the-humanitarian-situation-in-gaza/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Call\
   \ with UN Relief and Works Agency for Palestine Refugees on the Humanitarian Situation\

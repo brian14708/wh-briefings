@@ -2,7 +2,7 @@
 date: '2024-01-24'
 modified_time: 2024-01-24 12:57:18-05:00
 published_time: 2024-01-24 12:57:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-president-biden-at-a-campaign-event-manassas-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-president-biden-at-a-campaign-event-manassas-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Manassas,\_VA"
 ---

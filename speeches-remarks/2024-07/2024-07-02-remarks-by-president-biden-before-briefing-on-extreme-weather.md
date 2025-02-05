@@ -2,7 +2,7 @@
 date: '2024-07-02'
 modified_time: 2024-07-02 13:59:37-04:00
 published_time: 2024-07-02 13:59:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/02/remarks-by-president-biden-before-briefing-on-extreme-weather/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/02/remarks-by-president-biden-before-briefing-on-extreme-weather/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Briefing on Extreme\_Weather"
 ---

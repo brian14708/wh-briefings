@@ -1,7 +1,7 @@
 ---
 date: '2023-05-26'
 published_time: 2023-05-26 20:03:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/26/remarks-by-president-biden-before-marine-one-departure-36/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/26/remarks-by-president-biden-before-marine-one-departure-36/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

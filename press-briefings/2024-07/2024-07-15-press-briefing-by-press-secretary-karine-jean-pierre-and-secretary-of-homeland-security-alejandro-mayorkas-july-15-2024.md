@@ -2,7 +2,7 @@
 date: '2024-07-15'
 modified_time: 2024-07-16 13:24:00-04:00
 published_time: 2024-07-15 15:21:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/15/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-july-15-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/15/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-july-15-2024/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Secretary of Homeland\
   \ Security Alejandro Mayorkas, July 15,\_2024"

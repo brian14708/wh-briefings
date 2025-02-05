@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 23:14:59-04:00
 published_time: 2022-06-09 18:46:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-announces-commitments-to-advance-food-security-in-the-western-hemisphere/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-announces-commitments-to-advance-food-security-in-the-western-hemisphere/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Commitments to Advance\
   \ Food Security in the Western\_Hemisphere"
@@ -40,9 +40,9 @@ the quality of life for peoples across the region. The United States is
 a leader in the global campaign to improve food security, from our work
 last month as chair of the Global Food Security Call to Action
 Ministerial meeting, to our pledges at the [UN Food Systems
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-harris-administration-commit-to-end-hunger-and-malnutrition-and-build-sustainable-resilient-food-systems/)
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/23/fact-sheet-biden-harris-administration-commit-to-end-hunger-and-malnutrition-and-build-sustainable-resilient-food-systems/)
 and the [2021 Tokyo Nutrition for Growth
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/),
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-biden-harris-administration-announces-plans-for-11-billion-to-end-malnutrition-at-global-nutrition-summit/),
 and our recent assumption of the co-chairmanship of the Global
 Agricultural and Food Security Program (GAFSP). We are working closely
 with the International Financial Institutions to accelerate the response

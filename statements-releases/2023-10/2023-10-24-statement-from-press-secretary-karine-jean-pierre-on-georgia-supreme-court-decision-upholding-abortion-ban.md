@@ -1,7 +1,7 @@
 ---
 date: '2023-10-24'
 published_time: 2023-10-24 18:34:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/24/statement-from-press-secretary-karine-jean-pierre-on-georgia-supreme-court-decision-upholding-abortion-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/24/statement-from-press-secretary-karine-jean-pierre-on-georgia-supreme-court-decision-upholding-abortion-ban/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Georgia Supreme Court\
   \ Decision Upholding Abortion\_Ban"

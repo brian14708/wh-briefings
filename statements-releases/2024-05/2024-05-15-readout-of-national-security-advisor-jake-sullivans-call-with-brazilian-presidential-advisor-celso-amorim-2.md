@@ -2,7 +2,7 @@
 date: '2024-05-15'
 modified_time: 2024-05-15 08:35:04-04:00
 published_time: 2024-05-15 08:35:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/readout-of-national-security-advisor-jake-sullivans-call-with-brazilian-presidential-advisor-celso-amorim-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/readout-of-national-security-advisor-jake-sullivans-call-with-brazilian-presidential-advisor-celso-amorim-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Brazilian\
   \ Presidential Advisor Celso\_Amorim"

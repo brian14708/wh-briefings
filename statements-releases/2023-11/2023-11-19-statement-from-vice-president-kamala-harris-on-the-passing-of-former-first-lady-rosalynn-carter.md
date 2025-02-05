@@ -1,7 +1,7 @@
 ---
 date: '2023-11-19'
 published_time: 2023-11-19 19:50:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/19/statement-from-vice-president-kamala-harris-on-the-passing-of-former-first-lady-rosalynn-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/19/statement-from-vice-president-kamala-harris-on-the-passing-of-former-first-lady-rosalynn-carter/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Passing of Former First\
   \ Lady Rosalynn\_Carter"

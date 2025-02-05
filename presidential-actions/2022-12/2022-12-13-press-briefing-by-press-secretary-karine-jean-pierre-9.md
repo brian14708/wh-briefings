@@ -1,7 +1,7 @@
 ---
 date: '2022-12-13'
 published_time: 2022-12-13 19:14:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/13/press-briefing-by-press-secretary-karine-jean-pierre-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/13/press-briefing-by-press-secretary-karine-jean-pierre-9/
 tags: presidential-actions
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

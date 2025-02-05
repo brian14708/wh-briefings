@@ -2,7 +2,7 @@
 date: '2024-04-21'
 modified_time: 2024-04-21 11:02:30-04:00
 published_time: 2024-04-21 11:02:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/21/readout-of-white-house-meeting-on-the-ongoing-response-to-the-collapse-of-the-francis-scott-key-bridge/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/21/readout-of-white-house-meeting-on-the-ongoing-response-to-the-collapse-of-the-francis-scott-key-bridge/
 tags: statements-releases
 title: "Readout of White\_House Meeting on the Ongoing Response to the Collapse of\
   \ the Francis Scott Key\_Bridge"

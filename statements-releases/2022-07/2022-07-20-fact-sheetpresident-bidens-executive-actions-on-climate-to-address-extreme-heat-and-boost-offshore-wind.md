@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-20 13:18:22-04:00
 published_time: 2022-07-20 14:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/20/fact-sheetpresident-bidens-executive-actions-on-climate-to-address-extreme-heat-and-boost-offshore-wind/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Executive Actions on Climate to Address\
   \ Extreme Heat and Boost Offshore\_Wind"
@@ -70,7 +70,7 @@ President Biden’s new executive actions will:
     uncertainty cast by the prior Administration. These actions follow
     the President’s launch of a new [Federal-State Offshore Wind
     Implementation
-    Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/)
+    Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/)
     that brought together Governors to deliver more clean, affordable
     energy and new jobs.  
       
@@ -88,7 +88,7 @@ critical infrastructure is at risk from climate and extreme weather.
 
 President Biden will not back down from addressing this emergency. Since
 taking office, he has [mobilized his entire Administration to tackle the
-climate crisis](https://www.whitehouse.gov/climate/) and secured
+climate crisis](https://bidenwhitehouse.archives.gov/climate/) and secured
 historic clean energy and climate resilience investments in his
 Bipartisan Infrastructure Law. He will continue taking bold action to
 secure a safe, healthy, clean energy future—all while saving families
@@ -109,7 +109,7 @@ health conditions.
 
 To respond, last year the Biden-Harris Administration launched a [broad
 set of new
-initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
+initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/20/fact-sheet-biden-administration-mobilizes-to-protect-workers-and-communities-from-extreme-heat/)
 to  advance workplace safety, build local resilience, and address the
 disproportionate impacts of extreme heat. Today, the Administration is
 announcing additional steps and progress on:
@@ -229,7 +229,7 @@ To further expand these opportunities, today President Biden is:
 
 These actions follow the President’s announcement last month of a new
 [Federal-State Offshore Wind Implementation
-Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/),
+Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/fact-sheet-biden-administration-launches-new-federal-state-offshore-wind-partnership-to-grow-american-made-clean-energy/),
 joining with Governors to ensure that federal and state officials are
 working together to build a U.S.-based supply chain, including
 manufacturing and shipbuilding, for the rapidly-growing offshore wind

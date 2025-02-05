@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 09:50:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/quad-leaders-joint-statement/
 tags: statements-releases
 title: "Quad Leaders\u2019 Joint\_Statement"
 ---

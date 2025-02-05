@@ -2,7 +2,7 @@
 date: '2023-02-03'
 modified_time: 2023-02-03 16:00:51-05:00
 published_time: 2023-02-03 16:00:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/03/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/03/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa-2/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Philadelphia,\_\
   PA"

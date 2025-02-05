@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-19'
 modified_time: 2021-07-21 17:39:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/19/the-united-states-joined-by-allies-and-partners-attributes-malicious-cyber-activity-and-irresponsible-state-behavior-to-the-peoples-republic-of-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/19/the-united-states-joined-by-allies-and-partners-attributes-malicious-cyber-activity-and-irresponsible-state-behavior-to-the-peoples-republic-of-china/
 published_time: 2021-07-19 07:00:00-04:00
 title: "The United\_States, Joined by Allies and Partners, Attributes Malicious Cyber\
   \ Activity and Irresponsible State Behavior to the People\u2019s Republic of\_China"
@@ -119,7 +119,7 @@ malicious cyber actors from returning or causing additional damage.
     continue to prioritize sharing vulnerability information with the
     private sector to secure the nation’s networks and infrastructure.  
 -   **The U.S. Government announced and operated under a** [**new
-    model**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/19/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-on-solarwinds-and-microsoft-exchange-incidents/)
+    model**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/19/statement-by-deputy-national-security-advisor-for-cyber-and-emerging-technology-on-solarwinds-and-microsoft-exchange-incidents/)
     **for cyber incident response by including private companies in the
     Cyber Unified Coordination Group (UCG) to address the Exchange
     Server vulnerabilities.** The UCG is a whole-of-government
@@ -155,7 +155,7 @@ critical infrastructure.</u>**
     multi-factor authentication and encryption technologies.  
 -   **The Administration is implementing President Biden’s**
     [**Executive
-    Order**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
+    Order**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/12/fact-sheet-president-signs-executive-order-charting-new-course-to-improve-the-nations-cybersecurity-and-protect-federal-government-networks/)
     **to improve the nation’s cybersecurity and protect Federal
     government networks**. The E.O. contains aggressive but achievable
     implementation milestones, and to date we have met every milestone

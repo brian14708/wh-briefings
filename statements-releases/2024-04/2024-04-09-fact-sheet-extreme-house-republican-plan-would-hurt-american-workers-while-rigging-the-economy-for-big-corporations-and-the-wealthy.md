@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 11:17:15-04:00
 published_time: 2024-04-09 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-extreme-house-republican-plan-would-hurt-american-workers-while-rigging-the-economy-for-big-corporations-and-the-wealthy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-extreme-house-republican-plan-would-hurt-american-workers-while-rigging-the-economy-for-big-corporations-and-the-wealthy/
 tags: statements-releases
 title: "FACT SHEET: Extreme House Republican Plan Would Hurt American Workers While\
   \ Rigging the Economy for Big Corporations and the\_Wealthy"

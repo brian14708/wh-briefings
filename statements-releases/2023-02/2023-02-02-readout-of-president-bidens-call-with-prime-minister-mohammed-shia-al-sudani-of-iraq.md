@@ -2,7 +2,7 @@
 date: '2023-02-02'
 modified_time: 2023-02-02 20:28:31-05:00
 published_time: 2023-02-02 20:28:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/readout-of-president-bidens-call-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/readout-of-president-bidens-call-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Prime Minister Mohammed Shia\u2019\
   \ al-Sudani\_of\_Iraq"

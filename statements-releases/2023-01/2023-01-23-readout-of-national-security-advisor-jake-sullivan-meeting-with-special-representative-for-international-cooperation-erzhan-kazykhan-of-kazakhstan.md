@@ -1,7 +1,7 @@
 ---
 date: '2023-01-23'
 published_time: 2023-01-23 17:03:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/23/readout-of-national-security-advisor-jake-sullivan-meeting-with-special-representative-for-international-cooperation-erzhan-kazykhan-of-kazakhstan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/23/readout-of-national-security-advisor-jake-sullivan-meeting-with-special-representative-for-international-cooperation-erzhan-kazykhan-of-kazakhstan/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan Meeting with Special Representative\
   \ for International Cooperation Erzhan Kazykhan of\_Kazakhstan"

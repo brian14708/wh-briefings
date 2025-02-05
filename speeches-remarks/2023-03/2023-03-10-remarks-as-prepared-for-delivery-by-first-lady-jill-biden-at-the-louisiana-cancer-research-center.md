@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 17:56:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-louisiana-cancer-research-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/10/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-louisiana-cancer-research-center/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Louisiana\
   \ Cancer Research\_Center"

@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 12:25:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-to-address-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-taking-additional-steps-to-address-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President of the Senate on Taking Additional\
   \ Steps to Address the National Emergency With Respect to the Situation in\_Nicaragua"

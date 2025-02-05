@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 10:31:06-05:00
 published_time: 2022-12-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-biden-administration-announces-covid-19-winter-preparedness-plan/
 tags: statements-releases
 title: "Fact Sheet:\_Biden Administration Announces COVID-\u206019 Winter Preparedness\_\
   Plan"

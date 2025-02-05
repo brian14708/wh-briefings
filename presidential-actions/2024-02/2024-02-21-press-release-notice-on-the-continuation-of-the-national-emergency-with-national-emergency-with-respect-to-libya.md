@@ -1,7 +1,7 @@
 ---
 date: '2024-02-21'
 published_time: 2024-02-21 15:46:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/21/press-release-notice-on-the-continuation-of-the-national-emergency-with-national-emergency-with-respect-to-libya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/21/press-release-notice-on-the-continuation-of-the-national-emergency-with-national-emergency-with-respect-to-libya/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With National\
   \ Emergency With Respect to\_Libya"

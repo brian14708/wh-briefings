@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-15 23:47:04-04:00
 published_time: 2022-05-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/
 tags: statements-releases
 title: "President\_Biden Announces New Actions to Ease the Burden of Housing\_Costs"
 ---
@@ -107,7 +107,7 @@ The President’s 2023 Budget includes investments in housing supply that
 would lead to the production or rehabilitation of another 500,000 homes.
 
 Building on the actions the Administration
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/01/fact-sheet-biden-harris-administration-announces-immediate-steps-to-increase-affordable-housing-supply/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/01/fact-sheet-biden-harris-administration-announces-immediate-steps-to-increase-affordable-housing-supply/)
 last September to build and rehabilitate 100,000 homes over the next
 three years, these legislative proposals and the new administrative
 steps being launched – in partnership with state, local, for-profit, and

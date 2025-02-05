@@ -1,7 +1,7 @@
 ---
 date: '2022-12-02'
 published_time: 2022-12-02 18:06:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/02/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-boston-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/02/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-boston-ma/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Boston,\_MA"
 ---

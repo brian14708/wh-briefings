@@ -2,7 +2,7 @@
 date: '2022-04-26'
 modified_time: 2022-04-25 22:18:54-04:00
 published_time: 2022-04-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-administration-increases-access-to-covid-19-treatments-and-boosts-patient-and-provider-awareness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-administration-increases-access-to-covid-19-treatments-and-boosts-patient-and-provider-awareness/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Increases Access to COVID-\u206019 Treatments\
   \ and Boosts Patient and Provider\_Awareness"
@@ -25,7 +25,7 @@ world. Although Paxlovid was initially in short supply after Food and
 Drug Administration (FDA) authorization, the Administration has worked
 with Pfizer to accelerate the delivery of these pills, and they are now
 in ample supply. The President’s [National COVID-19 Preparedness
-Plan](https://www.whitehouse.gov/covidplan/) lays out a roadmap for
+Plan](https://bidenwhitehouse.archives.gov/covidplan/) lays out a roadmap for
 ensuring that these pills, along with other treatments, are available
 for any American who needs one.  
   

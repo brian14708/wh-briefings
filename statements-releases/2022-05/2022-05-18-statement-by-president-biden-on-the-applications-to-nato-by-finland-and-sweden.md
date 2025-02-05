@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 11:39:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/statement-by-president-biden-on-the-applications-to-nato-by-finland-and-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/statement-by-president-biden-on-the-applications-to-nato-by-finland-and-sweden/
 tags: statements-releases
 title: "Statement by President\_Biden on the Applications to NATO by Finland and\_\
   Sweden"

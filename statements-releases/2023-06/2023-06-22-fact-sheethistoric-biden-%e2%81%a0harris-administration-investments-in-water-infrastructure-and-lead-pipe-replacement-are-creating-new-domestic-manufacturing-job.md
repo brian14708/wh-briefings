@@ -2,7 +2,7 @@
 date: '2023-06-22'
 modified_time: 2023-06-21 23:15:06-04:00
 published_time: 2023-06-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/fact-sheethistoric-biden-%e2%81%a0harris-administration-investments-in-water-infrastructure-and-lead-pipe-replacement-are-creating-new-domestic-manufacturing-job/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/fact-sheethistoric-biden-%e2%81%a0harris-administration-investments-in-water-infrastructure-and-lead-pipe-replacement-are-creating-new-domestic-manufacturing-job/
 tags: statements-releases
 title: "FACT SHEET: Historic Biden-\u2060Harris Administration Investments in Water\
   \ Infrastructure and Lead Pipe Replacement Are Creating New Domestic Manufacturing\_\

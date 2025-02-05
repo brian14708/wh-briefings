@@ -2,7 +2,7 @@
 date: '2024-08-02'
 modified_time: 2024-08-02 21:34:31-04:00
 published_time: 2024-08-02 21:34:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/02/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-on-venezuela-with-western-hemisphere-ambassadors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/02/readout-of-national-security-advisor-to-the-vice-president-phil-gordons-meeting-on-venezuela-with-western-hemisphere-ambassadors/
 tags: statements-releases
 title: "Readout of National Security Advisor to the Vice President Phil Gordon\u2019\
   s Meeting on Venezuela with Western Hemisphere\_Ambassadors"

@@ -2,7 +2,7 @@
 date: '2022-04-04'
 modified_time: 2022-04-04 19:45:14-04:00
 published_time: 2022-04-04 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/04/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/04/press-briefing-by-press-secretary-jen-psaki-and-national-security-advisor-jake-sullivan/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Jen\_Psaki and National Security Advisor\
   \ Jake\_Sullivan"

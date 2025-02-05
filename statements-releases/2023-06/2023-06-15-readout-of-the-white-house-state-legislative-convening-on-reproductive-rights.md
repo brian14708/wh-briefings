@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 16:28:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of the White\_House State Legislative Convening on Reproductive\_\
   Rights"

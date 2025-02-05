@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-15 21:25:31-05:00
 published_time: 2024-12-16 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/16/fact-sheet-president-biden-designates-frances-perkins-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/16/fact-sheet-president-biden-designates-frances-perkins-national-monument/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Designates Frances Perkins National\_Monument"
 ---
@@ -32,7 +32,7 @@ expand opportunities for all Americans. The President will also
 highlight how his Administration has continued to stand with labor and
 strengthen America’s workforce. President Biden is proud to be the most
 pro-union and pro-worker president in history,
-[including](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/)
+[including](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/)
 creating the Made in America office; requiring Project Labor Agreements
 on nearly all major federal construction projects of over $35 million;
 signing the Butch Lewis Act to save more than one million pensions; and
@@ -40,7 +40,7 @@ becoming the first president in history to walk a picket line.
 
 The designation of this new national monument advances President Biden’s
 March 2024 [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
 to strengthen the recognition of women’s history. In addition to
 establishing the Frances Perkins National Monument, today Secretary of
 the Interior Deb Haaland will announce five new National Historic

@@ -2,7 +2,7 @@
 date: '2022-05-15'
 modified_time: 2022-05-15 18:07:48-04:00
 published_time: 2022-05-15 18:07:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/15/remarks-by-vice-president-harris-before-air-force-two-departure-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/15/remarks-by-vice-president-harris-before-air-force-two-departure-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Air Force Two\_Departure"
 ---

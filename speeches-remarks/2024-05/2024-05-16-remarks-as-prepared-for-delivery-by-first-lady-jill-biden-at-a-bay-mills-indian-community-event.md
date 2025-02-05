@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 19:53:02-04:00
 published_time: 2024-05-16 19:53:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-bay-mills-indian-community-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/16/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-bay-mills-indian-community-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Bay Mills\
   \ Indian Community\_Event"

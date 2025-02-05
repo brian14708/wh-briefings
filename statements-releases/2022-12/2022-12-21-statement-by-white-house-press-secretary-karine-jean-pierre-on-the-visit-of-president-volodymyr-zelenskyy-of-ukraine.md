@@ -2,7 +2,7 @@
 date: '2022-12-21'
 modified_time: 2022-12-20 23:39:45-05:00
 published_time: 2022-12-21 01:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/21/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-volodymyr-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/21/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-president-volodymyr-zelenskyy-of-ukraine/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of President Volodymyr Zelenskyy of\_Ukraine"

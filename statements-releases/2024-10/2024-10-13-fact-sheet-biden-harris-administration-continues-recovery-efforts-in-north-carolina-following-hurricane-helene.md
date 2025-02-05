@@ -2,7 +2,7 @@
 date: '2024-10-13'
 modified_time: 2024-10-13 12:16:52-04:00
 published_time: 2024-10-13 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/13/fact-sheet-biden-harris-administration-continues-recovery-efforts-in-north-carolina-following-hurricane-helene/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues Recovery Efforts in\
   \ North Carolina Following Hurricane\_Helene"

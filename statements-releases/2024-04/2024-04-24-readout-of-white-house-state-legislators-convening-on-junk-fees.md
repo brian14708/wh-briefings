@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-24 22:53:20-04:00
 published_time: 2024-04-24 22:53:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/readout-of-white-house-state-legislators-convening-on-junk-fees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/readout-of-white-house-state-legislators-convening-on-junk-fees/
 tags: statements-releases
 title: "Readout of White\_House State Legislators Convening on Junk\_Fees"
 ---
@@ -22,7 +22,7 @@ Advisers estimates amount to more than $90 billion every year. These
 fees occur across industries, from apartment rentals to concert tickets
 to health insurance. Since the first [White House State Convening on
 Combatting Junk
-Fees](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/)
+Fees](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/readout-of-white-house-state-legislative-convening-on-combatting-junk-fees/)
 last March, the Administration has taken landmark actions to increase
 transparency and eliminate these fees, including:
 
@@ -50,7 +50,7 @@ transparency and eliminate these fees, including:
     rule](https://www.ftc.gov/news-events/news/press-releases/2023/12/ftc-announces-cars-rule-fight-scams-vehicle-shopping)
     to ban hidden junk fees and bait-and-switch fees in car buying.  
 -   Today, the Department of Transportation [finalized
-    rules](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-announces-rules-to-deliver-automatic-refunds-and-protect-consumers-from-surprise-junk-fees-in-air-travel/)
+    rules](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/fact-sheet-biden-harris-administration-announces-rules-to-deliver-automatic-refunds-and-protect-consumers-from-surprise-junk-fees-in-air-travel/)
     that would require airlines to [clearly
     disclose](https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-protect-consumers-surprise-airline)
     baggage fees, change fees, and cancellation fees up front, and
@@ -84,7 +84,7 @@ transparency and eliminate these fees, including:
 
 Actions taken by the Administration will save Americans [over $20
 billion per year on junk
-fees](https://www.whitehouse.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/#:~:text=CEA%20estimates%20that%20ten%20specific,household%20per%20year%20on%20average.),
+fees](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/05/the-price-isnt-right-how-junk-fees-cost-consumers-and-undermine-competition/#:~:text=CEA%20estimates%20that%20ten%20specific,household%20per%20year%20on%20average.),
 according to the Council of Economic Advisers. While the President is
 committed to using every tool at his disposal to combat unfair and
 deceptive pricing, he also believes that state-level actions are an

@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-10 22:07:40-04:00
 published_time: 2022-04-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-cracks-down-on-ghost-guns-ensures-that-atf-has-the-leadership-it-needs-to-enforce-our-gun-laws/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/fact-sheet-the-biden-administration-cracks-down-on-ghost-guns-ensures-that-atf-has-the-leadership-it-needs-to-enforce-our-gun-laws/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Cracks Down on Ghost Guns, Ensures That\
   \ ATF Has the Leadership it Needs to Enforce Our Gun\_Laws"
@@ -80,7 +80,7 @@ Department of Justice launched a National Ghost Gun Enforcement
 Initiative, which is training a national cadre of prosecutors and
 disseminating investigation and prosecution tool to help bring cases
 against those who use ghost guns to commit crimes. As President
-Biden [said](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-president-biden-at-a-gun-violence-prevention-task-force-meeting/) during
+Biden [said](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/03/remarks-by-president-biden-at-a-gun-violence-prevention-task-force-meeting/) during
 an event at the New York Police Department headquarters, if you use a
 ghost gun to commit a crime “not only are state and local prosecutors
 going to come after you, but expect federal charges and federal
@@ -128,7 +128,7 @@ reduction strategy. President Biden made more progress on executive
 actions to reduce gun violence than any other President during their
 first year in office. You can read more about the Administration’s
 whole-of-government approach to reduce gun
-crime [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/).
+crime [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/).
 
 President Biden’s fiscal year 2023 budget calls on Congress to deliver
 the funding needed to implement the President’s comprehensive strategy

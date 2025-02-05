@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 16:45:13-04:00
 published_time: 2024-09-23 16:45:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/23/white-house-press-call-by-senior-adviser-to-the-president-and-director-of-communications-ben-labolt-national-climate-adviser-ali-zaidi-and-senior-adviser-to-the-president-for-international-climate-p/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/23/white-house-press-call-by-senior-adviser-to-the-president-and-director-of-communications-ben-labolt-national-climate-adviser-ali-zaidi-and-senior-adviser-to-the-president-for-international-climate-p/
 tags: press-briefings
 title: "White\_House Press Call by Senior Adviser to the President and Director of\
   \ Communications Ben LaBolt, National Climate Adviser Ali Zaidi, and Senior Adviser\

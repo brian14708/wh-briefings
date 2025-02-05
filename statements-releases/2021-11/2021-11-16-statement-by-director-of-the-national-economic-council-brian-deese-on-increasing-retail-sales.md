@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-16'
 modified_time: 2021-11-16 12:40:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/statement-by-director-of-the-national-economic-council-brian-deese-on-increasing-retail-sales/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/statement-by-director-of-the-national-economic-council-brian-deese-on-increasing-retail-sales/
 published_time: 2021-11-16 12:40:42-05:00
 title: "Statement by Director of the National Economic Council Brian Deese on Increasing\
   \ Retail\_Sales"

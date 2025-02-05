@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 21:24:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/statement-by-vice-president-harris-on-the-supreme-courts-ruling-in-nebraska-v-biden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/statement-by-vice-president-harris-on-the-supreme-courts-ruling-in-nebraska-v-biden/
 tags: statements-releases
 title: "Statement by Vice President Harris on the Supreme Court\u2019s ruling in Nebraska\
   \ v.\_Biden"

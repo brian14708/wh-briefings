@@ -2,7 +2,7 @@
 date: '2023-03-28'
 modified_time: 2023-03-27 21:33:20-04:00
 published_time: 2023-03-28 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/readout-of-senior-administration-official-travel-to-the-indo-pacific-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/readout-of-senior-administration-official-travel-to-the-indo-pacific-region/
 tags: statements-releases
 title: "Readout of Senior Administration Official Travel to the Indo-Pacific\_Region"
 ---

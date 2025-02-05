@@ -2,7 +2,7 @@
 date: '2023-11-27'
 modified_time: 2023-11-26 15:28:57-05:00
 published_time: 2023-11-27 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Strengthen America\u2019\
   s Supply Chains, Lower Costs for Families, and Secure Key\_Sectors"
@@ -27,13 +27,13 @@ chains.
   
 Robust supply chains are fundamental to a strong economy. When supply
 chains smooth, [prices
-fall](https://www.whitehouse.gov/cea/written-materials/2023/06/08/easing-supply-chains/) for
+fall](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/06/08/easing-supply-chains/) for
 goods, food, and equipment, putting more money in the pockets of
 American families, workers, farmers, and entrepreneurs. That is why
 President Biden made supply chain resilience a priority from Day One of
 his Administration—including by signing an Executive Order on America’s
 Supply Chains and establishing a [Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) that
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) that
 worked with states, Tribes, local governments, businesses, family farms,
 labor, and allies and partners to address the acute supply chain crises
 caused by the pandemic. Since then, the Administration has made historic
@@ -290,10 +290,10 @@ critical sectors with allies and partners, including:</span>
 -   **With the European Union. **In May 2023, the United States and the
     EU established an early warning system for semiconductor supply
     chain disruptions under [the U.S.-EU Trade and Technology
-    Council](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/#:~:text=The%20United%20States%20and%20the%20European%20Union%20have%20completed%20a,provided%20to%20the%20semiconductor%20sector.).
+    Council](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/u-s-eu-joint-statement-of-the-trade-and-technology-council-2/#:~:text=The%20United%20States%20and%20the%20European%20Union%20have%20completed%20a,provided%20to%20the%20semiconductor%20sector.).
 -   **With Japan and the Republic of Korea. **In August, the United
     States, Japan, and the Republic of Korea [committed at Camp
-    David](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/18/the-spirit-of-camp-david-joint-statement-of-japan-the-republic-of-korea-and-the-united-states/) to
+    David](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/18/the-spirit-of-camp-david-joint-statement-of-japan-the-republic-of-korea-and-the-united-states/) to
     launch early warning system pilots, starting by identifying priority
     products and materials such as critical minerals and rechargeable
     batteries and establishing mechanisms to rapidly share information
@@ -315,7 +315,7 @@ critical sectors with allies and partners, including:</span>
     COVID-19, influenza, and respiratory syncytial virus.
 -   **With global partners. **Through the President’s Emergency Plan for
     Adaptation and Resilience
-    ([PREPARE](https://www.whitehouse.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf#:~:text=PREPARE%20is%20a%20whole%2Dof,the%20impacts%20of%20climate%20change.)),
+    ([PREPARE](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf#:~:text=PREPARE%20is%20a%20whole%2Dof,the%20impacts%20of%20climate%20change.)),
     the U.S. government funds activities to improve the weather, water,
     and climate observing capabilities and data sharing in regions and
     countries that are needed to produce actionable local, regional, and

@@ -2,7 +2,7 @@
 date: '2023-11-29'
 modified_time: 2023-11-30 12:09:59-05:00
 published_time: 2023-11-29 08:00:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/29/background-press-call-by-senior-administration-officials-to-preview-cop28/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/29/background-press-call-by-senior-administration-officials-to-preview-cop28/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview\_COP28"
 ---

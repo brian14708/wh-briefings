@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 19:10:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/statement-by-press-secretary-karine-jean-pierre-on-a-reasonable-bipartisan-budget-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/statement-by-press-secretary-karine-jean-pierre-on-a-reasonable-bipartisan-budget-agreement/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on a Reasonable Bipartisan\
   \ Budget\_Agreement"

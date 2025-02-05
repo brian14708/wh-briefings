@@ -1,7 +1,7 @@
 ---
 date: '2022-07-25'
 published_time: 2022-07-25 14:05:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/25/remarks-by-vice-president-harris-in-roundtable-discussion-with-indiana-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/25/remarks-by-vice-president-harris-in-roundtable-discussion-with-indiana-state-legislators-on-reproductive-rights/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Roundtable Discussion with Indiana State\
   \ Legislators on Reproductive\_Rights"

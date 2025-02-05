@@ -1,7 +1,7 @@
 ---
 date: '2023-09-05'
 published_time: 2023-09-05 19:11:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/05/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-captain-larry-l-taylor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/05/remarks-by-president-biden-at-presentation-of-the-medal-of-honor-to-army-captain-larry-l-taylor/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Medal of Honor to Army\
   \ Captain Larry L.\_Taylor"

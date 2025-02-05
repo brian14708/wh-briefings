@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-13 17:29:39-04:00
 published_time: 2024-09-13 17:29:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/13/press-release-bills-signed-h-r-1076-s-1608/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/13/press-release-bills-signed-h-r-1076-s-1608/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 1076, S.\_1608"
 ---

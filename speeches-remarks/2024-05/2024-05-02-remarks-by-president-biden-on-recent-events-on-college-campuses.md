@@ -1,7 +1,7 @@
 ---
 date: '2024-05-02'
 published_time: 2024-05-02 13:31:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/02/remarks-by-president-biden-on-recent-events-on-college-campuses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/02/remarks-by-president-biden-on-recent-events-on-college-campuses/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Recent Events on College\_Campuses"
 ---

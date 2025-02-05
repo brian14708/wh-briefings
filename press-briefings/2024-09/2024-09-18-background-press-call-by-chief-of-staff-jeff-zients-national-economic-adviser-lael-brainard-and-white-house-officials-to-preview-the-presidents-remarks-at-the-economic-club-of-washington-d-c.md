@@ -2,7 +2,7 @@
 date: '2024-09-18'
 modified_time: 2024-09-19 11:19:41-04:00
 published_time: 2024-09-18 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/18/background-press-call-by-chief-of-staff-jeff-zients-national-economic-adviser-lael-brainard-and-white-house-officials-to-preview-the-presidents-remarks-at-the-economic-club-of-washington-d-c/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/18/background-press-call-by-chief-of-staff-jeff-zients-national-economic-adviser-lael-brainard-and-white-house-officials-to-preview-the-presidents-remarks-at-the-economic-club-of-washington-d-c/
 tags: press-briefings
 title: "Background Press Call by Chief of Staff Jeff Zients, National Economic Adviser\
   \ Lael Brainard, and White\_House Officials to Preview the President\u2019s Remarks\

@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 16:02:12-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-secures-our-border-combats-fentanyl-trafficking-and-calls-on-congress-to-enact-critical-immigration-reform/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-secures-our-border-combats-fentanyl-trafficking-and-calls-on-congress-to-enact-critical-immigration-reform/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Secures Our Border, Combats Fentanyl\
   \ Trafficking, and Calls on Congress to Enact Critical Immigration\_Reform"
@@ -49,7 +49,7 @@ President’s FY25 Budget:**
 Secure the Border, Build Capacity to Enforce Immigration Law, and
 Counter Illicit Fentanyl.** In October 2023, the Administration
 transmitted [an emergency supplemental
-request](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/20/fact-sheet-white-house-calls-on-congress-to-advance-critical-national-security-priorities/)
+request](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/20/fact-sheet-white-house-calls-on-congress-to-advance-critical-national-security-priorities/)
 to Congress for the southwest border and migration issues totaling $13.6
 billion. The Budget includes, and therefore reiterates the need for, the
 unmet needs from the October supplemental request. In addition to urgent

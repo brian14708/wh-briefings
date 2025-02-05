@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-06-24'
 modified_time: 2021-06-24 17:38:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/24/remarks-by-president-biden-on-the-bipartisan-infrastructure-deal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/24/remarks-by-president-biden-on-the-bipartisan-infrastructure-deal/
 published_time: 2021-06-24 17:45:00-04:00
 title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Deal"
 ---

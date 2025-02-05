@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 22:15:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/joint-fact-sheet-launching-the-u-s-rok-next-generation-critical-and-emerging-technologies-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/joint-fact-sheet-launching-the-u-s-rok-next-generation-critical-and-emerging-technologies-dialogue/
 tags: statements-releases
 title: "JOINT FACT SHEET: Launching the U.S.-ROK Next Generation Critical and Emerging\
   \ Technologies\_Dialogue"

@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 05:05:22-04:00
 published_time: 2022-06-07 05:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-more-than-1-9-billion-in-new-private-sector-commitments-as-part-of-call-to-action-for-northern-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-more-than-1-9-billion-in-new-private-sector-commitments-as-part-of-call-to-action-for-northern-central-america/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces More Than $1.9 Billion in New\
   \ Private Sector Commitments as Part of Call to Action for Northern Central\_America"
@@ -19,19 +19,19 @@ northern Central America, more than doubling the value of initial
 private sector investments in response to her Call to Action.  As part
 of her role addressing the root causes of migration from Central
 America, in May 2021, the Vice President
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/)
 the Call to Action for businesses and social enterprises to make
 significant commitments to promote economic opportunity for people in
 the region. This is in support for the [U.S. Strategy to Address the
 Root Causes of
-Migration](https://www.whitehouse.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf)
+Migration](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/Root-Causes-Strategy.pdf)
 which the Vice President launched in July 2021. A summary of progress in
 implementation of the Root Causes Strategy can be found
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/).  
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/fact-sheet-update-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/).  
    
 The announcement today builds on the announcement the Vice President
 made in [December
-2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
+2021](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
 of $1.2 billion in private sector commitments.  Aggregate commitments
 under this initiative now total more than $3.2 billion.  Taken together,
 these investments are creating an ecosystem of opportunity and helping
@@ -212,7 +212,7 @@ contact the State Department at <jointhecall@state.gov>.
   
 More information can also be found in the [initial Fact Sheet announcing
 the Call to Action on May
-27](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/).
+27](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/27/fact-sheet-vice-president-harris-launches-a-call-to-action-to-the-private-sector-to-deepen-investment-in-the-northern-triangle/).
 More information about the Partnership for Central America can be found
 at www.centampartnership.org. The Partnership can be contacted
 at <support@centampartnership.org>.

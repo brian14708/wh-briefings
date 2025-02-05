@@ -1,7 +1,7 @@
 ---
 date: '2024-06-28'
 published_time: 2024-06-28 14:06:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/28/statement-from-press-secretary-karine-jean-pierre-on-the-supreme-court-ruling-in-loper-bright/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/28/statement-from-press-secretary-karine-jean-pierre-on-the-supreme-court-ruling-in-loper-bright/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Supreme Court Ruling\
   \ in Loper\_Bright"

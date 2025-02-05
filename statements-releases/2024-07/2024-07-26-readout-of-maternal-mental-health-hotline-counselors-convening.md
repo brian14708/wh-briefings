@@ -1,7 +1,7 @@
 ---
 date: '2024-07-26'
 published_time: 2024-07-26 19:05:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/26/readout-of-maternal-mental-health-hotline-counselors-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/26/readout-of-maternal-mental-health-hotline-counselors-convening/
 tags: statements-releases
 title: "Readout of Maternal Mental Health Hotline Counselors\_Convening"
 ---
@@ -14,10 +14,10 @@ mental health needs of pregnant women, new moms, their families, and the
 communities that support them. 
 
 As the White House marks the [two-year
-anniversary](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/the-white-house-blueprint-for-addressing-the-maternal-health-crisis-two-years-of-progress/)
+anniversary](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/the-white-house-blueprint-for-addressing-the-maternal-health-crisis-two-years-of-progress/)
 of Vice President Harris announcing the *[White House Blueprint for
 Addressing the Maternal Health
-Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),*
+Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf),*
 this roundtable offered an opportunity to hear directly from 10 of the
 Hotline counselors about the ways they provide real-time support,
 encouragement, information, and referrals to those in need. These
@@ -52,7 +52,7 @@ outcomes and improving the overall experience of pregnancy, birth, and
 postpartum for all women in the United States. 
 
 Vice President Harris has consistently
-[led](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/) on [improving](https://www.c-span.org/video/?510792-1/vice-president-harris-roundtable-black-maternal-health) outcomes
+[led](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/13/remarks-by-vice-president-harris-in-a-meeting-on-maternal-health/) on [improving](https://www.c-span.org/video/?510792-1/vice-president-harris-roundtable-black-maternal-health) outcomes
 for women and families throughout her career. While serving in the U.S.
 Senate, she introduced several landmark bills to address maternal
 health, including the Maternal CARE Act and the Black Maternal Health

@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 19:27:20-05:00
 published_time: 2023-01-27 19:27:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/statement-from-president-joe-biden-on-tyre-nichols/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/statement-from-president-joe-biden-on-tyre-nichols/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Tyre\_Nichols"
 ---

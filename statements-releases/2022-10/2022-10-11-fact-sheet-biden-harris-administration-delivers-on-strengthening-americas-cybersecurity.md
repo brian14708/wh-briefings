@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-10 18:49:57-04:00
 published_time: 2022-10-11 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/fact-sheet-biden-harris-administration-delivers-on-strengthening-americas-cybersecurity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/fact-sheet-biden-harris-administration-delivers-on-strengthening-americas-cybersecurity/
 tags: statements-releases
 title: "FACT SHEET:\_Biden-\u2060Harris Administration Delivers on Strengthening America\u2019\
   s\_Cybersecurity"
@@ -110,14 +110,14 @@ strengthen and safeguard our nation’s cybersecurity, including:
 -   **Building the Nation’s cyber workforce and strengthening cyber
     education. ** The White House hosted a [National Cyber Workforce and
     Education
-    Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/),
+    Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/),
     bringing together leaders from government and from across the cyber
     community. At the Summit, the Administration announced a [120-Day
     Cybersecurity Apprenticeship
     Sprint](https://www.dol.gov/newsroom/releases/osec/osec20220719) to
     help provide skills-based pathways into cyber jobs. With momentum
     from the Summit, the Administration
-    [continues](https://www.whitehouse.gov/oncd/briefing-room/2022/10/03/office-of-the-national-cyber-director-requests-your-insight-and-expertise-on-cyber-workforce-training-and-education/)
+    [continues](https://bidenwhitehouse.archives.gov/oncd/briefing-room/2022/10/03/office-of-the-national-cyber-director-requests-your-insight-and-expertise-on-cyber-workforce-training-and-education/)
     to work with partners throughout society on building our Nation’s
     cyber workforce, improving skills-based pathways to good-paying
     cyber jobs, educating Americans so that they have the skills to

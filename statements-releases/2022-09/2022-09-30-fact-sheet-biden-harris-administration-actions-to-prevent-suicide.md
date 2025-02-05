@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 12:41:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-actions-to-prevent-suicide/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-actions-to-prevent-suicide/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions to Prevent\_Suicide"
 ---
@@ -15,7 +15,7 @@ Administration is committed to taking aggressive actions, including:
 -   **Tackling the Mental Health Crisis.** President Biden named
     tackling the mental health crisis a key pillar of his Unity Agenda,
     laying out [a strategy to
-    transform](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
+    transform](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
     how mental health is understood, perceived, accessed, treated, and
     integrated – in and out of health care settings. Released in March,
     the President’s strategy outlined several actions to: (1) strengthen
@@ -76,7 +76,7 @@ Administration is committed to taking aggressive actions, including:
     officials and health professionals. In November, the White House
     released a [comprehensive, cross-sector, public health strategy to
     reduce military and veteran
-    suicide](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/).
+    suicide](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-new-strategy-outlines-five-priorities-for-reducing-military-and-veteran-suicide/).
     This strategy identified five priority goals for harnessing a whole
     of government approach to prevent suicide in the military and
     veteran community. In January, HRSA awarded $103 million in

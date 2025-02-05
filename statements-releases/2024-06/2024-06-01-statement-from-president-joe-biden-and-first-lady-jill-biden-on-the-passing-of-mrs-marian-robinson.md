@@ -2,7 +2,7 @@
 date: '2024-06-01'
 modified_time: 2024-06-01 12:49:41-04:00
 published_time: 2024-06-01 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/01/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-mrs-marian-robinson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/01/statement-from-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-mrs-marian-robinson/
 tags: statements-releases
 title: "Statement from President Joe\_Biden and First Lady Jill\_Biden on the Passing\
   \ of Mrs. Marian\_Robinson"

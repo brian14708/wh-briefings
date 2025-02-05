@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 16:11:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/readout-of-president-joe-bidens-call-with-president-elect-claudia-sheinbaum-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/readout-of-president-joe-bidens-call-with-president-elect-claudia-sheinbaum-of-mexico/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President-Elect Claudia Sheinbaum\
   \ of\_Mexico"

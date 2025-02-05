@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 12:24:28-04:00
 published_time: 2023-06-14 12:21:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-giffords-law-center-30th-anniversary-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/14/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-giffords-law-center-30th-anniversary-celebration/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Giffords\
   \ Law Center 30th Anniversary\_Celebration"

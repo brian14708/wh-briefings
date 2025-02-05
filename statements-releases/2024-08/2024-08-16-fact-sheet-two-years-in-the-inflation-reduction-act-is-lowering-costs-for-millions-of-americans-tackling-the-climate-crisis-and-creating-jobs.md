@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 12:26:26-04:00
 published_time: 2024-08-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-two-years-in-the-inflation-reduction-act-is-lowering-costs-for-millions-of-americans-tackling-the-climate-crisis-and-creating-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/fact-sheet-two-years-in-the-inflation-reduction-act-is-lowering-costs-for-millions-of-americans-tackling-the-climate-crisis-and-creating-jobs/
 tags: statements-releases
 title: "FACT SHEET: Two Years In, the Inflation Reduction Act is Lowering Costs for\
   \ Millions of Americans, Tackling the Climate Crisis, and Creating\_Jobs"
@@ -84,7 +84,7 @@ Additionally, the Biden-Harris Administration has taken action to
 protect the critical investments that the Inflation Reduction Act is
 making in the domestic clean energy economy from unfair trade practices.
 In May, President Biden
-[increased](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
+[increased](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
 tariffs on $18 billion of Chinese imports to combat China’s artificially
 low-priced exports in strategic sectors such as electric vehicles,
 batteries, and solar. These actions protect American jobs, businesses,
@@ -153,7 +153,7 @@ Environmental Protection Agency announced that all $27 billion in awards
 through their Greenhouse Gas Reduction Fund are now obligated. $20
 billion of these awards go toward a national clean energy financing
 network that will support [tens of thousands of clean energy
-projects](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/),
+projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/biden-harris-administration-announces-historic-20-billion-in-awards-to-expand-access-to-clean-energy-and-climate-solutions-and-lower-energy-costs-for-communities-across-the-nation/),
 reducing or avoiding millions of metric tons of carbon pollution
 annually over the next seven years. The other $7 billion in awards
 through the Solar for All program will save over [$350 million each

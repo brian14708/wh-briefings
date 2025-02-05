@@ -1,7 +1,7 @@
 ---
 date: '2023-12-31'
 published_time: 2023-12-31 20:16:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/31/statement-from-president-joe-biden-on-the-passing-of-former-congresswoman-eddie-bernice-johnson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/31/statement-from-president-joe-biden-on-the-passing-of-former-congresswoman-eddie-bernice-johnson/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of former Congresswoman\
   \ Eddie Bernice\_Johnson"

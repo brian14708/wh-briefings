@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-03-18'
 modified_time: 2021-03-18 11:56:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/18/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-the-atlanta-metropolitan-area/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/18/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-the-atlanta-metropolitan-area/
 published_time: 2021-03-18 11:56:32-04:00
 title: "A Proclamation on Honoring the Victims of the Tragedy in the Atlanta Metropolitan\_\
   Area"

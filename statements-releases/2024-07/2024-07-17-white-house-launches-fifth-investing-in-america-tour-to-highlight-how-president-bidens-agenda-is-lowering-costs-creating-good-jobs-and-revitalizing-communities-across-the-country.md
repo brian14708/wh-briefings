@@ -1,7 +1,7 @@
 ---
 date: '2024-07-17'
 published_time: 2024-07-17 08:34:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/17/white-house-launches-fifth-investing-in-america-tour-to-highlight-how-president-bidens-agenda-is-lowering-costs-creating-good-jobs-and-revitalizing-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/17/white-house-launches-fifth-investing-in-america-tour-to-highlight-how-president-bidens-agenda-is-lowering-costs-creating-good-jobs-and-revitalizing-communities-across-the-country/
 tags: statements-releases
 title: "White\_House Launches Fifth Investing in America Tour to Highlight How President\_\
   Biden\u2019s Agenda is Lowering Costs, Creating Good Jobs, and Revitalizing Communities\

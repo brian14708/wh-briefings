@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-04 10:22:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/statement-by-president-biden-on-the-february-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/04/statement-by-president-biden-on-the-february-jobs-report/
 published_time: 2022-03-04 10:22:30-05:00
 title: "Statement by President\_Biden on the February Jobs\_Report"
 ---

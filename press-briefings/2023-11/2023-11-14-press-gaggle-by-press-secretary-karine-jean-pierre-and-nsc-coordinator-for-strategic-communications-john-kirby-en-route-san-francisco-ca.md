@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-14 17:26:07-05:00
 published_time: 2023-11-14 17:24:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/14/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/14/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-san-francisco-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route San Francisco,\_CA"

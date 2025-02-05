@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-23 21:54:09-04:00
 published_time: 2024-10-24 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/statement-from-national-economic-advisor-lael-brainard-on-national-security-memorandum-nsm-on-artificial-intelligence-ai/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/statement-from-national-economic-advisor-lael-brainard-on-national-security-memorandum-nsm-on-artificial-intelligence-ai/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on National Security\
   \ Memorandum (NSM) on Artificial Intelligence\_(AI)"

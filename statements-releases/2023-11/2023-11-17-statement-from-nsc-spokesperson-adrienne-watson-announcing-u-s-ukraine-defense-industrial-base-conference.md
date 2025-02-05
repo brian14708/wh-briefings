@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 published_time: 2023-11-17 13:02:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/statement-from-nsc-spokesperson-adrienne-watson-announcing-u-s-ukraine-defense-industrial-base-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/statement-from-nsc-spokesperson-adrienne-watson-announcing-u-s-ukraine-defense-industrial-base-conference/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson Announcing U.S.-Ukraine Defense\
   \ Industrial Base\_Conference"

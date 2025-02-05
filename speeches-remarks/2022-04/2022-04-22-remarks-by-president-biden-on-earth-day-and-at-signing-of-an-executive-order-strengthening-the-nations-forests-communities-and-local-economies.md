@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 18:24:38-04:00
 published_time: 2022-04-22 18:24:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/22/remarks-by-president-biden-on-earth-day-and-at-signing-of-an-executive-order-strengthening-the-nations-forests-communities-and-local-economies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/22/remarks-by-president-biden-on-earth-day-and-at-signing-of-an-executive-order-strengthening-the-nations-forests-communities-and-local-economies/
 tags: speeches-remarks
 title: "Remarks By President\_Biden on Earth Day and at Signing of an Executive Order\
   \ Strengthening the Nation\u2019s Forests, Communities, and Local\_Economies"

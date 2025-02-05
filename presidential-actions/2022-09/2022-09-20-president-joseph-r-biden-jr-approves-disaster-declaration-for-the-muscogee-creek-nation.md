@@ -1,7 +1,7 @@
 ---
 date: '2022-09-20'
 published_time: 2022-09-20 16:58:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-muscogee-creek-nation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/20/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-muscogee-creek-nation/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Muscogee\
   \ (Creek)\_Nation"

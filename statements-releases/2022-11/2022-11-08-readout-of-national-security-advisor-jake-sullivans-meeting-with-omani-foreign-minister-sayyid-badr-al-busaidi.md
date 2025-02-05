@@ -1,7 +1,7 @@
 ---
 date: '2022-11-08'
 published_time: 2022-11-08 23:11:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/08/readout-of-national-security-advisor-jake-sullivans-meeting-with-omani-foreign-minister-sayyid-badr-al-busaidi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/08/readout-of-national-security-advisor-jake-sullivans-meeting-with-omani-foreign-minister-sayyid-badr-al-busaidi/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Omani\
   \ Foreign Minister\_Sayyid Badr\_al-Busaidi"

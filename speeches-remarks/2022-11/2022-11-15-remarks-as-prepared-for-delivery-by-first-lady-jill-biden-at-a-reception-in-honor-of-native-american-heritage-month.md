@@ -1,7 +1,7 @@
 ---
 date: '2022-11-15'
 published_time: 2022-11-15 18:27:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-in-honor-of-native-american-heritage-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-in-honor-of-native-american-heritage-month/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Reception\
   \ in Honor of Native American Heritage\_Month"

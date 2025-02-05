@@ -1,7 +1,7 @@
 ---
 date: '2024-06-10'
 published_time: 2024-06-10 11:18:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/10/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-and-preserve-our-nations-african-american-history-ahead-of-juneteenth-national-independence-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/10/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-and-preserve-our-nations-african-american-history-ahead-of-juneteenth-national-independence-day/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Protect\
   \ and Preserve Our Nation\u2019s African American History Ahead of Juneteenth National\
@@ -9,7 +9,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to P
 ---
  
 Since day one, President Biden and Vice President Harris have [advanced
-racial justice](https://www.whitehouse.gov/equity/) and asserted that
+racial justice](https://bidenwhitehouse.archives.gov/equity/) and asserted that
 **Black history is American history**. We build a better future —
 together as a Nation — not by trying to erase America’s past, but by
 knowing our full history as a country. The Biden-Harris Administration
@@ -21,13 +21,13 @@ The Biden-Harris Administration is proud of its record of recognition of
 the history and contributions of Black people to our country. The
 President was proud to [sign into law the Juneteenth National
 Independence Day
-Act](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/),
+Act](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/17/remarks-by-president-biden-at-signing-of-the-juneteenth-national-independence-day-act/),
 the first new Federal holiday since the creation of the Dr. Martin
 Luther King, Jr. holiday 41 years ago in 1983, [designate the Emmett
 Till and Mamie Till-Mobley National
-Monument](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/),
+Monument](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/),
 and posthumously [award the Presidential Medal of Freedom to Medgar
-Evers](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/03/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-2/). Despite
+Evers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/03/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-2/). Despite
 growing forces that are attacking racial progress and attempting to
 rewrite history, the President and Vice President are committed to
 remind us that our country is only strengthened by the breadth,
@@ -47,11 +47,11 @@ Later today, the [President’s Committee on the Arts and the Humanities
 (PCAH)](https://www.pcah.gov/), in partnership with the White House, is
 producing the [second annual celebration of Juneteenth National
 Independence
-Day](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/07/white-house-announces-juneteenth-concert-2/)
+Day](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/07/white-house-announces-juneteenth-concert-2/)
 — the official end of chattel slavery in the United States. This
 large-scale concert on the White House South Lawn will also celebrate
 [Black Music
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-black-music-month-2024/)
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/31/a-proclamation-on-black-music-month-2024/)
 and feature African American musical legends to honor and contextualize
 American history through this important Federal holiday. This event
 spotlights the richness of the arts and humanities to demonstrate
@@ -59,7 +59,7 @@ African American history as an indelible part our shared National story.
 
 Vice President Harris has declared Juneteenth— June 19, 2024 — as one of
 [three National Days of Action on
-Voting](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-vice-president-harris-before-meeting-with-voting-rights-leaders-to-discuss-the-fight-for-voting-rights-and-other-fundamental-freedoms/).
+Voting](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/27/remarks-by-vice-president-harris-before-meeting-with-voting-rights-leaders-to-discuss-the-fight-for-voting-rights-and-other-fundamental-freedoms/).
 With a focus on voter engagement, these National Days of Action on
 Voting aim to ensure all Americans have the information they need to
 vote, promote voter participation for students, protect election
@@ -72,7 +72,7 @@ History and Culture**
 
 Aligned with President Biden’s [Executive Order on Promoting the Arts,
 the Humanities, and Museum and Library
-Services](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/),
+Services](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/),
 the National Endowment for the Arts (NEA), the National Endowment for
 the Humanities (NEH), and the Institute of Museum and Library Services
 (IMLS), in coordination with national and local philanthropic and civil
@@ -258,7 +258,7 @@ landmarks, monuments, and National parks.
     including many Black communities, who are benefiting from the
     billions of dollars in nationwide projects made possible under
     President Biden’s landmark [Investing in
-    America](https://www.whitehouse.gov/invest/) agenda.
+    America](https://bidenwhitehouse.archives.gov/invest/) agenda.
 -   The National Endowment for the Humanities will create a special
     encouragement in its grant programs for projects that preserve and
     promote access to historical collections documenting the history of
@@ -300,7 +300,7 @@ The Biden-Harris Administration remains committed to further advancing
 racial justice so that the promise of America is real for every
 American, including Black Americans.
 
--   Signed [two Executive Orders](https://www.whitehouse.gov/equity/)
+-   Signed [two Executive Orders](https://bidenwhitehouse.archives.gov/equity/)
     directing the Federal Government to advance an ambitious
     whole-of-government equity agenda to redress systemic barriers,
     including increasing access to Federal contracting dollars, capital,
@@ -309,7 +309,7 @@ American, including Black Americans.
     building economic prosperity in rural communities; and combating
     urban community disinvestment and housing discrimination.
 -   Signed an [Executive Order on Promoting Access to
-    Voting](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
+    Voting](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/)
     to leverage the resources of the Federal Government to provide
     nonpartisan information about the election process and increase
     access to voter registration. Agencies across the Federal Government
@@ -317,7 +317,7 @@ American, including Black Americans.
     all-of-government effort to enhance the ability of all eligible
     Americans to participate in our democracy.
 -   [Announced new
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/27/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders-2/)
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/27/readout-of-vice-president-kamala-harriss-convening-with-voting-rights-leaders-2/)
     to protect the sacred right to vote, including increased funding for
     the Department of Justice’s Civil Rights Division, which has more
     than doubled the number of voting rights enforcement staff. The

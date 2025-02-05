@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-03 02:36:15-05:00
 published_time: 2024-12-03 02:36:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/statement-from-nsc-spokesperson-sean-savett-on-outcomes-of-the-fifth-negotiating-session-on-a-global-agreement-to-end-plastic-pollution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/statement-from-nsc-spokesperson-sean-savett-on-outcomes-of-the-fifth-negotiating-session-on-a-global-agreement-to-end-plastic-pollution/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Sean Savett on Outcomes of the Fifth Negotiating\
   \ Session on a Global Agreement to End Plastic\_Pollution"

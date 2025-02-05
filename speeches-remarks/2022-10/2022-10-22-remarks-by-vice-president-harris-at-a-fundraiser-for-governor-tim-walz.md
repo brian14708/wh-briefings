@@ -2,7 +2,7 @@
 date: '2022-10-22'
 modified_time: 2022-10-23 13:46:42-04:00
 published_time: 2022-10-22 13:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/22/remarks-by-vice-president-harris-at-a-fundraiser-for-governor-tim-walz/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/22/remarks-by-vice-president-harris-at-a-fundraiser-for-governor-tim-walz/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Fundraiser for Governor Tim\_Walz"
 ---

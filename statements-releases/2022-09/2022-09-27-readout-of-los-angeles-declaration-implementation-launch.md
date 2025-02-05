@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 13:47:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/readout-of-los-angeles-declaration-implementation-launch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/readout-of-los-angeles-declaration-implementation-launch/
 tags: statements-releases
 title: "Readout of Los Angeles Declaration Implementation\_Launch"
 ---
@@ -35,7 +35,7 @@ cooperation and align policies to reduce irregular migration.
    
 U.S. Government representatives also outlined the progress the
 Biden-Harris Administration has made on
-its [commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/) under
+its [commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/fact-sheet-the-los-angeles-declaration-on-migration-and-protection-u-s-government-and-foreign-partner-deliverables/) under
 the Los Angeles Declaration, including disrupting human smuggling
 networks, increasing opportunities for labor migration, expanding
 refugee resettlement from the region, and redoubling support to

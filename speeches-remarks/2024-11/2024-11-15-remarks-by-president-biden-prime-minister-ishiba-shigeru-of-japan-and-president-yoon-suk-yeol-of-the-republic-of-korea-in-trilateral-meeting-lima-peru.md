@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-15 16:10:17-05:00
 published_time: 2024-11-15 16:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/15/remarks-by-president-biden-prime-minister-ishiba-shigeru-of-japan-and-president-yoon-suk-yeol-of-the-republic-of-korea-in-trilateral-meeting-lima-peru/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/15/remarks-by-president-biden-prime-minister-ishiba-shigeru-of-japan-and-president-yoon-suk-yeol-of-the-republic-of-korea-in-trilateral-meeting-lima-peru/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Ishiba Shigeru of Japan, and President\
   \ Yoon Suk Yeol of the Republic of Korea in Trilateral Meeting | Lima,\_Peru"

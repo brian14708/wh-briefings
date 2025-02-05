@@ -2,7 +2,7 @@
 date: '2024-01-26'
 modified_time: 2024-01-25 23:29:07-05:00
 published_time: 2024-01-26 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-decision-to-pause-pending-approvals-of-liquefied-natural-gas-exports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/statement-from-president-joe-biden-on-decision-to-pause-pending-approvals-of-liquefied-natural-gas-exports/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Decision to Pause Pending Approvals\
   \ of Liquefied Natural Gas\_Exports"

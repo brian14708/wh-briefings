@@ -1,7 +1,7 @@
 ---
 date: '2022-12-01'
 published_time: 2022-12-01 09:43:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-personal-consumption-expenditures-in-october/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/01/statement-from-president-joe-biden-on-personal-consumption-expenditures-in-october/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Personal Consumption Expenditures in\_\
   October"

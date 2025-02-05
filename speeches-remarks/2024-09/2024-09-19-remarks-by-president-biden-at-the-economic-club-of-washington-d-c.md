@@ -1,7 +1,7 @@
 ---
 date: '2024-09-19'
 published_time: 2024-09-19 15:52:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-president-biden-at-the-economic-club-of-washington-d-c/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/19/remarks-by-president-biden-at-the-economic-club-of-washington-d-c/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Economic Club of Washington,\_D.C."
 ---

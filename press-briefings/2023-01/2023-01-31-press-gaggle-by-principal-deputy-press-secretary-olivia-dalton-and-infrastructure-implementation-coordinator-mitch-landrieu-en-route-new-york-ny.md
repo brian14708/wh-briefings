@@ -2,7 +2,7 @@
 date: '2023-01-31'
 modified_time: 2023-01-31 13:03:00-05:00
 published_time: 2023-01-31 13:02:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/01/31/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-infrastructure-implementation-coordinator-mitch-landrieu-en-route-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/01/31/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-infrastructure-implementation-coordinator-mitch-landrieu-en-route-new-york-ny/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and Infrastructure\
   \ Implementation Coordinator Mitch Landrieu En Route New York,\_NY"

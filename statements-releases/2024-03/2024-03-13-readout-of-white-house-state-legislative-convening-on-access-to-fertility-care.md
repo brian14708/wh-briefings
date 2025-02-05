@@ -1,7 +1,7 @@
 ---
 date: '2024-03-13'
 published_time: 2024-03-13 22:49:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/13/readout-of-white-house-state-legislative-convening-on-access-to-fertility-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/13/readout-of-white-house-state-legislative-convening-on-access-to-fertility-care/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Access to Fertility\_\
   Care"

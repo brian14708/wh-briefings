@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-23 21:45:28-04:00
 published_time: 2022-09-23 21:45:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/readout-of-vice-president-kamala-harriss-meeting-with-naacp-youth-and-college-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/readout-of-vice-president-kamala-harriss-meeting-with-naacp-youth-and-college-leaders/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with NAACP Youth and\
   \ College\_Leaders"

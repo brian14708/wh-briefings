@@ -1,7 +1,7 @@
 ---
 date: '2022-10-12'
 published_time: 2022-10-12 12:16:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/12/on-the-record-press-call-by-national-security-advisor-jake-sullivan-previewing-the-biden-harris-administrations-national-security-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/12/on-the-record-press-call-by-national-security-advisor-jake-sullivan-previewing-the-biden-harris-administrations-national-security-strategy/
 tags: press-briefings
 title: "On-the-Record Press Call by National Security Advisor Jake Sullivan Previewing\
   \ the Biden-\u2060Harris Administration\u2019s National Security\_Strategy"

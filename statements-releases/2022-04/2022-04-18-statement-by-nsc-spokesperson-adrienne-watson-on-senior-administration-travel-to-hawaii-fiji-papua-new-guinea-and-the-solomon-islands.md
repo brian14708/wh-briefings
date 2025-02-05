@@ -2,7 +2,7 @@
 date: '2022-04-18'
 modified_time: 2022-04-17 20:54:20-04:00
 published_time: 2022-04-18 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/18/statement-by-nsc-spokesperson-adrienne-watson-on-senior-administration-travel-to-hawaii-fiji-papua-new-guinea-and-the-solomon-islands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/statement-by-nsc-spokesperson-adrienne-watson-on-senior-administration-travel-to-hawaii-fiji-papua-new-guinea-and-the-solomon-islands/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Senior Administration Travel\
   \ to Hawaii, Fiji, Papua New Guinea, and the Solomon\_Islands"
@@ -27,7 +27,7 @@ Islands Forum, a critical driver of regional action, to discuss issues
 of importance to the Pacific as a whole. The trip builds on Secretary
 Antony Blinken’s travel in February to the region, during which the
 Administration released the [Indo-Pacific Strategy of the United
-States](https://www.whitehouse.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf) and
+States](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/U.S.-Indo-Pacific-Strategy.pdf) and
 furthered our shared commitment to democracy and prosperity in the
 Pacific.
 

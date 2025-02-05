@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-11-26'
 modified_time: 2021-11-26 22:28:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/26/remarks-by-president-biden-in-press-gaggle-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/26/remarks-by-president-biden-in-press-gaggle-2/
 published_time: 2021-11-26 22:45:00-05:00
 title: "Remarks by President\_Biden in Press\_Gaggle"
 ---

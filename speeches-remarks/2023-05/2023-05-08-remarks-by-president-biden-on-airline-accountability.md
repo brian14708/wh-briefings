@@ -2,7 +2,7 @@
 date: '2023-05-08'
 modified_time: 2023-05-08 16:21:33-04:00
 published_time: 2023-05-08 16:20:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/08/remarks-by-president-biden-on-airline-accountability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/08/remarks-by-president-biden-on-airline-accountability/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Airline\_Accountability"
 ---

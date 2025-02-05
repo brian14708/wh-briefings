@@ -1,7 +1,7 @@
 ---
 date: '2022-12-01'
 published_time: 2022-12-01 12:23:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-president-biden-and-president-emmanuel-macron-of-france-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/01/remarks-by-president-biden-and-president-emmanuel-macron-of-france-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Emmanuel Macron of France Before\
   \ Bilateral\_Meeting"

@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 16:06:36-04:00
 published_time: 2024-03-28 16:06:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-signs-executive-order-to-strengthen-the-recognition-of-womens-history/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-signs-executive-order-to-strengthen-the-recognition-of-womens-history/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Strengthen the Recognition\
   \ of Women\u2019s\_History"
@@ -12,7 +12,7 @@ President Biden and Vice President Harris recognize that throughout
 history, the vision and achievements of women have strengthened our
 nation and opened the doors of opportunity wider for all of us. To
 better tell these stories, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/27/executive-order-on-recognizing-and-honoring-womens-history/)
 to strengthen the National Park Service’s recognition of women’s
 history. This Executive Order, which comes during Women’s History Month,
 will increase the representation of women’s history in sites across
@@ -63,12 +63,12 @@ Department of the Interior to:
 The Executive Order builds on actions the Biden-Harris Administration
 has taken to advance gender equity and equality and improve gender
 parity in representation and leadership, including the
-[designation](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
+[designation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-president-biden-designates-emmett-till-and-mamie-till-mobley-national-monument/)
 of the Emmett Till and Mamie Till-Mobley National Monument in July 2023.
 The Executive Order also adds to the President’s historic record of
 conserving places that help tell a more complete story of America – from
 designating the [Baaj Nwaavjo I’tah Kukveni National
-Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
 that protects lands and historic sites near the Grand Canyon that are
 sacred to Tribal Nations and Indigenous peoples to signing legislation
 to designate [Camp

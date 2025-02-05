@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 12:50:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islander-heritage-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/29/a-proclamation-on-asian-american-native-hawaiian-and-pacific-islander-heritage-month-2022/
 tags: presidential-actions
 title: "A Proclamation on Asian American, Native Hawaiian, And Pacific Islander Heritage\
   \ Month,\_2022"

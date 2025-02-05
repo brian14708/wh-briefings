@@ -1,7 +1,7 @@
 ---
 date: '2023-05-02'
 published_time: 2023-05-02 21:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/readout-of-inaugural-meeting-of-the-u-s-canada-energy-transformation-taskforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/02/readout-of-inaugural-meeting-of-the-u-s-canada-energy-transformation-taskforce/
 tags: statements-releases
 title: "Readout of Inaugural Meeting of the U.S. \u2013 Canada Energy Transformation\_\
   Taskforce"

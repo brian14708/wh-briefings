@@ -2,7 +2,7 @@
 date: '2022-08-19'
 modified_time: 2022-08-18 17:13:02-04:00
 published_time: 2022-08-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/statement-by-press-secretary-karine-jean-pierre-on-the-white-house-united-we-stand-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/statement-by-press-secretary-karine-jean-pierre-on-the-white-house-united-we-stand-summit/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on The White\_House \u201C\
   United We Stand\u201D\_Summit"

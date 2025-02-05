@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-15 12:00:17-05:00
 published_time: 2023-11-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/11/15/job-gains-in-construction-after-two-years-of-the-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/11/15/job-gains-in-construction-after-two-years-of-the-bipartisan-infrastructure-law/
 tags: blog
 title: "Job Gains in Construction After Two Years of the Bipartisan Infrastructure\_\
   Law"
@@ -13,7 +13,7 @@ title: "Job Gains in Construction After Two Years of the Bipartisan Infrastructu
 ------------------------------------------------------------------------
 
 Two years ago, President Biden signed into law the [Bipartisan
-Infrastructure Law](https://www.whitehouse.gov/build/guidebook/), which
+Infrastructure Law](https://bidenwhitehouse.archives.gov/build/guidebook/), which
 makes historic and
 [much](https://www.nhtsa.gov/press-releases/traffic-crash-death-estimates-2022)–[needed](https://infrastructurereportcard.org/)
 investments in improving transportation infrastructure, modernizing the
@@ -23,11 +23,11 @@ economy. The law also includes Build America, Buy America requirements
 to ensure the domestic manufacturing of construction materials including
 iron and steel and to incentivize the domestic production of [electric
 vehicle charging
-stations](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/),
+stations](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/),
 [fiber optic
-cable](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/)
+cable](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/03/fact-sheet-biden-harris-administration-high-speed-internet-investments-spur-made-in-america-manufacturing-boom/)
 for high-speed internet, and [water infrastructure
-parts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/22/fact-sheethistoric-biden-%e2%81%a0harris-administration-investments-in-water-infrastructure-and-lead-pipe-replacement-are-creating-new-domestic-manufacturing-job/).
+parts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/22/fact-sheethistoric-biden-%e2%81%a0harris-administration-investments-in-water-infrastructure-and-lead-pipe-replacement-are-creating-new-domestic-manufacturing-job/).
 In the short run,
 [researchers](https://repeatproject.org/policies/iija?comparison=benchmark&state=national&categories=labor&page=1&limit=25)
 [have](https://www.artba.org/wp-content/uploads/federal-investment/iija/ARTBA_EIA_IIJA_Report_Sept2021.pdf)
@@ -37,9 +37,9 @@ In the short run,
 law will support hundreds of thousands of jobs, primarily in
 construction and manufacturing. In the long run, the law is designed to
 enhance
-[productivity](https://www.whitehouse.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
+[productivity](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
 and deliver broad-based economic
-[growth](https://www.whitehouse.gov/cea/written-materials/2021/11/15/the-time-is-now-to-modernize-u-s-infrastructure/).
+[growth](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/15/the-time-is-now-to-modernize-u-s-infrastructure/).
 
 While many of the economic benefits of the legislation will play out
 over the coming years and decades, job gains in construction industries
@@ -61,7 +61,7 @@ American workers, as these jobs tend to be relatively
 [high-paying](https://www.bls.gov/news.release/empsit.t19.htm). The
 Biden-Harris Administration has taken steps to further improve the
 quality of these jobs, such as by
-[requiring](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/)
+[requiring](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/)
 the use of project labor agreements for large-scale federal construction
 projects and updating the [Davis Bacon Prevailing Wage
 Rule](https://www.dol.gov/newsroom/releases/whd/whd20230808) for the
@@ -96,10 +96,10 @@ highway, street, and bridge construction (Figure 1).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?w=640"
 class="wp-image-87773" decoding="async" loading="lazy"
 sizes="(max-width: 1954px) 100vw, 1954px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png 1954w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=615,396 615w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=768,494 768w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1270,817 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1536,988 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=497,320 497w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=995,640 995w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1038,668 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png 1954w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=615,396 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=768,494 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1270,817 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1536,988 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=497,320 497w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=995,640 995w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure1-1.png?resize=1038,668 1038w"
 width="1954" height="1257" />
 </figure>
 
@@ -116,10 +116,10 @@ times that amount—2,800 jobs per month.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?w=640"
 class="wp-image-87769" decoding="async" loading="lazy"
 sizes="(max-width: 2010px) 100vw, 2010px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png 2010w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=615,341 615w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=768,426 768w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=1270,705 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=1536,853 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=576,320 576w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=1153,640 1153w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=700,390 700w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure2.png?resize=1038,576 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png 2010w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=615,341 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=768,426 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=1270,705 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=1536,853 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=576,320 576w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=1153,640 1153w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=700,390 700w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure2.png?resize=1038,576 1038w"
 width="2010" height="1116" />
 </figure>
 
@@ -137,7 +137,7 @@ particularly nonresidential buildings like manufacturing facilities,
 airports, bus terminals, factories, and warehouses, suggest progress
 with implementing the Bipartisan Infrastructure Law and the rest of the
 President’s [Investing in America
-agenda](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/).
+agenda](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/).
 
 Like heavy and civil engineering, the industry has seen striking gains
 in recent years. Since January 2021, the industry has added 187,000
@@ -154,23 +154,23 @@ construction has added an average of 3,800 jobs per month, well above
 the average between 2011 and 2019 of 1,800 and the average between 2004
 and 2007 of 2,200. Notably, these job gains have come as spending on the
 construction of manufacturing facilities has hit [record
-highs](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/).
+highs](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?w=640"
 class="wp-image-87770" decoding="async" loading="lazy"
 sizes="(max-width: 1920px) 100vw, 1920px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png 1920w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=615,380 615w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=768,474 768w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=1270,784 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=1536,948 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=518,320 518w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=1037,640 1037w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure3.png?resize=1038,641 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png 1920w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=615,380 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=768,474 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=1270,784 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=1536,948 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=518,320 518w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=1037,640 1037w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure3.png?resize=1038,641 1038w"
 width="1920" height="1185" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?w=640"
 class="wp-image-87771" decoding="async" loading="lazy"
 sizes="(max-width: 1785px) 100vw, 1785px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png 1785w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=615,361 615w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=768,451 768w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=1270,746 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=1536,902 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=545,320 545w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=1090,640 1090w, https://www.whitehouse.gov/wp-content/uploads/2023/11/figure4.png?resize=1038,609 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png 1785w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=615,361 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=768,451 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=1270,746 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=1536,902 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=545,320 545w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=1090,640 1090w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/figure4.png?resize=1038,609 1038w"
 width="1785" height="1048" />
 </figure>
 
@@ -194,7 +194,7 @@ of how implementation of the Bipartisan Infrastructure Law has
 progressed in the last two years, reflecting only a subset of the
 near-term benefits of infrastructure investment. Since President Biden
 took office, the Administration has announced nearly [$400
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/09/fact-sheet-biden-harris-administration-celebrates-historic-progress-in-rebuilding-america-ahead-of-two-year-anniversary-of-bipartisan-infrastructure-law/)
 in public infrastructure and clean energy investments, with 40,000
 infrastructure projects moving forward. Economic research suggests that
 as these infrastructure investments continue to progress, additional

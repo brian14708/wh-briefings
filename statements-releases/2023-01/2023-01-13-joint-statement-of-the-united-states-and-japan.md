@@ -2,7 +2,7 @@
 date: '2023-01-13'
 modified_time: 2023-01-13 14:16:37-05:00
 published_time: 2023-01-13 14:16:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/13/joint-statement-of-the-united-states-and-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/13/joint-statement-of-the-united-states-and-japan/
 tags: statements-releases
 title: "Joint Statement of the United\_States and\_Japan"
 ---

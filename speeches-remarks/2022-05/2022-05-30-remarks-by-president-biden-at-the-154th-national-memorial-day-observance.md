@@ -2,7 +2,7 @@
 date: '2022-05-30'
 modified_time: 2022-05-30 15:49:51-04:00
 published_time: 2022-05-30 15:48:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/30/remarks-by-president-biden-at-the-154th-national-memorial-day-observance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/30/remarks-by-president-biden-at-the-154th-national-memorial-day-observance/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 154th National Memorial Day\_Observance"
 ---

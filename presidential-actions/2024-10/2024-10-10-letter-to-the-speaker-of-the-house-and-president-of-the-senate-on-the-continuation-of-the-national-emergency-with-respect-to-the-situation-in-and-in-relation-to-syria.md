@@ -2,7 +2,7 @@
 date: '2024-10-10'
 modified_time: 2024-10-10 12:59:18-04:00
 published_time: 2024-10-10 12:59:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/10/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/10/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to the Situation in and in Relation to\_\

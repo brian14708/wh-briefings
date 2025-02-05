@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 14:44:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/readout-of-meeting-with-house-and-senate-bipartisan-task-forces-for-combating-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/readout-of-meeting-with-house-and-senate-bipartisan-task-forces-for-combating-antisemitism/
 tags: statements-releases
 title: "Readout of Meeting with House and Senate Bipartisan Task Forces for Combating\_\
   Antisemitism"

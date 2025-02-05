@@ -1,7 +1,7 @@
 ---
 date: '2023-09-29'
 published_time: 2023-09-29 12:49:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/statement-by-vice-president-kamala-harris-on-the-passing-of-senator-dianne-feinstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/statement-by-vice-president-kamala-harris-on-the-passing-of-senator-dianne-feinstein/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Passing of Senator Dianne\_\
   Feinstein"

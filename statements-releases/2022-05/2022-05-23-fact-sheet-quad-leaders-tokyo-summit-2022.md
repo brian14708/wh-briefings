@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-23 21:54:48-04:00
 published_time: 2022-05-23 21:54:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-quad-leaders-tokyo-summit-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-quad-leaders-tokyo-summit-2022/
 tags: statements-releases
 title: "FACT SHEET: Quad Leaders\u2019 Tokyo Summit\_2022"
 ---

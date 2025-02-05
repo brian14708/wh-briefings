@@ -2,7 +2,7 @@
 date: '2023-05-22'
 modified_time: 2023-05-21 21:45:09-04:00
 published_time: 2023-05-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/fact-sheet-vice-president-harris-advances-the-biden-harris-administrations-investing-in-america-agenda-and-highlights-multi-billion-dollar-semiconductor-rd-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/fact-sheet-vice-president-harris-advances-the-biden-harris-administrations-investing-in-america-agenda-and-highlights-multi-billion-dollar-semiconductor-rd-investments/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Advances the Biden-\u2060Harris Administration\u2019\
   s Investing in America Agenda and Highlights Multi-Billion Dollar Semiconductor\
@@ -145,7 +145,7 @@ the following milestones with respect to CHIPS implementation:
     and cost of commercializing new technologies, and develop the
     semiconductor workforce.
 -   In May 2023, the White House announced a [set of
-    strategies](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    strategies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
     to train and connect hardworking Americans with jobs created by
     President Biden’s Investing in America agenda, including good-paying
     jobs created in the semiconductor industry and in advanced

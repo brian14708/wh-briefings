@@ -2,7 +2,7 @@
 date: '2024-05-17'
 modified_time: 2024-05-17 12:43:31-04:00
 published_time: 2024-05-17 12:43:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-community-listening-session-on-tribal-health-care/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/17/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-community-listening-session-on-tribal-health-care/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Community\
   \ Listening Session on Tribal Health\_Care"

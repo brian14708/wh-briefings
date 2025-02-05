@@ -2,7 +2,7 @@
 date: '2024-10-30'
 modified_time: 2024-10-29 23:35:16-04:00
 published_time: 2024-10-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/30/fact-sheet-key-ai-accomplishments-in-the-year-since-the-biden-harris-administrations-landmark-executive-order/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/30/fact-sheet-key-ai-accomplishments-in-the-year-since-the-biden-harris-administrations-landmark-executive-order/
 tags: statements-releases
 title: "Fact Sheet: Key AI Accomplishments in the Year Since the Biden-\u2060Harris\
   \ Administration\u2019s Landmark Executive\_Order"
@@ -130,10 +130,10 @@ have:
     LGBTQI+ people. This year, following the Vice President’s leadership
     in underscoring the urgent need to address deepfake image-based
     sexual abuse and a White House [Call to
-    Action](https://www.whitehouse.gov/ostp/news-updates/2024/05/23/a-call-to-action-to-combat-image-based-sexual-abuse/)
+    Action](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/05/23/a-call-to-action-to-combat-image-based-sexual-abuse/)
     to reduce these risks, leading AI developers and data providers made
     [voluntary
-    commitments](https://www.whitehouse.gov/ostp/news-updates/2024/09/12/white-house-announces-new-private-sector-voluntary-commitments-to-combat-image-based-sexual-abuse/)
+    commitments](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/09/12/white-house-announces-new-private-sector-voluntary-commitments-to-combat-image-based-sexual-abuse/)
     to curb the creation of AI-generated image-based sexual abuse
     material. Additionally, the Department of Justice (DOJ) funded the
     first-ever helpline to provide 24/7 support and specialized services
@@ -424,7 +424,7 @@ the last year, agencies have:
 -   **Issued the first-ever government-wide policy to strengthen
     governance, mitigate risks, and advance innovation in federal use of
     AI.** OMB’s historic policy,
-    [M-24-10](https://www.whitehouse.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf),
+    [M-24-10](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/M-24-10-Advancing-Governance-Innovation-and-Risk-Management-for-Agency-Use-of-Artificial-Intelligence.pdf),
     requires agencies to implement concrete safeguards when using AI in
     a way that could impact Americans’ rights or safety. These
     safeguards include a series of mandatory risk management practices
@@ -440,7 +440,7 @@ the last year, agencies have:
 
 -   **Released a government-wide policy to advance responsible
     acquisition of AI by Federal agencies.**
-    [M-24-18,](https://www.whitehouse.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)
+    [M-24-18,](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/M-24-18-AI-Acquisition-Memorandum.pdf)
     published this month by OMB, helps ensure that when Federal agencies
     acquire AI, they have the information and tools necessary to manage
     risks, promote a competitive marketplace, and collaborate on
@@ -476,7 +476,7 @@ the last year, agencies have:
     line with OMB’s policies. 
 -   **Bolstered the public interest technology ecosystem**. Building on
     the AI Talent Surge, the White House [announced
-    funding](https://www.whitehouse.gov/ostp/news-updates/2024/07/16/fact-sheet-biden-harris-administration-announces-commitments-from-across-technology-ecosystem-including-nearly-100-million-to-advance-public-interest-technology/)
+    funding](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/07/16/fact-sheet-biden-harris-administration-announces-commitments-from-across-technology-ecosystem-including-nearly-100-million-to-advance-public-interest-technology/)
     across government, academia, and civil society to support education
     and career pathways that will help ensure government has access to
     diverse, mission-oriented technology talent.
@@ -591,55 +591,55 @@ have completed in response to the Executive Order.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png"
 class="wp-image-108433" decoding="async" loading="lazy"
 sizes="(max-width: 935px) 100vw, 935px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png 935w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=484,615 484w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=768,976 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=252,320 252w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=504,640 504w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=669,850 669w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png 935w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=484,615 484w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=768,976 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=252,320 252w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=504,640 504w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-1.png?resize=669,850 669w"
 width="935" height="1188" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?w=640"
 class="wp-image-108434" decoding="async" loading="lazy"
 sizes="(max-width: 923px) 100vw, 923px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png 923w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=438,615 438w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=768,1078 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=904,1270 904w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=228,320 228w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=456,640 456w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=912,1280 912w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=605,850 605w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png 923w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=438,615 438w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=768,1078 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=904,1270 904w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=228,320 228w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=456,640 456w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=912,1280 912w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-2.png?resize=605,850 605w"
 width="923" height="1296" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png"
 class="wp-image-108435" decoding="async" loading="lazy"
 sizes="(max-width: 935px) 100vw, 935px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png 935w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=470,615 470w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=768,1005 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=245,320 245w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=489,640 489w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=650,850 650w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png 935w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=470,615 470w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=768,1005 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=245,320 245w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=489,640 489w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-3.png?resize=650,850 650w"
 width="935" height="1223" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png"
 class="wp-image-108436" decoding="async" loading="lazy"
 sizes="(max-width: 935px) 100vw, 935px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png 935w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=453,615 453w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=768,1042 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=236,320 236w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=472,640 472w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=627,850 627w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png 935w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=453,615 453w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=768,1042 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=236,320 236w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=472,640 472w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-4.png?resize=627,850 627w"
 width="935" height="1268" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png"
 class="wp-image-108437" decoding="async" loading="lazy"
 sizes="(max-width: 935px) 100vw, 935px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png 935w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=522,615 522w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=768,905 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=272,320 272w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=543,640 543w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=721,850 721w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png 935w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=522,615 522w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=768,905 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=272,320 272w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=543,640 543w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-5.png?resize=721,850 721w"
 width="935" height="1102" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png"
 class="wp-image-108438" decoding="async" loading="lazy"
 sizes="(max-width: 935px) 100vw, 935px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png 935w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=615,463 615w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=768,578 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=425,320 425w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=850,640 850w, https://www.whitehouse.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=350,265 350w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png 935w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=615,463 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=768,578 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=425,320 425w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=850,640 850w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Robyn-6.png?resize=350,265 350w"
 width="935" height="704" />
 </figure>
 

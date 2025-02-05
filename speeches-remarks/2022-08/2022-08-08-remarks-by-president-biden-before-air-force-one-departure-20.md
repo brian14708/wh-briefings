@@ -2,7 +2,7 @@
 date: '2022-08-08'
 modified_time: 2022-08-09 13:36:35-04:00
 published_time: 2022-08-08 13:35:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/08/remarks-by-president-biden-before-air-force-one-departure-20/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/08/remarks-by-president-biden-before-air-force-one-departure-20/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

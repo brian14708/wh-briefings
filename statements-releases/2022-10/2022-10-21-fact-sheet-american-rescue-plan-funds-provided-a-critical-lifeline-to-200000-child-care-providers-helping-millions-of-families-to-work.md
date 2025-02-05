@@ -2,7 +2,7 @@
 date: '2022-10-21'
 modified_time: 2022-10-21 10:36:32-04:00
 published_time: 2022-10-21 12:31:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/
 tags: statements-releases
 title: "FACT SHEET: American Rescue Plan Funds Provided a Critical Lifeline to 200,000\
   \ Child Care Providers \u2013 Helping Millions of Families to\_Work"
@@ -81,7 +81,7 @@ providers meet critical needs and remain open:</span>
 -   **Roughly 88% of child care centers report using stabilization funds
     to help pay personnel costs and keep programs staffed.** States are
     also delivering
-    [billions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
+    [billions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-white-house-announces-over-40-billion-in-american-rescue-plan-investments-in-our-workforce-with-more-coming/)
     in Child Care Stabilization funds to child care workers directly in
     the form of higher pay, hiring or retention bonuses, and expanded
     benefits—reducing turnover, attracting new workers, and improving

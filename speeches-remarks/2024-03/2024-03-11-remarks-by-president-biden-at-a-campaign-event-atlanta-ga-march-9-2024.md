@@ -1,7 +1,7 @@
 ---
 date: '2024-03-11'
 published_time: 2024-03-11 14:30:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-president-biden-at-a-campaign-event-atlanta-ga-march-9-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/11/remarks-by-president-biden-at-a-campaign-event-atlanta-ga-march-9-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Atlanta, GA (March 9,\_\
   2024)"

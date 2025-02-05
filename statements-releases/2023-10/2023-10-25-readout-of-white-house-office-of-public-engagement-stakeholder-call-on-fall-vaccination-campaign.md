@@ -1,7 +1,7 @@
 ---
 date: '2023-10-25'
 published_time: 2023-10-25 12:36:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/readout-of-white-house-office-of-public-engagement-stakeholder-call-on-fall-vaccination-campaign/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/readout-of-white-house-office-of-public-engagement-stakeholder-call-on-fall-vaccination-campaign/
 tags: statements-releases
 title: "Readout of White\_House Office of Public Engagement Stakeholder Call on Fall\
   \ Vaccination\_Campaign"

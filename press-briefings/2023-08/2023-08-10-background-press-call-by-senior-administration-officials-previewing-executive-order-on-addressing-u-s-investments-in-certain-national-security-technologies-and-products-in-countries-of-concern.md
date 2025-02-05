@@ -1,7 +1,7 @@
 ---
 date: '2023-08-10'
 published_time: 2023-08-10 05:41:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/10/background-press-call-by-senior-administration-officials-previewing-executive-order-on-addressing-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/10/background-press-call-by-senior-administration-officials-previewing-executive-order-on-addressing-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing Executive\
   \ Order on Addressing U.S. Investments in Certain National Security Technologies\

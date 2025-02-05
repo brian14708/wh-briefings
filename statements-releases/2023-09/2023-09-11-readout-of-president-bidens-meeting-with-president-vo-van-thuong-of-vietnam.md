@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 05:33:29-04:00
 published_time: 2023-09-11 05:33:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/11/readout-of-president-bidens-meeting-with-president-vo-van-thuong-of-vietnam/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/11/readout-of-president-bidens-meeting-with-president-vo-van-thuong-of-vietnam/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Vo Van Thuong of\_\
   Vietnam"

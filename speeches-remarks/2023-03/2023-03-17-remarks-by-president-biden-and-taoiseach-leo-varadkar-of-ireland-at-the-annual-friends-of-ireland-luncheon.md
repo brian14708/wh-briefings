@@ -1,7 +1,7 @@
 ---
 date: '2023-03-17'
 published_time: 2023-03-17 16:42:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-the-annual-friends-of-ireland-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-the-annual-friends-of-ireland-luncheon/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Taoiseach Leo Varadkar of Ireland at the Annual\
   \ Friends of Ireland\_Luncheon"

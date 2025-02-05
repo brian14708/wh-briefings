@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 15:58:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/09/30/bills-signed-h-r-8656/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/09/30/bills-signed-h-r-8656/
 tags: legislation
 title: "Bills Signed: H.R.\_8656"
 ---

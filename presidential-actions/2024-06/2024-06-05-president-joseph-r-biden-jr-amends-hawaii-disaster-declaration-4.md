@@ -2,7 +2,7 @@
 date: '2024-06-05'
 modified_time: 2024-06-05 16:09:24-04:00
 published_time: 2024-06-05 16:09:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/05/president-joseph-r-biden-jr-amends-hawaii-disaster-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/05/president-joseph-r-biden-jr-amends-hawaii-disaster-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Hawaii Disaster\_Declaration"
 ---

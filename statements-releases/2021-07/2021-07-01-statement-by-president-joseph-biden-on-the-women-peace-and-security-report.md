@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-01'
 modified_time: 2021-07-19 12:49:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/statement-by-president-joseph-biden-on-the-women-peace-and-security-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/01/statement-by-president-joseph-biden-on-the-women-peace-and-security-report/
 published_time: 2021-07-01 09:25:07-04:00
 title: "Statement by President Joseph Biden on the Women, Peace, and Security\_Report"
 ---
@@ -71,7 +71,7 @@ content to just get back to where we were. We have to seize this moment
 to fundamentally change our approach.
 
 While this
-[report](https://www.whitehouse.gov/wp-content/uploads/2021/07/USG_Women_Peace_Security_WPS_Congressional_Report_FINAL6.30.2021-Updated-July-16.pdf)
+[report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/USG_Women_Peace_Security_WPS_Congressional_Report_FINAL6.30.2021-Updated-July-16.pdf)
 focuses on the Departments of State, Defense, and Homeland Security and
 USAID, I have instructed departments and agencies across the Federal
 Government to prioritize gender equity and equality. The persistent
@@ -86,6 +86,6 @@ Empowering women globally—ensuring their inclusion in decision making
 and leadership positions—is essential to achieving that goal.
 
 To view the report, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2021/07/USG_Women_Peace_Security_WPS_Congressional_Report_FINAL6.30.2021-Updated-July-16.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/USG_Women_Peace_Security_WPS_Congressional_Report_FINAL6.30.2021-Updated-July-16.pdf>
 
 \###

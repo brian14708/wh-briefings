@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-09 20:07:20-04:00
 published_time: 2024-07-09 18:37:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/09/statement-from-president-joe-biden-on-declaring-a-federal-emergency-in-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/09/statement-from-president-joe-biden-on-declaring-a-federal-emergency-in-texas/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Approving a Major Disaster Declaration\
   \ for\_Texas"

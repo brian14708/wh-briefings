@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-27'
 modified_time: 2021-04-28 08:44:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-administration-advances-expansion-modernization-of-the-electric-grid/
 published_time: 2021-04-27 15:22:35-04:00
 title: "FACT SHEET: Biden Administration Advances Expansion & Modernization of the\
   \ Electric\_Grid"
@@ -35,7 +35,7 @@ McCarthy** noted: “After the Texas transmission debacle this winter, no
 one can doubt the need to invest in our electric grid. The steps that
 the Departments of Energy and Transportation are taking today, when
 combined with the grid investments outlined in the [American Jobs
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/),
 will turbocharge the building of major new electricity transmission
 lines that will generate new jobs and power our economy for years to
 come.”  

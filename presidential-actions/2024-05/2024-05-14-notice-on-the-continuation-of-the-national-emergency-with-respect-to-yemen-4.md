@@ -1,7 +1,7 @@
 ---
 date: '2024-05-14'
 published_time: 2024-05-14 12:04:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/14/notice-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/14/notice-on-the-continuation-of-the-national-emergency-with-respect-to-yemen-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to\_Yemen"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-10'
 published_time: 2023-10-10 09:37:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/10/virtual-on-the-record-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-on-hamas-terrorist-attacks-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/10/10/virtual-on-the-record-gaggle-by-nsc-coordinator-for-strategic-communications-john-kirby-on-hamas-terrorist-attacks-in-israel/
 tags: press-briefings
 title: "Virtual On-the-Record Gaggle by NSC Coordinator for Strategic Communications\
   \ John Kirby on Hamas Terrorist Attacks in\_Israel"

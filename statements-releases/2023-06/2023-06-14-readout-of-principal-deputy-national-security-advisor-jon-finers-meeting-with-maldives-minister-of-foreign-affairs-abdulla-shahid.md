@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 20:36:17-04:00
 published_time: 2023-06-14 20:36:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-maldives-minister-of-foreign-affairs-abdulla-shahid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-maldives-minister-of-foreign-affairs-abdulla-shahid/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Maldives Minister of Foreign Affairs Abdulla\_Shahid"

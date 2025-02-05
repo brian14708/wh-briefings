@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-26 20:34:50-04:00
 published_time: 2023-03-27 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-announces-new-resources-to-support-women-small-businesses-owners-continued-commitment-to-supporting-americas-entrepreneurs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-announces-new-resources-to-support-women-small-businesses-owners-continued-commitment-to-supporting-americas-entrepreneurs/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Resources to Support Women Small\
   \ Businesses Owners, Continued Commitment to Supporting America\u2019s\_Entrepreneurs"
@@ -81,7 +81,7 @@ to navigate available programs. That’s why this Administration has: 
     Year 2024 budget proposes an additional $30 million to support this
     critical initiative.
 -   Made the [Minority Business Development Agency
-    permanent](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/),
+    permanent](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/),
     creating the only Federal agency dedicated to connecting
     minority-owned businesses to private lenders, exporters, and public-
     and private-sector buyers.
@@ -119,7 +119,7 @@ Biden-Harris Administration has:
 
 -   Set a goal of increasing the share of federal contracting dollars
     awarded to small disadvantaged businesses (SDBs) by 50% [by
-    2025](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/).
+    2025](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/).
     This will result in an estimated additional $100 billion in federal
     contracting dollars to underserved small businesses over a 5-year
     period, many of which are owned by women. In 2021, the
@@ -134,14 +134,14 @@ Biden-Harris Administration has:
     Law, CHIPS and Science Act, and Inflation Reduction Act continue to
     create meaningful wealth-building opportunities for women-owned
     businesses,
-    creating [billions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/) of
+    creating [billions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/) of
     dollars in contracting opportunities for America’s small businesses.
 
 In addition, the President’s American Rescue Plan made critical
 investments which saved hundreds of thousands of small businesses from
 shutting their doors during the pandemic, including by:
 
--   Providing [assistance](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/) to
+-   Providing [assistance](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/) to
     220,000 child care providers – which are nearly all small
     businesses, and are over 90% women-owned and women staffed. Ninety
     percent of child care providers that received
@@ -152,12 +152,12 @@ shutting their doors during the pandemic, including by:
     they would have been forced to close permanently without these
     funds.
 -   Revamping the [Paycheck Protection
-    Program](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/) to
+    Program](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/) to
     ensure that businesses with less than 20 employees – in particular
     sole proprietor businesses that are disproportionately owned by
     women – had priority access to relief.
 -   Providing critical breathing room to more than [100,000
-    restaurants](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/),
+    restaurants](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/10/a-proclamation-on-small-business-week-2021/),
     food trucks, street food vendors, breweries, and other food service
     businesses through our Restaurant Revitalization Fund. Over 40,000
     grants totaling over $10 billion went to women-owned businesses via

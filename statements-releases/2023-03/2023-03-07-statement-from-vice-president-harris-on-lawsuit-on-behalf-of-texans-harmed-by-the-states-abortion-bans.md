@@ -1,7 +1,7 @@
 ---
 date: '2023-03-07'
 published_time: 2023-03-07 11:31:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/07/statement-from-vice-president-harris-on-lawsuit-on-behalf-of-texans-harmed-by-the-states-abortion-bans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/07/statement-from-vice-president-harris-on-lawsuit-on-behalf-of-texans-harmed-by-the-states-abortion-bans/
 tags: statements-releases
 title: "Statement from Vice President Harris on Lawsuit on Behalf of Texans Harmed\
   \ by the State\u2019s Abortion\_Bans"

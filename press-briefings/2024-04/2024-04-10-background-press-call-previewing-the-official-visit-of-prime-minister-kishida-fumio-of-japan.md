@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-09 22:37:56-04:00
 published_time: 2024-04-10 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/10/background-press-call-previewing-the-official-visit-of-prime-minister-kishida-fumio-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/10/background-press-call-previewing-the-official-visit-of-prime-minister-kishida-fumio-of-japan/
 tags: press-briefings
 title: "Background Press Call Previewing the Official Visit of Prime Minister Kishida\
   \ Fumio of\_Japan"

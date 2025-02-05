@@ -2,7 +2,7 @@
 date: '2024-07-22'
 modified_time: 2024-07-20 01:18:35-04:00
 published_time: 2024-07-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/22/statement-from-president-joe-biden-on-climate-pollution-reduction-grants/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/22/statement-from-president-joe-biden-on-climate-pollution-reduction-grants/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Climate Pollution Reduction\_Grants"
 ---

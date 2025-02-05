@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-20 13:46:27-04:00
 published_time: 2024-03-20 13:46:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-vice-president-harris-first-lady-jill-biden-and-maria-shriver-at-a-womens-history-month-reception-march-18-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-vice-president-harris-first-lady-jill-biden-and-maria-shriver-at-a-womens-history-month-reception-march-18-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Vice President Harris, First Lady Jill\_Biden,\
   \ and Maria Shriver at a Women\u2019s History Month Reception (March 18,\_2024)"

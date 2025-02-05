@@ -2,7 +2,7 @@
 date: '2024-01-16'
 modified_time: 2024-01-17 09:46:50-05:00
 published_time: 2024-01-16 10:00:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/16/remarks-and-qa-by-national-security-advisor-jake-sullivan-at-the-2024-world-economic-forum-davos-switzerland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/16/remarks-and-qa-by-national-security-advisor-jake-sullivan-at-the-2024-world-economic-forum-davos-switzerland/
 tags: speeches-remarks
 title: "Remarks and Q&A by National Security Advisor Jake Sullivan at the 2024 World\
   \ Economic Forum | Davos,\_Switzerland"

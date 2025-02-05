@@ -1,7 +1,7 @@
 ---
 date: '2023-10-11'
 published_time: 2023-10-11 17:59:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/11/president-joseph-r-biden-jr-approves-montana-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/11/president-joseph-r-biden-jr-approves-montana-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Montana Disaster\_Declaration"
 ---

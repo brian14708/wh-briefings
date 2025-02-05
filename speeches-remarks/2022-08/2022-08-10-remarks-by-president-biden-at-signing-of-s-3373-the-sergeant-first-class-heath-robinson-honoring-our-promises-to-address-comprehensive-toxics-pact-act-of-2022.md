@@ -2,7 +2,7 @@
 date: '2022-08-10'
 modified_time: 2022-08-10 15:02:47-04:00
 published_time: 2022-08-10 14:59:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/10/remarks-by-president-biden-at-signing-of-s-3373-the-sergeant-first-class-heath-robinson-honoring-our-promises-to-address-comprehensive-toxics-pact-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/10/remarks-by-president-biden-at-signing-of-s-3373-the-sergeant-first-class-heath-robinson-honoring-our-promises-to-address-comprehensive-toxics-pact-act-of-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Signing of S. 3373, \u201CThe Sergeant First\
   \ Class Heath Robinson Honoring Our Promises to Address Comprehensive Toxics (PACT)\

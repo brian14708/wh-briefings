@@ -2,7 +2,7 @@
 date: '2022-09-01'
 modified_time: 2022-09-02 19:17:54-04:00
 published_time: 2022-09-01 19:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/01/remarks-by-vice-president-harris-at-dnc-finance-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/01/remarks-by-vice-president-harris-at-dnc-finance-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at DNC Finance\_Event"
 ---

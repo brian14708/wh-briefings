@@ -1,7 +1,7 @@
 ---
 date: '2023-02-19'
 published_time: 2023-02-19 10:33:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/19/readout-of-vice-president-harriss-meeting-with-prime-minister-marin-of-finland-and-prime-minister-kristersson-of-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/19/readout-of-vice-president-harriss-meeting-with-prime-minister-marin-of-finland-and-prime-minister-kristersson-of-sweden/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Marin\
   \ of Finland and Prime Minister Kristersson of\_Sweden"

@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 18:22:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-honoring-the-2023-national-womens-soccer-league-champions-nj-ny-gotham-fc-september-23-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/24/remarks-by-president-biden-honoring-the-2023-national-womens-soccer-league-champions-nj-ny-gotham-fc-september-23-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2023 National Women\u2019s Soccer\
   \ League Champions, NJ/NY GOTHAM FC | (September 23,\_2024)"

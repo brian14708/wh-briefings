@@ -2,7 +2,7 @@
 date: '2024-05-17'
 modified_time: 2024-05-17 10:23:59-04:00
 published_time: 2024-05-17 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-president-biden-announces-new-actions-to-advance-racial-and-educational-equity-on-70th-anniversary-of-brown-v-board-of-education/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-president-biden-announces-new-actions-to-advance-racial-and-educational-equity-on-70th-anniversary-of-brown-v-board-of-education/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Advance Racial and Educational\
   \ Equity on 70th Anniversary of Brown v. Board of\_Education"

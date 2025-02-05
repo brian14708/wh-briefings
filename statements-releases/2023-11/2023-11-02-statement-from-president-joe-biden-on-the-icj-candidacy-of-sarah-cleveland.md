@@ -1,7 +1,7 @@
 ---
 date: '2023-11-02'
 published_time: 2023-11-02 19:23:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/02/statement-from-president-joe-biden-on-the-icj-candidacy-of-sarah-cleveland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/02/statement-from-president-joe-biden-on-the-icj-candidacy-of-sarah-cleveland/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the ICJ Candidacy of Sarah\_Cleveland"
 ---

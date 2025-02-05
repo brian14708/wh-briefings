@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-02 14:02:49-04:00
 published_time: 2023-11-01 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/the-white-house-celebrates-dia-de-los-muertos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/the-white-house-celebrates-dia-de-los-muertos/
 tags: statements-releases
 title: "The White\_House Celebrates D\xEDa de los\_Muertos"
 ---

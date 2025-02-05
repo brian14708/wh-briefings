@@ -2,7 +2,7 @@
 date: '2023-10-05'
 modified_time: 2023-10-05 14:21:16-04:00
 published_time: 2023-10-05 14:20:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/05/remarks-by-president-biden-before-national-security-team-briefing-on-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/05/remarks-by-president-biden-before-national-security-team-briefing-on-ukraine/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before National Security Team Briefing on\_Ukraine"
 ---

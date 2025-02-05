@@ -2,7 +2,7 @@
 date: '2024-01-22'
 modified_time: 2024-01-22 00:47:21-05:00
 published_time: 2024-01-22 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/statement-from-president-joe-biden-on-the-51st-anniversary-of-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/statement-from-president-joe-biden-on-the-51st-anniversary-of-roe-v-wade/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 51st Anniversary of Roe v.\_Wade"
 ---

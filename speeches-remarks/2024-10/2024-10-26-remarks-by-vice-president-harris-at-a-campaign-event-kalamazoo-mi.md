@@ -2,7 +2,7 @@
 date: '2024-10-26'
 modified_time: 2024-10-28 17:59:38-04:00
 published_time: 2024-10-26 17:52:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-vice-president-harris-at-a-campaign-event-kalamazoo-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/26/remarks-by-vice-president-harris-at-a-campaign-event-kalamazoo-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Kalamazoo,\_MI"
 ---

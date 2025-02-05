@@ -1,7 +1,7 @@
 ---
 date: '2022-07-27'
 published_time: 2022-07-27 18:13:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/27/statement-from-president-biden-on-inflation-reduction-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/27/statement-from-president-biden-on-inflation-reduction-act-of-2022/
 tags: statements-releases
 title: "Statement from President\_Biden on Inflation Reduction Act of\_2022"
 ---

@@ -2,7 +2,7 @@
 date: '2022-11-04'
 modified_time: 2022-11-06 13:45:43-04:00
 published_time: 2022-11-04 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Makes Historic Investment in\
   \ America\u2019s National Labs, Announces Net-Zero Game Changers\_Initiative"
@@ -17,7 +17,7 @@ workers needed to drive clean energy solutions and other technologies
 that will lower costs for families, make people’s lives better, and
 address the climate crisis. In addition, the White House announced
 a [new
-report](https://www.whitehouse.gov/wp-content/uploads/2022/11/U.S.-Innovation-to-Meet-2050-Climate-Goals.pdf) that
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/U.S.-Innovation-to-Meet-2050-Climate-Goals.pdf) that
 identifies five initial priorities that will help enable the United
 States to meet the President’s goal of cutting greenhouse gases (GHGs)
 by 50-52% in 2030 and get to net-zero emissions by no later than 2050.

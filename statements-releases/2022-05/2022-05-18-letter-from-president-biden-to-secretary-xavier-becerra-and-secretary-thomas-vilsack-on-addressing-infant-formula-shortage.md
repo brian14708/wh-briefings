@@ -1,7 +1,7 @@
 ---
 date: '2022-05-18'
 published_time: 2022-05-18 18:22:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/letter-from-president-biden-to-secretary-xavier-becerra-and-secretary-thomas-vilsack-on-addressing-infant-formula-shortage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/letter-from-president-biden-to-secretary-xavier-becerra-and-secretary-thomas-vilsack-on-addressing-infant-formula-shortage/
 tags: statements-releases
 title: "Letter from President\_Biden to Secretary Xavier Becerra and Secretary Thomas\
   \ Vilsack on  Addressing Infant Formula\_Shortage"

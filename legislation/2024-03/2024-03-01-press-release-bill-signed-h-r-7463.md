@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 13:45:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/03/01/press-release-bill-signed-h-r-7463/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/03/01/press-release-bill-signed-h-r-7463/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_7463"
 ---

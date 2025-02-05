@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-16 10:23:06-04:00
 published_time: 2024-05-16 10:22:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/readout-of-convening-to-mark-one-year-anniversary-of-national-plan-to-end-gender-based-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/readout-of-convening-to-mark-one-year-anniversary-of-national-plan-to-end-gender-based-violence/
 tags: statements-releases
 title: "Readout of Convening to Mark One-Year Anniversary of National Plan to End\
   \ Gender-Based\_Violence"
@@ -10,7 +10,7 @@ title: "Readout of Convening to Mark One-Year Anniversary of National Plan to En
  
 Yesterday, nearly one year since the White House released the first-ever
 [U.S. National Plan to End Gender-Based
-Violence](https://www.whitehouse.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/),
+Violence](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2023/05/25/release-of-the-national-plan-to-end-gender-based-violence-strategies-for-action/),
 senior Biden-Harris Administration officials hosted advocates from
 across the country to discuss the Administration’s historic efforts to
 prevent and address gender-based violence. Ending gender-based violence
@@ -31,12 +31,12 @@ addressing gender-based violence, including:
 -   **Release of the Final Report and Blueprint of the White House Task
     Force to Address Online Harassment and Abuse.** Established through
     a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
     signed by President Biden in June 2022, the [White House Task Force
     to Address Online Harassment and
-    Abuse](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+    Abuse](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
     issued a [final
-    Blueprint](https://www.whitehouse.gov/wp-content/uploads/2024/05/White-House-Task-Force-to-Address-Online-Harassment-and-Abuse_FINAL.pdf)
+    Blueprint](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/White-House-Task-Force-to-Address-Online-Harassment-and-Abuse_FINAL.pdf)
     that outlines comprehensive actions from more than a dozen federal
     agencies, including enhanced protections for students, children and
     youth, as well as programs that represent a record investment of
@@ -56,7 +56,7 @@ addressing gender-based violence, including:
     from organizations that provide services to survivors, seek
     relocation, and take related legal action. Today’s new guidance,
     consistent with a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-biden-harris-administration-announces-new-actions-to-support-and-advance-womens-economic-security/)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/02/fact-sheet-biden-harris-administration-announces-new-actions-to-support-and-advance-womens-economic-security/)
     signed by President Biden in February 2023, will help ensure that
     federal employees have access to leave when they need it.
 

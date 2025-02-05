@@ -2,7 +2,7 @@
 date: '2024-09-29'
 modified_time: 2024-09-30 13:30:37-04:00
 published_time: 2024-09-29 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/29/remarks-by-vice-president-harris-at-a-political-event-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/29/remarks-by-vice-president-harris-at-a-political-event-los-angeles-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political Event | Los Angeles,\_CA"
 ---

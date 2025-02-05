@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 23:24:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-president-biden-on-supporting-the-community-in-east-palestine-ohio-east-palestine-oh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-president-biden-on-supporting-the-community-in-east-palestine-ohio-east-palestine-oh/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Supporting the Community in East Palestine,\
   \ Ohio | East Palestine,\_OH"

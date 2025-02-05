@@ -1,7 +1,7 @@
 ---
 date: '2022-12-31'
 published_time: 2022-12-31 12:02:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/31/statement-from-president-joe-biden-on-the-death-of-pope-emeritus-benedict-xvi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/31/statement-from-president-joe-biden-on-the-death-of-pope-emeritus-benedict-xvi/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Death of Pope Emeritus Benedict\_\
   XVI"

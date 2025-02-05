@@ -1,7 +1,7 @@
 ---
 date: '2023-11-03'
 published_time: 2023-11-03 17:45:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/03/remarks-by-president-biden-before-the-americas-partnership-for-economic-prosperity-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/03/remarks-by-president-biden-before-the-americas-partnership-for-economic-prosperity-leaders-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before the Americas Partnership for Economic Prosperity\
   \ Leaders\u2019\_Summit"

@@ -2,7 +2,7 @@
 date: '2022-04-26'
 modified_time: 2022-04-25 22:51:07-04:00
 published_time: 2022-04-26 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/statement-by-president-joe-biden-on-clemency-and-second-chance-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/statement-by-president-joe-biden-on-clemency-and-second-chance-month/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Clemency and Second Chance\_Month"
 ---
@@ -14,7 +14,7 @@ our criminal justice system can and should reflect these core values
 that enable safer and stronger communities. During Second Chance Month,
 I am using my authority under the Constitution to uphold those values by
 [pardoning and
-commuting](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/clemency-recipient-list/)
+commuting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/clemency-recipient-list/)
 the sentences of fellow Americans.
 
 Today, I am pardoning three people who have demonstrated their
@@ -27,7 +27,7 @@ they were charged with the same offense today, thanks to the bipartisan
 First Step Act.  
 
 My Administration is also announcing [new
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/)
 today to support those re-entering society after incarceration. These
 actions include: a new collaboration between the U.S. Department of
 Justice and the U.S. Department of Labor to provide job training; new

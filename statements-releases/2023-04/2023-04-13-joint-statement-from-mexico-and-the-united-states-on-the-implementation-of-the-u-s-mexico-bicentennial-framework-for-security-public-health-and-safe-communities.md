@@ -1,7 +1,7 @@
 ---
 date: '2023-04-13'
 published_time: 2023-04-13 22:11:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/13/joint-statement-from-mexico-and-the-united-states-on-the-implementation-of-the-u-s-mexico-bicentennial-framework-for-security-public-health-and-safe-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/13/joint-statement-from-mexico-and-the-united-states-on-the-implementation-of-the-u-s-mexico-bicentennial-framework-for-security-public-health-and-safe-communities/
 tags: statements-releases
 title: "Joint Statement from Mexico and the United\_States on the Implementation of\
   \ the U.S.-Mexico Bicentennial Framework for Security, Public Health, and Safe\_\

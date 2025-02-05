@@ -1,7 +1,7 @@
 ---
 date: '2023-10-24'
 published_time: 2023-10-24 16:24:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/24/nominations-and-withdrawal-sent-to-the-senate-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/24/nominations-and-withdrawal-sent-to-the-senate-6/
 tags: presidential-actions
 title: "Nominations and Withdrawal Sent to the\_Senate"
 ---

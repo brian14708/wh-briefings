@@ -1,7 +1,7 @@
 ---
 date: '2023-12-11'
 published_time: 2023-12-11 15:28:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/11/press-gaggle-by-deputy-press-secretary-andrew-bates-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/11/press-gaggle-by-deputy-press-secretary-andrew-bates-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-philadelphia-pa/
 tags: press-briefings
 title: "Press Gaggle by Deputy Press Secretary Andrew Bates and NSC Coordinator For\
   \ Strategic Communications John Kirby En Route Philadelphia,\_PA"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-28'
 published_time: 2023-12-28 12:54:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/28/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/28/a-proclamation-on-adjusting-imports-of-steel-into-the-united-states-5/
 tags: presidential-actions
 title: "A Proclamation on Adjusting Imports of Steel Into the United\_States"
 ---

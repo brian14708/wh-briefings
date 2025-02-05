@@ -2,7 +2,7 @@
 date: '2023-06-30'
 modified_time: 2023-06-30 16:21:09-04:00
 published_time: 2023-06-30 16:17:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/fact-sheet-president-biden-announces-new-actions-to-provide-debt-relief-and-support-for-student-loan-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/fact-sheet-president-biden-announces-new-actions-to-provide-debt-relief-and-support-for-student-loan-borrowers/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Actions to Provide Debt Relief\
   \ and Support for Student Loan\_Borrowers"

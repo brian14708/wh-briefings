@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 17:35:43-04:00
 published_time: 2023-11-01 02:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/fact-sheet-vice-president-harris-announces-new-u-s-initiatives-to-advance-the-safe-and-responsible-use-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/fact-sheet-vice-president-harris-announces-new-u-s-initiatives-to-advance-the-safe-and-responsible-use-of-artificial-intelligence/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces New U.S. Initiatives to Advance\
   \ the Safe and Responsible Use of Artificial\_Intelligence"
@@ -33,14 +33,14 @@ this work.
 The Vice President’s trip to the United Kingdom builds on her long
 record of leadership to confront the challenges and seize the
 opportunities of advanced technology. In May, she
-[convened](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf)
+[convened](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf)
 the CEOs of companies at the forefront of AI innovation, resulting in
 voluntary
-[commitments](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf) from
+[commitments](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf) from
 15 leading AI companies to help move toward safe, secure, and
 transparent development of AI technology. In July, the Vice President
 convened consumer protection, labor, and civil rights leaders to
-[discuss](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/readout-of-vice-president-harriss-meeting-with-consumer-protection-labor-and-civil-rights-leaders-on-ai/)
+[discuss](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/readout-of-vice-president-harriss-meeting-with-consumer-protection-labor-and-civil-rights-leaders-on-ai/)
 the risks related to AI and to underscore that it is a false choice to
 suggest America can either advance innovation or protect consumers’
 rights.  
@@ -75,7 +75,7 @@ announcing the following initiatives.
     Budget, is releasing for public comment its first-ever draft policy
     guidance on the use of AI by the U.S. government. This draft policy
     builds on prior leadership—including the [Blueprint for an AI Bill
-    of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and
+    of Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) and
     the National Institute of Standards and Technology (NIST) [AI Risk
     Management
     Framework](https://www.nist.gov/itl/ai-risk-management-framework)—and
@@ -187,7 +187,7 @@ announcing the following initiatives.
     in Government Development, Procurement, and Use of AI: **Building on
     the principles of the [Draft Policy Guidance on the U.S. Government
     Use of
-    AI](https://www.whitehouse.gov/omb/briefing-room/2023/11/01/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/%20)**,**
+    AI](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/11/01/omb-releases-implementation-guidance-following-president-bidens-executive-order-on-artificial-intelligence/%20)**,**
     the Biden-Harris Administration, through the State Department,
     intends to work with the Freedom Online Coalition of 38 countries to
     develop a pledge to incorporate responsible and rights-respecting

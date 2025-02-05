@@ -2,7 +2,7 @@
 date: '2022-05-03'
 modified_time: 2022-05-03 19:45:00-04:00
 published_time: 2022-05-03 19:44:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/03/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/03/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-secretary-general-of-japans-national-security-secretariat-akiba-takeo/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Secretary General of Japan\u2019s National Security\

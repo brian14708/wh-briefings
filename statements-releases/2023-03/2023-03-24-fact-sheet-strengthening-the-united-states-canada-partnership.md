@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 15:41:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-strengthening-the-united-states-canada-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-strengthening-the-united-states-canada-partnership/
 tags: statements-releases
 title: "FACT SHEET: Strengthening the United\_States-Canada\_Partnership"
 ---

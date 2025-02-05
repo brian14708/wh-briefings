@@ -2,7 +2,7 @@
 date: '2024-01-23'
 modified_time: 2024-01-23 11:46:56-05:00
 published_time: 2024-01-23 11:46:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/23/statement-from-national-security-advisor-jake-sullivan-on-the-millennium-challenge-corporations-20th-anniversary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/23/statement-from-national-security-advisor-jake-sullivan-on-the-millennium-challenge-corporations-20th-anniversary/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Millennium Challenge\
   \ Corporation\u2019s 20th\_Anniversary"

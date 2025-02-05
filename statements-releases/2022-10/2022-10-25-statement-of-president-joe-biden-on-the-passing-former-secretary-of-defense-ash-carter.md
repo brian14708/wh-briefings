@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-25 13:55:28-04:00
 published_time: 2022-10-25 13:31:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/statement-of-president-joe-biden-on-the-passing-former-secretary-of-defense-ash-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/statement-of-president-joe-biden-on-the-passing-former-secretary-of-defense-ash-carter/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Passing of Former Secretary of Defense\
   \ Ash\_Carter"

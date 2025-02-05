@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-08-01 12:24:51-04:00
 published_time: 2022-08-01 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/fact-sheet-president-bidens-safer-america-plan-2/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Safer America\_Plan"
 ---
@@ -24,7 +24,7 @@ of war that have no place in our communities.
 President Biden has taken action to make our communities safer during
 his first 18 months in office. He has funded the police and issued an
 [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/)
 to improve police accountability. President Biden has taken more
 executive action to tackle gun violence than any other president at this
 point in their Administration, including by reining in the proliferation
@@ -87,7 +87,7 @@ in accountable, equitable, evidence-based, constitutional policing and
 other law enforcement practices. In May 2022 President Biden signed an
 [*Executive Order on Advancing Effective, Accountable Policing and
 Criminal Justice Practices to Enhance Public Trust and Public*
-Safety](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/)
+Safety](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/)
 (Executive Order 14074), which advances effective, accountable community
 policing in order to enhance trust and public safety. Through the
 Executive Order, the President mandated policing reforms and best

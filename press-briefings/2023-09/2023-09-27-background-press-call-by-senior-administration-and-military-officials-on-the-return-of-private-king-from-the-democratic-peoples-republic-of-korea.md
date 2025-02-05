@@ -1,7 +1,7 @@
 ---
 date: '2023-09-27'
 published_time: 2023-09-27 16:47:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/27/background-press-call-by-senior-administration-and-military-officials-on-the-return-of-private-king-from-the-democratic-peoples-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/27/background-press-call-by-senior-administration-and-military-officials-on-the-return-of-private-king-from-the-democratic-peoples-republic-of-korea/
 tags: press-briefings
 title: "Background Press Call by Senior Administration and Military Officials on the\
   \ Return of Private King from the Democratic People\u2019s Republic of\_Korea"

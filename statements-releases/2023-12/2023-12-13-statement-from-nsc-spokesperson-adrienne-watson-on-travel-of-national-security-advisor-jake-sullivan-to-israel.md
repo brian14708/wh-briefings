@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 08:20:28-05:00
 published_time: 2023-12-13 08:20:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/statement-from-nsc-spokesperson-adrienne-watson-on-travel-of-national-security-advisor-jake-sullivan-to-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/statement-from-nsc-spokesperson-adrienne-watson-on-travel-of-national-security-advisor-jake-sullivan-to-israel/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on Travel of National Security\
   \ Advisor Jake Sullivan to\_Israel"

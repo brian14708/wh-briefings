@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 00:22:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/20/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-on-the-presidents-trip-to-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/20/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-on-the-presidents-trip-to-japan/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake Sullivan on the President\u2019s Trip to\_Japan"

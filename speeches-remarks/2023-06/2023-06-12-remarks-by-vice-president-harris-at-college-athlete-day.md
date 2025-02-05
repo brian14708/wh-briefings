@@ -1,7 +1,7 @@
 ---
 date: '2023-06-12'
 published_time: 2023-06-12 13:03:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/12/remarks-by-vice-president-harris-at-college-athlete-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/12/remarks-by-vice-president-harris-at-college-athlete-day/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at College Athlete\_Day"
 ---

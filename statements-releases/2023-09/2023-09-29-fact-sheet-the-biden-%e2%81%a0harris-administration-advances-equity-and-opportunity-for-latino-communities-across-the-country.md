@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-29 16:37:36-04:00
 published_time: 2023-09-29 16:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Latino Communities Across the\_Country"
@@ -162,7 +162,7 @@ Latinos, the Biden-Harris Administration has:
 -   The Biden-Harris Administration is leading the most ambitious
     climate, conservation, and environmental justice agenda in history.
     This includes the [Justice40
-    initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     which is delivering 40% of certain Federal investments in clean
     energy, affordable and sustainable housing, clean water, and other
     programs to disadvantaged communities that are marginalized and
@@ -171,7 +171,7 @@ Latinos, the Biden-Harris Administration has:
     households have access to affordable, clean solar energy through the
     Inflation Reduction Act, and more. In addition, just last week,
     President Biden launched the [American Climate
-    Corps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
+    Corps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
     – a workforce training initiative that will put more than 20,000
     young people to work in the growing fields of clean energy,
     conservation and climate resilience, prioritizing equity and

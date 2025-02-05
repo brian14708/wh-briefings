@@ -2,7 +2,7 @@
 date: '2023-11-22'
 modified_time: 2023-11-22 15:30:34-05:00
 published_time: 2023-11-22 15:30:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-joe-bidens-call-with-president-elect-javier-milei-of-argentina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-joe-bidens-call-with-president-elect-javier-milei-of-argentina/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President-elect Javier Milei\
   \ of\_Argentina"

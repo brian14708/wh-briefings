@@ -2,7 +2,7 @@
 date: '2022-10-14'
 modified_time: 2022-10-14 09:47:32-04:00
 published_time: 2022-10-14 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/fact-sheet-president-biden-takes-action-to-lower-health-care-and-prescription-drug-costs-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/fact-sheet-president-biden-takes-action-to-lower-health-care-and-prescription-drug-costs-for-americans/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Action to Lower Health Care and Prescription\
   \ Drug Costs for\_Americans"

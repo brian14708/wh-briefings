@@ -2,7 +2,7 @@
 date: '2023-11-19'
 modified_time: 2023-11-20 11:10:07-05:00
 published_time: 2023-11-19 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/19/remarks-by-president-biden-and-first-lady-jill-biden-before-military-families-movie-screening-norfolk-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/19/remarks-by-president-biden-and-first-lady-jill-biden-before-military-families-movie-screening-norfolk-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden Before Military Families\
   \ Movie Screening | Norfolk,\_VA"

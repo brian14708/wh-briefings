@@ -2,7 +2,7 @@
 date: '2022-03-31'
 modified_time: 2022-03-31 14:59:25-04:00
 published_time: 2022-03-31 14:40:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-the-month-of-the-military-child-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/31/a-proclamation-on-the-month-of-the-military-child-2022/
 tags: presidential-actions
 title: "A Proclamation on the Month Of The Military Child,\_2022"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-03'
 published_time: 2024-06-03 17:54:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/g7-leaders-statement-on-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/g7-leaders-statement-on-gaza/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on\_Gaza"
 ---

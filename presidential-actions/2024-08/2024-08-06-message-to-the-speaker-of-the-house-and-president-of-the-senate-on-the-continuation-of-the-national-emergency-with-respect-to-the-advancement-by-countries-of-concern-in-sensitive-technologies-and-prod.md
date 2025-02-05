@@ -2,7 +2,7 @@
 date: '2024-08-06'
 modified_time: 2024-08-06 16:35:27-04:00
 published_time: 2024-08-06 16:35:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/06/message-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in-sensitive-technologies-and-prod/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/06/message-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in-sensitive-technologies-and-prod/
 tags: presidential-actions
 title: "Message to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to the Advancement by Countries of Concern\

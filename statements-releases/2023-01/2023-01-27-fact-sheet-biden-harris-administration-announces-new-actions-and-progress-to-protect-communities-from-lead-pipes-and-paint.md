@@ -2,7 +2,7 @@
 date: '2023-01-27'
 modified_time: 2023-01-27 11:31:27-05:00
 published_time: 2023-01-27 11:31:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/27/fact-sheet-biden-harris-administration-announces-new-actions-and-progress-to-protect-communities-from-lead-pipes-and-paint/
 tags: statements-releases
 title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces New Actions and\
   \ Progress to Protect Communities From Lead Pipes and\_Paint"
@@ -18,7 +18,7 @@ Plan, annual appropriations, and harnessing a variety of  tools across
 federal, state, and local government, the Administration is delivering
 tangible progress on the groundbreaking [Biden-Harris Lead Pipe and
 Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
 announced in December of 2021. The Biden-Harris Administration is
 working aggressively to replace all lead service lines in America in the
 next decade.  
@@ -30,7 +30,7 @@ following actions are being announced:
 
 -   Vice President Harris is announcing a new [**Biden-Harris Get the
     Lead Out
-    Partnership**](https://www.whitehouse.gov/build/briefing-room/2023/01/26/biden-harris-get-the-lead-out-partnership/)
+    Partnership**](https://bidenwhitehouse.archives.gov/build/briefing-room/2023/01/26/biden-harris-get-the-lead-out-partnership/)
     comprised of state and local officials, water utilities, labor
     unions, and other nongovernmental organizations who have committed
     to advance and accelerate lead pipe replacement. The Vice President
@@ -161,7 +161,7 @@ of September 30, 2022. Examples include:
 **Directing Federal Agencies to Leverage Existing Funding:** In March,
 for the first time, Office of Management and Budget (OMB) [formulated a
 preliminary lead pipes
-crosscut](https://www.whitehouse.gov/omb/budget/analytical-perspectives/)
+crosscut](https://bidenwhitehouse.archives.gov/omb/budget/analytical-perspectives/)
 of existing funding for the Fiscal Year 2023 President’s Budget. The
 crosscut will be updated for the 2024 budget. In January 2023, OMB
 issued guidance to agencies to leverage and prioritize existing funding
@@ -258,13 +258,13 @@ equity.
 
 **Tracking the Benefits of Lead Pipe and Paint Investments in line with
 Justice40:** To meet the [President’s
-commitment](https://www.whitehouse.gov/environmentaljustice/justice40/)
+commitment](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 to target 40 percent of the benefits of climate and clean energy
 investments to disadvantaged communities, OMB and Council on
 Environmental Quality (CEQ) are committing to track and make publicly
 available lead pipe and paint investments to disadvantaged communities.
 In November 2022, CEQ
-[released](https://www.whitehouse.gov/ceq/news-updates/2022/11/22/biden-harris-administration-launches-version-1-0-of-climate-and-economic-justice-screening-tool-key-step-in-implementing-president-bidens-justice40-initiative/)
+[released](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/11/22/biden-harris-administration-launches-version-1-0-of-climate-and-economic-justice-screening-tool-key-step-in-implementing-president-bidens-justice40-initiative/)
 Version 1 of the Climate and Economic Justice Screening Tool (CEJST),
 which helps identify disadvantaged communities.
 

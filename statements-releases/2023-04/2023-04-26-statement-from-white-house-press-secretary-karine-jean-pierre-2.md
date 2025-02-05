@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-26 18:36:44-04:00
 published_time: 2023-04-26 18:36:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/statement-from-white-house-press-secretary-karine-jean-pierre-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/statement-from-white-house-press-secretary-karine-jean-pierre-2/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine\_Jean-Pierre"
 ---

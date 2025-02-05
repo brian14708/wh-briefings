@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 12:34:03-04:00
 published_time: 2022-05-18 12:33:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-first-lady-jill-bidenduring-a-white-house-conversation-on-youth-mental-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-first-lady-jill-bidenduring-a-white-house-conversation-on-youth-mental-health/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden During a White\_House Conversation on Youth\
   \ Mental\_Health"

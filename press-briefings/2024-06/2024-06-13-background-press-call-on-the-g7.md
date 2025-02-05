@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 18:10:47-04:00
 published_time: 2024-06-13 18:10:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/13/background-press-call-on-the-g7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/13/background-press-call-on-the-g7/
 tags: press-briefings
 title: "Background Press Call on the\_G7"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-13'
 published_time: 2022-05-13 19:16:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/13/a-proclamation-on-national-defense-transportation-day-and-national-transportation-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/13/a-proclamation-on-national-defense-transportation-day-and-national-transportation-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Defense Transportation Day And National Transportation\
   \ Week,\_2022"

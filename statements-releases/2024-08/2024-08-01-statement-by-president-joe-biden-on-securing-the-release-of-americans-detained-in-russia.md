@@ -1,7 +1,7 @@
 ---
 date: '2024-08-01'
 published_time: 2024-08-01 11:32:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/01/statement-by-president-joe-biden-on-securing-the-release-of-americans-detained-in-russia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/01/statement-by-president-joe-biden-on-securing-the-release-of-americans-detained-in-russia/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Securing the Release of Americans Detained\
   \ in\_Russia"

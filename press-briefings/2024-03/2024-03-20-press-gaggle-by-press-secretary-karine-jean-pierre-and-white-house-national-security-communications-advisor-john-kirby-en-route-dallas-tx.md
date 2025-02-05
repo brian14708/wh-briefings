@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-21 11:34:57-04:00
 published_time: 2024-03-20 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-white-house-national-security-communications-advisor-john-kirby-en-route-dallas-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-white-house-national-security-communications-advisor-john-kirby-en-route-dallas-tx/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and White\_House National\
   \ Security Communications Advisor John Kirby En Route Dallas,\_TX"

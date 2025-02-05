@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 00:22:11-05:00
 published_time: 2025-01-08 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/fact-sheet-biden-harris-administration-announces-record-breaking-2025-open-enrollment-period-under-the-affordable-care-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/fact-sheet-biden-harris-administration-announces-record-breaking-2025-open-enrollment-period-under-the-affordable-care-act/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Record-Breaking 2025\
   \ Open Enrollment Period Under the Affordable Care\_Act"
@@ -46,10 +46,10 @@ Marketplace enrollment. 
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2025/01/image.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/image.png"
 class="wp-image-111739" decoding="async" loading="lazy"
 sizes="(max-width: 600px) 100vw, 600px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/01/image.png 600w, https://www.whitehouse.gov/wp-content/uploads/2025/01/image.png?resize=444,320 444w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/image.png 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/image.png?resize=444,320 444w"
 width="600" height="432" />
 </figure>
 
@@ -87,9 +87,9 @@ to ensure people have access to the care they need when they need it.
 
 In addition to today’s record-breaking enrollment numbers, we are also
 releasing [a
-report](https://www.whitehouse.gov/wp-content/uploads/2025/01/FULL-REPORT-Improving-Health-Care-in-the-Biden-Harris-Administration-Full-Report_01.07.25_FINAL.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/FULL-REPORT-Improving-Health-Care-in-the-Biden-Harris-Administration-Full-Report_01.07.25_FINAL.pdf)
 and [a data
-chart](https://www.whitehouse.gov/wp-content/uploads/2025/01/CHARTPACK-health-care-report_all-chapters_FINAL.pdf)
+chart](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/CHARTPACK-health-care-report_all-chapters_FINAL.pdf)
 pack detailing the Biden-Harris Administration’s historic progress to
 improve the health of millions of Americans– from making health care and
 prescription drugs more affordable, to tackling crises in mental health,
@@ -140,7 +140,7 @@ infrastructure. Some highlights include:
     are also down**.
 
 *Read the Biden-Harris Administration’s [full
-report](https://www.whitehouse.gov/wp-content/uploads/2025/01/FULL-REPORT-Improving-Health-Care-in-the-Biden-Harris-Administration-Full-Report_01.07.25_FINAL.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/FULL-REPORT-Improving-Health-Care-in-the-Biden-Harris-Administration-Full-Report_01.07.25_FINAL.pdf)
 on progress made to lower health care costs and strengthen coverage for
 the American people.*
 

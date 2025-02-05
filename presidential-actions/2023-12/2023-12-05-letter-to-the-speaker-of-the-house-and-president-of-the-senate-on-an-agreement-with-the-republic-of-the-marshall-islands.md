@@ -1,7 +1,7 @@
 ---
 date: '2023-12-05'
 published_time: 2023-12-05 16:28:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/05/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-an-agreement-with-the-republic-of-the-marshall-islands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/05/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-an-agreement-with-the-republic-of-the-marshall-islands/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on an Agreement\
   \ with the Republic of the Marshall\_Islands"

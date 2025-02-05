@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-25 20:58:29-04:00
 published_time: 2024-07-25 20:58:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/25/readout-of-president-joe-bidens-meeting-with-prime-minister-netanyahu-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/25/readout-of-president-joe-bidens-meeting-with-prime-minister-netanyahu-of-israel/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Netanyahu\
   \ of\_Israel"

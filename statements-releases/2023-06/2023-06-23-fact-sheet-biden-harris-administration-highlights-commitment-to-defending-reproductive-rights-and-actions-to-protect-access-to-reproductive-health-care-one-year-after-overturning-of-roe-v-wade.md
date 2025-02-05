@@ -2,7 +2,7 @@
 date: '2023-06-23'
 modified_time: 2023-06-23 10:17:13-04:00
 published_time: 2023-06-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-biden-harris-administration-highlights-commitment-to-defending-reproductive-rights-and-actions-to-protect-access-to-reproductive-health-care-one-year-after-overturning-of-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-biden-harris-administration-highlights-commitment-to-defending-reproductive-rights-and-actions-to-protect-access-to-reproductive-health-care-one-year-after-overturning-of-roe-v-wade/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Commitment to Defending\
   \ Reproductive Rights and Actions to Protect Access to Reproductive Health Care\
@@ -37,7 +37,7 @@ actions to protect access to reproductive health care services,
 including abortion. And today, [the President is issuing a third
 Executive Order focused on strengthening access to affordable,
 high-quality
-contraception](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/),
+contraception](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/),
 a critical aspect of reproductive health care. The Administration
 remains fully committed to implementing these Executive Orders and
 advancing access to reproductive health care through the leadership of
@@ -78,17 +78,17 @@ Administration’s ongoing efforts to defend reproductive rights.
     mifepristone, a safe and effective drug used in medication abortion
     that FDA first approved more than twenty years ago, and FDA’s
     independent, expert judgment in court—including in a [lawsuit in
-    Texas](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/07/statement-from-president-joe-biden-on-decision-in-alliance-for-hippocratic-medicine-v-fda/)
+    Texas](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/07/statement-from-president-joe-biden-on-decision-in-alliance-for-hippocratic-medicine-v-fda/)
     that attempts to eliminate access nationwide. The Administration
     will [continue to stand
-    by](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/)
+    by](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/statement-from-president-joe-biden-on-the-supreme-courts-decision-in-alliance-for-hippocratic-medicine-v-fda/)
     FDA’s decades-old approval of the medication and by FDA’s ability to
     review, approve, and regulate a wide range of prescription
     medications.
 -   **Protect Access to Safe and Legal Medication Abortion. ** On what
     would have been the 50<sup>th</sup> anniversary of *Roe v. Wade* on
     January 22, President Biden issued a [Presidential
-    Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/#:~:text=The%20Presidential%20Memorandum%20directs%20the,or%20provide%20mifepristone%E2%80%94no%20matter)
+    Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/22/fact-sheet-president-biden-to-sign-presidential-memorandum-on-ensuring-safe-access-to-medication-abortion/#:~:text=The%20Presidential%20Memorandum%20directs%20the,or%20provide%20mifepristone%E2%80%94no%20matter)
     directing further efforts to protect access to medication abortion,
     including to support patients, providers, and pharmacies who wish to
     legally access, prescribe, or provide mifepristone—and to safeguard
@@ -103,7 +103,7 @@ Administration’s ongoing efforts to defend reproductive rights.
     pharmacies to become certified.
 -   **Partner with State Leaders on the Frontlines of Abortion Access.
      **Today, the White House [is releasing a new
-    report](https://www.whitehouse.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf) on
+    report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf) on
     the battle for abortion access at the state level and the
     Administration’s engagement with state leaders over the past year.
     The report underscores the Administration’s ongoing commitment to
@@ -115,7 +115,7 @@ Administration’s ongoing efforts to defend reproductive rights.
     to 18 states and meeting with more than 250 state legislators,
     health care providers, and advocates in the past year. And last
     week, the White House
-    [hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/)
+    [hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/readout-of-the-white-house-state-legislative-convening-on-reproductive-rights/)
     over 80 state legislators from 41 states to discuss efforts to
     protect access to reproductive health care.
 
@@ -163,7 +163,7 @@ Administration’s ongoing efforts to defend reproductive rights.
 
 -   **Defend the Right to Travel.**  On the day of the *Dobbs*
     decisions, President
-    Biden [reaffirmed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
+    Biden [reaffirmed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-president-biden-on-the-supreme-court-decision-to-overturn-roe-v-wade/) the
     Attorney
     General’s [statement](https://www.justice.gov/opa/pr/attorney-general-merrick-b-garland-statement-supreme-court-ruling-dobbs-v-jackson-women-s) that
     women must remain free to travel safely to another state to seek the
@@ -185,7 +185,7 @@ Administration’s ongoing efforts to defend reproductive rights.
 
 -   **Strengthen Access to Affordable, High-Quality Contraception.
      **Today, the President [issued an Executive
-    Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) directing
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/fact-sheet-president-biden-issues-executive-order-on-strengthening-access-to-contraception/) directing
     agencies to: improve access and affordability for women with private
     health insurance; promote increased access to over-the-counter
     contraception; support access to affordable contraception through
@@ -363,7 +363,7 @@ Administration’s ongoing efforts to defend reproductive rights.
 -   **Hosted a Convening of Lawyers in Defense of Reproductive
     Rights. ** The Department of Justice and the Office of White House
     Counsel
-    [convened](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/)
+    [convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/01/readout-of-first-convening-of-lawyers-in-defense-of-reproductive-rights-and-justice/)
     more than 200 lawyers and advocates from private firms, bar
     associations, legal aid organizations, reproductive rights groups,
     and law schools across the country for the first convening of

@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-29 12:52:41-04:00
 published_time: 2023-03-27 22:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/27/background-press-call-on-the-presidents-executive-order-on-commercial-spyware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/27/background-press-call-on-the-presidents-executive-order-on-commercial-spyware/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s Executive Order on Commercial\_\
   Spyware"

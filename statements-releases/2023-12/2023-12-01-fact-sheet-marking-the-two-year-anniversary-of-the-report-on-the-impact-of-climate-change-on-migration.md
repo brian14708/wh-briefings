@@ -1,7 +1,7 @@
 ---
 date: '2023-12-01'
 published_time: 2023-12-01 11:16:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/01/fact-sheet-marking-the-two-year-anniversary-of-the-report-on-the-impact-of-climate-change-on-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/01/fact-sheet-marking-the-two-year-anniversary-of-the-report-on-the-impact-of-climate-change-on-migration/
 tags: statements-releases
 title: "FACT SHEET: Marking the Two-Year Anniversary of the Report on the Impact of\
   \ Climate Change on\_Migration"
@@ -9,7 +9,7 @@ title: "FACT SHEET: Marking the Two-Year Anniversary of the Report on the Impact
  
 Two years ago, the Biden-Harris Administration released the [Report on
 the Impact of Climate Change on
-Migration](https://www.whitehouse.gov/wp-content/uploads/2021/10/Report-on-the-Impact-of-Climate-Change-on-Migration.pdf).  
+Migration](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Report-on-the-Impact-of-Climate-Change-on-Migration.pdf).  
   
 Today, the Administration is providing an update on actions taken under
 President Biden’s Executive Order 14013 *Rebuilding and Enhancing
@@ -37,7 +37,7 @@ displacement: 
     launched by President Biden in November 2021 with a commitment to
     work with Congress to fund international climate adaptation at $3
     billion annually by 2024, has an [Action
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf?utm_medium=email&utm_source=govdelivery#:~:text=In%20November%202021%2C%20President%20Biden,the%20impacts%20of%20climate%20change.) that
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/PREPARE-Action-Plan.pdf?utm_medium=email&utm_source=govdelivery#:~:text=In%20November%202021%2C%20President%20Biden,the%20impacts%20of%20climate%20change.) that
     builds off and bolsters existing international efforts to advance
     climate resilience, including ways to address key drivers of
     migration by enabling communities to support themselves where they
@@ -54,7 +54,7 @@ displacement: 
 -   Lack of access to and availability of water accounted for ten
     percent of the increase in global migration between 1970 and 2000.
     The June 2022 White House [Action Plan on Global Water
-    Security](https://www.whitehouse.gov/wp-content/uploads/2022/06/water-action-plan_final_formatted.pdf) lays
+    Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/water-action-plan_final_formatted.pdf) lays
     out a whole-of-government approach to improve global resilience,
     elevate data-driven methods, use resources more efficiently, and
     work collaboratively across communities and sectors to address

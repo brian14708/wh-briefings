@@ -2,7 +2,7 @@
 date: '2023-03-01'
 modified_time: 2023-03-01 13:03:11-05:00
 published_time: 2023-03-01 12:51:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/01/notice-on-the-continuation-of-the-national-emergency-with-respect-to-ukraine-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/01/notice-on-the-continuation-of-the-national-emergency-with-respect-to-ukraine-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to\_Ukraine"
 ---

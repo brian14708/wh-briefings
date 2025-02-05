@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-08 11:41:46-05:00
 published_time: 2022-11-07 20:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-president-biden-at-a-democratic-national-committee-grassroots-rally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/07/remarks-by-president-biden-at-a-democratic-national-committee-grassroots-rally/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee Grassroots\_\
   Rally"

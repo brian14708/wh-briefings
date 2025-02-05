@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-01-27'
 modified_time: 2021-01-27 15:29:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-presidents-council-of-advisors-on-science-and-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-presidents-council-of-advisors-on-science-and-technology/
 published_time: 2021-01-27 15:29:04-05:00
 title: "Executive Order on the President\u2019s Council of Advisors on Science and\_\
   Technology"

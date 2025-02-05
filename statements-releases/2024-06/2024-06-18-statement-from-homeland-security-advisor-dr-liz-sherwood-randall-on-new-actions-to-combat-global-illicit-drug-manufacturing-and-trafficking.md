@@ -1,7 +1,7 @@
 ---
 date: '2024-06-18'
 published_time: 2024-06-18 13:33:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/18/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-new-actions-to-combat-global-illicit-drug-manufacturing-and-trafficking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/18/statement-from-homeland-security-advisor-dr-liz-sherwood-randall-on-new-actions-to-combat-global-illicit-drug-manufacturing-and-trafficking/
 tags: statements-releases
 title: "Statement from Homeland Security Advisor Dr. Liz Sherwood Randall on New Actions\
   \ to Combat Global Illicit Drug Manufacturing and\_Trafficking"

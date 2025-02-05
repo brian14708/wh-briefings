@@ -1,7 +1,7 @@
 ---
 date: '2023-08-16'
 published_time: 2023-08-16 16:35:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/readout-of-president-joe-bidens-call-with-president-luiz-inacio-lula-da-silva-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/readout-of-president-joe-bidens-call-with-president-luiz-inacio-lula-da-silva-of-brazil/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Luiz In\xE1cio\
   \ Lula da Silva of\_Brazil"

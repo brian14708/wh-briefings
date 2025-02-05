@@ -2,7 +2,7 @@
 date: '2023-11-27'
 modified_time: 2023-11-27 15:20:48-05:00
 published_time: 2023-11-27 15:20:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/statement-from-president-joe-biden-on-the-shooting-in-burlington-vermont/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/statement-from-president-joe-biden-on-the-shooting-in-burlington-vermont/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Burlington,\_Vermont"
 ---

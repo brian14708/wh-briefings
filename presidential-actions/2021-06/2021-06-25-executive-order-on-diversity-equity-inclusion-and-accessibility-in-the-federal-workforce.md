@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-06-25'
 modified_time: 2021-06-25 17:32:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/
 published_time: 2021-06-25 18:30:00-04:00
 title: "Executive Order on Diversity, Equity, Inclusion, and Accessibility in the\
   \ Federal\_Workforce"

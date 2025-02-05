@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-24 12:48:18-04:00
 published_time: 2023-03-24 12:48:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/background-press-call-previewing-the-vice-presidents-trip-to-ghana-tanzania-and-zambia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/background-press-call-previewing-the-vice-presidents-trip-to-ghana-tanzania-and-zambia/
 tags: statements-releases
 title: "Background Press Call Previewing the Vice President\u2019s Trip to Ghana,\
   \ Tanzania, and\_Zambia"

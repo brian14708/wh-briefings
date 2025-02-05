@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-02-25'
 modified_time: 2021-02-25 15:48:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/02/25/press-briefing-by-press-secretary-jen-psaki-february-25-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/02/25/press-briefing-by-press-secretary-jen-psaki-february-25-2021/
 published_time: 2021-02-25 16:00:00-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, February 25,\_2021"
 ---

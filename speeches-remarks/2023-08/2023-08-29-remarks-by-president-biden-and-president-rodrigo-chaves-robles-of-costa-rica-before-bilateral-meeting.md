@@ -2,7 +2,7 @@
 date: '2023-08-29'
 modified_time: 2023-08-30 09:36:22-04:00
 published_time: 2023-08-29 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-and-president-rodrigo-chaves-robles-of-costa-rica-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/29/remarks-by-president-biden-and-president-rodrigo-chaves-robles-of-costa-rica-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Rodrigo Chaves Robles of Costa Rica\
   \ Before Bilateral\_Meeting"

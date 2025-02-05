@@ -1,7 +1,7 @@
 ---
 date: '2024-04-14'
 published_time: 2024-04-14 14:26:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/14/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/14/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan-4/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with His Majesty King Abdullah II\
   \ of\_Jordan"

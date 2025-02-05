@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-27'
 modified_time: 2022-01-26 22:56:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/statement-by-president-biden-on-international-holocaust-remembrance-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/27/statement-by-president-biden-on-international-holocaust-remembrance-day/
 published_time: 2022-01-27 08:00:00-05:00
 title: "Statement by President\_Biden on International Holocaust Remembrance\_Day"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-28'
 published_time: 2023-03-28 14:01:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-opposition-leader-svyatlana-tsikhanouskaya-of-belarus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/28/readout-of-national-security-advisor-jake-sullivans-meeting-with-opposition-leader-svyatlana-tsikhanouskaya-of-belarus/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Opposition\
   \ Leader Svyatlana Tsikhanouskaya of\_Belarus"

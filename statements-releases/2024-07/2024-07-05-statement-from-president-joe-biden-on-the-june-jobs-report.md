@@ -2,7 +2,7 @@
 date: '2024-07-05'
 modified_time: 2024-07-05 09:46:16-04:00
 published_time: 2024-07-05 09:46:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/05/statement-from-president-joe-biden-on-the-june-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/05/statement-from-president-joe-biden-on-the-june-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the June Jobs\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-22 16:03:20-04:00
 published_time: 2022-06-22 16:03:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/22/remarks-by-president-biden-on-gas-prices-and-putins-price-hike/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/22/remarks-by-president-biden-on-gas-prices-and-putins-price-hike/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Gas Prices and Putin\u2019s Price\_Hike"
 ---

@@ -2,7 +2,7 @@
 date: '2023-07-29'
 modified_time: 2023-07-30 08:10:57-04:00
 published_time: 2023-07-29 20:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/29/remarks-by-vice-president-harris-during-a-moderated-conversation-at-the-naacp-114th-annual-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/29/remarks-by-vice-president-harris-during-a-moderated-conversation-at-the-naacp-114th-annual-convention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During a Moderated Conversation at the NAACP\
   \ 114th Annual\_Convention"

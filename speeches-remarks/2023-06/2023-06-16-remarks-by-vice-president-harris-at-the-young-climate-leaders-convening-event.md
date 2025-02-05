@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 18:32:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/16/remarks-by-vice-president-harris-at-the-young-climate-leaders-convening-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/16/remarks-by-vice-president-harris-at-the-young-climate-leaders-convening-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Young Climate Leaders Convening\_\
   Event"

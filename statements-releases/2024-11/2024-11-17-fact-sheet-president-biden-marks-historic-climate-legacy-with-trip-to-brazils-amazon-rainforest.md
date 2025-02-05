@@ -2,7 +2,7 @@
 date: '2024-11-17'
 modified_time: 2024-11-16 23:43:15-05:00
 published_time: 2024-11-17 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/17/fact-sheet-president-biden-marks-historic-climate-legacy-with-trip-to-brazils-amazon-rainforest/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/17/fact-sheet-president-biden-marks-historic-climate-legacy-with-trip-to-brazils-amazon-rainforest/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Marks Historic Climate Legacy with Trip to Brazil\u2019\
   s Amazon\_Rainforest"
@@ -20,14 +20,14 @@ climate change has been a defining cause of President Biden’s leadership
 and presidency. These past four years, the Administration has created a
 bold new playbook that has turned tackling the climate crisis into an
 enormous economic opportunity – both [at
-home](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/)
+home](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-president-biden-commemorates-historic-climate-legacy-during-climate-week-nyc/)
 and
-[abroad](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-biden-%E2%81%A0harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-the-29th-u-n-climate-change-con/).
+[abroad](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/12/fact-sheet-biden-%E2%81%A0harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-the-29th-u-n-climate-change-con/).
 After spearheading the most [significant domestic climate and
 conservation
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-president-biden-marks-earth-day-2024-with-historic-climate-action/)
 in history and [leading global
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/)
 to tackle the climate crisis, today President Biden is traveling to
 Manaus, Brazil, where he will meet with Indigenous and other leaders and
 become the first sitting U.S. president to visit the Amazon rainforest.

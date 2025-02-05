@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 09:38:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/statement-from-president-joe-biden-on-may-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/statement-from-president-joe-biden-on-may-jobs-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on May Jobs\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2023-08-09'
 modified_time: 2023-08-09 10:18:02-04:00
 published_time: 2023-08-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/fact-sheet-one-year-after-the-chips-and-science-act-biden-harris-administration-marks-historic-progress-in-bringing-semiconductor-supply-chains-home-supporting-innovation-and-protecting-national-s/
 tags: statements-releases
 title: "FACT SHEET: One Year after the CHIPS and Science Act, Biden-\u2060Harris Administration\
   \ Marks Historic Progress in Bringing Semiconductor Supply Chains Home, Supporting\

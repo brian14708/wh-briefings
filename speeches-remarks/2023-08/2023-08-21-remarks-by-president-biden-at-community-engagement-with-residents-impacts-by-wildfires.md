@@ -1,7 +1,7 @@
 ---
 date: '2023-08-21'
 published_time: 2023-08-21 23:42:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/21/remarks-by-president-biden-at-community-engagement-with-residents-impacts-by-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/21/remarks-by-president-biden-at-community-engagement-with-residents-impacts-by-wildfires/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Community Engagement with Residents Impacts\
   \ by\_Wildfires"

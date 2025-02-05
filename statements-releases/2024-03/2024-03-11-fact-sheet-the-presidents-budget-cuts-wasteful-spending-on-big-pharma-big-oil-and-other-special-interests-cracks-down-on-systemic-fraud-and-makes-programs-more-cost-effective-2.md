@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:18:03-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-wasteful-spending-on-big-pharma-big-oil-and-other-special-interests-cracks-down-on-systemic-fraud-and-makes-programs-more-cost-effective-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-wasteful-spending-on-big-pharma-big-oil-and-other-special-interests-cracks-down-on-systemic-fraud-and-makes-programs-more-cost-effective-2/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Cuts Wasteful Spending on Big Pharma,\
   \ Big Oil, and Other Special Interests, Cracks Down on Systemic Fraud, and Makes\
@@ -35,7 +35,7 @@ Congressional Republicans have so far rejected this approach to reducing
 the deficit, just as they have rejected reducing the deficit by asking
 the wealthy and big corporations to pay their fair share in taxes. In
 fact, Republicans are actively fighting to increase giveaways to [Big
-Pharma](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/)
+Pharma](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/the-congressional-republican-agenda-on-prescription-drugs-giveaways-to-big-pharma-and-higher-costs-for-seniors-and-families/)
 and [Big
 Oil](https://hern.house.gov/uploadedfiles/202306141135_fy24_rsc_budget_print_final_c.pdf)
 and make it easier for the wealthy to cheat on their taxes. Meanwhile,

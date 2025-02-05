@@ -2,7 +2,7 @@
 date: '2022-09-22'
 modified_time: 2022-09-22 14:58:01-04:00
 published_time: 2022-09-22 14:58:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/22/nominations-sent-to-the-senate-85/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/22/nominations-sent-to-the-senate-85/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

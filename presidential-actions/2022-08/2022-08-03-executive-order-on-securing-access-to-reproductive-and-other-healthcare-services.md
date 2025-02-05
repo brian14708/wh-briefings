@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-05 12:16:17-04:00
 published_time: 2022-08-03 15:21:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/03/executive-order-on-securing-access-to-reproductive-and-other-healthcare-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/03/executive-order-on-securing-access-to-reproductive-and-other-healthcare-services/
 tags: presidential-actions
 title: "Executive Order on Securing Access to Reproductive and Other Healthcare\_\
   Services"

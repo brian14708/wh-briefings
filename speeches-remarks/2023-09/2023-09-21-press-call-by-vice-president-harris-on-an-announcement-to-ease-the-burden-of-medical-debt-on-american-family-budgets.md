@@ -1,7 +1,7 @@
 ---
 date: '2023-09-21'
 published_time: 2023-09-21 18:20:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/21/press-call-by-vice-president-harris-on-an-announcement-to-ease-the-burden-of-medical-debt-on-american-family-budgets/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/21/press-call-by-vice-president-harris-on-an-announcement-to-ease-the-burden-of-medical-debt-on-american-family-budgets/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris on an Announcement to Ease the Burden\
   \ of Medical Debt on American Family\_Budgets"

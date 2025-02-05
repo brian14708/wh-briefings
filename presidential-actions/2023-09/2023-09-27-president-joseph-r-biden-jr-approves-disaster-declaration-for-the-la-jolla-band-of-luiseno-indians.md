@@ -1,7 +1,7 @@
 ---
 date: '2023-09-27'
 published_time: 2023-09-27 21:44:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-la-jolla-band-of-luiseno-indians/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-la-jolla-band-of-luiseno-indians/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the La Jolla\
   \ Band of Luise\xF1o\_Indians"

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 08:02:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-announces-american-rescue-plans-historic-investments-in-community-health-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/fact-sheet-biden-harris-administration-announces-american-rescue-plans-historic-investments-in-community-health-workforce/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces American Rescue Plan\u2019\
   s Historic Investments in Community Health\_Workforce"

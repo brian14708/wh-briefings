@@ -2,7 +2,7 @@
 date: '2024-03-21'
 modified_time: 2024-03-21 13:00:26-04:00
 published_time: 2024-03-21 13:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/21/statement-from-vice-president-harris-on-the-un-general-assembly-resolution-on-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/21/statement-from-vice-president-harris-on-the-un-general-assembly-resolution-on-artificial-intelligence/
 tags: statements-releases
 title: "Statement from Vice President Harris on the UN General Assembly Resolution\
   \ on Artificial\_Intelligence"

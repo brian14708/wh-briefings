@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-10-31 20:28:36-04:00
 published_time: 2022-11-01 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-by-the-numbers-millions-of-americans-would-lose-health-care-coverage-benefits-and-protections-under-congressional-republicans-plans/
 tags: statements-releases
 title: "FACT SHEET:  By The Numbers: Millions of Americans Would Lose Health Care\
   \ Coverage, Benefits, and Protections Under Congressional Republicans\u2019\_Plans"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-04'
 modified_time: 2021-03-04 18:50:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/04/readout-of-the-white-houses-listening-session-with-asian-american-and-pacific-islander-leaders-on-rising-hate-crimes-and-incidents-against-asian-american-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/04/readout-of-the-white-houses-listening-session-with-asian-american-and-pacific-islander-leaders-on-rising-hate-crimes-and-incidents-against-asian-american-communities/
 published_time: 2021-03-04 18:50:29-05:00
 title: "Readout of the White\_House\u2019s Listening Session with Asian American and\
   \ Pacific Islander Leaders on Rising Hate Crimes and Incidents Against Asian American\_\
@@ -32,7 +32,7 @@ American communities. Ambassador Rice and Congressman Richmond also
 underscored that the President has made it the policy of his
 Administration to condemn and combat xenophobia against Asian Americans.
 In his [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/)
 Condemning and Combating Racism, Xenophobia, and Intolerance Against
 Asian Americans and Pacific Islanders in the United States, President
 Biden charged the Department of Justice with partnering with Asian

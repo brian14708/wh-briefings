@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-06 17:40:04-04:00
 published_time: 2022-04-06 17:40:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/06/remarks-by-president-biden-at-north-americas-building-trades-unions-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/06/remarks-by-president-biden-at-north-americas-building-trades-unions-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at North America\u2019s Building Trades Unions\
   \ Legislative\_Conference"

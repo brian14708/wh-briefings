@@ -2,7 +2,7 @@
 date: '2024-11-08'
 modified_time: 2024-11-08 18:22:05-05:00
 published_time: 2024-11-08 18:22:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/08/a-proclamation-to-facilitate-positive-adjustment-to-competition-from-imports-of-fine-denier-polyester-staple-fiber/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/08/a-proclamation-to-facilitate-positive-adjustment-to-competition-from-imports-of-fine-denier-polyester-staple-fiber/
 tags: presidential-actions
 title: "A Proclamation to Facilitate Positive Adjustment to Competition from Imports\
   \ of Fine Denier Polyester Staple\_Fiber"

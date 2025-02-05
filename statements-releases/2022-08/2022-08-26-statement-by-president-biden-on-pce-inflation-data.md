@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 09:51:56-04:00
 published_time: 2022-08-26 09:51:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/26/statement-by-president-biden-on-pce-inflation-data/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/26/statement-by-president-biden-on-pce-inflation-data/
 tags: statements-releases
 title: "Statement by President\_Biden on PCE\_Inflation\_Data"
 ---

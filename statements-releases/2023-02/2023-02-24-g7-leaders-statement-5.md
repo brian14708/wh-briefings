@@ -2,7 +2,7 @@
 date: '2023-02-24'
 modified_time: 2023-02-24 12:13:20-05:00
 published_time: 2023-02-24 12:13:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/24/g7-leaders-statement-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/24/g7-leaders-statement-5/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement"
 ---

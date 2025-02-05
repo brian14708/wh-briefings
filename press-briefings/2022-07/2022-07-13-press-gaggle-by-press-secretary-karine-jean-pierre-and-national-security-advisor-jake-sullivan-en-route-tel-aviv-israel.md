@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 09:33:19-04:00
 published_time: 2022-07-13 09:33:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-tel-aviv-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-tel-aviv-israel/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Tel Aviv,\_Israel"

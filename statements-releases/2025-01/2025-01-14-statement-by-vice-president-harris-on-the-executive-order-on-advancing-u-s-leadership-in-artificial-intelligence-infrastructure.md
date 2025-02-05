@@ -2,7 +2,7 @@
 date: '2025-01-14'
 modified_time: 2025-01-13 23:41:02-05:00
 published_time: 2025-01-14 07:05:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/14/statement-by-vice-president-harris-on-the-executive-order-on-advancing-u-s-leadership-in-artificial-intelligence-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/14/statement-by-vice-president-harris-on-the-executive-order-on-advancing-u-s-leadership-in-artificial-intelligence-infrastructure/
 tags: statements-releases
 title: Statement by Vice President Harris on the Executive Order on Advancing U.S.
   Leadership in Artificial Intelligence Infrastructure

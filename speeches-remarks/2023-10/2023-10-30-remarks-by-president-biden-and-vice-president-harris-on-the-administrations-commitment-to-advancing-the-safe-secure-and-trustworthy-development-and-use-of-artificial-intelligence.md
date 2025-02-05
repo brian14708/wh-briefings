@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-11-01 08:03:38-04:00
 published_time: 2023-10-30 18:32:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/30/remarks-by-president-biden-and-vice-president-harris-on-the-administrations-commitment-to-advancing-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/30/remarks-by-president-biden-and-vice-president-harris-on-the-administrations-commitment-to-advancing-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris on the Administration\u2019\
   s Commitment to Advancing the Safe, Secure, and Trustworthy Development and Use\

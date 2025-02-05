@@ -2,7 +2,7 @@
 date: '2024-08-13'
 modified_time: 2024-08-12 21:59:27-04:00
 published_time: 2024-08-13 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-announces-150-million-from-arpa-h-to-deliver-progress-on-biden-cancer-moonshot-goals-and-improve-health-outcomes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-announces-150-million-from-arpa-h-to-deliver-progress-on-biden-cancer-moonshot-goals-and-improve-health-outcomes/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces $150 Million from\
   \ ARPA-H to Deliver Progress on Biden Cancer Moonshot Goals and Improve Health\_\
@@ -70,7 +70,7 @@ Administration to end cancer as we know it:
     reality.  These innovative Multi-Cancer-Early Detection (MCED) tests
     could improve outcomes for millions of Americans facing cancer.
 -   Centers for Medicare and Medicaid Services released a [proposed
-    rule](https://www.whitehouse.gov/ostp/news-updates/2024/07/10/deputy-assistant-to-the-president-for-the-cancer-moonshot-dr-danielle-carnival-on-new-proposed-cms-rules-to-expand-access-to-high-cost-drugs-and-cancer-treatment-at-tribal-facilities/)
+    rule](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/07/10/deputy-assistant-to-the-president-for-the-cancer-moonshot-dr-danielle-carnival-on-new-proposed-cms-rules-to-expand-access-to-high-cost-drugs-and-cancer-treatment-at-tribal-facilities/)
     in July that would, for the first time ever, enable Indian Health
     Services (IHS) and Tribal facilities to receive separate payment for
     high-cost drugs for people with Medicare, allowing clinics to

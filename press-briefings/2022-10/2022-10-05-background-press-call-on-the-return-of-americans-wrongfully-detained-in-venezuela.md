@@ -2,7 +2,7 @@
 date: '2022-10-05'
 modified_time: 2022-10-05 16:55:59-04:00
 published_time: 2022-10-05 14:11:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/10/05/background-press-call-on-the-return-of-americans-wrongfully-detained-in-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/10/05/background-press-call-on-the-return-of-americans-wrongfully-detained-in-venezuela/
 tags: press-briefings
 title: "Background Press Call on the Return of Americans Wrongfully Detained in\_\
   Venezuela"

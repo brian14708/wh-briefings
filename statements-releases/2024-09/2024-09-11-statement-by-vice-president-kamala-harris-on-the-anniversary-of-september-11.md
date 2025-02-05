@@ -2,7 +2,7 @@
 date: '2024-09-11'
 modified_time: 2024-09-10 20:52:56-04:00
 published_time: 2024-09-11 05:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/11/statement-by-vice-president-kamala-harris-on-the-anniversary-of-september-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/11/statement-by-vice-president-kamala-harris-on-the-anniversary-of-september-11/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Anniversary of September\_\
   11"

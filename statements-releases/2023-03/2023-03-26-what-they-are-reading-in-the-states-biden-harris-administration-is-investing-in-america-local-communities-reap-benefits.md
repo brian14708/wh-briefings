@@ -2,7 +2,7 @@
 date: '2023-03-26'
 modified_time: 2023-03-26 11:16:54-04:00
 published_time: 2023-03-26 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/26/what-they-are-reading-in-the-states-biden-harris-administration-is-investing-in-america-local-communities-reap-benefits/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/26/what-they-are-reading-in-the-states-biden-harris-administration-is-investing-in-america-local-communities-reap-benefits/
 tags: statements-releases
 title: "What They Are Reading in the States: Biden-\u2060Harris Administration is\
   \ Investing in America; Local Communities Reap\_Benefits"

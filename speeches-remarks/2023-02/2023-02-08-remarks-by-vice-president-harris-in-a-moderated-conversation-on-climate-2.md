@@ -1,7 +1,7 @@
 ---
 date: '2023-02-08'
 published_time: 2023-02-08 20:50:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/08/remarks-by-vice-president-harris-in-a-moderated-conversation-on-climate-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/08/remarks-by-vice-president-harris-in-a-moderated-conversation-on-climate-2/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation on\_Climate"
 ---

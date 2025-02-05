@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 12:44:24-05:00
 published_time: 2024-12-11 15:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/11/president-biden-announces-presidential-delegation-to-attend-the-80th-anniversary-of-the-battle-of-the-bulge-in-bastogne-belgium-and-luxembourg-city-luxembourg/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/11/president-biden-announces-presidential-delegation-to-attend-the-80th-anniversary-of-the-battle-of-the-bulge-in-bastogne-belgium-and-luxembourg-city-luxembourg/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to attend the 80th Anniversary\
   \ of the Battle of the Bulge in Bastogne, Belgium and Luxembourg City,\_Luxembourg"

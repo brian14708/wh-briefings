@@ -2,7 +2,7 @@
 date: '2022-11-21'
 modified_time: 2022-11-21 19:47:58-05:00
 published_time: 2022-11-21 19:47:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-president-biden-at-a-friendsgiving-dinner-with-service-members-and-military-families-cherry-point-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-president-biden-at-a-friendsgiving-dinner-with-service-members-and-military-families-cherry-point-nc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Friendsgiving Dinner with Service Members\
   \ and Military Families | Cherry Point,\_NC"

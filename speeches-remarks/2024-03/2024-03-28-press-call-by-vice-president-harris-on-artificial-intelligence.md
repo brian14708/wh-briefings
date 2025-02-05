@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-27 16:23:25-04:00
 published_time: 2024-03-28 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/28/press-call-by-vice-president-harris-on-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/28/press-call-by-vice-president-harris-on-artificial-intelligence/
 tags: speeches-remarks
 title: "Press Call by Vice President Harris On Artificial\_Intelligence"
 ---

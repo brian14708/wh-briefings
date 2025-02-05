@@ -1,7 +1,7 @@
 ---
 date: '2023-05-07'
 published_time: 2023-05-07 11:23:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/07/statement-from-president-joe-biden-on-the-shooting-in-allen-texas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/07/statement-from-president-joe-biden-on-the-shooting-in-allen-texas/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Shooting in Allen,\_Texas"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-21'
 published_time: 2023-06-21 18:10:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-workforce-event-with-prime-minister-narendra-modi-at-the-national-science-foundation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-workforce-event-with-prime-minister-narendra-modi-at-the-national-science-foundation/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Workforce\
   \ Event with Prime Minister Narendra Modi at the National Science\_Foundation"

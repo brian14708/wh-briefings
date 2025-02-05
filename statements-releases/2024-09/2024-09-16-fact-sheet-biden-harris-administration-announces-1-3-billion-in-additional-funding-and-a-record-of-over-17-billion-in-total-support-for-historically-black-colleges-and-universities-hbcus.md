@@ -2,7 +2,7 @@
 date: '2024-09-16'
 modified_time: 2024-09-17 09:33:45-04:00
 published_time: 2024-09-16 12:20:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/16/fact-sheet-biden-harris-administration-announces-1-3-billion-in-additional-funding-and-a-record-of-over-17-billion-in-total-support-for-historically-black-colleges-and-universities-hbcus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/16/fact-sheet-biden-harris-administration-announces-1-3-billion-in-additional-funding-and-a-record-of-over-17-billion-in-total-support-for-historically-black-colleges-and-universities-hbcus/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces $1.3 Billion in Additional\
   \ Funding and a Record of Over $17 Billion in Total Support for Historically Black\
@@ -40,7 +40,7 @@ five times as many students move from the bottom 40% to the top 60% of
 U.S. household.
 
 A
-[report](https://www.whitehouse.gov/cea/written-materials/2024/05/16/the-economics-of-hbcus/)
+[report](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/05/16/the-economics-of-hbcus/)
 by the Council of Economic Advisors (CEA) published in May further
 underscores this point. The report found that, even in the face of
 historic underfunding, HBCU enrollment was associated with an increased
@@ -74,7 +74,7 @@ educational excellence through HBCUs since Day One, including by
 reestablishing the [White House Initiative on Advancing Educational
 Equity, Excellence, and Economic Opportunity through Historically Black
 Colleges and
-Universities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/).
+Universities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/).
 The Biden-Harris Administration is the most diverse administration in
 history and many members are HBCU graduates, including Vice President
 Kamala Harris,  U.S. Environmental Protection Agency Administrator
@@ -229,7 +229,7 @@ HBCUs and the students and communities they serve:**
 -   The **White House Initiative on Advancing Educational Equity,
     Excellence, and Economic Opportunity through HBCUs** established the
     [Executive HBCU Space
-    Lab](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-),
+    Lab](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-),
     a new collaboration between HBCUs, the Federal government, and
     industry partners to increase HBCU engagement in space-related
     federal contracting. The Executive HBCU Space Lab is a
@@ -341,7 +341,7 @@ HBCUs and the students and communities they serve:**
     (CoSTEM)**, in support of the CHIPS and Science Act, established an
     Interagency Working Group (IWG) on HBCU, TCU, and MSI STEM
     Achievement. The
-    [Council](https://www.whitehouse.gov/ostp/ostps-teams/nstc/)
+    [Council](https://bidenwhitehouse.archives.gov/ostp/ostps-teams/nstc/)
     provides a coordinated federal approach to carry out sustained
     outreach activities to increase clarity, transparency, and
     accountability for federal research agency investments in STEM

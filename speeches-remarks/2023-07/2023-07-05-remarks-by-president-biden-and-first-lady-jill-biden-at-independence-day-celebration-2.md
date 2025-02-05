@@ -1,7 +1,7 @@
 ---
 date: '2023-07-05'
 published_time: 2023-07-05 08:14:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-president-biden-and-first-lady-jill-biden-at-independence-day-celebration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/05/remarks-by-president-biden-and-first-lady-jill-biden-at-independence-day-celebration-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at Independence Day\_\
   Celebration"

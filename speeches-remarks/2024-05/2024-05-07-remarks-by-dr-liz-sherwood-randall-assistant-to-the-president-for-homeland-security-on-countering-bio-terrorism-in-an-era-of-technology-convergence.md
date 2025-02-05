@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-10 18:25:36-04:00
 published_time: 2024-05-07 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-dr-liz-sherwood-randall-assistant-to-the-president-for-homeland-security-on-countering-bio-terrorism-in-an-era-of-technology-convergence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-dr-liz-sherwood-randall-assistant-to-the-president-for-homeland-security-on-countering-bio-terrorism-in-an-era-of-technology-convergence/
 tags: speeches-remarks
 title: "Remarks by Dr. Liz Sherwood-Randall Assistant to the President for Homeland\
   \ Security on Countering Bioterrorism in an Era of Technology\_Convergence"
@@ -188,7 +188,7 @@ product development, deployment, and monitoring.  
 
 We are working to strengthen U.S. leadership in biotechnology. On
 September 12, 2022, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/) on
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/) on
 Advancing Biotechnology and Biomanufacturing Innovation for a
 Sustainable, Safe, and Secure American Bioeconomy. 
 
@@ -208,7 +208,7 @@ focus areas of: Food, Fuel, Fitness, Fabrication, and Firepower.
 
 Meanwhile, the private sector has accelerated investment in
 biomanufacturing, adding to the over [$20
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 biomanufacturing investment commitments that have been announced for
 projects across the country since 2021.
 

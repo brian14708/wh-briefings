@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
 published_time: 2022-11-21 16:02:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-vice-president-harris-in-a-moderated-conversation-with-ambassador-marykay-carlson-and-young-women/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-vice-president-harris-in-a-moderated-conversation-with-ambassador-marykay-carlson-and-young-women/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris In a Moderated Conversation With\_Ambassador\
   \ Marykay Carlson and Young\_Women"

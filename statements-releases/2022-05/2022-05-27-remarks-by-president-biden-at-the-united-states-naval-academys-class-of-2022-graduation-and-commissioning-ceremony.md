@@ -1,7 +1,7 @@
 ---
 date: '2022-05-27'
 published_time: 2022-05-27 13:32:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/27/remarks-by-president-biden-at-the-united-states-naval-academys-class-of-2022-graduation-and-commissioning-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/27/remarks-by-president-biden-at-the-united-states-naval-academys-class-of-2022-graduation-and-commissioning-ceremony/
 tags: statements-releases
 title: "Remarks by President\_Biden at the United\_States Naval Academy\u2019s Class\
   \ of 2022 Graduation and Commissioning\_Ceremony"

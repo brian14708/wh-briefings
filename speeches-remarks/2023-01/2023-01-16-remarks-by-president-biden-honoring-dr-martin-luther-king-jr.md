@@ -2,7 +2,7 @@
 date: '2023-01-16'
 modified_time: 2023-01-16 09:12:11-05:00
 published_time: 2023-01-16 09:12:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-president-biden-honoring-dr-martin-luther-king-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-president-biden-honoring-dr-martin-luther-king-jr/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring Dr. Martin Luther King,\_Jr."
 ---

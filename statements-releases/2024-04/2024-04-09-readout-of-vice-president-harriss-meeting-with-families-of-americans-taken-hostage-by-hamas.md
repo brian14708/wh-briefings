@@ -1,7 +1,7 @@
 ---
 date: '2024-04-09'
 published_time: 2024-04-09 15:46:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/readout-of-vice-president-harriss-meeting-with-families-of-americans-taken-hostage-by-hamas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/readout-of-vice-president-harriss-meeting-with-families-of-americans-taken-hostage-by-hamas/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Families of Americans\
   \ Taken Hostage by\_Hamas"

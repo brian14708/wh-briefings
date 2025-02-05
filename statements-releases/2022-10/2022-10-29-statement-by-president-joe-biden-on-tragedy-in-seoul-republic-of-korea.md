@@ -1,7 +1,7 @@
 ---
 date: '2022-10-29'
 published_time: 2022-10-29 17:49:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/29/statement-by-president-joe-biden-on-tragedy-in-seoul-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/29/statement-by-president-joe-biden-on-tragedy-in-seoul-republic-of-korea/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Tragedy in Seoul, Republic of\_Korea"
 ---

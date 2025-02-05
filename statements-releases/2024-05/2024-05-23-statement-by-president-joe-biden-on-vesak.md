@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-22 18:35:51-04:00
 published_time: 2024-05-23 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/statement-by-president-joe-biden-on-vesak/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/statement-by-president-joe-biden-on-vesak/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on\_Vesak"
 ---

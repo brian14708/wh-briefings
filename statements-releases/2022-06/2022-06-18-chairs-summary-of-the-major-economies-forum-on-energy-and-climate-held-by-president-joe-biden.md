@@ -1,7 +1,7 @@
 ---
 date: '2022-06-18'
 published_time: 2022-06-18 13:37:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/18/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/18/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden/
 tags: statements-releases
 title: "Chair\u2019s Summary of the Major Economies Forum on Energy and Climate Held\
   \ by President Joe\_Biden"

@@ -2,7 +2,7 @@
 date: '2024-07-20'
 modified_time: 2024-07-20 10:42:12-04:00
 published_time: 2024-07-20 10:42:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/20/statement-from-president-joe-biden-on-the-passing-of-representative-sheila-jackson-lee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/20/statement-from-president-joe-biden-on-the-passing-of-representative-sheila-jackson-lee/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Representative Sheila\
   \ Jackson\_Lee"

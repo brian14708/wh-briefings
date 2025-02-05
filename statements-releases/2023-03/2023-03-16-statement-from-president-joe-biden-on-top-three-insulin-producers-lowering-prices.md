@@ -1,7 +1,7 @@
 ---
 date: '2023-03-16'
 published_time: 2023-03-16 21:48:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/16/statement-from-president-joe-biden-on-top-three-insulin-producers-lowering-prices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/16/statement-from-president-joe-biden-on-top-three-insulin-producers-lowering-prices/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Top Three Insulin Producers Lowering\_\
   Prices"

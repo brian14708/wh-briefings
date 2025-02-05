@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 20:22:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-vice-president-harris-before-briefing-from-centcom-and-socom-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-vice-president-harris-before-briefing-from-centcom-and-socom-leaders/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris before Briefing from\_CENTCOM and SOCOM\_\
   Leaders"

@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2021-09-15'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/15/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-or-support-terrorism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/15/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-or-support-terrorism/
 published_time: 2021-09-15 16:18:29-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Persons\
   \ who Commit, or Support\_Terrorism"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-24'
 published_time: 2024-01-24 20:45:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-president-biden-at-a-political-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-president-biden-at-a-political-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political\_Event"
 ---

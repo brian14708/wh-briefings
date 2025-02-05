@@ -2,7 +2,7 @@
 date: '2023-01-23'
 modified_time: 2023-01-23 18:27:56-05:00
 published_time: 2023-01-23 18:27:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/23/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-energy-jennifer-granholm-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/23/press-briefing-by-press-secretary-karine-jean-pierre-and-secretary-of-energy-jennifer-granholm-2/
 tags: speeches-remarks
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Secretary of Energy\
   \ Jennifer\_Granholm"

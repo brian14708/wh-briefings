@@ -2,7 +2,7 @@
 date: '2024-04-10'
 modified_time: 2024-04-10 09:33:37-04:00
 published_time: 2024-04-10 09:33:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/statement-from-president-joe-biden-on-the-march-consumer-price-index-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/statement-from-president-joe-biden-on-the-march-consumer-price-index-2/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the March Consumer Price\_Index"
 ---

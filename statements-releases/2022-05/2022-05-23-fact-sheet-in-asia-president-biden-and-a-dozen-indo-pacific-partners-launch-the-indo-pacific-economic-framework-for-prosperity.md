@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-22 12:04:15-04:00
 published_time: 2022-05-23 03:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-in-asia-president-biden-and-a-dozen-indo-pacific-partners-launch-the-indo-pacific-economic-framework-for-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/23/fact-sheet-in-asia-president-biden-and-a-dozen-indo-pacific-partners-launch-the-indo-pacific-economic-framework-for-prosperity/
 tags: statements-releases
 title: "FACT SHEET: In Asia, President\_Biden and a Dozen Indo-Pacific Partners Launch\
   \ the Indo-Pacific Economic Framework for\_Prosperity"

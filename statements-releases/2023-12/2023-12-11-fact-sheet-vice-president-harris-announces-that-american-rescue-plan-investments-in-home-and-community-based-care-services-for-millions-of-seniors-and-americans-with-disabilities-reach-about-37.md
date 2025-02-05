@@ -2,7 +2,7 @@
 date: '2023-12-11'
 modified_time: 2023-12-11 21:56:09-05:00
 published_time: 2023-12-11 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-vice-president-harris-announces-that-american-rescue-plan-investments-in-home-and-community-based-care-services-for-millions-of-seniors-and-americans-with-disabilities-reach-about-37/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/11/fact-sheet-vice-president-harris-announces-that-american-rescue-plan-investments-in-home-and-community-based-care-services-for-millions-of-seniors-and-americans-with-disabilities-reach-about-37/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces that American Rescue Plan Investments\
   \ in Home and Community-Based Care Services for Millions of Seniors and Americans\
@@ -48,7 +48,7 @@ and investing in our direct care workforce:
     care workers.  
 -   **Key Care Worker Registries deliverable from the historic**
     [**Executive Order To Support the Care
-    Economy**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/)**: **The
+    Economy**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/)**: **The
     Centers for Medicare and Medicaid Services (CMS) is releasing new
     guidance outlining how states can use worker registries for
     Medicaid-funded Home and Community Based Services to ensure

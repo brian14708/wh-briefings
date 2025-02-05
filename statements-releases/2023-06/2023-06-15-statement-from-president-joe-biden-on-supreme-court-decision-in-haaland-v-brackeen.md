@@ -1,7 +1,7 @@
 ---
 date: '2023-06-15'
 published_time: 2023-06-15 11:16:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-supreme-court-decision-in-haaland-v-brackeen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/15/statement-from-president-joe-biden-on-supreme-court-decision-in-haaland-v-brackeen/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Supreme Court Decision in Haaland v.\_\
   Brackeen"

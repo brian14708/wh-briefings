@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-11-10'
 modified_time: 2022-02-23 17:08:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/11/10/recent-progress-and-actions-on-port-congestion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/10/recent-progress-and-actions-on-port-congestion/
 published_time: 2021-11-10 10:25:48-05:00
 title: "Recent Progress and Actions on Port\_Congestion"
 ---
@@ -16,7 +16,7 @@ mid-October than they did in 2018, which held the previous record.
 Simply put, the transportation supply chain is going to move more goods
 this year than ever before, which has helped store shelves [essentially
 recover to or even
-exceed](https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
+exceed](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
 their pre-pandemic states.
 
 This historic throughput has led to challenges for importers and
@@ -26,10 +26,10 @@ we’ve been on the case.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?w=640"
 class="wp-image-37921" loading="lazy"
 sizes="(max-width: 1430px) 100vw, 1430px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg 1430w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=615,348 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=768,434 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1270,718 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1131,640 1131w, https://www.whitehouse.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1038,587 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg 1430w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=615,348 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=768,434 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1270,718 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1131,640 1131w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Containers-Dwelling-.jpg?resize=1038,587 1038w"
 width="1430" height="809" />
 </figure>
 

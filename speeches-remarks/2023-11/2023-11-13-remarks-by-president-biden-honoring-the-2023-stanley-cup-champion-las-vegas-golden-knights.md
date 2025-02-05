@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-13 13:27:32-05:00
 published_time: 2023-11-13 13:27:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-honoring-the-2023-stanley-cup-champion-las-vegas-golden-knights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-honoring-the-2023-stanley-cup-champion-las-vegas-golden-knights/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the 2023 Stanley Cup Champion Las Vegas\
   \ Golden\_Knights"

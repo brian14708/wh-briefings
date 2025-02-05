@@ -2,7 +2,7 @@
 date: '2022-09-11'
 modified_time: 2022-09-12 12:39:55-04:00
 published_time: 2022-09-11 12:21:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-september-11-observance-flight-93-national-memorial/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-september-11-observance-flight-93-national-memorial/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the September\
   \ 11 Observance,\_Flight 93 National\_Memorial"

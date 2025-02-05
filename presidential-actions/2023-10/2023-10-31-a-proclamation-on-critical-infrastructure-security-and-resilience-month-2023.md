@@ -2,7 +2,7 @@
 date: '2023-10-31'
 modified_time: 2023-10-31 14:50:28-04:00
 published_time: 2023-10-31 14:50:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-critical-infrastructure-security-and-resilience-month-2023/
 tags: presidential-actions
 title: "A Proclamation on Critical Infrastructure Security and Resilience Month,\_\
   2023"

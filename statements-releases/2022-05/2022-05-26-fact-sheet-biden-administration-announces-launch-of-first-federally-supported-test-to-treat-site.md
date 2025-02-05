@@ -2,7 +2,7 @@
 date: '2022-05-26'
 modified_time: 2022-05-25 17:49:25-04:00
 published_time: 2022-05-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/26/fact-sheet-biden-administration-announces-launch-of-first-federally-supported-test-to-treat-site/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/26/fact-sheet-biden-administration-announces-launch-of-first-federally-supported-test-to-treat-site/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Announces Launch of First Federally-Supported\
   \ Test to Treat\_Site"

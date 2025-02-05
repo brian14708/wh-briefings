@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 13:06:51-04:00
 published_time: 2022-05-12 13:06:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/12/remarks-by-president-biden-at-the-global-covid-19-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/12/remarks-by-president-biden-at-the-global-covid-19-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Global COVID-\u206019\_Summit"
 ---

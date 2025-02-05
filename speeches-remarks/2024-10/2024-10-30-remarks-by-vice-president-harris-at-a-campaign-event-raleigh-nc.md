@@ -2,7 +2,7 @@
 date: '2024-10-30'
 modified_time: 2024-10-31 13:28:54-04:00
 published_time: 2024-10-30 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/30/remarks-by-vice-president-harris-at-a-campaign-event-raleigh-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/30/remarks-by-vice-president-harris-at-a-campaign-event-raleigh-nc/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Raleigh,\_NC"
 ---

@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-14 18:37:38-04:00
 published_time: 2024-04-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/statement-from-president-joe-biden-on-chips-and-science-act-preliminary-agreement-with-samsung/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/statement-from-president-joe-biden-on-chips-and-science-act-preliminary-agreement-with-samsung/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on CHIPS and Science Act Preliminary Agreement\
   \ with\_Samsung"

@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2022-01-13'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/13/remarks-by-president-biden-after-meeting-with-the-senate-democratic-caucus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/13/remarks-by-president-biden-after-meeting-with-the-senate-democratic-caucus/
 published_time: 2022-01-13 16:36:01-05:00
 title: "Remarks by President\_Biden After Meeting with the Senate Democratic\_Caucus"
 ---

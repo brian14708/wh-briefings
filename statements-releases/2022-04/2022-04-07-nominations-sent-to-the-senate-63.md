@@ -2,7 +2,7 @@
 date: '2022-04-07'
 modified_time: 2022-04-07 15:50:28-04:00
 published_time: 2022-04-07 15:46:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/07/nominations-sent-to-the-senate-63/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/07/nominations-sent-to-the-senate-63/
 tags: statements-releases
 title: "Nominations Sent to the\_Senate"
 ---

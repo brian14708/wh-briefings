@@ -1,7 +1,7 @@
 ---
 date: '2023-10-12'
 published_time: 2023-10-12 09:35:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/12/advisory-the-white-house-fall-garden-tours-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/12/advisory-the-white-house-fall-garden-tours-2023/
 tags: statements-releases
 title: "Advisory: The White\_House Fall Garden Tours\_2023"
 ---

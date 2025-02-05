@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 published_time: 2023-03-31 11:52:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-national-child-abuse-prevention-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-national-child-abuse-prevention-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Child Abuse Prevention Month,\_2023"
 ---

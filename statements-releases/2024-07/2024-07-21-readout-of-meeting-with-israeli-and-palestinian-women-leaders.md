@@ -2,7 +2,7 @@
 date: '2024-07-21'
 modified_time: 2024-07-21 09:41:30-04:00
 published_time: 2024-07-21 09:40:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/21/readout-of-meeting-with-israeli-and-palestinian-women-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/21/readout-of-meeting-with-israeli-and-palestinian-women-leaders/
 tags: statements-releases
 title: "Readout of Meeting with Israeli and Palestinian Women\_Leaders"
 ---
@@ -23,7 +23,7 @@ security processes, whose inclusion leads to more effective policies,
 stronger countries, and enhanced regional and global stability.    
    
 Last month, the White House held a [meeting on June
-17](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/) on
+17](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/) on
 conflict-related sexual violence, including the sexual violence and
 atrocities that have been committed by Hamas on and after October 7. 
 

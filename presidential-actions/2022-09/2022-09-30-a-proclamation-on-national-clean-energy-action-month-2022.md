@@ -2,7 +2,7 @@
 date: '2022-09-30'
 modified_time: 2022-09-30 17:08:32-04:00
 published_time: 2022-09-30 17:01:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-national-clean-energy-action-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/a-proclamation-on-national-clean-energy-action-month-2022/
 tags: presidential-actions
 title: "National Disability Employment Awareness Month,\_2022"
 ---

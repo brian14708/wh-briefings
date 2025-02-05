@@ -1,7 +1,7 @@
 ---
 date: '2022-10-05'
 published_time: 2022-10-05 11:26:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-the-biden-administration-continues-to-support-hurricane-ian-response-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/05/fact-sheet-the-biden-administration-continues-to-support-hurricane-ian-response-efforts/
 tags: statements-releases
 title: "FACT SHEET: The Biden Administration Continues to Support Hurricane Ian Response\_\
   Efforts"

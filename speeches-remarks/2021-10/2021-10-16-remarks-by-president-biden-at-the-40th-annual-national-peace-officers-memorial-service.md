@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-10-16'
 modified_time: 2021-10-16 19:21:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/10/16/remarks-by-president-biden-at-the-40th-annual-national-peace-officers-memorial-service/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/10/16/remarks-by-president-biden-at-the-40th-annual-national-peace-officers-memorial-service/
 published_time: 2021-10-16 19:21:48-04:00
 title: "Remarks by President\_Biden at the 40th Annual National Peace Officers\u2019\
   \ Memorial\_Service"

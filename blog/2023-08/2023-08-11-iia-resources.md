@@ -2,7 +2,7 @@
 date: '2023-08-11'
 modified_time: 2023-08-15 18:53:19-04:00
 published_time: 2023-08-11 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/08/11/iia-resources/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/11/iia-resources/
 tags: blog
 title: "Understanding the Economics of Investing in America: A Collection of\_Resources"
 ---
@@ -61,7 +61,7 @@ underfunded by the private market, including infrastructure, clean
 energy, and research and development.
 
 -   [The Biden-Harris Economic
-    Blueprint](https://www.whitehouse.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf)
+    Blueprint](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf)
     (September 2022) lays out the President’s economic plan to rebuild
     the economy from the bottom up and middle out in a way that (1)
     empowers workers, (2) makes it and builds it in America, (3) gives
@@ -71,14 +71,14 @@ energy, and research and development.
 -   There are resources that lay out the core Investing in America
     legislation:
     -   The [Bipartisan Infrastructure Law
-        guidebook](https://www.whitehouse.gov/build/guidebook/) is a
+        guidebook](https://bidenwhitehouse.archives.gov/build/guidebook/) is a
         roadmap to the infrastructure funding available, with
         program-by-program information.
 
     <!-- -->
 
     -   The [Inflation Reduction Act
-        guidebook](https://www.whitehouse.gov/cleanenergy/inflation-reduction-act-guidebook/)
+        guidebook](https://bidenwhitehouse.archives.gov/cleanenergy/inflation-reduction-act-guidebook/)
         is an overview of the clean energy, climate mitigation and
         resilience, agriculture, and conservation-related tax incentives
         and investment programs.
@@ -100,34 +100,34 @@ why we are prioritizing people and places, fair markets, and strong
 supply chains.
 
 -   [The Economics of Investing in
-    America](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+    America](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
     (July 2023) articulates the economic rationale for why the Investing
     in America agenda will spur stable, shared economic growth by
     investing in critical industries and infrastructure from the middle
     out and the bottom up.
 -   President Joseph R. Biden made the case for Investing in America in
     his remarks on
-    [Bidenomics](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/)
+    [Bidenomics](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/28/remarks-by-president-biden-on-bidenomics-chicago-il/)
     (June 2023).
 -   Senior Administration officials have spoken about the economic
     reasons to invest in America—including First Lady [Jill
-    Biden](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-columbus-workforce-hub-launch-convening/),
+    Biden](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-columbus-workforce-hub-launch-convening/),
     National Economic Council Director [Lael
-    Brainard](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/),
+    Brainard](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/),
     Domestic Policy Advisor [Neera
-    Tanden](https://www.whitehouse.gov/dpc/briefing-room/2023/07/11/neera-tanden-remarks-at-department-of-labor-good-jobs-great-cities-academy/),
+    Tanden](https://bidenwhitehouse.archives.gov/dpc/briefing-room/2023/07/11/neera-tanden-remarks-at-department-of-labor-good-jobs-great-cities-academy/),
     Council of Economic Advisers Chair [Jared
     Bernstein](https://www.bloomberg.com/news/articles/2023-07-05/jared-bernstein-on-understanding-bidenomics?srnd=null),
     Secretary of the Treasury
     [Janet](https://home.treasury.gov/news/press-releases/jy1585)
     [Yellen](https://home.treasury.gov/news/press-releases/jy0565),
     Investing in America Chief Economist [Heather
-    Boushey](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-heather-boushey-on-how-president-bidens-invest-in-america-agenda-has-laid-the-foundation-for-decades-of-strong-stable-and-sustained-equitable-growth/),
+    Boushey](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-heather-boushey-on-how-president-bidens-invest-in-america-agenda-has-laid-the-foundation-for-decades-of-strong-stable-and-sustained-equitable-growth/),
     National Security Advisor [Jake
-    Sullivan](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/),
+    Sullivan](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/),
     and former National Economic Council Director
-    [Brian](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/20/remarks-on-a-modern-american-industrial-strategy-by-nec-director-brian-deese/)
-    [Deese](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).
+    [Brian](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/20/remarks-on-a-modern-american-industrial-strategy-by-nec-director-brian-deese/)
+    [Deese](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).
 -   An array of other resources, described below, make the case for
     specific aspects of the agenda…    
 
@@ -139,10 +139,10 @@ supply chains.
 productivity and economic growth across industries.
 
 -   [Modernizing U.S. Infrastructure: The Bipartisan Infrastructure
-    Law](https://www.whitehouse.gov/cea/written-materials/2021/11/15/the-time-is-now-to-modernize-u-s-infrastructure/)
+    Law](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/15/the-time-is-now-to-modernize-u-s-infrastructure/)
     (November 2021)
 -   [Bringing Infrastructure into the 21<sup>st</sup>
-    Century](https://www.whitehouse.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
+    Century](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/06/bringing-infrastructure-into-the-21st-century/)
     (November 2021)
 
 Climate change is one of our greatest challenges, and decades of
@@ -152,21 +152,21 @@ workers and communities.
 
 -   [The Economics of Demand-Side Support for the Department of Energy’s
     Clean Hydrogen
-    Hubs](https://www.whitehouse.gov/cea/written-materials/2023/07/05/the-economics-of-demand-side-support-for-the-department-of-energys-clean-hydrogen-hubs/)
+    Hubs](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/05/the-economics-of-demand-side-support-for-the-department-of-energys-clean-hydrogen-hubs/)
     (July 2023)
 -   [The Department of Energy Liftoff
     Reports](https://liftoff.energy.gov/about-the-liftoff-reports/) on
     advanced nuclear, carbon management, clean hydrogen, and long
     duration energy storage
 -   [Accelerating and Smoothing the Clean Energy
-    Transition](https://www.whitehouse.gov/wp-content/uploads/2022/04/Chapter-7-new.pdf)
+    Transition](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Chapter-7-new.pdf)
     (April 2022)
 -   [Supporting Economic Growth While Tackling Climate
-    Change](https://www.whitehouse.gov/cea/written-materials/2021/11/15/supporting-economic-growth-while-tackling-climate-change/)
+    Change](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/11/15/supporting-economic-growth-while-tackling-climate-change/)
     (November 2021)
 -   [Innovation, Investment, and Inclusion: Accelerating the Energy
     Transition and Creating Good
-    Jobs](https://www.whitehouse.gov/cea/written-materials/2021/04/23/innovation-investment-and-inclusion-accelerating-the-energy-transition-and-creating-good-jobs/)
+    Jobs](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/04/23/innovation-investment-and-inclusion-accelerating-the-energy-transition-and-creating-good-jobs/)
     (April 2021)
 
 ***Semiconductors*** are the building blocks of the modern economy, and
@@ -178,7 +178,7 @@ resilience of our supply chains and imperative for economic growth.
     Leadership](https://www.commerce.gov/news/speeches/2023/02/remarks-us-secretary-commerce-gina-raimondo-chips-act-and-long-term-vision)
     (February 2023)
 -   [The Economics Behind the President’s Economic
-    Agenda](https://www.whitehouse.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
+    Agenda](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/08/09/the-economics-behind-the-presidents-economic-agenda/)
     (August 2022)
 
 ### 2. Investing in people and places
@@ -189,33 +189,33 @@ delivering strong and stable growth, and ensuring its benefits are
 shared.
 
 -   Description of the [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 -   Description of the [Federal Interagency Thriving Communities
     Network](https://www.transportation.gov/federal-interagency-thriving-communities-network)
 -   [Biden-Harris Administration Roadmap to Support Good
-    Jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
+    Jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
     (May 2023)
 -   Remarks by President Joseph R. Biden on [Building Healthy
     Communities and Advancing Environmental
-    Justice](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-president-biden-on-building-healthy-communities-and-advancing-environmental-justice/)
+    Justice](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/21/remarks-by-president-biden-on-building-healthy-communities-and-advancing-environmental-justice/)
     (April 2023)
 -   Revitalizing Energy Communities [Two-Year Report to the
     President](https://energycommunities.gov/wp-content/uploads/2023/04/IWG-Two-Year-Report-to-the-President.pdf)
     (April 2023)
 -   [Equitable Workforce Development for Infrastructure Jobs: A Guide to
     Federal
-    Resources](https://www.whitehouse.gov/build/resources/equitable-infrastructure-workforce/)
+    Resources](https://bidenwhitehouse.archives.gov/build/resources/equitable-infrastructure-workforce/)
     (November 2022)
 -   [Care Businesses: A Model that Doesn’t Work for Providers, Workers,
     or
-    Families](https://www.whitehouse.gov/cea/written-materials/2022/04/08/care-businesses-a-model-that-doesnt-work-for-providers-workers-or-families/)
+    Families](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/08/care-businesses-a-model-that-doesnt-work-for-providers-workers-or-families/)
     (April 2022)
 -   [Blocking the Low Road and Paving the High Road: Management
     Practices to Improve
-    Productivity](https://www.whitehouse.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
+    Productivity](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
     (April 2022)
 -   [Investing in People: Education, Workforce Development, and
-    Health](https://www.whitehouse.gov/wp-content/uploads/2022/04/Chapter-4-new.pdf)
+    Health](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Chapter-4-new.pdf)
     (April 2022)
 -   [Coal-dependent Communities in Transition: Identifying Best
     Practices to Ensure Equitable
@@ -227,23 +227,23 @@ Resilient supply chains protect our economy from unexpected shocks and
 facilitate stable economic growth.
 
 -   [Unsnarled Supply Chains Appear to Help Ease Goods
-    Inflation](https://www.whitehouse.gov/cea/written-materials/2023/06/08/easing-supply-chains/)
+    Inflation](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/06/08/easing-supply-chains/)
     (June 2023)
 -   [Brian Deese, John Podesta and Jake Sullivan on the Inflation
     Reduction
     Act](https://www.economist.com/by-invitation/2023/01/24/brian-deese-john-podesta-and-jake-sullivan-on-the-inflation-reduction-act)
     (January 2023)
 -   [Building Resilient Supply
-    Chains](https://www.whitehouse.gov/wp-content/uploads/2022/04/Chapter-6-new.pdf)
+    Chains](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Chapter-6-new.pdf)
     (April 2022)
 -   [Improving and Tracking Supply Chains Link by
-    Link](https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
+    Link](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
     (November 2021)
 -   [When the Chips Are Down: Preventing and Addressing Supply Chain
-    Disruptions](https://www.whitehouse.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/)
+    Disruptions](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/23/when-the-chips-are-down-preventing-and-addressing-supply-chain-disruptions/)
     (September 2021)
 -   [Why the Pandemic Has Disrupted Supply
-    Chains](https://www.whitehouse.gov/cea/written-materials/2021/06/17/why-the-pandemic-has-disrupted-supply-chains/)
+    Chains](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/06/17/why-the-pandemic-has-disrupted-supply-chains/)
     (June 2021)
 
 ### 4. Shaping markets to be fair and competitive
@@ -252,24 +252,24 @@ Stable, shared economic growth requires policymakers to shape markets to
 avoid monopoly power and build industries that are productive and fair.
 
 -   [Protecting Competition Through Updated Merger
-    Guidelines](https://www.whitehouse.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/)
+    Guidelines](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/)
     (July 2023)
 -   [Investing in America Means Investing in America’s Small
-    Businesses](https://www.whitehouse.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
+    Businesses](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
     (May 2023)
 -   [The President’s Initiative on Junk Fees and Related Pricing
-    Practices](https://www.whitehouse.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)
+    Practices](https://bidenwhitehouse.archives.gov/briefing-room/blog/2022/10/26/the-presidents-initiative-on-junk-fees-and-related-pricing-practices/)
     (October 2022)
 -   [Recent Data Show Dominant Meat Processing Companies Are Taking
     Advantage of Market Power to Raise Prices and Grow Profit
-    Margins](https://www.whitehouse.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
+    Margins](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/12/10/recent-data-show-dominant-meat-processing-companies-are-taking-advantage-of-market-power-to-raise-prices-and-grow-profit-margins/)
     (December 2021)
 -   [Addressing Concentration in the Meat-Processing Industry to Lower
     Food Prices for American
-    Families](https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
+    Families](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/)
     (September 2021)
 -   [The Importance of Competition for the American
-    Economy](https://www.whitehouse.gov/cea/written-materials/2021/07/09/the-importance-of-competition-for-the-american-economy/)
+    Economy](https://bidenwhitehouse.archives.gov/cea/written-materials/2021/07/09/the-importance-of-competition-for-the-american-economy/)
     (July 2021)
 
 ### 5. Overcoming barriers to scaling production
@@ -279,12 +279,12 @@ of the moment with effective investments in America.
 
 -   Remarks by Senior Advisor John Podesta on [the Biden-Harris
     Administration’s Priorities for Energy Infrastructure Permitting
-    Reform](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-senior-advisor-john-podesta-on-the-biden-harris-administrations-priorities-for-energy-infrastructure-permitting-reform/)
+    Reform](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/10/remarks-as-prepared-for-delivery-by-senior-advisor-john-podesta-on-the-biden-harris-administrations-priorities-for-energy-infrastructure-permitting-reform/)
     (May 2023)
 -   [The Biden-Harris Permitting Action Plan to Rebuild America’s
     Infrastructure, Accelerate the Clean Energy Transition, Revitalize
     Communities, and Create
-    Jobs](https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)
+    Jobs](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)
     (May 2022)
 
 Finally, central to our mission is tracking the progress of the

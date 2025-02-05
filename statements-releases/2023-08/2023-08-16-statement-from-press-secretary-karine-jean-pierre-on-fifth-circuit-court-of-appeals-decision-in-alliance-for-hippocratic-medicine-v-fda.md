@@ -1,7 +1,7 @@
 ---
 date: '2023-08-16'
 published_time: 2023-08-16 19:32:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/statement-from-press-secretary-karine-jean-pierre-on-fifth-circuit-court-of-appeals-decision-in-alliance-for-hippocratic-medicine-v-fda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/statement-from-press-secretary-karine-jean-pierre-on-fifth-circuit-court-of-appeals-decision-in-alliance-for-hippocratic-medicine-v-fda/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Fifth Circuit Court of\
   \ Appeals Decision in Alliance for Hippocratic Medicine v.\_FDA"

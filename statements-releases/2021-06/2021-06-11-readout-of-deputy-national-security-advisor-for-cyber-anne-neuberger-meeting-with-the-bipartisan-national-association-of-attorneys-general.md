@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-11'
 modified_time: 2021-06-11 09:09:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/11/readout-of-deputy-national-security-advisor-for-cyber-anne-neuberger-meeting-with-the-bipartisan-national-association-of-attorneys-general/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/11/readout-of-deputy-national-security-advisor-for-cyber-anne-neuberger-meeting-with-the-bipartisan-national-association-of-attorneys-general/
 published_time: 2021-06-11 09:09:44-04:00
 title: "Readout of Deputy National Security Advisor for Cyber Anne Neuberger Meeting\
   \ with the Bipartisan National Association of Attorneys\_General"
@@ -41,7 +41,7 @@ the President’s commitment to modernizing existing infrastructure while
 simultaneously investing in the infrastructure of the future.
 
 In a reference to her [open
-letter](https://www.whitehouse.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
+letter](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/Memo-What-We-Urge-You-To-Do-To-Protect-Against-The-Threat-of-Ransomware.pdf)
 to the private sector, Neuberger reiterated the need for private and
 public sector partnership to effectively guard against ransomware,
 recalling that much of U.S. critical infrastructure is owned and

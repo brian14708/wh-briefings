@@ -2,7 +2,7 @@
 date: '2024-04-04'
 modified_time: 2024-04-05 13:29:21-04:00
 published_time: 2024-04-04 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/04/remarks-by-president-biden-at-greek-independence-day-reception-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/04/remarks-by-president-biden-at-greek-independence-day-reception-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Greek Independence Day\_Reception"
 ---

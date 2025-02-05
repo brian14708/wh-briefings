@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-15'
 modified_time: 2021-06-15 12:58:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/15/background-press-gaggle-by-senior-administration-officials-en-route-geneva-switzerland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/15/background-press-gaggle-by-senior-administration-officials-en-route-geneva-switzerland/
 published_time: 2021-06-15 12:58:01-04:00
 title: "Background Press Gaggle by Senior Administration Officials En Route Geneva,\_\
   Switzerland"

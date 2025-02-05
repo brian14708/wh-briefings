@@ -2,7 +2,7 @@
 date: '2024-10-23'
 modified_time: 2024-10-23 11:42:23-04:00
 published_time: 2024-10-23 11:42:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/23/on-the-record-press-call-on-the-g7s-extraordinary-revenue-acceleration-loans-effort/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/23/on-the-record-press-call-on-the-g7s-extraordinary-revenue-acceleration-loans-effort/
 tags: press-briefings
 title: "On-the-Record Press Call on the G7\u2019s Extraordinary Revenue Acceleration\
   \ Loans\_Effort"

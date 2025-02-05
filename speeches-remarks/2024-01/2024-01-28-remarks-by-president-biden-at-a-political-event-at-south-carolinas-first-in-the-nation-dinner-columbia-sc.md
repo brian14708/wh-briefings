@@ -1,7 +1,7 @@
 ---
 date: '2024-01-28'
 published_time: 2024-01-28 12:26:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/28/remarks-by-president-biden-at-a-political-event-at-south-carolinas-first-in-the-nation-dinner-columbia-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/28/remarks-by-president-biden-at-a-political-event-at-south-carolinas-first-in-the-nation-dinner-columbia-sc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Event at South Carolina\u2019s\
   \ First in the Nation Dinner | Columbia,\_SC"

@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-06 17:27:29-04:00
 published_time: 2024-05-06 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces More Than $100 Million to Support\
   \ American Auto Workers and Small Auto\_Suppliers"
@@ -68,7 +68,7 @@ parts manufacturers to expand or retool manufacturing facilities:**
     conversion projects. Specifically, this program, which was funded by
     President Biden’s Bipartisan Infrastructure Law and is covered under
     the President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     provides grants of up to $300,000 to entities that have received an
     Industrial Assessment Center assessment to improve their facilities’
     energy and material efficiency, cybersecurity, or productivity, or
@@ -97,7 +97,7 @@ parts manufacturers to expand or retool manufacturing facilities:**
 supply chain with a focus on Auto Communities in the Midwest:**
 
 -   Last month, President
-    Biden [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/) the
+    Biden [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/) the
     second round of Investing in America Workforce Hubs—including
     an **electric vehicle hub in Michigan**, which will be led by the
     Department of Energy and Department of Labor in partnership with the
@@ -131,7 +131,7 @@ supply chain with a focus on Auto Communities in the Midwest:**
     training programs, and registered apprenticeships through the
     Industrial Assessment Centers Program, which aims to deliver on the
     President’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/).  
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/).  
      
 -   Led by the Department of Energy, the [Battery Workforce
     Initiative](https://www.energy.gov/articles/doe-and-dol-announce-new-effort-support-and-expand-americas-battery-workforce) will

@@ -2,7 +2,7 @@
 date: '2025-01-14'
 modified_time: 2025-01-14 08:54:24-05:00
 published_time: 2025-01-14 08:54:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/
 tags: presidential-actions
 title: "Executive Order on Advancing United\_States Leadership in Artificial Intelligence\
   \ Infrastructure"

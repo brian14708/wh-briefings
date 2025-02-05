@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 10:36:03-04:00
 published_time: 2024-07-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2024/07/29/how-investing-in-equity-fosters-of-the-goals-of-investing-in-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/07/29/how-investing-in-equity-fosters-of-the-goals-of-investing-in-america/
 tags: blog
 title: "How Investing in Equity Fosters the Goals of Investing in\_America"
 ---
@@ -29,11 +29,11 @@ several achievements that have aimed to address inequality.
 
 Since the beginning of this administration, President Biden and Vice
 President Harris have taken steps to [advance equity and racial
-justice](https://www.whitehouse.gov/equity/). From
-[preserving](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/)
+justice](https://bidenwhitehouse.archives.gov/equity/). From
+[preserving](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/30/executive-order-on-promoting-the-arts-the-humanities-and-museum-and-library-services/)
 African American history and culture to delivering a historically
 [robust economic recovery for all
-Americans,](https://www.whitehouse.gov/cea/written-materials/2024/05/16/recent-labor-market-conditions-for-black-workers/)
+Americans,](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/05/16/recent-labor-market-conditions-for-black-workers/)
 the administration’s policies have prioritized equity. The President’s
 economic agenda does this by spurring investment in all communities –
 including in disadvantaged communities, and encouraging the creation of
@@ -65,10 +65,10 @@ access to opportunity.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png"
 class="wp-image-103294" decoding="async" loading="lazy"
 sizes="(max-width: 1044px) 100vw, 1044px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png 1044w, https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=615,398 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=768,497 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=494,320 494w, https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=988,640 988w, https://www.whitehouse.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=1038,672 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png 1044w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=615,398 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=768,497 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=494,320 494w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=988,640 988w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/pic-1-1.png?resize=1038,672 1038w"
 style="width:580px;height:auto" width="1044" height="676" />
 </figure>
 
@@ -93,7 +93,7 @@ shows that coming out of the pandemic recession, wage inequality has
 decreased—making a dent in decades of rising inequality. Using similar
 methodology to compute indexed real (inflation-adjusted) wages, the
 Council of Economic Advisers (CEA)
-[found](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-1.pdf)
+[found](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-1.pdf)
 that in the post-pandemic period, low-income workers saw their wages
 grow by a higher percentage than those of high-income workers. Updated
 analysis indicates that between 2019:Q1 and 2024:Q1, real wages
@@ -102,7 +102,7 @@ high-income workers.
 
 The economy has also made progress on reducing racial inequality. For
 example, CEA
-[found](https://www.whitehouse.gov/cea/written-materials/2024/05/16/recent-labor-market-conditions-for-black-workers/)
+[found](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/05/16/recent-labor-market-conditions-for-black-workers/)
 that between the second halves of 2019 and 2023, real average wages
 increased 9.5 percent for Black workers and 6.7 percent for white
 workers, reducing economic inequality across race. The progress also
@@ -113,10 +113,10 @@ racial equity.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png"
 class="wp-image-103295" decoding="async" loading="lazy"
 sizes="(max-width: 1046px) 100vw, 1046px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png 1046w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=615,405 615w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=768,506 768w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=486,320 486w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=972,640 972w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=1038,684 1038w, https://www.whitehouse.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png 1046w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=615,405 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=768,506 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=486,320 486w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=972,640 972w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=1038,684 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Picture2_951272.png?resize=114,76 114w"
 width="1046" height="689" />
 </figure>
 
@@ -155,7 +155,7 @@ of announced clean energy investments were in counties with incomes
 below the national median. After passage, that number rose to 75
 percent. More broadly, the President’s economic policies are
 contributing to equitable growth across communities. As CEA has
-[highlighted](https://www.whitehouse.gov/cea/written-materials/2024/01/23/the-labor-market-recovery-has-been-strong-across-the-country/),
+[highlighted](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/01/23/the-labor-market-recovery-has-been-strong-across-the-country/),
 the benefits of the strong economic recovery have been spread relatively
 evenly across U.S. states. The gap between the highest and lowest state
 unemployment rates hit a record low 3.2 percentage points in 2022 and
@@ -163,7 +163,7 @@ was matched again in 2023.
 
 The Biden-Harris administration is also committed to supporting
 minority-owned businesses. The Small Business Boom Report
-[highlights](https://www.whitehouse.gov/wp-content/uploads/2024/04/Small-Business-Boom-Report-2024.pdf)
+[highlights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Small-Business-Boom-Report-2024.pdf)
 that since 2020, both Black- and Latino-owned businesses saw a
 4-percentage point increase in the share of government-backed Small
 Business Administration (SBA) loans. This represents a near-doubling for
@@ -171,7 +171,7 @@ Black-owned business and more than a 50 percent increase for
 Latino-owned businesses. Over the past three years, total lending to
 these groups has accumulated to about $12 billion. In addition, in
 Fiscal Year 2023, a record [$76.2
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/#:~:text=In%20total%2C%20a%20record%2Dhigh,Office%20of%20Management%20and%20Budget.)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/#:~:text=In%20total%2C%20a%20record%2Dhigh,Office%20of%20Management%20and%20Budget.)
 was awarded to small disadvantaged businesses, totaling 12.1% of federal
 procurement dollars.
 
@@ -195,7 +195,7 @@ workers fairly can [reduce
 inequality,](https://www.nber.org/papers/w24587) [increase
 wages,](https://www.nber.org/system/files/working_papers/w23516/w23516.pdf)
 and [improve
-productivity.](https://www.whitehouse.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
+productivity.](https://bidenwhitehouse.archives.gov/cea/written-materials/2022/04/06/blocking-the-low-road-and-paving-the-high-road-management-practices-to-improve-productivity/)
 Furthermore, strong labor standards may communicate information about
 the quality of firms in the context of government contracting. One
 [study](https://www.americanprogressaction.org/article/federal-contractors-violating-workers-rights-harming-u-s-government/#:~:text=New%20analysis%20from%20the%20Center%20for%20American%20Progress,of%20federal%20contracts%20and%20waste%20of%20public%20resources.)

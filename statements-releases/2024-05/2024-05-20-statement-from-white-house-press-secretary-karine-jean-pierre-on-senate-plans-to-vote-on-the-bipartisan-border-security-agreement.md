@@ -1,7 +1,7 @@
 ---
 date: '2024-05-20'
 published_time: 2024-05-20 07:11:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-senate-plans-to-vote-on-the-bipartisan-border-security-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/20/statement-from-white-house-press-secretary-karine-jean-pierre-on-senate-plans-to-vote-on-the-bipartisan-border-security-agreement/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Senate Plans\
   \ to Vote on the Bipartisan Border Security\_Agreement"

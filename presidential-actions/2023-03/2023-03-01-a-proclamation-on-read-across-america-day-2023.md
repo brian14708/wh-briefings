@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 11:27:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/01/a-proclamation-on-read-across-america-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/01/a-proclamation-on-read-across-america-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Read Across America Day,\_2023"
 ---

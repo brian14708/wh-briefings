@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 13:38:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-new-steps-against-perpetrators-of-sexual-violence-in-conflict/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Steps Against Perpetrators of Sexual\
   \ Violence in\_Conflict"
@@ -21,7 +21,7 @@ Ending gender-based violence, wherever it occurs, and supporting
 survivors has been a high priority for me – as a Senator, Vice
 President, and since day one of my Administration. Last November, I
 issued a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/28/presidential-memorandum-to-promote-accountability-for-conflict-related-sexual-violence/)
 to reinforce and strengthen our government’s use of financial,
 diplomatic, and legal tools to address conflict-related sexual violence.
 The sanctions issued today build off of this Memorandum and

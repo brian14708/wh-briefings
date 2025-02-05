@@ -1,7 +1,7 @@
 ---
 date: '2024-03-04'
 published_time: 2024-03-04 11:32:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/04/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/04/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-ukraine/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to\_Ukraine"

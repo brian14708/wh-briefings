@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 published_time: 2023-08-11 18:30:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/11/president-joseph-r-biden-jr-approves-new-jersey-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/11/president-joseph-r-biden-jr-approves-new-jersey-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves New Jersey Disaster\_Declaration"
 ---

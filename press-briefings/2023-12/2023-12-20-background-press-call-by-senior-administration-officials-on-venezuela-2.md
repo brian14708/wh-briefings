@@ -2,7 +2,7 @@
 date: '2023-12-20'
 modified_time: 2023-12-20 16:06:14-05:00
 published_time: 2023-12-20 16:06:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/12/20/background-press-call-by-senior-administration-officials-on-venezuela-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/12/20/background-press-call-by-senior-administration-officials-on-venezuela-2/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on\_Venezuela"
 ---

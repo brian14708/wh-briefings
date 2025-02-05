@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-04 23:09:52-04:00
 published_time: 2022-08-05 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-joe-biden-on-the-25th-anniversary-of-the-childrens-health-insurance-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-joe-biden-on-the-25th-anniversary-of-the-childrens-health-insurance-program/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the 25th Anniversary of the Children\u2019\
   s Health Insurance\_Program"

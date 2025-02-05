@@ -2,7 +2,7 @@
 date: '2024-05-29'
 modified_time: 2024-05-29 10:34:00-04:00
 published_time: 2024-05-29 11:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/29/readout-of-president-bidens-meeting-on-federal-and-state-response-to-the-francis-scott-key-bridge-collapse-in-baltimore/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/29/readout-of-president-bidens-meeting-on-federal-and-state-response-to-the-francis-scott-key-bridge-collapse-in-baltimore/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting on Federal and State Response to\
   \ the Francis Scott Key Bridge Collapse in\_Baltimore"

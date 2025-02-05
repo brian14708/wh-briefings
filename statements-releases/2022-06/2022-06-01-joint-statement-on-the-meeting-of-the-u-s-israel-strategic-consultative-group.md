@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-01 15:30:50-04:00
 published_time: 2022-06-01 15:30:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/joint-statement-on-the-meeting-of-the-u-s-israel-strategic-consultative-group/
 tags: statements-releases
 title: "Joint Statement on the Meeting of the U.S.-Israel Strategic Consultative\_\
   Group"

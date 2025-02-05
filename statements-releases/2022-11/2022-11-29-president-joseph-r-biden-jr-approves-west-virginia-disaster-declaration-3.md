@@ -2,7 +2,7 @@
 date: '2022-11-29'
 modified_time: 2022-11-29 09:49:02-05:00
 published_time: 2022-11-29 09:49:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/president-joseph-r-biden-jr-approves-west-virginia-disaster-declaration-3/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves West Virginia Disaster\_Declaration"
 ---

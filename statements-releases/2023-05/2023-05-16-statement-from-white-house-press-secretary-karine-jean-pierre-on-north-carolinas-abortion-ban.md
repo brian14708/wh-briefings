@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 21:26:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/statement-from-white-house-press-secretary-karine-jean-pierre-on-north-carolinas-abortion-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/statement-from-white-house-press-secretary-karine-jean-pierre-on-north-carolinas-abortion-ban/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on North Carolina\u2019\
   s Abortion\_Ban"

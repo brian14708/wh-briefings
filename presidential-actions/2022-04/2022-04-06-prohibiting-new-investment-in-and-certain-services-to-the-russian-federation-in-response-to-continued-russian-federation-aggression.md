@@ -1,7 +1,7 @@
 ---
 date: '2022-04-06'
 published_time: 2022-04-06 15:07:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/06/prohibiting-new-investment-in-and-certain-services-to-the-russian-federation-in-response-to-continued-russian-federation-aggression/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/06/prohibiting-new-investment-in-and-certain-services-to-the-russian-federation-in-response-to-continued-russian-federation-aggression/
 tags: presidential-actions
 title: "Prohibiting New Investment in and Certain Services to the Russian Federation\
   \ in Response to Continued Russian Federation\_Aggression"

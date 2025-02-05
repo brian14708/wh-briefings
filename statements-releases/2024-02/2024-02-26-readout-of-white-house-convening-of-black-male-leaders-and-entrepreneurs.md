@@ -2,7 +2,7 @@
 date: '2024-02-26'
 modified_time: 2024-02-26 20:05:08-05:00
 published_time: 2024-02-26 20:05:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/readout-of-white-house-convening-of-black-male-leaders-and-entrepreneurs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/26/readout-of-white-house-convening-of-black-male-leaders-and-entrepreneurs/
 tags: statements-releases
 title: "Readout of White\_House Convening of Black Male Leaders and Entrepreneurs"
 ---

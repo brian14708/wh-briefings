@@ -2,7 +2,7 @@
 date: '2024-05-04'
 modified_time: 2024-05-07 09:01:51-04:00
 published_time: 2024-05-04 12:54:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/04/readout-of-white-house-state-workforce-day-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/04/readout-of-white-house-state-workforce-day-convening/
 tags: statements-releases
 title: "Readout of White\_House State Workforce Day\_Convening"
 ---

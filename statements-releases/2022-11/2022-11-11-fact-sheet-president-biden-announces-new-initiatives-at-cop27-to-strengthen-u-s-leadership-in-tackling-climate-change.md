@@ -2,7 +2,7 @@
 date: '2022-11-11'
 modified_time: 2022-11-11 01:16:39-05:00
 published_time: 2022-11-11 05:31:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces New Initiatives at COP27 to Strengthen\
   \ U.S. Leadership in Tackling Climate\_Change"
@@ -206,7 +206,7 @@ procedures, include:
         countries to understand, anticipate and prepare for climate
         impacts to public health and safety, food security, water
         resources, and coastal areas, which President Biden
-        [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-roadmap-for-a-21st-century-u-s-pacific-island-partnership/)
+        [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/29/fact-sheet-roadmap-for-a-21st-century-u-s-pacific-island-partnership/)
         at the historic U.S.- Pacific Island Leaders Summit.  NOAA will
         also provide university scholarships to five individuals from
         the region to communication increase the pipeline of qualified
@@ -314,7 +314,7 @@ objective, including:
         Response Program” that would require operators to respond to
         credible third-party reports of high-volume methane leaks.   
     -   [***Updating the U.S. Methane Emissions Reduction Action
-        Plan***](https://www.whitehouse.gov/wp-content/uploads/2022/11/US-Methane-Emissions-Reduction-Action-Plan-Update.pdf)
+        Plan***](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/US-Methane-Emissions-Reduction-Action-Plan-Update.pdf)
         – Building upon the first-ever U.S. Methane Emissions Reduction
         Action Plan released at COP26, President Biden today unveiled an
         updated plan showcasing enhanced ambition and progress to
@@ -462,7 +462,7 @@ objective, including:
     the White House Climate Policy Office, Office of Management and
     Budget, and Office of Science and Technology Policy released a new
     report, [*U.S. Innovation to Meet 2050 Climate
-    Goals*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/),
+    Goals*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/04/fact-sheet-biden-harris-administration-makes-historic-investment-in-americas-national-labs-announces-net-zero-game-changers-initiative/),
     which describes 37 game-changing R&D opportunities identified across
     U.S. Federal agencies. With inclusive and intentional innovation,
     these innovations can help propel the United States and the rest of

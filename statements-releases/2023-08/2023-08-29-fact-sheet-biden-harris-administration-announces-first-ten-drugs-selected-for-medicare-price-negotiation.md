@@ -1,7 +1,7 @@
 ---
 date: '2023-08-29'
 published_time: 2023-08-29 08:02:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/29/fact-sheet-biden-harris-administration-announces-first-ten-drugs-selected-for-medicare-price-negotiation/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces First Ten Drugs Selected\
   \ for Medicare Price\_Negotiation"

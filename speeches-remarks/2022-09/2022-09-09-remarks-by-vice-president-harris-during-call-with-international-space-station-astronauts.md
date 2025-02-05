@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 published_time: 2022-09-09 16:25:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/09/remarks-by-vice-president-harris-during-call-with-international-space-station-astronauts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/09/remarks-by-vice-president-harris-during-call-with-international-space-station-astronauts/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Call with International Space Station\_\
   Astronauts"

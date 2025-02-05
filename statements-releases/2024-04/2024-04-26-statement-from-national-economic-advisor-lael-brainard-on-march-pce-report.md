@@ -1,7 +1,7 @@
 ---
 date: '2024-04-26'
 published_time: 2024-04-26 09:29:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/26/statement-from-national-economic-advisor-lael-brainard-on-march-pce-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/26/statement-from-national-economic-advisor-lael-brainard-on-march-pce-report/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on March PCE\_Report"
 ---

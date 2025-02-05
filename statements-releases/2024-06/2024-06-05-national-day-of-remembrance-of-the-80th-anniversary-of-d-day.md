@@ -1,7 +1,7 @@
 ---
 date: '2024-06-05'
 published_time: 2024-06-05 17:34:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/05/national-day-of-remembrance-of-the-80th-anniversary-of-d-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/05/national-day-of-remembrance-of-the-80th-anniversary-of-d-day/
 tags: statements-releases
 title: "National Day of Remembrance of the 80th Anniversary of\_D-Day"
 ---

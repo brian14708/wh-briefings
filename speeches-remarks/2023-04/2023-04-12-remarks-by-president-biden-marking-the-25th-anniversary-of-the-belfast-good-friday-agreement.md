@@ -1,7 +1,7 @@
 ---
 date: '2023-04-12'
 published_time: 2023-04-12 10:52:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-marking-the-25th-anniversary-of-the-belfast-good-friday-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-marking-the-25th-anniversary-of-the-belfast-good-friday-agreement/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Marking the 25th Anniversary of the Belfast/Good\
   \ Friday\_Agreement"

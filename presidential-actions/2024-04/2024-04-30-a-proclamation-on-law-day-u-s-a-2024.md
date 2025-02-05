@@ -2,7 +2,7 @@
 date: '2024-04-30'
 modified_time: 2024-04-30 16:44:51-04:00
 published_time: 2024-04-30 16:44:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/30/a-proclamation-on-law-day-u-s-a-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/30/a-proclamation-on-law-day-u-s-a-2024/
 tags: presidential-actions
 title: "A Proclamation on Law Day, U.S.A.,\_2024"
 ---

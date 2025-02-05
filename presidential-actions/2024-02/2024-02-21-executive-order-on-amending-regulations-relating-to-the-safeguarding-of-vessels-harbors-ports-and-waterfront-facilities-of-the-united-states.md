@@ -2,7 +2,7 @@
 date: '2024-02-21'
 modified_time: 2024-02-21 10:04:02-05:00
 published_time: 2024-02-21 10:04:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/21/executive-order-on-amending-regulations-relating-to-the-safeguarding-of-vessels-harbors-ports-and-waterfront-facilities-of-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/21/executive-order-on-amending-regulations-relating-to-the-safeguarding-of-vessels-harbors-ports-and-waterfront-facilities-of-the-united-states/
 tags: presidential-actions
 title: "Executive Order on Amending Regulations Relating to the Safeguarding of Vessels,\
   \ Harbors, Ports, and Waterfront Facilities of the United\_States"

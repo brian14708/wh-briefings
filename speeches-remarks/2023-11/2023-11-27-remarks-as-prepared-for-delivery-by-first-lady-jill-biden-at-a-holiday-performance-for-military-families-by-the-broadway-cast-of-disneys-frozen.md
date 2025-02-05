@@ -2,7 +2,7 @@
 date: '2023-11-27'
 modified_time: 2023-11-28 12:36:17-05:00
 published_time: 2023-11-27 18:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-performance-for-military-families-by-the-broadway-cast-of-disneys-frozen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/27/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-holiday-performance-for-military-families-by-the-broadway-cast-of-disneys-frozen/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Holiday Performance\
   \ for Military Families by the Broadway Cast of Disney\u2019s\_Frozen"

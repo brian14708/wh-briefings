@@ -2,7 +2,7 @@
 date: '2023-02-21'
 modified_time: 2023-02-21 13:38:46-05:00
 published_time: 2023-02-21 13:38:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-president-maia-sandu-of-moldova/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-president-maia-sandu-of-moldova/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President\_Maia Sandu\_of\_\
   Moldova"

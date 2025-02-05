@@ -2,7 +2,7 @@
 date: '2022-11-23'
 modified_time: 2022-11-23 09:59:04-05:00
 published_time: 2022-11-23 09:59:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/23/statement-by-president-joe-biden-on-remembering-the-holodomor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/23/statement-by-president-joe-biden-on-remembering-the-holodomor/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Remembering the\_Holodomor"
 ---

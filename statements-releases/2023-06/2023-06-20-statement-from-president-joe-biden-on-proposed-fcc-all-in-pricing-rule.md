@@ -1,7 +1,7 @@
 ---
 date: '2023-06-20'
 published_time: 2023-06-20 12:46:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-proposed-fcc-all-in-pricing-rule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/20/statement-from-president-joe-biden-on-proposed-fcc-all-in-pricing-rule/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Proposed FCC All-in Pricing\_Rule"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-08-02'
 published_time: 2022-08-02 15:40:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/02/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/02/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves South Dakota Disaster\_Declaration"
 ---

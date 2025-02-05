@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-16'
 modified_time: 2021-03-16 15:55:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/16/nominations-sent-to-the-senate-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/16/nominations-sent-to-the-senate-5/
 published_time: 2021-03-16 15:55:31-04:00
 title: "Nominations Sent to the\_Senate"
 ---

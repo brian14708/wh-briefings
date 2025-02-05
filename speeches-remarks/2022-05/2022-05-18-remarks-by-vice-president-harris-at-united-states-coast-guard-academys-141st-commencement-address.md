@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-18 17:59:17-04:00
 published_time: 2022-05-18 17:59:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-vice-president-harris-at-united-states-coast-guard-academys-141st-commencement-address/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/18/remarks-by-vice-president-harris-at-united-states-coast-guard-academys-141st-commencement-address/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at United\_States Coast Guard Academy\u2019\
   s 141st Commencement\_Address"

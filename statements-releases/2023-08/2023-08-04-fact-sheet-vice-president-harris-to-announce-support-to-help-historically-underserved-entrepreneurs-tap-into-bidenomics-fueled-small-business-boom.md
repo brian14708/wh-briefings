@@ -1,7 +1,7 @@
 ---
 date: '2023-08-04'
 published_time: 2023-08-04 05:47:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris to Announce Support to Help Historically\
   \ Underserved Entrepreneurs Tap into Bidenomics-Fueled Small Business\_Boom"

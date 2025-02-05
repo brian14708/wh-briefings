@@ -2,7 +2,7 @@
 date: '2023-10-18'
 modified_time: 2023-10-17 23:30:43-04:00
 published_time: 2023-10-18 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/18/president-biden-names-fortieth-round-of-judicial-nominees-and-announces-nominees-for-u-s-attorney-u-s-marshal-and-the-u-s-sentencing-commission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/18/president-biden-names-fortieth-round-of-judicial-nominees-and-announces-nominees-for-u-s-attorney-u-s-marshal-and-the-u-s-sentencing-commission/
 tags: presidential-actions
 title: "President\_Biden Names Fortieth Round of Judicial Nominees and Announces Nominees\
   \ for U.S. Attorney, U.S. Marshal, and the U.S. Sentencing\_Commission"

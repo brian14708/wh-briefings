@@ -2,7 +2,7 @@
 date: '2023-01-31'
 modified_time: 2023-01-31 11:17:29-05:00
 published_time: 2023-01-31 11:17:28-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/31/a-proclamation-on-national-teen-dating-violence-awareness-and-prevention-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Teen Dating Violence Awareness And Prevention Month,\_\
   2023"

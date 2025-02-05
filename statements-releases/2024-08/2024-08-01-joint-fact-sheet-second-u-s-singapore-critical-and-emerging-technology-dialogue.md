@@ -2,7 +2,7 @@
 date: '2024-08-01'
 modified_time: 2024-08-01 21:42:11-04:00
 published_time: 2024-08-01 17:19:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/01/joint-fact-sheet-second-u-s-singapore-critical-and-emerging-technology-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/01/joint-fact-sheet-second-u-s-singapore-critical-and-emerging-technology-dialogue/
 tags: statements-releases
 title: "JOINT FACT SHEET: Second U.S.-Singapore Critical and Emerging Technology\_\
   Dialogue"

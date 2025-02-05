@@ -1,7 +1,7 @@
 ---
 date: '2022-05-16'
 published_time: 2022-05-16 18:42:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/16/remarks-by-president-bidenand-prime-minister-mitsotakis-of-greecebefore-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/16/remarks-by-president-bidenand-prime-minister-mitsotakis-of-greecebefore-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_BidenAnd Prime Minister Mitsotakis of GreeceBefore Bilateral\_\
   Meeting"

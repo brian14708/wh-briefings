@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-07'
 modified_time: 2021-07-07 07:59:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/07/readout-of-white-house-meeting-with-youth-voting-groups/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/07/readout-of-white-house-meeting-with-youth-voting-groups/
 published_time: 2021-07-07 07:59:26-04:00
 title: "Readout of White\_House Meeting with Youth Voting\_Groups"
 ---
@@ -25,7 +25,7 @@ registration and casting a ballot more streamlined. They also shared
 recommendations for how the Administration can do more to advance youth
 voting rights, including through the President’s [Executive Order on
 Promoting Access to
-Voting](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/).
+Voting](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/07/executive-order-on-promoting-access-to-voting/).
 
 Meeting participants included:
 

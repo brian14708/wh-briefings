@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:10:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-energy-costs-combats-the-climate-crisis-and-advances-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-energy-costs-combats-the-climate-crisis-and-advances-environmental-justice/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Lowers Energy Costs, Combats the\
   \ Climate Crisis, and Advances Environmental\_Justice"

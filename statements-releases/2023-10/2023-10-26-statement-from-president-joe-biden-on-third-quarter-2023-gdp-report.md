@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-26 09:52:28-04:00
 published_time: 2023-10-26 09:52:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/26/statement-from-president-joe-biden-on-third-quarter-2023-gdp-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/26/statement-from-president-joe-biden-on-third-quarter-2023-gdp-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Third Quarter 2023 GDP\_Report"
 ---

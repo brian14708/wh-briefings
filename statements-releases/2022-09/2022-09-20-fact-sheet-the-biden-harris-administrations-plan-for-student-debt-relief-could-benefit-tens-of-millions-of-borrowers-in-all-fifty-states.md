@@ -2,7 +2,7 @@
 date: '2022-09-20'
 modified_time: 2022-09-20 14:01:06-04:00
 published_time: 2022-09-20 14:01:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/fact-sheet-the-biden-harris-administrations-plan-for-student-debt-relief-could-benefit-tens-of-millions-of-borrowers-in-all-fifty-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/fact-sheet-the-biden-harris-administrations-plan-for-student-debt-relief-could-benefit-tens-of-millions-of-borrowers-in-all-fifty-states/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Plan for Student\
   \ Debt Relief Could Benefit Tens of Millions of Borrowers in All Fifty\_States"

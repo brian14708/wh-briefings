@@ -1,7 +1,7 @@
 ---
 date: '2023-06-10'
 published_time: 2023-06-10 09:26:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/10/statement-from-president-joe-biden-on-the-60th-anniversary-of-the-equal-pay-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/10/statement-from-president-joe-biden-on-the-60th-anniversary-of-the-equal-pay-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 60th Anniversary of the Equal Pay\_\
   Act"

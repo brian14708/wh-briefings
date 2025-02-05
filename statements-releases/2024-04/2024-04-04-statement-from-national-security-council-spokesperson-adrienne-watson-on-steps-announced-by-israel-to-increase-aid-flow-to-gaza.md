@@ -1,7 +1,7 @@
 ---
 date: '2024-04-04'
 published_time: 2024-04-04 19:39:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/04/statement-from-national-security-council-spokesperson-adrienne-watson-on-steps-announced-by-israel-to-increase-aid-flow-to-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/04/statement-from-national-security-council-spokesperson-adrienne-watson-on-steps-announced-by-israel-to-increase-aid-flow-to-gaza/
 tags: statements-releases
 title: "Statement from National Security Council Spokesperson Adrienne Watson on Steps\
   \ Announced by Israel to Increase Aid Flow to\_Gaza"

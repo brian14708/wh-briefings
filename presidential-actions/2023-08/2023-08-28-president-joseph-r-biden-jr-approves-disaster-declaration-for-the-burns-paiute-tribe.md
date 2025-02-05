@@ -1,7 +1,7 @@
 ---
 date: '2023-08-28'
 published_time: 2023-08-28 17:24:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/28/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-burns-paiute-tribe/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/28/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-burns-paiute-tribe/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Burns\
   \ Paiute\_Tribe"

@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 09:43:03-05:00
 published_time: 2023-11-17 10:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/17/president-biden-intends-to-appoint-dr-w-kimryn-rathmell-as-director-of-the-national-cancer-institute/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/17/president-biden-intends-to-appoint-dr-w-kimryn-rathmell-as-director-of-the-national-cancer-institute/
 tags: presidential-actions
 title: "President\_Biden Intends to Appoint Dr. W. Kimryn Rathmell as Director of\
   \ the National Cancer\_Institute"

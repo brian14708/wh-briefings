@@ -2,7 +2,7 @@
 date: '2024-12-15'
 modified_time: 2024-12-16 21:52:47-05:00
 published_time: 2024-12-15 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/15/fact-sheet-progress-by-biden-harris-good-jobs-task-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/15/fact-sheet-progress-by-biden-harris-good-jobs-task-force/
 tags: statements-releases
 title: "FACT SHEET: Progress by Biden-\u2060Harris Good Jobs Task\_Force"
 ---
@@ -17,7 +17,7 @@ creation—particularly in construction, clean energy, and
 manufacturing—the Biden-Harris Administration has focused on ensuring
 federal funds continue to promote good-paying, high-quality jobs. In
 September, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/)
 calling on agencies to embed high-road labor standards and best
 practices across Bipartisan Infrastructure Law, CHIPS and Science, and
 Inflation Reduction Act clean energy programs.

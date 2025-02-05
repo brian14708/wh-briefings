@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 16:19:39-04:00
 published_time: 2022-08-25 16:19:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution-public-law-93-148/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President pro tempore of the Senate\
   \ consistent with the War Powers Resolution (Public Law\_93-148)"

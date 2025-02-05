@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-09-03'
 modified_time: 2021-09-03 12:56:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/03/remarks-by-president-biden-on-the-august-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/09/03/remarks-by-president-biden-on-the-august-jobs-report/
 published_time: 2021-09-03 12:56:29-04:00
 title: "Remarks by President\_Biden on the August Jobs\_Report"
 ---

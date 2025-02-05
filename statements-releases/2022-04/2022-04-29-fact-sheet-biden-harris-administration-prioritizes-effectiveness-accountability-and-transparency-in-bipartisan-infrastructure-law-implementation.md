@@ -1,14 +1,14 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 06:36:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/fact-sheet-biden-harris-administration-prioritizes-effectiveness-accountability-and-transparency-in-bipartisan-infrastructure-law-implementation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/fact-sheet-biden-harris-administration-prioritizes-effectiveness-accountability-and-transparency-in-bipartisan-infrastructure-law-implementation/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Prioritizes Effectiveness, Accountability,\
   \ and Transparency in Bipartisan Infrastructure Law\_Implementation"
 ---
  
 Today, the Office of Management and Budget (OMB) released initial
-[guidance](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-12.pdf)
+[guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/M-22-12.pdf)
 to federal agencies to set a strong foundation for effective, efficient,
 and equitable implementation of President Biden’s Bipartisan
 Infrastructure Law—a historic investment in rebuilding roads and
@@ -49,7 +49,7 @@ they are taking to ensure robust oversight of federal programs.
   
 Upon signing the Bipartisan Infrastructure Law, President Biden signed
 an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-president-bidens-executive-order-establishing-priorities-and-task-force-for-implementation-of-the-bipartisan-infrastructure-law/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/15/fact-sheet-president-bidens-executive-order-establishing-priorities-and-task-force-for-implementation-of-the-bipartisan-infrastructure-law/)
 establishing the Task Force to coordinate effective implementation.
 Co-chaired by Senior Advisor and Infrastructure Implementation
 Coordinator Mitch Landrieu and National Economic Director Brian Deese,
@@ -131,7 +131,7 @@ has been collaborating across agencies and with the PRAC on the
 implementation and stewardship of programs funded through the American
 Rescue Plan. To institutionalize the President’s approach and the
 lessons learned in ARP implementation, OMB issued
-[guidance](https://www.whitehouse.gov/wp-content/uploads/2021/12/M-22-04-IG-Cooperation.pdf)
+[guidance](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/M-22-04-IG-Cooperation.pdf)
 last December directing agency leaders to support the important role of
 agency IGs, including by communicating with their staffs the President’s
 expectation of cooperation with IG offices.    

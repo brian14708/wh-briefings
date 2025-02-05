@@ -2,7 +2,7 @@
 date: '2024-11-19'
 modified_time: 2024-11-19 18:33:39-05:00
 published_time: 2024-11-19 07:01:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/19/fact-sheet-new-brazil-u-s-partnership-for-the-energy-transition/
 tags: statements-releases
 title: "New Brazil-U.S. Partnership for the Energy\_Transition"
 ---

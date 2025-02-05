@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-20'
 modified_time: 2022-02-23 17:12:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/readout-of-president-bidens-meeting-with-the-presidents-council-of-advisors-on-science-and-technology-pcast/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/readout-of-president-bidens-meeting-with-the-presidents-council-of-advisors-on-science-and-technology-pcast/
 published_time: 2022-01-20 21:49:49-05:00
 title: "Readout of President\_Biden\u2019s Meeting with the President\u2019s Council\
   \ of Advisors on Science and Technology\_(PCAST)"
@@ -45,14 +45,14 @@ the path forward.
 
 PCAST’s next public virtual meeting will be held on March 24-25, 2022.
 Additional information PCAST’s future meetings can be found at
-<https://www.whitehouse.gov/pcast/meetings/>.
+<https://bidenwhitehouse.archives.gov/pcast/meetings/>.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?w=640"
 class="wp-image-46057" loading="lazy"
 sizes="(max-width: 3000px) 100vw, 3000px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg 3000w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=615,410 615w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=768,512 768w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1270,847 1270w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1536,1024 1536w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=2048,1365 2048w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=960,640 960w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1920,1280 1920w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1038,692 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg 3000w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=615,410 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=768,512 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1270,847 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1536,1024 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=2048,1365 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=960,640 960w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1920,1280 1920w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=600,400 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/01/P20220120AS-2036-1.jpg?resize=1038,692 1038w"
 width="3000" height="2000"
 alt="President Joe Biden attends a virtual meeting with the President’s Council of Advisors on Science and Technology, Thursday, January 20, 2022, in the South Court Auditorium of the Eisenhower Executive Office Building at the White House. (Official White House Photo by Adam Schultz)" />
 <figcaption aria-hidden="true">President Joe Biden attends a virtual
@@ -94,6 +94,6 @@ Steve Pacala, *Princeton University*
 Kathryn Sullivan, *Potomac Institute for Policy Studies*
 
 ***For more information on PCAST members or their work please visit:***
-[***https://www.whitehouse.gov/pcast/***](https://www.whitehouse.gov/pcast/)***.***
+[***https://bidenwhitehouse.archives.gov/pcast/***](https://bidenwhitehouse.archives.gov/pcast/)***.***
 
 \###

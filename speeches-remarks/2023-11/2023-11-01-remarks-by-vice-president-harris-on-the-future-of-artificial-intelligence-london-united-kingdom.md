@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-01 12:04:46-04:00
 published_time: 2023-11-01 12:04:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-on-the-future-of-artificial-intelligence-london-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-on-the-future-of-artificial-intelligence-london-united-kingdom/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Future of Artificial Intelligence\
   \ | London, United\_Kingdom"

@@ -1,7 +1,7 @@
 ---
 date: '2024-03-30'
 published_time: 2024-03-30 19:09:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/30/readout-of-white-house-roundtable-discussion-on-countering-hate-fueled-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/30/readout-of-white-house-roundtable-discussion-on-countering-hate-fueled-violence/
 tags: statements-releases
 title: "Readout of White\_House Roundtable Discussion on Countering Hate-fueled\_\
   Violence"
@@ -9,7 +9,7 @@ title: "Readout of White\_House Roundtable Discussion on Countering Hate-fueled\
  
 This week, on the heels of the United States’ participation in the
 [third Summit for
-Democracy](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/),
+Democracy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/),
 the Biden-Harris Administration hosted a roundtable conversation focused
 on countering a threat to our democracy here at home: the rise of
 hate-fueled violence. When Americans cannot freely participate in the
@@ -31,16 +31,16 @@ Summit](https://unitedwestand.gov/) in September 2022.
    
 From the day President Biden was sworn into office, the Biden-Harris
 Administration has taken [numerous
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/)
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/fact-sheet-biden-harris-administration-continues-to-counter-hate-fueled-violence/)
 to counter hate-fueled violence, from signing the bipartisan COVID-19
 Hate Crimes Act, to releasing the first-ever National Strategy for
 Countering Domestic Terrorism. In December 2022, the Administration
 established an interagency policy committee to counter Antisemitism,
 Islamophobia, and Related Forms of Bias and Discrimination. In May 2023,
 the Administration
-[released](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/)
+[released](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/)
 the first-ever [U.S. National Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
 which it is implementing. The Administration is also drafting the
 first-ever National Strategy to Combat Islamophobia and Related Forms of
 Bias and Discrimination. All of these efforts advance the Biden-Harris

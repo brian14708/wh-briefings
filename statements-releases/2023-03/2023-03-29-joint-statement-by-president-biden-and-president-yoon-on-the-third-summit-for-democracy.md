@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-28 22:33:54-04:00
 published_time: 2023-03-29 05:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/joint-statement-by-president-biden-and-president-yoon-on-the-third-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/joint-statement-by-president-biden-and-president-yoon-on-the-third-summit-for-democracy/
 tags: statements-releases
 title: "Joint Statement by President\_Biden and President Yoon on the Third Summit\
   \ for\_Democracy"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-06'
 modified_time: 2022-03-06 09:18:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/06/statement-by-president-biden-on-the-anniversary-of-bloody-sunday/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/06/statement-by-president-biden-on-the-anniversary-of-bloody-sunday/
 published_time: 2022-03-06 10:00:00-05:00
 title: "Statement by President\_Biden on the Anniversary of Bloody\_Sunday"
 ---
@@ -29,7 +29,7 @@ integrity of our elections, including the John Lewis Voting Rights
 Advancement Act and the Freedom to Vote Act.
 
 My Administration will continue implementing my [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/28/fact-sheet-biden-administration-promotes-voter-participation-with-new-agency-steps/)
 to promote voter participation, increase access to the ballot, and rally
 the country to protect voting rights and election integrity. Vice
 President Harris, marching in Selma today, will continue to lead this

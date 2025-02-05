@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-01-11'
 modified_time: 2022-01-12 15:47:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/01/11/remarks-by-president-biden-on-protecting-the-right-to-vote/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/01/11/remarks-by-president-biden-on-protecting-the-right-to-vote/
 published_time: 2022-01-11 20:45:00-05:00
 title: "Remarks by President\_Biden on Protecting the Right to\_Vote"
 ---

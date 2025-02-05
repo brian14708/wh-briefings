@@ -2,7 +2,7 @@
 date: '2025-01-07'
 modified_time: 2025-01-07 08:19:25-05:00
 published_time: 2025-01-07 08:19:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-prime-minister-justin-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/07/statement-from-president-joe-biden-on-prime-minister-justin-trudeau-of-canada/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Prime Minister Justin Trudeau of\_\
   Canada"

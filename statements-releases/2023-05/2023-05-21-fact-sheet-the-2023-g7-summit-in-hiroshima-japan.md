@@ -2,7 +2,7 @@
 date: '2023-05-21'
 modified_time: 2023-05-23 11:12:10-04:00
 published_time: 2023-05-21 17:38:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/21/fact-sheet-the-2023-g7-summit-in-hiroshima-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/21/fact-sheet-the-2023-g7-summit-in-hiroshima-japan/
 tags: statements-releases
 title: "FACT SHEET: The 2023 G7 Summit in Hiroshima,\_Japan"
 ---

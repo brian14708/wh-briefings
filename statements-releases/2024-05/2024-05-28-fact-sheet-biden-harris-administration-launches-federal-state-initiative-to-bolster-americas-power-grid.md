@@ -2,7 +2,7 @@
 date: '2024-05-28'
 modified_time: 2024-05-27 15:53:39-04:00
 published_time: 2024-05-28 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-launches-federal-state-initiative-to-bolster-americas-power-grid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/28/fact-sheet-biden-harris-administration-launches-federal-state-initiative-to-bolster-americas-power-grid/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Federal-State Initiative\
   \ to Bolster America\u2019s Power\_Grid"
@@ -28,7 +28,7 @@ existing lines.
 
 **Today, the Biden-Harris Administration is building on this momentum by
 launching a** [**Federal-State Modern Grid Deployment
-Initiative**](https://www.whitehouse.gov/wp-content/uploads/2024/05/Federal-State-Modern-Grid-Deployment-Initiative-Principles_formatted.pdf)**,
+Initiative**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/Federal-State-Modern-Grid-Deployment-Initiative-Principles_formatted.pdf)**,
 with commitments from 21 leading states:** Arizona, California,
 Colorado, Connecticut, Delaware, Hawai‘i, Illinois, Kentucky, Maine,
 Maryland, Massachusetts, Michigan, New Jersey, New Mexico, New York,
@@ -87,7 +87,7 @@ on:
     energy prices.
 
 Last month, the Biden-Harris Administration
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-announces-key-actions-to-strengthen-americas-electric-grid-boost-clean-energy-deployment-and-manufacturing-jobs-and-cut-dangerous-pollution-from-the/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-announces-key-actions-to-strengthen-americas-electric-grid-boost-clean-energy-deployment-and-manufacturing-jobs-and-cut-dangerous-pollution-from-the/)
 a public-private mobilization to upgrade 100,000 miles of existing lines
 with these types of high-impact solutions over the next five years as
 part of a suite of announcements in the power sector. The Administration
@@ -143,7 +143,7 @@ largest investment in rural electrification since 1936, with eligibility
 for transmission system upgrades.
 
 Each of these programs advances President Biden’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 which sets a goal that 40% of the overall benefits of certain Federal
 climate, clean energy, affordable and sustainable housing, and other
 investments flow to disadvantaged communities that are marginalized by
@@ -154,7 +154,7 @@ Lines:** The Biden-Harris Administration’s new goal to expand capacity
 of existing transmission lines will work alongside a historic set of
 actions to accelerate buildout of new projects. Since 2021, [ten major
 transmission
-projects](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/)
+projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/)
 have begun construction, expected to connect nearly 20 gigawatts (GW) of
 new generation to the grid and reflecting over $22 billion in
 investment, including several projects on public lands that received

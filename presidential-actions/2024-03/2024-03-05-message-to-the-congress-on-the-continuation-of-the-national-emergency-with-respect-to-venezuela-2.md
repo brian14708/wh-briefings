@@ -1,7 +1,7 @@
 ---
 date: '2024-03-05'
 published_time: 2024-03-05 16:23:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/05/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/05/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-venezuela-2/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Venezuela."

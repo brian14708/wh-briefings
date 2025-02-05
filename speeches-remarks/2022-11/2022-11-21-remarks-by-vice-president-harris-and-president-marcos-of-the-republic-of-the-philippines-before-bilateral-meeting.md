@@ -2,7 +2,7 @@
 date: '2022-11-21'
 modified_time: 2022-11-21 09:58:54-05:00
 published_time: 2022-11-21 09:58:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-vice-president-harris-and-president-marcos-of-the-republic-of-the-philippines-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/21/remarks-by-vice-president-harris-and-president-marcos-of-the-republic-of-the-philippines-before-bilateral-meeting/
 tags: speeches-remarks
 title: Remarks by Vice President Harris And President Marcos of the Republic of the
   Philippines Before Bilateral Meeting

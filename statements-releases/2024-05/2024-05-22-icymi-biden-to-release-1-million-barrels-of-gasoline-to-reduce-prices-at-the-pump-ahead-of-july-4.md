@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-23 11:15:39-04:00
 published_time: 2024-05-22 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/icymi-biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/22/icymi-biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4/
 tags: statements-releases
 title: "ICYMI: \u201CBiden to Release 1 Million Barrels of Gasoline to Reduce Prices\
   \ at the Pump Ahead of July\_4\u201D"

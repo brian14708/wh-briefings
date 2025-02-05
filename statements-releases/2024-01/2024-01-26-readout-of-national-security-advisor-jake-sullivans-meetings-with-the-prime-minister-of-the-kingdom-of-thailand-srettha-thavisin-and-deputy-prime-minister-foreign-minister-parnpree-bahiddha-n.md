@@ -1,7 +1,7 @@
 ---
 date: '2024-01-26'
 published_time: 2024-01-26 00:17:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/readout-of-national-security-advisor-jake-sullivans-meetings-with-the-prime-minister-of-the-kingdom-of-thailand-srettha-thavisin-and-deputy-prime-minister-foreign-minister-parnpree-bahiddha-n/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/readout-of-national-security-advisor-jake-sullivans-meetings-with-the-prime-minister-of-the-kingdom-of-thailand-srettha-thavisin-and-deputy-prime-minister-foreign-minister-parnpree-bahiddha-n/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meetings with the\
   \ Prime Minister of the Kingdom of Thailand Srettha Thavisin and Deputy Prime Minister/Foreign\

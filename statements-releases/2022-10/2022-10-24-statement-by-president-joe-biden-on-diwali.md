@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 17:50:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/24/statement-by-president-joe-biden-on-diwali/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/24/statement-by-president-joe-biden-on-diwali/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on\_Diwali"
 ---

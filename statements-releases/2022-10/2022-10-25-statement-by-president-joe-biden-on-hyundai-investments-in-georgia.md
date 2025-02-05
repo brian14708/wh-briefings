@@ -1,7 +1,7 @@
 ---
 date: '2022-10-25'
 published_time: 2022-10-25 15:12:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/statement-by-president-joe-biden-on-hyundai-investments-in-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/statement-by-president-joe-biden-on-hyundai-investments-in-georgia/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Hyundai Investments in Georgia"
 ---

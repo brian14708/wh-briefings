@@ -1,7 +1,7 @@
 ---
 date: '2025-01-09'
 published_time: 2025-01-09 08:33:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/09/remarks-by-president-biden-during-briefing-on-the-palisades-wildfire-santa-monica-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/09/remarks-by-president-biden-during-briefing-on-the-palisades-wildfire-santa-monica-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Briefing on the Palisades Wildfire | Santa\
   \ Monica,\_CA"

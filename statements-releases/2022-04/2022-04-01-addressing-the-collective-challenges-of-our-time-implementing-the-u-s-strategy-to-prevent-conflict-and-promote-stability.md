@@ -2,7 +2,7 @@
 date: '2022-04-01'
 modified_time: 2022-04-01 08:37:59-04:00
 published_time: 2022-04-01 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/addressing-the-collective-challenges-of-our-time-implementing-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/01/addressing-the-collective-challenges-of-our-time-implementing-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
 tags: statements-releases
 title: "Addressing the Collective Challenges of our Time: Implementing the U.S. Strategy\
   \ to Prevent Conflict and Promote\_Stability"
@@ -84,6 +84,6 @@ endure across future U.S. Administrations and advance much needed
 innovative approaches to peace and stability.  
   
 Read the letter on the [Global Fragility Act
-Implementation](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/). 
+Implementation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/). 
 
 \###

@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-11 21:28:36-04:00
 published_time: 2022-05-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-joe-biden-marking-one-million-american-lives-lost-to-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/statement-from-president-joe-biden-marking-one-million-american-lives-lost-to-covid-19/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking One Million American Lives Lost\
   \ to\_COVID-\u206019"

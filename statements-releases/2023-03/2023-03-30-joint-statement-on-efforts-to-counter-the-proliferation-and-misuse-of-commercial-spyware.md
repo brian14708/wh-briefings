@@ -2,7 +2,7 @@
 date: '2023-03-30'
 modified_time: 2023-03-30 10:21:46-04:00
 published_time: 2023-03-30 10:21:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/
 tags: statements-releases
 title: "Joint Statement on Efforts to Counter the Proliferation and Misuse of Commercial\_\
   Spyware"

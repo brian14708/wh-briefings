@@ -2,7 +2,7 @@
 date: '2024-04-12'
 modified_time: 2024-04-12 15:38:03-04:00
 published_time: 2024-04-12 15:38:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/12/executive-order-on-covid-19-and-public-health-preparedness-and-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/12/executive-order-on-covid-19-and-public-health-preparedness-and-response/
 tags: presidential-actions
 title: "Executive Order on COVID-\u206019 and Public Health Preparedness and\_Response"
 ---

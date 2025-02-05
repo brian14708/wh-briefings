@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 21:51:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/07/remarks-by-vice-president-harris-at-a-call-to-action-roundtable-with-ceos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/07/remarks-by-vice-president-harris-at-a-call-to-action-roundtable-with-ceos/
 tags: speeches-remarks
 title: "REMARKS BY VICE PRESIDENT HARRIS AT A CALL TO ACTION ROUNDTABLE WITH\_CEOs"
 ---

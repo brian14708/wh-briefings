@@ -2,7 +2,7 @@
 date: '2024-09-23'
 modified_time: 2024-09-23 13:58:17-04:00
 published_time: 2024-09-23 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-taking-action-to-support-auto-workers-and-manufacturers-including-in-michigan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/23/fact-sheet-taking-action-to-support-auto-workers-and-manufacturers-including-in-michigan/
 tags: statements-releases
 title: "FACT SHEET: Taking Action to Support Auto Workers and Manufacturers, Including\
   \ in\_Michigan"
@@ -17,7 +17,7 @@ generations, and the Biden-Harris Administration is ensuring that the
 future of the auto industry is made in America by American union
 workers. Today, National Economic Advisor Lael Brainard is traveling to
 Detroit, Michigan to convene the [Michigan Workforce
-Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 and announce a suite of new actions to support automakers and auto
 workers, with an emphasis on historic auto communities in Michigan. The
 Michigan Workforce Hub is one of nine Investing in America Workforce
@@ -26,7 +26,7 @@ can access the good jobs created by the Biden-Harris Investing in
 America agenda.  
   
 Today’s announcement builds on the actions that Vice President Harris
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/fact-sheet-vice-president-harris-announces-more-than-100-million-to-support-american-auto-workers-and-small-auto-suppliers/)
 in May to support small- and medium-sized auto manufacturers with access
 to capital to expand or retool manufacturing facilities, new workforce
 training resources, and new technical assistance programs.  
@@ -101,7 +101,7 @@ suppliers](https://www.energy.gov/articles/biden-harris-administration-announces
 converting their facilities to electric vehicle production. To protect
 these investments from unfair trade practices abroad, the President has
 taken strong and strategic action, including by [raising
-tariffs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
+tariffs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/)
 to 100% on EVs and batteries from China.  
   
   
@@ -111,12 +111,12 @@ stakeholders across industry to support automakers and auto workers.
 ***Michigan Workforce Hub Commitments***  
   
 In 2023, First Lady Jill Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)
 the Investing in America Workforce Initiative in five initial locations
 where the Biden-Harris Investing in America agenda is catalyzing
 historic investments in industries of the future. In April, President
 Biden
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
 Michigan as one of four new Workforce Hubs, designed to prepare Michigan
 workers for the good-paying and union jobs created by these historic
 investments, with a focus on the auto sector. Since the start of the

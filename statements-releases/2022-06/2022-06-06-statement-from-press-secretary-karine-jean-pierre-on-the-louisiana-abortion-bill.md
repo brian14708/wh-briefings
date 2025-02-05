@@ -1,7 +1,7 @@
 ---
 date: '2022-06-06'
 published_time: 2022-06-06 12:17:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/statement-from-press-secretary-karine-jean-pierre-on-the-louisiana-abortion-bill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/statement-from-press-secretary-karine-jean-pierre-on-the-louisiana-abortion-bill/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Louisiana Abortion\_\
   Bill"

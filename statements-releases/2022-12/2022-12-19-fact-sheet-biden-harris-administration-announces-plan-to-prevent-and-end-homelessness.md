@@ -2,7 +2,7 @@
 date: '2022-12-19'
 modified_time: 2022-12-19 08:45:08-05:00
 published_time: 2022-12-19 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-announces-plan-to-prevent-and-end-homelessness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-announces-plan-to-prevent-and-end-homelessness/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Plan to Prevent and\
   \ End\_Homelessness"
@@ -72,7 +72,7 @@ Department of Veterans Affairs also recently announced that it will
 likely exceed its goal of providing 38,000 permanent housing placements
 to homeless veterans by the end of 2022. President Biden’s [*Housing
 Supply Action
-Plan*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) announced
+Plan*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/) announced
 federal actions designed to create more affordable rental housing that
 will help close the housing supply gap, which is driving up costs and
 making it more challenging for Americans to find housing. 

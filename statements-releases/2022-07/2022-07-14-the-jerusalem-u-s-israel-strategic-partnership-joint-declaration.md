@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 06:22:19-04:00
 published_time: 2022-07-14 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/the-jerusalem-u-s-israel-strategic-partnership-joint-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/the-jerusalem-u-s-israel-strategic-partnership-joint-declaration/
 tags: statements-releases
 title: "The Jerusalem U.S.-Israel Strategic Partnership Joint\_Declaration"
 ---

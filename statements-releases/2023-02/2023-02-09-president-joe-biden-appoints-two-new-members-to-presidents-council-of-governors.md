@@ -2,7 +2,7 @@
 date: '2023-02-09'
 modified_time: 2023-02-09 08:19:39-05:00
 published_time: 2023-02-09 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/09/president-joe-biden-appoints-two-new-members-to-presidents-council-of-governors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/09/president-joe-biden-appoints-two-new-members-to-presidents-council-of-governors/
 tags: statements-releases
 title: "President Joe\_Biden Appoints Two New Members to President\u2019s Council\_\
   of\_Governors"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-07'
 modified_time: 2021-12-07 06:02:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/07/fact-sheet-vice-president-kamala-harris-announces-call-to-action-to-reduce-maternal-mortality-and-morbidity/
 published_time: 2021-12-07 06:02:36-05:00
 title: "FACT SHEET: Vice President Kamala\_Harris Announces Call to Action to Reduce\
   \ Maternal Mortality and\_Morbidity"
@@ -113,11 +113,11 @@ who live in rural communities are about 60 percent more likely to die
 before, during, or following birth than women in urban communities.  
   
 In April, the President issued the first-ever [presidential
-proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/) for
+proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/13/a-proclamation-on-black-maternal-health-week-2021/) for
 Black Maternal Health Week, which emphasized the importance of
 addressing this crisis. The Administration simultaneously released
 a [fact
-sheet](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-black-maternal-health-crisis/) outlining
+sheet](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-black-maternal-health-crisis/) outlining
 significant requests for new funding related to maternal health, actions
 to expand Medicaid coverage for pregnancy and postpartum care, and grant
 funding for rural maternal care.  

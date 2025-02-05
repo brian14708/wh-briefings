@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-14 20:26:51-05:00
 published_time: 2022-11-15 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-one-year-into-implementation-of-bipartisan-infrastructure-law-biden-%e2%81%a0harris-administration-celebrates-major-progress-in-building-a-better-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-one-year-into-implementation-of-bipartisan-infrastructure-law-biden-%e2%81%a0harris-administration-celebrates-major-progress-in-building-a-better-america/
 tags: statements-releases
 title: "FACT SHEET: One Year into Implementation of Bipartisan Infrastructure Law,\
   \ Biden-\u2060Harris Administration Celebrates Major Progress in Building a Better\_\
@@ -48,9 +48,9 @@ To date, the Administration has announced over $185 billion in funding
 and over 6,900 specific projects, reaching over 4,000 communities across
 all 50 states, D.C., and the territories.  The White House
 Infrastructure Implementation Team released [new state-by-state fact
-sheets](https://www.whitehouse.gov/build/state-fact-sheets/) and a [new
+sheets](https://bidenwhitehouse.archives.gov/build/state-fact-sheets/) and a [new
 map highlighting projects in all 50
-states](https://www.whitehouse.gov/build/maps-of-progress/). The
+states](https://bidenwhitehouse.archives.gov/build/maps-of-progress/). The
 President, Vice President, Cabinet, and senior federal leaders, have
 taken more than 200 trips to all 50 states, as well as D.C., Puerto
 Rico, and the territories, to discuss this once-in-a-generation
@@ -129,7 +129,7 @@ Supply Chains</span>
     airports](https://www.faa.gov/newsroom/faa-announces-first-year-airport-funding-amounts-bipartisan-infrastructure-law)
     across the country  to upgrade critical infrastructure. FAA also
     announced a [$1 billion in awards to 85
-    airports](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/07/biden-administration-announces-nearly-1b-in-bipartisan-infrastructure-law-funding-improving-airport-terminals-across-u-s/)
+    airports](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/07/biden-administration-announces-nearly-1b-in-bipartisan-infrastructure-law-funding-improving-airport-terminals-across-u-s/)
     across the country to modernize airport terminals of all sizes.
 -   **Ports and Waterways**: The U.S. Army Corps of Engineers (USACE)
     announced $3.9 billion to strengthen supply chains and improve
@@ -222,13 +222,13 @@ and Resilience</span>
     by non-federal entities.
 -   **Ecosystem Restoration**: DOI, USDA, and DOD jointly [announced a
     $1 billion America the Beautiful
-    Challenge](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
+    Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
     will combine Federal funding with private and philanthropic
     contributions for conservation and restoration, anchored by an
     initial commitment of $440 million of Federal resources. **Ecosystem
     Restoration**: DOI, USDA, and DOD jointly [announced a $1 billion
     America the Beautiful
-    Challenge](https://www.whitehouse.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
+    Challenge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/11/biden-harris-administration-launches-1-billion-america-the-beautiful-challenge-to-support-and-accelerate-locally-led-conservation-and-restoration-projects/) that
     will combine federal funding with private and philanthropic
     contributions for conservation and restoration, anchored by an
     initial commitment of $440 million of federal resources. The USACE
@@ -422,32 +422,32 @@ Administration has:
     states, D.C., Puerto Rico and territories have appointed an
     infrastructure coordinator.
 -   Provided [guidance to federal
-    agencies](https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-12.pdf)
+    agencies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/M-22-12.pdf)
     to set a strong foundation for effective, efficient, and equitable
     implementation of the Bipartisan Infrastructure Law in accordance
     with the Justice40 Initiative; and boosted collaboration with
     Inspectors General and the broader oversight community to prevent
     fraud, waste, and abuse.
 -   Released a [Permitting Action
-    Plan ](https://www.whitehouse.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)to
+    Plan ](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Biden-Harris-Permitting-Action-Plan.pdf)to
     strengthen and accelerate federal permitting and environmental
     reviews by fully leveraging existing permitting authorities, as well
     as new provisions in the Bipartisan Infrastructure Law.
 -   Released the [Accelerating Infrastructure Action
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2022/10/Action-Plan-for-Accelerating-Infrastructure-October-2022.pdf)
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/Action-Plan-for-Accelerating-Infrastructure-October-2022.pdf)
     with over 20 commitments from federal agencies pledging to speed
     progress and deliver on time, on task and on budget.
 -   Released a multitude of resources for states, territories, Tribes
     and local governments including a Guidebook at build.gov, a
     technical assistance resource guide, an [“Infrastructure School”
     webinar
-    series](https://www.whitehouse.gov/build/briefing-room/2022/05/04/infrastructure-school-webinars/),
+    series](https://bidenwhitehouse.archives.gov/build/briefing-room/2022/05/04/infrastructure-school-webinars/),
     Rural and Tribal playbooks, and a listing of funding opportunities
     to be aware of, all available on build.gov.
 -   Launched the Infrastructure [Talent Pipeline
-    Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/),
+    Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/),
     securing over [350
-    commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
+    commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/)
     from organizations such as International Brotherhood of Electrical
     Workers, AT&T, Corning, Communication Workers of America, United
     Airlines, and ChargePoint to invest in equitable workforce
@@ -477,7 +477,7 @@ Administration has:
     infrastructure, and support long-term economic stability on their
     own terms.
 -   Announced [new
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/)
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/26/fact-sheet-biden-harris-administration-advances-equity-and-economic-opportunity-through-federal-procurement-and-state-and-local-infrastructure-contracting/)
     to support small disadvantaged businesses compete for contracting
     opportunities under the Bipartisan Infrastructure Law. These actions
     reflect the Biden-Harris Administration’s commitment to ensuring

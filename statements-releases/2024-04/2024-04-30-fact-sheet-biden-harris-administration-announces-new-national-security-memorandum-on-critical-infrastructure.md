@@ -2,7 +2,7 @@
 date: '2024-04-30'
 modified_time: 2024-04-30 10:03:12-04:00
 published_time: 2024-04-30 10:03:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-biden-harris-administration-announces-new-national-security-memorandum-on-critical-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/30/fact-sheet-biden-harris-administration-announces-new-national-security-memorandum-on-critical-infrastructure/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New National Security\
   \ Memorandum on Critical Infrastructure"
@@ -78,7 +78,7 @@ specifically:
 -   Elevates the importance of **minimum security and resilience
     requirements** within and across critical infrastructure sectors,
     consistent with the [National Cyber
-    Strategy](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
+    Strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf),
     which recognizes the limits of a voluntary approach to risk
     management in the current threat environment.
 
@@ -103,7 +103,7 @@ protect our infrastructure and the prosperity and security of the
 Nation.  
    
 [**National Security Memorandum**  
-](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/30/national-security-memorandum-on-critical-infrastructure-security-and-resilience/)   
+](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/30/national-security-memorandum-on-critical-infrastructure-security-and-resilience/)   
 [**2023 National Intelligence
 Strategy**](https://www.dni.gov/files/ODNI/documents/National_Intelligence_Strategy_2023.pdf)  
    

@@ -2,7 +2,7 @@
 date: '2022-06-30'
 modified_time: 2022-06-29 19:26:42-04:00
 published_time: 2022-06-30 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/fact-sheet-health-sector-leaders-join-biden-administrations-pledge-to-reduce-greenhouse-gas-emissions-50-by-2030/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/fact-sheet-health-sector-leaders-join-biden-administrations-pledge-to-reduce-greenhouse-gas-emissions-50-by-2030/
 tags: statements-releases
 title: "FACT SHEET: \_Health Sector Leaders Join Biden Administration\u2019s Pledge\
   \ to Reduce Greenhouse Gas Emissions 50% by\_2030"
@@ -105,7 +105,7 @@ Equity](https://www.bing.com/search?q=ocche+at+hhs&cvid=a82857c4043e4517b778c450
 at HHS to identify and address health disparities exacerbated by climate
 impacts. Since then, the Administration has invested over [$8 billion in
 the Low-Income Home Energy Assistance Program
-(LIHEAP)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-announces-additional-385-million-to-lower-home-energy-bills-for-american-families/)
+(LIHEAP)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-announces-additional-385-million-to-lower-home-energy-bills-for-american-families/)
 to help low-income Americans manage energy costs in the face of extreme
 weather.
 

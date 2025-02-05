@@ -1,7 +1,7 @@
 ---
 date: '2024-03-06'
 published_time: 2024-03-06 14:00:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/06/remarks-by-vice-president-harris-on-expanding-registered-apprenticeship-programs-creating-good-paying-union-jobs-and-advancing-economic-opportunity-madison-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/06/remarks-by-vice-president-harris-on-expanding-registered-apprenticeship-programs-creating-good-paying-union-jobs-and-advancing-economic-opportunity-madison-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Expanding Registered Apprenticeship Programs,\
   \ Creating Good-Paying Union Jobs, and Advancing Economic Opportunity | Madison,\_\

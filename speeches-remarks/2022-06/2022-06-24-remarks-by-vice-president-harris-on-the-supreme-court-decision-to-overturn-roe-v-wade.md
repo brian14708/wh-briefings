@@ -1,7 +1,7 @@
 ---
 date: '2022-06-24'
 published_time: 2022-06-24 16:43:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-vice-president-harris-on-the-supreme-court-decision-to-overturn-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/24/remarks-by-vice-president-harris-on-the-supreme-court-decision-to-overturn-roe-v-wade/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Supreme Court Decision to Overturn\
   \ Roe V.\_Wade"

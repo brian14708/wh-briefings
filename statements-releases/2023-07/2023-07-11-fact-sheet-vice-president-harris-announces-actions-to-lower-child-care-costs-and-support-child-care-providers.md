@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-11 12:05:53-04:00
 published_time: 2023-07-11 12:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-vice-president-harris-announces-actions-to-lower-child-care-costs-and-support-child-care-providers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-vice-president-harris-announces-actions-to-lower-child-care-costs-and-support-child-care-providers/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Actions to Lower Child Care Costs\
   \ and Support Child Care\_Providers"

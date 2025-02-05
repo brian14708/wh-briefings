@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-27 11:36:19-04:00
 published_time: 2023-03-27 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/
 tags: presidential-actions
 title: "Executive Order on Prohibition on Use by the United\_States Government of\
   \ Commercial Spyware that Poses Risks to National\_Security"

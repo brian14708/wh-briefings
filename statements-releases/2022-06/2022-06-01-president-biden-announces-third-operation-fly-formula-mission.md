@@ -2,7 +2,7 @@
 date: '2022-06-01'
 modified_time: 2022-06-02 06:03:26-04:00
 published_time: 2022-06-01 12:01:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-third-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/president-biden-announces-third-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Third Operation Fly Formula\_Mission"
 ---
@@ -62,10 +62,10 @@ Kendamil Classic First Infant Milk 900g / 31.7 oz.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png"
 class="wp-image-54540" loading="lazy"
 sizes="(max-width: 977px) 100vw, 977px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png 977w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=615,615 615w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=768,768 768w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=1200,1200 1200w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=640,640 640w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk1.png?resize=850,850 850w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png 977w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=615,615 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=768,768 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=1200,1200 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=640,640 640w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk1.png?resize=850,850 850w"
 width="977" height="977" />
 </figure>
 
@@ -73,10 +73,10 @@ Kendamil Organic First Infant Milk 800g / 28.2 oz.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png"
 class="wp-image-54541" loading="lazy"
 sizes="(max-width: 977px) 100vw, 977px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png 977w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=615,615 615w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=768,768 768w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=1200,1200 1200w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=640,640 640w, https://www.whitehouse.gov/wp-content/uploads/2022/06/milk2.png?resize=850,850 850w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png 977w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=615,615 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=768,768 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=1200,1200 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=640,640 640w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/milk2.png?resize=850,850 850w"
 width="977" height="977" />
 </figure>
 
@@ -84,10 +84,10 @@ Kendamil Goat First Infant Milk 800g / 28.2 oz.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png"
 class="wp-image-54542" loading="lazy"
 sizes="(max-width: 977px) 100vw, 977px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png 977w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=615,615 615w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=768,768 768w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=1200,1200 1200w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=640,640 640w, https://www.whitehouse.gov/wp-content/uploads/2022/06/Milk3.png?resize=850,850 850w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png 977w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=615,615 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=768,768 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=1200,1200 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=640,640 640w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Milk3.png?resize=850,850 850w"
 width="977" height="977" />
 </figure>
 

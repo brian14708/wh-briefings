@@ -1,7 +1,7 @@
 ---
 date: '2023-10-18'
 published_time: 2023-10-18 11:21:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/18/u-s-announcement-of-humanitarian-assistance-to-the-palestinian-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/18/u-s-announcement-of-humanitarian-assistance-to-the-palestinian-people/
 tags: statements-releases
 title: "U.S. Announcement of Humanitarian Assistance to the Palestinian\_People"
 ---

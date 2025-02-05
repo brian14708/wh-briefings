@@ -1,7 +1,7 @@
 ---
 date: '2024-02-08'
 published_time: 2024-02-08 21:17:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/joint-statement-from-mexico-canada-and-the-united-states-reaffirming-our-shared-commitment-to-address-the-regional-challenge-of-synthetic-drugs-and-firearms-trafficking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/joint-statement-from-mexico-canada-and-the-united-states-reaffirming-our-shared-commitment-to-address-the-regional-challenge-of-synthetic-drugs-and-firearms-trafficking/
 tags: statements-releases
 title: "Joint Statement from Mexico, Canada, and the United\_States Reaffirming Our\
   \ Shared Commitment to Address the Regional Challenge of Synthetic Drugs and Firearms\_\

@@ -2,7 +2,7 @@
 date: '2024-06-14'
 modified_time: 2024-06-14 08:11:08-04:00
 published_time: 2024-06-14 08:11:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/14/background-press-call-previewing-the-presidents-second-day-at-the-g7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/14/background-press-call-previewing-the-presidents-second-day-at-the-g7/
 tags: press-briefings
 title: "Background Press Call Previewing the President\u2019s Second Day at the\_\
   G7"

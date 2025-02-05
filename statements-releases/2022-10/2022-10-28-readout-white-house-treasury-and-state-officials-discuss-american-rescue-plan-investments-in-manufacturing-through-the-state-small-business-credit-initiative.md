@@ -1,7 +1,7 @@
 ---
 date: '2022-10-28'
 published_time: 2022-10-28 18:05:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/28/readout-white-house-treasury-and-state-officials-discuss-american-rescue-plan-investments-in-manufacturing-through-the-state-small-business-credit-initiative/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/28/readout-white-house-treasury-and-state-officials-discuss-american-rescue-plan-investments-in-manufacturing-through-the-state-small-business-credit-initiative/
 tags: statements-releases
 title: "Readout: White\_House, Treasury, and State Officials Discuss American Rescue\
   \ Plan Investments in Manufacturing Through the State Small Business Credit\_Initiative"
@@ -21,7 +21,7 @@ levels. Companies are choosing to make more in America, and we are
 seeing the industries of the future expand with over $200 billion of new
 investments in EVs, semiconductors, and other critical industries. Large
 manufacturers like GE Aviation and Siemens Energy are [making new
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/06/fact-sheet-biden-administration-celebrates-launch-of-am-forward-and-calls-on-congress-to-pass-bipartisan-innovation-act/)
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/06/fact-sheet-biden-administration-celebrates-launch-of-am-forward-and-calls-on-congress-to-pass-bipartisan-innovation-act/)
 to help their small and medium sized manufacturers upgrade.
 
 Over 90% of manufacturers are small and medium sized firms, employing

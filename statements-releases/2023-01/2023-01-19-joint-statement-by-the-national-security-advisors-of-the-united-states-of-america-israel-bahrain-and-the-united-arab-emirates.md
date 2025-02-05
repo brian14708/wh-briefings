@@ -1,7 +1,7 @@
 ---
 date: '2023-01-19'
 published_time: 2023-01-19 09:27:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/19/joint-statement-by-the-national-security-advisors-of-the-united-states-of-america-israel-bahrain-and-the-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/19/joint-statement-by-the-national-security-advisors-of-the-united-states-of-america-israel-bahrain-and-the-united-arab-emirates/
 tags: statements-releases
 title: "Joint Statement by the National Security Advisors of the United\_States of\
   \ America, Israel, Bahrain, and the United Arab\_Emirates"

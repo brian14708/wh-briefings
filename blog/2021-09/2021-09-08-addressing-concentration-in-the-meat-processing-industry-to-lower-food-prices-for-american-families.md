@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-09-08'
 modified_time: 2021-12-15 17:29:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/09/08/addressing-concentration-in-the-meat-processing-industry-to-lower-food-prices-for-american-families/
 published_time: 2021-09-08 12:00:00-04:00
 title: "Addressing Concentration in the Meat-Processing Industry to Lower Food Prices\
   \ for American\_Families"
@@ -36,7 +36,7 @@ poultry by 6.6%.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/food-at-home-inflation-by-product-accumulated-price-change.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/food-at-home-inflation-by-product-accumulated-price-change.jpg"
 class="wp-image-38283" loading="lazy" width="415" height="305" />
 </figure>
 
@@ -50,7 +50,7 @@ figure below).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/us-beef-pork-and-broiler-supply-chains.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/us-beef-pork-and-broiler-supply-chains.jpg"
 class="wp-image-38285" loading="lazy" width="521" height="270" />
 </figure>
 
@@ -83,7 +83,7 @@ going up.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/cattle-input-prices-vs-wholesale-beef-prices.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/cattle-input-prices-vs-wholesale-beef-prices.jpg"
 class="wp-image-38289" loading="lazy" width="323" height="239" />
 </figure>
 
@@ -98,13 +98,13 @@ profits, margins, or income.)
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/leading-meet-processors-profitability.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/leading-meet-processors-profitability.jpg"
 class="wp-image-38291" loading="lazy" width="434" height="252" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/leading-processors-aggregate-net-income.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/leading-processors-aggregate-net-income.jpg"
 class="wp-image-38293" loading="lazy" width="483" height="222" />
 </figure>
 
@@ -142,7 +142,7 @@ collapse in demand the meat industry experienced in the Great Recession.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/per-capita-consumption-of-red-meat-and-poultry.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/per-capita-consumption-of-red-meat-and-poultry.jpg"
 class="wp-image-38295" loading="lazy" width="480" height="288" />
 </figure>
 

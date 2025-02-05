@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-16 15:50:44-05:00
 published_time: 2024-12-16 15:50:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/16/a-proclamation-on-the-establishment-of-the-frances-perkins-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/16/a-proclamation-on-the-establishment-of-the-frances-perkins-national-monument/
 tags: presidential-actions
 title: "A Proclamation on the Establishment of the Frances Perkins National\_Monument"
 ---

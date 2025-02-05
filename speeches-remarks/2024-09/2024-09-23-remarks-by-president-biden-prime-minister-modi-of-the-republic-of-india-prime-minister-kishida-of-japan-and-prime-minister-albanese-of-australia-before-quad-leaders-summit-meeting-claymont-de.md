@@ -1,7 +1,7 @@
 ---
 date: '2024-09-23'
 published_time: 2024-09-23 12:06:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-prime-minister-modi-of-the-republic-of-india-prime-minister-kishida-of-japan-and-prime-minister-albanese-of-australia-before-quad-leaders-summit-meeting-claymont-de/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/23/remarks-by-president-biden-prime-minister-modi-of-the-republic-of-india-prime-minister-kishida-of-japan-and-prime-minister-albanese-of-australia-before-quad-leaders-summit-meeting-claymont-de/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Modi of the Republic of India,\
   \ Prime Minister Kishida of Japan, and Prime Minister Albanese of Australia Before\

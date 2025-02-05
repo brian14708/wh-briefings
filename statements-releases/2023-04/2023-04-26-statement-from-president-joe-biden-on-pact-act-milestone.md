@@ -2,7 +2,7 @@
 date: '2023-04-26'
 modified_time: 2023-04-25 19:25:26-04:00
 published_time: 2023-04-26 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/statement-from-president-joe-biden-on-pact-act-milestone/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/statement-from-president-joe-biden-on-pact-act-milestone/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on PACT Act\_Milestone"
 ---

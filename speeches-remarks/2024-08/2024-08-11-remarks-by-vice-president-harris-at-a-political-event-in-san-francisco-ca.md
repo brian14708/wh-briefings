@@ -2,7 +2,7 @@
 date: '2024-08-11'
 modified_time: 2024-08-12 12:41:48-04:00
 published_time: 2024-08-11 13:37:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/11/remarks-by-vice-president-harris-at-a-political-event-in-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/11/remarks-by-vice-president-harris-at-a-political-event-in-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Political Event in San Francisco,\_\
   CA"

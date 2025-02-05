@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-22'
 modified_time: 2022-02-22 12:09:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/
 published_time: 2022-02-22 05:00:00-05:00
 title: "FACT SHEET: Securing a Made in America Supply Chain for Critical\_Minerals"
 ---
@@ -27,12 +27,12 @@ controls most of the market for processing and refining for cobalt,
 lithium, rare earths and other critical minerals.
 
 Executive Order 14017 (E.O.)*,* [*America’s Supply
-Chains*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
+Chains*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/),
 signed one year ago this week, ordered a review of vulnerabilities in
 our critical mineral and material supply chains within 100 days. In
 June, the Biden-Harris Administration released a first-of-its-kind
 [supply chain
-assessment](https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
+assessment](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf)
 that found our over-reliance on foreign sources and adversarial nations
 for critical minerals and materials posed national and economic security
 threats.
@@ -160,7 +160,7 @@ environmental justice, and equity priorities:**
     coordinate stockpiling activities to support the U.S. transition to
     clean energy and national security needs. In October, President
     Biden streamlined the National Defense Stockpile by signing [E.O.
-    14051](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/31/executive-order-on-the-designation-to-exercise-authority-over-the-national-defense-stockpile/#:~:text=This%20order%20confers%20authority%20related,stockpiling%20for%20national%20defense%20purposes.)
+    14051](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/31/executive-order-on-the-designation-to-exercise-authority-over-the-national-defense-stockpile/#:~:text=This%20order%20confers%20authority%20related,stockpiling%20for%20national%20defense%20purposes.)
     to delegate authority release of strategic and critical materials to
     the Under Secretary of Defense for Acquisition and Sustainment.
 

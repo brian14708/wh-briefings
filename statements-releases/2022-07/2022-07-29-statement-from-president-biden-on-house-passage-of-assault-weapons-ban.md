@@ -2,7 +2,7 @@
 date: '2022-07-29'
 modified_time: 2022-07-29 19:37:43-04:00
 published_time: 2022-07-29 19:30:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/statement-from-president-biden-on-house-passage-of-assault-weapons-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/statement-from-president-biden-on-house-passage-of-assault-weapons-ban/
 tags: statements-releases
 title: "Statement from President\_Biden on House Passage of Assault Weapons\_Ban"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-01'
 modified_time: 2024-07-02 10:00:56-04:00
 published_time: 2024-07-01 21:56:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/01/remarks-by-president-biden-on-the-supreme-courts-immunity-ruling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/01/remarks-by-president-biden-on-the-supreme-courts-immunity-ruling/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Supreme Court\u2019s Immunity\_Ruling"
 ---

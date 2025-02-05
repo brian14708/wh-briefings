@@ -2,7 +2,7 @@
 date: '2023-05-29'
 modified_time: 2023-05-29 08:46:08-04:00
 published_time: 2023-05-29 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-sending-warm-wishes-on-the-occasion-of-president-tinubus-inauguration-in-nigeria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/29/statement-from-president-joe-biden-sending-warm-wishes-on-the-occasion-of-president-tinubus-inauguration-in-nigeria/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Sending Warm Wishes on the Occasion of\
   \ President Tinubu\u2019s Inauguration in\_Nigeria"

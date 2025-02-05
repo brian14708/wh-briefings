@@ -2,7 +2,7 @@
 date: '2022-08-12'
 modified_time: 2022-08-13 10:56:58-04:00
 published_time: 2022-08-12 10:54:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/12/press-gaggle-by-vice-president-harris-aboard-air-force-two-before-departure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/12/press-gaggle-by-vice-president-harris-aboard-air-force-two-before-departure/
 tags: speeches-remarks
 title: "Press Gaggle by Vice President Harris Aboard Air Force Two Before\_Departure"
 ---

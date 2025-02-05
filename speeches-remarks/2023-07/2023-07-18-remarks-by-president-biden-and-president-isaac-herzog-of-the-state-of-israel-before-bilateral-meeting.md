@@ -2,7 +2,7 @@
 date: '2023-07-18'
 modified_time: 2023-07-19 22:40:48-04:00
 published_time: 2023-07-18 17:02:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/18/remarks-by-president-biden-and-president-isaac-herzog-of-the-state-of-israel-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/18/remarks-by-president-biden-and-president-isaac-herzog-of-the-state-of-israel-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Isaac Herzog of the State of Israel\
   \ Before Bilateral\_Meeting"

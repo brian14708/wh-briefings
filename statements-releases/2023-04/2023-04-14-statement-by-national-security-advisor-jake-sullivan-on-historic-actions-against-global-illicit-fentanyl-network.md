@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 11:35:59-04:00
 published_time: 2023-04-14 11:32:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/statement-by-national-security-advisor-jake-sullivan-on-historic-actions-against-global-illicit-fentanyl-network/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/statement-by-national-security-advisor-jake-sullivan-on-historic-actions-against-global-illicit-fentanyl-network/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Historic Actions Against\
   \ Global Illicit Fentanyl\_Network"

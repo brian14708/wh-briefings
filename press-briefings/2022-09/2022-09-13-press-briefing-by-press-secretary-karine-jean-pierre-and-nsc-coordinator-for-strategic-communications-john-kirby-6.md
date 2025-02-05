@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-13 20:48:40-04:00
 published_time: 2022-09-13 20:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/13/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/13/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-6/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John\_Kirby"

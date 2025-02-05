@@ -2,7 +2,7 @@
 date: '2022-09-09'
 modified_time: 2022-09-09 05:42:59-04:00
 published_time: 2022-09-09 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/09/white-house-releases-the-biden-harris-economic-blueprint/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/09/white-house-releases-the-biden-harris-economic-blueprint/
 tags: statements-releases
 title: "White\_House Releases The Biden-\u2060Harris Economic\_Blueprint"
 ---
@@ -38,7 +38,7 @@ decades-long economic challenges and finally deliver an economy that
 works for working families.  
   
 **<u>[Read the Blueprint
-here.](https://www.whitehouse.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf)</u>**  
+here.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Biden-Economic-Blueprint-Report-720PM-MASTER-DOC.pdf)</u>**  
   
 ***President Biden’s economic blueprint has five pillars:***
 
@@ -60,6 +60,6 @@ here.](https://www.whitehouse.gov/wp-content/uploads/2022/09/Biden-Economic-Blue
     ensures the wealthy and large corporations pay their fair share,
     while never raising taxes on households with incomes below $400,000,
     as was done in the Inflation Reduction
-    Act.[](https://www.whitehouse.gov/wp-content/uploads/2022/08/Wyoming-BIL-Fact-Sheet.pdf)  
+    Act.[](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Wyoming-BIL-Fact-Sheet.pdf)  
 
 \###

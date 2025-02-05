@@ -2,7 +2,7 @@
 date: '2024-11-15'
 modified_time: 2024-11-14 16:55:04-05:00
 published_time: 2024-11-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/statement-from-president-joe-biden-on-final-chips-award-for-tsmc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/statement-from-president-joe-biden-on-final-chips-award-for-tsmc/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Final CHIPS Award for\_TSMC"
 ---

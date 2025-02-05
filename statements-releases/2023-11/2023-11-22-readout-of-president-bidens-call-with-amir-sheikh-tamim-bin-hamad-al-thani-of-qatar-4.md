@@ -1,7 +1,7 @@
 ---
 date: '2023-11-22'
 published_time: 2023-11-22 16:54:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/22/readout-of-president-bidens-call-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar-4/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Amir Sheikh Tamim Bin Hamad Al-Thani\
   \ of\_Qatar"

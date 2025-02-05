@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-07 10:56:58-05:00
 published_time: 2025-01-06 15:53:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2025/01/06/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-kenner-la/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2025/01/06/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-kenner-la/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Kenner,\_LA"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-04-29'
 published_time: 2024-04-29 18:39:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/readout-of-president-bidens-call-with-president-abdel-fattah-al-sisi-of-egypt-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/readout-of-president-bidens-call-with-president-abdel-fattah-al-sisi-of-egypt-5/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Abdel Fattah Al-Sisi\
   \ of\_Egypt"

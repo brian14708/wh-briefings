@@ -1,7 +1,7 @@
 ---
 date: '2024-06-24'
 published_time: 2024-06-24 10:42:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/24/statement-from-national-security-advisor-jake-sullivan-announcing-support-for-ukrainian-childrens-education-following-russian-attacks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/24/statement-from-national-security-advisor-jake-sullivan-announcing-support-for-ukrainian-childrens-education-following-russian-attacks/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Announcing Support\
   \ for Ukrainian Children\u2019s Education Following Russian\_Attacks"

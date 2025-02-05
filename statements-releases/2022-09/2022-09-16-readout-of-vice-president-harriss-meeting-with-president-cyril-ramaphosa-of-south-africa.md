@@ -1,7 +1,7 @@
 ---
 date: '2022-09-16'
 published_time: 2022-09-16 13:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/readout-of-vice-president-harriss-meeting-with-president-cyril-ramaphosa-of-south-africa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/16/readout-of-vice-president-harriss-meeting-with-president-cyril-ramaphosa-of-south-africa/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Cyril Ramaphosa\
   \ of South\_Africa"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 13:42:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-works-to-make-it-easier-for-people-with-disabilities-to-access-public-services-online/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/fact-sheet-biden-harris-administration-works-to-make-it-easier-for-people-with-disabilities-to-access-public-services-online/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Works to Make it Easier for\
   \ People with Disabilities to Access Public Services\_Online"
@@ -128,7 +128,7 @@ disabilities. In the past year, the Administration has been:
 -   **Supporting Community Living and Employment**
     -   **Care as Infrastructure**. On April 18, the President signed an
         [Executive
-        Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+        Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
         on Increasing Access to High-Quality Care and Supporting
         Caregivers. The Executive Order included more than 50 directives
         to agencies, including to expand home-based care for veterans
@@ -182,7 +182,7 @@ disabilities. In the past year, the Administration has been:
 -   **Responding to COVID-19**
     -   **Improving Indoor Air Quality.** The Administration continues
         to promote the importance of [indoor air
-        quality](https://www.whitehouse.gov/ostp/news-updates/2022/12/08/clean-indoor-air-benefits-everyone/)
+        quality](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/12/08/clean-indoor-air-benefits-everyone/)
         to reduce the spread of COVID-19 and other airborne diseases,
         protect against outdoor air pollutants such as smog and wildfire
         smoke, and decrease the number of environmental triggers for
@@ -199,7 +199,7 @@ disabilities. In the past year, the Administration has been:
         This office will coordinate the whole-of-government response to
         the long-term impacts of COVID-19, as directed by the April 2022
         Presidential
-        [memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/)
+        [memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/)
         on Addressing the Long-Term Effects of COVID-19.
 
 \###

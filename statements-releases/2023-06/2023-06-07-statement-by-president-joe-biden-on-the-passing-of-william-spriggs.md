@@ -1,7 +1,7 @@
 ---
 date: '2023-06-07'
 published_time: 2023-06-07 18:40:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/07/statement-by-president-joe-biden-on-the-passing-of-william-spriggs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/07/statement-by-president-joe-biden-on-the-passing-of-william-spriggs/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Passing of William\_Spriggs"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-23'
 published_time: 2023-03-23 16:05:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/23/remarks-by-president-biden-at-an-affordable-care-act-anniversary-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/23/remarks-by-president-biden-at-an-affordable-care-act-anniversary-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an Affordable Care Act Anniversary\_Event"
 ---

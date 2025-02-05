@@ -2,7 +2,7 @@
 date: '2024-10-02'
 modified_time: 2024-10-03 09:00:04-04:00
 published_time: 2024-10-02 10:59:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-update-biden-harris-continues-life-saving-response-efforts-in-response-to-hurricane-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-update-biden-harris-continues-life-saving-response-efforts-in-response-to-hurricane-helene/
 tags: statements-releases
 title: "FACT SHEET: UPDATE: Biden-\u2060Harris Continues Life-Saving Response Efforts\
   \ in Response to Hurricane\_Helene"

@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-11 21:18:42-05:00
 published_time: 2024-03-08 22:07:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-at-a-campaign-event-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-at-a-campaign-event-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Event | Philadelphia,\_PA"
 ---

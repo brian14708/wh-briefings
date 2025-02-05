@@ -2,7 +2,7 @@
 date: '2023-11-23'
 modified_time: 2023-11-24 13:36:47-05:00
 published_time: 2023-11-23 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/23/remarks-by-president-biden-and-first-lady-jill-biden-in-phone-call-during-the-macys-thanksgiving-day-parade-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/23/remarks-by-president-biden-and-first-lady-jill-biden-in-phone-call-during-the-macys-thanksgiving-day-parade-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden in Phone Call During\
   \ the Macy\u2019s Thanksgiving Day\_Parade"

@@ -2,7 +2,7 @@
 date: '2024-11-01'
 modified_time: 2024-11-01 19:33:06-04:00
 published_time: 2024-11-01 19:27:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/01/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-at-georgetown-law-school-on-the-biden-harris-administrations-work-to-rebuild-our-middle-class-and-accelerate-american-ma/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/01/remarks-as-prepared-for-delivery-by-national-climate-advisor-ali-zaidi-at-georgetown-law-school-on-the-biden-harris-administrations-work-to-rebuild-our-middle-class-and-accelerate-american-ma/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by National Climate Advisor Ali Zaidi at\
   \ Georgetown Law School on the Biden-\u2060Harris Administration\u2019s Work to\

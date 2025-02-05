@@ -2,7 +2,7 @@
 date: '2022-05-23'
 modified_time: 2022-05-24 02:58:07-04:00
 published_time: 2022-05-23 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/23/remarks-by-president-biden-and-prime-minister-fumio-kishida-of-japan-during-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/23/remarks-by-president-biden-and-prime-minister-fumio-kishida-of-japan-during-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida Fumio of Japan During\
   \ Bilateral\_Meeting"

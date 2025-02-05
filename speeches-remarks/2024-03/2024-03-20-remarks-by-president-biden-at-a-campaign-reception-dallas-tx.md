@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-21 13:19:44-04:00
 published_time: 2024-03-20 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-at-a-campaign-reception-dallas-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-at-a-campaign-reception-dallas-tx/
 tags: speeches-remarks
 title: "Remarks By President\_Biden at a Campaign Reception | Dallas,\_TX"
 ---

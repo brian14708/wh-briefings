@@ -1,7 +1,7 @@
 ---
 tags: blog
 date: '2021-04-02'
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/04/02/strengthening-our-nations-commitment-to-preventing-and-responding-to-gender-based-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/04/02/strengthening-our-nations-commitment-to-preventing-and-responding-to-gender-based-violence/
 published_time: 2021-04-02 08:21:20-04:00
 title: "Strengthening our Nation\u2019s Commitment to Preventing and Responding to\
   \ Gender-Based\_Violence"
@@ -26,22 +26,22 @@ times with bipartisan support: in 2000, 2005, and in his capacity as
 Vice President in 2013. Each reauthorization of VAWA has improved the
 legislation by expanding access to safety, services, and support for all
 victims and survivors. As we mark [Sexual Assault Awareness
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-national-sexual-assault-prevention-and-awareness-month-2021/)
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-national-sexual-assault-prevention-and-awareness-month-2021/)
 in April, we have an opportunity to focus on important ways to enhance
 prevention efforts and improve the response to sexual assault, including
 for survivors from historically marginalized communities who face
 additional barriers to safety and wellbeing.
 
 As President Biden recently
-[stated](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/statement-by-president-biden-on-the-international-day-for-the-elimination-of-racial-discrimination/)
+[stated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/21/statement-by-president-biden-on-the-international-day-for-the-elimination-of-racial-discrimination/)
 on the International Day for the Elimination of Racial Discrimination,
 “We must recognize the ways that racism, gender discrimination, and
 other forms of marginalization intersect with and compound one another.”
 That intersection is central to the President’s executive order
 establishing the [White House Gender Policy
-Council](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/),
+Council](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/),
 which considers [the interwoven components of racial
-equity](https://www.whitehouse.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/)
+equity](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/)
 in its plans to advance gender equity and equality and develop a
 government-wide approach to ending gender-based violence, both
 domestically and globally. In order to reach every community and address
@@ -81,8 +81,8 @@ working on Tribal land, and not being able to seek justice because
 Tribal law enforcement and courts still lack jurisdiction to hold
 non-Indian offenders accountable for those crimes if they do not qualify
 as crimes of domestic violence or dating violence. Recently, the
-[Domestic Policy Council](https://www.whitehouse.gov/dpc/) and [Gender
-Policy Council](https://www.whitehouse.gov/gpc/) cohosted a listening
+[Domestic Policy Council](https://bidenwhitehouse.archives.gov/dpc/) and [Gender
+Policy Council](https://bidenwhitehouse.archives.gov/gpc/) cohosted a listening
 session with Tribal judges, advocates, and survivors about the pressing
 need for expanding the jurisdictional provisions in VAWA to protect
 Native women, children, and the elderly, and to also allow prosecutions

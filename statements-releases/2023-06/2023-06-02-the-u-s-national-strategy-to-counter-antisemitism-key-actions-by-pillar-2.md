@@ -2,14 +2,14 @@
 date: '2023-06-02'
 modified_time: 2023-06-03 13:13:33-04:00
 published_time: 2023-06-02 16:53:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/02/the-u-s-national-strategy-to-counter-antisemitism-key-actions-by-pillar-2/
 tags: statements-releases
 title: "The U.S. National Strategy to Counter Antisemitism: Key Actions by\_Pillar"
 ---
  
 The Biden-Harris Administration released [the U.S. National Strategy to
 Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf)
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf)
 on May 25, 2023. The strategy outlines a whole-of-society approach to
 tackle the scourge of antisemitism in America. It features over 100
 meaningful actions that over two dozen government agencies will take to

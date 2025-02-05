@@ -2,7 +2,7 @@
 date: '2022-06-16'
 modified_time: 2022-06-17 12:38:42-04:00
 published_time: 2022-06-16 12:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/16/background-press-call-by-senior-administration-officials-previewing-the-presidents-major-economies-forum-on-energy-and-climate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/16/background-press-call-by-senior-administration-officials-previewing-the-presidents-major-economies-forum-on-energy-and-climate/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the President\u2019\
   s Major Economies Forum on Energy and\_Climate"

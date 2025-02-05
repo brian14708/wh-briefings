@@ -2,7 +2,7 @@
 date: '2024-07-12'
 modified_time: 2024-07-12 11:55:07-04:00
 published_time: 2024-07-12 15:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/12/fact-sheet-biden-harris-administration-highlights-success-in-expanding-access-to-capital-and-private-contracting-opportunities-for-underserved-communities-following-vice-presidents-2023-call/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/12/fact-sheet-biden-harris-administration-highlights-success-in-expanding-access-to-capital-and-private-contracting-opportunities-for-underserved-communities-following-vice-presidents-2023-call/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Highlights Success in Expanding\
   \ Access to Capital and Private Contracting Opportunities for Underserved Communities\
@@ -52,11 +52,11 @@ in 1865 by President Abraham Lincoln to support the financial
 independence of the Nation’s over four million newly emancipated African
 Americans. Today’s event, modeled after the Vice President’s [nationwide
 Economic Opportunity
-Tour](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
+Tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
 highlighted the significant progress made to support underserved
 businesses and aspiring entrepreneurs following the Vice President’s
 [2023 call to
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/).
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/25/fact-sheet-vice-president-harris-announces-new-efforts-to-expand-capital-access-and-contracting-opportunities-for-minority-owned-and-underserved-businesses-at-the-freedmans-bank-forum/).
 
 Following efforts by the Biden-Harris Administration, Black business
 ownership and Latino business ownership are growing at their fastest
@@ -188,7 +188,7 @@ including in North Carolina. These efforts include:
     small disadvantaged businesses (SDBs) in North Carolina.** In FY23,
     the federal government exceeded its goal by allocating [12.1% or
     $76.2
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/)
     in eligible federal contracting dollars to small disadvantaged
     businesses, marking the third straight year of record-breaking
     contract awards to SDBs. This includes [over $850

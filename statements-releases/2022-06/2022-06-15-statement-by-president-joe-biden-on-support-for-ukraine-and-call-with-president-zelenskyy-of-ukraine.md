@@ -1,7 +1,7 @@
 ---
 date: '2022-06-15'
 published_time: 2022-06-15 12:28:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/15/statement-by-president-joe-biden-on-support-for-ukraine-and-call-with-president-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/15/statement-by-president-joe-biden-on-support-for-ukraine-and-call-with-president-zelenskyy-of-ukraine/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Support for Ukraine and Call with President\
   \ Zelenskyy of\_Ukraine"

@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-10 19:51:13-05:00
 published_time: 2023-03-10 19:51:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-salome-zourabichvili-of-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-salome-zourabichvili-of-georgia/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with President\
   \ Salome Zourabichvili of\_Georgia"

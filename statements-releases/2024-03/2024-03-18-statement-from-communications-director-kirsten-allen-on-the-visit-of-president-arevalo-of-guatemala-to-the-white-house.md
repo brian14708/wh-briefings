@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 11:23:29-04:00
 published_time: 2024-03-18 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/statement-from-communications-director-kirsten-allen-on-the-visit-of-president-arevalo-of-guatemala-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/statement-from-communications-director-kirsten-allen-on-the-visit-of-president-arevalo-of-guatemala-to-the-white-house/
 tags: statements-releases
 title: "Statement from Communications Director Kirsten Allen on the Visit of President\
   \ Ar\xE9valo of Guatemala to the White\_House"

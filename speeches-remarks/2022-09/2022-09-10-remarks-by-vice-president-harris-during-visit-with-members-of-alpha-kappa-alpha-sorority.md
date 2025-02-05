@@ -2,7 +2,7 @@
 date: '2022-09-10'
 modified_time: 2022-09-10 18:33:44-04:00
 published_time: 2022-09-10 18:33:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/10/remarks-by-vice-president-harris-during-visit-with-members-of-alpha-kappa-alpha-sorority/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/10/remarks-by-vice-president-harris-during-visit-with-members-of-alpha-kappa-alpha-sorority/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Visit with Members of Alpha Kappa\
   \ Alpha\_Sorority"

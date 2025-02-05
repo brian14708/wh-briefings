@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 17:00:48-04:00
 published_time: 2023-06-14 17:00:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-special-olympics-world-games-in-berlin-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/president-biden-announces-presidential-delegation-to-attend-the-opening-ceremony-of-the-special-olympics-world-games-in-berlin-germany/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to attend the Opening Ceremony\
   \ of the Special Olympics World Games in Berlin,\_Germany"

@@ -2,7 +2,7 @@
 date: '2025-01-02'
 modified_time: 2025-01-02 11:50:55-05:00
 published_time: 2025-01-02 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/02/fact-sheet-president-biden-recognizes-fuller-story-of-pacific-islands-heritage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/02/fact-sheet-president-biden-recognizes-fuller-story-of-pacific-islands-heritage/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Recognizes Fuller Story of Pacific Islands\_\
   Heritage"
@@ -19,7 +19,7 @@ historic record of delivering for Indigenous communities across the
 country.
 
 In March 2023, the President issued a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/)
 directing the Secretary of the Interior and the Secretary of Commerce to
 collaborate with Indigenous cultural leaders to inform renaming of the
 existing Pacific Remote Islands National Monument to honor the area’s
@@ -29,7 +29,7 @@ voyagers, and to inform posthumous recognition for the Hui Panalāʻau.
 Today’s action supports President Biden’s commitment to telling a fuller
 story of our Nation’s history and builds on the Biden-Harris
 Administration’s
-[efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/09/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/)
+[efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/09/fact-sheet-the-biden-%E2%81%A0harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/)
 to advance opportunity, including for Asian American, Native Hawaiian,
 and Pacific Islander Communities.
 
@@ -86,7 +86,7 @@ weeks to several months at a time on the uninhabited Pacific equatorial
 islands of Howland, Baker, Jarvis, Enderbury, and Canton to claim the
 islands for the United States. Today, President Biden issued a
 [Presidential
-Message](https://www.whitehouse.gov/wp-content/uploads/2025/01/Scan_Public-Message_Hui-Panalaau_1.2.2025.pdf)
+Message](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/Scan_Public-Message_Hui-Panalaau_1.2.2025.pdf)
 officially recognizing for the first time their contributions to the
 United States.
 

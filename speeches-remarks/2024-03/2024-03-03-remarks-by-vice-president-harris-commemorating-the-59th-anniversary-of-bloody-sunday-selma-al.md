@@ -2,7 +2,7 @@
 date: '2024-03-03'
 modified_time: 2024-03-03 19:23:40-05:00
 published_time: 2024-03-03 19:23:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/03/remarks-by-vice-president-harris-commemorating-the-59th-anniversary-of-bloody-sunday-selma-al/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/03/remarks-by-vice-president-harris-commemorating-the-59th-anniversary-of-bloody-sunday-selma-al/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Commemorating the 59th Anniversary of Bloody\
   \ Sunday | Selma,\_AL"

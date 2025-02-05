@@ -2,7 +2,7 @@
 date: '2024-04-16'
 modified_time: 2024-04-15 19:22:30-04:00
 published_time: 2024-04-16 07:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%e2%81%a0harris-administration-releases-strategy-to-strengthen-global-health-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%e2%81%a0harris-administration-releases-strategy-to-strengthen-global-health-security/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Strategy to Strengthen\
   \ Global Health\_Security"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Releases Strategy to Stren
  
 Today, the White House launched the [*U.S. Global Health Security
 Strategy*
-(GHSS](https://www.whitehouse.gov/wp-content/uploads/2024/04/Global-Health-Security-Strategy-2024-1.pdf))
+(GHSS](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Global-Health-Security-Strategy-2024-1.pdf))
 to protect the health, lives, and economic well-being of the American
 people and people throughout the world.  
   
@@ -36,7 +36,7 @@ Building on progress achieved since 2019 and incorporating lessons from
 the COVID-19 pandemic, the Global Health Security Strategy lays out a
 path to deliver on the goals in the [*2022 National Biodefense Strategy
 and Implementation
-Plan*](https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf)
+Plan*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/National-Biodefense-Strategy-and-Implementation-Plan-Final.pdf)
 and the bipartisan Global Health Security and International Pandemic
 Prevention, Preparedness and Response Act of 2022, which was enacted as
 part of the [*James M. Inhofe National Defense Authorization Act for
@@ -91,7 +91,7 @@ targets.
         response to global health emergencies;
     -   Further strengthen our efforts to [expand equitable access to
         medical
-        countermeasures](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/);
+        countermeasures](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/);
         and
     -   Accelerate commitments made by the G7 including achieving the
         milestones of the G7 Pact for Pandemic Readiness to provide
@@ -111,7 +111,7 @@ and strengthen solutions to enhance access to financing for pandemic
 preparedness and response.  To overcome the cycle of crisis and
 complacency in investing in health security capacity, the United States
 led the way to establish the historic [Pandemic
-Fund](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-pandemic-preparedness-prevention-and-response-fund-at-the-world-bank/)
+Fund](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-biden-on-pandemic-preparedness-prevention-and-response-fund-at-the-world-bank/)
 in 2022, and we are dedicated to working with all partners to ensure the
 Fund excels in its mission to support countries most in need. 
 Simultaneously, the United States continues to support efforts to

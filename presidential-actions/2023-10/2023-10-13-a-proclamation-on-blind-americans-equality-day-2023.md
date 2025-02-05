@@ -1,7 +1,7 @@
 ---
 date: '2023-10-13'
 published_time: 2023-10-13 17:01:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/13/a-proclamation-on-blind-americans-equality-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/13/a-proclamation-on-blind-americans-equality-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Blind Americans Equality Day,\_2023"
 ---

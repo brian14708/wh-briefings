@@ -1,7 +1,7 @@
 ---
 date: '2024-04-09'
 published_time: 2024-04-09 13:18:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/09/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the-russian-federation/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to Specified Harmful Foreign Activities of the Government of the Russian\_Federation"

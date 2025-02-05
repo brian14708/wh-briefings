@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 14:55:03-04:00
 published_time: 2022-07-15 14:55:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/statement-by-president-joe-biden-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/statement-by-president-joe-biden-5/
 tags: statements-releases
 title: "Statement by President Joe\_Biden"
 ---

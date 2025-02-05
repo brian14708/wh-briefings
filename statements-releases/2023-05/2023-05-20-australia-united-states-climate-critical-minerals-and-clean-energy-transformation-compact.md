@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 02:32:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-climate-critical-minerals-and-clean-energy-transformation-compact/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/australia-united-states-climate-critical-minerals-and-clean-energy-transformation-compact/
 tags: statements-releases
 title: "Australia-United\_States Climate, Critical Minerals and Clean Energy Transformation\_\
   Compact"
@@ -176,7 +176,7 @@ initiatives to deliver decarbonisation solutions that accelerate the
 global energy transition, reduce global emissions, and enhance
 resilience and adaptation. Both countries intend to follow through on
 enhanced actions put forth during this year’s [Major Economies
-Forum,](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/) including
+Forum,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/) including
 in the areas of decarbonizing shipping, ending deforestation, phasing
 down hydrofluorocarbons (HFCs), and advancing carbon management, as well
 as other initiatives such as the Clean Energy Demand Initiative.

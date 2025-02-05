@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-07'
 modified_time: 2022-02-07 17:02:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/president-biden-announces-key-appointees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/07/president-biden-announces-key-appointees/
 published_time: 2022-02-07 16:49:08-05:00
 title: "President\_Biden Announces Key\_Appointees"
 ---

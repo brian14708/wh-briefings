@@ -2,7 +2,7 @@
 date: '2022-07-08'
 modified_time: 2022-07-08 23:22:30-04:00
 published_time: 2022-07-08 23:22:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/08/remarks-by-president-biden-commemorating-the-75th-anniversary-of-the-central-intelligence-agency/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/08/remarks-by-president-biden-commemorating-the-75th-anniversary-of-the-central-intelligence-agency/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Commemorating the 75th Anniversary of the Central\
   \ Intelligence\_Agency"

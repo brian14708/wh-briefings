@@ -1,7 +1,7 @@
 ---
 tags: press-briefings
 date: '2022-02-04'
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/04/press-briefing-by-press-secretary-jen-psaki-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/02/04/press-briefing-by-press-secretary-jen-psaki-2/
 published_time: 2022-02-04 15:20:07-05:00
 title: "Press Briefing by Press Secretary Jen\_Psaki"
 ---

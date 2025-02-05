@@ -1,7 +1,7 @@
 ---
 date: '2023-11-09'
 published_time: 2023-11-09 17:46:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/09/press-gaggle-with-nsc-coordinator-for-strategic-communications-john-kirby/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/09/press-gaggle-with-nsc-coordinator-for-strategic-communications-john-kirby/
 tags: press-briefings
 title: "Press Gaggle with NSC Coordinator for Strategic Communications John\_Kirby"
 ---

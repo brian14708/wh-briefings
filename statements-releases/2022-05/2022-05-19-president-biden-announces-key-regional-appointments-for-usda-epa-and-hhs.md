@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 12:55:59-04:00
 published_time: 2022-05-19 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/president-biden-announces-key-regional-appointments-for-usda-epa-and-hhs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/president-biden-announces-key-regional-appointments-for-usda-epa-and-hhs/
 tags: statements-releases
 title: "President\_Biden Announces Key Regional Appointments for USDA, EPA, and\_\
   HHS"

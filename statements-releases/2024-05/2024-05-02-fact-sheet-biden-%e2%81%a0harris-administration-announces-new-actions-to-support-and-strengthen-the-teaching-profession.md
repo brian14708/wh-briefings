@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-01 20:41:42-04:00
 published_time: 2024-05-02 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-support-and-strengthen-the-teaching-profession/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-to-support-and-strengthen-the-teaching-profession/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Support\
   \ and Strengthen the Teaching\_Profession"

@@ -2,7 +2,7 @@
 date: '2022-10-26'
 modified_time: 2022-10-27 13:57:30-04:00
 published_time: 2022-10-26 19:46:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-at-a-virtual-fundraiser-with-nevada-congressional-delegation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-at-a-virtual-fundraiser-with-nevada-congressional-delegation/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Virtual Fundraiser with Nevada Congressional\_\
   Delegation"

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 20:20:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/statement-from-president-joe-biden-on-the-historic-union-contract-in-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/statement-from-president-joe-biden-on-the-historic-union-contract-in-georgia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Historic Union Contract in\_Georgia"
 ---

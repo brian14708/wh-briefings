@@ -2,7 +2,7 @@
 date: '2023-07-19'
 modified_time: 2023-07-19 19:49:36-04:00
 published_time: 2023-07-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-white-house-competition-council-announces-new-actions-to-lower-costs-and-marks-second-anniversary-of-president-bidens-executive-order-on-competition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-white-house-competition-council-announces-new-actions-to-lower-costs-and-marks-second-anniversary-of-president-bidens-executive-order-on-competition/
 tags: statements-releases
 title: "FACT SHEET: White\_House Competition Council Announces New Actions to Lower\
   \ Costs and Marks Second Anniversary of President\_Biden\u2019s Executive Order\
@@ -51,7 +51,7 @@ lower costs:
     anticompetitive behavior.  
 -   **Exposing rental housing junk fees to lower rental costs**: Today,
     the Competition Council [launched a new
-    front](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+    front](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
     in the Administration’s war on junk fees, taking action to address
     rental housing fees. This includes rental application fees that
     exceed the actual cost of running the background or credit check,
@@ -82,7 +82,7 @@ lower costs:
     agencies evaluate mergers under the antitrust laws on the books in
     the context of our modern economy. As the Council of Economic
     Advisers explains in a new [issue
-    brief](https://www.whitehouse.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/),
+    brief](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/),
     this revised guidance reflects an approach to antitrust enforcement
     that is informed by the best, most up-to-date economic evidence
     available. Robust enforcement can lower prices, raise wages, and
@@ -213,7 +213,7 @@ The Biden-Harris Administration’s actions to date include:
     report](https://www.usda.gov/media/press-releases/2023/03/06/biden-harris-administration-announces-actions-investments-create)
     published by USDA on competition problems in seed markets.  
 -   Treasury, in consultation with DOJ and FTC, released a
-    [report](https://www.whitehouse.gov/competition/) on competition in
+    [report](https://bidenwhitehouse.archives.gov/competition/) on competition in
     the markets for beer, wine, and spirits, celebrating the vibrancy
     and innovativeness of the U.S. alcohol industry while proposing a
     series of recommendations to level the playing field for small
@@ -319,7 +319,7 @@ The Biden-Harris Administration’s actions to date include:
     initiatives such as continuing to advance competition from lower
     cost generic drugs and biosimilars.  
 -   Hearing aids for mild-to-moderate hearing loss are [now available in
-    stores](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/)
+    stores](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/17/fact-sheet-cheaper-hearing-aids-now-in-stores-thanks-to-biden-harris-administration-competition-agenda/)
     without a prescription, thanks to the Food and Drug Administration
     (FDA) finalizing a rule allowing over-the-counter sales. This is
     saving the nearly [30 million
@@ -367,7 +367,7 @@ The Biden-Harris Administration’s actions to date include:
 -   The Biden-Harris Administration delivered more than $450 billion in
     emergency relief funding to over 6 million small businesses during
     the pandemic. During 2021 and 2022, Americans filed a record [10.5
-    million](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/24/fact-sheet-biden-harris-administration-expands-access-to-capital-and-support-for-small-businesses/)
+    million](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/24/fact-sheet-biden-harris-administration-expands-access-to-capital-and-support-for-small-businesses/)
     applications to start small business. This recovery and these record
     applications represent hope and optimism of entrepreneurs across the
     country and are bringing increased options and competition to

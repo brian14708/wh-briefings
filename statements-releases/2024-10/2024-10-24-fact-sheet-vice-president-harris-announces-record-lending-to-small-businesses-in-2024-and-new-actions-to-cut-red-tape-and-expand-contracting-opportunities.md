@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-24 10:15:50-04:00
 published_time: 2024-10-24 10:14:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-vice-president-harris-announces-record-lending-to-small-businesses-in-2024-and-new-actions-to-cut-red-tape-and-expand-contracting-opportunities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-vice-president-harris-announces-record-lending-to-small-businesses-in-2024-and-new-actions-to-cut-red-tape-and-expand-contracting-opportunities/
 tags: statements-releases
 title: 'FACT SHEET: Vice President Harris Announces Record Lending to Small Businesses
   in 2024 and New Actions to Cut Red Tape and Expand Contracting Opportunities'
@@ -59,7 +59,7 @@ including a:
 The SBA is proposing new regulations to increase small business
 participation on multiple award contracts, a popular buying tool used
 for [over 20
-percent](https://www.whitehouse.gov/omb/briefing-room/2024/01/25/taking-steps-to-bolster-small-business-participation-in-the-federal-marketplace/#:~:text=The%20guidance%20addresses%20small%20business%20participation%20on%20%E2%80%9Cmultiple-award,spending%20in%20FY%202022%20%E2%80%93%20over%2020%20percent.)
+percent](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/01/25/taking-steps-to-bolster-small-business-participation-in-the-federal-marketplace/#:~:text=The%20guidance%20addresses%20small%20business%20participation%20on%20%E2%80%9Cmultiple-award,spending%20in%20FY%202022%20%E2%80%93%20over%2020%20percent.)
 of all contracting by the Federal Government. The proposed rule will
 require agencies to set aside orders made under these contracts when two
 or more small business contract holders are expected to submit
@@ -85,7 +85,7 @@ This summer marked the first year of the Capital Readiness Program
 (CRP), funded by the Minority Business Development Agency (MBDA)’s State
 Small Business Credit Initiative (SSBCI) and [announced by Vice
 President
-Harris](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)
+Harris](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/04/fact-sheet-vice-president-harris-to-announce-support-to-help-historically-underserved-entrepreneurs-tap-into-bidenomics-fueled-small-business-boom/)
 in August 2023. The CRP is a $125 million investment to help minority
 and underserved entrepreneurs grow and scale their businesses, the
 largest-ever direct Federal investment in small business incubators and

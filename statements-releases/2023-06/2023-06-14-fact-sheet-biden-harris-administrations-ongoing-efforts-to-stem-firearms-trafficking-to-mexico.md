@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 19:51:42-04:00
 published_time: 2023-06-14 19:51:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administrations-ongoing-efforts-to-stem-firearms-trafficking-to-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administrations-ongoing-efforts-to-stem-firearms-trafficking-to-mexico/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Ongoing Efforts to Stem\
   \ Firearms Trafficking to\_Mexico"

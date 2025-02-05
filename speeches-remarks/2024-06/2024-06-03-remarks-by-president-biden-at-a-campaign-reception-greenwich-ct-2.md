@@ -2,7 +2,7 @@
 date: '2024-06-03'
 modified_time: 2024-06-04 14:45:17-04:00
 published_time: 2024-06-03 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/03/remarks-by-president-biden-at-a-campaign-reception-greenwich-ct-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/03/remarks-by-president-biden-at-a-campaign-reception-greenwich-ct-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | Greenwich,\_CT"
 ---

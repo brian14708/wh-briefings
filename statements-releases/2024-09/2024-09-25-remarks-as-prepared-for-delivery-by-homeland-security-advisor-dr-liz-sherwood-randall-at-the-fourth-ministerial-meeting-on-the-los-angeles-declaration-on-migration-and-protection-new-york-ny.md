@@ -1,7 +1,7 @@
 ---
 date: '2024-09-25'
 published_time: 2024-09-25 19:26:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/remarks-as-prepared-for-delivery-by-homeland-security-advisor-dr-liz-sherwood-randall-at-the-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/remarks-as-prepared-for-delivery-by-homeland-security-advisor-dr-liz-sherwood-randall-at-the-fourth-ministerial-meeting-on-the-los-angeles-declaration-on-migration-and-protection-new-york-ny/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by Homeland Security Advisor Dr. Liz Sherwood-Randall\
   \ at the Fourth Ministerial Meeting on the Los Angeles Declaration on Migration\

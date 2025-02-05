@@ -2,7 +2,7 @@
 date: '2024-05-25'
 modified_time: 2024-05-26 16:15:28-04:00
 published_time: 2024-05-25 16:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/25/remarks-by-president-biden-in-commencement-address-to-the-united-states-military-academy-at-west-point-west-point-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/25/remarks-by-president-biden-in-commencement-address-to-the-united-states-military-academy-at-west-point-west-point-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Commencement Address to the United\_States\
   \ Military Academy at West Point | West Point,\_NY"

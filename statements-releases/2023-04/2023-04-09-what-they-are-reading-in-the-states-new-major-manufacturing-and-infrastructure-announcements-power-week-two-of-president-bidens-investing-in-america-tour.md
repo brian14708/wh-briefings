@@ -2,7 +2,7 @@
 date: '2023-04-09'
 modified_time: 2023-04-09 21:41:07-04:00
 published_time: 2023-04-09 21:41:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/09/what-they-are-reading-in-the-states-new-major-manufacturing-and-infrastructure-announcements-power-week-two-of-president-bidens-investing-in-america-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/09/what-they-are-reading-in-the-states-new-major-manufacturing-and-infrastructure-announcements-power-week-two-of-president-bidens-investing-in-america-tour/
 tags: statements-releases
 title: "What They Are Reading in the States: New Major Manufacturing and Infrastructure\
   \ Announcements Power Week Two of President\_Biden\u2019s Investing in America\_\

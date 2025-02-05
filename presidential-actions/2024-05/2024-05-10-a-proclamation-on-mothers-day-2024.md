@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 11:46:35-04:00
 published_time: 2024-05-10 11:46:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-mothers-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/10/a-proclamation-on-mothers-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Mother\u2019s Day,\_2024"
 ---

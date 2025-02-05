@@ -1,7 +1,7 @@
 ---
 date: '2022-05-24'
 published_time: 2022-05-24 10:44:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-and-prime-minister-narendra-modi-of-the-republic-of-india-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-and-prime-minister-narendra-modi-of-the-republic-of-india-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Narendra Modi of the Republic\
   \ of India Before Bilateral\_Meeting"

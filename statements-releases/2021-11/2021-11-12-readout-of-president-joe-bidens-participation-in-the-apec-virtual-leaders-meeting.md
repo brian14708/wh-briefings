@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-12'
 modified_time: 2021-11-12 09:16:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/12/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/12/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-meeting/
 published_time: 2021-11-12 09:16:29-05:00
 title: "Readout of President Joe\_Biden\u2019s Participation in the APEC Virtual Leaders\u2019\
   \_Meeting"
@@ -38,11 +38,11 @@ together to move towards a sustainable future.
 
 The meeting builds on President Biden’s ongoing engagements in the
 Indo-Pacific region, including the [July APEC
-meeting](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-retreat/),
+meeting](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/16/readout-of-president-joe-bidens-participation-in-the-apec-virtual-leaders-retreat/),
 the October
-[US-ASEAN](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/26/readout-of-president-bidens-participation-in-the-u-s-asean-summit/)
+[US-ASEAN](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/26/readout-of-president-bidens-participation-in-the-u-s-asean-summit/)
 and [East Asia
-Summits](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/27/readout-of-president-bidens-participation-in-the-east-asia-summit/),
+Summits](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/27/readout-of-president-bidens-participation-in-the-east-asia-summit/),
 and other Leader-level engagements. At the East Asia Summit, President
 Biden announced that the United States will explore with partners the
 development of an Indo-Pacific economic framework that will define our

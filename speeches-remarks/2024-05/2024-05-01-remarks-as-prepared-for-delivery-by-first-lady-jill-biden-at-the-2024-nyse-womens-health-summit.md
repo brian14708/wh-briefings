@@ -2,7 +2,7 @@
 date: '2024-05-01'
 modified_time: 2024-05-01 18:33:00-04:00
 published_time: 2024-05-01 18:32:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-nyse-womens-health-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/01/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-nyse-womens-health-summit/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2024 NYSE\
   \ Women\u2019s Health\_Summit"

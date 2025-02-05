@@ -2,7 +2,7 @@
 date: '2024-10-22'
 modified_time: 2024-10-22 16:44:25-04:00
 published_time: 2024-10-22 16:44:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/22/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-manchester-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/22/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-manchester-nh/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Manchester,\_\
   NH"

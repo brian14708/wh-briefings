@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-03 12:42:10-04:00
 published_time: 2024-05-02 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/02/remarks-by-president-biden-on-how-his-investing-in-america-agenda-is-rebuilding-infrastructure-and-creating-good-paying-jobs-wilmington-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/02/remarks-by-president-biden-on-how-his-investing-in-america-agenda-is-rebuilding-infrastructure-and-creating-good-paying-jobs-wilmington-nc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on How His Investing in America Agenda is Rebuilding\
   \ Infrastructure and Creating Good-Paying Jobs | Wilmington,\_NC"

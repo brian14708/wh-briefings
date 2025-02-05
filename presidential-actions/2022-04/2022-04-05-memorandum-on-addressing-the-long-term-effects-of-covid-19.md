@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 14:32:06-04:00
 published_time: 2022-04-05 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/04/05/memorandum-on-addressing-the-long-term-effects-of-covid-19/
 tags: presidential-actions
 title: "Memorandum on Addressing the Long-Term Effects of\_COVID-\u206019"
 ---

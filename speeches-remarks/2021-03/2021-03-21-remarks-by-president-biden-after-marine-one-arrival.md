@@ -1,7 +1,7 @@
 ---
 tags: speeches-remarks
 date: '2021-03-21'
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/21/remarks-by-president-biden-after-marine-one-arrival/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/03/21/remarks-by-president-biden-after-marine-one-arrival/
 published_time: 2021-03-21 19:44:24-04:00
 title: "Remarks by President\_Biden After Marine One\_Arrival"
 ---

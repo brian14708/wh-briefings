@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-13'
 modified_time: 2021-08-13 11:17:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-rural-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/13/fact-sheet-how-president-bidens-build-back-better-agenda-helps-rural-communities/
 published_time: 2021-08-13 11:16:40-04:00
 title: "FACT SHEET: How President\_Biden\u2019s Build Back Better Agenda Helps Rural\_\
   Communities"
@@ -89,7 +89,7 @@ health care and transportation for their families. President Biden’s
 plan will extend the Child Tax Credit expansion in the American Rescue
 Plan, lowering taxes for middle class families by providing [the
 families of more than 66
-million](https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Fact-Sheet-AAPI-Communities.pdf)
+million](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Fact-Sheet-AAPI-Communities.pdf)
 kids and an estimated [10.4 million rural
 residents](https://www.cbpp.org/research/federal-tax/expanding-child-tax-credit-and-earned-income-tax-credit-would-benefit-more)
 across the U.S. a major tax cut – benefitting 45 percent of children
@@ -140,6 +140,6 @@ million children during the school year and help families purchase food
 during the summer.  
 
 *Read about the President’s full Build Back Better Agenda here:
-<https://www.whitehouse.gov/build-back-better/>  
+<https://bidenwhitehouse.archives.gov/build-back-better/>  
 *  
 \###

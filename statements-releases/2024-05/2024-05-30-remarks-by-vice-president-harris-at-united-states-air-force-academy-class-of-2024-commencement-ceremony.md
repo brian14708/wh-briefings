@@ -1,7 +1,7 @@
 ---
 date: '2024-05-30'
 published_time: 2024-05-30 18:00:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/remarks-by-vice-president-harris-at-united-states-air-force-academy-class-of-2024-commencement-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/30/remarks-by-vice-president-harris-at-united-states-air-force-academy-class-of-2024-commencement-ceremony/
 tags: statements-releases
 title: "Remarks by Vice President Harris at United\_States Air Force Academy Class\
   \ of 2024 Commencement\_Ceremony"

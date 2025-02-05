@@ -2,7 +2,7 @@
 date: '2023-04-11'
 modified_time: 2023-04-10 20:27:01-04:00
 published_time: 2023-04-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Strengthened Approach\
   \ to Crack Down on Illicit Fentanyl Supply\_Chains"
@@ -14,7 +14,7 @@ Administration is announcing a strengthened whole-of-government approach
 to save lives by disrupting the trafficking of illicit fentanyl and its
 precursors into American communities.  This approach builds on the
 President’s [*National Drug Control
-Strategy*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/#:~:text=The%20Strategy%20focuses%20on%20two,to%20guide%20all%20these%20efforts.)
+Strategy*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/#:~:text=The%20Strategy%20focuses%20on%20two,to%20guide%20all%20these%20efforts.)
 and helps deliver on his State of the Union call to beat the opioid and
 overdose epidemic by cracking down on the production, sale, and
 trafficking of illicit fentanyl to help save lives, protect the public
@@ -120,7 +120,7 @@ is cracking down on illicit fentanyl supply chains by:
     [comprehensive proposal developed jointly in 2021 by the Department
     of Justice, Department of Health and Human Services, and the Office
     of National Drug Control
-    Policy](https://www.whitehouse.gov/ondcp/briefing-room/2021/09/02/biden-harris-administration-provides-recommendations-to-congress-on-reducing-illicit-fentanyl-related-substances/).
+    Policy](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/09/02/biden-harris-administration-provides-recommendations-to-congress-on-reducing-illicit-fentanyl-related-substances/).
      
 
 These actions build on the progress made by the Biden-Harris
@@ -199,7 +199,7 @@ for example by:
 
 To support this Administration’s *Strategy* and to address illicit
 fentanyl, President Biden has called on Congress to make [an historic
-investment](https://www.whitehouse.gov/ondcp/briefing-room/2023/03/09/president-biden-calls-for-historic-funding-to-beat-the-overdose-epidemic-being-driven-by-fentanyl/)
+investment](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/03/09/president-biden-calls-for-historic-funding-to-beat-the-overdose-epidemic-being-driven-by-fentanyl/)
 of $46.1 billion for National Drug Control Program agencies, overseen by
 the White House ONDCP. The FY24 budget request represents a $5 billion
 increase from the FY22 request and a $2.3 billion increase over the FY23

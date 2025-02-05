@@ -1,7 +1,7 @@
 ---
 date: '2024-05-09'
 published_time: 2024-05-09 21:14:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-mountain-view-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/09/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-mountain-view-ca/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Mountain View,\_\
   CA"

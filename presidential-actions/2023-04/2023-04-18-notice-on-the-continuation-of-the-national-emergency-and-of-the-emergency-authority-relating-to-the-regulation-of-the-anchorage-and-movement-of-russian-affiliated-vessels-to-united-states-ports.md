@@ -2,7 +2,7 @@
 date: '2023-04-18'
 modified_time: 2023-04-18 16:16:09-04:00
 published_time: 2023-04-18 16:15:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/notice-on-the-continuation-of-the-national-emergency-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-states-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/notice-on-the-continuation-of-the-national-emergency-and-of-the-emergency-authority-relating-to-the-regulation-of-the-anchorage-and-movement-of-russian-affiliated-vessels-to-united-states-ports/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency and of the Emergency\
   \ Authority Relating to the Regulation of the Anchorage and Movement of Russian-Affiliated\

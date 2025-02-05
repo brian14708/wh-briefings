@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-26 11:57:37-04:00
 published_time: 2024-04-25 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/remarks-by-president-biden-at-a-campaign-event-irvington-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/remarks-by-president-biden-at-a-campaign-event-irvington-ny/
 tags: statements-releases
 title: "Remarks by President\_Biden at a Campaign Event | Irvington,\_NY"
 ---

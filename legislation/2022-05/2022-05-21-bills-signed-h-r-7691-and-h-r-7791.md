@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 12:55:11-04:00
 published_time: 2022-05-21 06:27:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/05/21/bills-signed-h-r-7691-and-h-r-7791/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/05/21/bills-signed-h-r-7691-and-h-r-7791/
 tags: legislation
 title: "Bills Signed: H.R. 7691 and \u200BH.R.\_7791"
 ---

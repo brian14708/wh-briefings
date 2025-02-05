@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 16:09:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/readout-of-president-bidens-meeting-with-president-luiz-inacio-lula-da-silva-of-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/readout-of-president-bidens-meeting-with-president-luiz-inacio-lula-da-silva-of-brazil/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Luiz In\xE1cio Lula\
   \ da Silva of\_Brazil"

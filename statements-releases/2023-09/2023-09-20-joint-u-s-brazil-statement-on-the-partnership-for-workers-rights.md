@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 16:38:48-04:00
 published_time: 2023-09-20 16:38:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/joint-u-s-brazil-statement-on-the-partnership-for-workers-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/joint-u-s-brazil-statement-on-the-partnership-for-workers-rights/
 tags: statements-releases
 title: "Joint U.S.-Brazil Statement on the Partnership for Workers\u2019\_Rights"
 ---

@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-20 09:33:29-04:00
 published_time: 2022-07-20 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/20/fact-sheet-biden-harris-administration-invests-in-summer-learning-and-enrichment-programs-to-help-students-catch-up/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/20/fact-sheet-biden-harris-administration-invests-in-summer-learning-and-enrichment-programs-to-help-students-catch-up/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Invests in Summer Learning and\
   \ Enrichment Programs to Help Students Catch\_Up"
@@ -152,7 +152,7 @@ Dr. Biden and Secretary Cardona’s tour is part of the Biden-Harris
 Administration’s broader commitment to addressing lost instructional
 time and ensuring students have the mental health supports they need to
 recover and thrive. Earlier this month, the Administration
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/)
 a national strategy to help students recover academically, with the goal
 of mobilizing 250,000 tutors and mentors to support students’ academic
 needs across the country. Tutors, mentors, and other adults in

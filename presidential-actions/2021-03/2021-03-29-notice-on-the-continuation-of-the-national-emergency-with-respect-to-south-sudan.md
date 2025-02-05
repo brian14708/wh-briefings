@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-03-29'
 modified_time: 2021-03-29 13:23:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/29/notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
 published_time: 2021-03-29 13:23:30-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to South\_\
   Sudan"

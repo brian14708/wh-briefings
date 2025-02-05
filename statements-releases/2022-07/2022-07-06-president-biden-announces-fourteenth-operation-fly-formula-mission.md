@@ -2,7 +2,7 @@
 date: '2022-07-06'
 modified_time: 2022-07-08 15:44:11-04:00
 published_time: 2022-07-06 16:28:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/06/president-biden-announces-fourteenth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/06/president-biden-announces-fourteenth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Fourteenth Operation Fly Formula\_Mission"
 ---

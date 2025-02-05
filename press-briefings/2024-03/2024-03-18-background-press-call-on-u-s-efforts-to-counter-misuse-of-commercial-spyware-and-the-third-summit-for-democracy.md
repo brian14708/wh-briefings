@@ -2,7 +2,7 @@
 date: '2024-03-18'
 modified_time: 2024-03-18 18:43:14-04:00
 published_time: 2024-03-18 18:43:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/18/background-press-call-on-u-s-efforts-to-counter-misuse-of-commercial-spyware-and-the-third-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/18/background-press-call-on-u-s-efforts-to-counter-misuse-of-commercial-spyware-and-the-third-summit-for-democracy/
 tags: press-briefings
 title: "Background Press Call on U.S. Efforts to Counter Misuse of Commercial Spyware\
   \ and the Third Summit for\_Democracy"

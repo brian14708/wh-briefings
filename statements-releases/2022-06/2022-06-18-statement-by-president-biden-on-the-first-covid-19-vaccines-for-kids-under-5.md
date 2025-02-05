@@ -2,7 +2,7 @@
 date: '2022-06-18'
 modified_time: 2022-06-18 15:48:41-04:00
 published_time: 2022-06-18 15:48:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/18/statement-by-president-biden-on-the-first-covid-19-vaccines-for-kids-under-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/18/statement-by-president-biden-on-the-first-covid-19-vaccines-for-kids-under-5/
 tags: statements-releases
 title: "Statement by President\_Biden on the First COVID-\u206019 Vaccines for Kids\
   \ Under\_5"

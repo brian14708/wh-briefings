@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 17:51:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/readout-of-gender-policy-council-and-national-security-council-meeting-with-the-government-of-uzbekistan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/readout-of-gender-policy-council-and-national-security-council-meeting-with-the-government-of-uzbekistan/
 tags: statements-releases
 title: "Readout of Gender Policy Council and National Security Council Meeting with\
   \ the Government of\_Uzbekistan"

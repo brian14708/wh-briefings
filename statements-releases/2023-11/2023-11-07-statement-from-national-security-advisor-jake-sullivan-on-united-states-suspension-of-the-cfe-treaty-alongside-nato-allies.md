@@ -2,7 +2,7 @@
 date: '2023-11-07'
 modified_time: 2023-11-06 18:13:19-05:00
 published_time: 2023-11-07 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/statement-from-national-security-advisor-jake-sullivan-on-united-states-suspension-of-the-cfe-treaty-alongside-nato-allies/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/statement-from-national-security-advisor-jake-sullivan-on-united-states-suspension-of-the-cfe-treaty-alongside-nato-allies/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on United\_States\u2019\
   \ Suspension of the CFE Treaty Alongside NATO\_Allies"

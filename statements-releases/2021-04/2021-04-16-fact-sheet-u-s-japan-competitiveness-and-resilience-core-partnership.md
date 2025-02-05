@@ -2,13 +2,13 @@
 tags: statements-releases
 date: '2021-04-16'
 modified_time: 2021-04-16 21:33:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-u-s-japan-competitiveness-and-resilience-core-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/16/fact-sheet-u-s-japan-competitiveness-and-resilience-core-partnership/
 published_time: 2021-04-16 21:33:47-04:00
 title: "Fact Sheet: U.S.-Japan Competitiveness and Resilience (CoRe)\_Partnership"
 ---
  
 *Read more about the U.S. Japan Climate
-Partnership [here](https://www.whitehouse.gov/wp-content/uploads/2021/04/U.S.-Japan-Climate-Partnership.pdf)*
+Partnership [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/U.S.-Japan-Climate-Partnership.pdf)*
 
 The United States and Japan pledge to revitalize our Alliance and make
 practical commitments to fulfill its potential. Together we will advance

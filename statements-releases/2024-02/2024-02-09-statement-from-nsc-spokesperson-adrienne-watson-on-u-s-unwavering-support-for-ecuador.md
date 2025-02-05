@@ -1,7 +1,7 @@
 ---
 date: '2024-02-09'
 published_time: 2024-02-09 11:21:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-unwavering-support-for-ecuador/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/statement-from-nsc-spokesperson-adrienne-watson-on-u-s-unwavering-support-for-ecuador/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on U.S. Unwavering Support\
   \ for\_Ecuador"
@@ -41,7 +41,7 @@ the Ecuadorians by the end of March 2024.  This support builds on
 the facilitated delivery of more than 20,000 bullet proof vests and more
 than $1 million worth of critical security and emergency response
 equipment, [announced
-in January](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-bidens-special-advisor-for-the-americas-and-southcom-commanders-trip-to-ecuador/).
+in January](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/22/readout-of-president-bidens-special-advisor-for-the-americas-and-southcom-commanders-trip-to-ecuador/).
 
 Earlier this week, Treasury
 also [designated](https://home.treasury.gov/news/press-releases/jy2082) one

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 17:34:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/letter-to-certain-congressional-committees-on-implementing-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/letter-to-certain-congressional-committees-on-implementing-the-u-s-strategy-to-prevent-conflict-and-promote-stability/
 tags: statements-releases
 title: "Letter to Certain Congressional Committees on Implementing the U.S. Strategy\
   \ to Prevent Conflict and Promote\_Stability"

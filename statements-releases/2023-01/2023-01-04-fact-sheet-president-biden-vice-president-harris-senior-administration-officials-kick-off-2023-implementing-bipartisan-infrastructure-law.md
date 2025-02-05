@@ -2,7 +2,7 @@
 date: '2023-01-04'
 modified_time: 2023-01-03 22:32:16-05:00
 published_time: 2023-01-04 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/04/fact-sheet-president-biden-vice-president-harris-senior-administration-officials-kick-off-2023-implementing-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/04/fact-sheet-president-biden-vice-president-harris-senior-administration-officials-kick-off-2023-implementing-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden, Vice President Harris, Senior Administration\
   \ Officials Kick Off 2023 Implementing Bipartisan Infrastructure\_Law"

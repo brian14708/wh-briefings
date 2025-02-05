@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 00:11:51-05:00
 published_time: 2025-01-08 00:11:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/statement-from-vice-president-harris-on-wildfires-in-southern-california/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/statement-from-vice-president-harris-on-wildfires-in-southern-california/
 tags: statements-releases
 title: "Statement from Vice President Harris on Wildfires in Southern\_California"
 ---

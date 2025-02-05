@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 13:05:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/16/readout-of-vice-president-harriss-meeting-with-prime-minister-al-sudani-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/16/readout-of-vice-president-harriss-meeting-with-prime-minister-al-sudani-of-iraq/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Al-Sudani\
   \ of\_Iraq"

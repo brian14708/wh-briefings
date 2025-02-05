@@ -2,7 +2,7 @@
 date: '2023-01-25'
 modified_time: 2023-01-25 17:19:06-05:00
 published_time: 2023-01-25 12:16:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/25/readout-of-roundtable-on-capital-access-for-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/25/readout-of-roundtable-on-capital-access-for-small-businesses/
 tags: statements-releases
 title: "Readout of Roundtable on Capital Access for Small\_Businesses"
 ---

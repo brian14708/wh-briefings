@@ -2,7 +2,7 @@
 date: '2023-06-01'
 modified_time: 2023-06-01 13:07:16-04:00
 published_time: 2023-06-01 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/fact-sheet-biden-harris-administration-takes-sweeping-action-to-address-racial-bias-in-home-valuations/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Sweeping Action to Address\
   \ Racial Bias in Home\_Valuations"
@@ -16,11 +16,11 @@ the financial returns associated with homeownership, thereby
 contributing to the already sprawling racial wealth gap.  
   
 Two years ago today, on the [centennial of the Tulsa Race
-Massacre](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
+Massacre](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/06/02/remarks-by-president-biden-commemorating-the-100th-anniversary-of-the-tulsa-race-massacre/),
 President Biden announced the creation of the Interagency Task Force on
 Property Appraisal and Valuation Equity (PAVE): a [first-of-its-kind
 interagency
-effort](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
+effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-administration-announces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-gap/)
 to root out bias in the home appraisal process. As its first order of
 business, the Task Force developed and released the most wide-ranging
 set of actions ever announced to advance equity and root out racial and
@@ -34,7 +34,7 @@ and more representative appraiser profession.
   
 Today, on the anniversary of the creation of the PAVE Task Force and the
 start of [National Homeownership
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-national-homeownership-month-2023/),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-national-homeownership-month-2023/),
 the Biden-Harris Administration is announcing a set of meaningful
 actions to deliver on the PAVE Action Plan and ensure that every
 American who buys a home has the same opportunities to build

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-09'
 published_time: 2023-10-09 16:17:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/09/statement-from-president-joe-biden-on-american-citizens-impacted-in-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/09/statement-from-president-joe-biden-on-american-citizens-impacted-in-israel/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on American Citizens Impacted in\_Israel"
 ---

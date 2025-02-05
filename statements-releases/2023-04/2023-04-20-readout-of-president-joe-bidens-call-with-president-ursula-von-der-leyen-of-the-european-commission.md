@@ -1,7 +1,7 @@
 ---
 date: '2023-04-20'
 published_time: 2023-04-20 12:32:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/readout-of-president-joe-bidens-call-with-president-ursula-von-der-leyen-of-the-european-commission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/readout-of-president-joe-bidens-call-with-president-ursula-von-der-leyen-of-the-european-commission/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Ursula von der\
   \ Leyen of the European\_Commission"

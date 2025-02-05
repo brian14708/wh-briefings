@@ -1,7 +1,7 @@
 ---
 date: '2023-12-14'
 published_time: 2023-12-14 08:36:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/
 tags: statements-releases
 title: "Readout of Latest White\_House Meeting with RSV Immunization Manufacturers"
 ---
@@ -20,7 +20,7 @@ continued efforts’ urging manufacturers to expedite availability.
    
 The meeting follows several in-person and virtual meetings, [including
 last
-week](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-follow-up-meeting-with-rsv-immunization-manufacturers/),
+week](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-follow-up-meeting-with-rsv-immunization-manufacturers/),
 to ensure manufacturers are identifying every opportunity to make more
 RSV immunizations for infants available. Also in the meeting, senior
 Administration officials and manufacturers continued conversations on

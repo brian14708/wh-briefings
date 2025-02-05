@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-03-01'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-the-biden-administrations-historic-investments-to-create-opportunity-and-build-wealth-in-rural-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-the-biden-administrations-historic-investments-to-create-opportunity-and-build-wealth-in-rural-america/
 published_time: 2022-03-01 15:15:48-05:00
 title: "FACT SHEET:   The Biden Administration\u2019s Historic Investments To Create\
   \ Opportunity and Build Wealth in Rural\_America"
@@ -652,7 +652,7 @@ equitable for everyone working in food and agriculture.
     poultry supply chain. **In, January 2022, the Biden-Harris
     Administration announced its [Action Plan for a Fairer, More
     Competitive, and More Resilient Meat and Poultry Supply
-    Chain](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/),
+    Chain](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/),
     outlining how USDA will invest an additional $900 million in
     American Rescue Plan funding. As part of this effort, USDA recently
     announced $150 million in grants for new and expanded processing

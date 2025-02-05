@@ -1,7 +1,7 @@
 ---
 date: '2022-06-23'
 published_time: 2022-06-23 16:50:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-86/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/23/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-86/
 tags: press-briefings
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -644,4 +644,4 @@ some technical issues.  And have a great day.  Thank you.
 3:12 P.M. EDT
 
 You can view the slides
-[HERE](https://www.whitehouse.gov/wp-content/uploads/2022/06/COVID-Press-Briefing_6.23.22.pdf)
+[HERE](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/COVID-Press-Briefing_6.23.22.pdf)

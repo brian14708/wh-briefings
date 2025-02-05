@@ -1,7 +1,7 @@
 ---
 date: '2022-06-22'
 published_time: 2022-06-22 11:00:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/22/a-proclamation-on-the-50th-anniversary-of-the-federal-pell-grant-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/22/a-proclamation-on-the-50th-anniversary-of-the-federal-pell-grant-program/
 tags: presidential-actions
 title: "A Proclamation on the 50th Anniversary of the Federal Pell Grant\_Program"
 ---

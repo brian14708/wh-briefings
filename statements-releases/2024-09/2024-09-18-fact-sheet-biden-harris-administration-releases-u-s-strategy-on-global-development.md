@@ -2,14 +2,14 @@
 date: '2024-09-18'
 modified_time: 2024-09-18 19:40:13-04:00
 published_time: 2024-09-18 19:40:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/18/fact-sheet-biden-harris-administration-releases-u-s-strategy-on-global-development/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/18/fact-sheet-biden-harris-administration-releases-u-s-strategy-on-global-development/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases U.S. Strategy on Global\_\
   Development"
 ---
  
 Today, the White House launched the [U.S. Strategy on Global
-Development](https://www.whitehouse.gov/wp-content/uploads/2024/09/FINAL-U.S.-Strategy-on-Global-Development_091824.pdf)
+Development](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/FINAL-U.S.-Strategy-on-Global-Development_091824.pdf)
 to codify the Biden-Harris Administration’s commitment and work over the
 past four years to accelerate development progress in pursuit of a world
 that is more free, open, prosperous, and secure.  Our approach to global
@@ -87,7 +87,7 @@ the world are forced to make tough choices between making debt payments
 or investing in their own development progress and addressing global
 challenges, the Biden-Harris Administration launched the
 [Nairobi-Washington
-Vision](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/),
+Vision](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/),
 calling on the international community to step up support for developing
 countries committed to ambitious reforms and investments that are held
 back by high debt burdens. 
@@ -111,13 +111,13 @@ back by high debt burdens. 
     in the fight to end HIV/AIDS, tuberculosis, and malaria as public
     health threats by 2030, including through robust commitments to the
     [President’s Emergency Plan for AIDS Relief
-    (PEPFAR)](https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/28/statement-from-president-joe-biden-on-the-20th-anniversary-of-the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/),
+    (PEPFAR)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/28/statement-from-president-joe-biden-on-the-20th-anniversary-of-the-u-s-presidents-emergency-plan-for-aids-relief-pepfar/),
     which has saved more than 25 million lives to date, and a commitment
     to five-year authorization.  The Biden-Harris Administration remains
     committed to securing a clean, five-year reauthorization for PEPFAR
     that is fully funded.  President Biden also led the historic
     replenishment of the G[lobal Fund to Fight AIDS, Tuberculosis, and
-    Malaria](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-president-biden-raises-record-level-funding-for-global-health-through-global-fund-seventh-replenishment/)
+    Malaria](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/fact-sheet-president-biden-raises-record-level-funding-for-global-health-through-global-fund-seventh-replenishment/)
     in 2022, which raised $15.7 billion.  In June, we announced a new
     five-year commitment to GAVI, the Vaccine Alliance, totaling at
     least $1.58 billion, to help reach the goal of vaccinating more than
@@ -156,7 +156,7 @@ efforts to expand education access.
     in emissions domestically by 2030. 
 
 Through the [President’s Emergency Plan for Adaptation and
-Resilience](https://www.whitehouse.gov/wp-content/uploads/2021/10/Full-PREPARE-Plan.pdf),
+Resilience](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Full-PREPARE-Plan.pdf),
 we are helping strengthen the climate resilience of countries and
 communities, supporting more than half a billion people reduce risks and
 adapt to climate change-related impacts by 2030.  We have bolstered
@@ -183,7 +183,7 @@ deforestation to preserve carbon critical landscapes. 
     [Presidential Initiative for Democratic
     Renewal](http://www.whitehouse.gov/briefing-room/statements-releases/2021/12/09/fact-sheet-announcing-the-presidential-initiative-for-democratic-renewal/)
     and the [U.S. Strategy on Countering
-    Corruption](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/),
+    Corruption](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/),
     the United States has made historic commitments to promote
     accountability, advance digital democracy, support free and
     independent media, fight corruption, bolster human rights and
@@ -193,7 +193,7 @@ deforestation to preserve carbon critical landscapes. 
     prevent and respond to conflict and violence, and address the
     drivers of fragility, including through the [U.S. Strategy to
     Prevent Conflict and Promote
-    Stability](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/),
+    Stability](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/01/letter-from-the-president-on-the-implementation-of-the-global-fragility-act/),
     the [U.S. Women, Peace and Security
     Strategy](http://www.whitehouse.gov/briefing-room/statements-releases/2023/10/31/fact-sheet-release-of-the-2023-women-peace-and-security-strategy-and-national-action-plan/),
     and the [U.S. Strategy to Prevent, Anticipate and Respond to

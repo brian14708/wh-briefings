@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 07:53:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/joint-readout-of-trilateral-meeting-between-the-national-security-advisors-of-the-united-states-japan-and-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/joint-readout-of-trilateral-meeting-between-the-national-security-advisors-of-the-united-states-japan-and-the-philippines/
 tags: statements-releases
 title: "Joint Readout of Trilateral Meeting Between the National Security Advisors\
   \ of the United\_States, Japan, and the\_Philippines"

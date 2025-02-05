@@ -2,7 +2,7 @@
 date: '2023-02-11'
 modified_time: 2023-02-11 15:13:14-05:00
 published_time: 2023-02-11 15:13:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-service-project-for-military-families-with-governors-spouses-and-united-through-reading/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/11/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-service-project-for-military-families-with-governors-spouses-and-united-through-reading/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Service Project\
   \ for Military Families with Governors\u2019 Spouses and United Through\_Reading"

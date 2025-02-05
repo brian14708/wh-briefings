@@ -2,7 +2,7 @@
 date: '2023-08-28'
 modified_time: 2023-08-28 10:26:39-04:00
 published_time: 2023-08-28 10:26:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/28/president-joseph-r-biden-jr-approves-florida-emergency-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/28/president-joseph-r-biden-jr-approves-florida-emergency-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Florida Emergency\_Declaration"
 ---

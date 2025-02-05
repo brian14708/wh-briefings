@@ -1,7 +1,7 @@
 ---
 date: '2023-04-27'
 published_time: 2023-04-27 09:45:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/27/statement-from-president-joe-biden-on-first-quarter-2023-gdp-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/27/statement-from-president-joe-biden-on-first-quarter-2023-gdp-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on First Quarter 2023 GDP\_Report"
 ---

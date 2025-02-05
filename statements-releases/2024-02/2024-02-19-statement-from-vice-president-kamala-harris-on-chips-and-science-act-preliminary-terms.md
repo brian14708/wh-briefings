@@ -2,7 +2,7 @@
 date: '2024-02-19'
 modified_time: 2024-02-18 18:38:16-05:00
 published_time: 2024-02-19 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/19/statement-from-vice-president-kamala-harris-on-chips-and-science-act-preliminary-terms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/19/statement-from-vice-president-kamala-harris-on-chips-and-science-act-preliminary-terms/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on CHIPS and Science Act Preliminary\_\
   Terms"

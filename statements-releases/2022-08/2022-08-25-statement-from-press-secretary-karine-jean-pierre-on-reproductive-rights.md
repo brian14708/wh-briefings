@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 11:46:34-04:00
 published_time: 2022-08-25 07:20:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/statement-from-press-secretary-karine-jean-pierre-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/statement-from-press-secretary-karine-jean-pierre-on-reproductive-rights/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Reproductive\_Rights"
 ---

@@ -2,7 +2,7 @@
 date: '2023-12-09'
 modified_time: 2023-12-09 10:59:33-05:00
 published_time: 2023-12-09 10:59:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/09/remarks-by-president-biden-on-investing-in-america-las-vegas-nv/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/09/remarks-by-president-biden-on-investing-in-america-las-vegas-nv/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Investing in America | Las Vegas,\_NV"
 ---

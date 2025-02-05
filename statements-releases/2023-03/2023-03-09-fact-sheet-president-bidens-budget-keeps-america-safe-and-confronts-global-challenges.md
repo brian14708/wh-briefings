@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:19:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-keeps-america-safe-and-confronts-global-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-keeps-america-safe-and-confronts-global-challenges/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Keeps America Safe and Confronts\
   \ Global\_Challenges"

@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-19 11:53:07-04:00
 published_time: 2023-09-19 11:53:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/
 tags: statements-releases
 title: "By the Numbers: Impacts of House Republicans\u2019 Extreme CR 8%\_Cuts"
 ---
@@ -19,7 +19,7 @@ on—violating the agreement the Speaker negotiated with President Biden
 and rejecting the bipartisan approach of the Senate. House Republicans
 have made clear that these cuts are designed to force longer-term cuts,
 in-line with their [extreme and damaging appropriations
-bills](https://www.whitehouse.gov/wp-content/uploads/2023/09/Shalanda-Young-Interested-Parties-Memo-9.12.23-1.pdf).
+bills](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/Shalanda-Young-Interested-Parties-Memo-9.12.23-1.pdf).
 So what would it mean for the American people if House Republicans’
 proposed 8% cuts were extended for the entire year?
 

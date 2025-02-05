@@ -2,7 +2,7 @@
 date: '2024-02-16'
 modified_time: 2024-02-16 12:58:01-05:00
 published_time: 2024-02-16 12:58:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/16/readout-of-vice-president-harriss-meeting-with-prime-minister-robert-golob-of-slovenia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/16/readout-of-vice-president-harriss-meeting-with-prime-minister-robert-golob-of-slovenia/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Prime Minister Robert\
   \ Golob of\_Slovenia"

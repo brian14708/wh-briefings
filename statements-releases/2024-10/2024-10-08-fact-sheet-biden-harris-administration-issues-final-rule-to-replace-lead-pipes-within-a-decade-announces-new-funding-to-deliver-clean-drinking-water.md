@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-09 09:48:50-04:00
 published_time: 2024-10-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-issues-final-rule-to-replace-lead-pipes-within-a-decade-announces-new-funding-to-deliver-clean-drinking-water/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Issues Final Rule to Replace\
   \ Lead Pipes Within a Decade, Announces New Funding to Deliver Clean Drinking\_\
@@ -20,7 +20,7 @@ lead and other toxic chemicals. As part of this historic commitment to
 clean water and environmental justice, President Biden committed to
 replace every lead pipe in the country within 10 years, issuing a
 comprehensive [Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/)
 to achieve that goal.
 
 Today, to deliver on this promise, President Biden is traveling to
@@ -94,7 +94,7 @@ providing clean drinking water for millions, this effort is also
 creating good-paying jobs, many of them union jobs, in replacing lead
 pipes and delivering clean water to households. This effort also
 advances the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
 which sets the goal that 40% of the overall benefits of certain federal
 investments flow to disadvantaged communities that are marginalized by
 underinvestment and overburdened by pollution.
@@ -141,7 +141,7 @@ water agenda in the nation’s history, making historic progress to secure
 clean water for all. Highlights of this ambitious agenda include:
 
 -   [Combatting toxic “forever chemicals” in drinking water and
-    wastewater.](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
+    wastewater.](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/10/fact-sheet-biden-harris-administration-takes-critical-action-to-protect-communities-from-pfas-pollution-in-drinking-water/)
     The Bipartisan Infrastructure Law invests $10 billion to address
     harmful PFAS pollution in drinking water and wastewater. The EPA has
     also finalized the first-ever national standard to address these
@@ -149,7 +149,7 @@ clean water for all. Highlights of this ambitious agenda include:
     million Americans from PFAS exposure, safeguarding public health and
     advancing environmental justice.
 -   [Protecting freshwater at the
-    source](https://www.whitehouse.gov/ceq/the-america-the-beautiful-freshwater-challenge/).
+    source](https://bidenwhitehouse.archives.gov/ceq/the-america-the-beautiful-freshwater-challenge/).
     Our rivers, lakes, streams, and wetlands are the sources of clean
     drinking water that flows into our homes and economic drivers for
     many communities. Through the America the Beautiful Freshwater
@@ -159,7 +159,7 @@ clean water for all. Highlights of this ambitious agenda include:
     states, Tribes, local governments, and businesses have joined the
     effort to meet these goals.
 -   [Investing in clean water for
-    Tribes](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/).
+    Tribes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/fact-sheet-at-white-house-water-summit-biden-harris-administration-announces-bold-national-goal-to-protect-and-restore-freshwater-resources-delivers-over-1-billion-for-tribal-clean-water-projects/).
     The Biden-Harris Administration has announced historic Tribal water
     infrastructure investments totaling over $5 billion through the
     Bipartisan Infrastructure Law. This funding will help bring clean

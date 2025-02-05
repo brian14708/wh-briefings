@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-25'
 modified_time: 2021-08-25 09:09:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-takes-additional-steps-to-prevent-evictions-as-the-delivery-of-emergency-rental-assistance-continues-to-increase/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/25/fact-sheet-biden-administration-takes-additional-steps-to-prevent-evictions-as-the-delivery-of-emergency-rental-assistance-continues-to-increase/
 published_time: 2021-08-25 09:00:00-04:00
 title: "FACT SHEET: Biden Administration Takes Additional Steps to Prevent Evictions\
   \ as the Delivery of Emergency Rental Assistance Continues to\_Increase"
@@ -125,7 +125,7 @@ This new guidance builds on the work Treasury has  already done to make
 clear through past guidance on [May
 7](https://home.treasury.gov/system/files/136/FACT_SHEET-Emergency-Rental-Assistance-Program_May2021.pdf)
 and [June
-24](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+24](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
 and via presentations by Treasury and White House officials that
 grantees have significant flexibility to award ERA funds quickly by
 using simplified forms and allowing for self-attestation. This previous
@@ -189,7 +189,7 @@ eviction, including:
 -   **Continuing to spread awareness of available assistance through
     federal programs. **Following up from the [July 28<sup>th</sup> call
     to
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
     on ERA that reached tens of millions of households, government
     agencies continue to leverage their networks to spread the word
     about rental assistance. For example, HHS has distributed letters to
@@ -204,12 +204,12 @@ eviction, including:
     by the Biden Administration to help keep families in their homes. In
     addition to previous policy announcements on May 7 and June
     24<sup>th</sup>, this work includes White House-led summits in
-    [June](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/)
+    [June](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/)
     and
-    [July](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/)
+    [July](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/)
     focused on encouraging local action and collaboration to prevent
     evictions and a [July
-    28](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
+    28](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/28/fact-sheet-companies-non-profits-government-agencies-answer-biden-harris-call-make-combined-commitment-to-alert-tens-of-millions-of-americans-to-emergency-rental-assistance/)
     call to action that resulted in commitments from companies,
     non-profits, and government agencies to help alert families to the
     availability of emergency rental assistance. On August 11, Attorney

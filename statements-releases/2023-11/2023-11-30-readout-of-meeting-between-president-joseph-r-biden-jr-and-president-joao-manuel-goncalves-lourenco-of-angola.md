@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 17:21:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/readout-of-meeting-between-president-joseph-r-biden-jr-and-president-joao-manuel-goncalves-lourenco-of-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/readout-of-meeting-between-president-joseph-r-biden-jr-and-president-joao-manuel-goncalves-lourenco-of-angola/
 tags: statements-releases
 title: "Readout of Meeting Between President Joseph R. Biden, Jr. and President Jo\xE3\
   o Manuel Gon\xE7alves Louren\xE7o of\_Angola"

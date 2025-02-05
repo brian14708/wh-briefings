@@ -1,7 +1,7 @@
 ---
 date: '2022-06-26'
 published_time: 2022-06-26 06:23:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/readout-of-president-bidens-meeting-with-chancellor-olaf-scholz-of-germany-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/readout-of-president-bidens-meeting-with-chancellor-olaf-scholz-of-germany-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Chancellor Olaf Scholz of\_\
   Germany"

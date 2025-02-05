@@ -2,7 +2,7 @@
 date: '2022-09-12'
 modified_time: 2022-09-12 11:05:23-04:00
 published_time: 2022-09-12 11:05:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/president-biden-announces-twenty-third-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/president-biden-announces-twenty-third-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Twenty-Third Operation Fly Formula\_Mission"
 ---
@@ -42,14 +42,14 @@ consent agreement between the FDA and Abbott Nutrition to reopen the
 company’s Sturgis facility, and issuing FDA guidance so that major
 formula manufacturers can safely import formula that is not currently
 being produced for the U.S. market. Details of our actions can be found
-at [whitehouse.gov/formula](https://www.whitehouse.gov/Users/Adam.Friedlander/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/JHSFK5EH/whitehouse.gov/formula).
+at [whitehouse.gov/formula](https://bidenwhitehouse.archives.gov/Users/Adam.Friedlander/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/JHSFK5EH/whitehouse.gov/formula).
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png"
 class="wp-image-61075" loading="lazy"
 sizes="(max-width: 595px) 100vw, 595px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png 405w, https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png?resize=700,390 700w, https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png?resize=1400,780 1400w, https://www.whitehouse.gov/wp-content/uploads/2022/09/Formula-23.png?resize=1820,1014 1820w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png 405w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png?resize=700,390 700w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png?resize=1400,780 1400w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/09/Formula-23.png?resize=1820,1014 1820w"
 width="595" height="332" />
 </figure>
 

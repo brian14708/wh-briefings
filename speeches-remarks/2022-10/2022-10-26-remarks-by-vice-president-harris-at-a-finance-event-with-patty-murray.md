@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 published_time: 2022-10-26 19:48:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-vice-president-harris-at-a-finance-event-with-patty-murray/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-vice-president-harris-at-a-finance-event-with-patty-murray/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Finance Event with Patty\_Murray"
 ---

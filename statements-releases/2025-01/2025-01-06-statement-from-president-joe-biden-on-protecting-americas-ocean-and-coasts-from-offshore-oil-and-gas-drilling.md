@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-05 20:33:24-05:00
 published_time: 2025-01-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/statement-from-president-joe-biden-on-protecting-americas-ocean-and-coasts-from-offshore-oil-and-gas-drilling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/statement-from-president-joe-biden-on-protecting-americas-ocean-and-coasts-from-offshore-oil-and-gas-drilling/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Protecting America\u2019s Ocean and\
   \ Coasts from Offshore Oil and Gas\_Drilling"

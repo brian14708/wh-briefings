@@ -2,7 +2,7 @@
 date: '2024-02-01'
 modified_time: 2024-02-01 19:35:57-05:00
 published_time: 2024-02-01 19:35:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/01/readout-from-the-white-house-and-usdas-discussion-on-advancing-equity-and-opportunity-in-agriculture/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/01/readout-from-the-white-house-and-usdas-discussion-on-advancing-equity-and-opportunity-in-agriculture/
 tags: statements-releases
 title: "Readout from the White\_House and USDA\u2019s Discussion on Advancing Equity\
   \ and Opportunity in\_Agriculture"
@@ -22,7 +22,7 @@ updates on the Biden-Harris Administration’s work to uphold civil rights
 and promote equity, including in agriculture, through implementation of
 President Biden’s [Executive Order On Further Advancing Racial Equity
 and Support for Underserved Communities Through the Federal
-Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
+Government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/16/executive-order-on-further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/).
 U.S. Secretary of Agriculture Tom Vilsack then shared details on USDA’s
 vision for and concrete progress in promoting equity, supporting family
 farmers and ranchers, and ensuring that underserved groups and rural

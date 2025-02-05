@@ -1,7 +1,7 @@
 ---
 date: '2024-02-29'
 published_time: 2024-02-29 17:16:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/02/29/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-brownsville-tx/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/02/29/press-gaggle-by-principal-deputy-press-secretary-olivia-dalton-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-brownsville-tx/
 tags: press-briefings
 title: "Press Gaggle by Principal Deputy Press Secretary Olivia Dalton and Secretary\
   \ of Homeland Security Alejandro Mayorkas En Route Brownsville,\_TX"

@@ -2,7 +2,7 @@
 date: '2022-05-25'
 modified_time: 2022-05-25 17:50:23-04:00
 published_time: 2022-05-25 17:50:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/
 tags: presidential-actions
 title: "Executive Order on Advancing Effective, Accountable Policing and Criminal\
   \ Justice Practices to Enhance Public Trust and Public\_Safety"

@@ -2,7 +2,7 @@
 date: '2022-03-31'
 modified_time: 2022-03-31 11:32:15-04:00
 published_time: 2022-03-31 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/president-biden-announces-appointments-to-board-of-advisors-on-historically-black-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/31/president-biden-announces-appointments-to-board-of-advisors-on-historically-black-colleges-and-universities/
 tags: statements-releases
 title: "President\_Biden Announces Appointments to Board of Advisors on Historically\
   \ Black Colleges and\_Universities"
@@ -29,9 +29,9 @@ mission of HBCUs. Through the American Rescue Plan, grant funding, and
 by forgiving capital improvement debt of many these institutions, the
 Biden-Harris Administration has already committed more than [$5.8
 billion in
-support](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%E2%81%A0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/).
+support](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%E2%81%A0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/).
 [Reestablishing the White House HBCU
-Initiative](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/) –
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/) –
 and appointing qualified and diverse individuals to the Board – will
 allow the administration to build on that financial commitment with
 continued institutional support. 

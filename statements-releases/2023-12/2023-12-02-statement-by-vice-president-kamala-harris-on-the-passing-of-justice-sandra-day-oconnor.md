@@ -2,7 +2,7 @@
 date: '2023-12-02'
 modified_time: 2023-12-02 16:45:25-05:00
 published_time: 2023-12-02 16:45:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/statement-by-vice-president-kamala-harris-on-the-passing-of-justice-sandra-day-oconnor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/statement-by-vice-president-kamala-harris-on-the-passing-of-justice-sandra-day-oconnor/
 tags: statements-releases
 title: "Statement By Vice President Kamala\_Harris On The Passing Of Justice Sandra\
   \ Day\_O\u2019Connor"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-15'
 modified_time: 2022-03-15 14:49:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-commitments-to-advance-pay-equity-and-support-womens-economic-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/15/fact-sheet-biden-harris-administration-announces-commitments-to-advance-pay-equity-and-support-womens-economic-security/
 published_time: 2022-03-15 10:12:09-04:00
 title: "FACT SHEET: Biden Harris Administration Announces Commitments to Advance Pay\
   \ Equity and Support Women\u2019s Economic\_Security"
@@ -97,7 +97,7 @@ direct payments to individuals; expanding nutrition programs for
 families; providing paid leave tax credits for small and midsize
 employers; distributing the majority of emergency rental assistance to
 female-headed households; and expanding the [Child Tax
-Credit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/15/fact-sheet-biden-harris-administration-whole-of-government-effort-to-ensure-child-tax-credit-reaches-all-eligible-families/),
+Credit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/15/fact-sheet-biden-harris-administration-whole-of-government-effort-to-ensure-child-tax-credit-reaches-all-eligible-families/),
 which last year helped reduce child poverty to its estimated lowest
 level in recorded American history.
 
@@ -137,7 +137,7 @@ young children.
 • **Increased the minimum wage to $15 per hour for Federal workers
 and contractors, benefiting manywomen and people of color. **The
 President issued [Executive
-Orders](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/) directing
+Orders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/27/fact-sheet-biden-harris-administration-issues-an-executive-order-to-raise-the-minimum-wage-to-15-for-federal-contractors/) directing
 the Administration to work toward ensuring that employees working on
 federal contracts and federal employees earned a $15 per hour minimum
 wage. Those directives went into effect in January, raising the wages of
@@ -163,7 +163,7 @@ a focus on equitable workforce development using funding from the
 Bipartisan Infrastructure Law.
 
 • **Issued an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) to
 promote diversity, equity, inclusion, and accessibility across the
 federal government – the nation’s largest employer** – including by
 prioritizing efforts to close gender and racial wage gaps, address
@@ -171,7 +171,7 @@ workplace safety and harassment, including in our national security
 workforce, and advance equity for LGBTQI+ public servants.
 
 • **Issued an [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/) on
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/) on
 Promoting Competition in the American Economy. **This established the
 Administration’s policy of addressing [anticompetitive
 behavior](https://home.treasury.gov/system/files/136/State-of-Labor-Market-Competition-2022.pdf) in

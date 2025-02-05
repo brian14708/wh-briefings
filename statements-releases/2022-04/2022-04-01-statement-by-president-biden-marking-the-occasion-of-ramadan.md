@@ -2,7 +2,7 @@
 date: '2022-04-01'
 modified_time: 2022-04-01 12:40:21-04:00
 published_time: 2022-04-01 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/01/statement-by-president-biden-marking-the-occasion-of-ramadan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/01/statement-by-president-biden-marking-the-occasion-of-ramadan/
 tags: statements-releases
 title: "Statement by President\_Biden Marking the Occasion of\_Ramadan"
 ---

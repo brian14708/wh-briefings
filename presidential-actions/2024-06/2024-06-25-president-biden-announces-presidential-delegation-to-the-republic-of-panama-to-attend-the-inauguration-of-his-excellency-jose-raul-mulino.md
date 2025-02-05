@@ -2,7 +2,7 @@
 date: '2024-06-25'
 modified_time: 2024-06-25 15:11:41-04:00
 published_time: 2024-06-25 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/25/president-biden-announces-presidential-delegation-to-the-republic-of-panama-to-attend-the-inauguration-of-his-excellency-jose-raul-mulino/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/25/president-biden-announces-presidential-delegation-to-the-republic-of-panama-to-attend-the-inauguration-of-his-excellency-jose-raul-mulino/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Panama\
   \ to Attend the Inauguration of His Excellency Jos\xE9 Ra\xFAl\_Mulino"

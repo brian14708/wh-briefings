@@ -1,7 +1,7 @@
 ---
 date: '2022-11-13'
 published_time: 2022-11-13 15:04:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-bali-indonesia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-bali-indonesia/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Bali,\_Indonesia"

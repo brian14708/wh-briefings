@@ -2,7 +2,7 @@
 date: '2024-09-12'
 modified_time: 2024-09-11 21:45:57-04:00
 published_time: 2024-09-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/12/fact-sheet-biden-harris-administration-commemorates-the-30th-anniversary-of-the-violence-against-women-act-and-strengthens-commitment-to-ending-gender-based-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/12/fact-sheet-biden-harris-administration-commemorates-the-30th-anniversary-of-the-violence-against-women-act-and-strengthens-commitment-to-ending-gender-based-violence/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Commemorates the 30th Anniversary\
   \ of the Violence Against Women Act and Strengthens Commitment to Ending Gender-Based\_\
@@ -103,13 +103,13 @@ announcing the following new actions:
     disproportionately targeting women, children, and LGBTQI+ people and
     emerging as one of the fastest growing harmful uses of AI to date.
     Today, following the [Vice President’s
-    leadership](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-on-the-future-of-artificial-intelligence-london-united-kingdom/)
+    leadership](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-vice-president-harris-on-the-future-of-artificial-intelligence-london-united-kingdom/)
     in underscoring the urgent need to address deepfake image-based
     sexual abuse and the [White House Call to Action to Combat
     Image-Based Sexual
-    Abuse](https://www.whitehouse.gov/ostp/news-updates/2024/05/23/a-call-to-action-to-combat-image-based-sexual-abuse/),
+    Abuse](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/05/23/a-call-to-action-to-combat-image-based-sexual-abuse/),
     the Biden-Harris Administration is announcing a [set of voluntary
-    commitments](https://www.whitehouse.gov/ostp/news-updates/2024/09/12/white-house-announces-new-private-sector-voluntary-commitments-to-combat-image-based-sexual-abuse/)
+    commitments](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/09/12/white-house-announces-new-private-sector-voluntary-commitments-to-combat-image-based-sexual-abuse/)
     from AI model developers and data providers to curb the creation of
     image-based sexual abuse and proactively reduce the risk of new
     images from being generated without someone’s consent as well as
@@ -409,7 +409,7 @@ communities, and online.
 -   **Developing the first-ever U.S. National Plan to End Gender-Based
     Violence.** The White House issued the first-ever [U.S. National
     Plan to End Gender-Based
-    Violence](https://www.whitehouse.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf),
+    Violence](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/National-Plan-to-End-GBV.pdf),
     a comprehensive, government-wide plan to prevent and address sexual
     violence, intimate partner violence, stalking, and other forms of
     gender-based violence. The National Plan provides a framework for
@@ -421,7 +421,7 @@ communities, and online.
     harassment and abuse, the President established and the Vice
     President launched the [White House Task Force to Address Online
     Harassment and
-    Abuse](https://www.whitehouse.gov/wp-content/uploads/2024/05/White-House-Task-Force-to-Address-Online-Harassment-and-Abuse_FINAL.pdf),
+    Abuse](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/White-House-Task-Force-to-Address-Online-Harassment-and-Abuse_FINAL.pdf),
     which has coordinated comprehensive actions from more than a dozen
     federal agencies and supported a record investment of more than $36
     million in dedicated funding to address technology-facilitated
@@ -483,7 +483,7 @@ communities, and online.
     to earlier this year. Additionally, the United States relaunched the
     [North American Trilateral Working Group on Violence Against
     Indigenous Women and
-    Girls](https://www.whitehouse.gov/gpc/briefing-room/2022/07/27/report-on-the-fourth-convening-of-the-trilateral-working-group-on-violence-against-indigenous-women-and-girls/),
+    Girls](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2022/07/27/report-on-the-fourth-convening-of-the-trilateral-working-group-on-violence-against-indigenous-women-and-girls/),
     in collaboration with the governments of Canada and Mexico, and with
     the participation of Indigenous women leaders from all three
     countries.  
@@ -546,7 +546,7 @@ for those who met certain standards.
     technology-facilitated gender-based violence; and safety risks
     related to climate migration and displacement. Under this strategy,
     we secured the first-ever U.S.
-    [commitment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/)
+    [commitment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/11/fact-sheet-white-house-celebrates-international-day-of-the-girl-and-announces-new-actions-to-support-youth-in-the-u-s-and-abroad/)
     to the United Nations Global Programme to End Child Marriage and
     continued our long-standing commitment to the United Nations Joint
     Programme on the Elimination of Female Genital Mutilation.  
@@ -563,7 +563,7 @@ for those who met certain standards.
     Administration has since issued two sets of sanctions against
     perpetrators of conflict-related sexual violence around the globe,
     launched the [Dignity in Documentation
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/#:~:text=Preventing%20and%20responding%20to%20conflict,Biden%20and%20Vice%20President%20Harris.)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/#:~:text=Preventing%20and%20responding%20to%20conflict,Biden%20and%20Vice%20President%20Harris.)
     to provide support for efforts to investigate and document
     conflict-related sexual violence, and will support justice for
     survivors by promoting accountability for crimes punishable under

@@ -2,7 +2,7 @@
 date: '2023-09-08'
 modified_time: 2023-09-08 12:26:14-04:00
 published_time: 2023-09-08 12:26:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/08/a-proclamation-on-national-hispanic-serving-institutions-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/08/a-proclamation-on-national-hispanic-serving-institutions-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Hispanic-Serving Institutions Week,\_2023"
 ---

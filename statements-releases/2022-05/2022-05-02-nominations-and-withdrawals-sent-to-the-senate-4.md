@@ -2,7 +2,7 @@
 date: '2022-05-02'
 modified_time: 2022-05-02 16:44:30-04:00
 published_time: 2022-05-02 16:44:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/02/nominations-and-withdrawals-sent-to-the-senate-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/02/nominations-and-withdrawals-sent-to-the-senate-4/
 tags: statements-releases
 title: "Nominations and Withdrawal Sent to the\_Senate"
 ---

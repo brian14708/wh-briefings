@@ -2,7 +2,7 @@
 date: '2024-11-25'
 modified_time: 2024-11-25 15:50:36-05:00
 published_time: 2024-11-25 15:50:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-christmas-tree-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/25/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-christmas-tree-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2024 Christmas\
   \ Tree Arrival\_Ceremony"

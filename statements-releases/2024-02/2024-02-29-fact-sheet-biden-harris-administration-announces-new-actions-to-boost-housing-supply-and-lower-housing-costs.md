@@ -2,7 +2,7 @@
 date: '2024-02-29'
 modified_time: 2024-02-28 18:41:47-05:00
 published_time: 2024-02-29 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-biden-harris-administration-announces-new-actions-to-boost-housing-supply-and-lower-housing-costs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Boost\
   \ Housing Supply and Lower Housing\_Costs"
@@ -24,9 +24,9 @@ new actions that will:
 
 These actions fulfill and build upon the dozens of commitments in the
 White House [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
 and the [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf)
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights.pdf)
 that span the federal government. But more action is needed: the
 Administration will continue to lay out additional actions we are taking
 to lower housing costs and call on Congress to make the investments
@@ -209,7 +209,7 @@ is announcing several new actions:
     subsidized programs, are prohibited, and help ensure that tenants
     are not charged or penalized for impermissible fees. Last year,
     President Biden
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/)
     new private sector commitments to call out junk fees in the rental
     housing market, HUD Secretary Fudge issued an [open
     letter](https://www.hud.gov/press/press_releases_media_advisories/hud_no_23_048)

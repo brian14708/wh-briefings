@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 16:32:59-04:00
 published_time: 2022-08-09 16:31:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/09/memorandum-on-delegation-of-authority-under-sections-102-and-106-of-the-chips-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/09/memorandum-on-delegation-of-authority-under-sections-102-and-106-of-the-chips-act-of-2022/
 tags: presidential-actions
 title: "Memorandum on Delegation of Authority Under Sections 102 and 106 of the CHIPS\
   \ Act of\_2022"

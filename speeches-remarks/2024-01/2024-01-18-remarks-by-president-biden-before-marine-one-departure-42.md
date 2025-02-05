@@ -2,7 +2,7 @@
 date: '2024-01-18'
 modified_time: 2024-01-18 13:42:13-05:00
 published_time: 2024-01-18 13:42:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/18/remarks-by-president-biden-before-marine-one-departure-42/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/18/remarks-by-president-biden-before-marine-one-departure-42/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Marine One\_Departure"
 ---

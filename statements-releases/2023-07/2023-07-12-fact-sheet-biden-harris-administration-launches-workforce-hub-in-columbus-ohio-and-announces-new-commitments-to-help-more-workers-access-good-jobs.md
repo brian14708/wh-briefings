@@ -2,7 +2,7 @@
 date: '2023-07-12'
 modified_time: 2023-07-12 10:44:59-04:00
 published_time: 2023-07-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Launches Workforce Hub in Columbus,\
   \ Ohio and Announces New Commitments to Help More Workers Access Good\_Jobs"
@@ -16,7 +16,7 @@ city holds a kickoff for its Workforce Hub and announces plans to ensure
 students and workers have access to good-paying jobs created by
 President Biden’s Investing in America agenda. In May, the [Biden-Harris
 Administration named Columbus as one of five Workforce
-Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)—along
+Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/)—along
 with Pittsburgh, Augusta, Baltimore, and Phoenix—where historic
 legislation passed by President Biden, including the American Rescue
 Plan, the Bipartisan Infrastructure Law, the CHIPS and Science Act, and

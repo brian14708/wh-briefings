@@ -2,7 +2,7 @@
 date: '2022-08-09'
 modified_time: 2022-08-09 16:39:26-04:00
 published_time: 2022-08-09 15:08:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/president-biden-names-twenty-fifth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/09/president-biden-names-twenty-fifth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Twenty-Fifth Round of Judicial\_Nominees"
 ---

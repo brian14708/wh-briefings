@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:36:35-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-delivers-on-his-commitment-to-tribal-nations-and-native-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-delivers-on-his-commitment-to-tribal-nations-and-native-communities/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Delivers on His Commitment to Tribal\
   \ Nations and Native\_Communities"

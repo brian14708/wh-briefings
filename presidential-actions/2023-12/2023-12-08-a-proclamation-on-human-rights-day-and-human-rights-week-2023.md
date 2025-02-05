@@ -1,7 +1,7 @@
 ---
 date: '2023-12-08'
 published_time: 2023-12-08 12:30:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/08/a-proclamation-on-human-rights-day-and-human-rights-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/08/a-proclamation-on-human-rights-day-and-human-rights-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Human Rights Day and Human Rights Week,\_2023"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-25'
 published_time: 2024-01-25 12:02:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/statement-from-press-secretary-karine-jean-pierre-on-the-official-visit-of-prime-minister-kishida-fumio-and-mrs-kishida-yuko-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/statement-from-press-secretary-karine-jean-pierre-on-the-official-visit-of-prime-minister-kishida-fumio-and-mrs-kishida-yuko-of-japan/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Official Visit of\
   \ Prime Minister Kishida Fumio and Mrs. Kishida Yuko of\_Japan"

@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-27 11:21:19-04:00
 published_time: 2023-09-27 11:21:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/president-joseph-r-biden-jr-approves-louisiana-emergency-declaration-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/president-joseph-r-biden-jr-approves-louisiana-emergency-declaration-4/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Louisiana Emergency\_Declaration"
 ---

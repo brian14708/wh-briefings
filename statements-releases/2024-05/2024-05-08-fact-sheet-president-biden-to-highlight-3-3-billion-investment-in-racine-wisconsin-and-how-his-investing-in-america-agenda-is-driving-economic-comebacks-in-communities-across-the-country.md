@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-07 21:44:10-04:00
 published_time: 2024-05-08 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/08/fact-sheet-president-biden-to-highlight-3-3-billion-investment-in-racine-wisconsin-and-how-his-investing-in-america-agenda-is-driving-economic-comebacks-in-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/08/fact-sheet-president-biden-to-highlight-3-3-billion-investment-in-racine-wisconsin-and-how-his-investing-in-america-agenda-is-driving-economic-comebacks-in-communities-across-the-country/
 tags: statements-releases
 title: "Fact Sheet: President\_Biden to Highlight $3.3 Billion Investment in Racine,\
   \ Wisconsin, and How His Investing in America Agenda is Driving Economic Comebacks\
@@ -164,12 +164,12 @@ President Biden’s agenda is lowering costs for working families in
 Racine and across Wisconsin, including by:
 
 1.  Saving [426,000 Wisconsin
-    families](https://www.whitehouse.gov/wp-content/uploads/2024/01/Wisconsin-ACP-Fact-Sheet.pdf)
+    families](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/Wisconsin-ACP-Fact-Sheet.pdf)
     $30–75 per month on their internet bills thanks to the Affordable
     Connectivity Program, which Republicans in Congress need to extend
     this month so these families’ internet bills do not increase.  
 2.  Saving customers of a [Milwaukee-based utility
-    company](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/)
+    company](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/16/fact-sheet-one-year-in-president-bidens-inflation-reduction-act-is-driving-historic-climate-action-and-investing-in-america-to-create-good-paying-jobs-and-reduce-costs/)
     around $2 billion on utility bills thanks to an investment in clean
     energy.  
 3.  Saving 1.3 million Wisconsin Medicare beneficiaries money on
@@ -177,10 +177,10 @@ Racine and across Wisconsin, including by:
 4.  Saving 266,000 people in Wisconsin hundreds of dollars per year on
     health insurance.  
 5.  Canceling student debt for [44,000 borrowers in
-    Wisconsin](https://www.whitehouse.gov/wp-content/uploads/2024/04/Wisconsin-4.12.pdf),
+    Wisconsin](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Wisconsin-4.12.pdf),
     and announcing in Madison new plans to provide debt relief to [over
     30 million
-    Americans](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/).  
+    Americans](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/president-joe-biden-outlines-new-plans-to-deliver-student-debt-relief-to-over-30-million-americans-under-the-biden-harris-administration/).  
 6.  President Biden would lower housing costs by building more than 2
     million homes.
 

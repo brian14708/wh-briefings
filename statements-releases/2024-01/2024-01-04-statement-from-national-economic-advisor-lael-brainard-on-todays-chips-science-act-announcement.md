@@ -2,7 +2,7 @@
 date: '2024-01-04'
 modified_time: 2024-01-04 07:34:26-05:00
 published_time: 2024-01-04 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/04/statement-from-national-economic-advisor-lael-brainard-on-todays-chips-science-act-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/04/statement-from-national-economic-advisor-lael-brainard-on-todays-chips-science-act-announcement/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on Today\u2019s CHIPS\
   \ & Science Act\_Announcement"

@@ -2,7 +2,7 @@
 date: '2022-12-06'
 modified_time: 2022-12-06 18:31:30-05:00
 published_time: 2022-12-06 11:46:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/06/a-proclamation-on-national-pearl-harbor-remembrance-day-2022-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/06/a-proclamation-on-national-pearl-harbor-remembrance-day-2022-2022/
 tags: presidential-actions
 title: "A Proclamation on  National Pearl Harbor Remembrance Day,\_2022"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-02-23'
 published_time: 2024-02-23 15:29:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-governors-association-winter-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-national-governors-association-winter-meeting/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the National\
   \ Governors Association Winter\_Meeting"

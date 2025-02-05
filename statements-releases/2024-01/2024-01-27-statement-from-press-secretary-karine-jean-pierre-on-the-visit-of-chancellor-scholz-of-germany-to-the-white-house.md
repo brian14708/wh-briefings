@@ -2,7 +2,7 @@
 date: '2024-01-27'
 modified_time: 2024-01-26 20:31:34-05:00
 published_time: 2024-01-27 07:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/27/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-chancellor-scholz-of-germany-to-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/27/statement-from-press-secretary-karine-jean-pierre-on-the-visit-of-chancellor-scholz-of-germany-to-the-white-house/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Visit of Chancellor\
   \ Scholz of Germany to the White\_House"

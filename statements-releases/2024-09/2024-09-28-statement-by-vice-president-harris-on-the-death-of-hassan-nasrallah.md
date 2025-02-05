@@ -2,7 +2,7 @@
 date: '2024-09-28'
 modified_time: 2024-09-28 13:37:37-04:00
 published_time: 2024-09-28 13:37:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/28/statement-by-vice-president-harris-on-the-death-of-hassan-nasrallah/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/28/statement-by-vice-president-harris-on-the-death-of-hassan-nasrallah/
 tags: statements-releases
 title: "Statement by Vice President Harris on the Death of Hassan\_Nasrallah"
 ---

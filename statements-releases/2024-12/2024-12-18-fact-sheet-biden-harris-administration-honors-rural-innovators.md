@@ -2,7 +2,7 @@
 date: '2024-12-18'
 modified_time: 2024-12-19 17:10:18-05:00
 published_time: 2024-12-18 16:52:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/18/fact-sheet-biden-harris-administration-honors-rural-innovators/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/18/fact-sheet-biden-harris-administration-honors-rural-innovators/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Honors Rural\_Innovators"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-04-26'
 published_time: 2023-04-26 15:16:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/washington-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/washington-declaration-2/
 tags: statements-releases
 title: Washington Declaration
 ---

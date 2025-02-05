@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 20:19:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-in-san-francisco-president-biden-and-13-partners-announce-key-outcomes-to-fuel-inclusive-sustainable-growth-as-part-of-the-indo-pacific-economic-framework-for-prosperity/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-in-san-francisco-president-biden-and-13-partners-announce-key-outcomes-to-fuel-inclusive-sustainable-growth-as-part-of-the-indo-pacific-economic-framework-for-prosperity/
 tags: statements-releases
 title: "FACT SHEET: In San Francisco, President\_Biden and 13 Partners Announce Key\
   \ Outcomes to Fuel Inclusive, Sustainable Growth as Part of the Indo-Pacific Economic\

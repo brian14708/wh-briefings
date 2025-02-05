@@ -2,7 +2,7 @@
 date: '2023-06-16'
 modified_time: 2023-06-16 16:19:03-04:00
 published_time: 2023-06-16 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/statement-from-president-joe-biden-on-rob-flaherty/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/statement-from-president-joe-biden-on-rob-flaherty/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Rob\_Flaherty"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-12'
 published_time: 2023-09-12 11:13:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/12/statement-from-president-joe-biden-on-census-income-poverty-and-health-insurance-coverage-reports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/12/statement-from-president-joe-biden-on-census-income-poverty-and-health-insurance-coverage-reports/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Census Income, Poverty, and Health\
   \ Insurance Coverage\_Reports"

@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-08 13:16:17-04:00
 published_time: 2024-05-06 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/background-press-call-by-senior-administration-officials-on-the-third-ministerial-of-the-los-angeles-declaration-on-migration-and-protection-in-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/background-press-call-by-senior-administration-officials-on-the-third-ministerial-of-the-los-angeles-declaration-on-migration-and-protection-in-guatemala/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials on the Third Ministerial\
   \ of the Los Angeles Declaration on Migration and Protection in\_Guatemala"

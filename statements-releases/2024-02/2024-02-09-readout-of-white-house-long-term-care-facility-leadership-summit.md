@@ -1,7 +1,7 @@
 ---
 date: '2024-02-09'
 published_time: 2024-02-09 08:43:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/readout-of-white-house-long-term-care-facility-leadership-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/readout-of-white-house-long-term-care-facility-leadership-summit/
 tags: statements-releases
 title: "Readout of White\_House Long-Term Care Facility Leadership\_Summit"
 ---

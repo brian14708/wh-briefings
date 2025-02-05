@@ -1,7 +1,7 @@
 ---
 date: '2023-05-09'
 published_time: 2023-05-09 21:31:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/09/fact-sheet-actions-taken-by-the-biden-harris-administration-to-ensure-continued-covid-19-protections-and-surge-preparedness-after-public-health-emergency-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/09/fact-sheet-actions-taken-by-the-biden-harris-administration-to-ensure-continued-covid-19-protections-and-surge-preparedness-after-public-health-emergency-transition/
 tags: statements-releases
 title: "FACT SHEET: Actions Taken by the Biden-\u2060Harris Administration to Ensure\
   \ Continued COVID-\u206019 Protections and Surge Preparedness After Public Health\
@@ -156,7 +156,7 @@ place that will remain after the end of the PHE:
     Long COVID around a common agenda and accelerating efforts to better
     understand, diagnose, and treat Long COVID. The Administration has
     [invested over $1.1
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-the-biden-administration-accelerates-whole-of-government-effort-to-prevent-detect-and-treat-long-covid/)
     in Long COVID research, surveillance, and to promote evidence-based
     care models through the Agency for Healthcare Research and Quality
     (AHRQ). The Administration continues its support of Americans
@@ -175,7 +175,7 @@ place that will remain after the end of the PHE:
     $122 billion for schools in American Rescue Plan funding, and
     established the federal buildings portfolio as an exemplar of
     innovation. The Administration will continue to [lead by
-    example](https://www.whitehouse.gov/ostp/news-updates/2022/12/08/fact-sheet-departments-and-agencies-commit-to-cleaner-indoor-air-across-the-nation/),
+    example](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/12/08/fact-sheet-departments-and-agencies-commit-to-cleaner-indoor-air-across-the-nation/),
     working with industry partners on science-based guidance on how to
     improve indoor air quality in schools, workplaces, residential
     buildings, and healthcare facilities, and implementing a long-term

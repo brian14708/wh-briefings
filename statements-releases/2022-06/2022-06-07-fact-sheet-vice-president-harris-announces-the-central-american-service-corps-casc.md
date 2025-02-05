@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 05:04:23-04:00
 published_time: 2022-06-07 05:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-the-central-american-service-corps-casc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/fact-sheet-vice-president-harris-announces-the-central-american-service-corps-casc/
 tags: statements-releases
 title: "Fact Sheet: Vice President Harris Announces the Central American Service Corps\_\
   (CASC)"

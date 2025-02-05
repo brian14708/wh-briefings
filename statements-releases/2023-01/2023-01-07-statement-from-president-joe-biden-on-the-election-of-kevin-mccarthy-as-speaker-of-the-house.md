@@ -1,7 +1,7 @@
 ---
 date: '2023-01-07'
 published_time: 2023-01-07 00:50:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/07/statement-from-president-joe-biden-on-the-election-of-kevin-mccarthy-as-speaker-of-the-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/07/statement-from-president-joe-biden-on-the-election-of-kevin-mccarthy-as-speaker-of-the-house/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Election of Kevin McCarthy as Speaker\
   \ of the\_House"

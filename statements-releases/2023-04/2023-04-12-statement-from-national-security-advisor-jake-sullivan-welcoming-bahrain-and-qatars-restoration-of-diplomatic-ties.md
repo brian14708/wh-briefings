@@ -1,7 +1,7 @@
 ---
 date: '2023-04-12'
 published_time: 2023-04-12 19:31:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/statement-from-national-security-advisor-jake-sullivan-welcoming-bahrain-and-qatars-restoration-of-diplomatic-ties/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/statement-from-national-security-advisor-jake-sullivan-welcoming-bahrain-and-qatars-restoration-of-diplomatic-ties/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Welcoming Bahrain and\
   \ Qatar\u2019s Restoration of Diplomatic\_Ties"

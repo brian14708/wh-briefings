@@ -1,7 +1,7 @@
 ---
 date: '2022-04-20'
 published_time: 2022-04-20 16:32:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-update-on-the-collaborative-migration-management-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-update-on-the-collaborative-migration-management-strategy/
 tags: statements-releases
 title: "FACT SHEET:  Update on the Collaborative Migration Management\_Strategy"
 ---

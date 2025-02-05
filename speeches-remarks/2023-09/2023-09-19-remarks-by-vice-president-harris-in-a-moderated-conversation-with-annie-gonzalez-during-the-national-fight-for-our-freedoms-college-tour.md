@@ -1,7 +1,7 @@
 ---
 date: '2023-09-19'
 published_time: 2023-09-19 15:20:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-vice-president-harris-in-a-moderated-conversation-with-annie-gonzalez-during-the-national-fight-for-our-freedoms-college-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-vice-president-harris-in-a-moderated-conversation-with-annie-gonzalez-during-the-national-fight-for-our-freedoms-college-tour/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Annie Gonzalez\
   \ During the National \u201CFight for Our Freedoms\u201D College\_Tour"

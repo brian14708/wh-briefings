@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-27 12:39:52-04:00
 published_time: 2022-09-27 12:39:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/27/background-press-briefing-on-the-vice-presidents-meetings-in-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/27/background-press-briefing-on-the-vice-presidents-meetings-in-japan/
 tags: press-briefings
 title: "Background Press Briefing on the Vice President\u2019s Meetings in\_Japan"
 ---

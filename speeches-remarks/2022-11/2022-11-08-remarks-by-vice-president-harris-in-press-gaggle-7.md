@@ -2,7 +2,7 @@
 date: '2022-11-08'
 modified_time: 2022-11-08 16:55:33-05:00
 published_time: 2022-11-08 16:55:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/08/remarks-by-vice-president-harris-in-press-gaggle-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/08/remarks-by-vice-president-harris-in-press-gaggle-7/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press\_Gaggle"
 ---

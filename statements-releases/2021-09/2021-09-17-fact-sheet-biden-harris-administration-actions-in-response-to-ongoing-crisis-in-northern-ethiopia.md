@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-09-17'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/17/fact-sheet-biden-harris-administration-actions-in-response-to-ongoing-crisis-in-northern-ethiopia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/17/fact-sheet-biden-harris-administration-actions-in-response-to-ongoing-crisis-in-northern-ethiopia/
 published_time: 2021-09-17 07:19:07-04:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Actions in Response to Ongoing\
   \ Crisis in Northern\_Ethiopia"
@@ -102,7 +102,7 @@ Working with allies and partners, the United States is committed to
 supporting the Ethiopian government and the TPLF to negotiate a
 sustainable ceasefire and a peaceful resolution of the conflict.  At the
 Carbis Bay Summit in June, G7 leaders
-[urged](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/13/carbis-bay-g7-summit-communique/)
+[urged](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/13/carbis-bay-g7-summit-communique/)
 “an immediate cessation of hostilities” and pursuit of a peaceful
 resolution to the crisis.  In August, a majority of UN Security Council
 members publicly backed the Secretary-General’s call for the parties to
@@ -213,6 +213,6 @@ ceasefire.  Building peace will not be easy, but it can and must begin
 now with dialogue and by seeking unity in our common humanity.*
 
 [*President Biden, September 10,
-2021*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/10/statement-by-president-joseph-r-biden-jr-on-the-celebration-of-enkutatash/)
+2021*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/10/statement-by-president-joseph-r-biden-jr-on-the-celebration-of-enkutatash/)
 
 \###

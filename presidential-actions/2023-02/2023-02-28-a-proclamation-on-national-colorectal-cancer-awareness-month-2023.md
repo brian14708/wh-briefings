@@ -1,7 +1,7 @@
 ---
 date: '2023-02-28'
 published_time: 2023-02-28 14:33:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/28/a-proclamation-on-national-colorectal-cancer-awareness-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/28/a-proclamation-on-national-colorectal-cancer-awareness-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Colorectal Cancer Awareness Month,\_2023"
 ---

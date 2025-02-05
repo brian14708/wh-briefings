@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 08:09:48-05:00
 published_time: 2023-12-22 08:09:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/
 tags: presidential-actions
 title: "A Proclamation on Granting Pardon for the Offense of Simple Possession of\
   \ Marijuana, Attempted Simple Possession of Marijuana, or Use of\_Marijuana"

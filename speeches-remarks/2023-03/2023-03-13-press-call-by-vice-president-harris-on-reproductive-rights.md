@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 21:35:53-04:00
 published_time: 2023-03-13 21:35:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/13/press-call-by-vice-president-harris-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/13/press-call-by-vice-president-harris-on-reproductive-rights/
 tags: speeches-remarks
 title: "Press Call By Vice President Harris on Reproductive\_Rights"
 ---

@@ -2,7 +2,7 @@
 date: '2023-10-16'
 modified_time: 2023-10-16 20:01:12-04:00
 published_time: 2023-10-16 20:01:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/readout-of-president-joseph-r-biden-jr-call-with-president-abdel-fattah-el-sisi-of-egypt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/readout-of-president-joseph-r-biden-jr-call-with-president-abdel-fattah-el-sisi-of-egypt/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr. Call with President Abdel Fattah\
   \ El-Sisi of\_Egypt"

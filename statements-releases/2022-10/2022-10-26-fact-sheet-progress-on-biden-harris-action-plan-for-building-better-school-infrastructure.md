@@ -2,7 +2,7 @@
 date: '2022-10-26'
 modified_time: 2022-10-26 09:13:00-04:00
 published_time: 2022-10-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/26/fact-sheet-progress-on-biden-harris-action-plan-for-building-better-school-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/26/fact-sheet-progress-on-biden-harris-action-plan-for-building-better-school-infrastructure/
 tags: statements-releases
 title: "FACT SHEET: Progress on Biden-\u2060Harris Action Plan for Building Better\
   \ School\_Infrastructure"
@@ -13,7 +13,7 @@ Billion from Bipartisan Infrastructure Law for Clean School Buses*
 
 Today, Vice President Harris will provide a six-month progress report on
 the [Biden-⁠Harris Action Plan for Building Better School
-Infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
+Infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
 outlining a series of actions from across the Administration to upgrade
 our public schools with healthy, safe, sustainable facilities and
 transportation. In Seattle, Washington today, Vice President Harris and

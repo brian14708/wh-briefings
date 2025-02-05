@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-18'
 modified_time: 2022-02-18 17:08:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/18/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/18/letter-to-the-speaker-of-the-house-of-representatives-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-concerning-the-coronavirus-disease-2019-covid-19-pandemic/
 published_time: 2022-02-18 17:06:53-05:00
 title: "Letter to the Speaker of the House of Representatives and President of the\
   \ Senate on the Continuation of the National Emergency Concerning the Coronavirus\

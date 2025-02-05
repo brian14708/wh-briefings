@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-21 16:12:04-04:00
 published_time: 2023-04-21 16:12:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/a-proclamation-on-national-crime-victims-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/21/a-proclamation-on-national-crime-victims-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Crime Victims\u2019 Week,\_2023"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-16'
 published_time: 2024-06-16 20:40:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/16/statement-by-vice-president-kamala-harris-on-the-occasion-of-eid-al-adha/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/16/statement-by-vice-president-kamala-harris-on-the-occasion-of-eid-al-adha/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris on the Occasion of Eid\_al-Adha"
 ---

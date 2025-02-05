@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 14:20:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/u-s-pacific-islands-forum-leaders-statement-on-reaffirming-u-s-pacific-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/u-s-pacific-islands-forum-leaders-statement-on-reaffirming-u-s-pacific-partnership/
 tags: statements-releases
 title: "U.S.-Pacific Islands Forum Leaders Statement on Reaffirming U.S.-Pacific\_\
   Partnership"

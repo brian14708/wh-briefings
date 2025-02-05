@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 16:28:46-04:00
 published_time: 2022-08-26 16:28:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/26/biden-harris-administration-announces-the-application-period-for-spring-session-of-the-white-house-internship-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/26/biden-harris-administration-announces-the-application-period-for-spring-session-of-the-white-house-internship-program/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Spring\
   \ Session of the White\_House Internship\_Program"

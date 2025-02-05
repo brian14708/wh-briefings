@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-02-10'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/10/prices-week-fact-sheet-the-biden-harris-plan-to-boost-the-capacity-of-the-economy-and-lower-costs-for-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/10/prices-week-fact-sheet-the-biden-harris-plan-to-boost-the-capacity-of-the-economy-and-lower-costs-for-working-families/
 published_time: 2022-02-10 11:10:12-05:00
 title: "PRICES WEEK FACT SHEET: The Biden-\u2060Harris Plan to Boost the Capacity\
   \ of the Economy and Lower Costs for Working\_Families"
@@ -51,11 +51,11 @@ American infrastructure, so we can make more here at home and move goods
 more efficiently and reliably through the economy. In February, the
 President issued an Executive Order to strengthen our supply chains, and
 in June established the [Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
 to bring a whole-of-government approach to addressing the immediate
 disruptions linked to the global pandemic. The [President Biden’s
 historic Bipartisan Infrastructure
-Law](https://www.whitehouse.gov/bipartisan-infrastructure-law/) will
+Law](https://bidenwhitehouse.archives.gov/bipartisan-infrastructure-law/) will
 provide the funding needed to close vulnerabilities and improve
 efficiency at our ports, roads, waterways, and railroads.  The
 Administration is focused on addressing challenges and boosting capacity
@@ -71,9 +71,9 @@ in three key sectors: transportation, semiconductors, and agriculture.
     shelves were well stocked for the record-breaking holiday season and
     97 to 99 percent of consumers received their packages on time or
     with minimal delays. The Administration’s [Ports Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
     and a [Trucking Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/)
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/)
     are helping American port operators move a record amount of goods
     from ships to shelves as quickly as possible and connect more
     Americans to good jobs in the trucking industry. And by investing in
@@ -83,7 +83,7 @@ in three key sectors: transportation, semiconductors, and agriculture.
       
 -   In **the** **semiconductor sector**, the Administration is [working
     to expand U.S. chip manufacturing
-    capacity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/),
+    capacity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america-2/),
     bring back American manufacturing jobs, address the chip shortage,
     and ensure we are not exposed to these disruptions again. Auto
     inflation – caused in part by the global semiconductor shortage –
@@ -99,7 +99,7 @@ in three key sectors: transportation, semiconductors, and agriculture.
 -   In **the agriculture and meat processing sector**, the
     Administration is providing financing to [expand independent food
     processing capacity and support
-    workers](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/);
+    workers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/03/fact-sheet-the-biden-harris-action-plan-for-a-fairer-more-competitive-and-more-resilient-meat-and-poultry-supply-chain/);
     strengthening rules that protect farmers, ranchers, and consumers;
     and expanding access to affordable, high-quality food for those in
     need, including in
@@ -133,7 +133,7 @@ and more.  President Biden is focused on promoting competition to make
 our economy more productive, boost growth and innovation, and generate
 lower prices and more options for consumers. In July, the President
 [signed a historic Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
 establishing a whole-of-government effort to boost competition in the
 American economy. The Order includes 72 initiatives by more than a dozen
 federal agencies to promptly tackle some of the most pressing

@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-25 11:28:34-05:00
 published_time: 2024-01-25 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/white-house-announces-new-actions-to-promote-safe-storage-of-firearms/
 tags: statements-releases
 title: "White\_House Announces New Actions to Promote Safe Storage of\_Firearms"
 ---
@@ -10,7 +10,7 @@ title: "White\_House Announces New Actions to Promote Safe Storage of\_Firearms"
 Today, the Biden-Harris Administration is announcing new executive
 actions to help promote safe storage of firearms that implement
 President Biden’s [Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/) on
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/fact-sheet-president-biden-announces-new-actions-to-reduce-gun-violence-and-make-our-communities-safer/) on
 promoting safe gun storage in order to reduce gun violence and make our
 communities safer.
 
@@ -83,7 +83,7 @@ actions to help further promote safe storage and protect children:
     more people to take preventive action by safely storing firearms.
 -   The U.S. Department of Justice (DOJ) will release [a guide to safe
     storage of
-    firearms](https://www.whitehouse.gov/wp-content/uploads/2024/01/DOJ-Safe-Firearm-Storage-Guide.pdf) in
+    firearms](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/DOJ-Safe-Firearm-Storage-Guide.pdf) in
     order to provide subject matter expertise on different types of
     storage devices and best practices for safely storing firearms. This
     is the most comprehensive guide on safe storage ever released by the
@@ -105,7 +105,7 @@ These new actions build on the Biden-Harris Administration’s commitment
 to promoting safe storage of firearms, including:
 
 -   The Administration’s [launch of an unprecedented
-    focus](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/) on
+    focus](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/) on
     lethal means safety in the White House strategy to reduce military
     and veteran suicide, with the Department of Veterans Affairs (VA)
     also launching the first of its kind paid media
@@ -159,7 +159,7 @@ In December, Vice President Harris, the Office of Gun Violence
 Prevention and the Office of Intergovernmental Affairs convened 100
 state legislators to announce the Biden-Harris Administration’s [Safer
 States
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/) to
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-vice-president-harris-launches-the-biden-harris-administration-safer-states-initiative-highlights-new-executive-actions-to-reduce-gun-violence/) to
 reduce gun violence and save lives. The Administration urged states to
 enact and implement strong laws requiring firearms owners to safely
 store their firearms in their homes and vehicles. The laws should impose

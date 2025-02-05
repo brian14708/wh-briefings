@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 12:32:45-04:00
 published_time: 2022-06-06 12:32:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-transformers-and-electric-power-grid-components/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-transformers-and-electric-power-grid-components/
 tags: statements-releases
 title: "Memorandum on Presidential Determination Pursuant to  Section 303 of the Defense\
   \ Production Act of 1950, as amended, on Transformers and Electric Power Grid\_\

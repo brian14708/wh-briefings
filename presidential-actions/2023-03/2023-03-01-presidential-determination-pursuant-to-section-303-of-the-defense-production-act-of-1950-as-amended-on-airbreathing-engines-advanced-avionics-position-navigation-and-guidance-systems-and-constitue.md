@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 11:53:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/01/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-airbreathing-engines-advanced-avionics-position-navigation-and-guidance-systems-and-constitue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/01/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-airbreathing-engines-advanced-avionics-position-navigation-and-guidance-systems-and-constitue/
 tags: presidential-actions
 title: "Presidential Determination Pursuant to Section 303 of the Defense Production\
   \ Act of 1950, as amended, on Airbreathing Engines, Advanced Avionics Position Navigation\

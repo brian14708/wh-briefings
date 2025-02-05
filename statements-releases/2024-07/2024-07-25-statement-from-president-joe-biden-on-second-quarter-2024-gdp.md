@@ -2,7 +2,7 @@
 date: '2024-07-25'
 modified_time: 2024-07-25 09:18:15-04:00
 published_time: 2024-07-25 09:18:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/25/statement-from-president-joe-biden-on-second-quarter-2024-gdp/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/25/statement-from-president-joe-biden-on-second-quarter-2024-gdp/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Second Quarter 2024\_GDP"
 ---

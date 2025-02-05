@@ -1,7 +1,7 @@
 ---
 date: '2022-04-22'
 published_time: 2022-04-22 16:48:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/statement-on-national-security-advisor-jake-sullivan-meeting-with-secretary-gustavo-beliz-of-argentina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/statement-on-national-security-advisor-jake-sullivan-meeting-with-secretary-gustavo-beliz-of-argentina/
 tags: statements-releases
 title: "Statement on National Security Advisor Jake Sullivan meeting with Secretary\
   \ Gustavo Beliz of\_Argentina"

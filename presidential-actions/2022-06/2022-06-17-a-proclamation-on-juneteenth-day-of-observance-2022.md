@@ -1,7 +1,7 @@
 ---
 date: '2022-06-17'
 published_time: 2022-06-17 10:00:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/17/a-proclamation-on-juneteenth-day-of-observance-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/17/a-proclamation-on-juneteenth-day-of-observance-2022/
 tags: presidential-actions
 title: "A Proclamation on Juneteenth Day of Observance,\_2022"
 ---

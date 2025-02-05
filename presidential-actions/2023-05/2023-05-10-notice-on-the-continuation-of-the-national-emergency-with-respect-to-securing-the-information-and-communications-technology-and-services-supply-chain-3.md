@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 12:04:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/10/notice-on-the-continuation-of-the-national-emergency-with-respect-to-securing-the-information-and-communications-technology-and-services-supply-chain-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Securing\
   \ the Information and Communications Technology and Services Supply\_Chain"

@@ -2,7 +2,7 @@
 date: '2023-01-11'
 modified_time: 2023-01-10 12:56:56-05:00
 published_time: 2023-01-11 06:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/11/statement-from-president-joe-biden-on-hanwha-q-cells-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/11/statement-from-president-joe-biden-on-hanwha-q-cells-announcement/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Hanwha Q CELLS\_Announcement"
 ---

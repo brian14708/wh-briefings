@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-22 13:20:57-04:00
 published_time: 2022-04-21 22:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-president-biden-at-a-democratic-national-committee-fundraiser-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-president-biden-at-a-democratic-national-committee-fundraiser-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee\_Fundraiser"
 ---

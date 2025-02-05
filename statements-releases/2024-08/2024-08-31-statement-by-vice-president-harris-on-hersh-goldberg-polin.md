@@ -2,7 +2,7 @@
 date: '2024-08-31'
 modified_time: 2024-08-31 23:55:11-04:00
 published_time: 2024-08-31 23:55:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/31/statement-by-vice-president-harris-on-hersh-goldberg-polin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/31/statement-by-vice-president-harris-on-hersh-goldberg-polin/
 tags: statements-releases
 title: Statement by Vice President Harris on Hersh Goldberg-Polin
 ---

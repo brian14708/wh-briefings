@@ -1,7 +1,7 @@
 ---
 date: '2023-03-03'
 published_time: 2023-03-03 10:22:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/03/readout-of-national-security-council-event-recognizing-the-contributions-of-veterans-and-volunteers-to-operation-allies-welcome/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/03/readout-of-national-security-council-event-recognizing-the-contributions-of-veterans-and-volunteers-to-operation-allies-welcome/
 tags: statements-releases
 title: "Readout of National Security\_Council\_Event Recognizing the Contributions\
   \ of Veterans and Volunteers to Operation Allies Welcome"

@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-26 21:17:52-05:00
 published_time: 2024-11-26 21:17:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/26/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-confederated-tribes-of-the-colville-reservation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/26/president-joseph-r-biden-jr-approves-major-disaster-declaration-for-the-confederated-tribes-of-the-colville-reservation/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Major Disaster Declaration for the\
   \ Confederated Tribes of the Colville\_Reservation"

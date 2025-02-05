@@ -2,7 +2,7 @@
 date: '2023-11-09'
 modified_time: 2023-11-09 13:46:40-05:00
 published_time: 2023-11-09 13:46:39-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/09/a-proclamation-on-national-apprenticeship-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/09/a-proclamation-on-national-apprenticeship-week-2023/
 tags: presidential-actions
 title: "A Proclamation on National Apprenticeship Week,\_2023"
 ---

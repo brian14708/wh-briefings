@@ -1,7 +1,7 @@
 ---
 tags: press-briefings
 date: '2022-03-15'
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/03/15/background-press-call-by-senior-administration-officials-on-covid-response-and-funding-needs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/03/15/background-press-call-by-senior-administration-officials-on-covid-response-and-funding-needs/
 published_time: 2022-03-15 12:56:27-04:00
 title: "Background Press Call by Senior Administration Officials on COVID Response\
   \ and Funding\_Needs"

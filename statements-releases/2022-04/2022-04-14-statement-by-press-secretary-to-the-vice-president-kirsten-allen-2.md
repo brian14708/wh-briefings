@@ -1,7 +1,7 @@
 ---
 date: '2022-04-14'
 published_time: 2022-04-14 21:01:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/statement-by-press-secretary-to-the-vice-president-kirsten-allen-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/14/statement-by-press-secretary-to-the-vice-president-kirsten-allen-2/
 tags: statements-releases
 title: "Statement by Press Secretary to the Vice President Kirsten\_Allen"
 ---

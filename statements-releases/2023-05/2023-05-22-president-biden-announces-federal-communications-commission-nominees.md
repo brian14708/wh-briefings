@@ -1,7 +1,7 @@
 ---
 date: '2023-05-22'
 published_time: 2023-05-22 11:35:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/president-biden-announces-federal-communications-commission-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/president-biden-announces-federal-communications-commission-nominees/
 tags: statements-releases
 title: "President\_Biden Announces Federal Communications Commission\_Nominees"
 ---

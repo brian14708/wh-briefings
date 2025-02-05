@@ -1,7 +1,7 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 23:57:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/11/remarks-by-president-biden-in-a-virtual-reception-for-representative-lisa-blunt-rochester/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/11/remarks-by-president-biden-in-a-virtual-reception-for-representative-lisa-blunt-rochester/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in a Virtual Reception for Representative Lisa\
   \ Blunt\_Rochester"

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-01'
 published_time: 2024-10-01 00:14:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/01/a-proclamation-on-national-youth-justice-action-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/01/a-proclamation-on-national-youth-justice-action-month-2024/
 tags: presidential-actions
 title: "A Proclamation on National Youth Justice Action Month,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2023-08-03'
 modified_time: 2023-08-03 16:57:03-04:00
 published_time: 2023-08-03 16:56:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/03/remarks-by-vice-president-harris-on-efforts-to-invest-in-high-speed-internet-boost-domestic-manufacturing-and-create-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/03/remarks-by-vice-president-harris-on-efforts-to-invest-in-high-speed-internet-boost-domestic-manufacturing-and-create-jobs/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Efforts to Invest in High-Speed Internet,\
   \ Boost Domestic Manufacturing, and Create\_Jobs"

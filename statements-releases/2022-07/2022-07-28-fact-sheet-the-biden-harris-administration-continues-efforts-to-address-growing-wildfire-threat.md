@@ -1,7 +1,7 @@
 ---
 date: '2022-07-28'
 published_time: 2022-07-28 14:08:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/28/fact-sheet-the-biden-harris-administration-continues-efforts-to-address-growing-wildfire-threat/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Continues Efforts to Address\
   \ Growing Wildfire\_Threat"
@@ -26,7 +26,7 @@ research to keep Americans safe.
 President Biden has directed his Cabinet officials, White House Homeland
 Security team, and the National Climate Task Force to build on [his 2021
 wildfire
-initiatives](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
+initiatives](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/)
 this year by ensuring wildfire prevention, preparedness, and response is
 a top priority, and bringing a whole-of-government approach to
 increasing our Nation’s resilience to catastrophic wildfires. 

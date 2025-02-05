@@ -2,7 +2,7 @@
 date: '2022-04-12'
 modified_time: 2022-04-12 19:31:19-04:00
 published_time: 2022-04-12 19:31:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/12/remarks-by-vice-president-harris-on-the-administrations-historic-commitment-to-worker-organizing-and-empowerment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/12/remarks-by-vice-president-harris-on-the-administrations-historic-commitment-to-worker-organizing-and-empowerment/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Administration\u2019s Historic Commitment\
   \ to Worker Organizing and\_Empowerment"

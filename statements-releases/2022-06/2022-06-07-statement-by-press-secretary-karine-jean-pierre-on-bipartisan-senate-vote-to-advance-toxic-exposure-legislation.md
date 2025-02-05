@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 13:31:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/statement-by-press-secretary-karine-jean-pierre-on-bipartisan-senate-vote-to-advance-toxic-exposure-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/statement-by-press-secretary-karine-jean-pierre-on-bipartisan-senate-vote-to-advance-toxic-exposure-legislation/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on Bipartisan Senate Vote\
   \ to Advance Toxic Exposure\_Legislation"

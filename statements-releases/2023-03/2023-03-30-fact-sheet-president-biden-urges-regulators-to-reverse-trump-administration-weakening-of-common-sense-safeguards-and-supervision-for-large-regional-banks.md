@@ -2,7 +2,7 @@
 date: '2023-03-30'
 modified_time: 2023-03-30 13:49:37-04:00
 published_time: 2023-03-30 13:49:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-president-biden-urges-regulators-to-reverse-trump-administration-weakening-of-common-sense-safeguards-and-supervision-for-large-regional-banks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-president-biden-urges-regulators-to-reverse-trump-administration-weakening-of-common-sense-safeguards-and-supervision-for-large-regional-banks/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Urges Regulators to Reverse Trump Administration\
   \ Weakening of Common-Sense Safeguards and Supervision for Large Regional\_Banks"

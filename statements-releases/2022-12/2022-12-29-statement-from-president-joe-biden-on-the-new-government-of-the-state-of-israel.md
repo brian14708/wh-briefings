@@ -2,7 +2,7 @@
 date: '2022-12-29'
 modified_time: 2022-12-29 13:04:51-05:00
 published_time: 2022-12-29 13:04:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/29/statement-from-president-joe-biden-on-the-new-government-of-the-state-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/29/statement-from-president-joe-biden-on-the-new-government-of-the-state-of-israel/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the New Government of the State\_of\_\
   Israel"

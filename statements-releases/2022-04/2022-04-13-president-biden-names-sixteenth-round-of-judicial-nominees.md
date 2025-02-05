@@ -1,7 +1,7 @@
 ---
 date: '2022-04-13'
 published_time: 2022-04-13 08:41:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/president-biden-names-sixteenth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/president-biden-names-sixteenth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Sixteenth Round of Judicial\_Nominees"
 ---

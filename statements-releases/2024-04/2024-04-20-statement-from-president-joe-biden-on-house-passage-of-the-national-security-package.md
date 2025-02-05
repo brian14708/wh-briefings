@@ -2,7 +2,7 @@
 date: '2024-04-20'
 modified_time: 2024-04-20 14:13:34-04:00
 published_time: 2024-04-20 14:13:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/20/statement-from-president-joe-biden-on-house-passage-of-the-national-security-package/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/20/statement-from-president-joe-biden-on-house-passage-of-the-national-security-package/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on House Passage of the National Security\_\
   Package"

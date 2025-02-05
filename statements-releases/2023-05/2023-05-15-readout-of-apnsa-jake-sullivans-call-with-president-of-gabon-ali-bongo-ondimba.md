@@ -2,7 +2,7 @@
 date: '2023-05-15'
 modified_time: 2023-05-15 18:58:34-04:00
 published_time: 2023-05-15 18:58:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/15/readout-of-apnsa-jake-sullivans-call-with-president-of-gabon-ali-bongo-ondimba/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/15/readout-of-apnsa-jake-sullivans-call-with-president-of-gabon-ali-bongo-ondimba/
 tags: statements-releases
 title: "Readout of APNSA Jake Sullivan\u2019s Call with President of Gabon Ali Bongo\_\
   Ondimba"

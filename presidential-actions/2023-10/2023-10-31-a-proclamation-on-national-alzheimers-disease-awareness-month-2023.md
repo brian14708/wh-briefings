@@ -1,7 +1,7 @@
 ---
 date: '2023-10-31'
 published_time: 2023-10-31 14:53:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-national-alzheimers-disease-awareness-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/31/a-proclamation-on-national-alzheimers-disease-awareness-month-2023/
 tags: presidential-actions
 title: "A Proclamation on National Alzheimer\u2019s Disease Awareness Month,\_2023"
 ---

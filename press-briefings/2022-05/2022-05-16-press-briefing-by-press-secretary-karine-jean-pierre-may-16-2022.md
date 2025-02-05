@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 19:39:24-04:00
 published_time: 2022-05-16 19:39:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/16/press-briefing-by-press-secretary-karine-jean-pierre-may-16-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/16/press-briefing-by-press-secretary-karine-jean-pierre-may-16-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre,\_May\_16,\_2022"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-18'
 published_time: 2022-04-18 20:23:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-vice-president-harris-advances-national-security-norms-in-space/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-vice-president-harris-advances-national-security-norms-in-space/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Advances National Security Norms in\_Space"
 ---
@@ -19,7 +19,7 @@ together in establishing this as a norm, making the case that such
 efforts benefit all nations. 
 
 At the Biden-Harris Administration’s first National Space
-Council [meeting](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/12/01/remarks-by-vice-president-harris-before-the-administrations-inaugural-national-space-council-meeting/) in
+Council [meeting](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/12/01/remarks-by-vice-president-harris-before-the-administrations-inaugural-national-space-council-meeting/) in
 December, Vice President Harris tasked the National Security
 Council staff to work with the Department of Defense, the Department of
 State, and other national security agencies to develop proposals for

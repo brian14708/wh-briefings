@@ -1,7 +1,7 @@
 ---
 date: '2022-07-22'
 published_time: 2022-07-22 13:34:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/22/statement-from-president-biden-on-the-attack-against-congressman-zeldin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/22/statement-from-president-biden-on-the-attack-against-congressman-zeldin/
 tags: statements-releases
 title: "Statement from President\_Biden on the Attack Against Congressman\_Zeldin"
 ---

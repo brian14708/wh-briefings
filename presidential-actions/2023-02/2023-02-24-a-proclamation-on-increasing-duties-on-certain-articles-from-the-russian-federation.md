@@ -2,7 +2,7 @@
 date: '2023-02-24'
 modified_time: 2023-02-24 08:51:19-05:00
 published_time: 2023-02-24 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/02/24/a-proclamation-on-increasing-duties-on-certain-articles-from-the-russian-federation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/02/24/a-proclamation-on-increasing-duties-on-certain-articles-from-the-russian-federation/
 tags: presidential-actions
 title: "A Proclamation on Increasing Duties on Certain Articles from the Russian\_\
   Federation"

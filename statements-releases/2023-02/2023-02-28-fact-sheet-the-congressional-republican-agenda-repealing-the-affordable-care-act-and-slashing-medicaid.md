@@ -2,7 +2,7 @@
 date: '2023-02-28'
 modified_time: 2023-02-27 21:27:55-05:00
 published_time: 2023-02-28 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/fact-sheet-the-congressional-republican-agenda-repealing-the-affordable-care-act-and-slashing-medicaid/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/28/fact-sheet-the-congressional-republican-agenda-repealing-the-affordable-care-act-and-slashing-medicaid/
 tags: statements-releases
 title: "FACT SHEET: The Congressional Republican Agenda: Repealing the Affordable\
   \ Care Act and Slashing\_Medicaid"
@@ -12,7 +12,7 @@ Speaker McCarthy and congressional Republicans have [committed to
 balance the
 budget](https://www.bloomberg.com/news/articles/2023-02-15/republicans-balanced-budget-aim-clashes-with-fiscal-realities)
 while adding [$3 trillion or
-more](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/)
+more](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/)
 to the deficit through tax cuts skewed to the wealthy and large
 corporations. As a matter of simple math, that requires [trillions in
 program
@@ -166,7 +166,7 @@ making deep cuts to Medicaid:**
     manage their costs, as
     [many](https://www.kff.org/medicaid/issue-brief/trends-in-state-medicaid-programs-looking-back-and-looking-ahead/)
     states have done during recessions.
-    [Research](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-protecting-seniors-and-people-with-disabilities-by-improving-safety-and-quality-of-care-in-the-nations-nursing-homes/)
+    [Research](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-protecting-seniors-and-people-with-disabilities-by-improving-safety-and-quality-of-care-in-the-nations-nursing-homes/)
     shows that when nursing homes are paid less, residents get worse
     care.
 

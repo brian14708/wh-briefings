@@ -2,7 +2,7 @@
 date: '2023-11-01'
 modified_time: 2023-11-02 10:54:16-04:00
 published_time: 2023-11-01 22:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-president-biden-on-how-bidenomics-and-his-investing-in-america-agenda-are-ensuring-rural-americans-do-not-have-to-leave-their-hometowns-to-find-opportunity-northfield-mn/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/01/remarks-by-president-biden-on-how-bidenomics-and-his-investing-in-america-agenda-are-ensuring-rural-americans-do-not-have-to-leave-their-hometowns-to-find-opportunity-northfield-mn/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on How Bidenomics and His Investing in America\
   \ Agenda are Ensuring Rural Americans Do Not Have to Leave Their Hometowns to Find\

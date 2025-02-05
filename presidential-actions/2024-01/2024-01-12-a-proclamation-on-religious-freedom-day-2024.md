@@ -1,7 +1,7 @@
 ---
 date: '2024-01-12'
 published_time: 2024-01-12 11:58:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-religious-freedom-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/12/a-proclamation-on-religious-freedom-day-2024/
 tags: presidential-actions
 title: "A Proclamation on Religious Freedom Day,\_2024"
 ---

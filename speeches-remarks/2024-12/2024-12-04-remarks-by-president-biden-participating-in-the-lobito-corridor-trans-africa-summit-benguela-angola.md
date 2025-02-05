@@ -2,7 +2,7 @@
 date: '2024-12-04'
 modified_time: 2024-12-04 17:53:03-05:00
 published_time: 2024-12-04 17:53:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/04/remarks-by-president-biden-participating-in-the-lobito-corridor-trans-africa-summit-benguela-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/04/remarks-by-president-biden-participating-in-the-lobito-corridor-trans-africa-summit-benguela-angola/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Participating in the Lobito Corridor Trans-Africa\
   \ Summit | Benguela,\_Angola"

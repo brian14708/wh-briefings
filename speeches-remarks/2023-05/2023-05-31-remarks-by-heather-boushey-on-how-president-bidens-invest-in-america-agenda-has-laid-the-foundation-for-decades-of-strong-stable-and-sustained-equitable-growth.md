@@ -2,7 +2,7 @@
 date: '2023-05-31'
 modified_time: 2023-06-02 14:05:11-04:00
 published_time: 2023-05-31 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-heather-boushey-on-how-president-bidens-invest-in-america-agenda-has-laid-the-foundation-for-decades-of-strong-stable-and-sustained-equitable-growth/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/31/remarks-by-heather-boushey-on-how-president-bidens-invest-in-america-agenda-has-laid-the-foundation-for-decades-of-strong-stable-and-sustained-equitable-growth/
 tags: speeches-remarks
 title: "Remarks by Heather Boushey on How President\_Biden\u2019s Invest in America\
   \ Agenda has Laid the Foundation for Decades of Strong, Stable, and Sustained, Equitable\_\
@@ -577,7 +577,7 @@ Looking forward, the many risks of inaction are clear.
 
 In large part due to government subsidies, China currently controls over
 [80
-percent](https://www.whitehouse.gov/wp-content/uploads/2022/04/Chapter-6-new.pdf)
+percent](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/Chapter-6-new.pdf)
 of part of the world’s supply chain for batteries used to power EVs.
 
 For context, OPEC controls 40 percent of global crude oil supply.
@@ -605,7 +605,7 @@ chain and where upstream products are coming from.
 and trade partners to foster durable global growth.**
 
 In a
-[speech](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/)
+[speech](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/27/remarks-by-national-security-advisor-jake-sullivan-on-renewing-american-economic-leadership-at-the-brookings-institution/)
 just a month ago, National Security Advisor Jake Sullivan outlined the
 President’s plan to renew American economic leadership.
 
@@ -622,19 +622,19 @@ Three specific examples of how the Administration is acting on this:
 
 In 2021, the United States announced the [Global Arrangement on
 Sustainable Steel and
-Aluminum](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/joint-us-eu-statement-on-trade-in-steel-and-aluminum/)
+Aluminum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/31/joint-us-eu-statement-on-trade-in-steel-and-aluminum/)
 to promote the clean steel and aluminum trade, while limiting dirty
 steel from accessing our markets.
 
 Last year, we launched the [Partnership for Global Infrastructure and
-Investment](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/)
+Investment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/)
 to mobilize hundreds of billions of dollars in financing to close the
 infrastructure gap in developing countries.
 
 More recently, following a meeting between President Biden and the
 European Commission President Ursula von der Leyen, we established the
 [U.S.-EU Partnership on Critical
-Minerals](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/joint-statement-by-president-biden-and-president-von-der-leyen-2/)
+Minerals](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/joint-statement-by-president-biden-and-president-von-der-leyen-2/)
 to partner on supply chains for critical minerals essential to building
 a clean energy economy.
 

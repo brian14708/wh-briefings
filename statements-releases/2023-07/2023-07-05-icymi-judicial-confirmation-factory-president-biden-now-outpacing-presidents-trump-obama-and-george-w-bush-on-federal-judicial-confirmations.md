@@ -1,7 +1,7 @@
 ---
 date: '2023-07-05'
 published_time: 2023-07-05 09:04:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/05/icymi-judicial-confirmation-factory-president-biden-now-outpacing-presidents-trump-obama-and-george-w-bush-on-federal-judicial-confirmations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/05/icymi-judicial-confirmation-factory-president-biden-now-outpacing-presidents-trump-obama-and-george-w-bush-on-federal-judicial-confirmations/
 tags: statements-releases
 title: "ICYMI: \u201CJudicial Confirmation Factory:\u201D President\_Biden Now Outpacing\
   \ Presidents Trump, Obama, and George W. Bush on Federal Judicial\_Confirmations"

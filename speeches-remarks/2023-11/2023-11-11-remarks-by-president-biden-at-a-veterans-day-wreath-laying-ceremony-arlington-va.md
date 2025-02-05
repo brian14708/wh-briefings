@@ -2,7 +2,7 @@
 date: '2023-11-11'
 modified_time: 2023-11-13 10:54:59-05:00
 published_time: 2023-11-11 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/11/remarks-by-president-biden-at-a-veterans-day-wreath-laying-ceremony-arlington-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/11/remarks-by-president-biden-at-a-veterans-day-wreath-laying-ceremony-arlington-va/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Veterans Day Wreath Laying Ceremony | Arlington,\_\
   VA"

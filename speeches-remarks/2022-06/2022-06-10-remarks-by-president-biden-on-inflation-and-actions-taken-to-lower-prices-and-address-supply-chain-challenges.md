@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-10 16:59:39-04:00
 published_time: 2022-06-10 16:59:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-president-biden-on-inflation-and-actions-taken-to-lower-prices-and-address-supply-chain-challenges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-president-biden-on-inflation-and-actions-taken-to-lower-prices-and-address-supply-chain-challenges/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Inflation and Actions Taken to Lower Prices\
   \ and Address Supply Chain\_Challenges"

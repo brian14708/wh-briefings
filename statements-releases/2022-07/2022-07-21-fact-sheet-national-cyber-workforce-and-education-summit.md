@@ -2,7 +2,7 @@
 date: '2022-07-21'
 modified_time: 2022-07-22 10:18:14-04:00
 published_time: 2022-07-21 23:08:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-national-cyber-workforce-and-education-summit/
 tags: statements-releases
 title: "FACT SHEET: National Cyber Workforce and Education\_Summit"
 ---

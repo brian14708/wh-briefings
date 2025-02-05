@@ -1,7 +1,7 @@
 ---
 date: '2023-01-18'
 published_time: 2023-01-18 23:19:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/18/president-joseph-r-biden-jr-amends-california-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/18/president-joseph-r-biden-jr-amends-california-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends California Disaster\_Declaration"
 ---

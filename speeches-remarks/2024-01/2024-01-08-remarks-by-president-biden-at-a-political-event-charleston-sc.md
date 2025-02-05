@@ -2,7 +2,7 @@
 date: '2024-01-08'
 modified_time: 2024-01-08 17:11:03-05:00
 published_time: 2024-01-08 17:11:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/08/remarks-by-president-biden-at-a-political-event-charleston-sc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/08/remarks-by-president-biden-at-a-political-event-charleston-sc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Political Event | Charleston,\_SC"
 ---

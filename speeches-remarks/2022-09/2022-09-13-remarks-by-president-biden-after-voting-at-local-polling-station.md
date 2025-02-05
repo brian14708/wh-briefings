@@ -1,7 +1,7 @@
 ---
 date: '2022-09-13'
 published_time: 2022-09-13 20:21:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-president-biden-after-voting-at-local-polling-station/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/13/remarks-by-president-biden-after-voting-at-local-polling-station/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Voting at Local Polling\_Station"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-14'
 modified_time: 2022-05-14 12:39:50-04:00
 published_time: 2022-05-14 12:39:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/14/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/14/statement-by-press-secretary-kirsten-allen-on-the-vice-presidents-travel-to-united-arab-emirates/
 tags: statements-releases
 title: "Statement by Press Secretary Kirsten Allen on the Vice President\u2019s Travel\
   \ to United Arab Emirates"

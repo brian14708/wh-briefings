@@ -2,7 +2,7 @@
 date: '2023-05-10'
 modified_time: 2023-05-10 08:38:54-04:00
 published_time: 2023-05-10 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-official-state-visit-of-prime-minister-narendra-modi-of-the-republic-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-official-state-visit-of-prime-minister-narendra-modi-of-the-republic-of-india/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Official\
   \ State Visit of Prime Minister Narendra Modi of the Republic of\_India"

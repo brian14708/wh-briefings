@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-06 14:49:09-04:00
 published_time: 2024-09-06 14:49:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-ethiopia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-ethiopia/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to\_Ethiopia"

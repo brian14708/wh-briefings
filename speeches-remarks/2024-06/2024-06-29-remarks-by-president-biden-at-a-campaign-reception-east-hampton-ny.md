@@ -2,7 +2,7 @@
 date: '2024-06-29'
 modified_time: 2024-06-30 11:31:45-04:00
 published_time: 2024-06-29 22:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/29/remarks-by-president-biden-at-a-campaign-reception-east-hampton-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/29/remarks-by-president-biden-at-a-campaign-reception-east-hampton-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Campaign Reception | East Hampton,\_NY"
 ---

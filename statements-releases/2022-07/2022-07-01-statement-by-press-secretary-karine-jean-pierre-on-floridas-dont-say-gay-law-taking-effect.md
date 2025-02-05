@@ -2,7 +2,7 @@
 date: '2022-07-01'
 modified_time: 2022-07-01 11:21:27-04:00
 published_time: 2022-07-01 11:21:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/statement-by-press-secretary-karine-jean-pierre-on-floridas-dont-say-gay-law-taking-effect/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/01/statement-by-press-secretary-karine-jean-pierre-on-floridas-dont-say-gay-law-taking-effect/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on Florida\u2019s \u201CDon\u2019\
   t Say Gay\u201D Law Taking\_Effect"

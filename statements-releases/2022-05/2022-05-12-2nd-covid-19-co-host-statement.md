@@ -2,7 +2,7 @@
 date: '2022-05-12'
 modified_time: 2022-05-12 19:31:29-04:00
 published_time: 2022-05-12 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-covid-19-co-host-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/2nd-covid-19-co-host-statement/
 tags: statements-releases
 title: "2nd COVID-\u206019 Co-Host\_Statement"
 ---
@@ -17,7 +17,7 @@ economies, civil society, and the private sector gathered for the
 new policy and financial commitments to make vaccines available to those
 at highest risk, to expand access to tests and treatments, and to
 prevent future health crises.  These are [linked
-here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/). 
+here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/2nd-global-covid-19-summit-commitments/). 
 Success in these areas is achievable, but it is not inevitable; leaders
 reinforced the value of whole-of-government and whole-of-society
 approaches to bring the acute phase of COVID-19 to an end, and the

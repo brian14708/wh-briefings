@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 22:38:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/readout-of-vice-president-harriss-roundtable-with-women-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/readout-of-vice-president-harriss-roundtable-with-women-leaders/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Roundtable with Women\_Leaders"
 ---

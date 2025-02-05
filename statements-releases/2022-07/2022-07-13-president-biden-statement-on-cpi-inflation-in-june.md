@@ -1,7 +1,7 @@
 ---
 date: '2022-07-13'
 published_time: 2022-07-13 09:43:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/president-biden-statement-on-cpi-inflation-in-june/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/president-biden-statement-on-cpi-inflation-in-june/
 tags: statements-releases
 title: "President\_Biden Statement on CPI Inflation in\_June"
 ---

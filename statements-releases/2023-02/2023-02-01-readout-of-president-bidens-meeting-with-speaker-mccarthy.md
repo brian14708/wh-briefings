@@ -2,7 +2,7 @@
 date: '2023-02-01'
 modified_time: 2023-02-01 17:28:28-05:00
 published_time: 2023-02-01 17:28:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/readout-of-president-bidens-meeting-with-speaker-mccarthy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/readout-of-president-bidens-meeting-with-speaker-mccarthy/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Speaker\_McCarthy"
 ---

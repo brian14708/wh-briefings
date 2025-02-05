@@ -2,7 +2,7 @@
 date: '2023-07-17'
 modified_time: 2023-07-17 20:42:28-04:00
 published_time: 2023-07-17 20:42:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/17/remarks-by-first-lady-jill-biden-at-a-youth-soccer-clinic-with-major-league-soccer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/17/remarks-by-first-lady-jill-biden-at-a-youth-soccer-clinic-with-major-league-soccer/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at a Youth Soccer Clinic with Major League\_\
   Soccer"

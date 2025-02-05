@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 published_time: 2023-05-19 06:36:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-g7-summit-spousal-programs-next-generations-symposium/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-g7-summit-spousal-programs-next-generations-symposium/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the G7 Summit\
   \ Spousal Program\u2019s Next Generations\u2019\_Symposium"

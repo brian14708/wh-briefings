@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 18:12:40-04:00
 published_time: 2022-08-05 18:12:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-leadership-of-the-partnership-for-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/readout-of-the-national-security-advisor-to-the-vice-presidents-meeting-with-leadership-of-the-partnership-for-central-america/
 tags: statements-releases
 title: "Readout of the National Security Advisor to the Vice President\u2019s Meeting\
   \ with Leadership of the Partnership for Central\_America"

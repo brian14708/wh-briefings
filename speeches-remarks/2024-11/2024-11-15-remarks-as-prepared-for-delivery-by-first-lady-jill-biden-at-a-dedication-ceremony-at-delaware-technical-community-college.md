@@ -1,7 +1,7 @@
 ---
 date: '2024-11-15'
 published_time: 2024-11-15 15:49:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-dedication-ceremony-at-delaware-technical-community-college/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/11/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-dedication-ceremony-at-delaware-technical-community-college/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Dedication\
   \ Ceremony at Delaware Technical Community\_College"

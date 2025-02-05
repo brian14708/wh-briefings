@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 published_time: 2023-09-26 15:38:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/statement-by-national-security-council-spokesperson-adrienne-watson-on-explosion-at-fuel-depot-in-nagorno-karabakh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/statement-by-national-security-council-spokesperson-adrienne-watson-on-explosion-at-fuel-depot-in-nagorno-karabakh/
 tags: statements-releases
 title: Statement by National Security Council Spokesperson Adrienne Watson on Explosion
   at Fuel Depot in Nagorno-Karabakh

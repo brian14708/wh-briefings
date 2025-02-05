@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-28 19:26:08-04:00
 published_time: 2024-03-28 19:26:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/03/28/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/03/28/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-7/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John\_Kirby"

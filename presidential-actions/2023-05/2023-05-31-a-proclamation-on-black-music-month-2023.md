@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 12:56:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-black-music-month-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/31/a-proclamation-on-black-music-month-2023/
 tags: presidential-actions
 title: "A Proclamation on Black Music Month,\_2023"
 ---

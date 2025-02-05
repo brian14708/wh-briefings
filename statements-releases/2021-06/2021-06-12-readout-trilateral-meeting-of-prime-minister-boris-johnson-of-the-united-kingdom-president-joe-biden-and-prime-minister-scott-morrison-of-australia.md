@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-12'
 modified_time: 2021-06-12 17:20:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-trilateral-meeting-of-prime-minister-boris-johnson-of-the-united-kingdom-president-joe-biden-and-prime-minister-scott-morrison-of-australia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/12/readout-trilateral-meeting-of-prime-minister-boris-johnson-of-the-united-kingdom-president-joe-biden-and-prime-minister-scott-morrison-of-australia/
 published_time: 2021-06-12 17:20:09-04:00
 title: "Readout: Trilateral Meeting of Prime Minister Boris Johnson of the United\
   \ Kingdom, President Joe\_Biden, and Prime Minister Scott Morrison of\_Australia"

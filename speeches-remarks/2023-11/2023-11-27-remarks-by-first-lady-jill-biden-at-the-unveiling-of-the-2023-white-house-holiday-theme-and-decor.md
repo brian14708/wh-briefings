@@ -1,7 +1,7 @@
 ---
 date: '2023-11-27'
 published_time: 2023-11-27 19:23:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/27/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2023-white-house-holiday-theme-and-decor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/27/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2023-white-house-holiday-theme-and-decor/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the Unveiling of the 2023 White\_House\
   \ Holiday Theme and\_Decor"

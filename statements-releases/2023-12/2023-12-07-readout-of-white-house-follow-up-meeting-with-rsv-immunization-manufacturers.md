@@ -2,7 +2,7 @@
 date: '2023-12-07'
 modified_time: 2023-12-07 10:48:46-05:00
 published_time: 2023-12-07 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-follow-up-meeting-with-rsv-immunization-manufacturers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-follow-up-meeting-with-rsv-immunization-manufacturers/
 tags: statements-releases
 title: "Readout of White\_House Follow Up Meeting with RSV Immunization Manufacturers"
 ---
@@ -13,7 +13,7 @@ AstraZeneca, and Thermo Fisher and urged them to work expeditiously to
 meet demand for immunizations this winter season through the commercial
 market. This meeting follows numerous in-person and virtual meetings,
 [including last
-week](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/28/readout-of-white-house-meeting-with-rsv-immunization-manufacturers/),
+week](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/28/readout-of-white-house-meeting-with-rsv-immunization-manufacturers/),
 to continue to identify ways manufacturers can make more RSV available
 for infants. Last month, manufacturers released [77,000 additional
 doses](https://www.cdc.gov/media/releases/2023/p1116-rsv-doses.html) of

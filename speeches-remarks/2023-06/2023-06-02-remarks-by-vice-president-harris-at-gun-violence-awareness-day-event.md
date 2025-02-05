@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 19:51:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/02/remarks-by-vice-president-harris-at-gun-violence-awareness-day-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/02/remarks-by-vice-president-harris-at-gun-violence-awareness-day-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Gun Violence Awareness Day\_Event"
 ---

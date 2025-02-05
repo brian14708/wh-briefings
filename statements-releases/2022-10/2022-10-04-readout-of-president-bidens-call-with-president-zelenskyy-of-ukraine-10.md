@@ -1,7 +1,7 @@
 ---
 date: '2022-10-04'
 published_time: 2022-10-04 12:47:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/04/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-10/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/04/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-10/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

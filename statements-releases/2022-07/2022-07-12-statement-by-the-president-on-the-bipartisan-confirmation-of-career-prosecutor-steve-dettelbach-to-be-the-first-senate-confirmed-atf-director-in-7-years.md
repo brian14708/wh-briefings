@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-12 15:51:16-04:00
 published_time: 2022-07-12 15:42:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/statement-by-the-president-on-the-bipartisan-confirmation-of-career-prosecutor-steve-dettelbach-to-be-the-first-senate-confirmed-atf-director-in-7-years/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/statement-by-the-president-on-the-bipartisan-confirmation-of-career-prosecutor-steve-dettelbach-to-be-the-first-senate-confirmed-atf-director-in-7-years/
 tags: statements-releases
 title: "Statement by the President on the Bipartisan Confirmation of Career Prosecutor\
   \ Steve Dettelbach to be the First Senate-Confirmed ATF Director in 7\_Years"

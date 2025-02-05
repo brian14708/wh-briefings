@@ -2,7 +2,7 @@
 date: '2023-11-25'
 modified_time: 2023-11-27 14:57:59-05:00
 published_time: 2023-11-25 15:53:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/25/remarks-by-vice-president-harris-on-small-business-saturday-los-angeles-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/25/remarks-by-vice-president-harris-on-small-business-saturday-los-angeles-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Small Business Saturday | Los Angeles,\_\
   CA"

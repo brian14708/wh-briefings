@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-23 14:12:21-04:00
 published_time: 2024-05-23 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/president-biden-announces-key-appointments-to-the-white-house-environmental-justice-advisory-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/president-biden-announces-key-appointments-to-the-white-house-environmental-justice-advisory-council/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to the White\_House Environmental\
   \ Justice Advisory\_Council"

@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-16 07:19:14-04:00
 published_time: 2022-06-15 07:12:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/15/remarks-by-president-biden-at-a-pride-month-reception-and-signing-of-an-executive-order-on-advancing-lgbtqi-individuals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/15/remarks-by-president-biden-at-a-pride-month-reception-and-signing-of-an-executive-order-on-advancing-lgbtqi-individuals/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Pride Month Reception and Signing of an Executive\
   \ Order on Advancing LGBTQI+\_Individuals"

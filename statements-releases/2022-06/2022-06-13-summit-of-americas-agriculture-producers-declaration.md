@@ -2,7 +2,7 @@
 date: '2022-06-13'
 modified_time: 2022-06-13 19:56:18-04:00
 published_time: 2022-06-13 19:50:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/13/summit-of-americas-agriculture-producers-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/13/summit-of-americas-agriculture-producers-declaration/
 tags: statements-releases
 title: "Summit of the Americas Agriculture Producers\_Declaration"
 ---

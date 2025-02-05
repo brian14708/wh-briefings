@@ -2,7 +2,7 @@
 date: '2023-05-18'
 modified_time: 2023-05-18 07:31:34-04:00
 published_time: 2023-05-18 07:31:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan-3/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kishida of\_\
   Japan"

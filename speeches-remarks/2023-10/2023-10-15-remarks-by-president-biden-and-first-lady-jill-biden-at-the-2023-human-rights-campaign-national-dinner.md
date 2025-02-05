@@ -2,7 +2,7 @@
 date: '2023-10-15'
 modified_time: 2023-10-15 14:09:41-04:00
 published_time: 2023-10-15 14:09:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/15/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-human-rights-campaign-national-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/15/remarks-by-president-biden-and-first-lady-jill-biden-at-the-2023-human-rights-campaign-national-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the 2023 Human Rights\
   \ Campaign National\_Dinner"

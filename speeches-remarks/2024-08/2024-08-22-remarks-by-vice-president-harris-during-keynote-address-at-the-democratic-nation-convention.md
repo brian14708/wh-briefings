@@ -2,7 +2,7 @@
 date: '2024-08-22'
 modified_time: 2024-08-23 12:05:55-04:00
 published_time: 2024-08-22 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/22/remarks-by-vice-president-harris-during-keynote-address-at-the-democratic-nation-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/22/remarks-by-vice-president-harris-during-keynote-address-at-the-democratic-nation-convention/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During Keynote Address at the Democratic\
   \ Nation\_Convention"

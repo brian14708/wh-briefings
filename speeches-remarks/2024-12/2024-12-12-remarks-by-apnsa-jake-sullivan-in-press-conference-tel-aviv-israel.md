@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-13 09:38:51-05:00
 published_time: 2024-12-12 21:23:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/12/remarks-by-apnsa-jake-sullivan-in-press-conference-tel-aviv-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/12/remarks-by-apnsa-jake-sullivan-in-press-conference-tel-aviv-israel/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan in Press Conference | Tel Aviv,\_Israel"
 ---

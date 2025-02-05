@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 12:13:52-04:00
 published_time: 2023-09-09 12:13:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/09/press-gaggle-by-press-secretary-karine-jean-pierre-and-principal-deputy-national-security-advisor-jon-finer-ahead-of-the-g20-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/09/press-gaggle-by-press-secretary-karine-jean-pierre-and-principal-deputy-national-security-advisor-jon-finer-ahead-of-the-g20-summit/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Principal Deputy National\
   \ Security Advisor Jon Finer Ahead of the G20\_Summit"

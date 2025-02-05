@@ -2,7 +2,7 @@
 date: '2023-08-21'
 modified_time: 2023-08-20 20:51:52-04:00
 published_time: 2023-08-21 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/21/statement-from-national-security-council-spokesperson-adrienne-watson-on-the-10-year-anniversary-of-the-ghouta-chemical-weapons-attack/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/21/statement-from-national-security-council-spokesperson-adrienne-watson-on-the-10-year-anniversary-of-the-ghouta-chemical-weapons-attack/
 tags: statements-releases
 title: "Statement from National Security Council Spokesperson Adrienne Watson on the\
   \ 10 Year Anniversary of the Ghouta Chemical Weapons\_Attack"

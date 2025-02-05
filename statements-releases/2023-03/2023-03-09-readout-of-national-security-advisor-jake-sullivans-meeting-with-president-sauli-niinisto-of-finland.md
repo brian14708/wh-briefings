@@ -2,7 +2,7 @@
 date: '2023-03-09'
 modified_time: 2023-03-09 18:21:33-05:00
 published_time: 2023-03-09 18:21:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-sauli-niinisto-of-finland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/readout-of-national-security-advisor-jake-sullivans-meeting-with-president-sauli-niinisto-of-finland/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with President\
   \ Sauli Niinist\xF6 of\_Finland"

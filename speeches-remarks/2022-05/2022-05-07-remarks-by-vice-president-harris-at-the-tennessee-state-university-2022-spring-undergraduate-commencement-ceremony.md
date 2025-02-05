@@ -2,7 +2,7 @@
 date: '2022-05-07'
 modified_time: 2022-05-07 18:04:05-04:00
 published_time: 2022-05-07 18:04:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/07/remarks-by-vice-president-harris-at-the-tennessee-state-university-2022-spring-undergraduate-commencement-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/07/remarks-by-vice-president-harris-at-the-tennessee-state-university-2022-spring-undergraduate-commencement-ceremony/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Tennessee State University 2022 Spring\
   \ Undergraduate Commencement\_Ceremony"

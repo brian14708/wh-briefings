@@ -2,7 +2,7 @@
 date: '2023-10-26'
 modified_time: 2023-10-26 16:51:20-04:00
 published_time: 2023-10-26 16:51:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/26/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/26/president-joseph-r-biden-jr-approves-kansas-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Kansas Disaster\_Declaration"
 ---

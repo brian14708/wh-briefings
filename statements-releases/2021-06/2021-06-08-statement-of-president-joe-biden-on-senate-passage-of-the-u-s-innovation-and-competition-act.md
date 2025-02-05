@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-08'
 modified_time: 2021-06-08 19:12:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/statement-of-president-joe-biden-on-senate-passage-of-the-u-s-innovation-and-competition-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/statement-of-president-joe-biden-on-senate-passage-of-the-u-s-innovation-and-competition-act/
 published_time: 2021-06-08 19:12:33-04:00
 title: "Statement of President Joe\_Biden on Senate Passage of the U.S. Innovation\
   \ and Competition\_Act"

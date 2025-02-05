@@ -2,7 +2,7 @@
 date: '2022-03-30'
 modified_time: 2022-03-29 23:05:27-04:00
 published_time: 2022-03-30 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/30/fact-sheet-biden-administration-launches-covid-gov-a-new-one-stop-shop-website-for-vaccines-tests-treatments-masks-and-the-latest-covid-19-information/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/30/fact-sheet-biden-administration-launches-covid-gov-a-new-one-stop-shop-website-for-vaccines-tests-treatments-masks-and-the-latest-covid-19-information/
 tags: statements-releases
 title: "Fact Sheet: Biden Administration Launches COVID.gov, a New One-Stop Shop Website\
   \ for Vaccines, Tests, Treatments, Masks, and the Latest COVID-\u206019\_Information"
@@ -45,7 +45,7 @@ in the pandemic. The country is moving forward safely and people are
 getting back to their more normal routines. To ensure we’re sustaining
 and building on this progress and protecting and preparing for new
 variants, earlier this month, the President released his [National
-COVID-19 Preparedness Plan](https://www.whitehouse.gov/covidplan/). The
+COVID-19 Preparedness Plan](https://bidenwhitehouse.archives.gov/covidplan/). The
 President was clear that in order to execute on this plan and to stay
 ahead of the virus, the Administration needs additional funding from
 Congress—including $22.5 billion in immediate emergency funds. To date,

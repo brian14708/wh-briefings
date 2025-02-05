@@ -1,7 +1,7 @@
 ---
 date: '2022-09-23'
 published_time: 2022-09-23 15:00:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/g7-leaders-statement-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/g7-leaders-statement-3/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement"
 ---

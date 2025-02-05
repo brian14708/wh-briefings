@@ -1,7 +1,7 @@
 ---
 date: '2024-07-02'
 published_time: 2024-07-02 16:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-congressional-hispanic-caucus-on-the-road-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/02/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-congressional-hispanic-caucus-on-the-road-event/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Congressional\
   \ Hispanic Caucus on the Road\_Event"

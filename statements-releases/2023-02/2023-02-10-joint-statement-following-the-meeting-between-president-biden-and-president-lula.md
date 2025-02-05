@@ -1,7 +1,7 @@
 ---
 date: '2023-02-10'
 published_time: 2023-02-10 21:17:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/joint-statement-following-the-meeting-between-president-biden-and-president-lula/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/joint-statement-following-the-meeting-between-president-biden-and-president-lula/
 tags: statements-releases
 title: "Joint Statement Following the Meeting Between President\_Biden and President\_\
   Lula"

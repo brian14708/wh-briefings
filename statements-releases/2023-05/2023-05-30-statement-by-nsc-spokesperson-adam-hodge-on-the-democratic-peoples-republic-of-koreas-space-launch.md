@@ -1,7 +1,7 @@
 ---
 date: '2023-05-30'
 published_time: 2023-05-30 20:40:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/30/statement-by-nsc-spokesperson-adam-hodge-on-the-democratic-peoples-republic-of-koreas-space-launch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/30/statement-by-nsc-spokesperson-adam-hodge-on-the-democratic-peoples-republic-of-koreas-space-launch/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adam Hodge on the Democratic People\u2019s Republic\
   \ of Korea\u2019s Space\_Launch"

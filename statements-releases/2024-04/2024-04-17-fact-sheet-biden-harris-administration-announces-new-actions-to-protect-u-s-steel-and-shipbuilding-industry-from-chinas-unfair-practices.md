@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-16 22:53:00-04:00
 published_time: 2024-04-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-u-s-steel-and-shipbuilding-industry-from-chinas-unfair-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/17/fact-sheet-biden-harris-administration-announces-new-actions-to-protect-u-s-steel-and-shipbuilding-industry-from-chinas-unfair-practices/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions to Protect\
   \ U.S. Steel and Shipbuilding Industry from China\u2019s Unfair\_Practices"

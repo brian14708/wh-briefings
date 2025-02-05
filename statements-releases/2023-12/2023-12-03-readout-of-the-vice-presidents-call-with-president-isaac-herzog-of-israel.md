@@ -2,7 +2,7 @@
 date: '2023-12-03'
 modified_time: 2023-12-03 18:51:56-05:00
 published_time: 2023-12-03 20:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/03/readout-of-the-vice-presidents-call-with-president-isaac-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/03/readout-of-the-vice-presidents-call-with-president-isaac-herzog-of-israel/
 tags: statements-releases
 title: "Readout of the Vice President\u2019s Call with President Isaac Herzog of\_\
   Israel"

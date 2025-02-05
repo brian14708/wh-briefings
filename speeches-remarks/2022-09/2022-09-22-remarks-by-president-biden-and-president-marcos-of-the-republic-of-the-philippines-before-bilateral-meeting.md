@@ -1,7 +1,7 @@
 ---
 date: '2022-09-22'
 published_time: 2022-09-22 12:50:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-president-biden-and-president-marcos-of-the-republic-of-the-philippines-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-president-biden-and-president-marcos-of-the-republic-of-the-philippines-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Marcos of the Republic of the Philippines\
   \ Before Bilateral\_Meeting"

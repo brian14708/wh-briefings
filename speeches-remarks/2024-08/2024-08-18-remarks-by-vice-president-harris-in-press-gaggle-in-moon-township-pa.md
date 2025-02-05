@@ -2,7 +2,7 @@
 date: '2024-08-18'
 modified_time: 2024-08-19 13:19:38-04:00
 published_time: 2024-08-18 23:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/18/remarks-by-vice-president-harris-in-press-gaggle-in-moon-township-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/18/remarks-by-vice-president-harris-in-press-gaggle-in-moon-township-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in Press Gaggle in Moon Township,\_PA"
 ---

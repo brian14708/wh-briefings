@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-04-01'
 modified_time: 2021-04-01 17:00:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/01/press-briefing-by-press-secretary-jen-psaki-april-1-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/04/01/press-briefing-by-press-secretary-jen-psaki-april-1-2021/
 published_time: 2021-04-01 17:30:00-04:00
 title: "Press Briefing by Press Secretary Jen\_Psaki, April 1,\_2021"
 ---

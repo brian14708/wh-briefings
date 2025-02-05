@@ -2,7 +2,7 @@
 date: '2022-04-20'
 modified_time: 2022-04-20 21:08:53-04:00
 published_time: 2022-04-20 18:53:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Creates Cost-Saving Clean Energy\
   \ Opportunities to Combat Climate\_Crisis"
@@ -33,7 +33,7 @@ funding, and guidance, including the Bipartisan Infrastructure Law, to
 unlock resources and pave the way for good-paying jobs in the growing
 clean energy economy in communities across the country. Additionally,
 they build on those investments proposed in the [President’s FY 2023
-Budget](https://www.whitehouse.gov/omb/briefing-room/2022/03/28/president-bidens-fy-2023-budget-reduces-energy-costs-combats-the-climate-crisis-and-advances-environmental-justice/?msclkid=fd01b572c0b411ec90840de7b0f43bef).
+Budget](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/03/28/president-bidens-fy-2023-budget-reduces-energy-costs-combats-the-climate-crisis-and-advances-environmental-justice/?msclkid=fd01b572c0b411ec90840de7b0f43bef).
 These announcements will also further the President’s Justice40
 Initiative which commits to delivering at least 40 percent of the
 benefits from federal climate and clean energy investments to

@@ -2,7 +2,7 @@
 date: '2023-06-01'
 modified_time: 2023-05-31 22:18:56-04:00
 published_time: 2023-06-01 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/01/statement-by-jake-sullivan-on-accountability-for-the-ongoing-violence-in-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/01/statement-by-jake-sullivan-on-accountability-for-the-ongoing-violence-in-sudan/
 tags: statements-releases
 title: "Statement by Jake Sullivan on Accountability for the Ongoing Violence in\_\
   Sudan"

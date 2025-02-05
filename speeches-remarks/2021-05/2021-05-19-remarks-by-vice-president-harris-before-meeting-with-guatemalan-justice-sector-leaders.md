@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-05-19'
 modified_time: 2021-05-19 20:11:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/05/19/remarks-by-vice-president-harris-before-meeting-with-guatemalan-justice-sector-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/05/19/remarks-by-vice-president-harris-before-meeting-with-guatemalan-justice-sector-leaders/
 published_time: 2021-05-19 20:15:00-04:00
 title: "Remarks by Vice President Harris Before Meeting with Guatemalan Justice Sector\_\
   Leaders"

@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 15:17:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-president-biden-announces-additional-steps-to-address-infant-formula-shortage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-president-biden-announces-additional-steps-to-address-infant-formula-shortage/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Additional Steps to Address Infant\
   \ Formula\_Shortage"

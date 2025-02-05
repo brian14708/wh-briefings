@@ -1,7 +1,7 @@
 ---
 date: '2024-01-12'
 published_time: 2024-01-12 15:16:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/12/press-gaggle-by-deputy-press-secretary-andrew-bates-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-allentown-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/12/press-gaggle-by-deputy-press-secretary-andrew-bates-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-allentown-pa/
 tags: press-briefings
 title: "Press Gaggle by Deputy Press Secretary Andrew Bates and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Allentown,\_PA"

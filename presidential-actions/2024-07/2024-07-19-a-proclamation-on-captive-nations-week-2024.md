@@ -2,7 +2,7 @@
 date: '2024-07-19'
 modified_time: 2024-07-19 16:44:26-04:00
 published_time: 2024-07-19 16:44:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/19/a-proclamation-on-captive-nations-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/19/a-proclamation-on-captive-nations-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Captive Nations Week,\_2024"
 ---

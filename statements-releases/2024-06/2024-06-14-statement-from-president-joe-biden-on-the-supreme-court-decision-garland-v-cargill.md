@@ -2,7 +2,7 @@
 date: '2024-06-14'
 modified_time: 2024-06-14 11:32:12-04:00
 published_time: 2024-06-14 11:32:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/14/statement-from-president-joe-biden-on-the-supreme-court-decision-garland-v-cargill/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/14/statement-from-president-joe-biden-on-the-supreme-court-decision-garland-v-cargill/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Supreme Court Decision Garland\
   \ v.\_Cargill"

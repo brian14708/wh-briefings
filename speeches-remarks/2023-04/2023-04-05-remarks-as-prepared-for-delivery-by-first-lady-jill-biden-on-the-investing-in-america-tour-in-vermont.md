@@ -1,7 +1,7 @@
 ---
 date: '2023-04-05'
 published_time: 2023-04-05 17:22:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-the-investing-in-america-tour-in-vermont/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/05/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-on-the-investing-in-america-tour-in-vermont/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden on the \u201CInvesting\
   \ in America\u201D Tour in\_Vermont"

@@ -2,7 +2,7 @@
 date: '2022-06-16'
 modified_time: 2022-06-16 17:40:23-04:00
 published_time: 2022-06-16 17:40:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/16/remarks-by-vice-president-harris-announcing-the-launch-of-the-white-house-task-force-to-address-online-harassment-and-abuse/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/16/remarks-by-vice-president-harris-announcing-the-launch-of-the-white-house-task-force-to-address-online-harassment-and-abuse/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_Announcing the Launch of the White\_House\
   \ Task Force\_to Address Online Harassment and\_Abuse"

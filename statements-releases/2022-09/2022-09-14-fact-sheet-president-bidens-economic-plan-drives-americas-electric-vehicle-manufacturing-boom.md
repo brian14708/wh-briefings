@@ -2,7 +2,7 @@
 date: '2022-09-14'
 modified_time: 2022-09-15 13:30:55-04:00
 published_time: 2022-09-14 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/14/fact-sheet-president-bidens-economic-plan-drives-americas-electric-vehicle-manufacturing-boom/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Economic Plan Drives America\u2019s Electric\
   \ Vehicle Manufacturing\_Boom"
@@ -117,7 +117,7 @@ include:
     J truck stops and gas stations.
 -   These investments are in addition to more than $700 [million the
     White House announced in
-    June](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-catalyzes-more-than-700-million-in-private-sector-commitments-to-make-ev-charging-more-affordable-and-accessible/),
+    June](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-catalyzes-more-than-700-million-in-private-sector-commitments-to-make-ev-charging-more-affordable-and-accessible/),
     including new manufacturing facilities by ChargePoint, Flo, Siemens,
     Tesla, and Tritium.
 

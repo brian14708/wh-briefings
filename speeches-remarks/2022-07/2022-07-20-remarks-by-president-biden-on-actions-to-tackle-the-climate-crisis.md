@@ -1,7 +1,7 @@
 ---
 date: '2022-07-20'
 published_time: 2022-07-20 18:23:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/20/remarks-by-president-biden-on-actions-to-tackle-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/20/remarks-by-president-biden-on-actions-to-tackle-the-climate-crisis/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Actions to Tackle the Climate\_Crisis"
 ---

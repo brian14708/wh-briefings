@@ -2,7 +2,7 @@
 date: '2025-01-05'
 modified_time: 2025-01-05 11:19:01-05:00
 published_time: 2025-01-05 11:19:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/05/statement-from-president-joe-biden-on-the-womens-suffrage-national-monument-location-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/05/statement-from-president-joe-biden-on-the-womens-suffrage-national-monument-location-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Women\u2019s Suffrage National\
   \ Monument Location\_Act"

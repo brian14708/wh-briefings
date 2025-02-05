@@ -1,7 +1,7 @@
 ---
 date: '2023-05-05'
 published_time: 2023-05-05 11:42:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/05/remarks-by-vice-president-harris-on-investing-in-small-business-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/05/remarks-by-vice-president-harris-on-investing-in-small-business-manufacturing/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Investing in Small Business\_Manufacturing"
 ---

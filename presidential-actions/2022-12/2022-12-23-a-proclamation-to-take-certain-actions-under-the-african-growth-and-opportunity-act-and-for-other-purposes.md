@@ -2,7 +2,7 @@
 date: '2022-12-23'
 modified_time: 2022-12-23 12:22:38-05:00
 published_time: 2022-12-23 12:22:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/23/a-proclamation-to-take-certain-actions-under-the-african-growth-and-opportunity-act-and-for-other-purposes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/23/a-proclamation-to-take-certain-actions-under-the-african-growth-and-opportunity-act-and-for-other-purposes/
 tags: presidential-actions
 title: "A Proclamation To Take Certain Actions Under the African Growth and Opportunity\
   \ Act and for Other\_Purposes"

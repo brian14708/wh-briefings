@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 13:13:35-04:00
 published_time: 2023-04-20 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/20/fact-sheet-president-biden-to-catalyze-global-climate-action-through-the-major-economies-forum-on-energy-and-climate/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Catalyze Global Climate Action through the\
   \ Major Economies Forum on Energy and\_Climate"
@@ -134,7 +134,7 @@ clear path to achieve this goal, while reducing costs for consumers,
 lowering harmful pollutants, mitigating climate change, and creating new
 economic opportunities.  Today, the U.S. released a new [National
 Innovation Pathway
-Report](https://www.whitehouse.gov/wp-content/uploads/2023/04/US-National-Innovation-Pathway.pdf),
+Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/US-National-Innovation-Pathway.pdf),
 highlighting the Biden-Harris Administration’s all-hands-on-deck
 strategy for accelerating key clean energy technology innovations.  The
 Administration is advancing a three-pronged approach that prioritizes

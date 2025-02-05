@@ -2,7 +2,7 @@
 date: '2022-05-09'
 modified_time: 2022-05-09 10:15:14-04:00
 published_time: 2022-05-09 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/09/fact-sheet-president-biden-and-vice-president-harris-reduce-high-speed-internet-costs-for-millions-of-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/09/fact-sheet-president-biden-and-vice-president-harris-reduce-high-speed-internet-costs-for-millions-of-americans/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Vice President Harris Reduce High-Speed Internet\
   \ Costs for Millions of\_Americans"
@@ -84,7 +84,7 @@ internet providers and landlords that restrict the internet options
 available to millions of Americans who live [in apartment
 buildings](https://www.fcc.gov/document/fcc-acts-increase-broadband-competition-apartment-buildings-0).
 And the President’s [competition
-agenda](https://www.whitehouse.gov/competition/) is focused on providing
+agenda](https://bidenwhitehouse.archives.gov/competition/) is focused on providing
 Americans with more good options for internet service where they
 live—driving down prices and increasing the quality of service.  
   

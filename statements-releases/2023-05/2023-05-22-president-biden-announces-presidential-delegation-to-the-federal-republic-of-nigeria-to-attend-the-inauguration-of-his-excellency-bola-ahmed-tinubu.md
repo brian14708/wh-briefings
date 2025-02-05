@@ -2,7 +2,7 @@
 date: '2023-05-22'
 modified_time: 2023-05-22 18:47:01-04:00
 published_time: 2023-05-22 19:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/22/president-biden-announces-presidential-delegation-to-the-federal-republic-of-nigeria-to-attend-the-inauguration-of-his-excellency-bola-ahmed-tinubu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/22/president-biden-announces-presidential-delegation-to-the-federal-republic-of-nigeria-to-attend-the-inauguration-of-his-excellency-bola-ahmed-tinubu/
 tags: statements-releases
 title: "President\_Biden Announces Presidential Delegation to the Federal Republic\
   \ of Nigeria to Attend the Inauguration of His Excellency Bola Ahmed\_Tinubu"

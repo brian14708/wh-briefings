@@ -2,7 +2,7 @@
 date: '2023-02-15'
 modified_time: 2023-02-14 18:27:20-05:00
 published_time: 2023-02-15 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-the-congressional-republican-agenda-to-increase-the-debt-by-over-3-trillion/
 tags: statements-releases
 title: "FACT SHEET: The Congressional Republican Agenda to Increase the Debt by Over\
   \ $3\_Trillion"
@@ -138,7 +138,7 @@ and encourages businesses to invest in their growth and productivity as
 opposed to paying out corporate executives or funneling tax-preferred
 profits to foreign shareholders*. *The President in his State of the
 Union
-address [proposed](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/) quadrupling
+address [proposed](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/) quadrupling
 the stock buybacks tax to 4% to address the continued tax advantage for
 buybacks and encourage long-term investment over giveaways to
 executives. House Republicans instead want to repeal the stock buybacks

@@ -2,7 +2,7 @@
 date: '2023-03-20'
 modified_time: 2023-03-21 10:27:40-04:00
 published_time: 2023-03-20 10:25:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/20/remarks-by-vice-president-harris-on-wildfire-resilience-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/20/remarks-by-vice-president-harris-on-wildfire-resilience-funding/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Wildfire Resilience\_Funding"
 ---

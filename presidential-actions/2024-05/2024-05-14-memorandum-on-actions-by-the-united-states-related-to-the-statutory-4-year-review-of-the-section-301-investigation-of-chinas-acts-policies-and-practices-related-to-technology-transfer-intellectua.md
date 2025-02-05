@@ -1,7 +1,7 @@
 ---
 date: '2024-05-14'
 published_time: 2024-05-14 15:26:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/14/memorandum-on-actions-by-the-united-states-related-to-the-statutory-4-year-review-of-the-section-301-investigation-of-chinas-acts-policies-and-practices-related-to-technology-transfer-intellectua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/14/memorandum-on-actions-by-the-united-states-related-to-the-statutory-4-year-review-of-the-section-301-investigation-of-chinas-acts-policies-and-practices-related-to-technology-transfer-intellectua/
 tags: presidential-actions
 title: "Memorandum on Actions by the United\_States Related to the Statutory 4-Year\
   \ Review of the Section 301 Investigation of China\u2019s Acts, Policies, and Practices\

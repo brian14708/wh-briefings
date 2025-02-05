@@ -1,7 +1,7 @@
 ---
 date: '2024-02-16'
 published_time: 2024-02-16 08:22:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/16/statement-from-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-william-ruto-and-first-lady-rachel-ruto-of-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/16/statement-from-press-secretary-karine-jean-pierre-on-the-state-visit-of-president-william-ruto-and-first-lady-rachel-ruto-of-kenya/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the State Visit of President\
   \ William Ruto and First Lady Rachel Ruto of\_Kenya"

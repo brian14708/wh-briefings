@@ -2,7 +2,7 @@
 date: '2024-03-25'
 modified_time: 2024-03-25 17:56:55-04:00
 published_time: 2024-03-25 16:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-the-biden-harris-administration-announces-month-of-action-on-care-with-new-actions-to-support-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/fact-sheet-the-biden-harris-administration-announces-month-of-action-on-care-with-new-actions-to-support-small-businesses/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Announces Month of Action\
   \ on Care with New Actions to Support Small\_Businesses"
@@ -47,10 +47,10 @@ Business Administrator Isabel Guzman. The new actions include: 
 The roundtable kicks off the Biden-Harris Administration’s “Month of
 Action on Care” in April, which the President designated [Care Worker
 Recognition
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/#:~:text=BIDEN%20JR.%2C%20President%20of%20the,as%20Care%20Workers%20Recognition%20Month)
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/#:~:text=BIDEN%20JR.%2C%20President%20of%20the,as%20Care%20Workers%20Recognition%20Month)
 last April when he signed a historic [Executive Order on Increasing
 Access to High-Quality Care and Supporting
-Caregivers](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/),
+Caregivers](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/),
 directing nearly every cabinet-level agency to expand access to
 affordable, high-quality care and provide increased support for care
 workers and family caregivers.  As the cabinet-level agency dedicated to
@@ -78,7 +78,7 @@ costs for families, and inadequate supply of high-quality care. The
 President’s American Rescue Plan (ARP) not only helped keep over 225,000
 child care providers open, but had a significant impact on the economy. 
 According to the President’s [Council of Economic
-Advisers](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/),
+Advisers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/07/fact-sheet-historic-biden-harris-administration-investments-in-child-care-recovery-lowered-costs-for-millions-of-families-helped-speed-the-return-to-work-of-hundreds-of-thousands-mothers-and-grew-t/),
 that investment alone brought hundreds of thousands of women with young
 children into the workforce, lowered child care costs per child by
 $1,250, and increased wages for child care workers by 10%.   
@@ -94,7 +94,7 @@ to increase pay for Head Start teachers; [sample employment
 agreements](https://www.dol.gov/agencies/wb/Domestic-Workers) to ensure
 domestic care workers and their employers understand their rights and
 responsibilities; and a [final
-rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/)
+rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/29/fact-sheet-vice-president-harris-announces-action-to-lower-child-care-costs-for-more-than-100000-families/)
 that will lower child care costs for over 100,000 families that rely on
 federal child care assistance.  
   

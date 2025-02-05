@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-22'
 modified_time: 2022-02-23 17:51:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/
 published_time: 2021-04-22 15:00:00-04:00
 title: "FACT SHEET: Biden Administration Advances Electric Vehicle Charging\_Infrastructure"
 ---
@@ -86,10 +86,10 @@ for the job opportunities these investments will create.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?w=640"
 class="wp-image-15223" loading="lazy"
 sizes="(max-width: 1427px) 100vw, 1427px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg 1427w, https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?resize=615,468 615w, https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?resize=768,585 768w, https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?resize=1270,967 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?resize=840,640 840w, https://www.whitehouse.gov/wp-content/uploads/2021/04/map.jpg?resize=1038,791 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg 1427w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?resize=615,468 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?resize=768,585 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?resize=1270,967 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?resize=840,640 840w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/map.jpg?resize=1038,791 1038w"
 width="1427" height="1087" />
 </figure>
 
@@ -104,10 +104,10 @@ width="1427" height="1087" />
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?w=640"
 class="wp-image-15225" loading="lazy"
 sizes="(max-width: 1431px) 100vw, 1431px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg 1431w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=531,615 531w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=768,890 768w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1096,1270 1096w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1326,1536 1326w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=552,640 552w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1105,1280 1105w, https://www.whitehouse.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=734,850 734w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg 1431w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=531,615 531w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=768,890 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1096,1270 1096w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1326,1536 1326w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=552,640 552w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=1105,1280 1105w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/DOT_map.jpg?resize=734,850 734w"
 width="1431" height="1658" />
 </figure>
 

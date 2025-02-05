@@ -1,7 +1,7 @@
 ---
 date: '2024-02-24'
 published_time: 2024-02-24 15:02:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/24/statement-from-president-joe-biden-on-the-loss-of-two-national-guardsmen/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/24/statement-from-president-joe-biden-on-the-loss-of-two-national-guardsmen/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Loss of Two National\_Guardsmen"
 ---

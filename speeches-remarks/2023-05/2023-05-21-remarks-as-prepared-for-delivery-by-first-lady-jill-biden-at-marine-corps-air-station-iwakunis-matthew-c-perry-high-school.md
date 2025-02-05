@@ -1,7 +1,7 @@
 ---
 date: '2023-05-21'
 published_time: 2023-05-21 01:08:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-marine-corps-air-station-iwakunis-matthew-c-perry-high-school/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/21/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-marine-corps-air-station-iwakunis-matthew-c-perry-high-school/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Marine Corps\
   \ Air Station Iwakuni\u2019s Matthew C. Perry High\_School"

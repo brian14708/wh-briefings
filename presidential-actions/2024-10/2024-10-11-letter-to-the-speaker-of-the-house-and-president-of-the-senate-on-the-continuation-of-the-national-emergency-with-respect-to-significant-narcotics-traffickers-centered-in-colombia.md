@@ -2,7 +2,7 @@
 date: '2024-10-11'
 modified_time: 2024-10-11 13:09:17-04:00
 published_time: 2024-10-11 13:09:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/11/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/11/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in-colombia/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to Significant Narcotics Traffickers Centered\

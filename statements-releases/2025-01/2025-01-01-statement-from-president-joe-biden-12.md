@@ -1,7 +1,7 @@
 ---
 date: '2025-01-01'
 published_time: 2025-01-01 11:03:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/01/statement-from-president-joe-biden-12/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/01/statement-from-president-joe-biden-12/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-16'
 modified_time: 2022-09-16 19:04:36-04:00
 published_time: 2022-09-16 19:04:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-president-biden-and-president-ramaphosa-of-the-republic-of-south-africa-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/16/remarks-by-president-biden-and-president-ramaphosa-of-the-republic-of-south-africa-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Ramaphosa of the Republic of South\
   \ Africa Before Bilateral\_Meeting"

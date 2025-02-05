@@ -2,7 +2,7 @@
 date: '2024-11-23'
 modified_time: 2024-11-24 21:37:47-05:00
 published_time: 2024-11-23 21:01:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-on-conclusion-of-cop29-conference-in-baku-azerbaijan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-on-conclusion-of-cop29-conference-in-baku-azerbaijan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Conclusion of COP29 Conference in Baku,\_\
   Azerbaijan"

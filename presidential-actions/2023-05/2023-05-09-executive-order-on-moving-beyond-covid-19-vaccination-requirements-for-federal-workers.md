@@ -2,7 +2,7 @@
 date: '2023-05-09'
 modified_time: 2023-05-09 11:34:55-04:00
 published_time: 2023-05-09 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/09/executive-order-on-moving-beyond-covid-19-vaccination-requirements-for-federal-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/09/executive-order-on-moving-beyond-covid-19-vaccination-requirements-for-federal-workers/
 tags: presidential-actions
 title: "Executive Order on Moving Beyond COVID-\u206019 Vaccination Requirements for\
   \ Federal\_Workers"

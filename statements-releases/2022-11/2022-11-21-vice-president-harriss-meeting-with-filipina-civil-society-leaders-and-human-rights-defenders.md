@@ -2,7 +2,7 @@
 date: '2022-11-21'
 modified_time: 2022-11-21 05:47:11-05:00
 published_time: 2022-11-21 05:47:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/21/vice-president-harriss-meeting-with-filipina-civil-society-leaders-and-human-rights-defenders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/21/vice-president-harriss-meeting-with-filipina-civil-society-leaders-and-human-rights-defenders/
 tags: statements-releases
 title: "Vice President Harris\u2019s Meeting With Filipina Civil Society Leaders And\
   \ Human Rights\_Defenders"

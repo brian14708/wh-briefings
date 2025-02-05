@@ -2,7 +2,7 @@
 date: '2024-12-15'
 modified_time: 2024-12-16 13:14:48-05:00
 published_time: 2024-12-15 13:10:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/15/remarks-by-president-biden-and-vice-president-harris-at-the-democratic-national-committees-holiday-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/15/remarks-by-president-biden-and-vice-president-harris-at-the-democratic-national-committees-holiday-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Vice President Harris at the Democratic National\
   \ Committee\u2019s Holiday\_Reception"

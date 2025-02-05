@@ -2,7 +2,7 @@
 date: '2022-04-13'
 modified_time: 2022-04-13 09:08:17-04:00
 published_time: 2022-04-13 09:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/13/statement-by-press-secretary-jen-psaki-on-the-impact-of-texas-border-delays/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/13/statement-by-press-secretary-jen-psaki-on-the-impact-of-texas-border-delays/
 tags: statements-releases
 title: "Statement by Press Secretary Jen\_Psaki on the Impact of Texas Border\_Delays"
 ---

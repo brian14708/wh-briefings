@@ -2,7 +2,7 @@
 date: '2022-04-26'
 modified_time: 2022-04-25 23:48:07-04:00
 published_time: 2022-04-26 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/clemency-recipient-list/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/clemency-recipient-list/
 tags: statements-releases
 title: Clemency Recipient List
 ---

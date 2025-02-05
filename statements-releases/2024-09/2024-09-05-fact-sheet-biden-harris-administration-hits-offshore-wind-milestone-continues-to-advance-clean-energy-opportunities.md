@@ -2,7 +2,7 @@
 date: '2024-09-05'
 modified_time: 2024-09-04 22:01:12-04:00
 published_time: 2024-09-05 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-biden-harris-administration-hits-offshore-wind-milestone-continues-to-advance-clean-energy-opportunities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/05/fact-sheet-biden-harris-administration-hits-offshore-wind-milestone-continues-to-advance-clean-energy-opportunities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Hits Offshore Wind Milestone,\
   \ Continues to Advance Clean Energy Opportunities"
@@ -58,7 +58,7 @@ private investment in offshore wind projects.
 Today’s announcement builds on significant progress that the
 Biden-Harris Administration has made to accelerate project reviews while
 protecting communities and our environment. [Recent
-data](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
+data](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
 demonstrates that the Biden-Harris Administration is delivering more
 projects, more quickly than the previous Administration.
 
@@ -111,7 +111,7 @@ workforce](https://www.energy.gov/eere/articles/national-lab-study-charts-path-t
 fill tens of thousands of jobs across the offshore wind industry. The
 Administration’s Federal-State Offshore Wind Implementation Partnership
 is working to
-[strengthen](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-advances-offshore-wind-transmission-strengthens-regional-supply-chain-buildout-and-drives-innovation/)
+[strengthen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/fact-sheet-biden-harris-administration-advances-offshore-wind-transmission-strengthens-regional-supply-chain-buildout-and-drives-innovation/)
 regional collaboration on offshore wind supply chain development, to
 unlock more American job opportunities. With these efforts driving
 progress, [offshore wind investments](https://www.energy.gov/invest)
@@ -124,7 +124,7 @@ thousands of new jobs.
 
 Today’s tenth offshore wind project approval, reflecting collaboration
 across federal agencies, is part of [comprehensive Administration
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/29/fact-sheet-biden-harris-administration-takes-action-to-deliver-more-projects-more-quickly-accelerates-federal-permitting/)
 to improve the federal permitting process, including: investing over $1
 billion through Inflation Reduction Act funds to hire experts and invest
 in new technologies to expedite reviews; passing the first reforms to
@@ -181,7 +181,7 @@ Deep-water areas that require floating platforms are home to two-thirds
 of America’s offshore wind energy potential, including along the West
 Coast and in the Gulf of Maine. To seize these opportunities, the
 Department of the Interior set
-a [goal](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/) to
+a [goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-biden-harris-administration-announces-new-actions-to-expand-u-s-offshore-wind-energy/) to
 deploy 15 gigawatts of floating offshore wind capacity by 2035—enough to
 power over five million American homes. And the Administration launched
 an interagency [Floating Offshore Wind

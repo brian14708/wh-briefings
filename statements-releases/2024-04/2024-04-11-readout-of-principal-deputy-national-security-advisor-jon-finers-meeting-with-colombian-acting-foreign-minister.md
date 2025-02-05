@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-11 20:15:54-04:00
 published_time: 2024-04-11 20:15:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-colombian-acting-foreign-minister/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-colombian-acting-foreign-minister/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Colombian Acting Foreign\_Minister"

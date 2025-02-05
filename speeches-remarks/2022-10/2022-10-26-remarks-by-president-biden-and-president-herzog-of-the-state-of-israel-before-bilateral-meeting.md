@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 published_time: 2022-10-26 18:04:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-and-president-herzog-of-the-state-of-israel-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/26/remarks-by-president-biden-and-president-herzog-of-the-state-of-israel-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Herzog of the State of Israel Before\
   \ Bilateral\_Meeting"

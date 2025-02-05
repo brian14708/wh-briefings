@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 published_time: 2023-03-31 15:11:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/president-joseph-r-biden-jr-amends-mississippi-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/president-joseph-r-biden-jr-amends-mississippi-disaster-declaration/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Amends Mississippi Disaster\_Declaration"
 ---

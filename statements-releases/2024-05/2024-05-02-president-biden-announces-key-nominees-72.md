@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-02 13:07:09-04:00
 published_time: 2024-05-02 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/president-biden-announces-key-nominees-72/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/president-biden-announces-key-nominees-72/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

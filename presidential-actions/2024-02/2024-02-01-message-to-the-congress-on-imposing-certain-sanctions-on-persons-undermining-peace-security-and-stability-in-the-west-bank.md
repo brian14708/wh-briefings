@@ -2,7 +2,7 @@
 date: '2024-02-01'
 modified_time: 2024-02-01 10:47:40-05:00
 published_time: 2024-02-01 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/01/message-to-the-congress-on-imposing-certain-sanctions-on-persons-undermining-peace-security-and-stability-in-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/01/message-to-the-congress-on-imposing-certain-sanctions-on-persons-undermining-peace-security-and-stability-in-the-west-bank/
 tags: presidential-actions
 title: "Message to the Congress on Imposing Certain Sanctions on Persons Undermining\
   \ Peace, Security, and Stability in the West\_Bank"

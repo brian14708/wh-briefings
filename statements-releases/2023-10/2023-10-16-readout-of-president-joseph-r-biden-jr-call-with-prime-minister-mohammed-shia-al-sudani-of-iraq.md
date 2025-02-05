@@ -1,7 +1,7 @@
 ---
 date: '2023-10-16'
 published_time: 2023-10-16 19:59:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/16/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/16/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-mohammed-shia-al-sudani-of-iraq/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr. Call with Prime Minister Mohammed\
   \ Shia Al-Sudani of\_Iraq"

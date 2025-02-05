@@ -1,7 +1,7 @@
 ---
 date: '2023-08-02'
 published_time: 2023-08-02 17:29:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/02/fact-sheet-bidenomics-at-work-in-79-metro-areas-with-record-low-unemployment-rates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/02/fact-sheet-bidenomics-at-work-in-79-metro-areas-with-record-low-unemployment-rates/
 tags: statements-releases
 title: "FACT SHEET: Bidenomics at Work in 79 Metro Areas with Record Low Unemployment\_\
   Rates"
@@ -42,19 +42,19 @@ lows below:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg"
 class="wp-image-81563" decoding="async" loading="lazy"
 sizes="(max-width: 496px) 100vw, 496px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg 496w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=353,615 353w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=184,320 184w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=368,640 368w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=489,850 489w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg 496w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=353,615 353w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=184,320 184w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=368,640 368w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment.jpg?resize=489,850 489w"
 width="496" height="863" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg"
 class="wp-image-81564" decoding="async" loading="lazy"
 sizes="(max-width: 496px) 100vw, 496px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg 496w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=379,615 379w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=197,320 197w, https://www.whitehouse.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=395,640 395w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg 496w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=379,615 379w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=197,320 197w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/Metro-June-Unemployment-2.jpg?resize=395,640 395w"
 width="496" height="804" />
 </figure>
 

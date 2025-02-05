@@ -1,7 +1,7 @@
 ---
 date: '2022-10-31'
 published_time: 2022-10-31 12:44:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/31/a-proclamation-on-national-lung-cancer-awareness-month-2022/
 tags: presidential-actions
 title: "A Proclamation on National Lung Cancer Awareness Month,\_2022"
 ---

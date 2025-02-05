@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 09:55:29-04:00
 published_time: 2022-06-06 09:39:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/fact-sheet-president-biden-takes-bold-executive-action-to-spur-domestic-clean-energy-manufacturing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/fact-sheet-president-biden-takes-bold-executive-action-to-spur-domestic-clean-energy-manufacturing/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Takes Bold Executive Action to Spur Domestic\
   \ Clean Energy\_Manufacturing"
@@ -169,10 +169,10 @@ energy costs for Americans, including:
 
 -   **Permitting More Clean Energy on Public Lands.** As part of the
     [Biden-Harris Permitting Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/),
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/),
     a new five-agency collaboration is [expediting reviews of clean
     energy projects on public
-    lands](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-races-to-deploy-clean-energy-that-creates-jobs-and-lowers-costs/)
+    lands](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/12/fact-sheet-biden-harris-administration-races-to-deploy-clean-energy-that-creates-jobs-and-lowers-costs/)
     through the Department of the Interior, helping us race ahead toward
     permitting at least 25 gigawatts by 2025 – enough to power around
     five million homes. These actions have already
@@ -196,7 +196,7 @@ energy costs for Americans, including:
     permits, and an additional 400 interested communities are in the
     pipeline. The National Climate Task Force launched new initiatives
     on increasing deployment of [Distributed Energy
-    Resources](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/),
+    Resources](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/20/fact-sheet-biden-harris-administration-creates-cost-saving-clean-energy-opportunities-to-combat-climate-crisis/),
     including rooftop solar, with a focus on bringing the benefits of
     these projects to underserved communities. The United States
     Department of Agriculture provided the largest-ever investment in

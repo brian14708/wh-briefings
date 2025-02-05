@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 16:00:10-04:00
 published_time: 2024-03-14 16:00:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/14/statement-from-president-biden-on-us-steel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/14/statement-from-president-biden-on-us-steel/
 tags: statements-releases
 title: "Statement from President\_Biden on US\_Steel"
 ---

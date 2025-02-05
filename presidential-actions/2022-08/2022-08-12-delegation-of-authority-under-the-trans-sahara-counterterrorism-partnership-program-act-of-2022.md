@@ -2,7 +2,7 @@
 date: '2022-08-12'
 modified_time: 2022-08-12 13:21:54-04:00
 published_time: 2022-08-12 13:19:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/12/delegation-of-authority-under-the-trans-sahara-counterterrorism-partnership-program-act-of-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/12/delegation-of-authority-under-the-trans-sahara-counterterrorism-partnership-program-act-of-2022/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under the Trans-Sahara Counterterrorism\
   \ Partnership Program Act of\_2022"

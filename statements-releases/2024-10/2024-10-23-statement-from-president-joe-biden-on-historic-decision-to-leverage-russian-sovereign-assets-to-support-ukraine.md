@@ -1,7 +1,7 @@
 ---
 date: '2024-10-23'
 published_time: 2024-10-23 13:11:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/23/statement-from-president-joe-biden-on-historic-decision-to-leverage-russian-sovereign-assets-to-support-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/23/statement-from-president-joe-biden-on-historic-decision-to-leverage-russian-sovereign-assets-to-support-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Historic Decision to Leverage Russian\
   \ Sovereign Assets to Support\_Ukraine"

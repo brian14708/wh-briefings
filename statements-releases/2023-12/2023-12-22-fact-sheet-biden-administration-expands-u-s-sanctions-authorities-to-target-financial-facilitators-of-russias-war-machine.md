@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-22 11:20:39-05:00
 published_time: 2023-12-22 07:51:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/fact-sheet-biden-administration-expands-u-s-sanctions-authorities-to-target-financial-facilitators-of-russias-war-machine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/fact-sheet-biden-administration-expands-u-s-sanctions-authorities-to-target-financial-facilitators-of-russias-war-machine/
 tags: statements-releases
 title: "FACT SHEET: Biden Administration Expands U.S. Sanctions Authorities to Target\
   \ Financial Facilitators of Russia\u2019s War\_Machine"
@@ -36,7 +36,7 @@ violation of Ukraine’s sovereignty and territorial integrity. 
   
 With this E.O., the United States is taking action consistent with the
 G7 Leaders’ statement of [December 6,
-2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/g7-leaders-statement-6/),
+2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/g7-leaders-statement-6/),
 which warned that we will work to further curtail Russia’s efforts to
 use the international financial system to facilitate expansion of its
 military industrial base.  

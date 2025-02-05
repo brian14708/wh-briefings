@@ -2,7 +2,7 @@
 date: '2022-07-12'
 modified_time: 2022-07-11 23:41:12-04:00
 published_time: 2022-07-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-vice-president-harris-announces-commitments-to-strengthen-u-s-partnership-with-the-pacific-islands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/12/fact-sheet-vice-president-harris-announces-commitments-to-strengthen-u-s-partnership-with-the-pacific-islands/
 tags: statements-releases
 title: "Fact Sheet: Vice President Harris Announces Commitments to Strengthen U.S.\
   \ Partnership with the Pacific\_Islands"

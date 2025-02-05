@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-20 05:40:43-04:00
 published_time: 2022-05-20 05:40:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/20/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake\_Sullivan"

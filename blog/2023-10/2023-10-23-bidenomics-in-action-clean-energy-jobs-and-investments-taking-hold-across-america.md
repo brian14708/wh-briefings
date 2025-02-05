@@ -2,7 +2,7 @@
 date: '2023-10-23'
 modified_time: 2023-10-20 16:23:04-04:00
 published_time: 2023-10-23 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/10/23/bidenomics-in-action-clean-energy-jobs-and-investments-taking-hold-across-america/
 tags: blog
 title: "Bidenomics in Action: Clean Energy Jobs and Investments Taking Hold Across\_\
   America"
@@ -25,7 +25,7 @@ with high-quality job opportunities for American workers and addressing
 the climate crisis. Since the start of the Biden-Harris Administration,
 private companies have announced plans for about 94 GW of new clean
 power generation projects, representing an estimated [$133
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 investment as of August 2023 (Figure
 1).<a href="#_ftn1" id="_ftnref1">[1]</a> These announced investments in
 specific generation projects are a subset of a larger boom across
@@ -34,10 +34,10 @@ new investments in clean energy manufacturing and infrastructure.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?w=640"
 class="wp-image-86113" decoding="async" loading="lazy"
 sizes="(max-width: 1928px) 100vw, 1928px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png 1928w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=615,368 615w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=768,459 768w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=1270,759 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=1536,919 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=535,320 535w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=1070,640 1070w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure1.png?resize=1038,621 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png 1928w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=615,368 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=768,459 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=1270,759 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=1536,919 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=535,320 535w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=1070,640 1070w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure1.png?resize=1038,621 1038w"
 width="1928" height="1153" />
 </figure>
 
@@ -61,19 +61,19 @@ in power generation, disaggregated by generation technology.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?w=640"
 class="wp-image-86117" decoding="async" loading="lazy"
 sizes="(max-width: 2078px) 100vw, 2078px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png 2078w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=615,383 615w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=768,478 768w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=1270,791 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=1536,956 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=2048,1275 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=514,320 514w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=1028,640 1028w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=2056,1280 2056w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure2.png?resize=1038,646 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png 2078w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=615,383 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=768,478 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=1270,791 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=1536,956 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=2048,1275 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=514,320 514w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=1028,640 1028w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=2056,1280 2056w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure2.png?resize=1038,646 1038w"
 width="2078" height="1294" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?w=640"
 class="wp-image-86118" decoding="async" loading="lazy"
 sizes="(max-width: 2052px) 100vw, 2052px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png 2052w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=615,406 615w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=768,507 768w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=1270,838 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=1536,1014 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=2048,1351 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=485,320 485w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=970,640 970w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=1940,1280 1940w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=1038,685 1038w, https://www.whitehouse.gov/wp-content/uploads/2023/10/Figure3.png?resize=114,76 114w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png 2052w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=615,406 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=768,507 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=1270,838 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=1536,1014 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=2048,1351 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=485,320 485w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=970,640 970w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=1940,1280 1940w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=1038,685 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Figure3.png?resize=114,76 114w"
 width="2052" height="1354" />
 </figure>
 
@@ -111,10 +111,10 @@ energy jobs increased by 9.1 percent in both New Mexico and Oklahoma.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png"
 class="wp-image-86127" decoding="async" loading="lazy"
 sizes="(max-width: 1080px) 100vw, 1080px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png 1080w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png?resize=615,482 615w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png?resize=768,602 768w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png?resize=408,320 408w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png?resize=816,640 816w, https://www.whitehouse.gov/wp-content/uploads/2023/10/figure4-1.png?resize=1038,814 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png 1080w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png?resize=615,482 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png?resize=768,602 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png?resize=408,320 408w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png?resize=816,640 816w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/figure4-1.png?resize=1038,814 1038w"
 width="1080" height="847" />
 </figure>
 
@@ -160,12 +160,12 @@ investments are likely to support additional innovation and job growth
 in the energy sector.
 
 The Administration’s ongoing push to create [high-quality
-jobs](https://www.whitehouse.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/),
+jobs](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/09/29/good-jobs-and-unions-will-help-build-our-workforce/),
 such as through incentives for [fair
 wages](https://www.dol.gov/agencies/whd/IRA), support for
-[unionization](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/),
+[unionization](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/),
 and training and recruitment
-[pipelines](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/),
+[pipelines](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/fact-sheet-biden-harris-administration-announces-strategies-to-train-and-connect-american-workers-to-jobs-created-by-the-presidents-investing-in-america-agenda/),
 will help ensure that the benefits of this growing sector are shared
 equitably. Continuing to track the growth of the energy sector in this
 and other data will be an important part of ensuring that this Investing

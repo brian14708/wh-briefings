@@ -2,7 +2,7 @@
 date: '2023-12-17'
 modified_time: 2023-12-17 12:04:21-05:00
 published_time: 2023-12-17 12:04:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-emirati-national-security-advisor-sheikh-tahnoun-bin-zayed/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/17/readout-of-national-security-advisor-jake-sullivans-meeting-with-emirati-national-security-advisor-sheikh-tahnoun-bin-zayed/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Emirati\
   \ National Security Advisor Sheikh Tahnoun bin\_Zayed"

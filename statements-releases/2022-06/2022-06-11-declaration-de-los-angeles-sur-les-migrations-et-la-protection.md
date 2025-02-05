@@ -2,7 +2,7 @@
 date: '2022-06-11'
 modified_time: 2022-06-11 02:32:22-04:00
 published_time: 2022-06-11 02:32:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/11/declaration-de-los-angeles-sur-les-migrations-et-la-protection/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/11/declaration-de-los-angeles-sur-les-migrations-et-la-protection/
 tags: statements-releases
 title: "D\xE9claration de Los Angeles sur les migrations et la\_protection"
 ---

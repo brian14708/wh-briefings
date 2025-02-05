@@ -1,7 +1,7 @@
 ---
 date: '2022-11-29'
 published_time: 2022-11-29 09:54:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/president-biden-announces-two-new-nominees-to-serve-as-u-s-attorneys/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/president-biden-announces-two-new-nominees-to-serve-as-u-s-attorneys/
 tags: statements-releases
 title: "President\_Biden Announces Two New Nominees to Serve as U.S.\_Attorneys"
 ---

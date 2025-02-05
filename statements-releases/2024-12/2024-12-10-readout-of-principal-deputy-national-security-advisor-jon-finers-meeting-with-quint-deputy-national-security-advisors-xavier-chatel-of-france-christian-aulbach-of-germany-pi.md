@@ -1,7 +1,7 @@
 ---
 date: '2024-12-10'
 published_time: 2024-12-10 09:38:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/10/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-quint-deputy-national-security-advisors-xavier-chatel-of-france-christian-aulbach-of-germany-pi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/10/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-with-quint-deputy-national-security-advisors-xavier-chatel-of-france-christian-aulbach-of-germany-pi/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ with Quint Deputy National Security Advisors: Xavier Chatel of France, Christian\

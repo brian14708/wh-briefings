@@ -2,7 +2,7 @@
 date: '2023-01-05'
 modified_time: 2023-01-05 11:18:18-05:00
 published_time: 2023-01-05 11:18:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/05/fact-sheet-biden-harris-administration-announces-new-border-enforcement-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/05/fact-sheet-biden-harris-administration-announces-new-border-enforcement-actions/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Border Enforcement\_\
   Actions"

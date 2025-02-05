@@ -2,7 +2,7 @@
 date: '2024-10-05'
 modified_time: 2024-10-05 16:40:51-04:00
 published_time: 2024-10-05 16:40:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/05/interested-parties-memo-fighting-hurricane-helene-falsehoods-with-facts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/05/interested-parties-memo-fighting-hurricane-helene-falsehoods-with-facts/
 tags: statements-releases
 title: "Interested Parties Memo: Fighting Hurricane Helene Falsehoods with\_Facts"
 ---
@@ -13,7 +13,7 @@ and Director of Digital Strategy Christian Tom*
 Under President Biden and Vice President Harris’s direction, the
 Administration has mobilized a [robust, intensive, and
 whole-of-government
-effort](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-update-biden-harris-continues-life-saving-response-efforts-in-response-to-hurricane-helene/)
+effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-update-biden-harris-continues-life-saving-response-efforts-in-response-to-hurricane-helene/)
 to respond to the impacts of Hurricane Helene. This includes extensive
 pre-landfall preparations, as well as an immediate surge of additional
 resources and personnel to impacted communities. More than 6,400 Federal
@@ -137,28 +137,28 @@ volume and scope of federal aid being delivered.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png"
 class="wp-image-106985" decoding="async" loading="lazy"
 sizes="(max-width: 772px) 100vw, 772px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png 772w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png?resize=391,615 391w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png?resize=768,1208 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png?resize=203,320 203w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png?resize=407,640 407w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-1.png?resize=541,850 541w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png 772w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png?resize=391,615 391w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png?resize=768,1208 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png?resize=203,320 203w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png?resize=407,640 407w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-1.png?resize=541,850 541w"
 width="772" height="1214" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png"
 class="wp-image-106986" decoding="async" loading="lazy"
 sizes="(max-width: 778px) 100vw, 778px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png 778w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png?resize=403,615 403w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png?resize=768,1171 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png?resize=210,320 210w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png?resize=420,640 420w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-2.png?resize=558,850 558w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png 778w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png?resize=403,615 403w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png?resize=768,1171 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png?resize=210,320 210w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png?resize=420,640 420w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-2.png?resize=558,850 558w"
 width="778" height="1186" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png"
 class="wp-image-106987" decoding="async" loading="lazy"
 sizes="(max-width: 778px) 100vw, 778px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png 778w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png?resize=404,615 404w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png?resize=768,1169 768w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png?resize=210,320 210w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png?resize=421,640 421w, https://www.whitehouse.gov/wp-content/uploads/2024/10/SB-3.png?resize=559,850 559w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png 778w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png?resize=404,615 404w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png?resize=768,1169 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png?resize=210,320 210w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png?resize=421,640 421w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/SB-3.png?resize=559,850 559w"
 width="778" height="1184" />
 </figure>
 

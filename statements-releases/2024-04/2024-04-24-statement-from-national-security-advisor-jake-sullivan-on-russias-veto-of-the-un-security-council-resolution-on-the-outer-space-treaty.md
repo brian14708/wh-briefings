@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-24 17:31:05-04:00
 published_time: 2024-04-24 17:31:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/24/statement-from-national-security-advisor-jake-sullivan-on-russias-veto-of-the-un-security-council-resolution-on-the-outer-space-treaty/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/24/statement-from-national-security-advisor-jake-sullivan-on-russias-veto-of-the-un-security-council-resolution-on-the-outer-space-treaty/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Russia\u2019s Veto\
   \ of the UN Security Council Resolution on the Outer Space\_Treaty"

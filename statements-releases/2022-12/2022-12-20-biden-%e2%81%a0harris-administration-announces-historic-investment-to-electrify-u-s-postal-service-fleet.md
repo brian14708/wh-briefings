@@ -2,7 +2,7 @@
 date: '2022-12-20'
 modified_time: 2022-12-20 10:56:29-05:00
 published_time: 2022-12-20 10:57:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/20/biden-%e2%81%a0harris-administration-announces-historic-investment-to-electrify-u-s-postal-service-fleet/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces Historic Investment to Electrify\
   \ U.S. Postal Service\_Fleet"
@@ -38,7 +38,7 @@ America. Since President Biden took office, U.S. electric vehicle sales
 [tripled](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.anl.gov%2Fesia%2Flight-duty-electric-drive-vehicles-monthly-sales-updates&data=05%7C01%7Ckerry.arndt%40dot.gov%7Ca16c0a6283324dd2d9dd08daa869fbb1%7Cc4cd245b44f04395a1aa3848d258f78b%7C0%7C0%7C638007470393578092%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=TxxqroNNPDH4gf5mHKWW26EX36S%2BL%2FT%2FJz8AXJQAYWk%3D&reserved=0)
 and are now higher than ever before. One year ago, through the
 President’s [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
 on *Catalyzing Clean Energy Industries and Jobs Through Federal
 Sustainability*, the Biden-Harris Administration released the most
 ambitious sustainability plan ever, [establishing a

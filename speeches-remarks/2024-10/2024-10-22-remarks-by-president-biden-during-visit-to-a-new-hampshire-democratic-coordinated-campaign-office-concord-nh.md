@@ -2,7 +2,7 @@
 date: '2024-10-22'
 modified_time: 2024-10-23 14:59:34-04:00
 published_time: 2024-10-22 17:58:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/22/remarks-by-president-biden-during-visit-to-a-new-hampshire-democratic-coordinated-campaign-office-concord-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/22/remarks-by-president-biden-during-visit-to-a-new-hampshire-democratic-coordinated-campaign-office-concord-nh/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Visit to a New Hampshire Democratic Coordinated\
   \ Campaign Office | Concord,\_NH"

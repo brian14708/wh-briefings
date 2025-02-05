@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 published_time: 2023-09-26 19:21:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/readout-of-national-security-advisor-jake-sullivan-and-homeland-security-advisor-liz-sherwood-randalls-private-sector-roundtable-on-lawful-pathways/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/readout-of-national-security-advisor-jake-sullivan-and-homeland-security-advisor-liz-sherwood-randalls-private-sector-roundtable-on-lawful-pathways/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan and Homeland Security Advisor\
   \ Liz Sherwood-Randall\u2019s Private Sector Roundtable on Lawful\_Pathways"

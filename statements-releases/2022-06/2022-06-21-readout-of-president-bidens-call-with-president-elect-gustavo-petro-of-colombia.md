@@ -1,7 +1,7 @@
 ---
 date: '2022-06-21'
 published_time: 2022-06-21 15:48:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/readout-of-president-bidens-call-with-president-elect-gustavo-petro-of-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/readout-of-president-bidens-call-with-president-elect-gustavo-petro-of-colombia/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President-Elect Gustavo Petro\
   \ of\_Colombia"

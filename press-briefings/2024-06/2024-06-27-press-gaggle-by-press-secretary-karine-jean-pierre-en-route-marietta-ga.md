@@ -2,7 +2,7 @@
 date: '2024-06-27'
 modified_time: 2024-06-27 18:17:29-04:00
 published_time: 2024-06-27 18:17:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/06/27/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-marietta-ga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/06/27/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-marietta-ga/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Marietta,\_GA"
 ---

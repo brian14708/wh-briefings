@@ -2,7 +2,7 @@
 date: '2023-09-15'
 modified_time: 2023-09-14 16:46:14-04:00
 published_time: 2023-09-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/15/statement-from-president-joe-biden-on-the-anniversary-of-mahsa-aminis-death-and-irans-brutal-crackdown/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/15/statement-from-president-joe-biden-on-the-anniversary-of-mahsa-aminis-death-and-irans-brutal-crackdown/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Anniversary of Mahsa Amini\u2019\
   s Death and Iran\u2019s Brutal\_Crackdown"

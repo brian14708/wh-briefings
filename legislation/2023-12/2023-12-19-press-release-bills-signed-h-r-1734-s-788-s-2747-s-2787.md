@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 17:34:07-05:00
 published_time: 2023-12-19 17:34:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/12/19/press-release-bills-signed-h-r-1734-s-788-s-2747-s-2787/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/12/19/press-release-bills-signed-h-r-1734-s-788-s-2747-s-2787/
 tags: legislation
 title: "Press Release: Bills Signed: H.R. 1734, S. 788, S. 2747, S.\_2787"
 ---

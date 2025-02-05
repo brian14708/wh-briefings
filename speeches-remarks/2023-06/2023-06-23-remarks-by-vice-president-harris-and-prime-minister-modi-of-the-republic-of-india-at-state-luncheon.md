@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 15:15:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-vice-president-harris-and-prime-minister-modi-of-the-republic-of-india-at-state-luncheon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-vice-president-harris-and-prime-minister-modi-of-the-republic-of-india-at-state-luncheon/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Modi of the Republic of\
   \ India at State\_Luncheon"

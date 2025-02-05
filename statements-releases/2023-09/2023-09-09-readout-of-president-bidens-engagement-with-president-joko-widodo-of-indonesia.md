@@ -1,7 +1,7 @@
 ---
 date: '2023-09-09'
 published_time: 2023-09-09 12:33:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/readout-of-president-bidens-engagement-with-president-joko-widodo-of-indonesia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/readout-of-president-bidens-engagement-with-president-joko-widodo-of-indonesia/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Engagement with President Joko Widodo of\_\
   Indonesia"

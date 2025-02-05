@@ -2,7 +2,7 @@
 date: '2024-07-17'
 modified_time: 2024-07-17 19:33:50-04:00
 published_time: 2024-07-17 19:26:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/
 tags: presidential-actions
 title: "Executive Order on White\_House Initiative on Advancing Educational Equity,\
   \ Excellence, and Economic Opportunity Through Hispanic-Serving Institutions"

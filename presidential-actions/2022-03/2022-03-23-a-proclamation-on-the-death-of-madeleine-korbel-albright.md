@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2022-03-23'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/23/a-proclamation-on-the-death-of-madeleine-korbel-albright/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/23/a-proclamation-on-the-death-of-madeleine-korbel-albright/
 published_time: 2022-03-23 17:53:57-04:00
 title: "A Proclamation on the Death of Madeleine Korbel\_Albright"
 ---

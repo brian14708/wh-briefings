@@ -1,7 +1,7 @@
 ---
 date: '2023-04-05'
 published_time: 2023-04-05 06:33:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/05/icymi-president-joe-biden-op-ed-to-fight-antisemitism-we-must-remember-speak-out-and-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/05/icymi-president-joe-biden-op-ed-to-fight-antisemitism-we-must-remember-speak-out-and-act/
 tags: statements-releases
 title: "ICYMI: President Joe\_Biden Op-Ed: \u201CTo fight antisemitism, we must remember,\
   \ speak out and\_act\u201D"
@@ -115,7 +115,7 @@ Jewish community stakeholders, faith and civil rights leaders, state and
 local officials and more.  
 Taking action also means reinforcing that Jewish culture and values are
 essential to the fabric of America. That’s why we hosted the first High
-Holiday [reception](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/30/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-the-jewish-new-year/) at
+Holiday [reception](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/30/remarks-by-president-biden-first-lady-jill-biden-and-second-gentleman-douglas-emhoff-at-a-reception-to-celebrate-the-jewish-new-year/) at
 the White House and lit the first permanent White House
 Hanukkah [menorah ](https://www.npr.org/2022/12/19/1144125582/as-the-bidens-mark-hanukkah-the-white-house-gets-its-own-menorah-for-the-first-t)in
 our nation’s history.

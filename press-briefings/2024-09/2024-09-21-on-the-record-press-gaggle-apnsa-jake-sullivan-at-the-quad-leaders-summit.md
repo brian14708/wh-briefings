@@ -2,7 +2,7 @@
 date: '2024-09-21'
 modified_time: 2024-09-21 22:04:43-04:00
 published_time: 2024-09-21 22:04:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/09/21/on-the-record-press-gaggle-apnsa-jake-sullivan-at-the-quad-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/09/21/on-the-record-press-gaggle-apnsa-jake-sullivan-at-the-quad-leaders-summit/
 tags: press-briefings
 title: "On-the-Record Press Gaggle APNSA Jake Sullivan at the Quad Leaders\_Summit"
 ---

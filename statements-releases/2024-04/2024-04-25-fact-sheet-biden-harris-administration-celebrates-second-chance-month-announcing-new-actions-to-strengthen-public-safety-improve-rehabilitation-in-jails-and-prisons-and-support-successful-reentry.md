@@ -2,7 +2,7 @@
 date: '2024-04-25'
 modified_time: 2024-04-25 16:15:21-04:00
 published_time: 2024-04-25 16:15:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-celebrates-second-chance-month-announcing-new-actions-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-biden-harris-administration-celebrates-second-chance-month-announcing-new-actions-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates Second Chance Month\
   \ Announcing New Actions to Strengthen Public Safety, Improve Rehabilitation in\

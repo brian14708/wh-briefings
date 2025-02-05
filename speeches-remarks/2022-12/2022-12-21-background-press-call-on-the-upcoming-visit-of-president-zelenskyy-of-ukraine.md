@@ -2,7 +2,7 @@
 date: '2022-12-21'
 modified_time: 2022-12-20 23:44:52-05:00
 published_time: 2022-12-21 01:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/21/background-press-call-on-the-upcoming-visit-of-president-zelenskyy-of-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/21/background-press-call-on-the-upcoming-visit-of-president-zelenskyy-of-ukraine/
 tags: speeches-remarks
 title: "Background Press Call on the Upcoming Visit of President Zelenskyy of\_Ukraine"
 ---

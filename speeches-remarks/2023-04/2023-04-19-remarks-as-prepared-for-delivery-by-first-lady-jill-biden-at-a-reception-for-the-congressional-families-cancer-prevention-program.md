@@ -2,7 +2,7 @@
 date: '2023-04-19'
 modified_time: 2023-04-19 19:46:43-04:00
 published_time: 2023-04-19 19:46:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-for-the-congressional-families-cancer-prevention-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/19/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-reception-for-the-congressional-families-cancer-prevention-program/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Reception\
   \ for the Congressional Families Cancer Prevention\_Program"

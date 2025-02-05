@@ -1,7 +1,7 @@
 ---
 date: '2023-01-06'
 published_time: 2023-01-06 19:21:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-jean-charles-ellermann-kingombe-permanent-under-secretary-of-state-at-the-danish-prime-ministers-office/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-jean-charles-ellermann-kingombe-permanent-under-secretary-of-state-at-the-danish-prime-ministers-office/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Jean-Charles\
   \ Ellermann-Kingombe, Permanent Under-Secretary of State at the Danish Prime Minister\u2019\

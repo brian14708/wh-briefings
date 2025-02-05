@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-09 10:24:02-05:00
 published_time: 2024-12-06 20:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/06/remarks-by-president-biden-honoring-american-veterans-and-their-families-on-the-eve-of-the-83rd-anniversary-of-the-attack-on-pearl-harbor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/06/remarks-by-president-biden-honoring-american-veterans-and-their-families-on-the-eve-of-the-83rd-anniversary-of-the-attack-on-pearl-harbor/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring American Veterans and their Families\
   \ on the Eve of the 83rd Anniversary of the Attack on Pearl\_Harbor"

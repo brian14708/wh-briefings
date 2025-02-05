@@ -1,7 +1,7 @@
 ---
 date: '2024-01-30'
 published_time: 2024-01-30 18:39:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/30/readout-of-the-quad-stem-fellows-event-at-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/30/readout-of-the-quad-stem-fellows-event-at-the-white-house/
 tags: statements-releases
 title: "Readout of the Quad STEM Fellows Event at the White\_House"
 ---

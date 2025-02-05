@@ -1,7 +1,7 @@
 ---
 date: '2024-06-13'
 published_time: 2024-06-13 11:17:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-supreme-court-decision-on-fda-v-alliance-for-hippocratic-medicine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-supreme-court-decision-on-fda-v-alliance-for-hippocratic-medicine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Supreme Court Decision on FDA v. Alliance\
   \ for Hippocratic\_Medicine"

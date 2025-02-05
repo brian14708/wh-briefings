@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 22:06:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-indian-external-affairs-minister-jaishankar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/readout-of-national-security-advisor-jake-sullivans-meeting-with-indian-external-affairs-minister-jaishankar/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Indian\
   \ External Affairs Minister\_Jaishankar"

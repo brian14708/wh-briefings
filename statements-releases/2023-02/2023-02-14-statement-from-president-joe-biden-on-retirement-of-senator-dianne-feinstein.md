@@ -1,7 +1,7 @@
 ---
 date: '2023-02-14'
 published_time: 2023-02-14 18:20:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-retirement-of-senator-dianne-feinstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-retirement-of-senator-dianne-feinstein/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Retirement of Senator Dianne\_Feinstein"
 ---

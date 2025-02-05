@@ -2,7 +2,7 @@
 date: '2024-02-23'
 modified_time: 2024-02-23 09:44:07-05:00
 published_time: 2024-02-23 10:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/23/remarks-by-president-biden-in-press-gaggle-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/23/remarks-by-president-biden-in-press-gaggle-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press Gaggle | San Francisco,\_CA"
 ---

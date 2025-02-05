@@ -2,7 +2,7 @@
 date: '2022-12-23'
 modified_time: 2022-12-23 10:13:16-05:00
 published_time: 2022-12-23 14:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/23/executive-order-on-adjustments-of-certain-rates-of-pay-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/23/executive-order-on-adjustments-of-certain-rates-of-pay-2/
 tags: presidential-actions
 title: "Executive Order on Adjustments of Certain Rates of\_Pay"
 ---

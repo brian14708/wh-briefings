@@ -1,7 +1,7 @@
 ---
 date: '2022-06-23'
 published_time: 2022-06-23 13:59:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/23/remarks-by-vice-president-harris-in-a-meeting-with-state-attorneys-general-on-protecting-reproductive-healthcare-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/23/remarks-by-vice-president-harris-in-a-meeting-with-state-attorneys-general-on-protecting-reproductive-healthcare-access/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_in a Meeting with State Attorneys General\_\
   on Protecting Reproductive Healthcare\_Access"

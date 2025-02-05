@@ -1,7 +1,7 @@
 ---
 date: '2024-09-24'
 published_time: 2024-09-24 20:05:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-confederated-tribes-and-bands-of-the-yakama-nation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-confederated-tribes-and-bands-of-the-yakama-nation/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Confederated\
   \ Tribes and Bands of the Yakama\_Nation"

@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 17:02:57-04:00
 published_time: 2022-05-04 16:58:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/04/a-proclamation-on-missing-or-murdered-indigenous-persons-awareness-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/04/a-proclamation-on-missing-or-murdered-indigenous-persons-awareness-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Missing Or Murdered Indigenous Persons Awareness Day,\_\
   2022"

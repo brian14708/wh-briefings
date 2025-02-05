@@ -1,7 +1,7 @@
 ---
 date: '2023-01-18'
 published_time: 2023-01-18 13:24:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/18/statement-of-president-joe-biden-and-first-lady-jill-biden-on-helicopter-crash-in-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/18/statement-of-president-joe-biden-and-first-lady-jill-biden-on-helicopter-crash-in-ukraine/
 tags: statements-releases
 title: "Statement of President Joe\_Biden and First Lady Jill\_Biden on Helicopter\
   \ Crash in\_Ukraine"

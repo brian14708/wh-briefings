@@ -2,7 +2,7 @@
 date: '2022-04-07'
 modified_time: 2022-04-07 15:33:38-04:00
 published_time: 2022-04-07 15:33:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/07/a-message-to-the-senate-transmitting-the-extradition-treaty-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-albania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/07/a-message-to-the-senate-transmitting-the-extradition-treaty-between-the-government-of-the-united-states-of-america-and-the-government-of-the-republic-of-albania/
 tags: statements-releases
 title: "A Message to the Senate transmitting the Extradition Treaty between the Government\
   \ of the United\_States of America and the Government of the Republic of\_Albania"

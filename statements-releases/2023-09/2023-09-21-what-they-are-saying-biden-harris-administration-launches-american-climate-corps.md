@@ -2,7 +2,7 @@
 date: '2023-09-21'
 modified_time: 2023-09-21 13:21:12-04:00
 published_time: 2023-09-21 13:21:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/21/what-they-are-saying-biden-harris-administration-launches-american-climate-corps/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/21/what-they-are-saying-biden-harris-administration-launches-american-climate-corps/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Biden-\u2060Harris Administration Launches American\
   \ Climate\_Corps"
@@ -10,13 +10,13 @@ title: "WHAT THEY ARE SAYING: Biden-\u2060Harris Administration Launches America
  
 As part of the Biden-Harris Administration’s historic climate agenda,
 yesterday the Administration
-[launched](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
+[launched](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
 the American Climate Corps, a workforce training and service initiative
 that will ensure more young people have access to the skills-based
 training necessary for good-paying careers in the clean energy and
 climate resilience economy.
 
-The [American Climate Corps](https://www.whitehouse.gov/climatecorps/)
+The [American Climate Corps](https://bidenwhitehouse.archives.gov/climatecorps/)
 will mobilize a new, diverse generation of more than 20,000 Americans –
 putting them to work conserving and restoring our lands and waters,
 bolstering community resilience, deploying clean energy, implementing

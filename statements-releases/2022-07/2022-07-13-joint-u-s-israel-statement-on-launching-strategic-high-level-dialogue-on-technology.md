@@ -2,7 +2,7 @@
 date: '2022-07-13'
 modified_time: 2022-07-13 04:46:45-04:00
 published_time: 2022-07-13 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/13/joint-u-s-israel-statement-on-launching-strategic-high-level-dialogue-on-technology/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/13/joint-u-s-israel-statement-on-launching-strategic-high-level-dialogue-on-technology/
 tags: statements-releases
 title: "Joint U.S.-Israel Statement on Launching Strategic High-Level Dialogue on\_\
   Technology"

@@ -2,7 +2,7 @@
 date: '2024-04-29'
 modified_time: 2024-04-30 17:19:33-04:00
 published_time: 2024-04-29 17:05:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/background-press-call-on-the-national-security-memorandum-on-critical/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/background-press-call-on-the-national-security-memorandum-on-critical/
 tags: statements-releases
 title: "Background Press Call on the National Security Memorandum on\_Critical"
 ---

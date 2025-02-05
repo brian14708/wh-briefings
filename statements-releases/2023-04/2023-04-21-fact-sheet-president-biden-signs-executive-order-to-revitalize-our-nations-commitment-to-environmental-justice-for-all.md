@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-20 20:45:05-04:00
 published_time: 2023-04-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Revitalize Our Nation\u2019\
   s Commitment to Environmental Justice for\_All"
@@ -124,10 +124,10 @@ to address the needs of present and future generations – a promise he
 made following meaningful engagement with communities with environmental
 justice concerns and solidified in Executive Order 14008, [*Tackling the
 Climate Crisis at Home and
-Abroad*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
+Abroad*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/).
 The Executive Order reflects the values, goals, and recommendations of
 the [White House Environmental Justice Advisory
-Council](https://www.whitehouse.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
+Council](https://bidenwhitehouse.archives.gov/environmentaljustice/white-house-environmental-justice-advisory-council/)
 (WHEJAC), an expert body of leaders, researchers, practitioners, and
 community members. In line with the WHEJAC’s recommendations, the
 Executive Order outlines an ambitious approach to environmental justice
@@ -176,12 +176,12 @@ historic commitment to environmental justice:
     marginalized and overburdened communities.
 -   **Announcing new Justice40 covered programs.** Through
     the [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     the Biden-Harris Administration is reshaping hundreds of federal
     programs to ensure that 40 percent of the overall benefits of
     certain federal investments flow to disadvantaged communities. Today
     [three additional
-    agencies](https://www.whitehouse.gov/wp-content/uploads/2023/04/Justice40-Covered-Programs-List_v1.4_04-20-2023.pdf),
+    agencies](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Justice40-Covered-Programs-List_v1.4_04-20-2023.pdf),
     the Department of Commerce, the National Science Foundation, and the
     National Aeronautics and Space Administration (NASA), announced
     their Justice40 covered programs. Now nearly 470 programs across
@@ -209,7 +209,7 @@ progress includes:
 
 -   **Delivering on the Justice40 Initiative.** Through President
     Biden’s [Justice40
-    Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/),
+    Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/),
     the Administration is delivering 40 percent of the overall benefits
     of federal climate, clean energy, affordable and sustainable
     housing, clean water, and other investments to disadvantaged
@@ -230,15 +230,15 @@ progress includes:
     costs, increase energy security, and create good-paying jobs,
     especially in low-income and disadvantaged communities. Through the
     [Bipartisan Infrastructure
-    Law](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
+    Law](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/16/the-bipartisan-infrastructure-law-advances-environmental-justice/)
     and the [Inflation Reduction
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/17/fact-sheet-inflation-reduction-act-advances-environmental-justice/),
     agencies are investing billions to [plug orphaned oil and gas
     wells](https://www.doi.gov/pressreleases/secretary-haaland-establishes-orphaned-wells-program-office-implement-historic),
     [replace lead service
     lines](https://www.epa.gov/newsreleases/epa-launches-new-initiative-accelerate-lead-pipe-replacement-protect-underserved#:~:text=President%20Biden's%20Bipartisan%20Infrastructure%20Law%20invested%20an%20unprecedented%20%2450%20billion,used%20for%20lead%20service%20line),
     [create clean energy jobs in energy
-    communities](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/),
+    communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/),
     [increase equitable access to trees and green
     spaces](https://www.usda.gov/media/press-releases/2023/04/12/biden-harris-administration-announces-historic-funding-expand),
     [install air monitors to screen for
@@ -300,14 +300,14 @@ progress includes:
     The White House engaged more than a thousand individuals,
     organizations, and Tribal Nations to develop [guidance on elevating
     Indigenous
-    Knowledge](https://www.whitehouse.gov/ceq/news-updates/2022/12/01/white-house-releases-first-of-a-kind-indigenous-knowledge-guidance-for-federal-agencies/)
+    Knowledge](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/12/01/white-house-releases-first-of-a-kind-indigenous-knowledge-guidance-for-federal-agencies/)
     in federal research, policy, and decision-making.
 -   **Strengthening our regulatory system for the 21<sup>st</sup>
     century**. Earlier this month, the Biden-Harris Administration
     rolled out new efforts to promote equitable and meaningful
     participation in the regulatory process, and OMB’s Office of
     Information and Regulatory Affairs [proposed new
-    guidance](https://www.whitehouse.gov/omb/briefing-room/2023/04/06/strengthening-our-regulatory-system-for-the-21st-century/)
+    guidance](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/04/06/strengthening-our-regulatory-system-for-the-21st-century/)
     to help agencies better account for the full range of benefits and
     costs of their regulatory actions. These new steps will produce a
     more efficient, effective regulatory review process that will help
@@ -316,6 +316,6 @@ progress includes:
 
 For more on the Biden-Harris Administration’s work to advance
 environmental justice, visit
-<https://www.whitehouse.gov/environmentaljustice/>.
+<https://bidenwhitehouse.archives.gov/environmentaljustice/>.
 
 \###

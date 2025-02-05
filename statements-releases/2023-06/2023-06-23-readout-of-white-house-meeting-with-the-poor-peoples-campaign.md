@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 11:26:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/readout-of-white-house-meeting-with-the-poor-peoples-campaign/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/readout-of-white-house-meeting-with-the-poor-peoples-campaign/
 tags: statements-releases
 title: "Readout of White\_House Meeting with the Poor People\u2019s\_Campaign"
 ---

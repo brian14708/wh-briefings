@@ -2,7 +2,7 @@
 date: '2023-10-04'
 modified_time: 2023-10-03 18:38:51-04:00
 published_time: 2023-10-04 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/04/president-biden-announces-an-additional-9-billion-in-student-debt-relief-for-125000-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/04/president-biden-announces-an-additional-9-billion-in-student-debt-relief-for-125000-americans/
 tags: statements-releases
 title: "President\_Biden Announces an Additional $9 Billion in Student Debt Relief\
   \ for 125,000\_Americans"

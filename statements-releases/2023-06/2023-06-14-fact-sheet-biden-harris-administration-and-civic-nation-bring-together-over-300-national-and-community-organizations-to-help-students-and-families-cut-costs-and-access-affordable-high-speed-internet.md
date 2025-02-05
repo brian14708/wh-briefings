@@ -2,7 +2,7 @@
 date: '2023-06-14'
 modified_time: 2023-06-14 20:25:14-04:00
 published_time: 2023-06-14 09:36:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administration-and-civic-nation-bring-together-over-300-national-and-community-organizations-to-help-students-and-families-cut-costs-and-access-affordable-high-speed-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/14/fact-sheet-biden-harris-administration-and-civic-nation-bring-together-over-300-national-and-community-organizations-to-help-students-and-families-cut-costs-and-access-affordable-high-speed-internet/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration and Civic Nation Bring Together\
   \ Over 300 National and Community Organizations to Help Students and Families Cut\
@@ -55,7 +55,7 @@ The Biden-Harris Administration is committed to continuing to reach
 qualified Americans and seeing this program continue for years to come.
 The Administration previously launched an [“all of government” ACP
 enrollment
-drive](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-vice-president-harris-highlights-milestone-of-1-million-new-participants-on-reducing-high-speed-internet-cost-for-americans/).
+drive](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-vice-president-harris-highlights-milestone-of-1-million-new-participants-on-reducing-high-speed-internet-cost-for-americans/).
 Now, the Administration is taking additional actions to reach eligible
 Americans, including:
 

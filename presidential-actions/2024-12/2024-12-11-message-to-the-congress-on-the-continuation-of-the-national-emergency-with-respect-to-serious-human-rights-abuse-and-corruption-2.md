@@ -2,7 +2,7 @@
 date: '2024-12-11'
 modified_time: 2024-12-11 23:10:39-05:00
 published_time: 2024-12-11 23:10:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption-2/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to Serious Human Rights Abuse and\_Corruption"

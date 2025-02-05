@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2022-03-10'
 modified_time: 2022-03-10 16:35:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/10/corrected-remarks-by-vice-president-harris-and-president-andrzej-duda-of-poland-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/10/corrected-remarks-by-vice-president-harris-and-president-andrzej-duda-of-poland-in-joint-press-conference/
 published_time: 2022-03-10 16:35:08-05:00
 title: "CORRECTED: Remarks by Vice President Harris and President Andrzej Duda of\
   \ Poland in Joint Press\_Conference"

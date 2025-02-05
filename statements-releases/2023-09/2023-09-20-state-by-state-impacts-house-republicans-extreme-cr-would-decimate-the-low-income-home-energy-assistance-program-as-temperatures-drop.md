@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 14:20:23-04:00
 published_time: 2023-09-20 14:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/state-by-state-impacts-house-republicans-extreme-cr-would-decimate-the-low-income-home-energy-assistance-program-as-temperatures-drop/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/state-by-state-impacts-house-republicans-extreme-cr-would-decimate-the-low-income-home-energy-assistance-program-as-temperatures-drop/
 tags: statements-releases
 title: "State by State Impacts: House Republicans\u2019 Extreme CR Would Decimate\
   \ the Low Income Home Energy Assistance Program as Temperatures\_Drop"
@@ -17,7 +17,7 @@ Instead of working in a bipartisan manner to keep the government open
 and address emergency needs for the American people, House Republicans
 introduced a continuing resolution this week that makes [an 8%,
 across-the-board
-cut](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
+cut](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/)
 to programs that millions of hardworking Americans count on—violating
 the bipartisan budget deal the President and Congress agreed to earlier
 this year. On top of these indiscriminate cuts, their continuing

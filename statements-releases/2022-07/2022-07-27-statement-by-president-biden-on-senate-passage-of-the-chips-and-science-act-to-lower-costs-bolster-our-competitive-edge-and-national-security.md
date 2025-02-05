@@ -2,7 +2,7 @@
 date: '2022-07-27'
 modified_time: 2022-07-27 13:17:14-04:00
 published_time: 2022-07-27 13:15:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/27/statement-by-president-biden-on-senate-passage-of-the-chips-and-science-act-to-lower-costs-bolster-our-competitive-edge-and-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/27/statement-by-president-biden-on-senate-passage-of-the-chips-and-science-act-to-lower-costs-bolster-our-competitive-edge-and-national-security/
 tags: statements-releases
 title: "Statement by President\_Biden on Senate Passage of the CHIPS and Science Act\
   \ to Lower Costs, Bolster Our Competitive Edge and National\_Security"

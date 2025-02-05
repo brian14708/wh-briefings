@@ -2,7 +2,7 @@
 date: '2023-11-07'
 modified_time: 2023-11-07 11:34:51-05:00
 published_time: 2023-11-07 11:34:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/07/a-proclamation-on-veterans-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/07/a-proclamation-on-veterans-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Veterans Day,\_2023"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-09-02'
 published_time: 2022-09-02 18:06:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/02/press-briefing-by-press-secretary-karine-jean-pierre-september-2-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/02/press-briefing-by-press-secretary-karine-jean-pierre-september-2-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, September 2,\_2022"
 ---

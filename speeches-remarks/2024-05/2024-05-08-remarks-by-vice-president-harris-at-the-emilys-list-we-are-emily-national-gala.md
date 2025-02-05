@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-09 13:30:24-04:00
 published_time: 2024-05-08 21:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/08/remarks-by-vice-president-harris-at-the-emilys-list-we-are-emily-national-gala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/08/remarks-by-vice-president-harris-at-the-emilys-list-we-are-emily-national-gala/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the EMILYs List We Are EMILY National\_\
   Gala"

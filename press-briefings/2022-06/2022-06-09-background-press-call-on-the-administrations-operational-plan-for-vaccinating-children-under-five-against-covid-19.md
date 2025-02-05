@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 11:58:02-04:00
 published_time: 2022-06-09 11:58:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/09/background-press-call-on-the-administrations-operational-plan-for-vaccinating-children-under-five-against-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/09/background-press-call-on-the-administrations-operational-plan-for-vaccinating-children-under-five-against-covid-19/
 tags: press-briefings
 title: "Background Press Call on the Administration\u2019s Operational Plan for Vaccinating\
   \ Children Under Five Against\_COVID-\u206019"

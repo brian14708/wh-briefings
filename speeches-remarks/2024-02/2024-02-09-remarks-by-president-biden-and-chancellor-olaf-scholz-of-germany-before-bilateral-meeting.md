@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-09 17:58:15-05:00
 published_time: 2024-02-09 17:58:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/09/remarks-by-president-biden-and-chancellor-olaf-scholz-of-germany-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/09/remarks-by-president-biden-and-chancellor-olaf-scholz-of-germany-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Chancellor Olaf Scholz of Germany Before Bilateral\_\
   Meeting"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-15'
 published_time: 2023-12-15 18:21:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/15/joint-statement-of-the-quad-senior-cyber-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/15/joint-statement-of-the-quad-senior-cyber-group/
 tags: statements-releases
 title: "Joint Statement of the Quad Senior Cyber\_Group"
 ---

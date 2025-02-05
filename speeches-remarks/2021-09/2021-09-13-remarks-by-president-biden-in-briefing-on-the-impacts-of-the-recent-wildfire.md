@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-09-13'
 modified_time: 2021-09-13 21:38:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/13/remarks-by-president-biden-in-briefing-on-the-impacts-of-the-recent-wildfire/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/09/13/remarks-by-president-biden-in-briefing-on-the-impacts-of-the-recent-wildfire/
 published_time: 2021-09-13 21:38:25-04:00
 title: "Remarks by President\_Biden in Briefing on the Impacts of the Recent\_Wildfire"
 ---

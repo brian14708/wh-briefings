@@ -2,7 +2,7 @@
 date: '2023-04-20'
 modified_time: 2023-04-20 06:37:14-04:00
 published_time: 2023-04-20 06:37:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/20/remarks-by-president-biden-on-his-vision-for-the-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/20/remarks-by-president-biden-on-his-vision-for-the-economy/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on his Vision for the\_Economy"
 ---

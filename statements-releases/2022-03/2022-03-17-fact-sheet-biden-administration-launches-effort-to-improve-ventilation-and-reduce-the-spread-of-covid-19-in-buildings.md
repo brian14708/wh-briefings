@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-17'
 modified_time: 2022-03-17 09:23:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/
 published_time: 2022-03-17 10:00:00-04:00
 title: "FACT SHEET: Biden Administration Launches Effort to Improve Ventilation and\
   \ Reduce the Spread of COVID-\u206019 in\_Buildings"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden Administration Launches Effort to Improve Ventilation 
  
 Earlier this month, the Biden-Harris Administration released the
 [National COVID-19 Preparedness
-Plan](https://www.whitehouse.gov/covidplan/), a roadmap to move the
+Plan](https://bidenwhitehouse.archives.gov/covidplan/), a roadmap to move the
 country forward safely and continue to fight COVID-19 as Americans get
 back to their more normal routines.  Today the Administration is
 launching the Clean Air in Buildings Challenge, a key component of the

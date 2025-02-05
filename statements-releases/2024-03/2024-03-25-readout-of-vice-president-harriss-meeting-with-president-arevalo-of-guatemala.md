@@ -1,7 +1,7 @@
 ---
 date: '2024-03-25'
 published_time: 2024-03-25 16:53:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/25/readout-of-vice-president-harriss-meeting-with-president-arevalo-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/25/readout-of-vice-president-harriss-meeting-with-president-arevalo-of-guatemala/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Ar\xE9valo\
   \ of\_Guatemala"

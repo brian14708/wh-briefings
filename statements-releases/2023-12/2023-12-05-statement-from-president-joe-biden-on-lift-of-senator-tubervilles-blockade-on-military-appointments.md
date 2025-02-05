@@ -1,7 +1,7 @@
 ---
 date: '2023-12-05'
 published_time: 2023-12-05 17:48:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/05/statement-from-president-joe-biden-on-lift-of-senator-tubervilles-blockade-on-military-appointments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/05/statement-from-president-joe-biden-on-lift-of-senator-tubervilles-blockade-on-military-appointments/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Lift of Senator Tuberville\u2019s Blockade\
   \ on Military\_Appointments"

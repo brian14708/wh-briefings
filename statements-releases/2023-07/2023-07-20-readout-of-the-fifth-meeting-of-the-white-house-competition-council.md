@@ -2,7 +2,7 @@
 date: '2023-07-20'
 modified_time: 2023-07-20 11:43:59-04:00
 published_time: 2023-07-20 11:31:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/20/readout-of-the-fifth-meeting-of-the-white-house-competition-council/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/20/readout-of-the-fifth-meeting-of-the-white-house-competition-council/
 tags: statements-releases
 title: "Readout of the Fifth Meeting of the White\_House Competition\_Council"
 ---
@@ -54,7 +54,7 @@ Yesterday’s announcements include:
     independent processing.
 -   The Competition Council announced a new front in the war against
     junk fees by announcing new actions to [address rental housing
-    fees](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/).
+    fees](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/).
     For example, rental application fees are often as much as $100, far
     above the cost of running a background or credit check – and add up
     when consumers apply to multiple units in a tight rental market. The
@@ -77,7 +77,7 @@ Yesterday’s announcements include:
     consumers with more clarity around how law enforcement agencies
     assess mergers under current antitrust laws. The [Council of
     Economic Advisers
-    explained](https://www.whitehouse.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/) that
+    explained](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/07/19/protecting-competition-through-updated-merger-guidelines/) that
     the new proposed Guidelines are informed by the best and most recent
     economic evidence available, and that robust enforcement of mergers
     can lower prices, increase wages, and strengthen innovation.

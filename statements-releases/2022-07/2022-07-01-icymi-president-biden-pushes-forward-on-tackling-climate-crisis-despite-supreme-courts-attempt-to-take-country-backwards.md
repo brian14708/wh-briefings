@@ -1,7 +1,7 @@
 ---
 date: '2022-07-01'
 published_time: 2022-07-01 16:25:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/icymi-president-biden-pushes-forward-on-tackling-climate-crisis-despite-supreme-courts-attempt-to-take-country-backwards/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/01/icymi-president-biden-pushes-forward-on-tackling-climate-crisis-despite-supreme-courts-attempt-to-take-country-backwards/
 tags: statements-releases
 title: "ICYMI:  President\_Biden Pushes Forward on Tackling Climate Crisis Despite\
   \ Supreme Court\u2019s Attempt to Take Country\_Backwards"
@@ -9,7 +9,7 @@ title: "ICYMI:  President\_Biden Pushes Forward on Tackling Climate Crisis Despi
  
 Yesterday, in response to the Supreme Court’s ruling in *West Virginia
 v. EPA*, President Biden issued a
-[statement](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-joe-biden-on-supreme-court-ruling-on-west-virginia-v-epa/)
+[statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/statement-by-president-joe-biden-on-supreme-court-ruling-on-west-virginia-v-epa/)
 on his unwavering commitment to “continue using lawful executive
 authority, including the EPA’s legally-upheld authorities, to keep our
 air clean, protect public health, and tackle the climate crisis” and

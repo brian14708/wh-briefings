@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 05:30:32-04:00
 published_time: 2022-06-28 05:30:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-the-united-states-continues-to-strengthen-cooperation-with-g7-on-21st-century-challenges-including-those-posed-by-the-peoples-republic-of-china-prc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-the-united-states-continues-to-strengthen-cooperation-with-g7-on-21st-century-challenges-including-those-posed-by-the-peoples-republic-of-china-prc/
 tags: statements-releases
 title: "FACT SHEET: The United\_States\_Continues to Strengthen Cooperation with\_\
   G7\_on 21st\_Century Challenges, including those Posed by\_the People\u2019s Republic\

@@ -2,7 +2,7 @@
 date: '2023-08-22'
 modified_time: 2023-08-21 20:25:54-04:00
 published_time: 2023-08-22 08:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/22/fact-sheet-the-biden-harris-administration-launches-the-save-plan-the-most-affordable-student-loan-repayment-plan-ever-to-lower-monthly-payments-for-millions-of-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/22/fact-sheet-the-biden-harris-administration-launches-the-save-plan-the-most-affordable-student-loan-repayment-plan-ever-to-lower-monthly-payments-for-millions-of-borrowers/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Launches the SAVE Plan,\
   \ the Most Affordable Student Loan Repayment Plan Ever to Lower Monthly Payments\
@@ -76,7 +76,7 @@ Specifically, the SAVE plan will:
     before the payment pause would stand to benefit from this change.
     Coinciding with the launch of the SAVE plan, the White House Council
     of Economic Advisers released [a new blog
-    post](https://www.whitehouse.gov/cea/written-materials/2023/08/22/new-student-loan-repayment-plan-benefits-borrowers-beyond-lower-monthly-payments/) that
+    post](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/08/22/new-student-loan-repayment-plan-benefits-borrowers-beyond-lower-monthly-payments/) that
     models how the income benefit of the SAVE plan could prevent a
     lower-income borrowers’ balance from increasing by nearly 78% over a
     20-year repayment period.  

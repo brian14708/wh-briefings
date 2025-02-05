@@ -1,7 +1,7 @@
 ---
 date: '2024-03-08'
 published_time: 2024-03-08 20:38:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-press-gaggle-rose-valley-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-president-biden-in-press-gaggle-rose-valley-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press Gaggle | Rose Valley,\_PA"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-15'
 modified_time: 2024-07-15 21:46:48-04:00
 published_time: 2024-07-15 21:46:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/15/readout-of-u-s-israel-strategic-consultative-group-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/15/readout-of-u-s-israel-strategic-consultative-group-2/
 tags: statements-releases
 title: "Readout of U.S.-Israel Strategic Consultative\_Group"
 ---

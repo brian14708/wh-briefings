@@ -1,7 +1,7 @@
 ---
 date: '2022-04-27'
 published_time: 2022-04-27 07:57:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/27/statement-from-president-joe-biden-on-the-return-of-trevor-reed/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/27/statement-from-president-joe-biden-on-the-return-of-trevor-reed/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Return of Trevor\_Reed"
 ---

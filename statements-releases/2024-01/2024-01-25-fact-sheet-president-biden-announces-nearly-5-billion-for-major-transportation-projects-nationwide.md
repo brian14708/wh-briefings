@@ -2,7 +2,7 @@
 date: '2024-01-25'
 modified_time: 2024-01-24 20:40:32-05:00
 published_time: 2024-01-25 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/25/fact-sheet-president-biden-announces-nearly-5-billion-for-major-transportation-projects-nationwide/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Nearly $5 Billion for Major Transportation\
   \ Projects\_Nationwide"

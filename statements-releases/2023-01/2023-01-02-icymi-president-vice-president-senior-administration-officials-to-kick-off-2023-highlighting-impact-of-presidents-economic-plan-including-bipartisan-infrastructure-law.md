@@ -1,7 +1,7 @@
 ---
 date: '2023-01-02'
 published_time: 2023-01-02 19:19:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/02/icymi-president-vice-president-senior-administration-officials-to-kick-off-2023-highlighting-impact-of-presidents-economic-plan-including-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/02/icymi-president-vice-president-senior-administration-officials-to-kick-off-2023-highlighting-impact-of-presidents-economic-plan-including-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "ICYMI:\_President, Vice President, Senior Administration Officials To Kick\
   \ Off 2023 Highlighting Impact of President\u2019s Economic Plan, Including Bipartisan\

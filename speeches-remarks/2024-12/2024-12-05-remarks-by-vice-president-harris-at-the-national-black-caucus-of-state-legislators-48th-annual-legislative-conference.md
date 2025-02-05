@@ -1,7 +1,7 @@
 ---
 date: '2024-12-05'
 published_time: 2024-12-05 17:29:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-vice-president-harris-at-the-national-black-caucus-of-state-legislators-48th-annual-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-vice-president-harris-at-the-national-black-caucus-of-state-legislators-48th-annual-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the National Black Caucus of State Legislators\u2019\
   \ 48th Annual Legislative\_Conference"

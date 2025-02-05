@@ -1,7 +1,7 @@
 ---
 date: '2023-02-14'
 published_time: 2023-02-14 16:00:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/president-biden-announces-key-members-of-his-economic-team/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/president-biden-announces-key-members-of-his-economic-team/
 tags: statements-releases
 title: "President\_Biden Announces Key Members of his Economic\_Team"
 ---

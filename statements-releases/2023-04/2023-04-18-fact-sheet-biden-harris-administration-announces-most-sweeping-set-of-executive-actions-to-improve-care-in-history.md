@@ -2,7 +2,7 @@
 date: '2023-04-18'
 modified_time: 2023-04-18 09:09:12-04:00
 published_time: 2023-04-18 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/18/fact-sheet-biden-harris-administration-announces-most-sweeping-set-of-executive-actions-to-improve-care-in-history/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Most Sweeping Set\
   \ of Executive Actions to Improve Care in\_History"
@@ -205,7 +205,7 @@ These grants likely have had effects beyond the child care workforce and
 providers as access to child care is critical for parental employment,
 particularly for women. The President’s Council of Economic Advisers
 analyzed this relationship in their most recent [Economic Report of the
-President](https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP-2023.pdf#page=140),
+President](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/ERP-2023.pdf#page=140),
 and found that mothers’ employment has recovered more quickly in areas
 with greater child care capacity supported by ARP stabilization grants.
 In those areas, employment among mothers with young children outpaced
@@ -231,7 +231,7 @@ employers, unions, and others to recruit, train, and keep long-term care
 workers on the job while also helping them advance their careers as
 registered and licensed nurses. Just this month, the President also
 signed the first-ever
-[proclamation](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/)
+[proclamation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/31/a-proclamation-on-care-workers-recognition-month/)
 designating April as National Care Worker Recognition Month, to honor
 the efforts and sacrifices of our child care and long-term care
 workers.  
@@ -249,7 +249,7 @@ financial and mental health support they deserve. Through the First
 Lady’s *Joining Forces* initiative, the Administration has partnered
 with more than 50 public and private sector organizations to launch the
 “[Hidden
-Helpers](https://www.whitehouse.gov/joiningforces/blog/2021/11/10/joining-forces-and-hidden-helpers-coalition-pledge-support-to-military-and-veteran-children-in-caregiving-families/)”
+Helpers](https://bidenwhitehouse.archives.gov/joiningforces/blog/2021/11/10/joining-forces-and-hidden-helpers-coalition-pledge-support-to-military-and-veteran-children-in-caregiving-families/)”
 Coalition to serve the 2.3 million military and veteran children in
 caregiving homes.
 

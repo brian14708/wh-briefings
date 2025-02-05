@@ -1,7 +1,7 @@
 ---
 date: '2022-08-19'
 published_time: 2022-08-19 11:57:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/statement-by-president-biden-on-state-unemployment-rates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/statement-by-president-biden-on-state-unemployment-rates/
 tags: statements-releases
 title: "Statement by President\_Biden on State Unemployment\_Rates"
 ---

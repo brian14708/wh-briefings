@@ -1,7 +1,7 @@
 ---
 date: '2023-05-02'
 published_time: 2023-05-02 08:32:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/02/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-to-the-anti-defamation-league/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/02/remarks-by-homeland-security-advisor-dr-liz-sherwood-randall-to-the-anti-defamation-league/
 tags: speeches-remarks
 title: "Remarks by Homeland Security Advisor Dr. Liz Sherwood-Randall to the Anti-Defamation\_\
   League"

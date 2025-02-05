@@ -2,7 +2,7 @@
 date: '2024-09-13'
 modified_time: 2024-09-16 10:32:07-04:00
 published_time: 2024-09-13 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-president-biden-and-prime-minister-keir-starmer-of-the-united-kingdom-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/13/remarks-by-president-biden-and-prime-minister-keir-starmer-of-the-united-kingdom-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Keir Starmer of the United\
   \ Kingdom Before Bilateral\_Meeting"

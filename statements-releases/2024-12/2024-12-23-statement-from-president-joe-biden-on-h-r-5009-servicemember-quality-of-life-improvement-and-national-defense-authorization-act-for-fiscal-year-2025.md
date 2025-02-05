@@ -2,7 +2,7 @@
 date: '2024-12-23'
 modified_time: 2024-12-23 20:44:53-05:00
 published_time: 2024-12-23 20:44:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/23/statement-from-president-joe-biden-on-h-r-5009-servicemember-quality-of-life-improvement-and-national-defense-authorization-act-for-fiscal-year-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/23/statement-from-president-joe-biden-on-h-r-5009-servicemember-quality-of-life-improvement-and-national-defense-authorization-act-for-fiscal-year-2025/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on H.R. 5009, Servicemember Quality of\
   \ Life Improvement and National Defense Authorization Act for Fiscal Year\_2025"

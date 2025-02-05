@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 16:47:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-state-for-defence-grant-shapps-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/readout-of-national-security-advisor-jake-sullivans-meeting-with-secretary-of-state-for-defence-grant-shapps-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Secretary\
   \ of State for Defence Grant Shapps of the United\_Kingdom"

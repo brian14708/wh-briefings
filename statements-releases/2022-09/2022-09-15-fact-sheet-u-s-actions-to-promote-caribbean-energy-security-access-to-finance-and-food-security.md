@@ -1,7 +1,7 @@
 ---
 date: '2022-09-15'
 published_time: 2022-09-15 11:10:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-u-s-actions-to-promote-caribbean-energy-security-access-to-finance-and-food-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-u-s-actions-to-promote-caribbean-energy-security-access-to-finance-and-food-security/
 tags: statements-releases
 title: "FACT SHEET:\_ U.S. Actions to Promote Caribbean Energy Security, Access to\
   \ Finance, and Food\_Security"
@@ -9,7 +9,7 @@ title: "FACT SHEET:\_ U.S. Actions to Promote Caribbean Energy Security, Access 
  
 As follow-up to President Biden and Vice President Harris’s commitments
 in their meeting with Caribbean leaders at the [Summit of the
-Americas](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/joint-readout-of-president-joe-biden-vice-president-kamala-harris-meeting-with-leaders-of-the-caribbean-community-caricom-and-the-dominican-republic/)
+Americas](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/joint-readout-of-president-joe-biden-vice-president-kamala-harris-meeting-with-leaders-of-the-caribbean-community-caricom-and-the-dominican-republic/)
 in June 2022, the Biden-Harris Administration is partnering with
 Caribbean nations to promote energy security, access to finance, and
 food security in the Caribbean—three areas that Caribbean leaders
@@ -40,7 +40,7 @@ the Caribbean.
    
 Many of these actions build on and will accelerate implementation of the
 [U.S.-Partnership to Address the Climate Crisis (PACC
-2030)](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-vice-president-harris-launches-the-u-s-caribbean-partnership-to-address-the-climate-crisis-2030-pacc-2030/),
+2030)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-vice-president-harris-launches-the-u-s-caribbean-partnership-to-address-the-climate-crisis-2030-pacc-2030/),
 an initiative that Vice President Harris launched at the Summit of the
 Americas to strengthen energy security and climate adaptation in the
 region.  

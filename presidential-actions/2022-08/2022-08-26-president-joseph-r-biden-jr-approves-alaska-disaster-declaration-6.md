@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 17:09:41-04:00
 published_time: 2022-08-26 17:09:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/26/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/26/president-joseph-r-biden-jr-approves-alaska-disaster-declaration-6/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Alaska Disaster\_Declaration"
 ---

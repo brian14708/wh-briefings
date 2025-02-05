@@ -2,7 +2,7 @@
 date: '2022-06-21'
 modified_time: 2022-06-21 17:43:29-04:00
 published_time: 2022-06-21 17:43:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/21/readout-of-president-bidens-call-with-president-pedro-sanchez-of-spain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/21/readout-of-president-bidens-call-with-president-pedro-sanchez-of-spain/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Pedro S\xE1nchez\_\
   of\_Spain"

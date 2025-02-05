@@ -2,7 +2,7 @@
 date: '2022-11-17'
 modified_time: 2022-11-18 00:03:41-05:00
 published_time: 2022-11-17 23:58:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/17/statement-by-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-launch-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/17/statement-by-nsc-spokesperson-adrienne-watson-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-launch-2/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on the Democratic People\u2019\
   s Republic of Korea\u2019s Ballistic Missile\_Launch"

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-29'
 published_time: 2022-11-29 12:07:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/statement-from-president-joe-biden-on-the-passing-of-congressman-donald-mceachin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/statement-from-president-joe-biden-on-the-passing-of-congressman-donald-mceachin/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Congressman Donald\_\
   McEachin"

@@ -2,7 +2,7 @@
 date: '2022-11-14'
 modified_time: 2022-11-14 02:02:49-05:00
 published_time: 2022-11-14 02:02:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/14/remarks-by-president-biden-and-president-joko-widodo-of-indonesia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/14/remarks-by-president-biden-and-president-joko-widodo-of-indonesia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Joko Widodo of Indonesia Before\
   \ Bilateral\_Meeting"

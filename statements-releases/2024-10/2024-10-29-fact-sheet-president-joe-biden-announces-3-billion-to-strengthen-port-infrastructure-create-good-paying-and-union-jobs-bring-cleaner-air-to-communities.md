@@ -2,7 +2,7 @@
 date: '2024-10-29'
 modified_time: 2024-10-28 20:57:41-04:00
 published_time: 2024-10-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/fact-sheet-president-joe-biden-announces-3-billion-to-strengthen-port-infrastructure-create-good-paying-and-union-jobs-bring-cleaner-air-to-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/fact-sheet-president-joe-biden-announces-3-billion-to-strengthen-port-infrastructure-create-good-paying-and-union-jobs-bring-cleaner-air-to-communities/
 tags: statements-releases
 title: "FACT SHEET: President Joe\_Biden Announces $3 Billion to Strengthen Port Infrastructure,\
   \ Create Good-Paying and Union Jobs, Bring Cleaner Air to\_Communities"
@@ -59,7 +59,7 @@ equipment, 1,000 drayage trucks, 10 locomotives, and 20 vessels, as well
 as shore power systems for ocean-going vessels, battery-electric and
 hydrogen vehicle charging and fueling infrastructure, and solar power
 generation. The Clean Ports program advances the President’s [Justice40
-Initiative](https://www.whitehouse.gov/environmentaljustice/justice40/)
+Initiative](https://bidenwhitehouse.archives.gov/environmentaljustice/justice40/)
 and aligns with the Biden-Harris Administration’s goal for a
 zero-emission freight sector.
 
@@ -91,7 +91,7 @@ President Biden is the most pro-union president in history. He’s the
 first and only president to walk a picket line, and under his
 Administration, unions have secured historic labor wins. Last month,
 President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/06/executive-order-on-investing-in-america-and-investing-in-american-workers/)
 that calls on agencies to promote strong labor standards such as
 family-sustaining wages, workplace safety, and the free and fair choice
 to join a union, and encourages agencies to implement these standards
@@ -146,7 +146,7 @@ This includes a number of projects in Baltimore, for example:
 -   $9 million to Baltimore City Public Schools for clean school buses.
 
 Baltimore was also named an Investing in America [Workforce
-Hub](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
+Hub](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/13/fact-sheet-biden-harris-administration-holds-workforce-hub-convening-in-baltimore-announces-commitments-to-train-and-hire-local-residents-to-support-major-infrastructure-projects/),
 where the Administration is bringing together industry, government,
 educators, non-profits and unions to help workers in Maryland access
 good jobs created by private and public sector investments in the state.
@@ -218,7 +218,7 @@ August, Maryland selected a contractor to design and build the new
 bridge.  Immediately following the bridge collapse, President Biden
 called on Congress to fully fund the replacement bridge and his
 Administration reiterated this request [in
-July](https://www.whitehouse.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/).
+July](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/).
 
 The Biden-Harris Administration also committed to holding the owners of
 the DALI cargo ship accountable for the disaster. Just last week, the

@@ -2,7 +2,7 @@
 date: '2023-07-21'
 modified_time: 2023-07-21 13:58:37-04:00
 published_time: 2023-07-21 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/statement-of-president-joe-biden-on-the-nomination-of-military-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/statement-of-president-joe-biden-on-the-nomination-of-military-leaders/
 tags: statements-releases
 title: "Statement of President Joe\_Biden on the Nomination of Military\_Leaders"
 ---

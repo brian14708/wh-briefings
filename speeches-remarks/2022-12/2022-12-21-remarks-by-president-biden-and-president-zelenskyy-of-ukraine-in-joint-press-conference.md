@@ -2,7 +2,7 @@
 date: '2022-12-21'
 modified_time: 2022-12-21 20:57:15-05:00
 published_time: 2022-12-21 20:57:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/21/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/21/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Zelenskyy of Ukraine in Joint Press\_\
   Conference"

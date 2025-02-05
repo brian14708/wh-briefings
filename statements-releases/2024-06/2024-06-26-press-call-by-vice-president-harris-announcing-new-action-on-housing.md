@@ -2,7 +2,7 @@
 date: '2024-06-26'
 modified_time: 2024-06-25 16:29:39-04:00
 published_time: 2024-06-26 05:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/26/press-call-by-vice-president-harris-announcing-new-action-on-housing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/26/press-call-by-vice-president-harris-announcing-new-action-on-housing/
 tags: statements-releases
 title: "Press Call by Vice President Harris Announcing New Action on\_Housing"
 ---

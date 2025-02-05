@@ -1,7 +1,7 @@
 ---
 date: '2023-05-10'
 published_time: 2023-05-10 11:49:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/10/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-central-african-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/05/10/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-central-african-republic/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to the Central African\_Republic"

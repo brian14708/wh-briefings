@@ -2,7 +2,7 @@
 date: '2024-04-11'
 modified_time: 2024-04-11 19:16:47-04:00
 published_time: 2024-04-11 19:16:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-celebrating-the-strength-of-the-u-s-philippines-alliance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-celebrating-the-strength-of-the-u-s-philippines-alliance/
 tags: statements-releases
 title: 'Fact Sheet: Celebrating the Strength of the U.S.-Philippines Alliance'
 ---

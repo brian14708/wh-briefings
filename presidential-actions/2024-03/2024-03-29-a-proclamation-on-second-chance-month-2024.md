@@ -1,7 +1,7 @@
 ---
 date: '2024-03-29'
 published_time: 2024-03-29 10:03:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-second-chance-month-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/29/a-proclamation-on-second-chance-month-2024/
 tags: presidential-actions
 title: "A Proclamation on Second Chance Month,\_2024"
 ---

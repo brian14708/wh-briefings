@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 13:52:42-04:00
 published_time: 2022-05-31 13:50:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/31/united-states-aotearoa-new-zealand-joint-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/31/united-states-aotearoa-new-zealand-joint-statement/
 tags: statements-releases
 title: "United\_States \u2013 Aotearoa New Zealand Joint\_Statement"
 ---

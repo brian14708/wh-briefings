@@ -1,14 +1,14 @@
 ---
 date: '2023-04-22'
 published_time: 2023-04-22 10:14:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/22/what-they-are-saying-president-biden-takes-action-to-build-healthy-communities-and-advance-environmental-justice/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/22/what-they-are-saying-president-biden-takes-action-to-build-healthy-communities-and-advance-environmental-justice/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: President\_Biden Takes Action to Build Healthy Communities\
   \ and Advance Environmental\_Justice"
 ---
  
 Yesterday President Biden signed [an executive
-order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
+order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/)
 to further embed environmental justice into the work of federal
 agencies, bring clean energy and healthy environments to all, and
 recognize, undo, and mitigate harm to those who have suffered from toxic
@@ -88,7 +88,7 @@ at the heart of federal policy. I am pleased that the recommendations of
 the White House Environmental Justice Advisory Council are central to
 this Executive Order. There is more work that must be done together, but
 today is a day to remember.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Peggy Shepard, Co-Chair of the White House Environmental Justice
@@ -102,7 +102,7 @@ environmental justice work has been updated to respond to
 recommendations made by the WHEJAC to further advance environmental and
 climate justice throughout the federal government. This is an important
 action as we begin to see real investment in frontline communities.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Catherine Coleman Flowers, Vice Chair of the White House Environmental
@@ -115,7 +115,7 @@ Council, to today’s announcement, the President and his Administration
 are bringing the voices of communities into federal policy-making. I’m
 honored to be working alongside these leaders in this fight for justice
 and a healthy future for children.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Dr. Beverly Wright, Member of the White House Environmental Justice
@@ -131,7 +131,7 @@ federal government. And to ensure accountability, each agency will
 report all progress made directly to the President. But, while today’s
 executive order is historic, much work must be done to achieve true
 environmental justice.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Dr. Robert Bullard, Member of the White House Environmental Justice
@@ -154,7 +154,7 @@ Advisory Council, and the public servants at the White House Council on
 Environmental Quality, we have reached this milestone. A lot more of
 this same resolve will be needed to implement the EO, so some of the
 most important work has just begun.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Michele Roberts, Member of the White House Environmental Justice
@@ -165,7 +165,7 @@ honoring his commitment to center environmental justice throughout the
 entire federal family. Our communities are equipped with their own
 solutions and are ready to work together with their local governments to
 advance the remedy and redress they need.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Maria Lopez-Nuñez, Member of the White House Environmental Justice
@@ -175,7 +175,7 @@ centers and urban forestry grants announced last week to the new
 Executive Order, the Biden Administration is on a roll. President Biden
 is showing the country – and the world – that as we deal with climate
 change, we have to prioritize those who have been most impacted.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Dr. Kyle Whyte, Member of the White House Environmental Justice
@@ -187,7 +187,7 @@ achieve environmental justice that have not previously been given this
 much due. It reflects the wisdom of generations of environmental justice
 advocates – and the recent hard work of the White House Environmental
 Justice Advisory Council.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Jade Begay, NDN Collective’s Director of Policy and Advocacy (Tesuque
@@ -236,7 +236,7 @@ environmental burdens we have been contending with for decades. I look
 forward to working with the administration and all of government to
 implement this order and hold all levels of the administration account
 to the principles and statements within this order.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Reverend Leo M. Woodberry, Pastor of Kingdom Living Temple Church and
@@ -246,7 +246,7 @@ another historical first on environmental justice and a much-needed
 remedy for the citizens of this great nation. As climate impacts grow on
 a daily basis, it must be matched by greater efforts to keep our world,
 people, and nature safe, resilient, and sustainable.”
-\[[Statement](https://www.whitehouse.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
+\[[Statement](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Environmental-Justice-Leaders-on-EJ-EO.pdf),
 4/21/23\]  
    
 **Dr. Nicky Sheats, New Jersey Environmental Justice Alliance, Kean

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-07'
 published_time: 2023-09-07 21:03:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or-support-terrorism-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to Persons\
   \ Who Commit, Threaten to Commit, or Support\_Terrorism"

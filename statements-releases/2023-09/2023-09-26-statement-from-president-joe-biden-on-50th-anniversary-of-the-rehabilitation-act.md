@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 published_time: 2023-09-26 19:12:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/statement-from-president-joe-biden-on-50th-anniversary-of-the-rehabilitation-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/statement-from-president-joe-biden-on-50th-anniversary-of-the-rehabilitation-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on 50th Anniversary of the Rehabilitation\_\
   Act"

@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-10-05'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/05/nomination-and-withdrawal-sent-to-the-senate/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/05/nomination-and-withdrawal-sent-to-the-senate/
 published_time: 2021-10-05 17:24:33-04:00
 title: "Nomination and Withdrawal Sent to the\_Senate"
 ---

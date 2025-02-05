@@ -1,7 +1,7 @@
 ---
 date: '2023-02-14'
 published_time: 2023-02-14 09:49:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-january-cpi-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/14/statement-from-president-joe-biden-on-january-cpi-report/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on January CPI\_Report"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-15'
 modified_time: 2022-05-15 12:39:53-04:00
 published_time: 2022-05-15 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/15/president-biden-announces-presidential-delegation-to-the-united-arab-emirates-to-pay-respects-upon-the-death-of-his-highness-sheikh-khalifa-bin-zayed-al-nahyan-president/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/15/president-biden-announces-presidential-delegation-to-the-united-arab-emirates-to-pay-respects-upon-the-death-of-his-highness-sheikh-khalifa-bin-zayed-al-nahyan-president/
 tags: statements-releases
 title: "President\_Biden\_Announces Presidential Delegation to\_the United Arab Emirates\
   \ to\_Pay Respects\_Upon the Death of\_His Highness Sheikh Khalifa bin Zayed Al\

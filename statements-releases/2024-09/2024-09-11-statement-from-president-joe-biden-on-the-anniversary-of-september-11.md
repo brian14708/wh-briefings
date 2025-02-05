@@ -2,7 +2,7 @@
 date: '2024-09-11'
 modified_time: 2024-09-10 18:50:30-04:00
 published_time: 2024-09-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/11/statement-from-president-joe-biden-on-the-anniversary-of-september-11/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/11/statement-from-president-joe-biden-on-the-anniversary-of-september-11/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Anniversary of September\_11"
 ---

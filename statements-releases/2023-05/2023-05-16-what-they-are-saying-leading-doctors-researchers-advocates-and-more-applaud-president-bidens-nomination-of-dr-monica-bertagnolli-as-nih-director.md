@@ -2,7 +2,7 @@
 date: '2023-05-16'
 modified_time: 2023-05-16 08:04:41-04:00
 published_time: 2023-05-16 08:04:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/what-they-are-saying-leading-doctors-researchers-advocates-and-more-applaud-president-bidens-nomination-of-dr-monica-bertagnolli-as-nih-director/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/what-they-are-saying-leading-doctors-researchers-advocates-and-more-applaud-president-bidens-nomination-of-dr-monica-bertagnolli-as-nih-director/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Leading Doctors, Researchers, Advocates, and More Applaud\
   \ President\_Biden\u2019s Nomination of Dr. Monica Bertagnolli as NIH\_Director"

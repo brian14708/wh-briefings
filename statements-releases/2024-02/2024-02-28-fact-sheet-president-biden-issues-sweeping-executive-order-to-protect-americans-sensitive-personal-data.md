@@ -2,7 +2,7 @@
 date: '2024-02-28'
 modified_time: 2024-02-28 13:01:33-05:00
 published_time: 2024-02-28 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-biden-issues-sweeping-executive-order-to-protect-americans-sensitive-personal-data/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/28/fact-sheet-president-biden-issues-sweeping-executive-order-to-protect-americans-sensitive-personal-data/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Issues Executive Order to Protect Americans\u2019\
   \ Sensitive Personal\_Data"

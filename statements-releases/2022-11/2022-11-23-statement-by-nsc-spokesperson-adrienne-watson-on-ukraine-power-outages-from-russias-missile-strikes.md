@@ -2,7 +2,7 @@
 date: '2022-11-23'
 modified_time: 2022-11-23 15:40:21-05:00
 published_time: 2022-11-23 15:40:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/23/statement-by-nsc-spokesperson-adrienne-watson-on-ukraine-power-outages-from-russias-missile-strikes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/23/statement-by-nsc-spokesperson-adrienne-watson-on-ukraine-power-outages-from-russias-missile-strikes/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on Ukraine Power Outages from\
   \ Russia\u2019s Missile\_Strikes"

@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-26 14:09:09-04:00
 published_time: 2022-04-25 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/25/background-press-call-by-senior-administration-officials-on-new-actions-to-increase-access-to-covid-19-treatments-and-boost-patient-and-provider-awareness/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/25/background-press-call-by-senior-administration-officials-on-new-actions-to-increase-access-to-covid-19-treatments-and-boost-patient-and-provider-awareness/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on New Actions to\
   \ Increase Access to COVID-\u206019 Treatments and Boost Patient and Provider\_\

@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 18:57:41-04:00
 published_time: 2022-09-21 18:57:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-president-emmanuel-macron-of-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-president-emmanuel-macron-of-france/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Emmanuel Macron\
   \ of\_France"

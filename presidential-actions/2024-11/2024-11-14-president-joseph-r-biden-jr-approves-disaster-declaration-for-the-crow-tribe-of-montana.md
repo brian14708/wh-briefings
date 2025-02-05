@@ -1,7 +1,7 @@
 ---
 date: '2024-11-14'
 published_time: 2024-11-14 20:19:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/14/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-crow-tribe-of-montana/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/14/president-joseph-r-biden-jr-approves-disaster-declaration-for-the-crow-tribe-of-montana/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Disaster Declaration for the Crow\
   \ Tribe of\_Montana"

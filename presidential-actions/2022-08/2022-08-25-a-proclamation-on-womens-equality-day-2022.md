@@ -2,7 +2,7 @@
 date: '2022-08-25'
 modified_time: 2022-08-25 14:15:40-04:00
 published_time: 2022-08-25 14:15:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/25/a-proclamation-on-womens-equality-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/25/a-proclamation-on-womens-equality-day-2022/
 tags: presidential-actions
 title: "A Proclamation on Women\u2019s Equality Day,\_2022"
 ---

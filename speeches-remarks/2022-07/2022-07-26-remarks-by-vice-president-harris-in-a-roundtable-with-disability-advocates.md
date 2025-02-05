@@ -1,7 +1,7 @@
 ---
 date: '2022-07-26'
 published_time: 2022-07-26 14:45:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-vice-president-harris-in-a-roundtable-with-disability-advocates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-vice-president-harris-in-a-roundtable-with-disability-advocates/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Roundtable with Disability\_Advocates"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-27 11:37:35-04:00
 published_time: 2023-09-27 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/
 tags: presidential-actions
 title: "Memorandum on Restoring Healthy and Abundant Salmon, Steelhead, and Other\
   \ Native Fish Populations in the Columbia River\_Basin"

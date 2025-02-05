@@ -2,7 +2,7 @@
 date: '2024-06-05'
 modified_time: 2024-06-05 17:14:33-04:00
 published_time: 2024-06-05 17:14:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/05/statement-from-president-joe-biden-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-contraception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/05/statement-from-president-joe-biden-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-contraception/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Republicans Blocking Efforts\
   \ to Safeguard Nationwide Access to Contraception"

@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 09:07:20-04:00
 published_time: 2023-04-12 09:07:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-announces-actions-to-protect-patient-privacy-at-the-third-meeting-of-the-task-force-on-reproductive-healthcare-access/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-announces-actions-to-protect-patient-privacy-at-the-third-meeting-of-the-task-force-on-reproductive-healthcare-access/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Actions to Protect\
   \ Patient Privacy at the Third Meeting of the Task Force on Reproductive Healthcare\_\
@@ -115,7 +115,7 @@ broadly:
     This innovation will support women’s health by informing efforts to
     expand broadband access—including access to telehealth—in areas with
     poor maternal health outcomes. This builds on the [Administration’s
-    work](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf) to
+    work](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf) to
     improve maternal health and address long-standing disparities,
     including those spotlighted this Black Maternal Health Week. FCC
     will continue to explore opportunities to improve research, data

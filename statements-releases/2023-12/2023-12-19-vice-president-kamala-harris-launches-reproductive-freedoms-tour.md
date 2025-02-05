@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-18 18:33:22-05:00
 published_time: 2023-12-19 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/vice-president-kamala-harris-launches-reproductive-freedoms-tour/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/vice-president-kamala-harris-launches-reproductive-freedoms-tour/
 tags: statements-releases
 title: "Vice President Kamala\_Harris Launches Reproductive Freedoms\_Tour"
 ---

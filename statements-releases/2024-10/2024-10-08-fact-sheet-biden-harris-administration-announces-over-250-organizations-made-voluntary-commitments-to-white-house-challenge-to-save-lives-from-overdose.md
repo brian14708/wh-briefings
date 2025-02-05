@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-07 22:11:52-04:00
 published_time: 2024-10-08 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-announces-over-250-organizations-made-voluntary-commitments-to-white-house-challenge-to-save-lives-from-overdose/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/08/fact-sheet-biden-harris-administration-announces-over-250-organizations-made-voluntary-commitments-to-white-house-challenge-to-save-lives-from-overdose/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Over 250 Organizations\
   \ Made Voluntary Commitments to White\_House Challenge to Save Lives from\_Overdose"
@@ -217,7 +217,7 @@ actions from organizations include:
     module, “Become a Community First Responder.”
 
 Additional voluntary commitments [can be found
-here.](https://www.whitehouse.gov/wp-content/uploads/2024/10/Challenge-Committments.pdf)  
+here.](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/10/Challenge-Committments.pdf)  
   
 In support of President Biden and Vice President Harris’
 whole-of-government approach to address the overdose epidemic, federal
@@ -328,6 +328,6 @@ Read more on the White House Challenge to Save Lives from Overdose
 
 Read more on the Biden-Harris Administration actions to address the
 overdose
-epidemic [HERE](https://www.whitehouse.gov/ondcp/the-administrations-strategy/the-administrations-actions/).
+epidemic [HERE](https://bidenwhitehouse.archives.gov/ondcp/the-administrations-strategy/the-administrations-actions/).
 
 \###

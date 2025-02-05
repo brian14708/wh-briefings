@@ -1,7 +1,7 @@
 ---
 date: '2024-04-10'
 published_time: 2024-04-10 14:30:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-at-arrival-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/10/remarks-by-president-biden-and-prime-minister-kishida-fumio-of-japan-at-arrival-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Kishida Fumio of Japan at Arrival\_\
   Ceremony"

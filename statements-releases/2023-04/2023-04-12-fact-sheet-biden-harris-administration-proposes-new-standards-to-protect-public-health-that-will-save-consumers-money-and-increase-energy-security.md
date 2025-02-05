@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-11 23:09:36-04:00
 published_time: 2023-04-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-proposes-new-standards-to-protect-public-health-that-will-save-consumers-money-and-increase-energy-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/12/fact-sheet-biden-harris-administration-proposes-new-standards-to-protect-public-health-that-will-save-consumers-money-and-increase-energy-security/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Proposes New Standards to Protect\
   \ Public Health that Will Save Consumers Money, and Increase Energy\_Security"
@@ -136,7 +136,7 @@ transition that benefits all Americans, including by:
     make new and previously owned clean vehicles more affordable to
     working families.
 -   Setting [national
-    standards](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) to
+    standards](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) to
     make charging EVs convenient and reliable for all Americans – no
     matter what car you drive or which state you charge in.
 -   Approving [ EV charging plans for all 50 states, D.C., and Puerto
@@ -152,7 +152,7 @@ transition that benefits all Americans, including by:
     companies](https://www.energy.gov/articles/biden-harris-administration-awards-28-billion-supercharge-us-manufacturing-batteries) across
     12 states to supercharge U.S. manufacturing of batteries and battery
     materials.
--   [Encouraging](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/) companies,
+-   [Encouraging](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/30/fact-sheet-biden-harris-administration-announces-new-private-and-public-sector-investments-for-affordable-electric-vehicles/) companies,
     nonprofits, and others to expand community EV charging, increase
     consumer understanding about different types of clean
     transportation, and help consumers access clean-transportation
@@ -167,7 +167,7 @@ transition that benefits all Americans, including by:
     from the lower operating costs, reduced maintenance needs, and
     improved performance that EVs provide.
 -   [Activating the purchasing
-    power](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/) of
+    power](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/08/fact-sheet-president-biden-signs-executive-order-catalyzing-americas-clean-energy-economy-through-federal-sustainability/) of
     the federal government to procure 100 percent zero-emission
     light-duty vehicles by 2027 and all vehicles by 2035.
 -   Launching pathbreaking partnerships, like the [Department of
@@ -177,7 +177,7 @@ transition that benefits all Americans, including by:
     manufacturing, including pilot programs to train battery
     manufacturing workers and bolster the domestic battery supply chain.
 -   Through the [White House Talent Pipeline
-    Challenge,](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) International
+    Challenge,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/15/fact-sheet-biden-harris-administration-announces-new-standards-and-major-progress-for-a-made-in-america-national-network-of-electric-vehicle-chargers/) International
     Brotherhood of Electrical Workers (IBEW) has certified 20,000
     electricians through Registered Apprenticeships like the Electric
     Vehicle Infrastructure Training Program (EVITP).

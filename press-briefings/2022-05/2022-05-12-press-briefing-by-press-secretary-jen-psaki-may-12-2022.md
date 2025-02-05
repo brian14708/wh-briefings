@@ -1,7 +1,7 @@
 ---
 date: '2022-05-12'
 published_time: 2022-05-12 19:15:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/12/press-briefing-by-press-secretary-jen-psaki-may-12-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/12/press-briefing-by-press-secretary-jen-psaki-may-12-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Jen\_Psaki,\_May\_12,\_2022"
 ---

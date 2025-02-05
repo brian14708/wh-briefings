@@ -1,7 +1,7 @@
 ---
 date: '2024-09-04'
 published_time: 2024-09-04 14:19:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/04/statement-from-president-joe-biden-on-shooting-at-apalachee-high-school-in-georgia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/04/statement-from-president-joe-biden-on-shooting-at-apalachee-high-school-in-georgia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Shooting at Apalachee High School in\_\
   Georgia"

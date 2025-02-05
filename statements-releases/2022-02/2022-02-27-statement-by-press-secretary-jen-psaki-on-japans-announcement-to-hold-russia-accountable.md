@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2022-02-27'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/27/statement-by-press-secretary-jen-psaki-on-japans-announcement-to-hold-russia-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/27/statement-by-press-secretary-jen-psaki-on-japans-announcement-to-hold-russia-accountable/
 published_time: 2022-02-27 10:15:30-05:00
 title: "Statement by Press Secretary Jen\_Psaki on Japan\u2019s Announcement to Hold\
   \ Russia\_Accountable"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-20'
 published_time: 2024-01-20 11:17:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/20/readout-of-white-house-meeting-on-competition-policy-and-artificial-intelligence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/20/readout-of-white-house-meeting-on-competition-policy-and-artificial-intelligence/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Competition Policy and Artificial\_Intelligence"
 ---
@@ -37,7 +37,7 @@ The Biden-Harris Administration has made clear that promoting
 competition and innovation is a central part of AI policy. President
 Biden’s [Executive Order on the Safe, Secure, and Trustworthy
 Development and Use of Artificial
-Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 calls on agencies “to promote competition in AI and related
 technologies, as well as in other markets” as they develop policies and
 regulations. The President’s Executive Order also supports small
@@ -48,7 +48,7 @@ companies. The Administration is also committed to a whole-of-government
 approach to promote competition and protect consumers as laid out in
 President Biden’s [Executive Order on Promoting Competition in the
 American
-Economy](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/).
+Economy](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/).
 This includes the application of competition policy and antitrust laws
 “to meet the challenges posed by new industries and technologies” as
 they develop.

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 20:51:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/24/remarks-by-president-biden-and-prime-minister-trudeau-of-canada-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Trudeau of Canada in Joint\
   \ Press\_Conference"

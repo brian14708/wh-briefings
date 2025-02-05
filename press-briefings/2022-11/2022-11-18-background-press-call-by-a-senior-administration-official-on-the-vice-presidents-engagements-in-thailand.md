@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 18:11:32-05:00
 published_time: 2022-11-18 18:11:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/18/background-press-call-by-a-senior-administration-official-on-the-vice-presidents-engagements-in-thailand/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/18/background-press-call-by-a-senior-administration-official-on-the-vice-presidents-engagements-in-thailand/
 tags: press-briefings
 title: "Background Press Call By a Senior Administration Official On the Vice President\u2019\
   s Engagements in\_Thailand"

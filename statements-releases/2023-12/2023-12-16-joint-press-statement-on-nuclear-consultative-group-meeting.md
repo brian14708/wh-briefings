@@ -1,7 +1,7 @@
 ---
 date: '2023-12-16'
 published_time: 2023-12-16 09:11:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/16/joint-press-statement-on-nuclear-consultative-group-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/16/joint-press-statement-on-nuclear-consultative-group-meeting/
 tags: statements-releases
 title: "Joint Press Statement on Nuclear Consultative Group\_Meeting"
 ---

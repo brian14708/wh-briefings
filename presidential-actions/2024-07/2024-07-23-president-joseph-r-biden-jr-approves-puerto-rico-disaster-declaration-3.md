@@ -2,7 +2,7 @@
 date: '2024-07-23'
 modified_time: 2024-07-23 20:46:43-04:00
 published_time: 2024-07-23 20:46:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/23/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/23/president-joseph-r-biden-jr-approves-puerto-rico-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Disaster\_Declaration"
 ---

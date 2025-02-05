@@ -2,7 +2,7 @@
 date: '2024-11-07'
 modified_time: 2024-11-07 15:46:05-05:00
 published_time: 2024-11-07 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/07/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/07/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to the Proliferation of Weapons of Mass\_\

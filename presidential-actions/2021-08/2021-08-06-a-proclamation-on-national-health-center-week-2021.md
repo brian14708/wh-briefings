@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-08-06'
 modified_time: 2021-08-06 09:06:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/08/06/a-proclamation-on-national-health-center-week-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/08/06/a-proclamation-on-national-health-center-week-2021/
 published_time: 2021-08-06 09:06:21-04:00
 title: "A Proclamation on National Health Center Week,\_2021"
 ---

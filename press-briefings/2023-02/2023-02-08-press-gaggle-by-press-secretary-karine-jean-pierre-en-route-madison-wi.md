@@ -1,7 +1,7 @@
 ---
 date: '2023-02-08'
 published_time: 2023-02-08 16:00:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-madison-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/08/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-madison-wi/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Madison,\_WI"
 ---

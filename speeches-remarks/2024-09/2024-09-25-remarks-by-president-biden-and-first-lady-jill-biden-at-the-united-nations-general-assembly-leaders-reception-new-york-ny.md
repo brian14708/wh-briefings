@@ -1,7 +1,7 @@
 ---
 date: '2024-09-25'
 published_time: 2024-09-25 21:49:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-and-first-lady-jill-biden-at-the-united-nations-general-assembly-leaders-reception-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-and-first-lady-jill-biden-at-the-united-nations-general-assembly-leaders-reception-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the United Nations\
   \ General Assembly Leaders\u2019 Reception | New York,\_NY"

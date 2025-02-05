@@ -1,7 +1,7 @@
 ---
 date: '2022-11-23'
 published_time: 2022-11-23 20:47:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/23/statement-by-president-joe-biden-on-the-occasion-of-international-day-for-the-elimination-of-violence-against-women-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/23/statement-by-president-joe-biden-on-the-occasion-of-international-day-for-the-elimination-of-violence-against-women-2/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Occasion of International Day for\
   \ the Elimination of Violence Against\_Women"

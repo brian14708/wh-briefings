@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-20 15:19:07-04:00
 published_time: 2024-03-20 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/20/president-biden-names-forty-seventh-round-of-judicial-nominees-and-announces-one-new-nominee-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/20/president-biden-names-forty-seventh-round-of-judicial-nominees-and-announces-one-new-nominee-to-serve-as-u-s-marshal/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Seventh Round of Judicial Nominees and Announces\
   \ One New Nominee to Serve as U.S.\_Marshal"

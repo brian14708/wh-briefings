@@ -1,7 +1,7 @@
 ---
 date: '2024-04-11'
 published_time: 2024-04-11 20:06:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/
 tags: statements-releases
 title: "Joint Vision Statement from the Leaders of Japan, the Philippines, and the\
   \ United\_States"
@@ -148,7 +148,7 @@ commitment to take urgent action this decade to reduce greenhouse gas
 emissions in line with a 1.5 degrees Celsius warming limit and
 accelerate efforts to build clean energy economies, while noting
 different national circumstances. <img
-src="https://www.whitehouse.gov/71709ebb-f962-4e8d-9940-8237f3363e63"
+src="https://bidenwhitehouse.archives.gov/71709ebb-f962-4e8d-9940-8237f3363e63"
 decoding="async" alt="Anchor" />Our three nations seek to expand
 trilateral cooperation in the Philippines on the deployment of clean
 energy technologies, including renewable energy projects such as solar

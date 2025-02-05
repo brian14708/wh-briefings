@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-01-25'
 modified_time: 2022-01-25 11:50:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/
 published_time: 2022-01-25 11:50:07-05:00
 title: "Statement by President\_Biden on General Motors Investment in\_Michigan"
 ---

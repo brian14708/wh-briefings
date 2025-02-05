@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 12:05:47-04:00
 published_time: 2022-08-26 12:05:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-at-a-reception-for-the-democratic-national-committee-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/26/remarks-by-president-biden-at-a-reception-for-the-democratic-national-committee-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Reception for the Democratic National\_Committee"
 ---

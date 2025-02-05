@@ -1,7 +1,7 @@
 ---
 date: '2025-01-13'
 published_time: 2025-01-13 17:21:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/13/president-joseph-r-biden-jr-amends-california-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/13/president-joseph-r-biden-jr-amends-california-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends California Disaster\_Declaration"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 14:58:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/readout-of-council-of-governors-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/readout-of-council-of-governors-meeting-2/
 tags: statements-releases
 title: "Readout of Council of Governors\_Meeting"
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-04'
 modified_time: 2022-04-04 12:05:13-04:00
 published_time: 2022-04-04 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Action Plan for Building Better School\_\
   Infrastructure"
@@ -89,13 +89,13 @@ will:
      
 -   **Help Schools Access Resources and Best Practices: **The White
     House is releasing
-    a [toolkit](https://www.whitehouse.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf) to
+    a [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf) to
     help schools and school districts access available funding, as well
     as technical assistance opportunities and planning tools to help
     schools improve air quality, energy efficiency, and more. This
-    new [toolkit](https://www.whitehouse.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf) will
+    new [toolkit](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf) will
     further support school participation in the [Clean Air in Buildings
-    Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/),
+    Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/17/fact-sheet-biden-administration-launches-effort-to-improve-ventilation-and-reduce-the-spread-of-covid-19-in-buildings/),
     which the Administration recently launched to reduce the spread of
     COVID-19 and improve indoor air quality in buildings of all kinds,
     including schools. The Department of Energy is also announcing the
@@ -135,15 +135,15 @@ will:
     partnering with the Department of the Interior’s Bureau of Indian
     Education (BIE) to improve the state of our federally-operated
     schools. And the Administration’s [Working Group on Puerto
-    Rico](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) has
+    Rico](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) has
     prioritized supporting school reconstruction.
 
 Today’s announcements build on ongoing efforts to support students,
 including the [Biden-Harris Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/) to
 reduce lead exposure in 400,000 schools and child care facilities and
 the [Justice40
-Initiative](https://www.whitehouse.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/),
+Initiative](https://bidenwhitehouse.archives.gov/ceq/news-updates/2021/12/02/delivering-on-justice40/),
 which agencies are implementing to deliver 40 percent of the benefits of
 federal climate and clean energy investments to disadvantaged
 communities.
@@ -214,7 +214,7 @@ To help schools access funding sources and technical assistance
 opportunities, **the White House is releasing a **[**toolkit mapping out
 available resources across the federal government for school
 infrastructure
-upgrades**](https://www.whitehouse.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf).
+upgrades**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/White-House-School-Infrastructure-Toolkit-04.04.22.pdf).
 By compiling resources and programs from across the federal government,
 this toolkit will help state and local officials find the support they
 need for building assessments, air quality improvements, energy
@@ -369,7 +369,7 @@ assisting BIE to initiate a set of pilot assessments in Tribal schools
 for energy efficiency and indoor air quality projects.
 
 The Administration’s [Working Group on Puerto
-Rico](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) has
+Rico](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/20/readout-of-the-first-meeting-of-the-white-house-working-group-on-puerto-rico/) has
 prioritized supporting school reconstruction efforts on the island.
 Agencies collaborated [on a
 toolkit](https://www.dhs.gov/news/2022/01/21/us-departments-homeland-security-and-education-release-toolkit-federal-resources.) in

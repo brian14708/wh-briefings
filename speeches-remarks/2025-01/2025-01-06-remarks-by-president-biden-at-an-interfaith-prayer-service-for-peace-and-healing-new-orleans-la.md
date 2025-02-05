@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-07 14:54:47-05:00
 published_time: 2025-01-06 18:51:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/06/remarks-by-president-biden-at-an-interfaith-prayer-service-for-peace-and-healing-new-orleans-la/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/06/remarks-by-president-biden-at-an-interfaith-prayer-service-for-peace-and-healing-new-orleans-la/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an Interfaith Prayer Service for Peace and\_\
   Healing"

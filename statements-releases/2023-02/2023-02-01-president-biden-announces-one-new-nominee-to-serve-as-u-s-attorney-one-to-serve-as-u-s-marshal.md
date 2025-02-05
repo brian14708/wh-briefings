@@ -1,7 +1,7 @@
 ---
 date: '2023-02-01'
 published_time: 2023-02-01 18:28:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/01/president-biden-announces-one-new-nominee-to-serve-as-u-s-attorney-one-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/01/president-biden-announces-one-new-nominee-to-serve-as-u-s-attorney-one-to-serve-as-u-s-marshal/
 tags: statements-releases
 title: "President\_Biden Announces One New Nominee to Serve as U.S. Attorney, One\
   \ to Serve as U.S.\_Marshal"

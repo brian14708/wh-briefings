@@ -2,7 +2,7 @@
 date: '2022-07-04'
 modified_time: 2022-07-05 08:02:25-04:00
 published_time: 2022-07-04 23:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/04/remarks-by-president-biden-to-military-families-on-independence-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/04/remarks-by-president-biden-to-military-families-on-independence-day/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to Military Families on Independence\_Day"
 ---

@@ -2,7 +2,7 @@
 date: '2023-06-16'
 modified_time: 2023-06-16 11:46:59-04:00
 published_time: 2023-06-16 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/16/president-biden-announces-intent-to-appoint-dr-mandy-cohen-as-director-of-the-centers-for-disease-control-and-prevention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/16/president-biden-announces-intent-to-appoint-dr-mandy-cohen-as-director-of-the-centers-for-disease-control-and-prevention/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Appoint Dr. Mandy Cohen as Director of\
   \ the Centers for Disease Control and\_Prevention"

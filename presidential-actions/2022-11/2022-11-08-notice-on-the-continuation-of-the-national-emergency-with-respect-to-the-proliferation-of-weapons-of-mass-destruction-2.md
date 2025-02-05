@@ -2,7 +2,7 @@
 date: '2022-11-08'
 modified_time: 2022-11-08 16:43:16-05:00
 published_time: 2022-11-08 16:43:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass-destruction-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Proliferation\
   \ of Weapons of Mass\_Destruction"

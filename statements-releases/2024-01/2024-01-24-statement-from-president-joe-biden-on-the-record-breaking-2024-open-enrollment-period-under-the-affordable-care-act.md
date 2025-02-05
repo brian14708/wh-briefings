@@ -2,7 +2,7 @@
 date: '2024-01-24'
 modified_time: 2024-01-24 09:20:04-05:00
 published_time: 2024-01-24 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/24/statement-from-president-joe-biden-on-the-record-breaking-2024-open-enrollment-period-under-the-affordable-care-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/24/statement-from-president-joe-biden-on-the-record-breaking-2024-open-enrollment-period-under-the-affordable-care-act/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Record-Breaking 2024 Open Enrollment\
   \ Period Under the Affordable Care\_Act"

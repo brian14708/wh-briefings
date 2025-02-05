@@ -2,7 +2,7 @@
 date: '2022-08-28'
 modified_time: 2022-08-28 05:15:25-04:00
 published_time: 2022-08-28 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/28/fact-sheet-white-house-announces-president-biden-will-host-the-global-funds-seventh-replenishment-conference-on-september-19-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/28/fact-sheet-white-house-announces-president-biden-will-host-the-global-funds-seventh-replenishment-conference-on-september-19-2022/
 tags: statements-releases
 title: "FACT SHEET: White\_House Announces President\_Biden Will Host the Global Fund\u2019\
   s Seventh Replenishment Conference on September 19,\_2022"

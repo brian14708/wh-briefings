@@ -2,7 +2,7 @@
 date: '2022-05-01'
 modified_time: 2022-05-01 17:47:52-04:00
 published_time: 2022-05-01 20:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/01/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-occasion-of-eid-al-fitr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/01/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-occasion-of-eid-al-fitr/
 tags: statements-releases
 title: "Statement by President Joe\_Biden and First Lady Jill\_Biden on the Occasion\
   \ of Eid\_al-Fitr"

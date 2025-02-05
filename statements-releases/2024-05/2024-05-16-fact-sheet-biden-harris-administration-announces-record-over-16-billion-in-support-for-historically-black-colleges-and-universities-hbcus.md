@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-17 09:08:58-04:00
 published_time: 2024-05-16 15:09:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-announces-record-over-16-billion-in-support-for-historically-black-colleges-and-universities-hbcus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-announces-record-over-16-billion-in-support-for-historically-black-colleges-and-universities-hbcus/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Record Over $16 Billion\
   \ in Support for Historically Black Colleges and Universities\_(HBCUs)"
@@ -13,7 +13,7 @@ funding and investments in Historically Black Colleges and Universities
 (HBCUs) totaling **more than $16 billion** from Fiscal Years (FY) 2021
 through current available data for FY 2024. This new reported total is
 up from the [previously announced over $7
-billion](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-national-historically-black-colleges-and-universities-week-2023/),
+billion](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/22/a-proclamation-on-national-historically-black-colleges-and-universities-week-2023/),
 and captures significant additional actions already undertaken.  The
 total of more than $16 billion includes over **$11.4 billion** between
 FY2021 and FY2023 through Federal grants, contracting awards, and debt
@@ -54,7 +54,7 @@ facilitating movement from the bottom 40% in U.S. household income to
 the top 60%.  
    
 A [CEA
-report](https://www.whitehouse.gov/cea/written-materials/2024/05/16/the-economics-of-hbcus/)
+report](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/05/16/the-economics-of-hbcus/)
 published today further underscores that HBCUs are engines for upward
 mobility and additionally discusses new research showing that HBCU
 enrollment has considerable positive effects on bachelor’s degree
@@ -69,7 +69,7 @@ Since Day One, the Biden-Harris Administration has committed to
 opportunity, and educational excellence, including by reestablishing the
 [White House Initiative on Advancing Educational Equity, Excellence, and
 Economic Opportunity through Historically Black Colleges and
-Universities](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/).
+Universities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/).
 Between FY 2021 – FY 2023 the Biden-Harris Administration has taken
 historic actions to support HBCUs:  
    
@@ -217,7 +217,7 @@ results:**
 -   The **White House Initiative on Advancing Educational Equity,
     Excellence, and Economic Opportunity through HBCUs** established the
     [Executive HBCU Space
-    Lab](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-),
+    Lab](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-vice-president-kamala-),
     a new collaboration between HBCUs, the Federal government, and
     industry partners to increase HBCU engagement in space-related
     federal contracting. The Executive HBCU Space Lab is a
@@ -278,7 +278,7 @@ results:**
 -   The **National Science and Technology Council’s Committee on STEM**,
     in support of the CHIPS and Science Act, established an Interagency
     Working Group (IWG) on HBCU, TCU, and MSI STEM Achievement. The
-    [Council](https://www.whitehouse.gov/ostp/ostps-teams/nstc/)
+    [Council](https://bidenwhitehouse.archives.gov/ostp/ostps-teams/nstc/)
     provides a coordinated federal approach to carry out sustained
     outreach activities to increase clarity, transparency, and
     accountability for federal research agency investments in STEM

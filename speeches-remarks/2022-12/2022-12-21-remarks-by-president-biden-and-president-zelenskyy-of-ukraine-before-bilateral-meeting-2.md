@@ -1,7 +1,7 @@
 ---
 date: '2022-12-21'
 published_time: 2022-12-21 18:24:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/21/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/21/remarks-by-president-biden-and-president-zelenskyy-of-ukraine-before-bilateral-meeting-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Zelenskyy of Ukraine Before Bilateral\_\
   Meeting"

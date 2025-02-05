@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-05-05'
 modified_time: 2021-05-05 13:39:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/05/05/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-34/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/05/05/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-34/
 published_time: 2021-05-05 13:39:28-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -651,4 +651,4 @@ And we will be talking to you again on Friday. Thank you.
 
   
 To view the COVID Press Briefing slides,
-visit <https://www.whitehouse.gov/wp-content/uploads/2021/05/COVID-Press-Briefing_5May2021_for-transcript.pdf>
+visit <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/COVID-Press-Briefing_5May2021_for-transcript.pdf>

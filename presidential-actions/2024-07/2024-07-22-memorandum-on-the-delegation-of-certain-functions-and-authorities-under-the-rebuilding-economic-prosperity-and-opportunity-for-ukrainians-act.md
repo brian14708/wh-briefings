@@ -2,7 +2,7 @@
 date: '2024-07-22'
 modified_time: 2024-07-22 17:03:53-04:00
 published_time: 2024-07-22 17:02:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/22/memorandum-on-the-delegation-of-certain-functions-and-authorities-under-the-rebuilding-economic-prosperity-and-opportunity-for-ukrainians-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/22/memorandum-on-the-delegation-of-certain-functions-and-authorities-under-the-rebuilding-economic-prosperity-and-opportunity-for-ukrainians-act/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Certain Functions and Authorities Under the\
   \ Rebuilding Economic Prosperity and Opportunity for Ukrainians\_Act"

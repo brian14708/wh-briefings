@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-11 02:33:49-04:00
 published_time: 2022-06-10 02:32:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/declaracao-de-los-angeles-sobre-migracao-e-protecao/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/declaracao-de-los-angeles-sobre-migracao-e-protecao/
 tags: statements-releases
 title: "Declara\xE7\xE3o de Los Angeles sobre Migra\xE7\xE3o e\_Prote\xE7\xE3o"
 ---

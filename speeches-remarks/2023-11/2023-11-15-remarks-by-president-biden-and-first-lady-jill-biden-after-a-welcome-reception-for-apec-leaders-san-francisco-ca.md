@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-16 15:04:26-05:00
 published_time: 2023-11-15 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-and-first-lady-jill-biden-after-a-welcome-reception-for-apec-leaders-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/15/remarks-by-president-biden-and-first-lady-jill-biden-after-a-welcome-reception-for-apec-leaders-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden After a Welcome Reception\
   \ for APEC Leaders | San Francisco,\_CA"

@@ -1,7 +1,7 @@
 ---
 date: '2023-10-23'
 published_time: 2023-10-23 10:30:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-implementation-plan-for-the-united-states-national-strategy-for-the-arctic-region/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/23/fact-sheet-implementation-plan-for-the-united-states-national-strategy-for-the-arctic-region/
 tags: statements-releases
 title: "FACT SHEET: Implementation Plan for the United\_States\u2019 National Strategy\
   \ for the Arctic\_Region"
@@ -40,6 +40,6 @@ Implementation Plan periodically as conditions in the Arctic evolve.
   
 [*Read the full National Strategy here; Read the full Implementation
 Plan
-here*](https://www.whitehouse.gov/wp-content/uploads/2023/10/NSAR-Implementation-Plan.pdf)
+here*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/NSAR-Implementation-Plan.pdf)
 
 \###

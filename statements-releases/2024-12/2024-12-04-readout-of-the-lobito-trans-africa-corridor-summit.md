@@ -2,7 +2,7 @@
 date: '2024-12-04'
 modified_time: 2024-12-04 10:57:10-05:00
 published_time: 2024-12-04 10:57:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/04/readout-of-the-lobito-trans-africa-corridor-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/04/readout-of-the-lobito-trans-africa-corridor-summit/
 tags: statements-releases
 title: "Readout of the Lobito Trans-Africa Corridor\_Summit"
 ---

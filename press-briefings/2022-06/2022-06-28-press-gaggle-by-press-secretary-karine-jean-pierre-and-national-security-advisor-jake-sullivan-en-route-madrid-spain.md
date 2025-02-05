@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 10:57:09-04:00
 published_time: 2022-06-28 10:57:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-madrid-spain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/28/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-madrid-spain/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Madrid,\_Spain"

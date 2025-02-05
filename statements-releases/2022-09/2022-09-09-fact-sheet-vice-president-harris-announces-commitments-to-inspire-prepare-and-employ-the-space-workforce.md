@@ -2,7 +2,7 @@
 date: '2022-09-09'
 modified_time: 2022-09-12 15:54:54-04:00
 published_time: 2022-09-09 10:53:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/09/fact-sheet-vice-president-harris-announces-commitments-to-inspire-prepare-and-employ-the-space-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/09/fact-sheet-vice-president-harris-announces-commitments-to-inspire-prepare-and-employ-the-space-workforce/
 tags: statements-releases
 title: 'FACT SHEET: Vice President Harris Announces Commitments to Inspire, Prepare,
   and Employ the Space Workforce'

@@ -2,7 +2,7 @@
 date: '2023-03-14'
 modified_time: 2023-03-14 12:53:14-04:00
 published_time: 2023-03-14 13:06:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-taoiseach-leo-varadkar-of-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-taoiseach-leo-varadkar-of-ireland/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Taoiseach Leo Varadkar of\_Ireland"

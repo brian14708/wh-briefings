@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-15 12:46:32-04:00
 published_time: 2024-06-15 12:46:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/remarks-by-vice-president-harris-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/remarks-by-vice-president-harris-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting/
 tags: statements-releases
 title: "Remarks by Vice President Harris and President Volodymyr Zelenskyy of Ukraine\
   \ Before Bilateral\_Meeting"

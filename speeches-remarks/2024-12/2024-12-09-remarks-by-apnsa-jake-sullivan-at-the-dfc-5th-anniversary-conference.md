@@ -1,7 +1,7 @@
 ---
 date: '2024-12-09'
 published_time: 2024-12-09 18:16:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/09/remarks-by-apnsa-jake-sullivan-at-the-dfc-5th-anniversary-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/09/remarks-by-apnsa-jake-sullivan-at-the-dfc-5th-anniversary-conference/
 tags: speeches-remarks
 title: "Remarks by APNSA Jake Sullivan at the DFC 5th Anniversary\_Conference"
 ---

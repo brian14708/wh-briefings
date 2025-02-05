@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 published_time: 2023-08-11 15:17:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/11/memorandum-on-the-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/11/memorandum-on-the-continuation-of-u-s-drug-interdiction-assistance-to-the-government-of-colombia/
 tags: presidential-actions
 title: "Memorandum on the Continuation of U.S. Drug Interdiction Assistance to the\
   \ Government of\_Colombia"

@@ -2,7 +2,7 @@
 date: '2023-01-22'
 modified_time: 2023-01-22 14:01:02-05:00
 published_time: 2023-01-22 14:01:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/
 tags: presidential-actions
 title: "Memorandum on Further Efforts to Protect Access to Reproductive Healthcare\_\
   Services"

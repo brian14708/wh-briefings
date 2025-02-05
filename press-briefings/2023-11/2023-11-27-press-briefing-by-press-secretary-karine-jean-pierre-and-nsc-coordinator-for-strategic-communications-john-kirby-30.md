@@ -1,7 +1,7 @@
 ---
 date: '2023-11-27'
 published_time: 2023-11-27 18:47:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/27/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-30/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/27/press-briefing-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-30/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John\_Kirby"

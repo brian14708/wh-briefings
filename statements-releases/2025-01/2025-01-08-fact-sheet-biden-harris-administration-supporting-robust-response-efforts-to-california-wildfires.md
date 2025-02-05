@@ -2,7 +2,7 @@
 date: '2025-01-08'
 modified_time: 2025-01-08 15:34:57-05:00
 published_time: 2025-01-08 14:50:36-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/fact-sheet-biden-harris-administration-supporting-robust-response-efforts-to-california-wildfires/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/fact-sheet-biden-harris-administration-supporting-robust-response-efforts-to-california-wildfires/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Supporting Robust Response Efforts\
   \ to California\_Wildfires"

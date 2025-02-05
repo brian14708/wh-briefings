@@ -2,7 +2,7 @@
 date: '2022-08-03'
 modified_time: 2022-08-03 11:17:13-04:00
 published_time: 2022-08-03 11:01:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-white-house-takes-action-on-climate-by-accelerating-energy-efficiency-projects-across-federal-government/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/03/fact-sheet-white-house-takes-action-on-climate-by-accelerating-energy-efficiency-projects-across-federal-government/
 tags: statements-releases
 title: "FACT SHEET: White\_House Takes Action on Climate by Accelerating Energy Efficiency\
   \ Projects Across Federal\_Government"
@@ -86,14 +86,14 @@ to improve the Nation’s building energy and climate performance by
 [updating energy codes for Federal
 buildings](https://www.energy.gov/articles/doe-releases-energy-saving-rules-federal-buildings-and-proposes-new-standards-consumer),
 [building better school
-infrastructure](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
+infrastructure](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-harris-action-plan-for-building-better-school-infrastructure/),
 spurring ambition among [major U.S.
 companies](https://www.energy.gov/articles/doe-announces-pledges-90-organizations-slash-emissions-50-within-decade)
 and [health sector
-leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/30/fact-sheet-health-sector-leaders-join-biden-administrations-pledge-to-reduce-greenhouse-gas-emissions-50-by-2030/)
+leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/30/fact-sheet-health-sector-leaders-join-biden-administrations-pledge-to-reduce-greenhouse-gas-emissions-50-by-2030/)
 through commitments to slash buildings emissions by 50 percent by 2030,
 and launching of the first-ever [Building Performance Standards
-Coalition](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/)
+Coalition](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/21/fact-sheet-biden-harris-administration-launches-coalition-of-states-and-local-governments-to-strengthen-building-performance-standards/)
 of more than 35 states and cities.
 
 **<u>How Agencies Are Taking the Lead to Leverage Public-Private
@@ -103,7 +103,7 @@ Federal agencies have continued to take a leadership role in utilizing
 performance contracting to achieve President Biden’s Federal net-zero
 operations goal, consistent with the Administration’s December 2021
 [Executive Order
-14057](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
+14057](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
 and the historic [Federal Sustainability
 Plan](http://www.sustainability.gov). Highlights include the following
 projects:

@@ -2,7 +2,7 @@
 date: '2024-09-12'
 modified_time: 2024-09-12 13:10:17-04:00
 published_time: 2024-09-12 13:10:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/12/proclamation-on-the-30th-anniversary-of-the-violence-against-women-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/12/proclamation-on-the-30th-anniversary-of-the-violence-against-women-act/
 tags: presidential-actions
 title: "Proclamation on the 30th Anniversary of the Violence Against Women\_Act"
 ---

@@ -2,7 +2,7 @@
 date: '2023-05-12'
 modified_time: 2023-05-12 17:40:17-04:00
 published_time: 2023-05-12 18:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/12/press-briefing-by-press-secretary-karine-jean-pierre-and-infrastructure-implementation-coordinator-mitch-landrieu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/12/press-briefing-by-press-secretary-karine-jean-pierre-and-infrastructure-implementation-coordinator-mitch-landrieu/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Infrastructure Implementation\
   \ Coordinator Mitch\_Landrieu"

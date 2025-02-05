@@ -1,7 +1,7 @@
 ---
 date: '2024-05-22'
 published_time: 2024-05-22 12:50:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/statement-from-president-joe-biden-on-confirming-200-federal-judges/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/22/statement-from-president-joe-biden-on-confirming-200-federal-judges/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Confirming 200 Federal\_Judges"
 ---

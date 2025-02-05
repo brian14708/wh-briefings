@@ -1,7 +1,7 @@
 ---
 date: '2024-01-24'
 published_time: 2024-01-24 16:24:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/24/message-to-the-senate-on-the-presidents-veto-of-s-j-res-38/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/24/message-to-the-senate-on-the-presidents-veto-of-s-j-res-38/
 tags: presidential-actions
 title: "Message to the Senate on the President\u2019s Veto of S.J.Res.\_38"
 ---

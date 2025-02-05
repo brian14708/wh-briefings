@@ -2,7 +2,7 @@
 date: '2023-08-18'
 modified_time: 2023-08-18 16:16:35-04:00
 published_time: 2023-08-18 16:16:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/18/readout-of-president-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/18/readout-of-president-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Yoon Suk Yeol of\
   \ the Republic of\_Korea"

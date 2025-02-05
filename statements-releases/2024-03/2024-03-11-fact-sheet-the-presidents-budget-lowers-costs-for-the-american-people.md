@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-11 13:02:52-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-lowers-costs-for-the-american-people/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Lowers Costs for the American\_People"
 ---

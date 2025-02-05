@@ -2,7 +2,7 @@
 date: '2024-05-30'
 modified_time: 2024-05-31 07:17:33-04:00
 published_time: 2024-05-30 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/30/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-france/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/30/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-travel-to-france/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on President\_\
   Biden\u2019s Travel to\_France"

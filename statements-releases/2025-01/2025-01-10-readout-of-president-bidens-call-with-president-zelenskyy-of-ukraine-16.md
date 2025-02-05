@@ -1,7 +1,7 @@
 ---
 date: '2025-01-10'
 published_time: 2025-01-10 17:32:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/10/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-16/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/10/readout-of-president-bidens-call-with-president-zelenskyy-of-ukraine-16/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Zelenskyy of\_Ukraine"
 ---

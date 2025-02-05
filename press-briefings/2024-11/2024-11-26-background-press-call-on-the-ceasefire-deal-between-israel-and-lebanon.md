@@ -2,7 +2,7 @@
 date: '2024-11-26'
 modified_time: 2024-11-27 08:01:36-05:00
 published_time: 2024-11-26 16:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/26/background-press-call-on-the-ceasefire-deal-between-israel-and-lebanon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/26/background-press-call-on-the-ceasefire-deal-between-israel-and-lebanon/
 tags: press-briefings
 title: "Background Press Call on the Ceasefire Deal Between Israel and\_Lebanon"
 ---

@@ -2,7 +2,7 @@
 date: '2022-12-06'
 modified_time: 2022-12-07 15:46:51-05:00
 published_time: 2022-12-06 22:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-national-security-advisor-jake-sullivan-at-the-international-anti-corruption-conference-iacc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-national-security-advisor-jake-sullivan-at-the-international-anti-corruption-conference-iacc/
 tags: speeches-remarks
 title: "Remarks by National Security Advisor Jake Sullivan at the International Anti-Corruption\
   \ Conference\_(IACC)"

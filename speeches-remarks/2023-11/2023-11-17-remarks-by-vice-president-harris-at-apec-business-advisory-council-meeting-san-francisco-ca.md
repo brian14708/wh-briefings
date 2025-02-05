@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 14:49:16-05:00
 published_time: 2023-11-17 14:49:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-vice-president-harris-at-apec-business-advisory-council-meeting-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-vice-president-harris-at-apec-business-advisory-council-meeting-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at APEC Business Advisory Council Meeting\
   \ | San Francisco,\_CA"

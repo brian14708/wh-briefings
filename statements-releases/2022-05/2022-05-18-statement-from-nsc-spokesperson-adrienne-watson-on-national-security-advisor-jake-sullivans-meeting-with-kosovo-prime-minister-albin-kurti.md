@@ -2,7 +2,7 @@
 date: '2022-05-18'
 modified_time: 2022-05-17 23:10:29-04:00
 published_time: 2022-05-18 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/18/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-kosovo-prime-minister-albin-kurti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/18/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-meeting-with-kosovo-prime-minister-albin-kurti/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Meeting with Kosovo Prime Minister Albin\_Kurti"

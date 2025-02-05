@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 16:28:40-04:00
 published_time: 2024-10-17 16:28:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/17/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-berlin-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/17/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-en-route-berlin-germany/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Security Advisor\
   \ Jake Sullivan En Route Berlin,\_Germany"

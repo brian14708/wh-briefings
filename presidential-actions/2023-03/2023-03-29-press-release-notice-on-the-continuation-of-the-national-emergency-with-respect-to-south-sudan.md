@@ -2,7 +2,7 @@
 date: '2023-03-29'
 modified_time: 2023-03-29 15:58:20-04:00
 published_time: 2023-03-29 15:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/29/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/29/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-south-sudan/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to South\_\
   Sudan"

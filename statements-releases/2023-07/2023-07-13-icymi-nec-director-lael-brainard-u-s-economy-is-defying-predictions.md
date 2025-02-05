@@ -1,13 +1,13 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 20:06:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/icymi-nec-director-lael-brainard-u-s-economy-is-defying-predictions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/icymi-nec-director-lael-brainard-u-s-economy-is-defying-predictions/
 tags: statements-releases
 title: "ICYMI: NEC Director Lael Brainard: U.S. Economy is \u201CDefying Predictions\u201D"
 ---
  
 On Wednesday, National Economic Council Director Lael Brainard
-delivered [remarks](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/) at
+delivered [remarks](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/12/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-economic-club-of-new-york/) at
 the Economic Club of New York on Bidenomics and how our economy is
 “defying predictions.” The remarks followed new data yesterday showing
 that inflation has fallen for 12 straight months to 3%—the lowest it’s

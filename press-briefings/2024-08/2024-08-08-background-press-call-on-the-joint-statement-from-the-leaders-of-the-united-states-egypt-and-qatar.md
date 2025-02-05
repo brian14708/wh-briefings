@@ -2,7 +2,7 @@
 date: '2024-08-08'
 modified_time: 2024-08-09 03:37:48-04:00
 published_time: 2024-08-08 15:35:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/08/background-press-call-on-the-joint-statement-from-the-leaders-of-the-united-states-egypt-and-qatar/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/08/background-press-call-on-the-joint-statement-from-the-leaders-of-the-united-states-egypt-and-qatar/
 tags: press-briefings
 title: "Background Press Call on the Joint Statement from the Leaders of the United\_\
   States, Egypt, and\_Qatar"

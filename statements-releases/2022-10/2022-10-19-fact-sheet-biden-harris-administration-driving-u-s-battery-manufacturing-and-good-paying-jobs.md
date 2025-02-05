@@ -1,7 +1,7 @@
 ---
 date: '2022-10-19'
 published_time: 2022-10-19 11:02:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-biden-harris-administration-driving-u-s-battery-manufacturing-and-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-biden-harris-administration-driving-u-s-battery-manufacturing-and-good-paying-jobs/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Driving U.S. Battery Manufacturing\
   \ and Good-Paying\_Jobs"
@@ -122,7 +122,7 @@ by a White House steering committee and coordinated by the Department of
 Energy with support from the Department of the Interior.
 
 The critical minerals and large capacity battery [supply chain
-review](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+review](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
 initiated by Executive Order 14017 recommended (1) taking a
 mineral-by-mineral approach to both expand sustainable,
 environmentally-responsible domestic mining, processing, and recycling
@@ -166,7 +166,7 @@ environmental, community, and worker-safety standards for extraction,
 processing, and recycling. Through this initiative, the Administration
 is acting on its commitment to build fairly at scale and speed as it
 [executes a modern American industrial
-strategy](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).  
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/13/remarks-on-executing-a-modern-american-industrial-strategy-by-nec-director-brian-deese/).  
   
 **<u>PRESIDENT BIDEN’S ECONOMIC PLAN IN ACTION</u>**  
   
@@ -207,7 +207,7 @@ chain for battery manufacturing including:
     environmental and community and Tribal engagement standards, while
     improving the efficiency and outcomes of the permitting process.
 -   Launching a [Permitting Action
-    Plan](https://www.whitehouse.gov/omb/briefing-room/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/)
+    Plan](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/)
     to strengthen and accelerate Federal permitting and environmental
     reviews, with a sectoral focus on critical minerals.
 -   Releasing the [National Blueprint for Lithium Batteries, 2021 –
@@ -221,7 +221,7 @@ chain for battery manufacturing including:
     Labor, to develop industry-recognized training and credentials to
     support rapid and high-quality workforce development.
 -   Launching the [Partnership for Global Infrastructure and
-    Investment](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/),
+    Investment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/26/fact-sheet-president-biden-and-g7-leaders-formally-launch-the-partnership-for-global-infrastructure-and-investment/),
     a whole-of-government initiative coordinated with G7 countries to
     drive infrastructure investment in low- and middle- income countries
     in strategic sectors, including the responsible mining of metals and

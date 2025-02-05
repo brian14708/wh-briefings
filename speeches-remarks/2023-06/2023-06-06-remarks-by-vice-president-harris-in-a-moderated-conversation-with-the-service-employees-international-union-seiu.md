@@ -1,7 +1,7 @@
 ---
 date: '2023-06-06'
 published_time: 2023-06-06 21:04:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/06/remarks-by-vice-president-harris-in-a-moderated-conversation-with-the-service-employees-international-union-seiu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/06/remarks-by-vice-president-harris-in-a-moderated-conversation-with-the-service-employees-international-union-seiu/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with the Service\
   \ Employees International Union\_(SEIU)"

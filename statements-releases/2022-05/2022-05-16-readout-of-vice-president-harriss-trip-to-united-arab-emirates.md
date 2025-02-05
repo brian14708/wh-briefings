@@ -2,7 +2,7 @@
 date: '2022-05-16'
 modified_time: 2022-05-16 11:49:25-04:00
 published_time: 2022-05-16 11:49:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/readout-of-vice-president-harriss-trip-to-united-arab-emirates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/readout-of-vice-president-harriss-trip-to-united-arab-emirates/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Trip to United Arab Emirates"
 ---

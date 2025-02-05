@@ -1,7 +1,7 @@
 ---
 date: '2023-01-16'
 published_time: 2023-01-16 21:38:30-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-president-biden-at-the-national-action-networks-annual-mlk-day-breakfast/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/16/remarks-by-president-biden-at-the-national-action-networks-annual-mlk-day-breakfast/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Action Network\u2019s Annual MLK\
   \ Day\_Breakfast"

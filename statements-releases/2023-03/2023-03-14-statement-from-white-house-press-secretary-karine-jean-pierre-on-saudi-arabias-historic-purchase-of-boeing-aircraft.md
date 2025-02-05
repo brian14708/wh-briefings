@@ -1,7 +1,7 @@
 ---
 date: '2023-03-14'
 published_time: 2023-03-14 09:33:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/14/statement-from-white-house-press-secretary-karine-jean-pierre-on-saudi-arabias-historic-purchase-of-boeing-aircraft/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/14/statement-from-white-house-press-secretary-karine-jean-pierre-on-saudi-arabias-historic-purchase-of-boeing-aircraft/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Saudi Arabia\u2019\
   s Historic Purchase of Boeing\_Aircraft"

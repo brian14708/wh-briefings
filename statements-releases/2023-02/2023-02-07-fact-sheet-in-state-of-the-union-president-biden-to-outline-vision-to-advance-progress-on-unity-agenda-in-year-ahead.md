@@ -2,7 +2,7 @@
 date: '2023-02-07'
 modified_time: 2023-02-07 16:58:06-05:00
 published_time: 2023-02-07 10:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/07/fact-sheet-in-state-of-the-union-president-biden-to-outline-vision-to-advance-progress-on-unity-agenda-in-year-ahead/
 tags: statements-releases
 title: "FACT SHEET: In State of the Union, President\_Biden to Outline Vision to Advance\
   \ Progress on Unity Agenda in Year\_Ahead"
@@ -10,7 +10,7 @@ title: "FACT SHEET: In State of the Union, President\_Biden to Outline Vision to
  
 During his first State of the Union address, President Biden announced
 a [four-part Unity
-Agenda](https://www.whitehouse.gov/omb/briefing-room/2022/03/28/fact-sheet-president-bidens-budget-advances-a-bipartisan-unity-agenda/) focused
+Agenda](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/03/28/fact-sheet-president-bidens-budget-advances-a-bipartisan-unity-agenda/) focused
 on areas where members of both parties can come together and make
 additional progress for the American people: ending cancer as we know
 it; delivering on the sacred obligation to veterans; tackling the mental
@@ -108,7 +108,7 @@ and national security crisis. Since 2010, more than 71,000 veterans have
 died by suicide – more than the total number of deaths from combat
 during the Vietnam War and operations in Iraq and Afghanistan combined.
 Since releasing a [comprehensive
-strategy](https://www.whitehouse.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) for
+strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/Military-and-Veteran-Suicide-Prevention-Strategy.pdf) for
 reducing military and veteran suicide,
 both [DOD](https://www.defense.gov/News/Releases/Release/Article/3193806/department-of-defense-releases-the-annual-report-on-suicide-in-the-military-cal/) and [VA](https://www.va.gov/OPA/PRESSREL/pressrelease.cfm?id=5823) reported
 declines in suicide deaths, but much more remains to be done. This will
@@ -207,7 +207,7 @@ with anxiety and depression
 has [risen](https://www.hhs.gov/about/news/2022/09/01/back-to-school-hhs-announces-40-point-22-million-in-youth-mental-health-grants-awarded-in-august-plus-47-point-6-million-in-new-grant-funding.html) nearly
 thirty percent. Last year, President Biden called for additional actions
 to advance his [Mental Health
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) across
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) across
 its three objectives: support Americans by creating healthy
 environments; strengthening system capacity, and connecting more
 Americans to care.  Over the last year, the Administration invested
@@ -261,7 +261,7 @@ long-term dividends. The Biden-Harris Administration will:
     as geolocation and health information, and the burden must fall on
     companies – not consumers – to minimize how much information they
     collect. We must also demand [transparency about the
-    algorithm](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)[s](https://www.whitehouse.gov/ostp/ai-bill-of-rights/notice-and-explanation/) companies
+    algorithm](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/)[s](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/notice-and-explanation/) companies
     use that far too often discriminate against Americans and sow
     division. The President has called for imposing much stronger
     transparency requirements on Big Tech platforms and is calling for
@@ -339,7 +339,7 @@ professionals, the Administration will:
 -   Prioritize research: The Office of Science and Technology Policy and
     Domestic Policy Council released the [White House Report on Mental
     Health Research
-    Priorities](https://www.whitehouse.gov/wp-content/uploads/2023/02/White-House-Report-on-Mental-Health-Research-Priorities.pdf),
+    Priorities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/02/White-House-Report-on-Mental-Health-Research-Priorities.pdf),
     which identifies key areas where additional scientific research is
     needed to address our national mental health crisis. These
     priorities will ensure coordination across the federal agencies and
@@ -369,7 +369,7 @@ epidemic as part of his Unity Agenda, because opioid use and trafficking
 affect families in red communities and blue communities and every
 community in between. Under President Biden’s leadership, overdose
 deaths and poisonings have decreased for [five months in a
-row](https://www.whitehouse.gov/ondcp/briefing-room/2023/01/11/dr-rahul-gupta-releases-statement-on-cdcs-new-overdose-death-data-2/) –
+row](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/01/11/dr-rahul-gupta-releases-statement-on-cdcs-new-overdose-death-data-2/) –
 but these deaths remain unacceptably high and are primarily caused by
 fentanyl. In the State of the Union, the President will announce key
 actions the Administration to tackle this issue head on, including by:
@@ -440,7 +440,7 @@ announce in the State of Union that his administration will:
     The DEA and Congress temporarily closed this loophole by making all
     FRS Schedule I. The Administration looks forward to working with
     Congress on its [comprehensive
-    proposal](https://www.whitehouse.gov/ondcp/briefing-room/2021/09/02/biden-harris-administration-provides-recommendations-to-congress-on-reducing-illicit-fentanyl-related-substances/) to
+    proposal](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/09/02/biden-harris-administration-provides-recommendations-to-congress-on-reducing-illicit-fentanyl-related-substances/) to
     permanently schedule all illicitly produced FRS into Schedule I.
     Traffickers of these deadly substances must face the penalties they
     deserve, no matter how they adjust their drugs.

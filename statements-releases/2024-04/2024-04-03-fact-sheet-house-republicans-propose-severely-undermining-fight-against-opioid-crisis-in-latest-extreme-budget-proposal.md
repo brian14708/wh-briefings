@@ -2,7 +2,7 @@
 date: '2024-04-03'
 modified_time: 2024-04-03 17:00:46-04:00
 published_time: 2024-04-03 17:00:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/03/fact-sheet-house-republicans-propose-severely-undermining-fight-against-opioid-crisis-in-latest-extreme-budget-proposal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/03/fact-sheet-house-republicans-propose-severely-undermining-fight-against-opioid-crisis-in-latest-extreme-budget-proposal/
 tags: statements-releases
 title: "FACT SHEET: House Republicans Propose Severely Undermining Fight Against Opioid\
   \ Crisis in Latest Extreme Budget\_Proposal"
@@ -19,13 +19,13 @@ as Americans to do everything we can to fight the opioid crisis that is
 devastating millions of families in every state and community across the
 country. That’s why the President has made beating the opioid epidemic
 [a key priority in his Unity Agenda for the
-Nation](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/)
+Nation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/fact-sheet-president-bidens-unity-agenda-for-the-nation/)
 and has called on Republicans and Democrats to work together to crack
 down on fentanyl trafficking and expand access to life-saving treatment
 for addiction.  
    
 Under President Biden’s
-[leadership](https://www.whitehouse.gov/ondcp/briefing-room/2024/02/01/white-house-drug-policy-director-statement-on-new-actions-to-expand-access-to-treatment-and-save-lives/),
+[leadership](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2024/02/01/white-house-drug-policy-director-statement-on-new-actions-to-expand-access-to-treatment-and-save-lives/),
 the Biden-Harris Administration has invested more funding and broken
 more barriers to treatment than any previous administration. That
 includes signing the bipartisan law that expanded the number of health
@@ -44,7 +44,7 @@ million Americans had a drug use disorder in 2022, and when we are
 losing one American to drug overdose every five minutes, House
 Republicans are proposing to rip away life-saving treatment for opioid
 use disorder. These cuts [are on top of the $4.5
-trillion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/)
+trillion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/)
 they want to cut from Medicaid and the Affordable Care Act, which would
 throw millions off their coverage and cut services for many more,
 including people who depend on these programs for mental health and

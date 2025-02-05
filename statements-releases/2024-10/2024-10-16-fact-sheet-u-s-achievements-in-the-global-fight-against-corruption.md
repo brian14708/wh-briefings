@@ -2,7 +2,7 @@
 date: '2024-10-16'
 modified_time: 2024-10-17 13:23:55-04:00
 published_time: 2024-10-16 08:58:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/16/fact-sheet-u-s-achievements-in-the-global-fight-against-corruption/
 tags: statements-releases
 title: "FACT SHEET: U.S. Achievements in the Global Fight Against\_Corruption"
 ---
@@ -23,11 +23,11 @@ Administration tackled these challenges starting Day One, to ensure
 democracy delivers and corrupt actors are held to account.
 
 The first [National Security Study
-Memorandum ](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/)of
+Memorandum ](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/03/memorandum-on-establishing-the-fight-against-corruption-as-a-core-united-states-national-security-interest/)of
 the Biden-Harris Administration established countering corruption as a
 “core U.S. national security interest,” leading to the issuance in
 December 2021 of the first [United States Strategy on Countering
-Corruption](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).
+Corruption](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/).
 Since then, the United States has taken action at home and around the
 world to curb illicit finance, hold corrupt actors accountable, forge
 multilateral partnerships, and equip frontline leaders to take on

@@ -2,7 +2,7 @@
 date: '2022-04-25'
 modified_time: 2022-04-25 13:35:37-04:00
 published_time: 2022-04-25 13:35:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/25/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/25/readout-of-president-bidens-call-with-his-majesty-king-abdullah-ii-of-jordan/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with His Majesty King Abdullah II\
   \ of\_Jordan"

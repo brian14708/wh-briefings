@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-07-07'
 modified_time: 2021-07-07 18:25:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/07/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong/
 published_time: 2021-07-07 18:25:48-04:00
 title: "Notice on the Continuation of the National Emergency with Respect to Hong\_\
   Kong"

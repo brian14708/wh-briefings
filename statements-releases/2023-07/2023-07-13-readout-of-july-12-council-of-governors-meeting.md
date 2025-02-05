@@ -1,7 +1,7 @@
 ---
 date: '2023-07-13'
 published_time: 2023-07-13 19:44:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/13/readout-of-july-12-council-of-governors-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/13/readout-of-july-12-council-of-governors-meeting/
 tags: statements-releases
 title: "Readout of July 12 Council of Governors\_Meeting"
 ---

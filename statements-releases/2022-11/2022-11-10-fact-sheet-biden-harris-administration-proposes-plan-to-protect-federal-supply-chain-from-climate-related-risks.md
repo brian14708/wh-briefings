@@ -2,7 +2,7 @@
 date: '2022-11-10'
 modified_time: 2022-11-09 23:30:39-05:00
 published_time: 2022-11-10 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-proposes-plan-to-protect-federal-supply-chain-from-climate-related-risks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/10/fact-sheet-biden-harris-administration-proposes-plan-to-protect-federal-supply-chain-from-climate-related-risks/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Proposes Plan to Protect Federal\
   \ Supply Chain from Climate-Related\_Risks"
@@ -15,9 +15,9 @@ Today, the Biden-Harris Administration is taking historic action to
 address greenhouse gas emissions and protect the Federal Government’s
 supply chains from climate-related financial risks. In support of
 President Biden’s Executive Orders on [*Climate-Related Financial
-Risk*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
+Risk*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/)
 and [*Catalyzing Clean Energy Industries and Jobs Through Federal
-Sustainability*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)*,*
+Sustainability*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)*,*
 the Administration is proposing the *Federal Supplier Climate Risks and
 Resilience Rule*, which would require major Federal contractors to
 publicly disclose their greenhouse gas emissions and climate-related
@@ -58,7 +58,7 @@ setting and meeting targets can increase resilience and reduce costs.
   
 The proposed rule is part of the President’s leadership to implement the
 first [comprehensive, government-wide
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/)
 to measure, disclose, manage, and mitigate the systemic risks that
 climate change poses to American families, businesses, and the economy.
 In addition to protecting federal supply chains, agencies are taking new
@@ -72,7 +72,7 @@ and local government
 programs](https://home.treasury.gov/news/press-releases/jy0627), [our
 financial system](https://home.treasury.gov/news/press-releases/jy0894),
 and [the federal
-budget](https://www.whitehouse.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/)
+budget](https://bidenwhitehouse.archives.gov/omb/briefing-room/2022/04/04/quantifying-risks-to-the-federal-budget-from-climate-change/)
 from the financial risks of climate change.  
   
 **<u>Federal Supplier Climate Risks and Resilience Rule</u>**  

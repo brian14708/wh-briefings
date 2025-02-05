@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 13:01:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-moonshot-listening-session-as-part-of-the-kenya-state-visit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-moonshot-listening-session-as-part-of-the-kenya-state-visit/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Cancer Moonshot\
   \ Listening Session as part of the Kenya State\_Visit"

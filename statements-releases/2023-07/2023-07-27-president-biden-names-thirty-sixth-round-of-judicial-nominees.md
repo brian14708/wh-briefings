@@ -2,7 +2,7 @@
 date: '2023-07-27'
 modified_time: 2023-07-26 22:08:06-04:00
 published_time: 2023-07-27 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/27/president-biden-names-thirty-sixth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/27/president-biden-names-thirty-sixth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Thirty-Sixth Round of Judicial\_Nominees"
 ---

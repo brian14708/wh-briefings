@@ -2,7 +2,7 @@
 date: '2024-05-21'
 modified_time: 2024-05-21 21:21:28-04:00
 published_time: 2024-05-21 21:21:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/21/remarks-by-president-biden-on-the-pact-act-nashua-nh/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/21/remarks-by-president-biden-on-the-pact-act-nashua-nh/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the PACT Act | Nashua,\_NH"
 ---

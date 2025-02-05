@@ -1,7 +1,7 @@
 ---
 date: '2024-09-20'
 published_time: 2024-09-20 14:50:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/20/remarks-by-president-biden-and-first-lady-jill-biden-before-cabinet-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/20/remarks-by-president-biden-and-first-lady-jill-biden-before-cabinet-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden Before Cabinet\_Meeting"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-28'
 modified_time: 2023-09-28 11:18:20-04:00
 published_time: 2023-09-28 11:18:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/joint-statement-on-the-second-round-of-u-s-germany-economic-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/joint-statement-on-the-second-round-of-u-s-germany-economic-dialogue/
 tags: statements-releases
 title: "Joint Statement on the Second Round of U.S.-Germany Economic\_Dialogue"
 ---

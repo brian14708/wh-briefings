@@ -2,7 +2,7 @@
 date: '2024-12-03'
 modified_time: 2024-12-03 12:17:40-05:00
 published_time: 2024-12-03 12:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/03/background-press-gaggle-on-president-bidens-meeting-with-president-lourenco-of-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/03/background-press-gaggle-on-president-bidens-meeting-with-president-lourenco-of-angola/
 tags: speeches-remarks
 title: "Background Press Gaggle on President\_Biden\u2019s Meeting with President\
   \ Louren\xE7o of\_Angola"

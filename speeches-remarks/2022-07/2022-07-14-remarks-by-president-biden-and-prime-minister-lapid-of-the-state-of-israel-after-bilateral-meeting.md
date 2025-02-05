@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 11:41:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-and-prime-minister-lapid-of-the-state-of-israel-after-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-and-prime-minister-lapid-of-the-state-of-israel-after-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Lapid of the State of Israel\
   \ After Bilateral\_Meeting"

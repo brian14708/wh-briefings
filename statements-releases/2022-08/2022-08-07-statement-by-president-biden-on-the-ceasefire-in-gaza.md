@@ -1,7 +1,7 @@
 ---
 date: '2022-08-07'
 published_time: 2022-08-07 20:28:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/07/statement-by-president-biden-on-the-ceasefire-in-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/07/statement-by-president-biden-on-the-ceasefire-in-gaza/
 tags: statements-releases
 title: "Statement by President\_Biden on the Ceasefire in\_Gaza"
 ---

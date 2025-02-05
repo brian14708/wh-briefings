@@ -2,7 +2,7 @@
 date: '2024-12-05'
 modified_time: 2024-12-05 13:55:04-05:00
 published_time: 2024-12-05 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-national-economic-council-deputy-director-daniel-hornung-on-biden-harris-efforts-to-build-and-preserve-housing-to-lower-costs-and-opportunities-ahead/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/05/remarks-by-national-economic-council-deputy-director-daniel-hornung-on-biden-harris-efforts-to-build-and-preserve-housing-to-lower-costs-and-opportunities-ahead/
 tags: speeches-remarks
 title: "Remarks by National Economic Council Deputy Director Daniel Hornung on Biden-\u2060\
   Harris Efforts to Build and Preserve Housing to Lower Costs, and Opportunities\_\
@@ -46,7 +46,7 @@ the groundwork President Biden and Vice President Harris have laid to
 address housing affordability by increasing the supply of housing. Two
 and a half years ago, our Administration launched the [Housing Supply
 Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/),
 an all-of-government effort to build and preserve more housing.
 
 Today, I will discuss our work as part of that plan to break down
@@ -61,7 +61,7 @@ housing production and preservation.
 
 Land use, zoning, and permitting barriers have long constrained housing
 supply. Since the 1980s,
-[housing](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024.pdf)
+[housing](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/ERP-2024.pdf)
 prices have grown sixfold, while construction costs have quadrupled.
 Restrictive regulations at the state and local level have contributed to
 this dynamic and divergence.
@@ -77,7 +77,7 @@ land use policies to increase density and by-right permitting,
 streamlining regulations, and increasing staffing to enable faster
 approvals. In addition, we incorporated zoning and land use reforms as
 selection criteria in more than $20 billion in [competitive federal
-funds](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/),
+funds](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/),
 including transportation dollars —meaning, if you have pro-housing
 policies in place, you are more likely to receive highly-sought after
 federal grant dollars.
@@ -113,13 +113,13 @@ sector that more capital is needed is demonstrating that existing
 federal dollars can be used effectively, including to crowd in private
 investment. Since launching the plan, we finalized regulations to make
 it easier to use the [Low-Income Housing Tax
-Credit](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/)
+Credit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/)
 for building mixed-income housing; indefinitely extended and expanded
 the [Federal Financing Bank Risk Share
 program](https://www.hud.gov/press/press_releases_media_advisories/hud_no_24_042)
 to channel more capital into projects and increase certainty for new
 construction; made it easier to layer funds from the [American Rescue
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/13/fact-sheet-biden-harris-administration-takes-new-actions-to-lower-housing-costs-by-cutting-red-tape-to-build-more-housing/),
 which represented the largest one-time housing block grant in U.S.
 history, with other sources of federal financing; and unlocked billions
 of dollars in low-cost lending authority at the [Department of

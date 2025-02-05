@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 17:07:39-04:00
 published_time: 2024-04-15 17:07:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-visit-to-guilford-technical-community-college/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/15/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-visit-to-guilford-technical-community-college/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Visit to Guilford\
   \ Technical Community\_College"

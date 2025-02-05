@@ -1,7 +1,7 @@
 ---
 date: '2024-02-09'
 published_time: 2024-02-09 18:31:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/readout-of-president-joe-bidens-meeting-with-chancellor-olaf-scholz-of-germany-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/readout-of-president-joe-bidens-meeting-with-chancellor-olaf-scholz-of-germany-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Chancellor Olaf Scholz\
   \ of\_Germany"

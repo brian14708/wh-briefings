@@ -2,7 +2,7 @@
 date: '2022-05-03'
 modified_time: 2022-05-03 17:19:03-04:00
 published_time: 2022-05-03 17:18:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/05/03/press-gaggle-by-press-secretary-jen-psaki-may-3-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/05/03/press-gaggle-by-press-secretary-jen-psaki-may-3-2022/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Jen\_Psaki, May 3,\_2022"
 ---

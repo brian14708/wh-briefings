@@ -2,7 +2,7 @@
 date: '2024-12-14'
 modified_time: 2024-12-14 11:11:33-05:00
 published_time: 2024-12-14 11:11:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/14/fact-sheet-celebrating-u-s-africa-partnership-two-years-after-the-2022-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/14/fact-sheet-celebrating-u-s-africa-partnership-two-years-after-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: Celebrating U.S.-Africa Partnership Two Years After the 2022 U.S.-Africa\
   \ Leaders\_Summit"
@@ -13,7 +13,7 @@ Biden-Harris Administration significantly expanded engagement and
 partnership with African nations, driven by the conviction that the
 future of Africa and the United States depends on what we can achieve
 together.  At the Summit, the United States [pledged to invest $55
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/u-s-africa-leaders-summit-strengthening-partnerships-to-meet-shared-priorities/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/u-s-africa-leaders-summit-strengthening-partnerships-to-meet-shared-priorities/)
 in Africa over three years.  We have surpassed that goal – the
 Administration has committed and spent over $65 billion in Africa since
 the Summit.  These investments have enabled the Administration, together
@@ -28,7 +28,7 @@ partnership.  The United States championed—and ultimately helped
 secure—the African Union’s permanent membership in the G20 and announced
 our support for creating two permanent United Nations (UN) Security
 Council seats for African states.  Since the Summit, we have laid out a
-[vision](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/)
+[vision](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/the-nairobi-washington-vision/)
 alongside Kenya to help developing countries facing mounting debt
 burdens.  Our partnerships enhanced food security and helped build more
 sustainable and resilient food systems, improved governance and
@@ -49,13 +49,13 @@ Departments and Agencies have visited the region since the Summit, with
 visits centered on deepening partnerships with African countries,
 institutions, and people. In March and April 2023, Vice President Harris
 visited Ghana, Tanzania, and Zambia, where she announced [more than $8
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/)
 in public and private sector investment commitments towards climate and
 food security, women’s empowerment, and digital inclusion across
 Africa.   
    
 In May 2024, President Biden then
-[hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/)
+[hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/)
 President Ruto of Kenya for a State Visit and Dinner, the first State
 Visit of an African head of state since 2008. During that visit, which
 highlighted 60 years of official U.S.-Kenyan partnership, President
@@ -68,18 +68,18 @@ In December 2024, President Biden traveled to the continent, becoming
 the first-ever U.S. president to visit Angola and the first sitting
 President to visit sub-Saharan Africa since 2015.  During the visit,
 President Biden spoke about the [past horrors of
-slavery](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-honoring-the-past-and-future-of-the-angolan-u-s-relationship-belas-angola/)
+slavery](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/03/remarks-by-president-biden-honoring-the-past-and-future-of-the-angolan-u-s-relationship-belas-angola/)
 and its legacy, while welcoming a bright future of deepening
 collaboration between the United States and the continent.  He announced
 more than [$1
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/fact-sheet-president-bidens-trip-to-angola/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/02/fact-sheet-president-bidens-trip-to-angola/)
 in additional humanitarian funding and co-hosted a [Summit on the Lobito
 Trans-Africa
-Corridor](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
+Corridor](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
 underscoring the importance of private sector investments, inclusive
 economic growth, and sustainable development. One year earlier,
 President Biden had
-[hosted](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/30/readout-of-meeting-between-president-joseph-r-biden-jr-and-president-joao-manuel-goncalves-lourenco-of-angola/)
+[hosted](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/30/readout-of-meeting-between-president-joseph-r-biden-jr-and-president-joao-manuel-goncalves-lourenco-of-angola/)
 President Lourenço of Angola for an Oval Office meeting. President
 Biden’s historic trip to Angola topped off significant engagement with
 the continent throughout the entire Biden-Harris administration.   
@@ -180,9 +180,9 @@ investment initiatives include:
     to connect members of the African diaspora in the United States with
     businesses in both continents.   
 11. In [November
-    2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-reauthorization/)
+    2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-reauthorization/)
     and [July
-    2024](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-forum-in-washington-dc/),
+    2024](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/23/statement-from-president-joe-biden-on-the-african-growth-and-opportunity-act-agoa-forum-in-washington-dc/),
     President Biden reiterated his strong support for the
     reauthorization and modernization of the African Growth and
     Opportunity Act (AGOA) to deepen trade relations between the U.S.
@@ -198,21 +198,21 @@ Infrastructure and Investment (PGI), advances strategic, values-driven,
 and high-standard infrastructure, investment, and sustainable
 development in low- and middle-income countries—with Africa as a key
 continent of focus.  At the G7 Summit in June, leaders [celebrated
-progress](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/)
+progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/)
 toward PGI’s ambitious goal of mobilizing $600 billion by 2027 in global
 infrastructure investments that will make a difference in people’s lives
 around the world, strengthen and diversify our supply chains, and
 advance shared national security interests.  During his historic trip to
 Angola December 2-4, President Biden co-hosted a [Summit on the Lobito
 Trans-Africa
-Corridor](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
+Corridor](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/),
 bringing together leaders from the Democratic Republic of the Congo,
 Tanzania, and Zambia, as well as the Africa Finance Corporation. 
 Leaders affirmed their commitment to investing in infrastructure that
 will one day connect the Atlantic and Indian Oceans to expand economic
 growth and sustainable development across the region.  More information
 on PGI/Lobito Trans-Africa Corridor can be found
-[here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/).  
+[here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/03/fact-sheet-partnership-for-global-infrastructure-and-investment-in-the-lobito-trans-africa-corridor/).  
   
 **Conservation, Climate Adaptation, and a Just Energy Transition**  
   
@@ -221,7 +221,7 @@ Africa.  The Biden-Harris Administration has marshalled unprecedented
 resources to bolster climate resilience and protect development
 progress.  During her 2023 trip to the African continent, Vice President
 Harris worked with African partners to galvanize more than [$7
-billion](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/)
+billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/31/fact-sheet-vice-president-harris-announces-over-7-billion-in-private-sector-and-u-s-government-commitments-to-promote-climate-resilience-adaptation-and-mitigation-across-africa/)
 in public and private sector climate adaptation, resilience, and
 mitigation commitments.  Some of the U.S.  initiatives to support
 African-led efforts on climate change mitigation, adaptation, and a just
@@ -304,7 +304,7 @@ energy transition include:
   
 At the Summit, President Biden launched the [U.S.-African Union (AU)
 Strategic
-Partnership](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/)
+Partnership](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-to-promote-food-security-and-resilient-food-systems/)
 to accelerate progress in tackling food insecurity, build stronger and
 more diversified food systems and supply chains, scale Africa’s
 agricultural production capacity, and expand African countries’ access
@@ -475,7 +475,7 @@ to prevent and respond to current and future health threats. 
     are the backbone of patient care, in Botswana, Côte d’Ivoire,
     Eswatini, Malawi, Nigeria, South Africa, and Zambia.  In FY 2024,
     USAID provided $10 million to support the [Global Health Worker
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-global-health-worker-initiative-ghwi-year-two-fact-sheet/)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/15/fact-sheet-global-health-worker-initiative-ghwi-year-two-fact-sheet/)
     to build on the Primary Impact Initiative in countries including
     Ghana.  
 3.  PEPFAR has been central to reversing the HIV/AIDS pandemic’s
@@ -506,14 +506,14 @@ to prevent and respond to current and future health threats. 
     PMI used to expand other malaria-related programs.  
 6.  In April 2024, the Administration launched the [U.S. Global Health
     Security
-    Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%E2%81%A0harris-administration-releases-strategy-to-strengthen-global-health-security/)
+    Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/16/fact-sheet-biden-%E2%81%A0harris-administration-releases-strategy-to-strengthen-global-health-security/)
     to strengthen pandemic preparedness and response and welcomed [six
     new Global Health Security Partners in
     Africa](https://www.state.gov/united-states-global-health-security-partnerships/where-we-work/).
      The United States continues working in partnership with African
     nations to support outbreak responses, including on
-    [Marburg](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/),
-    [mpox](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/),
+    [Marburg](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/07/statement-from-nsc-spokesperson-sean-savett-on-marburg-virus-disease-outbreak/),
+    [mpox](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/24/fact-sheet-the-united-states-commitment-to-address-the-global-mpox-outbreak/),
     Ebola, and cholera.   
 7.  The National Institute of Allergy and Infectious Diseases, part of
     NIH, has been partnering with research agencies and institutions in
@@ -578,14 +578,14 @@ to prevent and respond to current and future health threats. 
 14. At the Summit, First Lady Jill Biden highlighted the U.S.
     Government’s unwavering commitment [to improving cancer outcomes in
     countries in
-    Africa](https://www.whitehouse.gov/ostp/news-updates/2022/12/14/fact-sheet-cancer-moonshot-announces-new-actions-aimed-to-reduce-the-cancer-burden-in-africa-as-part-of-the-u-s-africa-leaders-summit/). 
+    Africa](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/12/14/fact-sheet-cancer-moonshot-announces-new-actions-aimed-to-reduce-the-cancer-burden-in-africa-as-part-of-the-u-s-africa-leaders-summit/). 
     In July 2024, the Biden Cancer Moonshot hosted the White House
     Africa Cancer Care Forum, which convened health leaders from Benin,
     DRC, Lesotho, Mozambique, Rwanda, Senegal, Sierra Leone, Tanzania,
     and Zambia committed to expanding national capacity for cancer
     diagnosis and treatment.  During the forum, the United States
     announced [over $100
-    million](https://www.whitehouse.gov/ostp/news-updates/2024/07/15/fact-sheet-the-biden-cancer-moonshot-announces-over-100-million-in-new-actions-to-decrease-the-burden-of-cancer-in-africa/)
+    million](https://bidenwhitehouse.archives.gov/ostp/news-updates/2024/07/15/fact-sheet-the-biden-cancer-moonshot-announces-over-100-million-in-new-actions-to-decrease-the-burden-of-cancer-in-africa/)
     in commitments to reduce the burden of cancer, bringing the
     collective total to over $400 million.   
 15. The U.S.-South Africa Cancer Care and Research Alliance
@@ -617,7 +617,7 @@ the continent of Africa are interconnected and interdependent.” 
 2.  Since the Summit, PAC-ADE conducted its first plenary session
     meeting at Spelman College, and [developed the EdTech initiative
     announced during Kenyan President Ruto’s visit to Spelman
-    College](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/).
+    College](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/).
     The Council also conducted its [inaugural
     visit](https://ng.usembassy.gov/u-s-presidents-advisory-council-on-african-diaspora-engagement-concludes-landmark-visit-to-nigeria/)
     to the continent in July 2024 to Lagos and Abuja, Nigeria, where
@@ -672,7 +672,7 @@ DTA’s work is organized across the following three pillars:
 *Digital Economy and Infrastructure*
 
 1.  In May 2024, Vice President Harris launched [two public-private
-    partnerships](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/)—the
+    partnerships](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/fact-sheet-vice-president-harris-announces-public-and-private-sector-commitments-to-advancing-digital-inclusion-in-africa/)—the
     Mobilizing Access to the Digital Economy (MADE) Alliance:  Africa
     and the Partnership for Digital Access in Africa (PDAA). Both focus
     on increasing digital inclusion across Africa.  The MADE Alliance
@@ -790,7 +790,7 @@ including the revitalization of the African Women’s Entrepreneurship
 Program (AWEP). 
 
 1.  Vice President Harris launched the [Women in Digital Economy Fund
-    (WiDEF)](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/) 
+    (WiDEF)](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/) 
     in 2023 to accelerate efforts to close the gender digital divide. 
     WiDEF and the corresponding Women in the Digital Economy Initiative
     have together catalyzed over $1 billion in commitments from
@@ -800,7 +800,7 @@ Program (AWEP). 
     secured a historic commitment from G20 leaders to halve the digital
     gender gap by 2030.  Vice President Harris also launched the [Women
     in the Sustainable Economy
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-vice-president-harris-launches-women-in-the-sustainable-economy-initiative-totaling-over-900-million-in-commitments/)
     (WISE) in 2023 to promote women’s participation in sectors that
     address climate change.  Together, WiDEF and WISE represent a
     commitment of over $3 billion, including millions to empower African
@@ -837,7 +837,7 @@ Program (AWEP). 
     humanitarian access, and monitoring mechanisms.  
 5.  Announced during Vice President Harris’ visit to Ghana in 2023, the
     [Imarisha Women’s
-    Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/)
+    Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-vice-president-harris-launches-global-initiatives-on-the-economic-empowerment-of-women-totaling-over-1-billion/)
     is helping women advance in their careers, improve their skill sets,
     and increase their income, while creating more flexible and
     supportive workplaces.  The first cohort of four companies in East

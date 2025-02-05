@@ -1,7 +1,7 @@
 ---
 date: '2024-03-20'
 published_time: 2024-03-20 18:49:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-on-agreement-with-intel-for-chips-and-science-act-award-chandler-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/20/remarks-by-president-biden-on-agreement-with-intel-for-chips-and-science-act-award-chandler-az/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Agreement with Intel for CHIPS and Science\
   \ Act Award | Chandler,\_AZ"

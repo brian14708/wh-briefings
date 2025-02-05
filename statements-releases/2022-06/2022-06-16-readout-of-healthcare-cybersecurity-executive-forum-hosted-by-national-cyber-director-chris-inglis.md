@@ -1,7 +1,7 @@
 ---
 date: '2022-06-16'
 published_time: 2022-06-16 16:16:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/readout-of-healthcare-cybersecurity-executive-forum-hosted-by-national-cyber-director-chris-inglis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/readout-of-healthcare-cybersecurity-executive-forum-hosted-by-national-cyber-director-chris-inglis/
 tags: statements-releases
 title: "Readout of Healthcare Cybersecurity Executive Forum Hosted by National Cyber\
   \ Director Chris\_Inglis"

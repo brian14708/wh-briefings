@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 13:05:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/statement-from-nsc-spokesperson-adrienne-watson-on-the-opening-of-omani-airspace/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/statement-from-nsc-spokesperson-adrienne-watson-on-the-opening-of-omani-airspace/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on the Opening of Omani\_\
   Airspace"

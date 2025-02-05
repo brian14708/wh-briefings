@@ -2,7 +2,7 @@
 date: '2023-02-17'
 modified_time: 2023-02-17 17:03:14-05:00
 published_time: 2023-02-17 12:06:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/fact-sheet-biden-harris-administration-deploys-additional-federal-resources-to-east-palestine-ohio/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/17/fact-sheet-biden-harris-administration-deploys-additional-federal-resources-to-east-palestine-ohio/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Deploys Additional Federal Resources\
   \ to East Palestine,\_Ohio"

@@ -2,7 +2,7 @@
 date: '2024-06-24'
 modified_time: 2024-06-24 15:39:47-04:00
 published_time: 2024-06-24 15:00:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/24/memorandum-on-the-designation-of-kenya-as-a-major-non-nato-ally/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/24/memorandum-on-the-designation-of-kenya-as-a-major-non-nato-ally/
 tags: statements-releases
 title: "Memorandum on the Designation of Kenya as a Major Non-NATO\_Ally"
 ---

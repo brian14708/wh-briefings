@@ -2,7 +2,7 @@
 date: '2024-10-11'
 modified_time: 2024-10-11 15:01:23-04:00
 published_time: 2024-10-11 15:01:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/11/statement-from-national-security-advisor-jake-sullivan-on-expansion-of-sanctions-on-iran-following-attack-on-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/11/statement-from-national-security-advisor-jake-sullivan-on-expansion-of-sanctions-on-iran-following-attack-on-israel/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Expansion of Sanctions\
   \ on Iran Following Attack on\_Israel"

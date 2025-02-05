@@ -2,7 +2,7 @@
 date: '2023-03-06'
 modified_time: 2023-03-07 19:30:27-05:00
 published_time: 2023-03-06 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/06/icymi-president-biden-uses-bully-pulpit-to-lower-costs-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/06/icymi-president-biden-uses-bully-pulpit-to-lower-costs-for-americans/
 tags: statements-releases
 title: "ICYMI: President\_Biden Uses Bully Pulpit to Lower Costs for\_Americans"
 ---

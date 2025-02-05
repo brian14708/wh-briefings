@@ -2,7 +2,7 @@
 date: '2022-11-29'
 modified_time: 2022-11-30 08:00:55-05:00
 published_time: 2022-11-29 11:05:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-biden-harris-administration-announces-expansion-of-global-health-security-partnerships-and-releases-annual-progress-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/29/fact-sheet-biden-harris-administration-announces-expansion-of-global-health-security-partnerships-and-releases-annual-progress-report/
 tags: statements-releases
 title: "FACT SHEET:\_ Biden-\u2060Harris Administration Announces Expansion of Global\
   \ Health Security Partnerships and Releases Annual Progress\_Report"
@@ -91,7 +91,7 @@ outlined in [Executive Order
 [Executive Order
 13987](https://www.federalregister.gov/documents/2021/01/25/2021-01759/organizing-and-mobilizing-the-united-states-government-to-provide-a-unified-and-effective-response),
 and [National Security
-Memorandum-15](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/) to
+Memorandum-15](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/18/national-security-memorandum-on-countering-biological-threats-enhancing-pandemic-preparedness-and-achieving-global-health-security/) to
 accelerate progress.
 
 SPURRING OTHER DONORS AND MULTILATERAL PARTNERS TO ACT  
@@ -195,6 +195,6 @@ results, including helping to rapidly address outbreaks of Ebola, yellow
 fever, Lassa fever, polio, influenza, and many others.
 
 \[[READ THE 2021 ANNUAL
-REPORT](https://www.whitehouse.gov/wp-content/uploads/2022/11/Fiscal-Year-2021-GHS-Annual-Report_digital.pdf)\]  
+REPORT](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/Fiscal-Year-2021-GHS-Annual-Report_digital.pdf)\]  
   
 \###

@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-13 17:22:33-05:00
 published_time: 2022-12-13 15:21:24-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-elevating-diaspora-engagement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-elevating-diaspora-engagement/
 tags: statements-releases
 title: "FACT SHEET:\_U.S.- Africa Partnership in Elevating Diaspora\_Engagement"
 ---
@@ -19,13 +19,13 @@ Forum, held on December 13 in Washington, DC as part of the U.S.-Africa
 Leaders Summit, reflected the Biden-Harris Administration’s commitment
 to strengthening the dialogue between U.S. officials and the Diaspora in
 the United States, as described in the [U.S. Strategy Toward Sub-Saharan
-Africa](https://www.whitehouse.gov/wp-content/uploads/2022/08/U.S.-Strategy-Toward-Sub-Saharan-Africa-FINAL.pdf).
+Africa](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/U.S.-Strategy-Toward-Sub-Saharan-Africa-FINAL.pdf).
 
 During the Forum, Vice President Kamala Harris announced the creation of
 the **President’s Advisory Council on African Diaspora Engagement in the
 United States (PAC-ADE)**.** ** Today, President Biden issued an
 [executive order
-(EO)](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/13/executive-order-on-establishing-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/)
+(EO)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/13/executive-order-on-establishing-the-presidents-advisory-council-on-african-diaspora-engagement-in-the-united-states/)
 directing the Secretary of State to establish PAC-ADE, which will
 enhance the dialogue between United States officials and the African
 Diaspora.  The EO encourages efforts to advance equity and opportunity

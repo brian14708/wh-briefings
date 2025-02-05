@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-07-21 18:00:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/white-house-releases-policy-for-contacts-with-agencies-and-departments/
 published_time: 2021-07-21 18:00:54-04:00
 title: "White\_House Releases Policy for Contacts with Agencies and\_Departments"
 ---
@@ -16,6 +16,6 @@ the independent role of the Department of Justice in law enforcement
 matters.
 
 Read the White House’s policy here:
-<https://www.whitehouse.gov/wp-content/uploads/2021/07/White-House-Policy-for-Contacts-with-Agencies-and-Departments.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/07/White-House-Policy-for-Contacts-with-Agencies-and-Departments.pdf>
 
 \###

@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-17 01:31:42-05:00
 published_time: 2023-11-17 01:31:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/11/17/press-release-bill-signed-h-r-6363/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/11/17/press-release-bill-signed-h-r-6363/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_6363"
 ---

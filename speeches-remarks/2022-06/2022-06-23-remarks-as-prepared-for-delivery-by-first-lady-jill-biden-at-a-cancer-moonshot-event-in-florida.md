@@ -2,7 +2,7 @@
 date: '2022-06-23'
 modified_time: 2022-06-24 09:06:28-04:00
 published_time: 2022-06-23 20:01:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-moonshot-event-in-florida/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-cancer-moonshot-event-in-florida/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Cancer Moonshot\
   \ Event in\_Florida"

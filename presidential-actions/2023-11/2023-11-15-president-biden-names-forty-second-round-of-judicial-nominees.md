@@ -2,7 +2,7 @@
 date: '2023-11-15'
 modified_time: 2023-11-15 08:08:19-05:00
 published_time: 2023-11-15 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/15/president-biden-names-forty-second-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/11/15/president-biden-names-forty-second-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Second Round of Judicial\_Nominees"
 ---

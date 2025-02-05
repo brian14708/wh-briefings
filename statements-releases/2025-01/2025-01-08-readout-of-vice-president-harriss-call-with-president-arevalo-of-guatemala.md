@@ -1,7 +1,7 @@
 ---
 date: '2025-01-08'
 published_time: 2025-01-08 18:25:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-president-arevalo-of-guatemala/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/08/readout-of-vice-president-harriss-call-with-president-arevalo-of-guatemala/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Ar\xE9valo of\_\
   Guatemala"

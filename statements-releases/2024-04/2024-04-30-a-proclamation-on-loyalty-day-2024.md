@@ -1,7 +1,7 @@
 ---
 date: '2024-04-30'
 published_time: 2024-04-30 16:57:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/30/a-proclamation-on-loyalty-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/30/a-proclamation-on-loyalty-day-2024/
 tags: statements-releases
 title: "A Proclamation on Loyalty Day,\_2024"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 14:43:29-04:00
 published_time: 2022-09-02 14:09:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/president-biden-names-twenty-sixth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/president-biden-names-twenty-sixth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Twenty-Sixth Round of Judicial\_Nominees"
 ---

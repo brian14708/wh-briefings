@@ -2,7 +2,7 @@
 date: '2023-02-17'
 modified_time: 2023-02-17 18:59:40-05:00
 published_time: 2023-02-17 18:08:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/fact-sheet-biden-harris-administration-celebrates-the-second-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/17/fact-sheet-biden-harris-administration-celebrates-the-second-anniversary-of-the-reestablishment-of-the-white-house-office-of-faith-based-and-neighborhood-partnerships/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Celebrates the Second Anniversary\
   \ of the Reestablishment of the White\_House Office of Faith-Based and Neighborhood\_\
@@ -56,7 +56,7 @@ aspects of religious freedom**
     Faith and community leaders played prominent roles at this event,
     including by leading the program’s opening moment of silence,
     serving as panelists and moderators at the event, receiving
-    [honors](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-the-united-we-stand-summit-taking-action-to-prevent-and-address-hate-motivated-violence-and-foster-unity/)
+    [honors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-the-united-we-stand-summit-taking-action-to-prevent-and-address-hate-motivated-violence-and-foster-unity/)
     for their bridge-building work across the country, and launching new
     bridge-building efforts. For example, Interfaith America, the YMCA,
     and Habitat for Humanity, launched *A Nation of Bridge Builders*, a
@@ -67,7 +67,7 @@ aspects of religious freedom**
 <!-- -->
 
 -   On December 12, 2022, President Biden
-    [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/)
+    [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/)
     the establishment of a new interagency policy committee (IPC), led
     by Domestic Policy Council and National Security Council staff, to
     increase and better coordinate our efforts to counter antisemitism,
@@ -84,7 +84,7 @@ aspects of religious freedom**
     security of places of worship. On the tenth anniversary of the
     heinous attack on the Sikh Temple in Oak Creek, Wisconsin, the IPC
     announced an initial set of steps [to protect places of worship and
-    congregants](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/fact-sheet-biden-harris-administration-takes-action-to-protect-places-of-worship/),
+    congregants](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/fact-sheet-biden-harris-administration-takes-action-to-protect-places-of-worship/),
     and IPC leaders participated in memorial events at the Sikh Temple.
     Under the IPC’s leadership, products such as the [Threats Against
     Houses of Worship Highlight the Importance of Religious Community
@@ -135,10 +135,10 @@ aspects of religious freedom**
 -   Protected places sacred to Tribal Nations and their citizens,
     including the President’s designation of the [Camp Hale –
     Continental Divide National
-    Monument](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/12/a-proclamation-on-establishment-of-the-camp-hale-continental-divide-national-monument/);
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/12/a-proclamation-on-establishment-of-the-camp-hale-continental-divide-national-monument/);
     the restoration of protections to the [Bears Ears and Grand
     Staircase Escalante National
-    Monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/);
+    Monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/07/fact-sheet-president-biden-restores-protections-for-three-national-monuments-and-renews-american-leadership-to-steward-lands-waters-and-cultural-resources/);
     and an interagency [Sacred Sites Memorandum of
     Understanding](https://www.doi.gov/sites/doi.gov/files/mou-interagency-coordination-and-collaboration-for-the-protection-of-indigenous-sacred-sites-11-16-2021.pdf)
     that creates a framework through which agencies can better protect
@@ -226,7 +226,7 @@ aspects of religious freedom**
     supermarket in East Buffalo, New York, and the horrific mass
     shooting at Robb Elementary School in Uvalde, Texas, [mobilized key
     federal resources and other
-    supports](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/27/fact-sheet-the-biden-harris-administration-responds-to-immediate-needs-of-the-community-in-the-buffalo-and-uvalde-attacks/)
+    supports](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/27/fact-sheet-the-biden-harris-administration-responds-to-immediate-needs-of-the-community-in-the-buffalo-and-uvalde-attacks/)
     for these and other communities in crisis. Staff traveled to
     Buffalo, Uvalde, and other communities to work with local faith and
     neighborhood leaders on responding to needs and developed guides to
@@ -243,7 +243,7 @@ aspects of religious freedom**
     in the wake of the tragedy at Club Q in Colorado Springs, Colorado,
     and a fact sheet with [resources for Asian-American, Native
     Hawaiian, and Pacific Islanders communities in the aftermath of mass
-    violence](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-resources-for-asian-american-native-hawaiian-and-pacific-islander-communities-in-the-aftermath-of-mass-violence/),
+    violence](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/10/fact-sheet-resources-for-asian-american-native-hawaiian-and-pacific-islander-communities-in-the-aftermath-of-mass-violence/),
     including the despicable attacks in Monterey Park and Half Moon Bay,
     California.
 -   Teams from the [DHS Center](https://www.dhs.gov/faith) and
@@ -396,7 +396,7 @@ Americans**
     people of a free and democratic Ukraine.
 -   Connected leaders of secular and religious nonprofit organizations
     with the [Task Force on New
-    Americans](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/),
+    Americans](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/02/executive-order-restoring-faith-in-our-legal-immigration-systems-and-strengthening-integration-and-inclusion-efforts-for-new-americans/),
     a body that coordinates the federal government’s efforts to ensure
     that lawfully present immigrants, including refugees, receive the
     support they need to fully participate in and contribute to our
@@ -448,7 +448,7 @@ Americans**
     Biden-Harris Administration initiatives to promote academic recovery
     in the wake of the COVID-19 crisis: The [National Partnership for
     Student
-    Success](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/)
+    Success](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-biden-harris-administration-launches-national-effort-to-support-student-success/)
     (a public-private partnership with AmeriCorps and the Department of
     Education) to recruit, screen, train, support, and engage an
     additional 250,000 caring adults in roles serving as tutors,

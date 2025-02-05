@@ -1,7 +1,7 @@
 ---
 date: '2022-09-14'
 published_time: 2022-09-14 15:30:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/14/what-they-are-saying-bipartisan-praise-of-the-united-we-stand-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/14/what-they-are-saying-bipartisan-praise-of-the-united-we-stand-summit/
 tags: statements-releases
 title: "WHAT THEY ARE SAYING: Bipartisan Praise of the United We Stand\_Summit"
 ---

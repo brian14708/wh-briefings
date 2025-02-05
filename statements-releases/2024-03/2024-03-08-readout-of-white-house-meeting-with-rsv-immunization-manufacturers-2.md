@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-08 19:12:21-05:00
 published_time: 2024-03-08 19:12:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/08/readout-of-white-house-meeting-with-rsv-immunization-manufacturers-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/08/readout-of-white-house-meeting-with-rsv-immunization-manufacturers-2/
 tags: statements-releases
 title: "Readout of White\_House Meeting with RSV Immunization Manufacturers"
 ---
@@ -18,7 +18,7 @@ to ensure continued availability of infant RSV immunizations in the US
 for the remainder of this season. At the urging of the Administration
 and in response to unprecedented requests for these immunizations, RSV
 manufacturers made 307,000
-[additional](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/)
+[additional](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/readout-of-latest-white-house-meeting-with-rsv-immunization-manufacturers/)
 [doses](https://www.cdc.gov/media/releases/2023/p1116-rsv-doses.html)
 available to families, increasing supply and expediting availability.
 Manufacturers also described their work to ensure availability of RSV

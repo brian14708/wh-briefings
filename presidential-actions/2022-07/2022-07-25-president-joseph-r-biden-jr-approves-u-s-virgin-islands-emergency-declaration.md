@@ -2,7 +2,7 @@
 date: '2022-07-25'
 modified_time: 2022-07-25 12:26:01-04:00
 published_time: 2022-07-25 12:26:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/07/25/president-joseph-r-biden-jr-approves-u-s-virgin-islands-emergency-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/07/25/president-joseph-r-biden-jr-approves-u-s-virgin-islands-emergency-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves U.S. Virgin Islands Emergency\_Declaration"
 ---

@@ -2,7 +2,7 @@
 date: '2024-03-15'
 modified_time: 2024-03-14 22:14:05-04:00
 published_time: 2024-03-15 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/15/statement-from-president-joe-biden-on-the-international-day-to-combat-islamophobia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/15/statement-from-president-joe-biden-on-the-international-day-to-combat-islamophobia/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the International Day to Combat\_Islamophobia"
 ---

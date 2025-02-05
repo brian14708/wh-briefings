@@ -1,7 +1,7 @@
 ---
 date: '2023-08-07'
 published_time: 2023-08-07 22:21:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/08/07/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-climate-advisor-ali-zaidi-en-route-grand-canyon-village-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/08/07/press-gaggle-by-press-secretary-karine-jean-pierre-and-national-climate-advisor-ali-zaidi-en-route-grand-canyon-village-az/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and National Climate Advisor\
   \ Ali Zaidi En Route Grand Canyon Village,\_AZ"

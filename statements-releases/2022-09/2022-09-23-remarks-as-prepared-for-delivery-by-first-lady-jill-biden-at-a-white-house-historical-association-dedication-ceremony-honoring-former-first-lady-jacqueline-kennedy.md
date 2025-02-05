@@ -2,7 +2,7 @@
 date: '2022-09-23'
 modified_time: 2022-09-26 10:46:07-04:00
 published_time: 2022-09-23 15:41:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-white-house-historical-association-dedication-ceremony-honoring-former-first-lady-jacqueline-kennedy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-white-house-historical-association-dedication-ceremony-honoring-former-first-lady-jacqueline-kennedy/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a White\_House\
   \ Historical Association Dedication Ceremony Honoring Former First Lady Jacqueline\_\

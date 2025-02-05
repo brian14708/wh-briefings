@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-06-12'
 modified_time: 2021-06-11 19:07:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-senior-administration-officials-previewing-the-second-day-of-the-g7-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/06/12/background-press-call-by-senior-administration-officials-previewing-the-second-day-of-the-g7-summit/
 published_time: 2021-06-12 02:00:00-04:00
 title: "Background Press Call by Senior Administration Officials Previewing the Second\
   \ Day of the G7\_Summit"

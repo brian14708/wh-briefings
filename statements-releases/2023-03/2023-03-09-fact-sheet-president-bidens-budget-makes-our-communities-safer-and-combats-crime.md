@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:14:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-makes-our-communities-safer-and-combats-crime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-makes-our-communities-safer-and-combats-crime/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Makes Our Communities Safer and\
   \ Combats\_Crime"

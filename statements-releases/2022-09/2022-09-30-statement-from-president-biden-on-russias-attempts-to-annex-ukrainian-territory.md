@@ -2,7 +2,7 @@
 date: '2022-09-30'
 modified_time: 2022-09-30 10:18:20-04:00
 published_time: 2022-09-30 10:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/statement-from-president-biden-on-russias-attempts-to-annex-ukrainian-territory/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/statement-from-president-biden-on-russias-attempts-to-annex-ukrainian-territory/
 tags: statements-releases
 title: "Statement from President\_Biden on Russia\u2019s Attempts to Annex Ukrainian\_\
   Territory"

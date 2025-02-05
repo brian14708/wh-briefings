@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 published_time: 2024-03-01 16:41:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/01/letter-to-certain-congressional-committees-regarding-the-annual-report-on-the-legal-and-policy-frameworks-guiding-the-united-states-use-of-military-force-and-related-national-security-operations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/01/letter-to-certain-congressional-committees-regarding-the-annual-report-on-the-legal-and-policy-frameworks-guiding-the-united-states-use-of-military-force-and-related-national-security-operations/
 tags: statements-releases
 title: "Letter to Certain Congressional Committees Regarding the Annual Report on\
   \ the Legal and Policy Frameworks Guiding the United\_States\u2019 use of Military\
@@ -25,4 +25,4 @@ classified annex.
                               JOSEPH R. BIDEN JR.
 
 [View the unclassified
-report](https://www.whitehouse.gov/wp-content/uploads/2024/03/Legal-Policy-Frameworks-Report-to-Congress030124.pdf)
+report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/Legal-Policy-Frameworks-Report-to-Congress030124.pdf)

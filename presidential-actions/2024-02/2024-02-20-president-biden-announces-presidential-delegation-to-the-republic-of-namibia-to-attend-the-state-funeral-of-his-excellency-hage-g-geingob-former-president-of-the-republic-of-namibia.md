@@ -2,7 +2,7 @@
 date: '2024-02-20'
 modified_time: 2024-02-20 20:50:32-05:00
 published_time: 2024-02-20 21:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/20/president-biden-announces-presidential-delegation-to-the-republic-of-namibia-to-attend-the-state-funeral-of-his-excellency-hage-g-geingob-former-president-of-the-republic-of-namibia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/20/president-biden-announces-presidential-delegation-to-the-republic-of-namibia-to-attend-the-state-funeral-of-his-excellency-hage-g-geingob-former-president-of-the-republic-of-namibia/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Namibia\
   \ to Attend the State Funeral of His Excellency Hage G. Geingob, former President\

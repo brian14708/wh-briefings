@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-05 18:17:11-05:00
 published_time: 2023-12-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-third-annual-white-house-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/fact-sheet-biden-%e2%81%a0harris-administration-announces-new-actions-and-historic-progress-supporting-tribal-nations-and-native-communities-ahead-of-third-annual-white-house-tribal-nations-summit/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions and Historic\
   \ Progress Supporting Tribal Nations and Native Communities Ahead of Third Annual\
@@ -33,7 +33,7 @@ funding.
 
 During the Summit, the Biden-Harris Administration will also release a
 comprehensive [2023 Progress Report for Tribal
-Nations](https://www.whitehouse.gov/wp-content/uploads/2023/12/2023.12.04-TNS-Progress-Report.pdf),
+Nations](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/2023.12.04-TNS-Progress-Report.pdf),
 which outlines historic progress the Administration has made over the
 past year to deliver on the President’s commitment to supporting Indian
 Country and address the top concerns of Tribal communities, including
@@ -218,7 +218,7 @@ Country – Particularly for Native Women, Children, and Families.</u>**
     DOJ for reimbursement that they incurred exercising expanded
     criminal jurisdiction over non-Indians under the [*2022
     Reauthorization of The Violence Against Women Act
-    (VAWA).*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/)
+    (VAWA).*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/16/fact-sheet-reauthorization-of-the-violence-against-women-act-vawa/)
 
 These actions build upon historic actions by the Biden-Harris
 Administration to support Tribal Nations and nation communities, which
@@ -231,9 +231,9 @@ include:
 -   Signing two Presidential Memorandums [directing federal agencies to
     submit plans of action to implement meaningful consultation with
     Tribal
-    Nations](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
+    Nations](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-nation-relationships/)
     and [establishing uniform standards for Tribal
-    Consultation](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
+    Consultation](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/30/memorandum-on-uniform-standards-for-tribal-consultation/#:~:text=The%20Presidential%20Memorandum%20of%20January,directives%20of%20Executive%20Order%2013175.).
 -   Historic appointments of Native Americans across the Administration,
     including Secretary Deb Haaland and over 80 Native Americans in
     senior Administration roles.
@@ -245,7 +245,7 @@ include:
 -   Signing an [Executive Order to improve public safety and criminal
     justice and address the crisis of Missing and Murdered Indigenous
     People
-    (MMIP)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
+    (MMIP)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/11/15/executive-order-on-improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of-missing-or-murdered-indigenous-people/)
     by directing agencies to prioritize addressing this crisis and
     assessing what more they can do.
 -   Securing the First-Ever Advance Appropriations for the Indian Health
@@ -253,22 +253,22 @@ include:
     predictability for IHS.
 -   Signing a [Presidential Memorandum to Restore Healthy and Abundant
     Native Fish Populations in the Columbia
-    River](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/),
+    River](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/27/memorandum-on-restoring-healthy-and-abundant-salmon-steelhead-and-other-native-fish-populations-in-the-columbia-river-basin/),
     which supports cultural and spiritual practices, commerce, and
     economic growth for Tribes.
 -   Restoring protections for [Grand
-    Staircase-Escalate](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-grand-staircase-escalante-national-monument/)
+    Staircase-Escalate](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-grand-staircase-escalante-national-monument/)
     and [Bear
-    Ears](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/)
+    Ears](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/)
     National Monuments in Utah.
 -   Designating the following National Monuments that hold significance
     to Tribal Nations: [Camp Hale – Continental Divide in
-    Colorado](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/);
+    Colorado](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/fact-sheet-president-biden-designates-camp-hale-continental-divide-national-monument/);
     in Nevada; [Castner
-    Range](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
+    Range](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-president-biden-designates-castner-range-national-monument/)
     in Texas; and [Baaj Nwaajo I’tah Kukveni Ancestral Footprints of the
     Grand
-    Canyon](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) 
+    Canyon](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/) 
     in Arizona.
 
 *\###*

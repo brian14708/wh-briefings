@@ -2,7 +2,7 @@
 date: '2024-06-03'
 modified_time: 2024-06-03 20:44:29-04:00
 published_time: 2024-06-03 20:44:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/03/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-14/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/03/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-14/
 tags: speeches-remarks
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John\_Kirby"

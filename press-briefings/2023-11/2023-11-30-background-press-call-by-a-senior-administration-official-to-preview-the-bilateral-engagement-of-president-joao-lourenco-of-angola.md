@@ -2,7 +2,7 @@
 date: '2023-11-30'
 modified_time: 2023-12-01 12:15:14-05:00
 published_time: 2023-11-30 22:18:41-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/11/30/background-press-call-by-a-senior-administration-official-to-preview-the-bilateral-engagement-of-president-joao-lourenco-of-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/11/30/background-press-call-by-a-senior-administration-official-to-preview-the-bilateral-engagement-of-president-joao-lourenco-of-angola/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official to Preview the Bilateral\
   \ Engagement of President Jo\xE3o Louren\xE7o of\_Angola"

@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 published_time: 2022-12-15 17:30:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/vision-statement-for-the-u-s-africa-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/vision-statement-for-the-u-s-africa-partnership/
 tags: statements-releases
 title: "Vision Statement for the U.S.-Africa\_Partnership"
 ---

@@ -2,7 +2,7 @@
 date: '2024-07-11'
 modified_time: 2024-07-12 10:39:46-04:00
 published_time: 2024-07-11 22:14:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/11/remarks-by-president-biden-in-press-conference-9/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/11/remarks-by-president-biden-in-press-conference-9/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Press\_Conference"
 ---

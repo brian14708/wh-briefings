@@ -2,7 +2,7 @@
 date: '2022-12-12'
 modified_time: 2022-12-12 16:57:35-05:00
 published_time: 2022-12-12 17:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/12/statement-from-white-house-press-secretary-karine-jean-pierre-on-inter-agency-group-to-counter-antisemitism/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on Inter-Agency\
   \ Group to Counter\_Antisemitism"

@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 published_time: 2023-03-10 16:29:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-president-biden-and-european-commission-president-ursula-von-der-leyen-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/10/remarks-by-president-biden-and-european-commission-president-ursula-von-der-leyen-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and European Commission President Ursula von der\
   \ Leyen Before Bilateral\_Meeting"

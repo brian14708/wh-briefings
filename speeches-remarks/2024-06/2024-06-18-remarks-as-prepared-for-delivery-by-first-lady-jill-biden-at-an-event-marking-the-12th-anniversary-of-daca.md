@@ -1,7 +1,7 @@
 ---
 date: '2024-06-18'
 published_time: 2024-06-18 15:44:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-marking-the-12th-anniversary-of-daca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/18/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-an-event-marking-the-12th-anniversary-of-daca/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at an Event Marking\
   \ the 12th Anniversary of\_DACA"

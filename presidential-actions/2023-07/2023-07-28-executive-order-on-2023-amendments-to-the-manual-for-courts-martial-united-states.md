@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 11:15:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/28/executive-order-on-2023-amendments-to-the-manual-for-courts-martial-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/28/executive-order-on-2023-amendments-to-the-manual-for-courts-martial-united-states/
 tags: presidential-actions
 title: "Executive Order on 2023 Amendments to the Manual for Courts-Martial, United\_\
   States"

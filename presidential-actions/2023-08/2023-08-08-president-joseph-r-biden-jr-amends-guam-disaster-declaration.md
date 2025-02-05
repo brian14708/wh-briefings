@@ -1,7 +1,7 @@
 ---
 date: '2023-08-08'
 published_time: 2023-08-08 19:40:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/08/president-joseph-r-biden-jr-amends-guam-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/08/president-joseph-r-biden-jr-amends-guam-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Guam Disaster\_Declaration"
 ---

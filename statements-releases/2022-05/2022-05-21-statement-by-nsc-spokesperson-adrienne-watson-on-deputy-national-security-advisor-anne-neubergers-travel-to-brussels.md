@@ -2,7 +2,7 @@
 date: '2022-05-21'
 modified_time: 2022-05-21 18:48:57-04:00
 published_time: 2022-05-21 18:48:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/21/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/21/statement-by-nsc-spokesperson-adrienne-watson-on-deputy-national-security-advisor-anne-neubergers-travel-to-brussels/
 tags: statements-releases
 title: "Statement by NSC Spokesperson\_Adrienne Watson\_on Deputy National Security\
   \ Advisor Anne Neuberger\u2019s Travel\_to\_Brussels"

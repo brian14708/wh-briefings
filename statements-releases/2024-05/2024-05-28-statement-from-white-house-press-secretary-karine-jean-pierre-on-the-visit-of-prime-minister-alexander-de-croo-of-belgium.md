@@ -2,7 +2,7 @@
 date: '2024-05-28'
 modified_time: 2024-05-28 07:47:48-04:00
 published_time: 2024-05-28 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-alexander-de-croo-of-belgium/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/28/statement-from-white-house-press-secretary-karine-jean-pierre-on-the-visit-of-prime-minister-alexander-de-croo-of-belgium/
 tags: statements-releases
 title: "Statement from White\_House Press Secretary Karine Jean-Pierre on the Visit\
   \ of Prime Minister Alexander De Croo of\_Belgium"

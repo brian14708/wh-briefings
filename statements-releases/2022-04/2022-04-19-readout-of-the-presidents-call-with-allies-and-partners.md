@@ -2,7 +2,7 @@
 date: '2022-04-19'
 modified_time: 2022-04-19 15:30:04-04:00
 published_time: 2022-04-19 14:38:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/readout-of-the-presidents-call-with-allies-and-partners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/readout-of-the-presidents-call-with-allies-and-partners/
 tags: statements-releases
 title: "Readout of the President\u2019s Call with Allies and\_Partners"
 ---

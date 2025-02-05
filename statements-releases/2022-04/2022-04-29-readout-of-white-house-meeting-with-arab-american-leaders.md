@@ -1,7 +1,7 @@
 ---
 date: '2022-04-29'
 published_time: 2022-04-29 17:25:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/29/readout-of-white-house-meeting-with-arab-american-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/29/readout-of-white-house-meeting-with-arab-american-leaders/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Arab American\_Leaders"
 ---
@@ -23,7 +23,7 @@ discrimination, however they manifest, and specifically the Division’s
 efforts to combat Anti-Arab discrimination and Islamophobia.
 Administration officials also discussed the Equitable Data Working
 Group’s recent
-[report](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
+[report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
 highlighting the need to build a Federal data infrastructure that better
 reflects the diversity of the American people and any inequities in
 their experiences, as well as the work underway at the U.S. Census

@@ -2,7 +2,7 @@
 date: '2024-03-28'
 modified_time: 2024-03-29 14:22:21-04:00
 published_time: 2024-03-28 23:55:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/28/remarks-by-president-biden-president-obama-and-president-clinton-in-a-moderated-conversation-with-stephen-colbert-at-a-campaign-reception-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/28/remarks-by-president-biden-president-obama-and-president-clinton-in-a-moderated-conversation-with-stephen-colbert-at-a-campaign-reception-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, President Obama, and President Clinton in a Moderated\
   \ Conversation with Stephen Colbert at a Campaign Reception | New York,\_NY"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-24'
 published_time: 2024-01-24 13:07:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-vice-president-harris-at-a-campaign-event-manassas-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/01/24/remarks-by-vice-president-harris-at-a-campaign-event-manassas-va/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Manassas,\_VA"
 ---

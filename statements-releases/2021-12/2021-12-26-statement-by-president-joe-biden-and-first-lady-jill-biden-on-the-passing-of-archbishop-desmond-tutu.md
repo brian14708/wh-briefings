@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-26'
 modified_time: 2021-12-26 13:45:06-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/26/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-archbishop-desmond-tutu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/26/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-archbishop-desmond-tutu/
 published_time: 2021-12-26 13:45:05-05:00
 title: "Statement by President Joe\_Biden and First Lady Jill\_Biden on the Passing\
   \ of Archbishop Desmond\_Tutu"

@@ -1,7 +1,7 @@
 ---
 date: '2024-08-01'
 published_time: 2024-08-01 17:10:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/08/01/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-18/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/08/01/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-advisor-jake-sullivan-18/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Advisor Jake\_Sullivan"

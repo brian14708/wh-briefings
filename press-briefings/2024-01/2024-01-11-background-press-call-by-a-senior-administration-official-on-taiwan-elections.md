@@ -1,7 +1,7 @@
 ---
 date: '2024-01-11'
 published_time: 2024-01-11 12:40:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/11/background-press-call-by-a-senior-administration-official-on-taiwan-elections/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/11/background-press-call-by-a-senior-administration-official-on-taiwan-elections/
 tags: press-briefings
 title: "Background Press Call by a Senior Administration Official on Taiwan\_Elections"
 ---

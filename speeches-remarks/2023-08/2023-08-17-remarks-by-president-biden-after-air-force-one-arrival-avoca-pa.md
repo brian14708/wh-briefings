@@ -1,7 +1,7 @@
 ---
 date: '2023-08-17'
 published_time: 2023-08-17 15:39:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/17/remarks-by-president-biden-after-air-force-one-arrival-avoca-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/17/remarks-by-president-biden-after-air-force-one-arrival-avoca-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Avoca,\_PA"
 ---

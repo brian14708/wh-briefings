@@ -1,7 +1,7 @@
 ---
 date: '2023-12-03'
 published_time: 2023-12-03 19:33:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/03/remarks-by-president-biden-at-the-2023-kennedy-center-honorees-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/03/remarks-by-president-biden-at-the-2023-kennedy-center-honorees-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2023 Kennedy Center Honorees\_Reception"
 ---

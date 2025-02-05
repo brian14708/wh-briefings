@@ -2,7 +2,7 @@
 date: '2024-10-24'
 modified_time: 2024-10-24 09:01:38-04:00
 published_time: 2024-10-24 09:01:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/24/background-press-call-on-the-u-s-approach-to-harnessing-the-power-of-ai-for-u-s-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/10/24/background-press-call-on-the-u-s-approach-to-harnessing-the-power-of-ai-for-u-s-national-security/
 tags: press-briefings
 title: "Background Press Call on the U.S. Approach to Harnessing the Power of AI for\
   \ U.S. National\_Security"

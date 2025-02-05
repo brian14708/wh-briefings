@@ -1,7 +1,7 @@
 ---
 date: '2024-11-18'
 published_time: 2024-11-18 13:37:33-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/18/readout-of-president-joe-bidens-meeting-with-president-claudia-sheinbaum-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/18/readout-of-president-joe-bidens-meeting-with-president-claudia-sheinbaum-of-mexico/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Claudia Sheinbaum\
   \ of\_Mexico"

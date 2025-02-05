@@ -2,7 +2,7 @@
 date: '2024-04-29'
 modified_time: 2024-04-29 16:15:30-04:00
 published_time: 2024-04-29 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/29/fact-sheet-celebrating-national-small-business-week-biden-harris-administration-announces-a-record-in-federal-procurement-dollars-awarded-to-small-businesses/
 tags: statements-releases
 title: "FACT SHEET: Celebrating National Small Business Week, Biden-\u2060Harris Administration\
   \ Announces a Record in Federal Procurement Dollars Awarded to Small\_Businesses"
@@ -54,12 +54,12 @@ includes:
 
 -   <u>$76.2 billion to SDBs</u>, totaling 12.1 percent of federal
     contracting dollars and surpassing the 12% goal for FY23
-    [established](https://www.whitehouse.gov/wp-content/uploads/2022/10/M-23-01.pdf)
+    [established](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/M-23-01.pdf)
     by the Office of Management and Budget. This represents the third
     consecutive year of record-breaking awards to SDBs under President
     Biden, and puts the Administration on track to reach the President’s
     goal of increasing federal contracting dollars to SDBs [by 50% by
-    2025](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/).
+    2025](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/).
     Increasing federal investments in under-resourced businesses helps
     more Americans realize their entrepreneurial dreams, strengthens the
     supplier base, and contributes to narrowing persistent wealth
@@ -86,7 +86,7 @@ includes:
 
 **Release of Third Annual Small Business Boom Report.** The White House
 released its third annual [Small Business Boom
-Report](https://www.whitehouse.gov/wp-content/uploads/2024/04/Small-Business-Boom-Report-2024.pdf),
+Report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Small-Business-Boom-Report-2024.pdf),
 illustrating the continued achievements of the Biden-Harris
 Administration to support small businesses by expanding access to
 capital, providing small businesses with more hands-on support, ensuring

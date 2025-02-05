@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 19:19:02-04:00
 published_time: 2023-03-13 19:19:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-prime-minister-albanese-of-australia-and-prime-minister-sunak-of-the-united-kingdom-on-the-aukus-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/13/remarks-by-president-biden-prime-minister-albanese-of-australia-and-prime-minister-sunak-of-the-united-kingdom-on-the-aukus-partnership/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Albanese of Australia, and Prime\
   \ Minister Sunak of the United Kingdom on the AUKUS\_Partnership"

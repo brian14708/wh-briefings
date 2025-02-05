@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-08 10:20:30-04:00
 published_time: 2024-05-07 16:51:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-and-president-iohannis-of-romania-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/07/remarks-by-president-biden-and-president-iohannis-of-romania-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Iohannis of Romania Before Bilateral\_\
   Meeting"

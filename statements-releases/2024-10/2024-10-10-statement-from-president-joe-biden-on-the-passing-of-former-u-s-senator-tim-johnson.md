@@ -1,7 +1,7 @@
 ---
 date: '2024-10-10'
 published_time: 2024-10-10 13:20:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/10/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-tim-johnson/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/10/statement-from-president-joe-biden-on-the-passing-of-former-u-s-senator-tim-johnson/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Former U.S. Senator\
   \ Tim\_Johnson"

@@ -2,7 +2,7 @@
 date: '2024-09-17'
 modified_time: 2024-09-17 13:12:24-04:00
 published_time: 2024-09-17 13:12:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/17/remarks-by-president-biden-to-overflow-crowd-at-the-2024-national-hbcu-week-conference-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/17/remarks-by-president-biden-to-overflow-crowd-at-the-2024-national-hbcu-week-conference-philadelphia-pa/
 tags: statements-releases
 title: "Remarks by President\_Biden to Overflow Crowd at the 2024 National HBCU Week\
   \ Conference | Philadelphia,\_PA"

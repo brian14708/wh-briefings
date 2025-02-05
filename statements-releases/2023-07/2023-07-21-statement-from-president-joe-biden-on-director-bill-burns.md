@@ -2,7 +2,7 @@
 date: '2023-07-21'
 modified_time: 2023-07-21 11:22:43-04:00
 published_time: 2023-07-21 15:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/statement-from-president-joe-biden-on-director-bill-burns/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/21/statement-from-president-joe-biden-on-director-bill-burns/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Director Bill\_Burns"
 ---

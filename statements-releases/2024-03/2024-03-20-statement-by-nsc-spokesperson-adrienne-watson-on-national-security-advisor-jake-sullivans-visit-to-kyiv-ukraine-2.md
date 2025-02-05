@@ -1,7 +1,7 @@
 ---
 date: '2024-03-20'
 published_time: 2024-03-20 16:35:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/20/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-visit-to-kyiv-ukraine-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/20/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-visit-to-kyiv-ukraine-2/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Visit to Kyiv,\_Ukraine"

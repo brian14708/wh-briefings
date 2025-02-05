@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 18:39:40-04:00
 published_time: 2024-10-17 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/fact-sheet-the-u-s-germany-partnership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/17/fact-sheet-the-u-s-germany-partnership/
 tags: statements-releases
 title: "FACT SHEET: The U.S.-Germany\_Partnership"
 ---
@@ -14,7 +14,7 @@ historic bond between the two nations as Allies and friends.  For over
 security, and prosperity of the transatlantic alliance.  In October
 2023, President Biden welcomed President Steinmeier to Washington during
 [German-American
-Day,](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/joint-statement-from-the-president-of-the-united-states-joseph-r-biden-jr-and-the-president-of-germany-frank-walter-steinmeier-on-german-american-day/)
+Day,](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/joint-statement-from-the-president-of-the-united-states-joseph-r-biden-jr-and-the-president-of-germany-frank-walter-steinmeier-on-german-american-day/)
 underscoring the enduring people-to-people ties between our two
 countries, including the over 40 million Americans who claim German
 heritage and strengthen the diverse fabric of the United States.  In
@@ -151,7 +151,7 @@ time, some of which are listed below.
     condemning antisemitism and federal and state governments have
     robust strategies for tackling the problem.  In July 2024, Germany
     co-launched the [Global Guidelines for Countering
-    Antisemitism](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/joint-statement-on-the-second-round-of-u-s-germany-economic-dialogue/)
+    Antisemitism](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/joint-statement-on-the-second-round-of-u-s-germany-economic-dialogue/)
     in Buenos Aires, an initiative led by U.S. Special Envoy Deborah
     Lipstadt.
 -   Launched in 2021, [The U.S.-Germany Dialogue on Holocaust

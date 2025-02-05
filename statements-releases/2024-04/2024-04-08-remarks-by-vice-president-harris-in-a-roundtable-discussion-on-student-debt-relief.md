@@ -2,7 +2,7 @@
 date: '2024-04-08'
 modified_time: 2024-04-09 20:36:18-04:00
 published_time: 2024-04-08 21:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/08/remarks-by-vice-president-harris-in-a-roundtable-discussion-on-student-debt-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/remarks-by-vice-president-harris-in-a-roundtable-discussion-on-student-debt-relief/
 tags: statements-releases
 title: "Remarks by Vice President Harris in a Roundtable Discussion on Student Debt\_\
   Relief"

@@ -2,7 +2,7 @@
 date: '2023-12-18'
 modified_time: 2023-12-18 10:54:24-05:00
 published_time: 2023-12-18 10:54:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/18/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/18/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-serious-human-rights-abuse-and-corruption/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to Serious Human Rights Abuse and\_Corruption"

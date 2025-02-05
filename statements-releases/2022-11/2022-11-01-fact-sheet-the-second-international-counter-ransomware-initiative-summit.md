@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 14:22:20-04:00
 published_time: 2022-11-01 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-the-second-international-counter-ransomware-initiative-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-the-second-international-counter-ransomware-initiative-summit/
 tags: statements-releases
 title: "FACT SHEET: The Second International Counter Ransomware Initiative\_Summit"
 ---

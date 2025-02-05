@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-10-08'
 modified_time: 2021-10-08 17:02:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/10/08/a-proclamation-on-bears-ears-national-monument/
 published_time: 2021-10-08 16:11:00-04:00
 title: "A Proclamation on Bears Ears National\_Monument"
 ---

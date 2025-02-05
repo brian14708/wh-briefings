@@ -2,7 +2,7 @@
 tags: press-briefings
 date: '2021-04-12'
 modified_time: 2021-04-12 13:51:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2021/04/12/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-27/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2021/04/12/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-27/
 published_time: 2021-04-12 13:51:03-04:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -663,4 +663,4 @@ Thanks.
 11:38 A.M. EDT  
 
 To view the COVID Press Briefing Slides,
-visit <https://www.whitehouse.gov/wp-content/uploads/2021/04/COVID-Press-Briefing_12April2021_for-transcript.pdf>
+visit <https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/COVID-Press-Briefing_12April2021_for-transcript.pdf>

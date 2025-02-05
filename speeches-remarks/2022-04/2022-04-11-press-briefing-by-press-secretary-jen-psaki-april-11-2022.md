@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-11 18:53:29-04:00
 published_time: 2022-04-11 17:38:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/11/press-briefing-by-press-secretary-jen-psaki-april-11-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/11/press-briefing-by-press-secretary-jen-psaki-april-11-2022/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Announcing Actions to Fight Gun Crime and His\
   \ Nominee for ATF Director, Steve\_Dettelbach"

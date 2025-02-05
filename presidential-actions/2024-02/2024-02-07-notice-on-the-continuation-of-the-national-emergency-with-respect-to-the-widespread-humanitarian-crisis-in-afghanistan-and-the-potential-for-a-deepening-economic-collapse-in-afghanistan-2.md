@@ -1,7 +1,7 @@
 ---
 date: '2024-02-07'
 published_time: 2024-02-07 14:14:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-widespread-humanitarian-crisis-in-afghanistan-and-the-potential-for-a-deepening-economic-collapse-in-afghanistan-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/02/07/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-widespread-humanitarian-crisis-in-afghanistan-and-the-potential-for-a-deepening-economic-collapse-in-afghanistan-2/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Widespread\
   \ Humanitarian Crisis in Afghanistan and the Potential for a Deepening Economic\

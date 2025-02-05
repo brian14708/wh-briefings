@@ -1,7 +1,7 @@
 ---
 date: '2023-01-09'
 published_time: 2023-01-09 06:33:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/09/president-joseph-r-biden-jr-approves-california-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/09/president-joseph-r-biden-jr-approves-california-emergency-declaration-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves California Emergency\_Declaration"
 ---

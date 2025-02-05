@@ -1,7 +1,7 @@
 ---
 date: '2024-04-12'
 published_time: 2024-04-12 16:46:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/12/remarks-by-president-biden-to-the-national-action-network-convention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/12/remarks-by-president-biden-to-the-national-action-network-convention/
 tags: speeches-remarks
 title: "Remarks by President\_Biden to the National Action Network\_Convention"
 ---

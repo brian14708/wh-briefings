@@ -2,7 +2,7 @@
 date: '2023-08-17'
 modified_time: 2023-08-17 10:38:10-04:00
 published_time: 2023-08-17 10:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/17/statement-from-president-joe-biden-on-white-house-counsel-stuart-delery/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/17/statement-from-president-joe-biden-on-white-house-counsel-stuart-delery/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on White\_House Counsel Stuart\_Delery"
 ---

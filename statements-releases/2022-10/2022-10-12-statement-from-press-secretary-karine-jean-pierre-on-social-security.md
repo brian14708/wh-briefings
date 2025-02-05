@@ -2,7 +2,7 @@
 date: '2022-10-12'
 modified_time: 2022-10-12 14:34:16-04:00
 published_time: 2022-10-12 14:34:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/12/statement-from-press-secretary-karine-jean-pierre-on-social-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/12/statement-from-press-secretary-karine-jean-pierre-on-social-security/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on Social\_Security"
 ---

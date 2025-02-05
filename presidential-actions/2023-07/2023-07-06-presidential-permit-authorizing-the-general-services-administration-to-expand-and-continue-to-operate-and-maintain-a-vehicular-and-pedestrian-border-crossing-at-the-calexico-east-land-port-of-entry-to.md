@@ -1,7 +1,7 @@
 ---
 date: '2023-07-06'
 published_time: 2023-07-06 15:04:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/06/presidential-permit-authorizing-the-general-services-administration-to-expand-and-continue-to-operate-and-maintain-a-vehicular-and-pedestrian-border-crossing-at-the-calexico-east-land-port-of-entry-to/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/06/presidential-permit-authorizing-the-general-services-administration-to-expand-and-continue-to-operate-and-maintain-a-vehicular-and-pedestrian-border-crossing-at-the-calexico-east-land-port-of-entry-to/
 tags: presidential-actions
 title: "Presidential Permit Authorizing the General Services Administration to Expand\
   \ and Continue to Operate and Maintain a Vehicular and Pedestrian Border Crossing\

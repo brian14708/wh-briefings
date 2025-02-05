@@ -2,7 +2,7 @@
 date: '2023-05-04'
 modified_time: 2023-05-04 12:10:57-04:00
 published_time: 2023-05-04 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-vice-president-harris-celebrates-small-business-and-manufacturing-boom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-vice-president-harris-celebrates-small-business-and-manufacturing-boom/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Celebrates Small Business and Manufacturing\_\
   Boom"
@@ -15,7 +15,7 @@ Manufacturers*
 Today, in celebration of National Small Business Week and in recognition
 of the critical role that small manufacturing businesses play in the
 economy, the White House released a
-[report](https://www.whitehouse.gov/wp-content/uploads/2023/05/SSBCI-Manufacturing-Report-5.4.2023.pdf)
+[report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/SSBCI-Manufacturing-Report-5.4.2023.pdf)
 detailing how the Biden-Harris Administration’s Investing in America
 agenda is providing critical support for small businesses in
 manufacturing industries, including through the State Small Business
@@ -31,7 +31,7 @@ nearly half of all private sector workers. In 2021 and 2022, a record
 10.5 million applications for new small businesses were filed, the
 strongest two years on record. Earlier this week, the White House
 released a [report
-card](https://www.whitehouse.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
+card](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/Small-Business-Report.pdf)
 demonstrating across-the-board progress on commitments designed to
 maintain the nation’s historic momentum in fostering new business
 creation and leading to the small business boom seen over the last two
@@ -52,7 +52,7 @@ SSBCI is expected to catalyze up to $10 of private investment for every
 $1 of SSBCI capital funding, meaning this historic investment will
 provide tens of billions of dollars in public and private support for
 small businesses across the country. In addition, Treasury [has
-convened](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/28/readout-white-house-treasury-and-state-officials-discuss-american-rescue-plan-investments-in-manufacturing-through-the-state-small-business-credit-initiative/)
+convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/28/readout-white-house-treasury-and-state-officials-discuss-american-rescue-plan-investments-in-manufacturing-through-the-state-small-business-credit-initiative/)
 manufacturing-focused discussions among nearly twenty states to stand up
 initiatives to address a host of common challenges faced by small
 manufacturers. These SSBCI-supported efforts include programs to reduce
@@ -72,7 +72,7 @@ manufacturing base.
 
 The Biden-Harris Administration’s Investing in America agenda is
 [strengthening this small business
-boom](https://www.whitehouse.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
+boom](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/05/01/investing-in-small-businesses/)
 and encouraging the fastest manufacturing recovery since the 1950s.
 Small businesses are the backbone of the manufacturing sector. Nearly
 75% of the U.S. manufacturing sector is made up of companies with fewer
@@ -81,7 +81,7 @@ all industrial output and employ close to 9% of the U.S. workforce.
 Already, nearly 800,000 manufacturing jobs have been created since
 President Biden took office, the most of any Administration and private
 sector companies have announced more than [$400
-billion](https://www.whitehouse.gov/invest/) in major manufacturing
+billion](https://bidenwhitehouse.archives.gov/invest/) in major manufacturing
 projects in industries of the future, such as clean energy,
 semiconductor fabrication, and biotechnology, since President Biden took
 office.

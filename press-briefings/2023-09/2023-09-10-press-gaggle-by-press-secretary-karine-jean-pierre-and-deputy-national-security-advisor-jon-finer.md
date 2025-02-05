@@ -2,7 +2,7 @@
 date: '2023-09-10'
 modified_time: 2023-09-10 12:15:54-04:00
 published_time: 2023-09-10 12:15:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/10/press-gaggle-by-press-secretary-karine-jean-pierre-and-deputy-national-security-advisor-jon-finer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/10/press-gaggle-by-press-secretary-karine-jean-pierre-and-deputy-national-security-advisor-jon-finer/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Deputy National Security\
   \ Advisor Jon\_Finer"

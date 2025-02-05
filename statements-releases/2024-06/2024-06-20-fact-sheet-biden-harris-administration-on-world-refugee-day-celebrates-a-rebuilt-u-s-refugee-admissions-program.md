@@ -1,7 +1,7 @@
 ---
 date: '2024-06-20'
 published_time: 2024-06-20 14:39:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-on-world-refugee-day-celebrates-a-rebuilt-u-s-refugee-admissions-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/20/fact-sheet-biden-harris-administration-on-world-refugee-day-celebrates-a-rebuilt-u-s-refugee-admissions-program/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration on World Refugee Day Celebrates\
   \ a Rebuilt U.S. Refugee Admissions\_Program"
@@ -24,7 +24,7 @@ demonstrating the generosity and core values of the American people.
 Today, on World Refugee Day, the Biden-Harris Administration is
 providing an update on actions taken under the President’s [Executive
 Order
-14013](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/executive-order-on-rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change-on-migration/)
+14013](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/04/executive-order-on-rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change-on-migration/)
 to restore the nation’s refugee resettlement program as a longstanding
 demonstration of the United States’ promise and welcome.
 
@@ -178,7 +178,7 @@ enhance screening and vetting of refugees, including:
 
 -   **Repealed the Muslim ban.** On his first day in office, President
     Biden [repealed the previous administration’s discriminatory Muslim
-    ban](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/),
+    ban](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/),
     a stain on our national conscience that was inconsistent with our
     nation’s foundation of religious freedom and tolerance. The
     Administration has since taken additional steps to reform legacy

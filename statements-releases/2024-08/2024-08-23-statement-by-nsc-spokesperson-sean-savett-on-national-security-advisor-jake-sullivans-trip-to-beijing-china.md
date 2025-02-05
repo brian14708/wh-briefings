@@ -2,7 +2,7 @@
 date: '2024-08-23'
 modified_time: 2024-08-23 09:25:45-04:00
 published_time: 2024-08-23 09:25:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/23/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivans-trip-to-beijing-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/23/statement-by-nsc-spokesperson-sean-savett-on-national-security-advisor-jake-sullivans-trip-to-beijing-china/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Sean Savett on National Security Advisor Jake\
   \ Sullivan\u2019s Trip to Beijing,\_China"

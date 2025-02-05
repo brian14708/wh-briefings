@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 11:24:08-04:00
 published_time: 2022-06-27 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/the-white-house-announces-public-tours-will-resume-a-full-operating-schedule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/the-white-house-announces-public-tours-will-resume-a-full-operating-schedule/
 tags: statements-releases
 title: "The White\_House Announces Public Tours Will Resume A Full Operating\_Schedule"
 ---

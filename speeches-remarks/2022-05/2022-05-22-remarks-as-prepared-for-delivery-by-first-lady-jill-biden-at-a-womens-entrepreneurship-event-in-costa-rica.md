@@ -2,7 +2,7 @@
 date: '2022-05-22'
 modified_time: 2022-05-23 18:47:41-04:00
 published_time: 2022-05-22 09:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-entrepreneurship-event-in-costa-rica/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/22/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-a-womens-entrepreneurship-event-in-costa-rica/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at a Women\u2019\
   s Entrepreneurship Event in Costa\_Rica"

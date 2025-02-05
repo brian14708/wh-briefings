@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 15:50:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-israel-and-the-west-bank/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/22/readout-from-nsc-spokesperson-emily-horne-on-senior-administration-official-travel-to-israel-and-the-west-bank/
 published_time: 2021-12-22 15:50:09-05:00
 title: "Readout from NSC Spokesperson Emily Horne on Senior Administration Official\
   \ Travel to Israel and the West\_Bank"
@@ -20,7 +20,7 @@ strategic partnership between the two countries and discuss the major
 regional and bilateral policy issues on their shared agenda.  Mr.
 Sullivan and Dr. Hulata also led the fourth meeting of [the U.S.-Israel
 Strategic Consultative
-Group](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/22/joint-statement-on-meeting-of-the-u-s-israel-strategic-consultative-group/)
+Group](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/22/joint-statement-on-meeting-of-the-u-s-israel-strategic-consultative-group/)
 to continue the intensive consultations between the two sides on the
 challenges and opportunities in the region.   
   

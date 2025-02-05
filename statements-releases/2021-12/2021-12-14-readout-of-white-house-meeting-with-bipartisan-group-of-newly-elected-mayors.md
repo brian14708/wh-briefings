@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-14'
 modified_time: 2021-12-14 18:20:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/14/readout-of-white-house-meeting-with-bipartisan-group-of-newly-elected-mayors/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/14/readout-of-white-house-meeting-with-bipartisan-group-of-newly-elected-mayors/
 published_time: 2021-12-14 18:15:00-05:00
 title: "Readout of White\_House Meeting with Bipartisan Group of Newly-Elected\_Mayors"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-05-11'
 published_time: 2024-05-11 20:57:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/11/president-joseph-r-biden-jr-amends-soboba-band-of-luiseno-indians-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/11/president-joseph-r-biden-jr-amends-soboba-band-of-luiseno-indians-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Soboba Band of Luise\xF1o Indians Disaster\_\
   Declaration"

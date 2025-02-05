@@ -1,7 +1,7 @@
 ---
 date: '2023-09-12'
 published_time: 2023-09-12 12:43:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/12/statement-from-president-joe-biden-on-flooding-in-libya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/12/statement-from-president-joe-biden-on-flooding-in-libya/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Flooding in\_Libya"
 ---

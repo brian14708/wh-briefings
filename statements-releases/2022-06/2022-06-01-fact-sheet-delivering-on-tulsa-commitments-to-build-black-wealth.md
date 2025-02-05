@@ -1,7 +1,7 @@
 ---
 date: '2022-06-01'
 published_time: 2022-06-01 14:20:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-delivering-on-tulsa-commitments-to-build-black-wealth/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-delivering-on-tulsa-commitments-to-build-black-wealth/
 tags: statements-releases
 title: "FACT SHEET: Delivering on Tulsa Commitments to Build Black\_Wealth"
 ---
@@ -48,14 +48,14 @@ You can read the PAVE Action Plan [here](https://pave.hud.gov/).
 Increasing federal spending with underserved businesses not only helps
 more Americans realize their entrepreneurial dreams, but also narrows
 persistent wealth disparities. According to
-an [analysis](https://www.whitehouse.gov/cea/blog/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
+an [analysis](https://bidenwhitehouse.archives.gov/cea/blog/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
 from the White House Council of Economic Advisers, differences in
 business ownership account for 20 percent of the wealth gap between
 average white and Black households.  
   
 Recognizing this historic opportunity, the Biden-Harris Administration
 adopted a [bold set of
-reforms](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+reforms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
 to meet the President’s target of increasing the share of federal
 contracts to SDBs and increase opportunity for all underserved
 businesses. These actions include:

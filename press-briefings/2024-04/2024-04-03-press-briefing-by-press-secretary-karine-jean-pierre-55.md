@@ -1,7 +1,7 @@
 ---
 date: '2024-04-03'
 published_time: 2024-04-03 16:41:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/04/03/press-briefing-by-press-secretary-karine-jean-pierre-55/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/04/03/press-briefing-by-press-secretary-karine-jean-pierre-55/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

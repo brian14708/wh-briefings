@@ -2,7 +2,7 @@
 date: '2024-07-09'
 modified_time: 2024-07-09 23:23:07-04:00
 published_time: 2024-07-09 23:23:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/09/remarks-by-president-biden-on-the-75th-anniversary-of-the-north-atlantic-treaty-organization-alliance/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/09/remarks-by-president-biden-on-the-75th-anniversary-of-the-north-atlantic-treaty-organization-alliance/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the 75th Anniversary of the North Atlantic\
   \ Treaty Organization\_Alliance"

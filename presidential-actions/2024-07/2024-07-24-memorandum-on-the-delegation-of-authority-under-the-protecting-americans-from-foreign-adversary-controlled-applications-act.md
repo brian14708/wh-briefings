@@ -2,7 +2,7 @@
 date: '2024-07-24'
 modified_time: 2024-07-24 16:59:38-04:00
 published_time: 2024-07-24 16:59:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/24/memorandum-on-the-delegation-of-authority-under-the-protecting-americans-from-foreign-adversary-controlled-applications-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/24/memorandum-on-the-delegation-of-authority-under-the-protecting-americans-from-foreign-adversary-controlled-applications-act/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority Under the Protecting Americans from\
   \ Foreign Adversary Controlled Applications\_Act"

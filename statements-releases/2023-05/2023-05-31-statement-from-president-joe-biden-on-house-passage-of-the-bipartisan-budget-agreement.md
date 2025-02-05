@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 21:26:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/statement-from-president-joe-biden-on-house-passage-of-the-bipartisan-budget-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/statement-from-president-joe-biden-on-house-passage-of-the-bipartisan-budget-agreement/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on House Passage of the Bipartisan Budget\_\
   Agreement"

@@ -2,7 +2,7 @@
 date: '2023-03-10'
 modified_time: 2023-03-10 16:58:07-05:00
 published_time: 2023-03-10 15:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/10/strongpresident-biden-announces-key-appointments-to-boards-and-commissions-strong/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/10/strongpresident-biden-announces-key-appointments-to-boards-and-commissions-strong/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

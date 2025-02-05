@@ -2,7 +2,7 @@
 date: '2024-09-14'
 modified_time: 2024-09-14 09:44:46-04:00
 published_time: 2024-09-14 09:44:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/14/readout-of-first-ever-white-house-summit-on-extreme-heat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/14/readout-of-first-ever-white-house-summit-on-extreme-heat/
 tags: statements-releases
 title: "Readout of First-Ever White\_House Summit on Extreme\_Heat"
 ---
@@ -22,7 +22,7 @@ hazards](https://www.ready.gov/heat#:~:text=In%20extreme%20heat%20your%20body,am
 the Biden-Harris Administration hosted the first-ever White House Summit
 on Extreme Heat, bringing together over 100 participants from around the
 country and across the government. The Summit,
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/)
 by President Biden earlier in the summer, convened federal agencies and
 White House senior staff alongside leaders – including workers exposed
 to extreme heat, healthcare professionals, emergency responders, and
@@ -35,7 +35,7 @@ locally tailored and community driven.
 
 At the Summit, National Climate Advisor Ali Zaidi also announced a new
 [Extreme Heat Call to
-Action](https://www.whitehouse.gov/wp-content/uploads/2024/09/2024-09-12-Heat-Call-to-Action-Explainer.pdf),
+Action](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/09/2024-09-12-Heat-Call-to-Action-Explainer.pdf),
 which calls upon state, local, Tribal and Territorial governments, along
 with the private sector and non-profit organizations to lead by example
 and use all of the tools at their disposal to protect people from
@@ -85,13 +85,13 @@ costs](https://www.acf.hhs.gov/blog/2022/04/liheap-and-extreme-heat) for
 [American
 families](https://www.hud.gov/press/press_releases_media_advisories/hud_no_24_145),
 and in [protecting our nation’s
-workers](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/)
+workers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/02/fact-sheet-president-biden-announces-new-actions-to-protect-workers-and-communities-from-extreme-weather/)
 from extreme heat. This work also advances the Biden-Harris
 Administration’s work to align climate resilience investments across the
 public and private sector through common principles and opportunities
 for action to build a climate-resilient nation through the [National
 Climate Resilience
-Framework](https://www.whitehouse.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
+Framework](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/National-Climate-Resilience-Framework-FINAL.pdf),
 the federal interagency [National Heat
 Strategy](https://www.hhs.gov/about/news/2024/08/14/biden-harris-administration-unveils-national-heat-strategy-protect-community-health-extreme-heat.html),
 and other regulatory actions.

@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-25 16:36:57-04:00
 published_time: 2022-10-25 16:36:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/25/remarks-by-president-biden-on-the-status-of-the-countrys-fight-against-covid-19-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/25/remarks-by-president-biden-on-the-status-of-the-countrys-fight-against-covid-19-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Status of the Country\u2019s Fight Against\_\
   COVID-\u206019"

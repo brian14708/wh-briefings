@@ -1,7 +1,7 @@
 ---
 date: '2024-07-30'
 published_time: 2024-07-30 13:44:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/statement-from-nsc-spokesperson-adrienne-watson-on-venezuela/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/statement-from-nsc-spokesperson-adrienne-watson-on-venezuela/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on\_Venezuela"
 ---

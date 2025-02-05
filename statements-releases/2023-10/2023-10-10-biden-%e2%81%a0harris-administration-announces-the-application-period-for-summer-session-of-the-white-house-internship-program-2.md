@@ -2,7 +2,7 @@
 date: '2023-10-10'
 modified_time: 2023-10-09 08:52:57-04:00
 published_time: 2023-10-10 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/10/biden-%e2%81%a0harris-administration-announces-the-application-period-for-summer-session-of-the-white-house-internship-program-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/10/biden-%e2%81%a0harris-administration-announces-the-application-period-for-summer-session-of-the-white-house-internship-program-2/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces the Application Period for Summer\
   \ Session of the White\_House Internship\_Program"
@@ -43,7 +43,7 @@ following criteria:
 The application period for the Summer 2024 session will open on Monday,
 October 16th and will close on Friday, November 10th. Interested
 candidates can find the Program’s online application
-at [WH.gov/intern](https://www.whitehouse.gov/get-involved/internships/).
+at [WH.gov/intern](https://bidenwhitehouse.archives.gov/get-involved/internships/).
 The website also features additional information about the Program,
 including a “Frequently Asked Questions” section.  
   

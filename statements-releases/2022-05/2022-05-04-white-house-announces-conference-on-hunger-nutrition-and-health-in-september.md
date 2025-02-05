@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 09:14:43-04:00
 published_time: 2022-05-04 05:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/white-house-announces-conference-on-hunger-nutrition-and-health-in-september/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/white-house-announces-conference-on-hunger-nutrition-and-health-in-september/
 tags: statements-releases
 title: "White\_House Announces Conference on Hunger, Nutrition and Health in\_September"
 ---

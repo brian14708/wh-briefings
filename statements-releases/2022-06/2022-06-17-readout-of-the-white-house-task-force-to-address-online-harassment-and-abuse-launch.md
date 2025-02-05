@@ -1,7 +1,7 @@
 ---
 date: '2022-06-17'
 published_time: 2022-06-17 09:40:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/readout-of-the-white-house-task-force-to-address-online-harassment-and-abuse-launch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/readout-of-the-white-house-task-force-to-address-online-harassment-and-abuse-launch/
 tags: statements-releases
 title: "Readout of the White\_House Task Force to Address Online Harassment and Abuse\_\
   Launch"
@@ -10,7 +10,7 @@ title: "Readout of the White\_House Task Force to Address Online Harassment and 
 Yesterday, the Gender Policy Council and National Security Council
 launched the White House Task Force to Address Online Harassment and
 Abuse. The Task Force was established through a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/16/memorandum-on-the-establishment-of-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 signed on Thursday. Following remarks by Vice President Harris, Attorney
 General Merrick Garland, and U.S. Surgeon General Vivek Murthy, senior
 Administration officials heard from a panel of survivors and experts,
@@ -29,7 +29,7 @@ prevent and respond to online harms.   
 Senior Administration officials reaffirmed the Biden-Harris
 Administration’s commitment to preventing and addressing gender-based
 violence wherever it occurs, including online. They [outlined key
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/)
 the Administration is already taking to address online harassment and
 abuse, and explained that the Task Force will provide a blueprint for
 action within 180 days with recommendations on additional steps the

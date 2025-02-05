@@ -1,7 +1,7 @@
 ---
 date: '2024-06-17'
 published_time: 2024-06-17 12:07:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/17/fact-sheet-the-biden-harris-administrations-actions-to-address-conflict-related-sexual-violence/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Actions to Address\
   \ Conflict-Related Sexual\_Violence"
@@ -14,7 +14,7 @@ prevent conflict-related sexual violence and all forms of gender-based
 violence, to support survivors and ensure accountability and justice. 
 This work is guided by the 2023 [U.S. Strategy and National Action Plan
 on Women, Peace, and
-Security](https://www.whitehouse.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf) and
+Security](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/U.S.-Strategy-and-National-Action-Plan-on-Women-Peace-and-Security.pdf) and
 the 2022 [U.S. Strategy to Prevent and Respond to Gender-Based Violence
 Globally](https://www.state.gov/reports/united-states-strategy-to-prevent-and-respond-to-gender-based-violence-globally-2022/),
 which recognize that conflict-related sexual violence is a heinous crime
@@ -84,7 +84,7 @@ justice and accountability, and preventing CRSV.
 
 -   **Imposing Sanctions.** In 2022, [President Biden signed a
     Memorandum on Promoting Accountability for Conflict-Related Sexual
-    Violence.](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/) and
+    Violence.](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/11/28/memorandum-on-promoting-accountability-for-conflict-related-sexual-violence/) and
     committed to fully exercising U.S. authorities—including sanctions,
     visa restrictions, and security assistance vetting—to promote
     accountability for perpetrators and enablers of CRSV.  Following the

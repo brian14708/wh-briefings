@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 12:55:40-04:00
 published_time: 2024-04-09 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-president-bidens-sweeping-proposals-to-crack-down-on-pandemic-fraud-and-help-victims-recover-introduced-in-congress/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/fact-sheet-president-bidens-sweeping-proposals-to-crack-down-on-pandemic-fraud-and-help-victims-recover-introduced-in-congress/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Sweeping Proposals to Crack Down on Pandemic\
   \ Fraud and Help Victims Recover Introduced in\_Congress"
@@ -17,9 +17,9 @@ Chairman Gary Peters, Senate Judiciary Committee Chair Dick Durbin, and
 Senate Finance Chair Ron Wyden are introducing major new legislation,
 the Fraud Prevention and Recovery Act—modeled on President Biden’s
 [Sweeping Pandemic Anti-Fraud
-Proposal](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/)
+Proposal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-sweeping-pandemic-anti-fraud-proposal-going-after-systemic-fraud-taking-on-identity-theft-helping-victims/)
 highlighted in the [Fiscal Year (FY) 2025
-Budget](https://www.whitehouse.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)—to
+Budget](https://bidenwhitehouse.archives.gov/omb/briefing-room/2024/03/11/fact-sheet-the-presidents-budget-for-fiscal-year-2025/)—to
 crack down on systemic pandemic fraud across government programs and
 help victims of identity theft recover.
 
@@ -112,7 +112,7 @@ That’s why this legislation:
     Peters-Durbin-Wyden legislation proposed today, Senate Finance
     Committee Chair Ron Wyden and Ranking Member Mike Crapo [introduced
     a bipartisan legislative
-    framework](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/statement-from-senior-advisor-and-american-rescue-plan-coordinator-gene-sperling/)
+    framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/statement-from-senior-advisor-and-american-rescue-plan-coordinator-gene-sperling/)
     that, like the President’s March 2023 Anti-Fraud proposal, would
     extend the statute of limitation to 10 years. This proposal was also
     highlighted in the President’s FY 2025 budget. It will provide

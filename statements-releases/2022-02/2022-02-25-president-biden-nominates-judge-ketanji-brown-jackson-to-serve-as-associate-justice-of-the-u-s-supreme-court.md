@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-25'
 modified_time: 2022-02-25 13:39:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/25/president-biden-nominates-judge-ketanji-brown-jackson-to-serve-as-associate-justice-of-the-u-s-supreme-court/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/25/president-biden-nominates-judge-ketanji-brown-jackson-to-serve-as-associate-justice-of-the-u-s-supreme-court/
 published_time: 2022-02-25 10:04:58-05:00
 title: "President\_Biden Nominates Judge Ketanji Brown Jackson to Serve as Associate\
   \ Justice of the U.S. Supreme\_Court"

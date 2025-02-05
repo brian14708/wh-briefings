@@ -1,7 +1,7 @@
 ---
 date: '2024-11-04'
 published_time: 2024-11-04 08:15:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/04/statement-by-president-joe-biden-on-moldovas-presidential-elections/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/04/statement-by-president-joe-biden-on-moldovas-presidential-elections/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Moldova\u2019s Presidential\_Elections"
 ---

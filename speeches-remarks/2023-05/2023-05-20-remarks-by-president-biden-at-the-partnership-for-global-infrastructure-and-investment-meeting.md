@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 06:25:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-at-the-partnership-for-global-infrastructure-and-investment-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/20/remarks-by-president-biden-at-the-partnership-for-global-infrastructure-and-investment-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the Partnership for Global Infrastructure and\
   \ Investment\_Meeting"

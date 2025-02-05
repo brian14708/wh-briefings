@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-19 13:04:37-04:00
 published_time: 2023-09-19 18:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-msci-sustainability-institute-launch-during-climate-week-nyc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/remarks-as-prepared-for-delivery-by-nec-director-lael-brainard-at-the-msci-sustainability-institute-launch-during-climate-week-nyc/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by NEC Director Lael Brainard at the MSCI\
   \ Sustainability Institute Launch During Climate Week\_NYC"
@@ -141,7 +141,7 @@ zero and meet our climate goals. Thank you.
 \[2\] <https://rhg.com/research/clean-investment-monitor/>
 
 \[3\]
-<https://www.whitehouse.gov/wp-content/uploads/2022/12/Inflation-Reduction-Act-Guidebook.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/Inflation-Reduction-Act-Guidebook.pdf>
 
 \[4\] <https://www.ctvc.co/climate-tech-h1-2023-venture-funding/>
 
@@ -150,7 +150,7 @@ zero and meet our climate goals. Thank you.
 \[6\] <https://www.energy.gov/lpo/advanced-clean-energy-storage>
 
 \[7\]
-<https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/17/what-they-are-saying-one-year-anniversary-of-the-inflation-reduction-act/>
+<https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/17/what-they-are-saying-one-year-anniversary-of-the-inflation-reduction-act/>
 
 \[8\]
 <https://home.treasury.gov/news/featured-stories/the-inflation-reduction-act-and-us-business-investment>

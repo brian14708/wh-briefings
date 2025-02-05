@@ -2,7 +2,7 @@
 date: '2023-11-14'
 modified_time: 2023-11-14 16:30:36-05:00
 published_time: 2023-11-14 16:30:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/statement-from-press-secretary-karine-jean-pierre-announcing-the-next-white-house-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/statement-from-press-secretary-karine-jean-pierre-announcing-the-next-white-house-tribal-nations-summit/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre Announcing the Next White\_\
   House Tribal Nations\_Summit"

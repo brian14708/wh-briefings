@@ -1,7 +1,7 @@
 ---
 date: '2023-09-18'
 published_time: 2023-09-18 10:33:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/18/statement-from-president-joe-biden-on-the-return-of-american-detainees-from-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/18/statement-from-president-joe-biden-on-the-return-of-american-detainees-from-iran/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Return of American Detainees from\_\
   Iran"

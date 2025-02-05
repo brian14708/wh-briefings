@@ -2,7 +2,7 @@
 date: '2023-09-11'
 modified_time: 2023-09-11 12:17:38-04:00
 published_time: 2023-09-11 12:17:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-at-roundtable-meeting-with-ceos/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/11/remarks-by-president-biden-at-roundtable-meeting-with-ceos/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Roundtable Meeting with\_CEOs"
 ---

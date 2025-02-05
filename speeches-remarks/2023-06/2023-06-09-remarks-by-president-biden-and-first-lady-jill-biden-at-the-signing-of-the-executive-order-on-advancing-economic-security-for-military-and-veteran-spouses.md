@@ -1,7 +1,7 @@
 ---
 date: '2023-06-09'
 published_time: 2023-06-09 17:43:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/09/remarks-by-president-biden-and-first-lady-jill-biden-at-the-signing-of-the-executive-order-on-advancing-economic-security-for-military-and-veteran-spouses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/09/remarks-by-president-biden-and-first-lady-jill-biden-at-the-signing-of-the-executive-order-on-advancing-economic-security-for-military-and-veteran-spouses/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden at the Signing of the\
   \ Executive Order on Advancing Economic Security for Military and Veteran\_Spouses"

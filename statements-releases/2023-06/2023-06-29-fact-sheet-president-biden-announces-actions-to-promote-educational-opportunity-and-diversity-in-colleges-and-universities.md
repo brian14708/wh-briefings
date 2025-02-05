@@ -2,7 +2,7 @@
 date: '2023-06-29'
 modified_time: 2023-06-30 17:42:34-04:00
 published_time: 2023-06-29 13:01:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-president-biden-announces-actions-to-promote-educational-opportunity-and-diversity-in-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/29/fact-sheet-president-biden-announces-actions-to-promote-educational-opportunity-and-diversity-in-colleges-and-universities/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Actions to Promote Educational Opportunity\
   \ and Diversity in Colleges and\_Universities"

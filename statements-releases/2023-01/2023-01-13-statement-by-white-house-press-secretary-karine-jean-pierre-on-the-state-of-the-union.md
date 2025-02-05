@@ -1,7 +1,7 @@
 ---
 date: '2023-01-13'
 published_time: 2023-01-13 13:52:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/13/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-state-of-the-union/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/13/statement-by-white-house-press-secretary-karine-jean-pierre-on-the-state-of-the-union/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on the State\
   \ of the\_Union"

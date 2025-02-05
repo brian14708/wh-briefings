@@ -2,7 +2,7 @@
 date: '2022-05-19'
 modified_time: 2022-05-19 10:15:26-04:00
 published_time: 2022-05-19 10:14:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/statement-from-president-joe-biden-on-unemployment-insurance-claims-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/statement-from-president-joe-biden-on-unemployment-insurance-claims-7/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Unemployment Insurance\_Claims"
 ---

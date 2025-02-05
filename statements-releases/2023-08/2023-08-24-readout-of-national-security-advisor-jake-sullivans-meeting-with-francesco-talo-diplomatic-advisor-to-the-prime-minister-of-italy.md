@@ -1,7 +1,7 @@
 ---
 date: '2023-08-24'
 published_time: 2023-08-24 16:46:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/24/readout-of-national-security-advisor-jake-sullivans-meeting-with-francesco-talo-diplomatic-advisor-to-the-prime-minister-of-italy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/24/readout-of-national-security-advisor-jake-sullivans-meeting-with-francesco-talo-diplomatic-advisor-to-the-prime-minister-of-italy/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Francesco\
   \ Talo, Diplomatic Advisor to the Prime Minister of\_Italy"

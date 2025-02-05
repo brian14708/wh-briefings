@@ -2,7 +2,7 @@
 date: '2022-11-20'
 modified_time: 2022-11-20 03:59:44-05:00
 published_time: 2022-11-20 03:59:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/readout-of-vice-president-harriss-roundtable-discussion-with-environmental-and-clean-energy-leaders-in-thailand/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/20/readout-of-vice-president-harriss-roundtable-discussion-with-environmental-and-clean-energy-leaders-in-thailand/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Roundtable Discussion with Environmental\
   \ and Clean Energy Leaders in\_Thailand"

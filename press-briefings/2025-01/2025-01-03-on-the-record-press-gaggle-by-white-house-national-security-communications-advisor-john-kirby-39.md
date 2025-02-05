@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 18:38:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2025/01/03/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-39/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2025/01/03/on-the-record-press-gaggle-by-white-house-national-security-communications-advisor-john-kirby-39/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by White\_House National Security Communications\
   \ Advisor John\_Kirby"

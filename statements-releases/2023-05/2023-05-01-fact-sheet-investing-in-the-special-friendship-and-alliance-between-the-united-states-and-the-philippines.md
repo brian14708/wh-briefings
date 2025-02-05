@@ -2,7 +2,7 @@
 date: '2023-05-01'
 modified_time: 2023-05-01 18:33:15-04:00
 published_time: 2023-05-01 16:51:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-investing-in-the-special-friendship-and-alliance-between-the-united-states-and-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/01/fact-sheet-investing-in-the-special-friendship-and-alliance-between-the-united-states-and-the-philippines/
 tags: statements-releases
 title: "FACT SHEET: Investing in the Special Friendship and Alliance Between the United\_\
   States and the\_Philippines"

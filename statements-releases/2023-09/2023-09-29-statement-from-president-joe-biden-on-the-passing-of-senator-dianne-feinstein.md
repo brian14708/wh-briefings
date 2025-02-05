@@ -2,7 +2,7 @@
 date: '2023-09-29'
 modified_time: 2023-09-29 10:12:16-04:00
 published_time: 2023-09-29 10:12:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/29/statement-from-president-joe-biden-on-the-passing-of-senator-dianne-feinstein/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/29/statement-from-president-joe-biden-on-the-passing-of-senator-dianne-feinstein/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Senator Dianne\_Feinstein"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-12-07'
 published_time: 2022-12-07 15:21:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/07/remarks-by-vice-president-harris-and-prime-minister-simonyte-of-lithuania-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/07/remarks-by-vice-president-harris-and-prime-minister-simonyte-of-lithuania-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister \u0160imonyt\u0117 of\
   \ Lithuania Before Bilateral\_Meeting"

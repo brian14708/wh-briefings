@@ -2,7 +2,7 @@
 date: '2024-01-18'
 modified_time: 2024-01-18 16:00:40-05:00
 published_time: 2024-01-18 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/18/president-biden-announces-key-appointments-to-boards-and-commissions-32/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/18/president-biden-announces-key-appointments-to-boards-and-commissions-32/
 tags: statements-releases
 title: "President\_Biden Announces Key Appointments to Boards and\_Commissions"
 ---

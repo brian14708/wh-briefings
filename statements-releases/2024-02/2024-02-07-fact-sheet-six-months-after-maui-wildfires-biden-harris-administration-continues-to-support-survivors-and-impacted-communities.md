@@ -2,7 +2,7 @@
 date: '2024-02-07'
 modified_time: 2024-02-07 14:25:17-05:00
 published_time: 2024-02-07 14:25:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/07/fact-sheet-six-months-after-maui-wildfires-biden-harris-administration-continues-to-support-survivors-and-impacted-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/07/fact-sheet-six-months-after-maui-wildfires-biden-harris-administration-continues-to-support-survivors-and-impacted-communities/
 tags: statements-releases
 title: "FACT SHEET: Six Months After Maui Wildfires, Biden-\u2060Harris Administration\
   \ Continues to Support Survivors and Impacted\_Communities"

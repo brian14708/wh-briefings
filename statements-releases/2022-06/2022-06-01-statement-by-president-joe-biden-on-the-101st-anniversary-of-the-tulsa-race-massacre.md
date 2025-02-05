@@ -1,7 +1,7 @@
 ---
 date: '2022-06-01'
 published_time: 2022-06-01 11:58:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/statement-by-president-joe-biden-on-the-101st-anniversary-of-the-tulsa-race-massacre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/statement-by-president-joe-biden-on-the-101st-anniversary-of-the-tulsa-race-massacre/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the 101st Anniversary of the Tulsa Race\_\
   Massacre"

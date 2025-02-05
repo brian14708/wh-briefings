@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-07-02'
 modified_time: 2021-07-02 13:10:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/02/remarks-by-president-biden-on-the-june-jobs-report/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/07/02/remarks-by-president-biden-on-the-june-jobs-report/
 published_time: 2021-07-02 13:10:43-04:00
 title: "Remarks by President\_Biden on the June Jobs\_Report"
 ---

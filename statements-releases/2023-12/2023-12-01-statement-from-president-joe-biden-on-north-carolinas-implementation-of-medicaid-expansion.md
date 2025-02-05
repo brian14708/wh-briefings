@@ -2,7 +2,7 @@
 date: '2023-12-01'
 modified_time: 2023-11-30 21:26:32-05:00
 published_time: 2023-12-01 07:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/01/statement-from-president-joe-biden-on-north-carolinas-implementation-of-medicaid-expansion/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/01/statement-from-president-joe-biden-on-north-carolinas-implementation-of-medicaid-expansion/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on North Carolina\u2019s Implementation\
   \ of Medicaid\_Expansion"

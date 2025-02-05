@@ -2,7 +2,7 @@
 date: '2022-09-27'
 modified_time: 2022-09-26 14:59:26-04:00
 published_time: 2022-09-27 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/the-white-house-announces-2022-fall-garden-tours/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/the-white-house-announces-2022-fall-garden-tours/
 tags: statements-releases
 title: "The White\_House Announces 2022 Fall Garden\_Tours"
 ---

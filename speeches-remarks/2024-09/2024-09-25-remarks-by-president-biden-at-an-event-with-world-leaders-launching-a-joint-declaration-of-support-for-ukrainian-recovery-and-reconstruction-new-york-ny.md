@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-26 09:54:53-04:00
 published_time: 2024-09-25 09:54:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-at-an-event-with-world-leaders-launching-a-joint-declaration-of-support-for-ukrainian-recovery-and-reconstruction-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/25/remarks-by-president-biden-at-an-event-with-world-leaders-launching-a-joint-declaration-of-support-for-ukrainian-recovery-and-reconstruction-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an Event with World Leaders Launching a Joint\
   \ Declaration of Support for Ukrainian Recovery and Reconstruction | New York,\_\

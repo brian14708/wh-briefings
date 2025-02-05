@@ -1,7 +1,7 @@
 ---
 date: '2022-04-05'
 published_time: 2022-04-05 16:51:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/05/remarks-by-president-biden-vice-president-harris-and-former-president-obama-on-the-affordable-care-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/05/remarks-by-president-biden-vice-president-harris-and-former-president-obama-on-the-affordable-care-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Vice President Harris, and Former President Obama\
   \ on the Affordable Care\_Act"

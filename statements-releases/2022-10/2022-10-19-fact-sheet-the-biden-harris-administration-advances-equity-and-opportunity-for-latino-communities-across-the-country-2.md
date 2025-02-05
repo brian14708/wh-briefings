@@ -2,7 +2,7 @@
 date: '2022-10-19'
 modified_time: 2022-10-24 16:58:24-04:00
 published_time: 2022-10-19 16:56:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-latino-communities-across-the-country-2/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Latino Communities Across the\_Country"
@@ -430,7 +430,7 @@ education for Latino students. These policies and programs include:
 -   **Re-Establishing the White House Initiative on Advancing
     Educational Equity, Excellence, and Economic Opportunity for
     Hispanics.** In September 2021, President Biden signed a [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/13/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/13/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for-hispanics/)
     re-establishing the White House Initiative on Advancing Educational
     Equity, Excellence, and Economic Opportunity for Hispanics. The
     Executive Order helps to ensure that from early childhood to
@@ -1062,7 +1062,7 @@ Bureau. 
 
 President Biden has assembled the most diverse Administration in our
 nation’s history, and is proud to serve alongside the [15
-percent](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/)
+percent](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/29/fact-sheet-100-days-in-biden-harris-administration-makes-history-with-presidential-appointees/)
 of all appointees who identify as Latino or Hispanic, and the 32 percent
 of all appointees who are naturalized citizens or the children of
 immigrants. 

@@ -1,7 +1,7 @@
 ---
 date: '2023-05-22'
 published_time: 2023-05-22 19:35:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/22/remarks-by-president-biden-before-meeting-with-speaker-mccarthy-to-discuss-the-debt-ceiling/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/22/remarks-by-president-biden-before-meeting-with-speaker-mccarthy-to-discuss-the-debt-ceiling/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Meeting with Speaker McCarthy to Discuss\
   \ the Debt\_Ceiling"

@@ -2,7 +2,7 @@
 date: '2024-12-29'
 modified_time: 2024-12-29 17:10:28-05:00
 published_time: 2024-12-29 17:09:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/29/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-former-president-jimmy-carter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/12/29/statement-by-president-joe-biden-and-first-lady-jill-biden-on-the-passing-of-former-president-jimmy-carter/
 tags: statements-releases
 title: "Statement by President Joe\_Biden and First Lady Jill\_Biden on the Passing\
   \ of Former President Jimmy\_Carter"

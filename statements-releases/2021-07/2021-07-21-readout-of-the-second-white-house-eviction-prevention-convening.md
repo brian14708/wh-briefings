@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-07-21'
 modified_time: 2021-08-05 14:52:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/21/readout-of-the-second-white-house-eviction-prevention-convening/
 published_time: 2021-07-21 19:51:43-04:00
 title: "Readout of the Second White\_House Eviction Prevention\_Convening"
 ---
@@ -12,7 +12,7 @@ quickly deliver emergency rental assistance and develop plans to prevent
 evictions. The convening highlighted actions taken by cities since the
 first summit on June 30<sup>th</sup> and is part of the Biden-Harris
 Administration’s [broader
-efforts](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
+efforts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/24/fact-sheet-biden-harris-administration-announces-initiatives-to-promote-housing-stability-by-supporting-vulnerable-tenants-and-preventing-foreclosures/)
 to ensure state and local governments disburse the more than $46 billion
 dollars in Emergency Rental Assistance (ERA) made available to them to
 assist households in need. Today, Treasury released [new
@@ -42,7 +42,7 @@ strategies for community and landlord engagement.
 
 Today’s convening builds upon the June 30<sup>th</sup> [White House
 Eviction Prevention
-Summit](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/)
+Summit](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/readout-of-the-white-house-eviction-prevention-summit/)
 which brought together teams from 46 cities to commit to take swift
 action to prevent evictions in their jurisdictions.
 

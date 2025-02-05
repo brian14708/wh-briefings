@@ -2,7 +2,7 @@
 date: '2023-01-30'
 modified_time: 2023-01-30 06:18:35-05:00
 published_time: 2023-01-30 06:18:34-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Kicks off Major Baltimore Rail Tunnel Project\
   \ Funded by Bipartisan Infrastructure\_Law"

@@ -1,7 +1,7 @@
 ---
 date: '2022-07-25'
 published_time: 2022-07-25 10:48:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/25/proclamation-on-the-anniversary-of-the-americans-with-disabilities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/25/proclamation-on-the-anniversary-of-the-americans-with-disabilities-act/
 tags: statements-releases
 title: "Proclamation on the Anniversary Of The Americans With Disabilities\_Act"
 ---

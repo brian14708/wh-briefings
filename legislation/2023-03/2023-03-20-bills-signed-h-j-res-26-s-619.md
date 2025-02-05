@@ -2,7 +2,7 @@
 date: '2023-03-20'
 modified_time: 2023-03-20 17:00:09-04:00
 published_time: 2023-03-20 17:00:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/03/20/bills-signed-h-j-res-26-s-619/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/03/20/bills-signed-h-j-res-26-s-619/
 tags: legislation
 title: "Bills Signed: H.J.Res. 26, S.\_619"
 ---

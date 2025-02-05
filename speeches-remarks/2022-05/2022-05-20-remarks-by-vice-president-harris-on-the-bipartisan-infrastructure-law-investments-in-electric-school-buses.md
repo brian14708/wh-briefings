@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-21 11:10:14-04:00
 published_time: 2022-05-20 11:08:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-vice-president-harris-on-the-bipartisan-infrastructure-law-investments-in-electric-school-buses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/20/remarks-by-vice-president-harris-on-the-bipartisan-infrastructure-law-investments-in-electric-school-buses/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Bipartisan Infrastructure Law Investments\
   \ in Electric School\_Buses"

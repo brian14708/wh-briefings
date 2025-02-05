@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 16:18:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/30/statement-from-president-joe-biden-on-christian-l-tom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/statement-from-president-joe-biden-on-christian-l-tom/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Christian L.\_Tom"
 ---

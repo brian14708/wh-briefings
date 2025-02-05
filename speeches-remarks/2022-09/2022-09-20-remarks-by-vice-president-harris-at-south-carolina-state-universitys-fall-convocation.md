@@ -1,7 +1,7 @@
 ---
 date: '2022-09-20'
 published_time: 2022-09-20 18:00:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/20/remarks-by-vice-president-harris-at-south-carolina-state-universitys-fall-convocation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/20/remarks-by-vice-president-harris-at-south-carolina-state-universitys-fall-convocation/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at South Carolina State University\u2019\
   s Fall\_Convocation"

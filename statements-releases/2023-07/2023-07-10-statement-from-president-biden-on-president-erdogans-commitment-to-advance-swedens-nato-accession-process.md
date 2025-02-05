@@ -1,7 +1,7 @@
 ---
 date: '2023-07-10'
 published_time: 2023-07-10 15:49:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/10/statement-from-president-biden-on-president-erdogans-commitment-to-advance-swedens-nato-accession-process/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/10/statement-from-president-biden-on-president-erdogans-commitment-to-advance-swedens-nato-accession-process/
 tags: statements-releases
 title: "Statement from President\_Biden on President Erdo\u011Fan\u2019s Commitment\
   \ to Advance Sweden\u2019s NATO Accession\_Process"

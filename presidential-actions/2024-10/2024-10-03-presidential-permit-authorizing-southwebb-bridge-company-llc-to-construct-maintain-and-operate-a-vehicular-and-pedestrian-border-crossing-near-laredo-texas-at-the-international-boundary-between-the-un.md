@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 11:16:06-04:00
 published_time: 2024-10-03 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/03/presidential-permit-authorizing-southwebb-bridge-company-llc-to-construct-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-near-laredo-texas-at-the-international-boundary-between-the-un/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/03/presidential-permit-authorizing-southwebb-bridge-company-llc-to-construct-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-near-laredo-texas-at-the-international-boundary-between-the-un/
 tags: presidential-actions
 title: "PRESIDENTIAL PERMIT AUTHORIZING SOUTHWEBB BRIDGE COMPANY LLC TO CONSTRUCT,\
   \ MAINTAIN, AND OPERATE A VEHICULAR AND PEDESTRIAN BORDER CROSSING NEAR LAREDO,\

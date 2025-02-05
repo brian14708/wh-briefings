@@ -2,7 +2,7 @@
 date: '2024-09-25'
 modified_time: 2024-09-24 22:43:13-04:00
 published_time: 2024-09-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-new-report-shows-4-2-million-entrepreneurs-get-health-insurance-through-the-aca-marketplaces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/25/fact-sheet-new-report-shows-4-2-million-entrepreneurs-get-health-insurance-through-the-aca-marketplaces/
 tags: statements-releases
 title: "FACT SHEET: New Report Shows 4.2 Million Entrepreneurs Get Health Insurance\
   \ Through the ACA\_Marketplaces"

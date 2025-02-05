@@ -2,7 +2,7 @@
 date: '2023-05-18'
 modified_time: 2023-05-17 22:55:51-04:00
 published_time: 2023-05-18 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/fact-sheet-biden-harris-administration-announces-new-actions-to-tackle-nations-mental-health-crisis/
 tags: statements-releases
 title: "Fact Sheet: Biden-\u2060Harris Administration Announces New Actions to Tackle\
   \ Nation\u2019s Mental Health\_Crisis"
@@ -12,7 +12,7 @@ title: "Fact Sheet: Biden-\u2060Harris Administration Announces New Actions to T
 lifeline and new resources for school-based mental health services***
 
 This [Mental Health Awareness
-Month](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/28/a-proclamation-on-national-mental-health-awareness-month-2023/#:~:text=During%20National%20Mental%20Health%20Awareness,there%20for%20them%20every%20day.),
+Month](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/28/a-proclamation-on-national-mental-health-awareness-month-2023/#:~:text=During%20National%20Mental%20Health%20Awareness,there%20for%20them%20every%20day.),
 we honor all those experiencing mental health challenges and celebrate
 the mental health professionals, families, and caregivers who support
 them. It is clear that our country is facing an unprecedented mental
@@ -28,7 +28,7 @@ Administration is firmly committed to addressing this crisis.
 
 As part of his Unity Agenda, President Biden released a [comprehensive
 national
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) to
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/) to
 transform how mental health is understood, accessed, treated, and
 integrated in and out of health care settings. Across the federal
 government, thanks to the President’s American Rescue Plan (ARP) and
@@ -172,7 +172,7 @@ proactively seek support and resources.
 
 **Deliver mental health services to caregivers.** To help address the
 stress of family caregiving, this month, VA launched a [pilot
-program](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
+program](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/18/executive-order-on-increasing-access-to-high-quality-care-and-supporting-caregivers/)
 to provide mental health services to caregivers enrolled in the Program
 of Comprehensive Assistance for Family Caregivers. This new program will
 address the unique mental health needs of veteran caregivers by
@@ -254,13 +254,13 @@ systems, and other child and youth-serving organizations.
 
 **Launch public call-to-action to support research.** This month, the
 White House Office of Science and Technology Policy
-[called](https://www.whitehouse.gov/ostp/news-updates/2023/05/05/a-call-to-action-during-mental-health-awareness-month/)
+[called](https://bidenwhitehouse.archives.gov/ostp/news-updates/2023/05/05/a-call-to-action-during-mental-health-awareness-month/)
 on non-profit organizations, advocacy groups, academic institutions,
 companies, and other research funders to share their actions and
 collaborations to help advance national mental health research
 priorities. This builds on the first-of-its-kind [White House Report on
 Mental Health Research
-Priorities](https://www.whitehouse.gov/wp-content/uploads/2023/02/White-House-Report-on-Mental-Health-Research-Priorities.pdf),
+Priorities](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/02/White-House-Report-on-Mental-Health-Research-Priorities.pdf),
 which outlined a set of critical and timely needs and opportunities in
 mental health research.
 

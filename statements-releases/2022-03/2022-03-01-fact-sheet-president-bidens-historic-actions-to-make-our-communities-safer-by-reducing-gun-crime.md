@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-01'
 modified_time: 2022-03-01 18:46:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-bidens-historic-actions-to-make-our-communities-safer-by-reducing-gun-crime/
 published_time: 2022-03-01 18:44:48-05:00
 title: "Fact Sheet: President\_Biden\u2019s Historic Actions to Make Our Communities\
   \ Safer by Reducing Gun\_Crime"
@@ -85,7 +85,7 @@ STRATEGY**
 
 President Biden spent his first year in office executing on his
 [five-part comprehensive
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
 make our communities safer and reduce gun crime, which:
 
 -   Stems the flow of firearms used to commit violence,
@@ -102,15 +102,15 @@ Administration made more progress on executive actions to reduce gun
 violence than any other Administration has in its first year. Since
 taking office, President Biden has announced four packages of executive
 actions – [an initial set of
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-biden-harris-administration-announces-initial-actions-to-address-the-gun-violence-public-health-epidemic/)
 during a Rose Garden address in April, [a comprehensive gun crime
 reduction
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/),
 [steps to promote safe storage of
-firearms](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/),
+firearms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/02/fact-sheet-biden-administration-takes-steps-to-prevent-suicide-including-by-promoting-safe-storage-of-firearms/),
 and [additional Justice Department actions to enforce our gun laws and
 keep guns out of dangerous
-hands](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/).
+hands](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/02/03/president-biden-announces-more-actions-to-reduce-gun-crime-and-calls-on-congress-to-fund-community-policing-and-community-violence-intervention/).
 These executive actions represent a whole-of-government approach,
 mobilizing the Departments of Justice, Veterans Affairs, Defense,
 Transportation, Health and Human Services, Labor, Homeland Security,
@@ -320,7 +320,7 @@ state lawmakers stepped up.”
 
 **Using the White House’s convening power to support community violence
 interventions.** In July 2021, senior White House staff
-[established](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)
+[established](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/16/readout-of-first-meeting-of-white-house-community-violence-intervention-collaborative/)
 The White House Community Violence Intervention Collaborative, a
 16-jurisdiction cohort of mayors, law enforcement, CVI experts, and
 philanthropic leaders committed to using American Rescue Plan funding or

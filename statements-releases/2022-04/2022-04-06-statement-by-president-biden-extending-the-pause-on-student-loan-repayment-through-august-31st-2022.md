@@ -2,7 +2,7 @@
 date: '2022-04-06'
 modified_time: 2022-04-05 23:15:58-04:00
 published_time: 2022-04-06 10:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/06/statement-by-president-biden-extending-the-pause-on-student-loan-repayment-through-august-31st-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/06/statement-by-president-biden-extending-the-pause-on-student-loan-repayment-through-august-31st-2022/
 tags: statements-releases
 title: "Statement by President\_Biden Extending the Pause on Student Loan Repayment\
   \ Through August 31st,\_2022"

@@ -2,7 +2,7 @@
 date: '2024-04-24'
 modified_time: 2024-04-24 13:39:31-04:00
 published_time: 2024-04-24 13:39:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-wounded-warrior-project-soldier-ride/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-wounded-warrior-project-soldier-ride/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the Wounded\
   \ Warrior Project Soldier\_Ride"

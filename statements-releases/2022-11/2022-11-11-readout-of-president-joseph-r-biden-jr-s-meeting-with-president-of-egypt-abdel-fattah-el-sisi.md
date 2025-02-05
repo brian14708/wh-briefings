@@ -2,7 +2,7 @@
 date: '2022-11-11'
 modified_time: 2022-11-11 11:25:36-05:00
 published_time: 2022-11-11 11:25:35-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/11/readout-of-president-joseph-r-biden-jr-s-meeting-with-president-of-egypt-abdel-fattah-el-sisi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/11/readout-of-president-joseph-r-biden-jr-s-meeting-with-president-of-egypt-abdel-fattah-el-sisi/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr.\u2019s\_Meeting with President of\
   \ Egypt Abdel Fattah\_El-Sisi"

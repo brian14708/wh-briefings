@@ -2,7 +2,7 @@
 date: '2022-07-15'
 modified_time: 2022-07-15 09:31:03-04:00
 published_time: 2022-07-15 09:31:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/15/remarks-by-president-biden-at-east-jerusalem-hospital-network-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/15/remarks-by-president-biden-at-east-jerusalem-hospital-network-event/
 tags: press-briefings
 title: "Remarks by President\_Biden at East Jerusalem Hospital Network\_Event"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-22'
 published_time: 2023-02-22 18:19:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/22/remarks-by-vice-president-harris-at-hud-mortgage-announcement-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/22/remarks-by-vice-president-harris-at-hud-mortgage-announcement-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at HUD Mortgage Announcement\_Event"
 ---

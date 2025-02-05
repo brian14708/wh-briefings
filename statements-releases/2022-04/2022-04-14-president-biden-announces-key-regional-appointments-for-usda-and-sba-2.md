@@ -2,7 +2,7 @@
 date: '2022-04-14'
 modified_time: 2022-04-14 10:34:45-04:00
 published_time: 2022-04-14 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/14/president-biden-announces-key-regional-appointments-for-usda-and-sba-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/14/president-biden-announces-key-regional-appointments-for-usda-and-sba-2/
 tags: statements-releases
 title: "President\_Biden Announces Key Regional Appointments for USDA and\_SBA"
 ---

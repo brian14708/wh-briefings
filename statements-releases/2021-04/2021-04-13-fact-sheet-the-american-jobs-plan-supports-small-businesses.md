@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-13'
 modified_time: 2021-04-13 09:42:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-the-american-jobs-plan-supports-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/13/fact-sheet-the-american-jobs-plan-supports-small-businesses/
 published_time: 2021-04-13 11:30:00-04:00
 title: "FACT SHEET: The American Jobs Plan Supports Small\_Businesses"
 ---
@@ -73,6 +73,6 @@ United States and pay a lower tax rate than small businesses.
 
   
 *To view this fact sheet in your browser,
-click [here](https://www.whitehouse.gov/wp-content/uploads/2021/04/AJP-Small-Business-Fact-Sheet.pdf).* 
+click [here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/04/AJP-Small-Business-Fact-Sheet.pdf).* 
 
 \###

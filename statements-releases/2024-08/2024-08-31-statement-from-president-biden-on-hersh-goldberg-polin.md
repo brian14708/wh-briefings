@@ -1,7 +1,7 @@
 ---
 date: '2024-08-31'
 published_time: 2024-08-31 23:26:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/31/statement-from-president-biden-on-hersh-goldberg-polin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/31/statement-from-president-biden-on-hersh-goldberg-polin/
 tags: statements-releases
 title: "Statement from President\_Biden on Hersh Goldberg-Polin"
 ---

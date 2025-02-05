@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-10-31 23:29:30-04:00
 published_time: 2022-11-01 03:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-u-s-uae-partnership-to-accelerate-transition-to-clean-energy-pace/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-u-s-uae-partnership-to-accelerate-transition-to-clean-energy-pace/
 tags: statements-releases
 title: "FACT SHEET: U.S.-UAE Partnership to Accelerate Transition to Clean Energy\_\
   (PACE)"

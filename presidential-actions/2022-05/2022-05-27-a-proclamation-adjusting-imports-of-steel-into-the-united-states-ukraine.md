@@ -1,7 +1,7 @@
 ---
 date: '2022-05-27'
 published_time: 2022-05-27 17:23:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/27/a-proclamation-adjusting-imports-of-steel-into-the-united-states-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/27/a-proclamation-adjusting-imports-of-steel-into-the-united-states-ukraine/
 tags: presidential-actions
 title: "A Proclamation: Adjusting Imports of Steel Into the United\_States\_(Ukraine)"
 ---

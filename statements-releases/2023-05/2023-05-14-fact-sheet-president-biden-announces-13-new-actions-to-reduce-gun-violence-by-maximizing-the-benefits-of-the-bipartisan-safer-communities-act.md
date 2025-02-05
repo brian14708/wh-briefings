@@ -1,7 +1,7 @@
 ---
 date: '2023-05-14'
 published_time: 2023-05-14 08:06:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/14/fact-sheet-president-biden-announces-13-new-actions-to-reduce-gun-violence-by-maximizing-the-benefits-of-the-bipartisan-safer-communities-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/14/fact-sheet-president-biden-announces-13-new-actions-to-reduce-gun-violence-by-maximizing-the-benefits-of-the-bipartisan-safer-communities-act/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces 13 New Actions to Reduce Gun Violence\
   \ by Maximizing the Benefits of the Bipartisan Safer Communities\_Act"
@@ -18,7 +18,7 @@ so many other acts of gun violence, President Biden worked with Congress
 to break a 30-year congressional logjam and enact BSCA.  
   
 On March 14, 2023, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/14/executive-order-on-reducing-gun-violence-and-making-our-communities-safer/)
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/14/executive-order-on-reducing-gun-violence-and-making-our-communities-safer/)
 directing key members of his Cabinet to each submit to him, within 60
 days, a report summarizing their progress toward full implementation of
 BSCA. The President also directed his Cabinet to outline steps they are

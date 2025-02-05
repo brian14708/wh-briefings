@@ -2,7 +2,7 @@
 date: '2024-04-23'
 modified_time: 2024-04-23 17:26:53-04:00
 published_time: 2024-04-23 16:57:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/readout-of-vice-president-harriss-call-with-president-herzog-of-israel-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/readout-of-vice-president-harriss-call-with-president-herzog-of-israel-4/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Call with President Herzog of\_Israel"
 ---

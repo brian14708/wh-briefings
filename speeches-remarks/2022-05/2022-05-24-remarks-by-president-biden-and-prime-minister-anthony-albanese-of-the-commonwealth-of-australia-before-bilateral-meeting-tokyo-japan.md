@@ -2,7 +2,7 @@
 date: '2022-05-24'
 modified_time: 2022-05-24 07:26:11-04:00
 published_time: 2022-05-24 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-the-commonwealth-of-australia-before-bilateral-meeting-tokyo-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/24/remarks-by-president-biden-and-prime-minister-anthony-albanese-of-the-commonwealth-of-australia-before-bilateral-meeting-tokyo-japan/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Anthony Albanese of the Commonwealth\
   \ of Australia Before Bilateral Meeting | Tokyo,\_Japan"

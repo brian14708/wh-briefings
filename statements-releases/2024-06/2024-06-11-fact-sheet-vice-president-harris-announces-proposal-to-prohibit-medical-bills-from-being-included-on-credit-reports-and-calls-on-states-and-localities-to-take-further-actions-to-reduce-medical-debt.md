@@ -2,7 +2,7 @@
 date: '2024-06-11'
 modified_time: 2024-06-11 14:56:22-04:00
 published_time: 2024-06-11 14:55:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/11/fact-sheet-vice-president-harris-announces-proposal-to-prohibit-medical-bills-from-being-included-on-credit-reports-and-calls-on-states-and-localities-to-take-further-actions-to-reduce-medical-debt/
 tags: statements-releases
 title: "FACT SHEET: Vice President Harris Announces Proposal to Prohibit Medical Bills\
   \ from Being Included on Credit Reports and Calls on States and Localities to Take\
@@ -212,7 +212,7 @@ has already made to lower health care costs and address the negative
 impacts of medical debt, including:
 
 -   The Department of Veterans Affairs (VA) implemented [a streamlined
-    process](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/#:~:text=VA%20will%20streamline%20the%20request%20process%20and%20set,effect%20in%20the%20next%2090%20to%20120%20days.)
+    process](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-supporting-veterans-experiencing-financial-hardship-and-addressing-the-harmful-effects-of-military-environmental-exposures/#:~:text=VA%20will%20streamline%20the%20request%20process%20and%20set,effect%20in%20the%20next%2090%20to%20120%20days.)
     to make it easier and faster for lower-income veterans to get their
     VA medical debt forgiven, already providing relief to over 10,000
     veterans and saved them more than $10 million in copay debt.  
@@ -229,7 +229,7 @@ impacts of medical debt, including:
     consideration of medical debt.  
 -   The White House Office of Management and Budget (OMB) issued
     memorandum
-    [M-22-17](https://www.whitehouse.gov/wp-content/uploads/2022/08/M-22-17.pdf)
+    [M-22-17](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/M-22-17.pdf)
     to direct agencies to reduce the impact of medical debt in the
     underwriting of Federal credit programs, helping to spur the actions
     by VA, FHFA, and SBA listed above.
@@ -243,30 +243,30 @@ products.
 
 -   The Departments of Health and Human Services, Labor, and Treasury
     have prioritized implementing [surprise billing
-    protections](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/),
+    protections](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/),
     preventing 1 million Americans from receiving surprise medical bills
     every single month.  
 -   As a part of the Inflation Reduction Act, President Biden [capped
     the cost of insulin at
-    $35](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/#:~:text=Eli%20Lilly%20announced%20they%20are%20lowering%20the%20cost,diabetes%20in%20all%20fifty%20states%20and%20U.S.%20territories.)
+    $35](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-bidens-cap-on-the-cost-of-insulin-could-benefit-millions-of-americans-in-all-50-states/#:~:text=Eli%20Lilly%20announced%20they%20are%20lowering%20the%20cost,diabetes%20in%20all%20fifty%20states%20and%20U.S.%20territories.)
     and capped out-of-pocket prescription drug costs at $2,000 annually
     starting in 2025 for seniors and others with Medicare. Since taking
     these actions, President Biden has called on Congress [to expand
     these
-    caps](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/#:~:text=Expand%20Cap%20on%20Out%2Dof%2DPocket%20Prescription%20Drug%20Costs.&text=The%20President%20is%20calling%20on,putting%20food%20on%20the%20table.)
+    caps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/06/fact-sheet-president-biden-takes-new-steps-to-lower-prescription-drug-and-health-care-costs-expand-access-to-health-care-and-protect-consumers/#:~:text=Expand%20Cap%20on%20Out%2Dof%2DPocket%20Prescription%20Drug%20Costs.&text=The%20President%20is%20calling%20on,putting%20food%20on%20the%20table.)
     to cover all Americans.  
 -   President Biden has [called on
-    states](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/)
+    states](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/10/fact-sheet-biden-harris-administration-lowers-health-care-costs/)
     to close the Medicaid coverage gap and create new pathways to health
     coverage by expanding Medicaid under the Affordable Care Act.  
 -   The Biden-Harris Administration
-    [issued](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/#:~:text=Under%20the%20new%20rules%2C%20new%20plans%20that%20claim,they%20in%20fact%20provided%20little%20to%20no%20coverage.)
+    [issued](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/28/fact-sheet-president-biden-announces-new-landmark-rule-to-protect-americans-from-junk-health-insurance/#:~:text=Under%20the%20new%20rules%2C%20new%20plans%20that%20claim,they%20in%20fact%20provided%20little%20to%20no%20coverage.)
     a final rule that protects consumers from junk health insurance and
     makes sure Americans aren’t scammed into low-quality coverage that
     leaves consumers on the hook for thousands of dollars in medical
     bills.  
 -   The White House [convened state and local
-    leaders](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/)
+    leaders](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-the-white-house-state-convening-on-medical-debt/)
     to discuss initiatives to further lower health care costs and reduce
     the burden of medical debt, including addressing medical payment
     products, unfair debt collection practices, surprise billing and

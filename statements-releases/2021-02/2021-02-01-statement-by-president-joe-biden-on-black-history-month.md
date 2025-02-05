@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-02-01'
 modified_time: 2021-02-01 19:24:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/01/statement-by-president-joe-biden-on-black-history-month/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/02/01/statement-by-president-joe-biden-on-black-history-month/
 published_time: 2021-02-01 19:24:14-05:00
 title: "Statement by President Joe\_Biden On Black History\_Month"
 ---

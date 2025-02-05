@@ -2,7 +2,7 @@
 date: '2024-02-22'
 modified_time: 2024-02-22 14:44:22-05:00
 published_time: 2024-02-22 14:44:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/22/readout-of-president-bidens-meeting-with-yulia-navalnaya-and-dasha-navalnaya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/22/readout-of-president-bidens-meeting-with-yulia-navalnaya-and-dasha-navalnaya/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Yulia Navalnaya and Dasha\_\
   Navalnaya"

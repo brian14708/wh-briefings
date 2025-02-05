@@ -2,7 +2,7 @@
 date: '2024-03-08'
 modified_time: 2024-03-11 14:58:34-05:00
 published_time: 2024-03-08 22:54:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-vice-president-harris-during-the-fight-for-reproductive-freedoms-tour-phoenix-az/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/08/remarks-by-vice-president-harris-during-the-fight-for-reproductive-freedoms-tour-phoenix-az/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris During the \u201CFight for Reproductive Freedoms\u201D\
   \ Tour | Phoenix,\_AZ"

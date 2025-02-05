@@ -2,7 +2,7 @@
 date: '2023-01-15'
 modified_time: 2023-01-15 04:07:15-05:00
 published_time: 2023-01-15 04:07:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/15/president-joseph-r-biden-jr-approves-alabama-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/15/president-joseph-r-biden-jr-approves-alabama-disaster-declaration-3/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Alabama Disaster\_Declaration"
 ---

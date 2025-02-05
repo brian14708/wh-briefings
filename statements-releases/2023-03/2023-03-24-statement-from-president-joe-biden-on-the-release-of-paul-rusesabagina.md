@@ -2,7 +2,7 @@
 date: '2023-03-24'
 modified_time: 2023-03-24 20:25:26-04:00
 published_time: 2023-03-24 20:25:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/statement-from-president-joe-biden-on-the-release-of-paul-rusesabagina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/statement-from-president-joe-biden-on-the-release-of-paul-rusesabagina/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Release of Paul\_Rusesabagina"
 ---

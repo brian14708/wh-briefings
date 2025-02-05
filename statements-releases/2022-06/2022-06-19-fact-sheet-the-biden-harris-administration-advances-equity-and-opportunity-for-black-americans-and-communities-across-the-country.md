@@ -2,7 +2,7 @@
 date: '2022-06-19'
 modified_time: 2022-06-19 15:57:47-04:00
 published_time: 2022-06-19 15:57:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/19/fact-sheet-the-biden-harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET:  The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black Americans and Communities Across the\_Country"
@@ -27,7 +27,7 @@ outcomes and opportunity for Black Americans.
 into law the historic American Rescue Plan (ARP) and Bipartisan
 Infrastructure Law and implementing robust regulatory reform, President
 Biden has led [the most equitable economic recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
 and helped create new economic opportunities for Black Americans and
 made long overdue investments in Black communities. These transformative
 policies and programs include:
@@ -596,7 +596,7 @@ racial disparities. These policies and programs include:
 -   **Implementing Historic Executive Order on Policing and Criminal
     Justice Reform. **On May 25, 2022 – the second anniversary of the
     murder of George Floyd – the President signed an [executive
-    order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/) (EO)
+    order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/) (EO)
     to advance effective, accountable policing and criminal justice
     practices to enhance public trust and public safety. The EO makes
     good on the President’s promise to do more to ensure that our Nation
@@ -605,7 +605,7 @@ racial disparities. These policies and programs include:
     even modest reforms supported by many in law enforcement in the
     course of negotiating the George Floyd Justice in Policing Act.  The
     EO, a summary of which can be
-    found [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/),
+    found [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/),
     promotes accountability, raises standards, increases transparency,
     and helps reform the criminal justice system.  It requires all
     federal law enforcement agencies to raise use of force standards and
@@ -630,10 +630,10 @@ racial disparities. These policies and programs include:
      
 -   **Supporting Reentry of Returning Citizens.** In April 2022, in
     honor of Second Chance Month, the
-    President [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) grants
+    President [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) grants
     of clemency to 78 individuals, along with a series of [over 20
     actions from a dozen federal
-    agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) to
+    agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) to
     support returning citizens. 
     -   To expand employment opportunities, the Administration is also
         leveraging historic investments in infrastructure to promote the
@@ -752,7 +752,7 @@ Access to Justice. **These policies and programs include:
     information about the election process and increased access to voter
     registration opportunities. Agencies across the federal government
     have [announced
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/) they
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/) they
     are taking to respond to the President’s call for an
     all-of-government action to enhance the ability of all eligible
     Americans to participate in our democracy, including the Centers for
@@ -792,7 +792,7 @@ Access to Justice. **These policies and programs include:
     areas of criminal indigent defense, civil legal aid, and pro bono
     services. In September 2021, the Roundtable released its Access to
     Justice in the Age of
-    COVID-19 [report](https://www.whitehouse.gov/wp-content/uploads/2021/10/White-House-Legal-Aid-Interagency-Roundtable-Report.pdf) highlighting
+    COVID-19 [report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/White-House-Legal-Aid-Interagency-Roundtable-Report.pdf) highlighting
     the urgent need to prioritize and expand access to legal services
     and federal programs as a result of the Covid-19 crisis.
 

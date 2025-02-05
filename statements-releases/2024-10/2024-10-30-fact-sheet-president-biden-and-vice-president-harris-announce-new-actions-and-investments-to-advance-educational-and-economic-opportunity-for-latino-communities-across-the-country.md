@@ -2,7 +2,7 @@
 date: '2024-10-30'
 modified_time: 2024-10-29 23:51:53-04:00
 published_time: 2024-10-30 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/30/fact-sheet-president-biden-and-vice-president-harris-announce-new-actions-and-investments-to-advance-educational-and-economic-opportunity-for-latino-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/30/fact-sheet-president-biden-and-vice-president-harris-announce-new-actions-and-investments-to-advance-educational-and-economic-opportunity-for-latino-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden and Vice President Harris Announce New Actions\
   \ and Investments to Advance Educational and Economic Opportunity for Latino Communities\
@@ -10,7 +10,7 @@ title: "FACT SHEET: President\_Biden and Vice President Harris Announce New Acti
 ---
  
 Today, President Biden will ceremonially sign [Executive Order (EO)
-14124](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/),
+14124](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/07/17/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-hispanic-serving-institutions/),
 establishing the White House Initiative on Advancing Educational Equity,
 Excellence, and Economic Opportunity Through Hispanic-Serving
 Institutions (HSIs), alongside nearly two dozen champions for these

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-18'
 modified_time: 2021-10-29 10:50:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/18/white-house-appoints-2021-2022-class-of-white-house-fellows/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/18/white-house-appoints-2021-2022-class-of-white-house-fellows/
 published_time: 2021-10-18 16:00:00-04:00
 title: "White\_House Appoints 2021-2022 Class of White\_House\_Fellows"
 ---
@@ -38,7 +38,7 @@ military.
 Applications for the 2022-2023 Fellowship year will be accepted from
 November 1, 2021 – January 7, 2022, at 5:00 p.m. ET. The application
 link and additional information is available at:
-<https://www.whitehouse.gov/get-involved/fellows/>.  
+<https://bidenwhitehouse.archives.gov/get-involved/fellows/>.  
   
 **2021-2022 Class of White House Fellows:**  
 **Etsemaye Agonafer is from San Francisco, California and is placed at

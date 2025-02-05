@@ -1,7 +1,7 @@
 ---
 date: '2023-07-17'
 published_time: 2023-07-17 17:18:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/17/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-notification-to-the-congress-regarding-the-secretary-of-the-interiors-certification-under-section-8-of-the-fisherman/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/17/letters-to-the-speaker-of-the-house-and-the-president-of-the-senate-on-the-notification-to-the-congress-regarding-the-secretary-of-the-interiors-certification-under-section-8-of-the-fisherman/
 tags: statements-releases
 title: "Letters to the Speaker of the House and the President of the Senate on the\
   \ Notification to the Congress Regarding the Secretary of the Interior\u2019s Certification\

@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 12:27:18-04:00
 published_time: 2024-05-31 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/readout-of-second-convening-on-climate-risk-macroeconomic-forecasts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/31/readout-of-second-convening-on-climate-risk-macroeconomic-forecasts/
 tags: statements-releases
 title: "Readout of Second Convening on Climate-Risk Macroeconomic\_Forecasts"
 ---
@@ -34,20 +34,20 @@ The Biden-Harris Administration understands that the accuracy and
 credibility of economic forecasts provide the foundation from which we
 develop policy. This is why President Biden signed an [Executive Order
 on Climate-Related Financial
-Risk](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/),
+Risk](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/20/executive-order-on-climate-related-financial-risk/),
 which—among other things—instructs CEA, OMB, and Treasury to develop
 methods to account for the physical and transition risks of climate
 change in the economic assumptions and long-term budget outlook of the
 President’s Budget. For three years, CEA and OMB have been leading a
 government-wide technical working group to develop methods to account
 for climate risks in macroeconomic forecasting, as laid out in a
-[series](https://www.whitehouse.gov/wp-content/uploads/2022/04/CEA_OMB_Climate_Macro_WP_2022.pdf)
+[series](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/CEA_OMB_Climate_Macro_WP_2022.pdf)
 of
-[white](https://www.whitehouse.gov/wp-content/uploads/2023/03/CEA-OMB-White-Paper.pdf)
-[papers](https://www.whitehouse.gov/wp-content/uploads/2024/04/FY25-CEA-OMB-Climate-Macro-White-Paper-Final-2.pdf)
+[white](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/CEA-OMB-White-Paper.pdf)
+[papers](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/FY25-CEA-OMB-Climate-Macro-White-Paper-Final-2.pdf)
 and
-[other](https://www.whitehouse.gov/wp-content/uploads/2023/12/Memo_Tools-for-Near-Term-Climate-Risk-Management.pdf)
-[materials](https://www.whitehouse.gov/cea/written-materials/2023/12/22/a-progress-report-on-climate-energy-macro-modeling/).
+[other](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Memo_Tools-for-Near-Term-Climate-Risk-Management.pdf)
+[materials](https://bidenwhitehouse.archives.gov/cea/written-materials/2023/12/22/a-progress-report-on-climate-energy-macro-modeling/).
 As the Administration works to enhance capacities, particularly with
 respect to forecasting transition risks as well as opportunities,
 sharing knowledge about and fostering alignment on climate-macroeconomic
@@ -70,7 +70,7 @@ building a clean energy economy, including on climate resiliency,
 efficiency, productivity, and the macroeconomic outlook more generally.
 The convening built upon a similar one hosted by the White House in
 [February
-2023](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/readout-of-convening-on-blue-chip-climate-risk-macroeconomic-forecasts/),
+2023](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/readout-of-convening-on-blue-chip-climate-risk-macroeconomic-forecasts/),
 reinforcing our partnerships with the broader macroeconomic forecasting
 community.
 

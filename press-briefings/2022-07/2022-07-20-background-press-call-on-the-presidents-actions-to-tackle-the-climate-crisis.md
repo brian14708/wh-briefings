@@ -2,7 +2,7 @@
 date: '2022-07-20'
 modified_time: 2022-07-20 15:07:49-04:00
 published_time: 2022-07-20 15:07:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/20/background-press-call-on-the-presidents-actions-to-tackle-the-climate-crisis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/20/background-press-call-on-the-presidents-actions-to-tackle-the-climate-crisis/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s Actions to Tackle the Climate\_\
   Crisis"

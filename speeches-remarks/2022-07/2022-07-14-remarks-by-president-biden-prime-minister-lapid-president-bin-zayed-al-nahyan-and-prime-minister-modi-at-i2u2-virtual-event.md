@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 09:59:41-04:00
 published_time: 2022-07-14 09:59:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-prime-minister-lapid-president-bin-zayed-al-nahyan-and-prime-minister-modi-at-i2u2-virtual-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-prime-minister-lapid-president-bin-zayed-al-nahyan-and-prime-minister-modi-at-i2u2-virtual-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Prime Minister Lapid, President bin Zayed Al\
   \ Nahyan, and Prime Minister Modi at I2U2 Virtual\_Event"

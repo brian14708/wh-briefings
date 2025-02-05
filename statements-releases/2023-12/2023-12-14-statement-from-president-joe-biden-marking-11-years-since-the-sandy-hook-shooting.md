@@ -2,7 +2,7 @@
 date: '2023-12-14'
 modified_time: 2023-12-14 00:02:06-05:00
 published_time: 2023-12-14 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/14/statement-from-president-joe-biden-marking-11-years-since-the-sandy-hook-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/14/statement-from-president-joe-biden-marking-11-years-since-the-sandy-hook-shooting/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Marking 11 Years Since the Sandy Hook\_\
   Shooting"

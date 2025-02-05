@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 22:54:56-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-creates-good-paying-clean-jobs-cuts-energy-costs-and-delivers-on-the-presidents-ambitious-climate-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-creates-good-paying-clean-jobs-cuts-energy-costs-and-delivers-on-the-presidents-ambitious-climate-agenda/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Creates Good-Paying Clean Jobs, Cuts\
   \ Energy Costs, and Delivers on the President\u2019s Ambitious Climate\_Agenda"

@@ -1,7 +1,7 @@
 ---
 date: '2023-07-26'
 published_time: 2023-07-26 12:23:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/statement-from-national-security-advisor-jake-sullivan-on-developments-in-niger/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/statement-from-national-security-advisor-jake-sullivan-on-developments-in-niger/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan On Developments in\_\
   Niger"

@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 11:02:26-05:00
 published_time: 2024-12-19 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/12/19/press-call-by-senior-administration-officials-on-the-u-s-nationally-determined-contribution/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/19/press-call-by-senior-administration-officials-on-the-u-s-nationally-determined-contribution/
 tags: press-briefings
 title: "Press Call by Senior Administration Officials on the U.S. Nationally Determined\_\
   Contribution"

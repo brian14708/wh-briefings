@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-20 10:11:40-04:00
 published_time: 2023-09-19 23:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-at-the-united-nations-general-assembly-leaders-reception-new-york-ny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/19/remarks-by-president-biden-at-the-united-nations-general-assembly-leaders-reception-new-york-ny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the United Nations General Assembly Leaders\u2019\
   \ Reception | New York,\_NY"

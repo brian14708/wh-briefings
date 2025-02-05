@@ -2,7 +2,7 @@
 date: '2022-12-13'
 modified_time: 2022-12-13 08:02:05-05:00
 published_time: 2022-12-13 08:02:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-supporting-conservation-climate-adaptation-and-a-just-energy-transition/
 tags: statements-releases
 title: "FACT SHEET:\_U.S-Africa Partnership in Supporting Conservation, Climate Adaptation\
   \ and a Just Energy\_Transition"
@@ -23,7 +23,7 @@ President Biden announced U.S. plans to provide over $150 million in new
 funding to accelerate the President’s Emergency Plan for Adaptation and
 Resilience (PREPARE) (see [Fact Sheet: President Biden Announces New
 Initiatives at COP27 to Strengthen U.S. Leadership in Tackling
-Climate Change](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/)). 
+Climate Change](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/11/fact-sheet-president-biden-announces-new-initiatives-at-cop27-to-strengthen-u-s-leadership-in-tackling-climate-change/)). 
 He emphasized the U.S. commitment to help vulnerable countries and
 communities in Africa adapt to and manage the impacts of climate change
 as part of PREPARE’s work across the African continent.   
@@ -57,7 +57,7 @@ New initiatives include:
         advance pandemic resilience and digital connectivity and
         decarbonize health-sector footprint (see [Fact Sheet:  U.S.-
         Africa Partnership in Health
-        Cooperation](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/)).
+        Cooperation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/)).
     -   **Growing Green Jobs for Women:** Power Africa will launch a new
         initiative focused in Nigeria to advance women’s participation
         in the energy sector’s transition to clean energy
@@ -156,7 +156,7 @@ New initiatives include:
     data science and climate change and to be a resource for climate
     change initiatives across the continent (see [Fact Sheet:  U.S.-
     Africa Partnership in Health
-    Cooperation](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/)).  
+    Cooperation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/)).  
 -   **Partnership Opportunity Delegation (POD):** The State Department
     announced a new POD to Ghana to cultivate and enable partnership
     opportunities between the U.S. private sector and West Africa’s

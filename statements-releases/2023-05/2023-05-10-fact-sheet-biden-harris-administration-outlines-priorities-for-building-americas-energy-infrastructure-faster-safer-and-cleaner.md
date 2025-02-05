@@ -2,7 +2,7 @@
 date: '2023-05-10'
 modified_time: 2023-05-12 10:46:28-04:00
 published_time: 2023-05-10 11:02:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/fact-sheet-biden-harris-administration-outlines-priorities-for-building-americas-energy-infrastructure-faster-safer-and-cleaner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/fact-sheet-biden-harris-administration-outlines-priorities-for-building-americas-energy-infrastructure-faster-safer-and-cleaner/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Outlines Priorities for Building\
   \ America\u2019s Energy Infrastructure Faster, Safer, and\_Cleaner"
@@ -32,7 +32,7 @@ state and local levels. The Administration is acting to move projects
 forward, using its existing authority to accelerate the federal
 permitting process. These actions include establishing a [new
 interagency Memorandum of
-Understanding](https://www.whitehouse.gov/wp-content/uploads/2023/05/Final-Transmission-MOU-with-signatures-5-04-2023.pdf)
+Understanding](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/Final-Transmission-MOU-with-signatures-5-04-2023.pdf)
 (MOU) to facilitate the timely, responsible, and equitable permitting of
 electric transmission infrastructure.  
   
@@ -285,7 +285,7 @@ any bipartisan permitting reform package:
     The Biden-Harris Administration is not waiting on Congressional
     action to accelerate permitting. Last year the Administration
     released a [Permitting Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/) and
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-biden-harris-administration-releases-permitting-action-plan-to-accelerate-and-deliver-infrastructure-projects-on-time-on-task-and-on-budget/) and
     is using its existing authorities, where additional Congressional
     action is not required, to accelerate project approvals to meet our
     infrastructure and clean energy goals while ensuring strong
@@ -306,7 +306,7 @@ any bipartisan permitting reform package:
     is missed or if an authorization is denied.  This action will
     accelerate the development of transmission lines, building
     on [robust efforts underway across the
-    Administration](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-the-biden-harris-administration-advances-transmission-buildout-to-deliver-affordable-clean-electricity/) –
+    Administration](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/fact-sheet-the-biden-harris-administration-advances-transmission-buildout-to-deliver-affordable-clean-electricity/) –
     for example, the Department of Energy is advancing tools to
     designate electric transmission corridors.
 -   *Renewable Energy on Public Land:* The Administration is on track to
@@ -321,9 +321,9 @@ any bipartisan permitting reform package:
     power.
 -   *Modernizing and Accelerating Environmental Reviews: *The
     Biden-Harris Administration has clarified and restored [basic
-    safeguards](https://www.whitehouse.gov/ceq/news-updates/2022/04/19/ceq-restores-three-key-community-safeguards-during-federal-environmental-reviews/) for
+    safeguards](https://bidenwhitehouse.archives.gov/ceq/news-updates/2022/04/19/ceq-restores-three-key-community-safeguards-during-federal-environmental-reviews/) for
     environmental reviews and
-    issued [guidance](https://www.whitehouse.gov/ceq/news-updates/2023/01/06/biden-harris-administration-releases-new-guidance-to-disclose-climate-impacts-in-environmental-reviews/) to
+    issued [guidance](https://bidenwhitehouse.archives.gov/ceq/news-updates/2023/01/06/biden-harris-administration-releases-new-guidance-to-disclose-climate-impacts-in-environmental-reviews/) to
     agencies on how to account for climate change and greenhouse gas
     emissions, so fewer projects get tangled up in litigation and more
     projects get built right the first time. In fact, environmental
@@ -337,7 +337,7 @@ any bipartisan permitting reform package:
     all stakeholders.
 -   *Offshore Wind: *The Administration has also developed an ambitious
     target for [offshore
-    wind](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/),
+    wind](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/29/fact-sheet-biden-harris-administration-continues-to-advance-american-offshore-wind-opportunities/),
     with a goal to deploy 30 gigawatts by 2030. The Department of the
     Interior (DOI) approved the nation’s first large-scale offshore wind
     projects, [Vineyard

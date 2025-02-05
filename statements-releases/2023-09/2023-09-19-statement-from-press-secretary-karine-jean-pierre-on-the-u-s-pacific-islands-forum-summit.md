@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-19 15:05:08-04:00
 published_time: 2023-09-19 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-pacific-islands-forum-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/statement-from-press-secretary-karine-jean-pierre-on-the-u-s-pacific-islands-forum-summit/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the U.S.-Pacific Islands\
   \ Forum\_Summit"

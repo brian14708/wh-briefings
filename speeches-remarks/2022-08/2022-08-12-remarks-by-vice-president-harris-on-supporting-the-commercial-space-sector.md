@@ -1,7 +1,7 @@
 ---
 date: '2022-08-12'
 published_time: 2022-08-12 19:56:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/08/12/remarks-by-vice-president-harris-on-supporting-the-commercial-space-sector/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/08/12/remarks-by-vice-president-harris-on-supporting-the-commercial-space-sector/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris\_On Supporting the Commercial Space\_Sector"
 ---

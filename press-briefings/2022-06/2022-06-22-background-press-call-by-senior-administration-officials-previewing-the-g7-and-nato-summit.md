@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-23 08:17:13-04:00
 published_time: 2022-06-22 08:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/22/background-press-call-by-senior-administration-officials-previewing-the-g7-and-nato-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/22/background-press-call-by-senior-administration-officials-previewing-the-g7-and-nato-summit/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials Previewing the G7\
   \ and NATO\_Summit"

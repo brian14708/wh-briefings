@@ -1,7 +1,7 @@
 ---
 date: '2024-03-12'
 published_time: 2024-03-12 13:09:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/12/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/12/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-iran/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency With Respect\
   \ to\_Iran"

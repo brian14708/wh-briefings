@@ -2,7 +2,7 @@
 date: '2024-10-08'
 modified_time: 2024-10-09 07:48:44-04:00
 published_time: 2024-10-08 14:43:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/08/remarks-by-president-biden-on-the-biden-harris-administrations-progress-in-replacing-lead-pipes-and-creating-good-paying-jobs-milwaukee-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/08/remarks-by-president-biden-on-the-biden-harris-administrations-progress-in-replacing-lead-pipes-and-creating-good-paying-jobs-milwaukee-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Biden-\u2060Harris Administration\u2019\
   s Progress in Replacing Lead Pipes and Creating Good-Paying Jobs | Milwaukee,\_\

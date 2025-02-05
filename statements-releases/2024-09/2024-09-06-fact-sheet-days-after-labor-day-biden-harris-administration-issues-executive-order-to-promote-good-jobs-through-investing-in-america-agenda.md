@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-05 19:26:53-04:00
 published_time: 2024-09-06 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/06/fact-sheet-days-after-labor-day-biden-harris-administration-issues-executive-order-to-promote-good-jobs-through-investing-in-america-agenda/
 tags: statements-releases
 title: "FACT SHEET: Days After Labor Day, Biden-\u2060Harris Administration Issues\
   \ Executive Order to Promote Good Jobs Through Investing in America\_Agenda"
@@ -129,13 +129,13 @@ actions to support good jobs, including union jobs, such as:**
 
 -   Launched the first-ever [White House Task Force on Worker Organizing
     and
-    Empowerment](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/),
+    Empowerment](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/the-white-house-task-force-on-worker-organizing-and-empowermentupdate-on-implementation-of-approved-actions/),
     chaired by Vice President Harris, which resulted in over 70 actions
     to promote worker organizing and collective bargaining for federal
     employees and workers employed by public- and private-sector
     employers.
 -   Created the [Made in America
-    office](https://www.whitehouse.gov/omb/management/made-in-america/),
+    office](https://bidenwhitehouse.archives.gov/omb/management/made-in-america/),
     to ensure that American-made construction materials are used on
     infrastructure projects.
 -   Published a [final
@@ -146,17 +146,17 @@ actions to support good jobs, including union jobs, such as:**
     are paid good wages and that these projects create equitable
     pipelines to these good jobs.
 -   Implemented a [new
-    rule](https://www.whitehouse.gov/omb/briefing-room/2023/12/18/fact-sheet-biden-harris-administration-announces-action-to-support-economic-and-efficient-construction-projects-while-creating-good-paying-and-union-jobs/)
+    rule](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/12/18/fact-sheet-biden-harris-administration-announces-action-to-support-economic-and-efficient-construction-projects-while-creating-good-paying-and-union-jobs/)
     to require Project Labor Agreements on nearly all major federal
     construction projects of over $35 million, so federal construction
     projects will be delivered on time and on budget with good wages and
     well-trained workers.
 -   Signed the [Butch Lewis
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-president-biden-announces-historic-american-rescue-plan-pension-relief-for-millions-of-union-workers-and-retirees/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/05/fact-sheet-president-biden-announces-historic-american-rescue-plan-pension-relief-for-millions-of-union-workers-and-retirees/)
     as part of the American Rescue Plan to save the pensions of more
     than one million hard-working union workers and retirees.
 -   Designated nine [Workforce
-    Hubs](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
+    Hubs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/)
     across the country to ensure we have the skilled, diverse workforce
     needed to carry out this Administration’s historic investments.
 -   Published a [new
@@ -172,7 +172,7 @@ actions to support good jobs, including union jobs, such as:**
     the Department of Labor that would protect 36 million indoor and
     outdoor workers from extreme heat on the job.
 -   Signed a Registered Apprenticeship [Executive
-    Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
+    Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
     to bolster apprenticeships in the federal workforce. Since then,
     federal agencies including the Departments Agriculture, Defense,
     Education Health and Human Services, Housing and Urban Development,
@@ -185,7 +185,7 @@ actions to support good jobs, including union jobs, such as:**
     funding for training and workforce development to ensure local
     communities have access to the jobs of the future in upcoming
     projects and introduced a
-    [requirement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/)
+    [requirement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/)
     that companies receiving grants under the CHIPS Act over $150
     million create a plan to ensure access to quality, affordable child
     care for their employees.
@@ -194,7 +194,7 @@ actions to support good jobs, including union jobs, such as:**
     earn-as-you-learn training for in-demand jobs.
 -   Vocally supported unions, including becoming the first sitting
     President to [walk a picket
-    line](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/26/remarks-by-president-biden-at-united-auto-workers-picket-line/).
+    line](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/26/remarks-by-president-biden-at-united-auto-workers-picket-line/).
 -   The NLRB [expanded
     remedies](https://www.nlrb.gov/news-outreach/news-story/board-rules-remedies-must-compensate-employees-for-all-direct-or)
     available to workers when their employers engage in unionbusting, to

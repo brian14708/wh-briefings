@@ -1,7 +1,7 @@
 ---
 date: '2023-07-25'
 published_time: 2023-07-25 09:40:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/joint-statement-from-mexico-and-the-united-states-on-shared-efforts-to-combat-illicit-fentanyl-disrupt-arms-trafficking-and-humanely-manage-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/joint-statement-from-mexico-and-the-united-states-on-shared-efforts-to-combat-illicit-fentanyl-disrupt-arms-trafficking-and-humanely-manage-migration/
 tags: statements-releases
 title: "Joint Statement from Mexico and the United\_States on Shared Efforts to Combat\
   \ Illicit Fentanyl, Disrupt Arms Trafficking, and Humanely Manage\_Migration"

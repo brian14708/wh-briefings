@@ -1,7 +1,7 @@
 ---
 date: '2023-04-10'
 published_time: 2023-04-10 19:09:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/10/on-the-record-press-call-by-vice-president-harris-on-historic-investment-in-financially-underserved-communities-to-improve-access-to-capital-and-financial-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/10/on-the-record-press-call-by-vice-president-harris-on-historic-investment-in-financially-underserved-communities-to-improve-access-to-capital-and-financial-services/
 tags: statements-releases
 title: "On-the-Record Press Call by Vice President Harris on Historic Investment in\
   \ Financially Underserved Communities to Improve Access to Capital and Financial\_\

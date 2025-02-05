@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-14 22:40:53-04:00
 published_time: 2024-06-15 09:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/statement-from-vice-president-kamala-harris-on-the-anniversary-of-daca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/statement-from-vice-president-kamala-harris-on-the-anniversary-of-daca/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Anniversary of\_DACA"
 ---

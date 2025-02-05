@@ -2,7 +2,7 @@
 date: '2023-09-27'
 modified_time: 2023-09-26 19:33:53-04:00
 published_time: 2023-09-27 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/27/extreme-republican-shutdown-would-force-troops-to-work-without-getting-paid-and-undermine-our-national-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/27/extreme-republican-shutdown-would-force-troops-to-work-without-getting-paid-and-undermine-our-national-security/
 tags: statements-releases
 title: "Extreme Republican Shutdown Would Risk Delays for Travelers and Force Air\
   \ Traffic Controllers and TSA Officers to Work Without Getting\_Paid"
@@ -34,7 +34,7 @@ open and address emergency needs for the American people. House
 Republicans have turned their backs on the bipartisan budget deal that
 two-third of them voted for just a few months ago and instead proposed a
 continuing resolution (CR) that proposes [devastating
-cuts](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
+cuts](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/19/by-the-numbers-impacts-of-house-republicans-extreme-cr-8-cuts/) to
 programs that millions of hardworking Americans count on—including rail
 safety inspections and the Transportation Security Administration. Their
 extreme CR also fails to provide the urgent funding President Biden

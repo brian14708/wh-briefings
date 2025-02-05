@@ -2,7 +2,7 @@
 date: '2022-07-26'
 modified_time: 2022-07-26 10:29:31-04:00
 published_time: 2022-07-26 10:29:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-president-biden-in-meeting-with-ceos-and-labor-leaders-on-the-importance-of-passing-the-chips-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/26/remarks-by-president-biden-in-meeting-with-ceos-and-labor-leaders-on-the-importance-of-passing-the-chips-act/
 tags: speeches-remarks
 title: "Remarks by President\_Biden in Meeting with CEOs and Labor Leaders on the\
   \ Importance of Passing the CHIPS\_Act"

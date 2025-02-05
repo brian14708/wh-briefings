@@ -1,7 +1,7 @@
 ---
 tags: presidential-actions
 date: '2021-09-14'
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/14/a-proclamation-on-national-hispanic-heritage-month-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/14/a-proclamation-on-national-hispanic-heritage-month-2021/
 published_time: 2021-09-14 10:16:57-04:00
 title: "A Proclamation on National Hispanic Heritage Month,\_2021"
 ---

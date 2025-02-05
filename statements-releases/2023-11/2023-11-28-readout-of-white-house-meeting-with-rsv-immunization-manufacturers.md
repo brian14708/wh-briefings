@@ -2,7 +2,7 @@
 date: '2023-11-28'
 modified_time: 2023-11-28 09:10:17-05:00
 published_time: 2023-11-28 09:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/28/readout-of-white-house-meeting-with-rsv-immunization-manufacturers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/28/readout-of-white-house-meeting-with-rsv-immunization-manufacturers/
 tags: statements-releases
 title: "Readout of White\_House Meeting with RSV Immunization Manufacturers"
 ---

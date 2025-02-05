@@ -1,7 +1,7 @@
 ---
 date: '2024-08-15'
 published_time: 2024-08-15 21:32:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/08/15/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/08/15/president-joseph-r-biden-jr-approves-south-dakota-disaster-declaration-5/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves South Dakota Disaster\_Declaration"
 ---

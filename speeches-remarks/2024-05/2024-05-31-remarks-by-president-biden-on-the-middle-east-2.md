@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 16:09:50-04:00
 published_time: 2024-05-31 16:09:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/31/remarks-by-president-biden-on-the-middle-east-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/31/remarks-by-president-biden-on-the-middle-east-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Middle\_East"
 ---

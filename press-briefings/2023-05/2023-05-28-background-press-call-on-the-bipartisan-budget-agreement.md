@@ -1,7 +1,7 @@
 ---
 date: '2023-05-28'
 published_time: 2023-05-28 22:33:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/05/28/background-press-call-on-the-bipartisan-budget-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/05/28/background-press-call-on-the-bipartisan-budget-agreement/
 tags: press-briefings
 title: "Background Press Call on the Bipartisan Budget\_Agreement"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2022-11-15'
 published_time: 2022-11-15 22:29:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/15/remarks-by-president-biden-on-the-explosion-and-loss-of-life-in-eastern-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/15/remarks-by-president-biden-on-the-explosion-and-loss-of-life-in-eastern-poland/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Explosion and Loss of Life in Eastern\_\
   Poland"

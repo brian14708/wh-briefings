@@ -2,7 +2,7 @@
 date: '2022-04-23'
 modified_time: 2022-04-23 18:40:29-04:00
 published_time: 2022-04-23 18:40:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/23/statement-by-president-joe-biden-on-orthodox-easter/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/23/statement-by-president-joe-biden-on-orthodox-easter/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on Orthodox\_Easter"
 ---

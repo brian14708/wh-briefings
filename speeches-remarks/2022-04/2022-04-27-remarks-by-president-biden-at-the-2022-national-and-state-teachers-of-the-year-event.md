@@ -1,7 +1,7 @@
 ---
 date: '2022-04-27'
 published_time: 2022-04-27 20:38:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/27/remarks-by-president-biden-at-the-2022-national-and-state-teachers-of-the-year-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/27/remarks-by-president-biden-at-the-2022-national-and-state-teachers-of-the-year-event/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the 2022 National and State Teachers of the\
   \ Year\_Event"

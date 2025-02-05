@@ -2,7 +2,7 @@
 date: '2023-04-21'
 modified_time: 2023-04-26 18:20:59-04:00
 published_time: 2023-04-21 17:21:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/chairs-summary-of-the-major-economies-forum-on-energy-and-climate-held-by-president-joe-biden-2/
 tags: statements-releases
 title: "Chair\u2019s Summary of the Major Economies Forum on Energy and Climate Held\
   \ by President Joe\_Biden"

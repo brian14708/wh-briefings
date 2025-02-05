@@ -1,7 +1,7 @@
 ---
 date: '2022-07-14'
 published_time: 2022-07-14 12:48:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/14/readout-of-president-bidens-meeting-with-president-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/14/readout-of-president-bidens-meeting-with-president-herzog-of-israel/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Herzog of\_Israel"
 ---

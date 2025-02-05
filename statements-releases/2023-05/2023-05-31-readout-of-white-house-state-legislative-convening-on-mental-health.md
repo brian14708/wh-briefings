@@ -1,7 +1,7 @@
 ---
 date: '2023-05-31'
 published_time: 2023-05-31 18:21:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/31/readout-of-white-house-state-legislative-convening-on-mental-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/31/readout-of-white-house-state-legislative-convening-on-mental-health/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Mental\_Health"
 ---
@@ -12,17 +12,17 @@ Intergovernmental Affairs, and the Department of Health and Human
 Services convened 19 state legislators from 10 states across the country
 working to advance legislation to improve mental health care. This
 legislative convening follows a White House
-[forum](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/10/readout-white-house-convenes-state-and-local-leaders-for-a-forum-onmental-health-and-well-being-during-mental-health-awareness-month/)
+[forum](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/10/readout-white-house-convenes-state-and-local-leaders-for-a-forum-onmental-health-and-well-being-during-mental-health-awareness-month/)
 held earlier this month with county officials on mental health as well
 as a
-[convening](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/readout-of-white-house-meeting-with-state-legislative-leaders-on-mental-health-legislation/)
+[convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/readout-of-white-house-meeting-with-state-legislative-leaders-on-mental-health-legislation/)
 with state legislators held in September 2022.  
   
 The Biden-Harris Administration has made mental health a top priority by
 investing unprecedented resources in tackling the mental health crisis,
 particularly among our youth. In March 2022, the White House released a
 comprehensive [mental health
-strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
+strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/01/fact-sheet-president-biden-to-announce-strategy-to-address-our-national-mental-health-crisis-as-part-of-unity-agenda-in-his-first-state-of-the-union/)
 designed to strengthen system capacity, connect more Americans to care,
 and create healthy environments to transform how we address mental
 health.  

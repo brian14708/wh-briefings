@@ -1,7 +1,7 @@
 ---
 date: '2023-02-23'
 published_time: 2023-02-23 09:23:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/readout-of-convening-on-blue-chip-climate-risk-macroeconomic-forecasts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/readout-of-convening-on-blue-chip-climate-risk-macroeconomic-forecasts/
 tags: statements-releases
 title: "Readout of Convening on Blue Chip Climate-Risk Macroeconomic\_Forecasts"
 ---

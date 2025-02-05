@@ -1,7 +1,7 @@
 ---
 date: '2022-05-03'
 published_time: 2022-05-03 11:50:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/03/statement-by-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/03/statement-by-president-joe-biden-on-the-occasion-of-world-press-freedom-day-2022/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the Occasion of World Press Freedom Day\_\
   2022"

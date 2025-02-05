@@ -1,7 +1,7 @@
 ---
 date: '2024-07-11'
 published_time: 2024-07-11 15:54:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/11/on-the-record-press-gaggle-by-apnsa-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/11/on-the-record-press-gaggle-by-apnsa-jake-sullivan/
 tags: press-briefings
 title: "On-the-Record Press Gaggle by APNSA Jake\_Sullivan"
 ---

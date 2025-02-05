@@ -2,7 +2,7 @@
 date: '2023-04-14'
 modified_time: 2023-04-14 10:45:47-04:00
 published_time: 2023-04-14 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/14/president-biden-names-thirty-second-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/14/president-biden-names-thirty-second-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Thirty-Second Round of Judicial\_Nominees"
 ---

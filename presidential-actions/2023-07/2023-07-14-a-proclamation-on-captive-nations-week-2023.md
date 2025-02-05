@@ -2,7 +2,7 @@
 date: '2023-07-14'
 modified_time: 2023-07-14 11:46:33-04:00
 published_time: 2023-07-14 11:46:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/14/a-proclamation-on-captive-nations-week-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/14/a-proclamation-on-captive-nations-week-2023/
 tags: presidential-actions
 title: "A Proclamation on Captive Nations Week,\_2023"
 ---

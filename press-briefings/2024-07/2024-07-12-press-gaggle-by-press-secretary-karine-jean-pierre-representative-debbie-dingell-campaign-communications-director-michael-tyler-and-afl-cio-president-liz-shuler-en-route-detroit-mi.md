@@ -2,7 +2,7 @@
 date: '2024-07-12'
 modified_time: 2024-07-13 12:15:41-04:00
 published_time: 2024-07-12 12:02:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/07/12/press-gaggle-by-press-secretary-karine-jean-pierre-representative-debbie-dingell-campaign-communications-director-michael-tyler-and-afl-cio-president-liz-shuler-en-route-detroit-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/07/12/press-gaggle-by-press-secretary-karine-jean-pierre-representative-debbie-dingell-campaign-communications-director-michael-tyler-and-afl-cio-president-liz-shuler-en-route-detroit-mi/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre, Representative Debbie\
   \ Dingell, Campaign Communications Director Michael Tyler, and AFL-CIO President\

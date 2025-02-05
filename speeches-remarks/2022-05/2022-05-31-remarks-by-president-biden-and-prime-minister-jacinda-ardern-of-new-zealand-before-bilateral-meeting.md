@@ -2,7 +2,7 @@
 date: '2022-05-31'
 modified_time: 2022-05-31 13:57:46-04:00
 published_time: 2022-05-31 13:56:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/31/remarks-by-president-biden-and-prime-minister-jacinda-ardern-of-new-zealand-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/31/remarks-by-president-biden-and-prime-minister-jacinda-ardern-of-new-zealand-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Prime Minister Jacinda Ardern of New Zealand\
   \ before Bilateral\_Meeting"

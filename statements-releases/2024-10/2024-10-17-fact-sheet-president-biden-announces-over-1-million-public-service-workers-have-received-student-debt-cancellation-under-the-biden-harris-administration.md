@@ -2,7 +2,7 @@
 date: '2024-10-17'
 modified_time: 2024-10-17 13:18:58-04:00
 published_time: 2024-10-17 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/17/fact-sheet-president-biden-announces-over-1-million-public-service-workers-have-received-student-debt-cancellation-under-the-biden-harris-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/17/fact-sheet-president-biden-announces-over-1-million-public-service-workers-have-received-student-debt-cancellation-under-the-biden-harris-administration/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Announces Over 1 Million Public Service Workers\
   \ Have Received Student Debt Cancellation Under the Biden-\u2060Harris Administration"
@@ -86,7 +86,7 @@ Administration.
 **Economic Benefits of Student Debt Relief for Public Service Workers**
 
 Today, the Council of Economic Advisers (CEA) [published a new
-analysis](https://www.whitehouse.gov/cea/written-materials/2024/10/17/making-public-service-loan-forgiveness-work-for-borrowers-and-the-american-people/)
+analysis](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/10/17/making-public-service-loan-forgiveness-work-for-borrowers-and-the-american-people/)
 underscoring that the Biden-Harris Administration’s student debt
 policies not only benefit borrowers, but also the entire economy.
 

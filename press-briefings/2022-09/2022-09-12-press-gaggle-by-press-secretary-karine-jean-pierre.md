@@ -1,7 +1,7 @@
 ---
 date: '2022-09-12'
 published_time: 2022-09-12 13:13:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/12/press-gaggle-by-press-secretary-karine-jean-pierre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/12/press-gaggle-by-press-secretary-karine-jean-pierre/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine\_Jean-Pierre"
 ---

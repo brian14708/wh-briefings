@@ -2,7 +2,7 @@
 date: '2022-07-14'
 modified_time: 2022-07-14 13:08:28-04:00
 published_time: 2022-07-14 13:08:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-at-israeli-presidential-medal-of-honor-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/14/remarks-by-president-biden-at-israeli-presidential-medal-of-honor-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Israeli Presidential Medal of Honor\_Reception"
 ---

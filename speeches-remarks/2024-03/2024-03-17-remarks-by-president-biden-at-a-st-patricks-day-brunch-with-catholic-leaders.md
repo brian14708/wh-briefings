@@ -1,7 +1,7 @@
 ---
 date: '2024-03-17'
 published_time: 2024-03-17 22:11:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/17/remarks-by-president-biden-at-a-st-patricks-day-brunch-with-catholic-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/17/remarks-by-president-biden-at-a-st-patricks-day-brunch-with-catholic-leaders/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a St. Patrick\u2019s Day Brunch with Catholic\_\
   Leaders"

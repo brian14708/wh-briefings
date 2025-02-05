@@ -1,7 +1,7 @@
 ---
 date: '2024-08-10'
 published_time: 2024-08-10 13:59:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/10/statement-from-president-joe-biden-on-record-decrease-in-crime-in-first-half-of-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/10/statement-from-president-joe-biden-on-record-decrease-in-crime-in-first-half-of-2024/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Record Decrease in Crime in First Half\
   \ of\_2024"

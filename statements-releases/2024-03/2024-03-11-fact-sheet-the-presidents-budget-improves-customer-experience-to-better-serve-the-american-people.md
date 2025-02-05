@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 22:50:37-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-improves-customer-experience-to-better-serve-the-american-people/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-improves-customer-experience-to-better-serve-the-american-people/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Improves Customer Experience to Better\
   \ Serve the American\_People"
@@ -25,14 +25,14 @@ Budget:**
 investments for the Department of State to improve on and expand online
 passport renewal, delivering on the commitment outlined in the [Customer
 Experience Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/) to
 enable Americans to renew their passport without having to go in-person
 and mail original documents.
 
 **Improves Social Security Administration (SSA) Services.** The Budget
 builds the capacity of SSA’s Customer Experience team to fulfill
 commitments outlined in the [Customer Experience Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/).
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-putting-the-public-first-improving-customer-experience-and-service-delivery-for-the-american-people/).
 The Budget also supports SSA’s efforts to take a customer-focused
 approach to service delivery, such as by improving how people access SSA
 services online, on mobile devices, by phone, and in-person. SSA will

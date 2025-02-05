@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-06 17:54:44-04:00
 published_time: 2024-05-02 14:36:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/02/a-proclamation-on-expanding-the-san-gabriel-mountains-national-monument-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/02/a-proclamation-on-expanding-the-san-gabriel-mountains-national-monument-2024/
 tags: presidential-actions
 title: "A Proclamation on Expanding the San Gabriel Mountains National Monument,\_\
   2024"

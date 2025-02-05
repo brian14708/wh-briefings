@@ -1,7 +1,7 @@
 ---
 date: '2024-07-30'
 published_time: 2024-07-30 15:48:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/30/statement-from-president-joe-biden-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/30/statement-from-president-joe-biden-7/
 tags: statements-releases
 title: "Statement from President Joe\_Biden"
 ---

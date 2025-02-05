@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-07'
 modified_time: 2022-03-07 08:56:52-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/07/fact-sheet-vice-president-harris-announces-actions-to-accelerate-clean-transit-buses-school-buses-and-trucks/
 published_time: 2022-03-07 11:30:00-05:00
 title: "Fact Sheet: Vice President Harris Announces Actions to Accelerate Clean Transit\
   \ Buses, School Buses, and\_Trucks"
@@ -107,7 +107,7 @@ as part of our electric, zero-emissions transportation future:
 
 These steps build upon President Biden’s Executive Order on
 Strengthening American Leadership in Clean Cars and Trucks, which he
-[signed](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
+[signed](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/)
 in August 2021 alongside American automakers and autoworkers, launching
 development of smart fuel efficiency and emissions standards across all
 vehicles. President Biden and Vice President Harris also secured

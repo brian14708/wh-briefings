@@ -2,7 +2,7 @@
 date: '2022-10-24'
 modified_time: 2022-10-24 12:30:23-04:00
 published_time: 2022-10-24 12:23:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/24/executive-order-on-taking-additional-steps-to-address-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/24/executive-order-on-taking-additional-steps-to-address-the-national-emergency-with-respect-to-the-situation-in-nicaragua/
 tags: presidential-actions
 title: "Executive Order on Taking Additional Steps to Address the National Emergency\
   \ With Respect to the Situation in\_Nicaragua"

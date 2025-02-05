@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 10:12:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-amidst-manufacturing-boom-president-biden-will-sign-an-executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs-to-encourage/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/fact-sheet-amidst-manufacturing-boom-president-biden-will-sign-an-executive-order-on-federal-research-and-development-in-support-of-domestic-manufacturing-and-united-states-jobs-to-encourage/
 tags: statements-releases
 title: "FACT SHEET: Amidst Manufacturing Boom, President\_Biden Will Sign an Executive\
   \ Order on Federal Research and Development in Support of Domestic Manufacturing\

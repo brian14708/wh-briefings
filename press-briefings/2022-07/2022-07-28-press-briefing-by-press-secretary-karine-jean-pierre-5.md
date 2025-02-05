@@ -2,7 +2,7 @@
 date: '2022-07-28'
 modified_time: 2022-07-29 13:21:55-04:00
 published_time: 2022-07-28 13:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/07/28/press-briefing-by-press-secretary-karine-jean-pierre-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/07/28/press-briefing-by-press-secretary-karine-jean-pierre-5/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-12-02'
 published_time: 2024-12-02 19:51:26-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/02/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2024-white-house-holiday-theme-and-decor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/02/remarks-by-first-lady-jill-biden-at-the-unveiling-of-the-2024-white-house-holiday-theme-and-decor/
 tags: speeches-remarks
 title: "REMARKS BY FIRST LADY JILL BIDEN AT THE UNVEILING OF THE 2024 WHITE HOUSE\
   \ HOLIDAY THEME AND\_DECOR"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-28'
 published_time: 2023-02-28 17:33:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/statement-from-vice-president-harris-on-nomination-of-julie-su-for-secretary-of-the-department-of-labor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/28/statement-from-vice-president-harris-on-nomination-of-julie-su-for-secretary-of-the-department-of-labor/
 tags: statements-releases
 title: "Statement from Vice President Harris on\_Nomination of Julie Su for Secretary\
   \ of the Department of\_Labor"

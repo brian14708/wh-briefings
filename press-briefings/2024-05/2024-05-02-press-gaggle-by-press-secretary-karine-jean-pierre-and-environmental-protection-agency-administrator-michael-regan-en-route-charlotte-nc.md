@@ -1,7 +1,7 @@
 ---
 date: '2024-05-02'
 published_time: 2024-05-02 15:00:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-environmental-protection-agency-administrator-michael-regan-en-route-charlotte-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-environmental-protection-agency-administrator-michael-regan-en-route-charlotte-nc/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and Environmental Protection\
   \ Agency Administrator Michael Regan En Route Charlotte,\_NC"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-01'
 modified_time: 2021-10-31 21:08:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/01/fact-sheet-president-biden-renews-u-s-leadership-on-world-stage-at-u-n-climate-conference-cop26/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/01/fact-sheet-president-biden-renews-u-s-leadership-on-world-stage-at-u-n-climate-conference-cop26/
 published_time: 2021-11-01 01:00:00-04:00
 title: "FACT SHEET: President\_Biden Renews U.S. Leadership on World Stage at U.N.\
   \ Climate Conference\_(COP26)"
@@ -26,10 +26,10 @@ President Biden believes this is not a challenge for future generations,
 but one all countries must confront today – with urgent, bold, and
 direct action. Heading into COP26, President Biden announced [ the Build
 Back Better
-Framework](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/28/president-biden-announces-the-build-back-better-framework/)
+Framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/28/president-biden-announces-the-build-back-better-framework/)
 – the largest effort to combat climate change in American history
 alongside his [Bipartisan Infrastructure
-Deal](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-the-bipartisan-infrastructure-investment-and-jobs-act-advances-president-bidens-climate-agenda/)
+Deal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-the-bipartisan-infrastructure-investment-and-jobs-act-advances-president-bidens-climate-agenda/)
 that the President is confident can pass both chambers of Congress and
 be signed into law. The Build Back Better Framework will cut greenhouse
 gas pollution by well over one gigaton in 2030, reduce clean energy
@@ -37,13 +37,13 @@ costs for working families, give our kids cleaner air and water, create
 hundreds of thousands of good-paying, union jobs, and advance
 environmental justice while investing in a 21st century clean energy
 economy. President Biden’s bold agenda, [along with his robust executive
-and regulatory actions to date](https://www.whitehouse.gov/climate/),
+and regulatory actions to date](https://bidenwhitehouse.archives.gov/climate/),
 represents the U.S. intention to capture the economic opportunity that
 addressing climate change presents.
 
 President Biden is committed to [cutting greenhouse gas emissions 50-52
 percent below 2005 levels in
-2030](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/),
+2030](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-energy-technologies/),
 reaching a 100% carbon pollution-free power sector by 2035, and
 achieving a net-zero economy by no later than 2050 – all while creating
 good paying, union jobs at home. The President is also committed to
@@ -56,7 +56,7 @@ To deliver on these goals, the President will:
 
 **Launch the** [**President’s Emergency Plan for Adaptation and
 Resilience
-(PREPARE)**](https://www.whitehouse.gov/wp-content/uploads/2021/10/Full-PREPARE-Plan.pdf)**.**
+(PREPARE)**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Full-PREPARE-Plan.pdf)**.**
 This is a whole-of-government initiative that will serve as the
 cornerstone of the U.S. Government response to addressing the increasing
 impacts of the global climate crisis in order to enhance global
@@ -104,7 +104,7 @@ at home, and abroad.
 
 **Submit our [7th UNFCCC National Communication, and 3rd and 4th
 Biennial
-Reports](https://www.whitehouse.gov/wp-content/uploads/2021/10/ClimateNationalCommunication.pdf)
+Reports](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/ClimateNationalCommunication.pdf)
 required by the Paris Agreement.** To communicate our continued progress
 in recent years, these reports focus on U.S. actions taken between 2016
 and 2020 to combat climate change at home and support developing
@@ -115,7 +115,7 @@ educational, and non-profit organizations in delivering climate
 progress.
 
 **Release the** [**U.S. Long-Term
-Strategy**](https://www.whitehouse.gov/wp-content/uploads/2021/10/US-Long-Term-Strategy.pdf)
+Strategy**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/US-Long-Term-Strategy.pdf)
 **to meet our 2050 goal—consistent with limiting global warming to less
 than 1.5° C.**  The Strategy shows how action in this decade can set us
 on track for continued, deeper greenhouse gas reductions through the
@@ -154,7 +154,7 @@ environmental justice. Specifically, it will:
     Sustainability Accelerator** that will invest in projects around the
     country, while delivering 40% of the benefits of investment to
     disadvantaged communities, as part of the President’s [Justice40
-    initiative](https://www.whitehouse.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/).
+    initiative](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/07/20/the-path-to-achieving-justice40/).
 -   Create a new **Civilian Climate Corps** – with over 300,000 members
     that look like America who will conserve our public lands, bolster
     community resilience, and address the changing climate, all while

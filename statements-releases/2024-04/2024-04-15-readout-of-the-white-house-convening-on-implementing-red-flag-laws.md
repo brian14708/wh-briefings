@@ -2,7 +2,7 @@
 date: '2024-04-15'
 modified_time: 2024-04-15 13:08:51-04:00
 published_time: 2024-04-15 13:08:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/15/readout-of-the-white-house-convening-on-implementing-red-flag-laws/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/15/readout-of-the-white-house-convening-on-implementing-red-flag-laws/
 tags: statements-releases
 title: "Readout of the White\_House Convening on Implementing Red Flag\_Laws"
 ---
@@ -42,7 +42,7 @@ City Attorney Mara Elliott.
 
 Today’s convening comes on the heels of the [Biden-Harris Administration
 announcing a new
-rule](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/)
+rule](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/11/fact-sheet-biden-harris-administration-announces-new-action-to-implement-bipartisan-safer-communities-act-expanding-firearm-background-checks-to-fight-gun-crime/)
 that will save lives by reducing the number of firearms sold without
 background checks. This action is part of the Biden-Harris
 Administration’s strategy to stem the flow of illegally acquired

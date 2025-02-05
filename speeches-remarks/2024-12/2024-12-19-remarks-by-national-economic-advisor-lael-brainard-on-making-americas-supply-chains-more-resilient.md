@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 10:50:50-05:00
 published_time: 2024-12-19 10:31:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/19/remarks-by-national-economic-advisor-lael-brainard-on-making-americas-supply-chains-more-resilient/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/19/remarks-by-national-economic-advisor-lael-brainard-on-making-americas-supply-chains-more-resilient/
 tags: speeches-remarks
 title: "Remarks by National Economic Advisor Lael Brainard on Making America\u2019\
   s Supply Chains More\_Resilient"
@@ -31,7 +31,7 @@ Index](https://www.newyorkfed.org/research/policy/gscpi#/interactive)
 spiked to unprecedented levels. As disruptions led to shortages and
 price increases, goods inflation surged, after falling for much of the
 pandemic shutdown in 2020, [tracking supply chain disruptions
-closely](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
+closely](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/fact-sheet-president-biden-announces-new-actions-to-strengthen-americas-supply-chains-lower-costs-for-families-and-secure-key-sectors/)
 with a short lag.
 
 Not since the oil price shocks of the 1970s had the U.S. economy
@@ -58,7 +58,7 @@ In short, we needed a new strategy to make our supply chains more
 resilient—and new partnerships with businesses and labor to make it
 work, as well as with foreign friends and allies. In his first month in
 office, the President signed the [Executive Order on Supply
-Chains](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
+Chains](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
 laying out a strategy to strengthen our supply chains. The new playbook
 rests on recovery, risk management, investment, and diversification.
 
@@ -66,7 +66,7 @@ rests on recovery, risk management, investment, and diversification.
 
 The first order of business was to restart the flow of goods.  The
 Administration immediately stood up a [Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) to
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/) to
 work with state and local officials, businesses, labor groups, and
 farmers to resolve bottlenecks.
 
@@ -74,13 +74,13 @@ An acute shortage of truck drivers was creating a major bottleneck for
 the [72% of shipments](https://www.bts.gov/faf) that move around the
 country by truck. In response, the Departments of Labor and
 Transportation implemented the [Trucking Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-%E2%81%A0harris-administration-trucking-action-plan-to-strengthen-americas-trucking-workforce/),
 which increased trucking employment by the most in two decades and
 doubled the issuance of commercial drivers’ licenses.
 
 Similarly, with cargo piling up at our West Coast ports, the President
 [appointed a Port
-Envoy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/),
+Envoy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/),
 who worked with businesses and labor to clear the docks and get
 shipments moving again. As a result, the shelves were restocked in time
 for the Christmas shopping season.
@@ -95,12 +95,12 @@ and states and localities.  
 
 These new supply disruptions capabilities strengthened our ability to
 respond in 2022 to a significant [baby formula supply
-shortfall](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-president-biden-announces-additional-steps-to-address-infant-formula-shortage/)
+shortfall](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-president-biden-announces-additional-steps-to-address-infant-formula-shortage/)
 due to a production quality lapse. To restore supply, the Administration
 [used the Defense Production
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/22/president-biden-announces-first-two-infant-formula-defense-production-act-authorizations/#:~:text=Last%20week%2C%20the%20President%20invoked,sourced%20for%20later%20this%20week.)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/22/president-biden-announces-first-two-infant-formula-defense-production-act-authorizations/#:~:text=Last%20week%2C%20the%20President%20invoked,sourced%20for%20later%20this%20week.)
 to get ingredients to manufacturers, [coordinated air freight
-shipments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/19/biden-administration-approves-first-operation-fly-formula-mission/)
+shipments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/19/biden-administration-approves-first-operation-fly-formula-mission/)
 of formula from overseas, and [provided expedited
 pathways](https://www.fda.gov/food/infant-formula-guidance-documents-regulatory-information/enforcement-discretion-manufacturers-increase-infant-formula-supplies)
 for new manufacturers to enter the market.
@@ -146,19 +146,19 @@ The collapse of the Francis Scott Key Bridge in Baltimore last spring
 was a crucial test of whether the new capacity we had built around
 supply chains would work in a crisis. Hours after a ship crashed into
 the bridge at 1:30 A.M., the [federal
-government](https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-on-the-collapse-of-the-francis-scott-key-bridge/)
+government](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/26/remarks-by-president-biden-on-the-collapse-of-the-francis-scott-key-bridge/)
 had already convened the Supply Chain Disruptions Task Force to minimize
 disruptions to the critical goods moving in and out of the port. We were
 immediately in communication with state and local officials, and we
 initiated calls with shipping companies, labor unions, ocean carriers,
 and other ports along the East Coast. We
-[coordinated](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/)
+[coordinated](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/05/fact-sheet-biden-harris-administration-actions-following-the-francis-scott-key-bridge-collapse/)
 with rail and trucking companies to help reroute the flow of critical
 goods in real-time. This all-hands-on-deck approach kept goods flowing
 throughout the region, workers at their jobs, and the local economy
 operating at full capacity until the Port of Baltimore was [able to
 fully
-reopen](https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/12/statement-from-president-joe-biden-on-the-reopening-of-the-port-of-baltimore/)
+reopen](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/12/statement-from-president-joe-biden-on-the-reopening-of-the-port-of-baltimore/)
 in less than three months.
 
 *Investing in Infrastructure and Manufacturing*
@@ -177,7 +177,7 @@ critical value chains that underpin our economic and national security.
 Thanks to the Bipartisan Infrastructure Law, the federal government has
 so far invested more than [$568 billion in American infrastructure
 across 66,000 different
-projects](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-biden-%E2%81%A0harris-administration-transforms-nations-infrastructure-celebrates-historic-progress-in-rebuilding-america-for-the-three-year-anniversary-of-the-bipartisan-infrast/).
+projects](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/15/fact-sheet-biden-%E2%81%A0harris-administration-transforms-nations-infrastructure-celebrates-historic-progress-in-rebuilding-america-for-the-three-year-anniversary-of-the-bipartisan-infrast/).
 We are investing [$8.7 billion in 18 of the nation’s most economically
 significant
 bridges](https://www.transportation.gov/briefing-room/big-deal-biden-harris-administration-announces-major-progress-rebuilding-americas)
@@ -200,7 +200,7 @@ disruption to take action. 
 
 Together, the landmark CHIPS and Science Act and Inflation Reduction Act
 (IRA) [have catalyzed nearly $1
-trillion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+trillion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 announced private-sector investments in critical industries. Because of
 the CHIPS and Science Act, the U.S. is now projected to host [nearly
 30%](https://www.semiconductors.org/america-projected-to-triple-semiconductor-manufacturing-capacity-by-2032-the-largest-rate-of-growth-in-the-world/)
@@ -212,7 +212,7 @@ Similarly, when the President entered office, U.S. producers were only
 able to supply 5 percent of global lithium demand. Because of the clean
 energy provisions of the IRA, the U.S. is now on track to supply [more
 than one-fifth of global lithium
-demand](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-takes-further-action-to-strengthen-and-secure-critical-mineral-supply-chains/)
+demand](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/20/fact-sheet-biden-harris-administration-takes-further-action-to-strengthen-and-secure-critical-mineral-supply-chains/)
 outside of China by 2030, enabling us to power grid storage batteries
 and electric vehicles.
 
@@ -302,7 +302,7 @@ farmers. 
 
 Supply chain resilience has always been vital to our economic and
 national security. President Biden once
-[invoked](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/24/remarks-by-president-biden-at-signing-of-an-executive-order-on-supply-chains/)
+[invoked](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/02/24/remarks-by-president-biden-at-signing-of-an-executive-order-on-supply-chains/)
 a proverb attributed to Benjamin Franklin: “For want of a nail, the shoe
 was lost. For want of a shoe, the horse was lost…” and on and on and
 until, finally, “the whole kingdom was lost, all for the want of a

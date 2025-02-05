@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 17:50:16-05:00
 published_time: 2023-12-19 12:31:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-announces-american-climate-corps-listening-sessions-new-actions-to-mobilize-the-next-generation-of-clean-energy-conservation-and-resilience-workers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-announces-american-climate-corps-listening-sessions-new-actions-to-mobilize-the-next-generation-of-clean-energy-conservation-and-resilience-workers/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces American Climate Corps\
   \ Listening Sessions, New Actions to Mobilize the Next Generation of Clean Energy,\
@@ -19,7 +19,7 @@ justice through American Climate Corps*
 
 In September, President Biden [announced the launch of the American
 Climate
-Corps](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/),
+Corps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/),
 a groundbreaking, workforce training and service initiative that will
 prepare tens of thousands of young people for good-paying jobs in the
 clean economy. In the time since, nearly 50,000 Americans have expressed

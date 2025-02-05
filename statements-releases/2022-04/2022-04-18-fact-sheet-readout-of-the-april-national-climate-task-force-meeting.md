@@ -1,7 +1,7 @@
 ---
 date: '2022-04-18'
 published_time: 2022-04-18 20:46:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-readout-of-the-april-national-climate-task-force-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-readout-of-the-april-national-climate-task-force-meeting/
 tags: statements-releases
 title: "FACT SHEET: Readout of the April National Climate Task Force\_Meeting"
 ---
@@ -35,7 +35,7 @@ future, helped weatherize homes to save families money, enlisted nature
 in the fight against climate change, and more – all while advancing
 environmental justice and creating good-paying, union jobs.
 The [National Climate Task
-Force](https://www.whitehouse.gov/climate/) microsite has been updated
+Force](https://bidenwhitehouse.archives.gov/climate/) microsite has been updated
 to reflect these Administration accomplishments and continued climate
 action.  
    
@@ -51,7 +51,7 @@ infrastructure investments.
    
 As outlined by President Biden’s January 27 [Executive Order on Tackling
 the Climate Crisis at Home and
-Abroad](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
+Abroad](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/executive-order-on-tackling-the-climate-crisis-at-home-and-abroad/),
 the Task Force is chaired by the National Climate Advisor and includes
 Cabinet-level leaders from more than 25 federal agencies to mobilize the
 Biden-Harris Administration’s implementation of a whole-of-government

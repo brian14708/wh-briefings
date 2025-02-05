@@ -1,7 +1,7 @@
 ---
 date: '2023-08-09'
 published_time: 2023-08-09 16:27:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/09/president-biden-signs-executive-order-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/09/president-biden-signs-executive-order-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
 tags: statements-releases
 title: "President\_Biden Signs Executive Order on Addressing United\_States Investments\
   \ In Certain National Security Technologies And Products In Countries Of\_Concern"
@@ -53,7 +53,7 @@ of the notice-and-comment period to solicit additional public feedback
 to make any needed adjustments before the rule goes into effect.
 
 Read the Executive Order
-[here](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/09/executive-order-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/).
+[here](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/08/09/executive-order-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/).
 
 Read Treasury’s fact sheet on the program
 [here](https://home.treasury.gov/system/files/206/Outbound-Fact-Sheet.pdf).

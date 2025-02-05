@@ -2,7 +2,7 @@
 date: '2022-09-02'
 modified_time: 2022-09-02 17:11:27-04:00
 published_time: 2022-09-02 17:11:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-twenty-first-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/02/president-biden-announces-twenty-first-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Twenty-First Operation Fly Formula\_Mission"
 ---

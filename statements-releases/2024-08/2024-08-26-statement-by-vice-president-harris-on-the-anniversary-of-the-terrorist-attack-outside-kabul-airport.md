@@ -2,7 +2,7 @@
 date: '2024-08-26'
 modified_time: 2024-08-25 23:38:46-04:00
 published_time: 2024-08-26 06:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/26/statement-by-vice-president-harris-on-the-anniversary-of-the-terrorist-attack-outside-kabul-airport/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/26/statement-by-vice-president-harris-on-the-anniversary-of-the-terrorist-attack-outside-kabul-airport/
 tags: statements-releases
 title: "Statement by Vice President Harris on the Anniversary of the Terrorist Attack\
   \ Outside Kabul\_Airport"

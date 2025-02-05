@@ -2,7 +2,7 @@
 date: '2023-02-13'
 modified_time: 2023-02-14 11:14:05-05:00
 published_time: 2023-02-13 15:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/13/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/13/fact-sheet-presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons-2/
 tags: statements-releases
 title: "FACT SHEET: President\u2019s Interagency Task Force to Monitor and Combat\
   \ Trafficking in\_Persons"
@@ -21,7 +21,7 @@ released on December 3, 2021, which builds upon the core components of
 the Federal Government’s commitment to ending human trafficking.   
 The Federal Government’s anti-trafficking efforts—to include
 implementing the [National Action Plan to Combat Human
-Trafficking](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf)—are
+Trafficking](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf)—are
 coordinated by the PITF, a cabinet-level entity created by the
 Trafficking Victims Protection Act (TVPA) of 2000.   
   
@@ -239,13 +239,13 @@ protection, prosecution, and partnerships:
 This fact sheet offers only a snapshot of the Administration’s
 accomplishments from 2022 and plans for 2023.  Numerous documents have
 guided our work this past year, including the [National Action
-Plan](https://www.whitehouse.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf), [U.S.
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/National-Action-Plan-to-Combat-Human-Trafficking.pdf), [U.S.
 Advisory Council on Human Trafficking Annual Report
 2022](https://www.state.gov/united-states-advisory-council-on-human-trafficking-annual-report-2022/), [2022
 Trafficking in Persons
 Report](https://www.state.gov/reports/2022-trafficking-in-persons-report/),
 and the [Los Angeles
-Declaration](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/los-angeles-declaration-on-migration-and-protection/). 
+Declaration](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/los-angeles-declaration-on-migration-and-protection/). 
 Important documents exemplifying the excellent work that has been done
 on countering forced labor this past year include: [Uyghur Forced Labor
 Prevention Act Strategy](https://www.dhs.gov/uflpa-strategy), [List of

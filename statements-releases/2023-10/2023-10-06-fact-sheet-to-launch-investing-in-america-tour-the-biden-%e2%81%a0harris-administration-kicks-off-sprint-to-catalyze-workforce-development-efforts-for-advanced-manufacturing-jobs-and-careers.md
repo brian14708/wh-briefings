@@ -2,7 +2,7 @@
 date: '2023-10-06'
 modified_time: 2023-10-06 11:54:40-04:00
 published_time: 2023-10-06 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%e2%81%a0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/fact-sheet-to-launch-investing-in-america-tour-the-biden-%e2%81%a0harris-administration-kicks-off-sprint-to-catalyze-workforce-development-efforts-for-advanced-manufacturing-jobs-and-careers/
 tags: statements-releases
 title: "FACT SHEET: To Launch Investing in America Tour, the Biden-\u2060Harris Administration\
   \ Kicks off Sprint to Catalyze Workforce Development Efforts for Advanced Manufacturing\
@@ -10,7 +10,7 @@ title: "FACT SHEET: To Launch Investing in America Tour, the Biden-\u2060Harris 
 ---
  
 Today, to launch the [third Investing in America
-tour](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/),
+tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/05/fact-sheet-biden-harris-administration-to-kick-off-third-investing-in-america-tour-tout-historic-investments-benefitting-communities-across-the-country/),
 the Biden-Harris Administration is hosting a White House convening to
 officially kick off its Advanced Manufacturing Workforce Sprint—an
 intensive drive to build a diverse, skilled pipeline of workers for good
@@ -132,7 +132,7 @@ employers, such as:
         quality, high-demand manufacturing jobs.  
          
     -   In July, in the Columbus Workforce Hub, Columbus State Community
-        College [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/) that
+        College [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/fact-sheet-biden-harris-administration-launches-workforce-hub-in-columbus-ohio-and-announces-new-commitments-to-help-more-workers-access-good-jobs/) that
         it will work with allies across the state to quadruple the
         number of students trained for engineering technology jobs over
         the next five years.  
@@ -211,11 +211,11 @@ Administration’s prior workforce sprints, which have driven commitments
 to equitable workforce development and job quality improvement to
 address critical needs. These include efforts to expand Registered
 Apprenticeships
-in [trucking](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/) and [cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
+in [trucking](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/04/fact-sheet-the-biden-administrations-unprecedented-actions-to-expand-and-improve-trucking-jobs/) and [cybersecurity](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/fact-sheet-biden-%E2%81%A0harris-administration-accomplishes-cybersecurity-apprenticeship-sprint/),
 and to build pathways into good jobs and careers in broadband,
 electrification, and construction through the [Talent Pipeline
-Challenge](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
+Challenge](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-president-biden-celebrates-new-commitments-toward-equitable-workforce-development-for-infrastructure-jobs/).
 It also supports the goals of [the
-plan](https://www.whitehouse.gov/wp-content/uploads/2023/06/Building-the-Bioworkforce-of-the-Future.pdf) to
+plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Building-the-Bioworkforce-of-the-Future.pdf) to
 expand education and training opportunities to biotechnology and
 biomanufacturing released in July.

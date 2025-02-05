@@ -2,7 +2,7 @@
 date: '2023-05-11'
 modified_time: 2023-05-11 17:14:53-04:00
 published_time: 2023-05-11 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-lower-energy-costs-and-make-affordable-homes-more-energy-efficient-and-climate-resilient-for-hard-working-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/11/fact-sheet-biden-harris-administration-announces-new-actions-and-investments-to-lower-energy-costs-and-make-affordable-homes-more-energy-efficient-and-climate-resilient-for-hard-working-families/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Actions and Investments\
   \ to Lower Energy Costs, and Make Affordable Homes More Energy Efficient and Climate\
@@ -69,7 +69,7 @@ during his first term.
     fraction of household expenses, insulating hard-working families and
     underserved communities’ volatile energy prices. This builds
     on [President Biden’s National Initiative to Advance Building
-    Codes](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/),
+    Codes](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/01/fact-sheet-biden-harris-administration-launches-initiative-to-modernize-building-codes-improve-climate-resilience-and-reduce-energy-costs/),
     which supports modern building codes and standards that save lives,
     reduce property damage, and cut utility bills.
 -   **Reducing the embodied carbon in building materials.** In support
@@ -92,7 +92,7 @@ during his first term.
     can save families 10% per year on their electric bills. This
     announcement builds on Vice President’s recent trip to Dalton,
     Georgia, where she [unveiled the largest community solar project in
-    history](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-on-investing-in-america/).
+    history](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/06/remarks-by-vice-president-harris-on-investing-in-america/).
 
 **<u>SAVING FAMILIES MONEY ON ENERGY COSTS AND EXPANDING HOUSING FOR
 VULNERABLE POPULATIONS</u>**
@@ -142,7 +142,7 @@ VULNERABLE POPULATIONS</u>**
     retrofits of federal buildings, saving taxpayers’
     dollars.](https://www.gsa.gov/about-us/newsroom/news-releases/gsas-energy-retrofit-program-issues-largest-ever-call-to-accelerate-progress-toward-net-zero-buildings-through-president-bidens-investing-in-america-agenda-05102023)
     These retrofits advance the GSA’s efforts to achieve President
-    Biden’s [goal](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/) of
+    Biden’s [goal](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/) of
     net-zero emissions in the federal buildings portfolio by 2045 and
     his campaign commitment to building retrofits. IRA funding will
     enable hundreds of millions in energy savings and cost-saving
@@ -164,7 +164,7 @@ VULNERABLE POPULATIONS</u>**
 
 These actions further the [President’s Executive Order, *Revitalizing
 Our Nation’s Commitment to Environmental Justice for
-All*](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/). 
+All*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/21/executive-order-on-revitalizing-our-nations-commitment-to-environmental-justice-for-all/). 
 Reducing energy burden, cutting emissions, and improving climate
 resilience is crucial to communities that face disproportionate climate
 risks, such as flooding, fire and extreme temperature. The national
@@ -174,7 +174,7 @@ than for non-low-income households.
 Today’s announcements were made following last week’s [convening at the
 White House with 24 states to highlight their efforts on commercial and
 residential building decarbonization policies and
-programs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/05/readout-of-white-house-convening-on-advancing-clean-buildings/) that
+programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/05/readout-of-white-house-convening-on-advancing-clean-buildings/) that
 lower utility bills, improve climate resilience, and reduce emissions.
 
 \###

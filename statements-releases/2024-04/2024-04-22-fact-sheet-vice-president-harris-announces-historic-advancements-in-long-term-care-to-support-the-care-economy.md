@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-22 09:13:09-04:00
 published_time: 2024-04-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-vice-president-harris-announces-historic-advancements-in-long-term-care-to-support-the-care-economy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/22/fact-sheet-vice-president-harris-announces-historic-advancements-in-long-term-care-to-support-the-care-economy/
 tags: statements-releases
 title: "Fact Sheet: Vice President Harris Announces Historic Advancements in Long-Term\
   \ Care to Support the Care\_Economy"

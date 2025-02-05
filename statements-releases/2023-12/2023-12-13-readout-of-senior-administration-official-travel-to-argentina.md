@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 17:10:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-of-senior-administration-official-travel-to-argentina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/readout-of-senior-administration-official-travel-to-argentina/
 tags: statements-releases
 title: "Readout of Senior Administration Official Travel to\_Argentina"
 ---

@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 09:20:41-04:00
 published_time: 2022-05-04 09:20:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/04/executive-order-on-enhancing-the-national-quantum-initiative-advisory-committee/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/04/executive-order-on-enhancing-the-national-quantum-initiative-advisory-committee/
 tags: presidential-actions
 title: "Executive Order on Enhancing the National Quantum Initiative Advisory\_Committee"
 ---

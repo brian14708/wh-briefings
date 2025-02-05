@@ -2,7 +2,7 @@
 date: '2024-08-16'
 modified_time: 2024-08-16 10:08:39-04:00
 published_time: 2024-08-16 10:08:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/16/statement-from-vice-president-kamala-harris-on-the-inflation-reduction-act-anniversary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/16/statement-from-vice-president-kamala-harris-on-the-inflation-reduction-act-anniversary/
 tags: statements-releases
 title: "Statement from Vice President Kamala\_Harris on the Inflation Reduction Act\_\
   Anniversary"

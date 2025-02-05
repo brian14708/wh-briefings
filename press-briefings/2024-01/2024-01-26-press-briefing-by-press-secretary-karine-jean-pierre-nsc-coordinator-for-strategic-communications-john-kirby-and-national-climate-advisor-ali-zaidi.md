@@ -2,7 +2,7 @@
 date: '2024-01-26'
 modified_time: 2024-01-26 18:17:20-05:00
 published_time: 2024-01-26 18:17:19-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/01/26/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-national-climate-advisor-ali-zaidi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/01/26/press-briefing-by-press-secretary-karine-jean-pierre-nsc-coordinator-for-strategic-communications-john-kirby-and-national-climate-advisor-ali-zaidi/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, NSC Coordinator for\
   \ Strategic Communications John Kirby, and National Climate Advisor Ali\_Zaidi"

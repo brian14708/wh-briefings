@@ -2,7 +2,7 @@
 date: '2022-05-13'
 modified_time: 2022-05-13 21:33:59-04:00
 published_time: 2022-05-13 21:33:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/asean-u-s-special-summit-2022-joint-vision-statement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/asean-u-s-special-summit-2022-joint-vision-statement/
 tags: statements-releases
 title: "ASEAN-U.S. Special Summit 2022, Joint Vision\_Statement"
 ---

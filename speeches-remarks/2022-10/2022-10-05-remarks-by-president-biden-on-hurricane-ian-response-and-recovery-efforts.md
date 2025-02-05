@@ -1,7 +1,7 @@
 ---
 date: '2022-10-05'
 published_time: 2022-10-05 22:02:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/05/remarks-by-president-biden-on-hurricane-ian-response-and-recovery-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/05/remarks-by-president-biden-on-hurricane-ian-response-and-recovery-efforts/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Hurricane Ian Response and Recovery\_Efforts"
 ---

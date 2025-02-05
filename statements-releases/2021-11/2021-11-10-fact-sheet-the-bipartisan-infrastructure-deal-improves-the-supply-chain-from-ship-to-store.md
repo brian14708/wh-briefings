@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-11-10'
 modified_time: 2021-11-09 22:55:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-the-bipartisan-infrastructure-deal-improves-the-supply-chain-from-ship-to-store/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/10/fact-sheet-the-bipartisan-infrastructure-deal-improves-the-supply-chain-from-ship-to-store/
 published_time: 2021-11-10 06:00:00-05:00
 title: "FACT SHEET: The Bipartisan Infrastructure Deal Improves the Supply Chain from\
   \ Ship to\_Store"
@@ -20,7 +20,7 @@ with disabilities.
 
 Despite global disruptions due to the pandemic, [America is moving
 record numbers of
-goods](https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
+goods](https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/)
 from our ports to shelves and homes. The Ports of Long Beach and Los
 Angeles, for example, which import 40% of all containerized imports into
 the country—are handling the most in their history, 17% more than their

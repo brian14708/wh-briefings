@@ -1,7 +1,7 @@
 ---
 date: '2023-02-22'
 published_time: 2023-02-22 19:30:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-red-flag-laws/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-red-flag-laws/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on \u201CRed\
   \ Flag\u201D\_Laws"
@@ -18,7 +18,7 @@ flag” laws – allow family members, law enforcement, or other responsible
 individuals to petition for a court order temporarily barring people in
 crisis from accessing firearms if they present a danger to themselves or
 others. This meeting follows a
-[convening](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/19/readout-of-white-house-meeting-with-state-legislative-leaders-on-extreme-risk-protection-order-erpo-legislation/)
+[convening](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/19/readout-of-white-house-meeting-with-state-legislative-leaders-on-extreme-risk-protection-order-erpo-legislation/)
 White House leaders hosted on ERPO legislation in August 2022, as well
 as a meeting with Attorneys General in 2021 on this issue.  
   

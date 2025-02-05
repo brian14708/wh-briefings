@@ -2,7 +2,7 @@
 date: '2023-06-27'
 modified_time: 2023-06-27 17:13:28-04:00
 published_time: 2023-06-27 16:45:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/06/27/press-briefing-by-principal-deputy-press-secretary-olivia-dalton-and-national-economic-council-director-lael-brainard/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/06/27/press-briefing-by-principal-deputy-press-secretary-olivia-dalton-and-national-economic-council-director-lael-brainard/
 tags: press-briefings
 title: "Press Briefing by Principal Deputy Press Secretary Olivia Dalton and National\
   \ Economic Council Director Lael\_Brainard"

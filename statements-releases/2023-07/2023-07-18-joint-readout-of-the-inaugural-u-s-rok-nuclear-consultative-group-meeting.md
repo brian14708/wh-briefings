@@ -1,7 +1,7 @@
 ---
 date: '2023-07-18'
 published_time: 2023-07-18 15:48:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/joint-readout-of-the-inaugural-u-s-rok-nuclear-consultative-group-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/18/joint-readout-of-the-inaugural-u-s-rok-nuclear-consultative-group-meeting/
 tags: statements-releases
 title: "Joint Readout of the Inaugural U.S.-ROK Nuclear Consultative Group\_Meeting"
 ---

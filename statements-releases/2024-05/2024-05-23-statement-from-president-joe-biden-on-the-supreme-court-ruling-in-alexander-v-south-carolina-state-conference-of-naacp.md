@@ -1,7 +1,7 @@
 ---
 date: '2024-05-23'
 published_time: 2024-05-23 15:45:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/statement-from-president-joe-biden-on-the-supreme-court-ruling-in-alexander-v-south-carolina-state-conference-of-naacp/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/statement-from-president-joe-biden-on-the-supreme-court-ruling-in-alexander-v-south-carolina-state-conference-of-naacp/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Supreme Court Ruling in Alexander\
   \ v. South Carolina State Conference of\_NAACP"

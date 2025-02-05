@@ -2,7 +2,7 @@
 date: '2022-11-07'
 modified_time: 2022-11-07 12:02:39-05:00
 published_time: 2022-11-07 12:02:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/07/fact-sheet-president-bidens-leadership-to-tackle-the-climate-crisis-at-home-and-abroad-galvanizes-unprecedented-momentum-at-start-of-u-n-climate-conference-cop27/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/07/fact-sheet-president-bidens-leadership-to-tackle-the-climate-crisis-at-home-and-abroad-galvanizes-unprecedented-momentum-at-start-of-u-n-climate-conference-cop27/
 tags: statements-releases
 title: "FACT SHEET:\_President\_Biden\u2019s Leadership to Tackle the Climate Crisis\
   \ at Home and Abroad Galvanizes Unprecedented Momentum at Start of U.N. Climate\

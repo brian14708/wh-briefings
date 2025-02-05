@@ -1,7 +1,7 @@
 ---
 date: '2024-10-18'
 published_time: 2024-10-18 11:27:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-and-chancellor-olaf-scholz-of-germany-in-joint-statements-to-the-press-berlin-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/18/remarks-by-president-biden-and-chancellor-olaf-scholz-of-germany-in-joint-statements-to-the-press-berlin-germany/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Chancellor Olaf Scholz of Germany in Joint\
   \ Statements to the Press | Berlin,\_Germany"

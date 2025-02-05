@@ -1,7 +1,7 @@
 ---
 date: '2023-06-30'
 published_time: 2023-06-30 18:35:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/30/memorandum-on-certifications-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-kennedy-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/30/memorandum-on-certifications-regarding-disclosure-of-information-in-certain-records-related-to-the-assassination-of-president-john-f-kennedy-2/
 tags: presidential-actions
 title: "Memorandum on Certifications Regarding Disclosure of Information in Certain\
   \ Records Related to the Assassination of President John F.\_Kennedy"

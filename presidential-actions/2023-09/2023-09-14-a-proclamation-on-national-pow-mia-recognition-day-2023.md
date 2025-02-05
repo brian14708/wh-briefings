@@ -1,7 +1,7 @@
 ---
 date: '2023-09-14'
 published_time: 2023-09-14 12:13:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/14/a-proclamation-on-national-pow-mia-recognition-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/14/a-proclamation-on-national-pow-mia-recognition-day-2023/
 tags: presidential-actions
 title: "A Proclamation on National POW/MIA Recognition Day,\_2023"
 ---

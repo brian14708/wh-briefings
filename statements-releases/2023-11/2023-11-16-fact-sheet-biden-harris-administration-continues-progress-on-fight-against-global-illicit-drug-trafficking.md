@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 11:04:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-continues-progress-on-fight-against-global-illicit-drug-trafficking/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/fact-sheet-biden-harris-administration-continues-progress-on-fight-against-global-illicit-drug-trafficking/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues Progress on Fight\
   \ Against Global Illicit Drug\_Trafficking"
@@ -80,11 +80,11 @@ trafficking include:
 -   **Announcing a strategic approach to commercially disrupting the
     global illicit fentanyl supply chain.** The Biden-Harris
     Administration [announced a strengthened whole-of-government
-    approach](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/) to
+    approach](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/) to
     save lives by disrupting the trafficking of illicit fentanyl and its
     precursors into American communities. This approach builds on the
     President’s [*National Drug Control
-    Strategy*](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/#:~:text=The%20Strategy%20focuses%20on%20two,to%20guide%20all%20these%20efforts.) and
+    Strategy*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/#:~:text=The%20Strategy%20focuses%20on%20two,to%20guide%20all%20these%20efforts.) and
     helps deliver on his State of the Union call to beat the opioid and
     overdose epidemic by cracking down on the production, sale, and
     trafficking of illicit fentanyl to help save lives, protect the
@@ -97,20 +97,20 @@ trafficking include:
     funding request includes more than $1.2 billion to stop the flow of
     illicit fentanyl into American communities; portions of this funding
     will support [an additional 1,300 border patrol
-    agents](https://www.whitehouse.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) to
+    agents](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) to
     work alongside the 20,200 border patrol agents already funded in the
     FY24 budget.   
 -   **Deploying detection technology.** President Biden’s FY24
     budget [called for $535 million in U.S. Customs and Border
     Protection for border
-    technology](https://www.whitehouse.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-strengthens-border-security-enhances-legal-pathways-and-provides-resources-to-enforce-our-immigration-laws/),
+    technology](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/03/09/fact-sheet-president-bidens-budget-strengthens-border-security-enhances-legal-pathways-and-provides-resources-to-enforce-our-immigration-laws/),
     including $305 million for Non-Intrusive Inspection Systems, with a
     primary focus on fentanyl detection at ports of entry. Further,
     President Biden’s national security supplemental funding request
     includes more than $1.2 billion to stop the flow of illicit fentanyl
     into American communities; portions of this funding will [ensure
     deployment of more than 100 cutting-edge detection
-    machines](https://www.whitehouse.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) that
+    machines](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/10/20/white-house-calls-on-congress-for-immediate-action-to-continue-the-administrations-work-to-disrupt-fentanyl-trafficking/) that
     will help detect fentanyl at ports of entry at the southwest border.
 -   **Expanding our High Intensity Drug Trafficking Area (HIDTA)
     Program.** The HIDTA program devotes more than $302 million to
@@ -118,14 +118,14 @@ trafficking include:
     to stop traffickers across all 50 states. Earlier this year, [the
     White House announced the designation of nine new counties to the
     HIDTA
-    Program](https://www.whitehouse.gov/ondcp/briefing-room/2023/07/06/the-white-house-announces-nine-newly-designated-counties-across-america-are-joining-the-high-intensity-drug-trafficking-areas-program/).
+    Program](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/07/06/the-white-house-announces-nine-newly-designated-counties-across-america-are-joining-the-high-intensity-drug-trafficking-areas-program/).
     The addition of these nine counties to the HIDTA program will allow
     additional resources to be deployed to areas hardest hit by drug
     trafficking and overdoses.
 -   **Targeting the global illicit supply chain.** President Biden
     issued the [*Executive Order on Imposing Sanctions on Foreign
     Persons Involved in the Global Illicit Drug
-    Trade*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/) to
+    Trade*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/15/executive-order-on-imposing-sanctions-on-foreign-persons-involved-in-the-global-illicit-drug-trade/) to
     target the enablers of the global illicit synthetic drug supply
     chain including raw material brokers, financiers, and others. This
     allows the U.S. government to target not just drug kingpins but also
@@ -133,7 +133,7 @@ trafficking include:
 -   **Launching the Global Coalition to Address Synthetic Drug
     Threats.** The [Biden-Harris Administration launched the Global
     Coalition to Address Synthetic Drug
-    Threats](https://www.whitehouse.gov/ondcp/briefing-room/2023/07/07/dr-rahul-gupta-releases-statement-on-the-launch-of-the-global-coalition-to-address-synthetic-drug-threats/) that
+    Threats](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/07/07/dr-rahul-gupta-releases-statement-on-the-launch-of-the-global-coalition-to-address-synthetic-drug-threats/) that
     will help accelerate efforts against illicit synthetic drugs and
     employ coordinated approaches to prevent illicit drug manufacturing,
     detect emerging drug threats, disrupt trafficking, address illicit
@@ -147,7 +147,7 @@ trafficking include:
 -   **Regulating “precursor” chemicals used to produce illicit
     fentanyl.** At the request of the United States, the UN Commission
     on Narcotic Drugs
-    (CND) [voted](https://www.whitehouse.gov/ondcp/briefing-room/2022/03/16/at-urging-of-u-s-un-commission-acts-against-precursor-chemicals-used-to-produce-illicit-fentanyl/) to
+    (CND) [voted](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/03/16/at-urging-of-u-s-un-commission-acts-against-precursor-chemicals-used-to-produce-illicit-fentanyl/) to
     control three chemicals used by drug traffickers to produce illicit
     fentanyl.  In addition, the United States placed 28 chemicals and
     certain equipment used in the production of fentanyl,

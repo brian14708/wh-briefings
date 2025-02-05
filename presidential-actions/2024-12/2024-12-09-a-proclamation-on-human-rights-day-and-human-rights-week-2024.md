@@ -2,7 +2,7 @@
 date: '2024-12-09'
 modified_time: 2024-12-09 18:12:47-05:00
 published_time: 2024-12-09 18:12:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/09/a-proclamation-on-human-rights-day-and-human-rights-week-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/09/a-proclamation-on-human-rights-day-and-human-rights-week-2024/
 tags: presidential-actions
 title: "A Proclamation on Human Rights Day and Human Rights Week,\_2024"
 ---

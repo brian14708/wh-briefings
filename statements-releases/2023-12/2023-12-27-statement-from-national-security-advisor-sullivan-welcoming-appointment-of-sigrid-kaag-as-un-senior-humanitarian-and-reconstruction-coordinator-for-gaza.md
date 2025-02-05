@@ -2,7 +2,7 @@
 date: '2023-12-27'
 modified_time: 2023-12-27 11:42:10-05:00
 published_time: 2023-12-27 11:42:09-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/27/statement-from-national-security-advisor-sullivan-welcoming-appointment-of-sigrid-kaag-as-un-senior-humanitarian-and-reconstruction-coordinator-for-gaza/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/27/statement-from-national-security-advisor-sullivan-welcoming-appointment-of-sigrid-kaag-as-un-senior-humanitarian-and-reconstruction-coordinator-for-gaza/
 tags: statements-releases
 title: "Statement from National Security Advisor Sullivan Welcoming Appointment of\
   \ Sigrid Kaag as UN Senior Humanitarian and Reconstruction Coordinator for\_Gaza"

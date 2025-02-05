@@ -1,7 +1,7 @@
 ---
 tags: press-briefings
 date: '2022-02-16'
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/02/16/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-83/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/02/16/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-83/
 published_time: 2022-02-16 15:06:32-05:00
 title: "Press Briefing by White\_House COVID-\u206019 Response Team and Public Health\_\
   Officials"
@@ -625,4 +625,4 @@ next briefing.
 
   
 To view the COVID Press Briefing slides, visit:
-<https://www.whitehouse.gov/wp-content/uploads/2022/02/COVID-Press-Briefing-2.16.22-pdf.pdf>
+<https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/02/COVID-Press-Briefing-2.16.22-pdf.pdf>

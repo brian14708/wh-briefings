@@ -1,7 +1,7 @@
 ---
 date: '2023-10-03'
 published_time: 2023-10-03 14:26:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/readout-of-president-bidens-call-with-allies-and-partners-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/readout-of-president-bidens-call-with-allies-and-partners-2/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with Allies and\_Partners"
 ---

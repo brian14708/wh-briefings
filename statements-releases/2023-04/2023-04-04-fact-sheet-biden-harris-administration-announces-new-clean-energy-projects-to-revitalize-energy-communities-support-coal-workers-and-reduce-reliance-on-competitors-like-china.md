@@ -2,7 +2,7 @@
 date: '2023-04-04'
 modified_time: 2023-04-04 09:26:47-04:00
 published_time: 2023-04-04 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/04/fact-sheet-biden-harris-administration-announces-new-clean-energy-projects-to-revitalize-energy-communities-support-coal-workers-and-reduce-reliance-on-competitors-like-china/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Clean Energy Projects\
   \ to Revitalize Energy Communities, Support Coal Workers, and Reduce Reliance on\
@@ -39,7 +39,7 @@ federal agencies that the Interagency Working Group on Coal and Power
 Plant Communities and Economic Revitalization has driven to the
 hardest-hit energy communities across the country. They also build on
 the **more than $7.4 billion** that [companies have
-invested](https://www.whitehouse.gov/invest/) in energy communities to
+invested](https://bidenwhitehouse.archives.gov/invest/) in energy communities to
 spur clean energy manufacturing, steel production, and critical minerals
 processing.
 

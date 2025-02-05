@@ -2,7 +2,7 @@
 date: '2022-12-05'
 modified_time: 2022-12-05 17:01:32-05:00
 published_time: 2022-12-05 17:01:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/05/readout-of-national-security-advisor-jake-sullivans-travel-to-brasilia-brazil/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/05/readout-of-national-security-advisor-jake-sullivans-travel-to-brasilia-brazil/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Travel to Brasilia,\_\
   Brazil"

@@ -2,7 +2,7 @@
 date: '2024-10-14'
 modified_time: 2024-10-14 20:52:58-04:00
 published_time: 2024-10-14 16:45:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/14/statement-by-vice-president-kamala-harris-marking-one-year-since-the-killing-of-wadee-alfayoumi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/14/statement-by-vice-president-kamala-harris-marking-one-year-since-the-killing-of-wadee-alfayoumi/
 tags: statements-releases
 title: "Statement by Vice President Kamala\_Harris Marking One Year Since the Killing\
   \ of Wadee\_Alfayoumi"

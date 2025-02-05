@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 15:53:03-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/03/remarks-by-president-biden-after-medal-of-valor-ceremony/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/03/remarks-by-president-biden-after-medal-of-valor-ceremony/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Medal of Valor\_Ceremony"
 ---

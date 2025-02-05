@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 10:46:58-04:00
 published_time: 2024-07-29 10:46:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-white-house-announces-new-private-sector-investments-in-american-maritime-industries-due-to-biden-harris-administration-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-white-house-announces-new-private-sector-investments-in-american-maritime-industries-due-to-biden-harris-administration-efforts/
 tags: statements-releases
 title: "FACT SHEET: White\_House Announces New Private Sector Investments in American\
   \ Maritime Industries Due to Biden-\u2060Harris Administration\_Efforts"
@@ -52,7 +52,7 @@ develop pathways for broader shipbuilding collaboration.
 **Bollinger Shipyards**: The first and only shipbuilder in the United
 States to design and build a heavy polar icebreaker in over 50 years,
 Bollinger will play a critical role in [the Icebreaker Collaboration
-Effort](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/),
+Effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/),
 also known as “ICE Pact”, and its efforts to strengthen the polar
 capabilities of the United States and its allies through the creation of
 a fleet of polar icebreakers. Bollinger is currently under contract to
@@ -115,7 +115,7 @@ objectives. New and ongoing actions include:
     state, local, and academic partners.  
 -   On July 11, the leaders of the United States, Canada, and Finland
     announced their intent to create the [Icebreaker Collaboration
-    Effort](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/)
+    Effort](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/11/biden-harris-administration-announces-new-polar-partnership-ice-pact-alongside-finland-and-canada/)
     or “ICE Pact” – a trilateral arrangement to collaborate on the
     production of icebreakers, alongside allies and partners, labor, and
     industry. Due to the capital intensity of shipbuilding, long-term,

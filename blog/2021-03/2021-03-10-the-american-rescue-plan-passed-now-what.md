@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-03-10'
 modified_time: 2021-03-11 18:13:53-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/03/10/the-american-rescue-plan-passed-now-what/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/03/10/the-american-rescue-plan-passed-now-what/
 published_time: 2021-03-10 17:50:55-05:00
 title: "The American Rescue Plan Passed \u2013 Now\_What?"
 ---
@@ -49,11 +49,11 @@ safely, get shots in arms faster, and help those who have lost their
 jobs through no fault of their own.
 
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?w=2360"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?w=2360"
 class="lazy-load object-fit-cover"
 data-sizes="(max-width: 2360px) 100vw, 2360px" loading="lazy"
 sizes="(max-width: 2360px) 100vw, 2360px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png 5000w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=615,308 615w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=768,384 768w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1270,635 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1536,768 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=2048,1024 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1180,590 1180w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=2360,1180 2360w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1200,600 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1038,519 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png 5000w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=615,308 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=768,384 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1270,635 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1536,768 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=2048,1024 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1180,590 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=2360,1180 2360w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1200,600 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/ARP-Hero_2500x1250_V3.png?resize=1038,519 1038w"
 width="2360" height="1180" />
 
 American Rescue Plan

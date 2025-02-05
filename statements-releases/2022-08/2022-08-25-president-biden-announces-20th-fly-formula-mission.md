@@ -1,7 +1,7 @@
 ---
 date: '2022-08-25'
 published_time: 2022-08-25 18:35:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/president-biden-announces-20th-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/president-biden-announces-20th-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces 20th Fly Formula\_Mission"
 ---
@@ -64,16 +64,16 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture1.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture1.jpg"
 class="wp-image-60230" loading="lazy" width="298" height="178" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png"
 class="wp-image-60231" loading="lazy"
 sizes="(max-width: 220px) 100vw, 220px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png 413w, https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png?resize=150,150 150w, https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png?resize=300,300 300w, https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png?resize=600,600 600w, https://www.whitehouse.gov/wp-content/uploads/2022/08/Picture2.png?resize=1200,1200 1200w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png 413w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png?resize=150,150 150w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png?resize=300,300 300w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png?resize=600,600 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/Picture2.png?resize=1200,1200 1200w"
 width="220" height="220" />
 </figure>
 

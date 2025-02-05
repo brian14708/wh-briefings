@@ -2,7 +2,7 @@
 date: '2024-10-02'
 modified_time: 2024-10-03 10:11:57-04:00
 published_time: 2024-10-02 22:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/02/remarks-by-president-biden-before-an-operational-briefing-on-the-impacts-of-hurricane-helene-raleigh-nc/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/02/remarks-by-president-biden-before-an-operational-briefing-on-the-impacts-of-hurricane-helene-raleigh-nc/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before an Operational Briefing on the Impacts\
   \ of Hurricane Helene | Raleigh,\_NC"

@@ -2,7 +2,7 @@
 date: '2023-11-27'
 modified_time: 2023-11-26 19:35:10-05:00
 published_time: 2023-11-27 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/27/first-lady-jill-biden-announces-2023-white-house-holiday-themethe-magic-wonder-and-joy-of-the-holidays/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/27/first-lady-jill-biden-announces-2023-white-house-holiday-themethe-magic-wonder-and-joy-of-the-holidays/
 tags: statements-releases
 title: "First Lady Jill\_Biden Announces 2023 White\_House Holiday Theme:The \u201C\
   Magic, Wonder, and Joy\u201D of the\_Holidays"

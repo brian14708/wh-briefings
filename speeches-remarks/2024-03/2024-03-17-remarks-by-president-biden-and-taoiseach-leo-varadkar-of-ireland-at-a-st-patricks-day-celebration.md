@@ -2,7 +2,7 @@
 date: '2024-03-17'
 modified_time: 2024-03-18 11:00:49-04:00
 published_time: 2024-03-17 22:53:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-a-st-patricks-day-celebration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/17/remarks-by-president-biden-and-taoiseach-leo-varadkar-of-ireland-at-a-st-patricks-day-celebration/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and Taoiseach Leo Varadkar of Ireland at a St.\
   \ Patrick\u2019s Day\_Celebration"

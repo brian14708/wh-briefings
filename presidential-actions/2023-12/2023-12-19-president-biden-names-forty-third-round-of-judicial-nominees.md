@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-19 15:09:34-05:00
 published_time: 2023-12-19 08:15:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/19/president-biden-names-forty-third-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/19/president-biden-names-forty-third-round-of-judicial-nominees/
 tags: presidential-actions
 title: "President\_Biden Names Forty-Third Round of Judicial\_Nominees"
 ---

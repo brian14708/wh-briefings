@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-15'
 modified_time: 2021-10-14 22:24:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/15/fact-sheet-biden-administration-roadmap-to-build-an-economy-resilient-to-climate-change-impacts/
 published_time: 2021-10-15 05:00:00-04:00
 title: "FACT SHEET: Biden Administration Roadmap to Build an Economy Resilient to\
   \ Climate Change\_Impacts"
@@ -14,7 +14,7 @@ Financial Risks of Climate Change*
 
 Today, the Biden-Harris Administration released a [comprehensive,
 government-wide
-strategy](https://www.whitehouse.gov/wp-content/uploads/2021/10/Climate-Finance-Report.pdf)
+strategy](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/10/Climate-Finance-Report.pdf)
 to measure, disclose, manage and mitigate the systemic risks climate
 change poses to American families, businesses, and the economy –
 building on actions already taken by the Biden-Harris Administration
@@ -56,7 +56,7 @@ the middle-out go hand-in-hand.   
 The Administration’s whole-of-government strategy includes six main
 pillars to achieve the goals of the President’s May 2021 [Executive
 Order on Climate-Related Financial
-Risks](https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/),
+Risks](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/05/20/fact-sheet-president-biden-directs-agencies-to-analyze-and-mitigate-the-risk-climate-change-poses-to-homeowners-and-consumers-businesses-and-workers-and-the-financial-system-and-federal-government/),
 including several major announcements this week demonstrating concrete
 actions to protect American families, the federal government, and the
 economy from climate-related financial risk:  

@@ -1,7 +1,7 @@
 ---
 date: '2024-10-02'
 published_time: 2024-10-02 12:04:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-biden-%e2%81%a0harris-administration-convenes-fourth-global-gathering-to-counter-ransomware/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/02/fact-sheet-biden-%e2%81%a0harris-administration-convenes-fourth-global-gathering-to-counter-ransomware/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Convenes Fourth Global Gathering\
   \ to Counter\_Ransomware"

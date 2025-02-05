@@ -2,7 +2,7 @@
 date: '2024-05-22'
 modified_time: 2024-05-21 23:21:59-04:00
 published_time: 2024-05-22 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/22/statement-from-president-joe-biden-on-7-7-billion-in-student-debt-cancellation-for-160000-borrowers/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/22/statement-from-president-joe-biden-on-7-7-billion-in-student-debt-cancellation-for-160000-borrowers/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on $7.7 Billion in Student Debt Cancellation\
   \ for 160,000\_Borrowers"

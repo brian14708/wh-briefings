@@ -2,7 +2,7 @@
 date: '2022-08-16'
 modified_time: 2022-08-16 09:08:51-04:00
 published_time: 2022-08-16 09:10:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/16/statement-by-president-joe-biden-on-fda-hearing-aids-final-rule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/16/statement-by-president-joe-biden-on-fda-hearing-aids-final-rule/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on FDA Hearing Aids Final\_Rule"
 ---

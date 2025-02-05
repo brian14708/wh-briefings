@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-15 17:46:42-04:00
 published_time: 2024-06-15 12:49:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/15/remarks-by-vice-president-harris-at-summit-on-peace-in-ukraine-opening-plenary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/15/remarks-by-vice-president-harris-at-summit-on-peace-in-ukraine-opening-plenary/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at Summit on Peace in Ukraine Opening\_Plenary"
 ---

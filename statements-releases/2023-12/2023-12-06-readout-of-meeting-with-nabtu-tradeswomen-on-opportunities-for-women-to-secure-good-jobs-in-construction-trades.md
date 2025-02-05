@@ -2,7 +2,7 @@
 date: '2023-12-06'
 modified_time: 2023-12-06 08:40:46-05:00
 published_time: 2023-12-06 09:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/readout-of-meeting-with-nabtu-tradeswomen-on-opportunities-for-women-to-secure-good-jobs-in-construction-trades/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/readout-of-meeting-with-nabtu-tradeswomen-on-opportunities-for-women-to-secure-good-jobs-in-construction-trades/
 tags: statements-releases
 title: "Readout of Meeting with NABTU Tradeswomen on Opportunities for Women to Secure\
   \ Good Jobs in Construction\_Trades"
@@ -47,20 +47,20 @@ and launched five Workforce Hubs across the country over the last year
 to create new pipelines to good jobs created by public and private
 sector investments mobilized by the Administration’s economic agenda.
 President Biden has also secured [historic
-funding](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
+funding](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
 to expand and diversify registered apprenticeship and pre-apprenticeship
 programs, doubling down on programs that we know work to bring more
 people into the trades. Companies receiving funding through the CHIPS
 and Science Act are [required to provide child
-care](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/)
+care](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/08/icymi-experts-agree-chips-manufacturing-and-national-security-bolstered-by-childcare/)
 in order to make these good jobs accessible. The Department of Labor’s
 [Megaprojects
-Program](https://www.whitehouse.gov/gpc/briefing-room/2023/03/14/the-biden-harris-administration-advances-equal-pay-and-promotes-gender-equity-through-president-bidens-invest-in-america-agenda/)
+Program](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2023/03/14/the-biden-harris-administration-advances-equal-pay-and-promotes-gender-equity-through-president-bidens-invest-in-america-agenda/)
 is providing support for equal employment opportunities and
 non-discrimination practices at large federal construction sites. The
 President has also signed an [Executive Order on the Use of Project
 Labor
-Agreements](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/),
+Agreements](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/02/04/executive-order-on-use-of-project-labor-agreements-for-federal-construction-projects/),
 requiring project labor agreements with limited exceptions for Federal
 contractors on construction projects.
 

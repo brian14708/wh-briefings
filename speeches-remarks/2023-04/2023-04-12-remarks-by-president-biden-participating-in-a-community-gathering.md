@@ -2,7 +2,7 @@
 date: '2023-04-12'
 modified_time: 2023-04-12 19:07:17-04:00
 published_time: 2023-04-12 19:07:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-participating-in-a-community-gathering/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/12/remarks-by-president-biden-participating-in-a-community-gathering/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Participating in a Community\_Gathering"
 ---

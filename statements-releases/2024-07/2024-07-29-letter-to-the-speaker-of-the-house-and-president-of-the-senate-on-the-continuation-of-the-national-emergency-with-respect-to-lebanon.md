@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 17:39:10-04:00
 published_time: 2024-07-29 17:39:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-continuation-of-the-national-emergency-with-respect-to-lebanon/
 tags: statements-releases
 title: "Letter to the Speaker of the House and President of the Senate on the Continuation\
   \ of the National Emergency With Respect to\_Lebanon"

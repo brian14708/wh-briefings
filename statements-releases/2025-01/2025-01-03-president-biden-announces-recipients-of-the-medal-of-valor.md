@@ -1,7 +1,7 @@
 ---
 date: '2025-01-03'
 published_time: 2025-01-03 10:46:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/03/president-biden-announces-recipients-of-the-medal-of-valor/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/03/president-biden-announces-recipients-of-the-medal-of-valor/
 tags: statements-releases
 title: "President\_Biden Announces Recipients of the Medal of\_Valor"
 ---

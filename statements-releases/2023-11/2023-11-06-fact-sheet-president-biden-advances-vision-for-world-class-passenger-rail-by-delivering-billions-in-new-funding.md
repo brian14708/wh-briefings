@@ -2,7 +2,7 @@
 date: '2023-11-06'
 modified_time: 2023-11-06 08:58:35-05:00
 published_time: 2023-11-06 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/06/fact-sheet-president-biden-advances-vision-for-world-class-passenger-rail-by-delivering-billions-in-new-funding/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Advances Vision for World Class Passenger Rail\
   \ by Delivering Billions in New\_Funding"
@@ -260,10 +260,10 @@ travel along America’s rail lines safer:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png"
 class="wp-image-87087" decoding="async" loading="lazy"
 sizes="(max-width: 1056px) 100vw, 1056px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png 1056w, https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png?resize=615,381 615w, https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png?resize=768,476 768w, https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png?resize=516,320 516w, https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png?resize=1032,640 1032w, https://www.whitehouse.gov/wp-content/uploads/2023/11/image.png?resize=1038,644 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png 1056w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png?resize=615,381 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png?resize=768,476 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png?resize=516,320 516w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png?resize=1032,640 1032w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/image.png?resize=1038,644 1038w"
 width="1056" height="655" />
 </figure>
 

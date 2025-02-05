@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-10 15:45:12-04:00
 published_time: 2023-07-11 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-in-continued-fight-against-overdose-epidemic-the-white-house-releases-national-response-plan-to-address-the-emerging-threat-of-fentanyl-combined-with-xylazine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/11/fact-sheet-in-continued-fight-against-overdose-epidemic-the-white-house-releases-national-response-plan-to-address-the-emerging-threat-of-fentanyl-combined-with-xylazine/
 tags: statements-releases
 title: "FACT SHEET: In Continued Fight Against Overdose Epidemic, the White\_House\
   \ Releases National Response Plan to Address the Emerging Threat of Fentanyl Combined\
@@ -20,7 +20,7 @@ Response Plan to coordinate a whole-of-government response against this
 threat. Earlier this spring, ONDCP Director Dr. Gupta used an executive
 designation authority [to designate fentanyl combined with xylazine as
 an emerging threat to the United
-States](https://www.whitehouse.gov/ondcp/briefing-room/2023/04/12/biden-harris-administration-designates-fentanyl-combined-with-xylazine-as-an-emerging-threat-to-the-united-states/) and
+States](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/04/12/biden-harris-administration-designates-fentanyl-combined-with-xylazine-as-an-emerging-threat-to-the-united-states/) and
 proactively address this dangerous threat head-on.
 
 “Since we announced the emerging drug threat earlier this year, we’ve
@@ -39,7 +39,7 @@ together and eradicate this emerging threat.”
 Xylazine has been detected in nearly every state in the country. The
 Biden-Harris Administration [made this designation for the first time in
 U.S.
-history](https://www.whitehouse.gov/wp-content/uploads/2023/01/Emerging-Threats-Criteria-Directive.pdf) due
+history](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/Emerging-Threats-Criteria-Directive.pdf) due
 to xylazine’s growing role in overdose deaths nationwide, and since the
 designation, data from the Centers for Disease Control and Prevention
 (CDC) have continued to show an increase in xylazine-related overdose
@@ -84,12 +84,12 @@ poisoning deaths in at least three of four U.S. census regions by
 The Biden-Harris Administration has ramped up national response efforts
 over the last several months, including the following actions taken by
 agencies across government. In December, Dr.
-Gupta [hosted](https://www.whitehouse.gov/ondcp/briefing-room/2022/12/27/readout-from-dr-guptas-listening-session-with-public-health-and-safety-leaders-on-xylazine-and-efforts-to-address-trends/) a
+Gupta [hosted](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2022/12/27/readout-from-dr-guptas-listening-session-with-public-health-and-safety-leaders-on-xylazine-and-efforts-to-address-trends/) a
 listening session with public health and public safety leaders and
 subject matter experts from several states and territories about trends
 they are seeing related to xylazine and efforts to address these trends.
 In January, Dr.
-Gupta [convened](https://www.whitehouse.gov/ondcp/briefing-room/2023/01/18/readout-of-evolving-and-emerging-drug-threats-committee-meeting-regarding-xylazine/) the *Evolving
+Gupta [convened](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2023/01/18/readout-of-evolving-and-emerging-drug-threats-committee-meeting-regarding-xylazine/) the *Evolving
 and Emerging Threats Committee* to discuss the emergence of fentanyl
 adulterated with xylazine in the illicit drug supply. In February, the
 U.S. Food and Drug Administration [took
@@ -142,14 +142,14 @@ steps states and individuals can take to help address this issue:
     will be key partners in these efforts.
 
 Read the full National Response Plan to Fentanyl Combined with
-Xylazine [HERE](https://www.whitehouse.gov/wp-content/uploads/2023/07/FENTANYL-ADULTERATED-OR-ASSOCIATED-WITH-XYLAZINE-EMERGING-THREAT-RESPONSE-PLAN-Report-July-2023.pdf).
+Xylazine [HERE](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/FENTANYL-ADULTERATED-OR-ASSOCIATED-WITH-XYLAZINE-EMERGING-THREAT-RESPONSE-PLAN-Report-July-2023.pdf).
 
 Read about the Biden-⁠Harris Administration’s efforts to crack down on
 illicit fentanyl supply
-chains [HERE](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/).
+chains [HERE](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/11/fact-sheet-biden-harris-administration-announces-strengthened-approach-to-crack-down-on-illicit-fentanyl-supply-chains/).
 
 Read the Biden-Harris Administration’s National Drug Control
-Strategy [HERE](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/).
+Strategy [HERE](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/fact-sheet-white-house-releases-2022-national-drug-control-strategy-that-outlines-comprehensive-path-forward-to-address-addiction-and-the-overdose-epidemic/).
 
   
  ###

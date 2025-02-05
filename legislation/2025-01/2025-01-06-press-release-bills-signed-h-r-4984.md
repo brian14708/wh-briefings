@@ -2,7 +2,7 @@
 date: '2025-01-06'
 modified_time: 2025-01-06 15:06:03-05:00
 published_time: 2025-01-06 15:06:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2025/01/06/press-release-bills-signed-h-r-4984/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2025/01/06/press-release-bills-signed-h-r-4984/
 tags: legislation
 title: "Press Release: Bills Signed: H.R.\_4984"
 ---

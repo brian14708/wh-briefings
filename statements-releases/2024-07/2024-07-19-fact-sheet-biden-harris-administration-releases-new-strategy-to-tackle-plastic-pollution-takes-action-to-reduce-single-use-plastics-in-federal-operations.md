@@ -2,7 +2,7 @@
 date: '2024-07-19'
 modified_time: 2024-07-19 12:39:42-04:00
 published_time: 2024-07-19 14:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/19/fact-sheet-biden-harris-administration-releases-new-strategy-to-tackle-plastic-pollution-takes-action-to-reduce-single-use-plastics-in-federal-operations/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases New Strategy to Tackle\
   \ Plastic Pollution, Takes Action to Reduce Single-Use Plastics in Federal\_Operations"
@@ -24,7 +24,7 @@ is releasing the first comprehensive, government-wide strategy to target
 plastic pollution at production, processing, use, and disposal.
 [*Mobilizing Federal Action on Plastic Pollution: Progress, Principles,
 and
-Priorities*](https://www.whitehouse.gov/wp-content/uploads/2024/07/Mobilizing-Federal-Action-on-Plastic-Pollution-Progress-Principles-and-Priorities-July-2024.pdf)
+Priorities*](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/07/Mobilizing-Federal-Action-on-Plastic-Pollution-Progress-Principles-and-Priorities-July-2024.pdf)
 outlines existing and new federal actions to reduce the impact of
 plastic pollution throughout the plastic lifecycle and calls for
 sustained and coordinated work with state, local, Tribal, and
@@ -38,7 +38,7 @@ service operations, events, and packaging by 2027, and from all federal
 operations by 2035. This commitment builds on President Biden’s
 [*Executive Order* on *Catalyzing Clean Energy Industries and Jobs
 through Federal
-Sustainability*](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
+Sustainability*](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
 and the President’s [Federal Sustainability
 Plan](https://www.sustainability.gov/federalsustainabilityplan/), which
 directs the federal government to achieve net-zero procurement by 2050,

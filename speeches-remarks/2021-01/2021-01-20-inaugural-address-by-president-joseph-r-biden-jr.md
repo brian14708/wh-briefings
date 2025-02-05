@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-01-20'
 modified_time: 2021-01-21 17:58:05-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/20/inaugural-address-by-president-joseph-r-biden-jr/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/01/20/inaugural-address-by-president-joseph-r-biden-jr/
 published_time: 2021-01-20 15:22:00-05:00
 title: "Inaugural Address by President Joseph R. Biden,\_Jr."
 ---

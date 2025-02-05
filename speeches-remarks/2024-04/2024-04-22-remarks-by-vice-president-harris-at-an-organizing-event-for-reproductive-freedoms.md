@@ -2,7 +2,7 @@
 date: '2024-04-22'
 modified_time: 2024-04-23 17:02:49-04:00
 published_time: 2024-04-22 17:01:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-vice-president-harris-at-an-organizing-event-for-reproductive-freedoms/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/04/22/remarks-by-vice-president-harris-at-an-organizing-event-for-reproductive-freedoms/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at an Organizing Event for Reproductive\_\
   Freedoms"

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-28'
 published_time: 2022-06-28 05:18:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/readout-of-president-bidens-call-with-president-erdogan-of-turkey/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/readout-of-president-bidens-call-with-president-erdogan-of-turkey/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President Erdogan of\_Turkey"
 ---

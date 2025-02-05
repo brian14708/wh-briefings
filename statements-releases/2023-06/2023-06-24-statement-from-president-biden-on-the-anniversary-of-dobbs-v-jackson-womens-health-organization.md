@@ -2,7 +2,7 @@
 date: '2023-06-24'
 modified_time: 2023-06-24 09:01:20-04:00
 published_time: 2023-06-24 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/24/statement-from-president-biden-on-the-anniversary-of-dobbs-v-jackson-womens-health-organization/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/24/statement-from-president-biden-on-the-anniversary-of-dobbs-v-jackson-womens-health-organization/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Anniversary of Dobbs v. Jackson\
   \ Women\u2019s Health\_Organization"

@@ -2,7 +2,7 @@
 date: '2024-07-12'
 modified_time: 2024-07-15 12:58:49-04:00
 published_time: 2024-07-12 18:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/12/remarks-by-president-biden-at-garage-grill-and-fuel-bar-northville-mi-july-12-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/12/remarks-by-president-biden-at-garage-grill-and-fuel-bar-northville-mi-july-12-2024/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Garage Grill and Fuel Bar | Northville, MI\
   \ (July 12,\_2024)"

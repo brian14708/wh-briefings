@@ -2,7 +2,7 @@
 date: '2024-05-21'
 modified_time: 2024-05-21 16:32:07-04:00
 published_time: 2024-05-21 16:32:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/21/readout-of-vice-president-kamala-harris-meeting-with-prime-minister-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/21/readout-of-vice-president-kamala-harris-meeting-with-prime-minister-trudeau-of-canada/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019 Meeting with Prime Minister\
   \ Trudeau of\_Canada"

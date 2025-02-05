@@ -1,7 +1,7 @@
 ---
 date: '2022-10-14'
 published_time: 2022-10-14 21:55:37-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-tomas-pojar-national-security-advisor-to-the-prime-minister-of-the-czech-republic/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/14/readout-of-national-security-advisor-jake-sullivans-meeting-with-tomas-pojar-national-security-advisor-to-the-prime-minister-of-the-czech-republic/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Tomas\
   \ Pojar, National Security Advisor to the Prime Minister of the Czech\_Republic"

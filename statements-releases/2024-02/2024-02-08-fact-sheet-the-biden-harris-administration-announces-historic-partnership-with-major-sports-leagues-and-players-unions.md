@@ -2,7 +2,7 @@
 date: '2024-02-08'
 modified_time: 2024-02-08 16:07:51-05:00
 published_time: 2024-02-08 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/08/fact-sheet-the-biden-harris-administration-announces-historic-partnership-with-major-sports-leagues-and-players-unions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/08/fact-sheet-the-biden-harris-administration-announces-historic-partnership-with-major-sports-leagues-and-players-unions/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Announces Historic Partnership\
   \ with Major Sports Leagues and Players\_Unions"
@@ -26,14 +26,14 @@ In 2022, President Biden hosted the [White House Conference on Hunger,
 Nutrition, and
 Health](https://health.gov/our-work/nutrition-physical-activity/white-house-conference-hunger-nutrition-and-health),
 the first in more than 50 years. The President also
-[announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/executive-summary-biden-harris-administration-national-strategy-on-hunger-nutrition-and-health/)
+[announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/executive-summary-biden-harris-administration-national-strategy-on-hunger-nutrition-and-health/)
 a National Strategy to meet an ambitious goal to end hunger and reduce
 diet-related diseases by 2030 – all while closing disparities among the
 communities that are impacted most.  
    
 Towards that goal, last year the Biden-Harris Administration launched
 the [White House Challenge to End Hunger and Build Healthy
-Communities](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-end-hunger-and-build-healthy-communities-announces-new-public-private-sector-actions-to-continue-momentum-from-hist/)
+Communities](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/24/fact-sheet-biden-harris-administration-launches-the-white-house-challenge-to-end-hunger-and-build-healthy-communities-announces-new-public-private-sector-actions-to-continue-momentum-from-hist/)
 as a nationwide call-to-action to stakeholders across all of society to
 make bold commitments. The historic partnership announced today is one
 of the new commitments cultivated through the White House Challenge.

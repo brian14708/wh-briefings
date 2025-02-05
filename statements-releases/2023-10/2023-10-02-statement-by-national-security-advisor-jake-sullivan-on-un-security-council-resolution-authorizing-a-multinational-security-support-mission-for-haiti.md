@@ -2,7 +2,7 @@
 date: '2023-10-02'
 modified_time: 2023-10-02 17:12:46-04:00
 published_time: 2023-10-02 17:12:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/02/statement-by-national-security-advisor-jake-sullivan-on-un-security-council-resolution-authorizing-a-multinational-security-support-mission-for-haiti/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/02/statement-by-national-security-advisor-jake-sullivan-on-un-security-council-resolution-authorizing-a-multinational-security-support-mission-for-haiti/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on UN Security Council\
   \ Resolution Authorizing a Multinational Security Support Mission for\_Haiti"

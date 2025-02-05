@@ -1,7 +1,7 @@
 ---
 date: '2023-01-31'
 published_time: 2023-01-31 19:59:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/31/readout-of-white-house-meeting-on-efforts-to-combat-cervical-cancer/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/31/readout-of-white-house-meeting-on-efforts-to-combat-cervical-cancer/
 tags: statements-releases
 title: "Readout of White\_House Meeting on Efforts to Combat Cervical\_Cancer"
 ---

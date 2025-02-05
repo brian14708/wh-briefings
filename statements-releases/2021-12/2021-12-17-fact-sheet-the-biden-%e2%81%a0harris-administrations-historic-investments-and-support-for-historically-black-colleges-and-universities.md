@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-17'
 modified_time: 2021-12-17 12:21:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%e2%81%a0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/17/fact-sheet-the-biden-%e2%81%a0harris-administrations-historic-investments-and-support-for-historically-black-colleges-and-universities/
 published_time: 2021-12-17 11:58:15-05:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration\u2019s Historic Investments\
   \ and Support for Historically Black Colleges and\_Universities"
@@ -138,10 +138,10 @@ Initiative on Advancing Educational Equity, Excellence, and Economic
 Opportunity through HBCUs</span>**
 
 In September, President Biden signed an [Executive
-Order](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/) to
+Order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/09/03/executive-order-on-white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-through-historically-black-colleges-and-universities/) to
 re-establish the White House Initiative on Advancing Educational Equity,
 Excellence, and Economic Opportunity through HBCUs and issued
-a [proclamation](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/) recognizing
+a [proclamation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/03/a-proclamation-on-national-historically-black-colleges-and-universities-week-2021/) recognizing
 National HBCU Week. The Executive Order:
 
 -   Calls for a whole of government approach to support HBCUs, including

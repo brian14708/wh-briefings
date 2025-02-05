@@ -2,15 +2,15 @@
 date: '2023-10-19'
 modified_time: 2023-10-19 11:17:08-04:00
 published_time: 2023-10-19 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/19/biden-harris-administration-releases-report-of-the-h-2b-worker-protection-taskforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/19/biden-harris-administration-releases-report-of-the-h-2b-worker-protection-taskforce/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Releases Report of the H-2B Worker Protection\_\
   Taskforce"
 ---
  
 Today, the Biden-Harris Administration released the
-[](https://www.whitehouse.gov/wp-content/uploads/2023/10/Final-H-2B-Worker-Protection-Taskforce-Report.pdf)
-[report](https://www.whitehouse.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf)
+[](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/Final-H-2B-Worker-Protection-Taskforce-Report.pdf)
+[report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf)
 of the H-2B Worker Protection Taskforce (the Taskforce). The report
 announces new actions to be taken by four federal agencies—the
 Departments of Homeland Security (DHS), Labor (DOL), and State, as well
@@ -148,6 +148,6 @@ deferred action request process in support of labor agency enforcement
 interests. 
 
 Read the full Taskforce report
-[here](https://www.whitehouse.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/H-2B-Worker-Protection-Taskforce-Report.pdf).
 
 \###

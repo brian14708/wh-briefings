@@ -1,7 +1,7 @@
 ---
 date: '2023-07-20'
 published_time: 2023-07-20 16:09:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/20/remarks-by-president-biden-on-bidenomics-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/20/remarks-by-president-biden-on-bidenomics-philadelphia-pa/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Bidenomics | Philadelphia,\_PA"
 ---

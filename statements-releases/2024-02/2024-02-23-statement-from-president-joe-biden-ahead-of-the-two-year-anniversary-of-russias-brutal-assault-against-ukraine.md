@@ -2,7 +2,7 @@
 date: '2024-02-23'
 modified_time: 2024-02-23 00:04:09-05:00
 published_time: 2024-02-23 06:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/23/statement-from-president-joe-biden-ahead-of-the-two-year-anniversary-of-russias-brutal-assault-against-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/23/statement-from-president-joe-biden-ahead-of-the-two-year-anniversary-of-russias-brutal-assault-against-ukraine/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Ahead of the Two-Year Anniversary of Russia\u2019\
   s Brutal Assault Against\_Ukraine"

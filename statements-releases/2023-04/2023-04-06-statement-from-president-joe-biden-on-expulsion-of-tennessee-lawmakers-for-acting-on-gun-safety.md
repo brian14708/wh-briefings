@@ -2,7 +2,7 @@
 date: '2023-04-06'
 modified_time: 2023-04-06 21:08:45-04:00
 published_time: 2023-04-06 21:08:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/06/statement-from-president-joe-biden-on-expulsion-of-tennessee-lawmakers-for-acting-on-gun-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/06/statement-from-president-joe-biden-on-expulsion-of-tennessee-lawmakers-for-acting-on-gun-safety/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Expulsion of Tennessee Lawmakers for\
   \ Acting on Gun\_Safety"

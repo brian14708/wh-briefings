@@ -1,7 +1,7 @@
 ---
 date: '2022-08-22'
 published_time: 2022-08-22 20:19:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/22/readout-of-national-security-advisor-jake-sullivans-call-with-portuguese-foreign-minister-joao-gomes-cravinho/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/22/readout-of-national-security-advisor-jake-sullivans-call-with-portuguese-foreign-minister-joao-gomes-cravinho/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Portuguese\
   \ Foreign Minister Joao Gomes\_Cravinho"

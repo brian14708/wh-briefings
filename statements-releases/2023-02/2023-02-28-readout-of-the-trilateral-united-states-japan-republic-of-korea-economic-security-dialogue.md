@@ -2,7 +2,7 @@
 date: '2023-02-28'
 modified_time: 2023-02-28 13:16:06-05:00
 published_time: 2023-02-28 05:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/28/readout-of-the-trilateral-united-states-japan-republic-of-korea-economic-security-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/28/readout-of-the-trilateral-united-states-japan-republic-of-korea-economic-security-dialogue/
 tags: statements-releases
 title: "Readout of the Trilateral United\_States \u2013 Japan \u2013 Republic of Korea\
   \ Economic Security Dialogue"

@@ -2,7 +2,7 @@
 date: '2024-11-27'
 modified_time: 2024-11-27 15:16:02-05:00
 published_time: 2024-11-27 15:16:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/27/president-joseph-r-biden-jr-approves-puerto-rico-major-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/27/president-joseph-r-biden-jr-approves-puerto-rico-major-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Puerto Rico Major Disaster\_Declaration"
 ---

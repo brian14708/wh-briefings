@@ -1,7 +1,7 @@
 ---
 date: '2023-05-16'
 published_time: 2023-05-16 17:38:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/statement-from-president-joe-biden-on-his-veto-of-h-j-res-39/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/statement-from-president-joe-biden-on-his-veto-of-h-j-res-39/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on His Veto of H.J. Res.\_39"
 ---

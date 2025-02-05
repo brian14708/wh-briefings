@@ -2,7 +2,7 @@
 date: '2024-09-30'
 modified_time: 2024-09-30 19:10:45-04:00
 published_time: 2024-09-30 19:10:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/30/fact-sheet-update-biden-harris-administrations-continued-response-to-hurricane-helene/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/30/fact-sheet-update-biden-harris-administrations-continued-response-to-hurricane-helene/
 tags: statements-releases
 title: "FACT SHEET: UPDATE: Biden-\u2060Harris Administration\u2019s Continued Response\
   \ to Hurricane\_Helene"

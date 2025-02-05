@@ -1,7 +1,7 @@
 ---
 date: '2024-05-31'
 published_time: 2024-05-31 18:24:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/31/readout-of-president-bidens-meeting-with-prime-minister-de-croo-of-belgium/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/31/readout-of-president-bidens-meeting-with-prime-minister-de-croo-of-belgium/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister De Croo of\_\
   Belgium"

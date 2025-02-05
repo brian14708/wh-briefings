@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 11:02:09-05:00
 published_time: 2022-12-02 11:00:43-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-and-president-macron-of-france-at-state-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/02/remarks-by-president-biden-and-president-macron-of-france-at-state-dinner/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Macron of France at State\_Dinner"
 ---

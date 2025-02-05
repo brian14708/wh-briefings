@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:47:17-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-protects-and-strengthens-social-security-and-medicare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-protects-and-strengthens-social-security-and-medicare/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Protects and Strengthens Social Security\
   \ and\_Medicare"

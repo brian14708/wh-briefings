@@ -2,7 +2,7 @@
 date: '2022-08-29'
 modified_time: 2022-08-28 16:58:30-04:00
 published_time: 2022-08-29 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/29/statement-by-press-secretary-karine-jean-pierre-announcing-the-date-of-the-white-house-conference-on-hunger-nutrition-and-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/29/statement-by-press-secretary-karine-jean-pierre-announcing-the-date-of-the-white-house-conference-on-hunger-nutrition-and-health/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre Announcing the Date of the\
   \ White\_House Conference on Hunger, Nutrition, and\_Health"

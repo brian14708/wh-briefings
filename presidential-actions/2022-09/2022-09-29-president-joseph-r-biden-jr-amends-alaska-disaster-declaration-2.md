@@ -1,7 +1,7 @@
 ---
 date: '2022-09-29'
 published_time: 2022-09-29 11:25:53-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/29/president-joseph-r-biden-jr-amends-alaska-disaster-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/29/president-joseph-r-biden-jr-amends-alaska-disaster-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends Alaska Disaster\_Declaration"
 ---

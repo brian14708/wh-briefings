@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-03-29'
 modified_time: 2021-03-29 21:15:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/03/29/approaching-policy-with-equity-in-mind/
 published_time: 2021-03-29 10:06:45-04:00
 title: "Approaching Policy with Equity in\_Mind"
 ---
@@ -21,11 +21,11 @@ to ensure that they lift up every single community and leave no one
 behind.
 
 Together, the [White House Gender Policy
-Council](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
-and the [Domestic Policy Council](https://www.whitehouse.gov/dpc/) work
+Council](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/)
+and the [Domestic Policy Council](https://bidenwhitehouse.archives.gov/dpc/) work
 every day to implement [the comprehensive approach to advancing equity
 for
-all](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+all](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 that President Biden and Vice President Harris have prioritized since
 day one. From health, to economic security, to education and
 safety—equity is essential to building a stronger country for us all.
@@ -115,7 +115,7 @@ already taken:
     percent—and it will cut child poverty in half.
 2.  President Biden’s [Executive Order directing federal agencies to
     fully implement all federal laws that prevent
-    discrimination](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
+    discrimination](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/)
     on the basis of sex, to include sexual orientation and gender
     identity, is one of the most consequential policy actions for LGBTQ+
     Americans ever signed by a U.S. President. This is a critical step

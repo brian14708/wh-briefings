@@ -1,7 +1,7 @@
 ---
 date: '2022-09-12'
 published_time: 2022-09-12 21:52:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/joint-statement-following-the-2022-u-s-mexico-high-level-economic-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/joint-statement-following-the-2022-u-s-mexico-high-level-economic-dialogue/
 tags: statements-releases
 title: "Joint Statement Following the 2022 U.S.-Mexico High-Level Economic\_Dialogue"
 ---
@@ -43,7 +43,7 @@ four central pillars:
 4.  Investing in Our People.
 
 Today we reviewed [accomplishments under the
-HLED](https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-2022-u-s-mexico-high-level-economic-dialogue/)
+HLED](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-2022-u-s-mexico-high-level-economic-dialogue/)
 and discussed new areas for collaboration, such as partnering to address
 climate change challenges to meet our commitments under the UN’s 2030
 agenda and greening transportation at the border to improve air quality

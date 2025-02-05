@@ -2,7 +2,7 @@
 date: '2022-07-16'
 modified_time: 2022-07-16 09:22:11-04:00
 published_time: 2022-07-16 09:22:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-king-hamad-bin-isa-al-khalifa-of-bahrain/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/16/readout-of-president-bidens-meeting-with-king-hamad-bin-isa-al-khalifa-of-bahrain/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with King Hamad bin Isa Al Khalifa\
   \ of\_Bahrain"

@@ -1,7 +1,7 @@
 ---
 date: '2024-06-24'
 published_time: 2024-06-24 22:34:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/24/statement-by-white-house-press-secretary-karine-jean-pierre-on-district-court-rulings-on-the-biden-%e2%81%a0harris-administrations-save-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/24/statement-by-white-house-press-secretary-karine-jean-pierre-on-district-court-rulings-on-the-biden-%e2%81%a0harris-administrations-save-plan/
 tags: statements-releases
 title: "Statement by White\_House Press Secretary Karine Jean-Pierre on District Court\
   \ Rulings on the Biden-\u2060Harris Administration\u2019s SAVE\_Plan"

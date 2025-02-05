@@ -2,7 +2,7 @@
 date: '2022-06-14'
 modified_time: 2022-06-14 10:43:14-04:00
 published_time: 2022-06-14 10:43:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/14/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/14/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-philadelphia-pa/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Philadelphia,\_\
   PA"

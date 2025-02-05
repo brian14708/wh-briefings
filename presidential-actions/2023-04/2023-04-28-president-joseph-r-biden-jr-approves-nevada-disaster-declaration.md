@@ -2,7 +2,7 @@
 date: '2023-04-28'
 modified_time: 2023-04-28 07:10:03-04:00
 published_time: 2023-04-28 07:10:02-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/04/28/president-joseph-r-biden-jr-approves-nevada-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/04/28/president-joseph-r-biden-jr-approves-nevada-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Nevada Disaster\_Declaration"
 ---

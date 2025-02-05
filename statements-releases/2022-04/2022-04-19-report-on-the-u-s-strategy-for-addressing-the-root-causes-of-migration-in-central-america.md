@@ -2,14 +2,14 @@
 date: '2022-04-19'
 modified_time: 2022-04-19 15:41:11-04:00
 published_time: 2022-04-19 15:41:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/19/report-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/19/report-on-the-u-s-strategy-for-addressing-the-root-causes-of-migration-in-central-america/
 tags: statements-releases
 title: "Report on the U.S. Strategy for Addressing the Root causes of Migration in\
   \ Central\_America"
 ---
  
 [Vice President Harris launched the Root Causes
-Strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/)
+Strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/29/fact-sheet-strategy-to-address-the-root-causes-of-migration-in-central-america/)
 on July 29, 2021, to align U.S. Government efforts to address the
 economic, governance, and security drivers of irregular migration from
 Central America.  Tackling the persistent challenges that drive
@@ -17,16 +17,16 @@ irregular migration requires sustained political will and cooperation
 across a broad range of stakeholders to foster long-term development in
 the region.  The Vice President has led progress on the Administration’s
 Strategy, including by traveling to
-[Guatemala](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/07/fact-sheet-u-s-guatemala-cooperation/),
-[Mexico](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/),
+[Guatemala](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/07/fact-sheet-u-s-guatemala-cooperation/),
+[Mexico](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/18/remarks-by-vice-president-harris-and-president-lopez-obrador-of-mexico-before-bilateral-meeting/),
 and
-[Honduras](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/)
+[Honduras](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/27/readout-of-vice-president-harriss-meeting-with-president-castro-of-honduras/)
 to launch new initiatives that sustainably address the root causes of
 migration. 
 
 Recognizing the important role for the private sector, Vice President
 Harris brought together private sector leaders through a [*Call to
-Action,*](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
+Action,*](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/13/vice-president-kamala-harris-announces-new-commitments-as-part-of-the-call-to-action-for-the-private-sector-to-deepen-investment-in-central-america-now-totaling-over-1-2-billion/)
 which has resulted in over $1.2 billion in private sector commitments in
 Central America to create new jobs and opportunities for people in the
 region.  Vice President Harris also engaged partners around the world to

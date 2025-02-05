@@ -1,7 +1,7 @@
 ---
 date: '2023-03-21'
 published_time: 2023-03-21 17:52:33-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/readout-of-white-house-state-legislative-convening-on-child-care-access-affordability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/readout-of-white-house-state-legislative-convening-on-child-care-access-affordability/
 tags: statements-releases
 title: "Readout of White\_House State Legislative Convening on Child Care Access &\_\
   Affordability"

@@ -1,7 +1,7 @@
 ---
 date: '2023-12-02'
 published_time: 2023-12-02 07:56:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-meeting-with-president-abdel-fattah-al-sisi-of-egypt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/readout-of-vice-president-harriss-meeting-with-president-abdel-fattah-al-sisi-of-egypt/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with President Abdel Fattah\
   \ Al-Sisi of\_Egypt"

@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 09:10:51-04:00
 published_time: 2022-08-05 09:10:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/05/a-proclamation-on-national-health-center-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/05/a-proclamation-on-national-health-center-week-2022/
 tags: presidential-actions
 title: "A Proclamation on National Health Center Week,\_2022"
 ---

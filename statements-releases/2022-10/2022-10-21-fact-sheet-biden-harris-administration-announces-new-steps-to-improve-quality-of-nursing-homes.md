@@ -2,7 +2,7 @@
 date: '2022-10-21'
 modified_time: 2022-10-21 11:29:26-04:00
 published_time: 2022-10-21 12:20:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-biden-harris-administration-announces-new-steps-to-improve-quality-of-nursing-homes/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces New Steps to Improve\
   \ Quality of Nursing\_Homes"
@@ -15,7 +15,7 @@ homes, with [over 200,000 residents and
 staff](https://www.kff.org/policy-watch/over-200000-residents-and-staff-in-long-term-care-facilities-have-died-from-covid-19/)
 dying from COVID-19. That’s why in his State of the Union, President
 Biden [launched an action
-plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-protecting-seniors-and-people-with-disabilities-by-improving-safety-and-quality-of-care-in-the-nations-nursing-homes/)
+plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/28/fact-sheet-protecting-seniors-and-people-with-disabilities-by-improving-safety-and-quality-of-care-in-the-nations-nursing-homes/)
 to improve the safety and quality of care in the nation’s nursing homes.
 Today, the Biden-Harris Administration announced new actions to increase
 accountability of bad actors in the nursing home industry, improve the

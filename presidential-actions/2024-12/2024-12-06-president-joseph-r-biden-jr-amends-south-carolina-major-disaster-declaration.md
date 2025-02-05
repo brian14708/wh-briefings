@@ -2,7 +2,7 @@
 date: '2024-12-06'
 modified_time: 2024-12-06 15:14:43-05:00
 published_time: 2024-12-06 15:14:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/06/president-joseph-r-biden-jr-amends-south-carolina-major-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/06/president-joseph-r-biden-jr-amends-south-carolina-major-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends South Carolina Major Disaster\_Declaration"
 ---

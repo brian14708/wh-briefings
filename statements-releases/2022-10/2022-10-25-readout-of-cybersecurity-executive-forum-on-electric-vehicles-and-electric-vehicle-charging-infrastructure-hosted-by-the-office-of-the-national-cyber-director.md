@@ -2,7 +2,7 @@
 date: '2022-10-25'
 modified_time: 2022-10-25 19:09:06-04:00
 published_time: 2022-10-25 18:44:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/readout-of-cybersecurity-executive-forum-on-electric-vehicles-and-electric-vehicle-charging-infrastructure-hosted-by-the-office-of-the-national-cyber-director/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/25/readout-of-cybersecurity-executive-forum-on-electric-vehicles-and-electric-vehicle-charging-infrastructure-hosted-by-the-office-of-the-national-cyber-director/
 tags: statements-releases
 title: "Readout of Cybersecurity Executive Forum on Electric Vehicles and Electric\
   \ Vehicle Charging Infrastructure Hosted by the Office of the National Cyber\_Director"
@@ -14,7 +14,7 @@ cybersecurity issues in the electric vehicle (EV) and electric vehicle
 supply equipment (EVSE) ecosystem. This forum occurred as part of a
 larger series of executive-level meetings targeting various sectors,
 most recently a
-[healthcare-focused](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/readout-of-healthcare-cybersecurity-executive-forum-hosted-by-national-cyber-director-chris-inglis/)
+[healthcare-focused](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/readout-of-healthcare-cybersecurity-executive-forum-hosted-by-national-cyber-director-chris-inglis/)
 [event](https://twitter.com/ncdinglis/status/1537539397322780677) in
 June, intended to support strategic awareness and preparedness and to
 strengthen all parts of critical infrastructure.  

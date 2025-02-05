@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-04 23:19:47-04:00
 published_time: 2022-08-05 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-joe-biden-marking-ten-years-since-the-attack-on-the-sikh-temple-in-oak-creek-wisconsin/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/05/statement-by-president-joe-biden-marking-ten-years-since-the-attack-on-the-sikh-temple-in-oak-creek-wisconsin/
 tags: statements-releases
 title: "Statement by President Joe\_Biden Marking Ten Years Since the Attack on the\
   \ Sikh Temple in Oak Creek,\_Wisconsin"

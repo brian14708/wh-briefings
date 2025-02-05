@@ -2,7 +2,7 @@
 date: '2024-06-12'
 modified_time: 2024-06-11 21:44:06-04:00
 published_time: 2024-06-12 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/12/statement-from-president-joe-biden-on-the-reopening-of-the-port-of-baltimore/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/12/statement-from-president-joe-biden-on-the-reopening-of-the-port-of-baltimore/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Reopening of the Port of\_Baltimore"
 ---

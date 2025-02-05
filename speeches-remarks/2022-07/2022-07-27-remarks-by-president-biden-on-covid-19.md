@@ -1,7 +1,7 @@
 ---
 date: '2022-07-27'
 published_time: 2022-07-27 13:20:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/27/remarks-by-president-biden-on-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/27/remarks-by-president-biden-on-covid-19/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on\_COVID-\u206019"
 ---

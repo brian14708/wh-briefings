@@ -2,7 +2,7 @@
 date: '2024-12-19'
 modified_time: 2024-12-19 11:45:46-05:00
 published_time: 2024-12-19 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/19/executive-order-on-providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on-december-24-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/19/executive-order-on-providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on-december-24-2024/
 tags: presidential-actions
 title: "Executive Order on Providing for the Closing of Executive Departments and\
   \ Agencies of the Federal Government on December 24,\_2024"

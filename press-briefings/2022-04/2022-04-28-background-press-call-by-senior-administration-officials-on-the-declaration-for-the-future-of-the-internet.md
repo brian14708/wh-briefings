@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 07:01:24-04:00
 published_time: 2022-04-28 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/28/background-press-call-by-senior-administration-officials-on-the-declaration-for-the-future-of-the-internet/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/28/background-press-call-by-senior-administration-officials-on-the-declaration-for-the-future-of-the-internet/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the Declaration\
   \ for the Future of the\_Internet"

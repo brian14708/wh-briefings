@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 07:43:42-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-efforts-to-tackle-prices-for-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/22/fact-sheet-biden-harris-administration-efforts-to-tackle-prices-for-americans/
 published_time: 2021-12-22 07:43:41-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Efforts to Tackle Prices for\_\
   Americans"
@@ -23,7 +23,7 @@ and private sector CEOs for an update.
     record demand, our nation’s ports are moving more goods than ever
     before. The Ports of Los Angeles and Long Beach—which handle 40% of
     the nation’s containerized imports—[moved 15% more
-    containers](https://www.whitehouse.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/)
+    containers](https://bidenwhitehouse.archives.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/)
     between January and November this year than 2018, the previous
     record. That’s why the President convened our largest ports and
     retailers to move towards 24/7 operations to help alleviate
@@ -46,7 +46,7 @@ medical supplies and PPE.
     if their cargo sits on docks for over eight days. Since then, the
     number of containers sitting on the docks for over eight days has
     fallen [by nearly
-    50%](https://www.whitehouse.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/)
+    50%](https://bidenwhitehouse.archives.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/)
     and the average amount of time containers sit on docks has fallen by
     a week. The price of shipping a container between Asia and the West
     Coast has [fallen by more than
@@ -61,7 +61,7 @@ medical supplies and PPE.
     Development Grants—the only federal grant program wholly dedicated
     to investments in port infrastructure. This is the latest step in
     the [Port Action
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
     (PAP) announced in November, which accelerates investments in our
     ports, waterways, and freight networks after passage of the
     Bipartisan Infrastructure Deal. The PAP helped the Port of Savannah

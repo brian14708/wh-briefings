@@ -2,7 +2,7 @@
 date: '2024-03-11'
 modified_time: 2024-03-10 18:51:53-04:00
 published_time: 2024-03-11 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-tackles-crime-keeps-americans-safe-at-home/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-tackles-crime-keeps-americans-safe-at-home/
 tags: statements-releases
 title: "FACT SHEET: The President\u2019s Budget Tackles Crime, Keeps Americans Safe\
   \ at\_Home"
@@ -41,9 +41,9 @@ our nation’s first-ever National Plan to End Gender-Based Violence.
 The President and Vice President continue to take other action to combat
 hate which undermines democracy, including by releasing the first-ever
 [National Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
 [announcing the
-development](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/)
+development](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/01/statement-from-white-house-press-secretary-karine-jean-pierre-on-president-bidens-establishment-of-first-ever-national-strategy-to-counter-islamophobia/)
 of a National Strategy to Counter Islamophobia and Related Forms of Bias
 and Discrimination, signing legislation to enhance State and local law
 enforcement’s ability to respond to hate crimes, and signing legislation
@@ -197,7 +197,7 @@ flow of fentanyl and other synthetics that endanger public safety and
 health, and contribute to tens of thousands of drug-overdose deaths in
 the United States annually. The Budget also reiterates the
 [Administration’s October 2023
-request](https://www.whitehouse.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
+request](https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/10/20/letter-regarding-critical-national-security-funding-needs-for-fy-2024/)
 for $1.2 billion at DHS and DOJ to counter fentanyl trafficking and
 prevent the movement of dangerous drugs into the United States.
 

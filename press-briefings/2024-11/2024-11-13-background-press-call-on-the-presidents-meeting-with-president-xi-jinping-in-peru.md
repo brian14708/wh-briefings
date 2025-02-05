@@ -1,7 +1,7 @@
 ---
 date: '2024-11-13'
 published_time: 2024-11-13 17:27:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/11/13/background-press-call-on-the-presidents-meeting-with-president-xi-jinping-in-peru/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/11/13/background-press-call-on-the-presidents-meeting-with-president-xi-jinping-in-peru/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s Meeting with President Xi Jinping\
   \ in\_Peru"

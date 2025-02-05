@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 18:16:23-04:00
 published_time: 2022-05-17 15:45:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/17/remarks-by-president-biden-before-air-force-one-departure-16/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/17/remarks-by-president-biden-before-air-force-one-departure-16/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Before Air Force One\_Departure"
 ---

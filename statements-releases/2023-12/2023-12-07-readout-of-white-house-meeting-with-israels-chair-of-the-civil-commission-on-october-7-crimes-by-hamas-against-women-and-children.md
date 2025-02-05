@@ -2,7 +2,7 @@
 date: '2023-12-07'
 modified_time: 2023-12-11 08:20:42-05:00
 published_time: 2023-12-07 10:37:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-meeting-with-israels-chair-of-the-civil-commission-on-october-7-crimes-by-hamas-against-women-and-children/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/07/readout-of-white-house-meeting-with-israels-chair-of-the-civil-commission-on-october-7-crimes-by-hamas-against-women-and-children/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Israel\u2019s Chair of the Civil Commission\
   \ on October 7 Crimes by Hamas Against Women and\_Children"
@@ -16,7 +16,7 @@ Crimes by Hamas Against Women and Children. From the earliest days of
 the conflict, the Biden-Harris Administration has been deeply concerned
 by the horrific reports of sexual violence used by Hamas against Israeli
 women and children as part of the October 7 attacks. As
-[President](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/05/remarks-by-president-biden-at-a-campaign-reception-weston-ma/)
+[President](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/05/remarks-by-president-biden-at-a-campaign-reception-weston-ma/)
 Biden has again underscored, the world cannot look away from the
 accounts by survivors and witnesses detailing the brutality of that
 day.  

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 10:35:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-united-states-to-announce-commitments-to-the-generation-equality-forum/
 published_time: 2021-06-30 10:00:00-04:00
 title: "Fact Sheet: United\_States to Announce Commitments to the Generation Equality\_\
   Forum"
@@ -38,7 +38,7 @@ in areas beyond the scope of commitments announced today, such as
 climate, science and technology, leadership and democracy, and
 education. This includes efforts underway to support the [Build Back
 Better
-World](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/) Partnership
+World](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/) Partnership
 to meet the tremendous infrastructure needs of low- and middle-income
 countries, particularly across the areas of gender equity and equality,
 climate, health and health security, and information and communications
@@ -70,7 +70,7 @@ urgency of our collective efforts.
      
 -   Provide $450 million in supplementary funding through the
     President’s [American Rescue
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf) to
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf) to
     prevent and respond to domestic violence and sexual assault. This
     includes $200 million for domestic violence services and support;
     $198 million for sexual assault services programs; and $49.5 million
@@ -110,7 +110,7 @@ urgency of our collective efforts.
     equity.  
      
 -   Propose “safe leave” as part of the [American Families
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/),
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/28/fact-sheet-the-american-families-plan/),
     a comprehensive paid family and medical leave program that would
     permit workers eligible to receive paid leave for reasons pertaining
     to sexual assault, stalking, dating or domestic violence.
@@ -170,7 +170,7 @@ Security and Promote Economic Justice </span>**
 
 The Biden Administration has taken critical steps to strengthen women’s
 economic security through the [American Rescue
-Plan](https://www.whitehouse.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf) and
+Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/American-Rescue-Plan-Fact-Sheet.pdf) and
 has proposed once-in-a-generation investments as part of the American
 Jobs Plan and American Families Plan. The Administration is also
 committed to advancing women’s economic opportunity and security around
@@ -202,7 +202,7 @@ the world.
 -   Strengthen the workforce pipeline for all, including more women and
     communities of color, to access in-demand jobs through the [American
     Jobs
-    Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/),
+    Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/),
     including by investing in apprenticeships and other workforce
     development programs like Women in Apprenticeship in Non-Traditional
     Occupations. This commitment includes ensuring jobs with fair and

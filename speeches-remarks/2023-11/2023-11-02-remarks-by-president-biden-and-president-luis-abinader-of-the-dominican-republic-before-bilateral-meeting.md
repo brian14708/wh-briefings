@@ -1,7 +1,7 @@
 ---
 date: '2023-11-02'
 published_time: 2023-11-02 17:37:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-president-biden-and-president-luis-abinader-of-the-dominican-republic-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/02/remarks-by-president-biden-and-president-luis-abinader-of-the-dominican-republic-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Luis Abinader of the Dominican Republic\
   \ Before Bilateral\_Meeting"

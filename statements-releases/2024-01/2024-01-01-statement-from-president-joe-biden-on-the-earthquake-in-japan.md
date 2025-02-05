@@ -2,7 +2,7 @@
 date: '2024-01-01'
 modified_time: 2024-01-01 13:38:45-05:00
 published_time: 2024-01-01 13:38:44-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/01/statement-from-president-joe-biden-on-the-earthquake-in-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/01/statement-from-president-joe-biden-on-the-earthquake-in-japan/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Earthquake in\_Japan"
 ---

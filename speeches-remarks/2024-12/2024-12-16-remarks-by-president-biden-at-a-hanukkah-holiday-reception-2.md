@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-17 13:16:24-05:00
 published_time: 2024-12-16 23:28:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/16/remarks-by-president-biden-at-a-hanukkah-holiday-reception-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/16/remarks-by-president-biden-at-a-hanukkah-holiday-reception-2/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Hanukkah Holiday\_Reception"
 ---

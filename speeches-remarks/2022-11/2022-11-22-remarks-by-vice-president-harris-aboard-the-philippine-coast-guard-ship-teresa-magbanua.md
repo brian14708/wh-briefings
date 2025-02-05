@@ -1,7 +1,7 @@
 ---
 date: '2022-11-22'
 published_time: 2022-11-22 10:35:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/22/remarks-by-vice-president-harris-aboard-the-philippine-coast-guard-ship-teresa-magbanua/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/22/remarks-by-vice-president-harris-aboard-the-philippine-coast-guard-ship-teresa-magbanua/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Aboard the Philippine Coast Guard Ship Teresa\_\
   Magbanua"

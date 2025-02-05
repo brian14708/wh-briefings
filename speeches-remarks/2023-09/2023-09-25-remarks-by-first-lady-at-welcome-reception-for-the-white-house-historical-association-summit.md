@@ -2,7 +2,7 @@
 date: '2023-09-25'
 modified_time: 2023-09-26 16:50:44-04:00
 published_time: 2023-09-25 20:17:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-first-lady-at-welcome-reception-for-the-white-house-historical-association-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/25/remarks-by-first-lady-at-welcome-reception-for-the-white-house-historical-association-summit/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at Welcome Reception for the White\_House\
   \ Historical Association 2023 Presidential Sites\_Summit"

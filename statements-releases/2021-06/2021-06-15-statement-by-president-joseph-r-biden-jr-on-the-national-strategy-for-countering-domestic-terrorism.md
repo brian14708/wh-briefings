@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-15'
 modified_time: 2021-06-15 12:15:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/15/statement-by-president-joseph-r-biden-jr-on-the-national-strategy-for-countering-domestic-terrorism/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/15/statement-by-president-joseph-r-biden-jr-on-the-national-strategy-for-countering-domestic-terrorism/
 published_time: 2021-06-15 06:00:00-04:00
 title: "Statement by President Joseph R. Biden, Jr. on the National Strategy for Countering\
   \ Domestic\_Terrorism"
@@ -17,7 +17,7 @@ To meet this serious and growing threat, on my first day in office I
 directed my national security team to confront the rise in domestic
 terrorism with the necessary resources and resolve.  Today, I am
 releasing the first-ever [National Strategy for Countering Domestic
-Terrorism](https://www.whitehouse.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf). 
+Terrorism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/National-Strategy-for-Countering-Domestic-Terrorism.pdf). 
 It lays out a comprehensive approach to protecting our nation from
 domestic terrorism while safeguarding our bedrock civil rights and civil
 liberties – values that make us who we are as Americans.  We have to

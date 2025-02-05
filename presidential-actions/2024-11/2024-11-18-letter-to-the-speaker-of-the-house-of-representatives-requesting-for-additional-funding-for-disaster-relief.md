@@ -1,7 +1,7 @@
 ---
 date: '2024-11-18'
 published_time: 2024-11-18 13:04:29-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/11/18/letter-to-the-speaker-of-the-house-of-representatives-requesting-for-additional-funding-for-disaster-relief/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/11/18/letter-to-the-speaker-of-the-house-of-representatives-requesting-for-additional-funding-for-disaster-relief/
 tags: presidential-actions
 title: "Letter to the Speaker of the House of Representatives Requesting for Additional\
   \ Funding for Disaster\_Relief"

@@ -2,7 +2,7 @@
 date: '2022-08-26'
 modified_time: 2022-08-26 20:26:15-04:00
 published_time: 2022-08-26 20:26:14-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/26/press-briefing-by-press-secretary-karine-jean-pierre-and-deputy-director-of-the-national-economic-council-bharat-ramamurti-august-26-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/26/press-briefing-by-press-secretary-karine-jean-pierre-and-deputy-director-of-the-national-economic-council-bharat-ramamurti-august-26-2022/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and Deputy Director of\
   \ the National Economic Council Bharat Ramamurti, August 26,\_2022"

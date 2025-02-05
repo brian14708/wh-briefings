@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 12:46:46-04:00
 published_time: 2022-04-28 12:46:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/background-press-call-by-senior-administration-officials-on-the-ukraine-supplemental-budget-request/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/background-press-call-by-senior-administration-officials-on-the-ukraine-supplemental-budget-request/
 tags: statements-releases
 title: "Background Press Call by Senior Administration Officials on the Ukraine Supplemental\
   \ Budget\_Request"

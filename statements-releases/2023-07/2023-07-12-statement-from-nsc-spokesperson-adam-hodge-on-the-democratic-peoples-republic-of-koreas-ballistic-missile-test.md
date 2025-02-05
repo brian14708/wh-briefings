@@ -1,7 +1,7 @@
 ---
 date: '2023-07-12'
 published_time: 2023-07-12 08:44:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/12/statement-from-nsc-spokesperson-adam-hodge-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-test/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/12/statement-from-nsc-spokesperson-adam-hodge-on-the-democratic-peoples-republic-of-koreas-ballistic-missile-test/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adam Hodge on the Democratic People\u2019\
   s Republic of Korea\u2019s Ballistic Missile\_Test"

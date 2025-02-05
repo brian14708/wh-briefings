@@ -2,7 +2,7 @@
 date: '2024-09-03'
 modified_time: 2024-09-04 10:39:56-04:00
 published_time: 2024-09-03 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/03/remarks-by-second-gentleman-douglas-emhoff-at-the-national-vigil-for-the-hostages-at-adas-israel-congregation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/03/remarks-by-second-gentleman-douglas-emhoff-at-the-national-vigil-for-the-hostages-at-adas-israel-congregation/
 tags: speeches-remarks
 title: "Remarks by Second Gentleman Douglas Emhoff at the National Vigil for the Hostages\
   \ at Adas Israel\_Congregation"

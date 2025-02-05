@@ -1,7 +1,7 @@
 ---
 date: '2023-11-16'
 published_time: 2023-11-16 17:29:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-an-apec-informal-dialogue-and-working-lunch-san-francisco-ca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/16/remarks-by-president-biden-at-an-apec-informal-dialogue-and-working-lunch-san-francisco-ca/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at an APEC Informal Dialogue and Working Lunch\
   \ | San Francisco,\_CA"

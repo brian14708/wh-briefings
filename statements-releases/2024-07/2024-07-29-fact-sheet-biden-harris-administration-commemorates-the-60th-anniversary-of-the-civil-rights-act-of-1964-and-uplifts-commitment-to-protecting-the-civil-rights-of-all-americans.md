@@ -2,7 +2,7 @@
 date: '2024-07-29'
 modified_time: 2024-07-29 13:04:27-04:00
 published_time: 2024-07-29 13:04:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-biden-harris-administration-commemorates-the-60th-anniversary-of-the-civil-rights-act-of-1964-and-uplifts-commitment-to-protecting-the-civil-rights-of-all-americans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-biden-harris-administration-commemorates-the-60th-anniversary-of-the-civil-rights-act-of-1964-and-uplifts-commitment-to-protecting-the-civil-rights-of-all-americans/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Commemorates the 60th Anniversary\
   \ of the Civil Rights Act of 1964 and Uplifts Commitment to Protecting the Civil\
@@ -24,7 +24,7 @@ fundamental rights persist.
 
 Today, President Biden will speak at the Lyndon B. Johnson Presidential
 Library to [commemorate the 60th anniversary of the signing of the
-Act](https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/01/a-proclamation-on-the-60th-anniversary-of-the-civil-rights-act/)
+Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/01/a-proclamation-on-the-60th-anniversary-of-the-civil-rights-act/)
 and highlight his deep commitment to advancing civil rights for all
 Americans. Since day one, the Biden-Harris Administration has acted to
 ensure the promise of the Act is a reality for all communities. The
@@ -35,7 +35,7 @@ federal government. Under the Biden-Harris Administration, annual
 funding for federal civil rights offices has increased by 23 percent.
 
 President Biden also issued [two first-of-their-kind Executive
-Orders](https://www.whitehouse.gov/equity/) to advance racial equity and
+Orders](https://bidenwhitehouse.archives.gov/equity/) to advance racial equity and
 support for underserved communities because he recognizes that—although
 the ideal of equal opportunity is the bedrock of American democracy—our
 laws, public policies, and institutions too often exacerbate disparities
@@ -48,7 +48,7 @@ unjust gaps.
 
 To mark the Act’s anniversary, the White House Council of Economic
 Advisers (CEA) released [*Racial Discrimination in Contemporary
-America*](https://www.whitehouse.gov/cea/written-materials/2024/07/03/racial-discrimination-in-contemporary-america/),
+America*](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/07/03/racial-discrimination-in-contemporary-america/),
 an issue brief that describes evidence of ongoing racial bias faced by
 renters, workers, and business owners that contributes to disparities in
 housing, employment, and lending. CEA’s findings underscore that
@@ -57,7 +57,7 @@ American society, and has a meaningful economic impact on the lives of
 everyday people across the country. Today, reinforcing the importance of
 the Biden-Harris Administration’s equity agenda, the Chief Economist of
 the White House Investing In America Cabinet also published a [blog
-post](https://www.whitehouse.gov/briefing-room/blog/2024/07/29/how-investing-in-equity-fosters-of-the-goals-of-investing-in-america/)
+post](https://bidenwhitehouse.archives.gov/briefing-room/blog/2024/07/29/how-investing-in-equity-fosters-of-the-goals-of-investing-in-america/)
 describing how investing in equity empowers workers, boosts
 productivity, and fosters stronger economic growth.
 
@@ -82,7 +82,7 @@ free from segregation, social isolation, and inequality. In May, on the
 70<sup>th</sup> anniversary of the landmark Supreme Court decision in
 *Brown v. Board of Education*, the Biden-Harris Administration
 [announced new
-actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-president-biden-announces-new-actions-to-advance-racial-and-educational-equity-on-70th-anniversary-of-brown-v-board-of-education/#:~:text=Board%20of%20Education%20(Brown)%20decision,students%20have%20access%20to%20a)
+actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/17/fact-sheet-president-biden-announces-new-actions-to-advance-racial-and-educational-equity-on-70th-anniversary-of-brown-v-board-of-education/#:~:text=Board%20of%20Education%20(Brown)%20decision,students%20have%20access%20to%20a)
 to support school diversity and advance the goal that all students have
 access to a world-class education.
 
@@ -195,7 +195,7 @@ access to a world-class education.
 housing market**
 
 [A safe, affordable, and fairly-priced
-home](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
+home](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/11/fact-sheet-the-presidents-budget-cuts-housing-costs-boosts-supply-and-expands-access-to-affordable-housing/)
 in a neighborhood with access to opportunities should be available to
 all Americans.There are more Black and Latino homeowners today than when
 President Biden took office—reducing homeownership gaps and driving
@@ -204,7 +204,7 @@ significant gains in wealth in communities of color.
 -   **Combatting racial bias in home appraisals.** The President’s
     first-of-its-kind Interagency Task Force on Property Appraisal and
     Valuation Equity (PAVE) has made [critical
-    progress](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/)
+    progress](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/)
     towards rooting out racial bias in the home appraisal process, with
     major actions to empower consumers with new tools to address
     appraisal bias; leverage data to identify trends and crack down on
@@ -221,7 +221,7 @@ significant gains in wealth in communities of color.
     that the “appraisal gap”—the likelihood that homes in communities of
     color are undervalued compared to homes in majority-white
     communities—[has been cut by more than
-    40%](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/)
+    40%](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/12/fact-sheet-president-biden-announces-key-progress-on-efforts-to-close-the-racial-wealth-gap/)
     since the Biden-Harris Administration took action.
 
 <!-- -->
@@ -244,7 +244,7 @@ significant gains in wealth in communities of color.
     percentage of its business, FHA serves Black borrowers at triple the
     rate of the rest of the market. During her [nationwide Economic
     Opportunity
-    Tour](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
+    Tour](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/25/vice-president-kamala-harris-launches-nationwide-economic-opportunity-tour/),
     Vice President Harris and the Department of Housing and Urban
     Development (HUD) also [announced the awarding of nearly $40 million
     in
@@ -293,7 +293,7 @@ government, and federal workplaces.
 -   **Expanding protections for workers.** In 2022, the President signed
     into law the bipartisan [Pregnant Workers Fairness Act and the
     Providing Urgent Maternal Protections (PUMP) for Nursing Mothers
-    Act](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/27/readout-of-white-house-celebration-of-the-pregnant-workers-fairness-act-and-the-pump-for-nursing-mothers-act/),
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/27/readout-of-white-house-celebration-of-the-pregnant-workers-fairness-act-and-the-pump-for-nursing-mothers-act/),
     providing basic, long overdue protections that promote safe, healthy
     workplaces free from discrimination for pregnant and postpartum
     workers. In April, the Department of Labor (DOL) issued a [final
@@ -317,7 +317,7 @@ government, and federal workplaces.
     support survivors and address sexual assault and sexual harassment
     in the workplace. The bipartisan [Ending Forced Arbitration of
     Sexual Assault and Sexual Harassment
-    Act](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/03/remarks-by-president-biden-at-signing-of-h-r-4445-ending-forced-arbitration-of-sexual-assault-and-sexual-harassment-act-of-2021/)
+    Act](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/03/remarks-by-president-biden-at-signing-of-h-r-4445-ending-forced-arbitration-of-sexual-assault-and-sexual-harassment-act-of-2021/)
     empower survivors by giving them a choice to go to court instead of
     being forced into arbitration, and the Speak Out Act enables
     survivors to speak out about workplace sexual assault and
@@ -331,7 +331,7 @@ government, and federal workplaces.
 -   **Promoting fair wages for all workers.** In January, on the 15th
     Anniversary of the Lilly Ledbetter Fair Pay Act, the Biden-Harris
     Administration [announced new
-    actions](https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-pay-equity-on-the-15th-anniversary-of-the-lilly-ledbetter-fair-pay-act/)
+    actions](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-pay-equity-on-the-15th-anniversary-of-the-lilly-ledbetter-fair-pay-act/)
     to advance pay equity and ensure fairness for all workers. The
     Federal Government leads the way as the nation’s largest employer
     with over 2.2 million workers. The Office of Personnel Management
@@ -362,13 +362,13 @@ government, and federal workplaces.
     Government is a model equal opportunity employer, President Biden
     signed Executive Orders [directing federal agencies to promote
     diversity, equity, inclusion and
-    accessibility](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
+    accessibility](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
     in their personnel practices and [expanding Registered
-    Apprenticeships](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
+    Apprenticeships](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/03/06/executive-order-on-scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government-and-promoting-labor-management-forums/)
     in the federal workforce to create equitable, transparent, and
     transferable career-development pathways to federal jobs. The
     [Roadmap to Support Good
-    Jobs](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
+    Jobs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/16/biden-harris-administration-roadmap-to-support-good-jobs/)
     outlines the Biden-Harris Administration’s commitment to connecting
     people to good jobs; ensuring a skilled, diverse workforce for our
     transformational investments; boosting education and training

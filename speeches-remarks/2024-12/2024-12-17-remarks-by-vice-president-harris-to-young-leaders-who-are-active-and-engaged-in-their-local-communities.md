@@ -2,7 +2,7 @@
 date: '2024-12-17'
 modified_time: 2024-12-17 20:35:55-05:00
 published_time: 2024-12-17 20:35:54-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/17/remarks-by-vice-president-harris-to-young-leaders-who-are-active-and-engaged-in-their-local-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/17/remarks-by-vice-president-harris-to-young-leaders-who-are-active-and-engaged-in-their-local-communities/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris to Young Leaders Who Are Active and Engaged\
   \ in Their Local\_Communities"

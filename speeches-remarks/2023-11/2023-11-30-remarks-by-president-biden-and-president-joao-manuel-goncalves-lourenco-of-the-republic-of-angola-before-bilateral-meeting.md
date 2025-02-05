@@ -1,7 +1,7 @@
 ---
 date: '2023-11-30'
 published_time: 2023-11-30 22:39:48-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/30/remarks-by-president-biden-and-president-joao-manuel-goncalves-lourenco-of-the-republic-of-angola-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/30/remarks-by-president-biden-and-president-joao-manuel-goncalves-lourenco-of-the-republic-of-angola-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Jo\xE3o Manuel Gon\xE7alves Louren\xE7\
   o of the Republic of Angola Before Bilateral\_Meeting"

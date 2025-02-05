@@ -2,7 +2,7 @@
 date: '2022-09-13'
 modified_time: 2022-09-13 12:31:14-04:00
 published_time: 2022-09-13 12:31:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/13/statement-by-press-secretary-karine-jean-pierre-on-proposed-national-abortion-ban/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/13/statement-by-press-secretary-karine-jean-pierre-on-proposed-national-abortion-ban/
 tags: statements-releases
 title: "Statement by Press Secretary Karine Jean-Pierre on Proposed National Abortion\_\
   Ban"

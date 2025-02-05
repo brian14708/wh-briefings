@@ -2,7 +2,7 @@
 date: '2024-10-22'
 modified_time: 2024-10-22 16:05:21-04:00
 published_time: 2024-10-22 16:05:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/22/readout-of-president-joe-bidens-meeting-with-prime-minister-robert-golob-of-the-republic-of-slovenia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/22/readout-of-president-joe-bidens-meeting-with-prime-minister-robert-golob-of-the-republic-of-slovenia/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with Prime Minister Robert\
   \ Golob of the Republic of\_Slovenia"

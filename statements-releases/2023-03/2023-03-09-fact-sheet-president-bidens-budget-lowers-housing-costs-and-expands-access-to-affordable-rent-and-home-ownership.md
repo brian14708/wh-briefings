@@ -1,7 +1,7 @@
 ---
 date: '2023-03-09'
 published_time: 2023-03-09 12:17:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/09/fact-sheet-president-bidens-budget-lowers-housing-costs-and-expands-access-to-affordable-rent-and-home-ownership/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Budget Lowers Housing Costs and Expands\
   \ Access to Affordable Rent and Home\_Ownership"
@@ -65,11 +65,11 @@ principles that are central to the President’s economic agenda.
 America faces a longstanding and nationwide shortfall in affordable
 housing that has been growing for decades. In May 2022, the
 Administration released a [Housing Supply Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/16/president-biden-announces-new-actions-to-ease-the-burden-of-housing-costs/)
 that included administrative and legislative actions to close the
 housing supply shortfall in 5 years. The Administration has already
 [delivered on many of those
-commitments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
+commitments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/07/biden-harris-administration-announces-progress-in-implementing-its-housing-supply-action-plan/),
 and will continue to build on the historic number of multifamily units
 under construction through additional administrative actions that: make
 it easier to build and preserve affordable, multifamily supply; advance
@@ -221,7 +221,7 @@ limitations and wait lists. The Administration has secured rental
 assistance for an additional 100,000 households through the American
 Rescue Plan and the 2022 and 2023 appropriations bills. And in January,
 the Administration announced a [Blueprint for a Renters Bill of
-Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf),
+Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf),
 which enumerated principles to shape federal, state, and local action,
 and announced agency commitments to strengthen tenant protections and
 encourage rental affordability.
@@ -280,7 +280,7 @@ First-Generation Homebuyers</u>**
 Achieving and maintaining homeownership is the primary way that American
 families build wealth and create economic security. That’s why the
 Administration implemented a series
-of [measures](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/#:~:text=The%20new%20steps%20the%20Department%20of%20Housing%20and,remain%20in%20their%20homes%20and%20build%20equity%20long-term.) that
+of [measures](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/23/fact-sheet-biden-administration-announces-additional-actions-to-prevent-foreclosures/#:~:text=The%20new%20steps%20the%20Department%20of%20Housing%20and,remain%20in%20their%20homes%20and%20build%20equity%20long-term.) that
 protected homeowners from foreclosure during the pandemic, including
 enhanced loan modifications to resolve delinquencies. In addition, the
 American Rescue Plan’s [Homeowner Assistance
@@ -292,7 +292,7 @@ pre-pandemic levels.
 It’s also why just last month – as reflected in the President’s Budget –
 HUD, through the Federal Housing Administration (FHA), lowered its
 annual mortgage insurance premium. This step is
-[projected](https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
+[projected](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/22/fact-sheet-biden-harris-administration-announces-action-to-save-homebuyers-and-homeowners-800-per-year/)
 to save homebuyers and homeowners with new FHA-insured mortgages an
 average of $800 per year, lowering housing costs for an estimated
 850,000 homebuyers and homeowners in the first year. And it builds on
@@ -376,7 +376,7 @@ hard times. The President’s Budget calls on Congress to:
 
 -   **Support, Solidify, and Encourage State and Local Reforms to Avoid
     Evictions.** The Administration stood up [a
-    historic](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/)
+    historic](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-white-house-summit-on-building-lasting-eviction-prevention-reform/)
     national eviction prevention infrastructure during the pandemic,
     helping keep eviction filings 20% below historical averages, even
     well after the eviction moratorium ended. The Budget provides $3

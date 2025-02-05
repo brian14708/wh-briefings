@@ -2,7 +2,7 @@
 date: '2024-02-09'
 modified_time: 2024-02-12 16:33:52-05:00
 published_time: 2024-02-09 19:33:59-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/09/statement-from-nsc-spokesperson-adrienne-watson-marking-the-two-year-anniversary-of-the-indo-pacific-strategy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/09/statement-from-nsc-spokesperson-adrienne-watson-marking-the-two-year-anniversary-of-the-indo-pacific-strategy/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson Marking the Two-Year Anniversary\
   \ of the Indo-Pacific\_Strategy"

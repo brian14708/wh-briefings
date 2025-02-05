@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-11-19'
 modified_time: 2021-11-19 18:19:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/11/19/remarks-by-president-biden-at-pardoning-of-the-national-thanksgiving-turkey/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/11/19/remarks-by-president-biden-at-pardoning-of-the-national-thanksgiving-turkey/
 published_time: 2021-11-19 18:30:00-05:00
 title: "Remarks by President\_Biden at Pardoning of the National Thanksgiving\_Turkey"
 ---

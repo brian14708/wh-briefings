@@ -2,7 +2,7 @@
 date: '2024-05-10'
 modified_time: 2024-05-10 10:15:53-04:00
 published_time: 2024-05-10 10:15:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/10/readout-of-white-house-meeting-on-the-ongoing-response-to-the-collapse-of-the-francis-scott-key-bridge-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/10/readout-of-white-house-meeting-on-the-ongoing-response-to-the-collapse-of-the-francis-scott-key-bridge-2/
 tags: statements-releases
 title: "Readout of White\_House meeting on the Ongoing Response to the Collapse of\
   \ the Francis Scott Key\_Bridge"

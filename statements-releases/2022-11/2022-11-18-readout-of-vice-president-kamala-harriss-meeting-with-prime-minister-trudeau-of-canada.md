@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 03:22:16-05:00
 published_time: 2022-11-18 03:22:15-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/readout-of-vice-president-kamala-harriss-meeting-with-prime-minister-trudeau-of-canada/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/readout-of-vice-president-kamala-harriss-meeting-with-prime-minister-trudeau-of-canada/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s\_Meeting with Prime Minister\
   \ Trudeau of\_Canada"

@@ -2,7 +2,7 @@
 date: '2022-09-21'
 modified_time: 2022-09-21 21:37:08-04:00
 published_time: 2022-09-21 21:37:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/21/readout-of-president-joe-bidens-meeting-with-president-yoon-suk-yeol-of-the-republic-of-korea/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Meeting with President Yoon Suk Yeol\
   \ of the Republic of\_Korea"

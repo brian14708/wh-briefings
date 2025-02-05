@@ -1,7 +1,7 @@
 ---
 date: '2022-09-30'
 published_time: 2022-09-30 12:10:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/30/readout-of-president-joe-bidens-call-with-governor-henry-mcmaster-of-south-carolina/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/30/readout-of-president-joe-bidens-call-with-governor-henry-mcmaster-of-south-carolina/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Governor Henry McMaster of\
   \ South\_Carolina"

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 21:00:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/23/readout-of-national-security-advisor-jake-sullivans-call-with-israeli-national-security-advisor-tzachi-hanegbi-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/23/readout-of-national-security-advisor-jake-sullivans-call-with-israeli-national-security-advisor-tzachi-hanegbi-2/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with Israeli\
   \ National Security Advisor Tzachi\_Hanegbi"

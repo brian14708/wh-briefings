@@ -2,7 +2,7 @@
 date: '2024-05-06'
 modified_time: 2024-05-06 12:42:49-04:00
 published_time: 2024-05-06 12:42:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/06/statement-by-vice-president-harris-on-holocaust-remembrance-day/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/06/statement-by-vice-president-harris-on-holocaust-remembrance-day/
 tags: statements-releases
 title: "Statement by Vice President Harris on Holocaust Remembrance\_Day"
 ---

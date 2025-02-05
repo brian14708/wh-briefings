@@ -2,7 +2,7 @@
 date: '2022-12-19'
 modified_time: 2022-12-18 19:51:09-05:00
 published_time: 2022-12-19 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/19/fact-sheet-biden-harris-administration-takes-more-than-100-actions-in-2022-to-strengthen-energy-efficiency-standards-and-save-families-money/
 tags: statements-releases
 title: "FACT SHEET:  Biden-\u2060Harris Administration Takes More Than\_100 Actions\_\
   in 2022\_to Strengthen\_Energy\_Efficiency Standards and Save\_Families\_Money"
@@ -12,7 +12,7 @@ title: "FACT SHEET:  Biden-\u2060Harris Administration Takes More Than\_100 Acti
 
 Today, the White House and the Department of Energy (DOE) announced that
 the Biden-Harris Administration has [surpassed its
-goal](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/)
+goal](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/)
 to take 100 actions in 2022 to strengthen energy efficiency standards
 for a range of appliances and equipment to lower costs for American
 families. These new standards advanced by the Biden-Harris
@@ -49,11 +49,11 @@ reduce greenhouse gas emissions and other harmful air pollution. 
 President Biden’s unprecedented actions
 to strengthen efficiency standards are a key part of his work to save
 families money and create good-paying jobs. He secured [historic
-investments](https://www.whitehouse.gov/wp-content/uploads/2022/12/Inflation-Reduction-Act-Guidebook.pdf) in
+investments](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/Inflation-Reduction-Act-Guidebook.pdf) in
 the Bipartisan Infrastructure Law and Inflation Reduction Act for home
 efficiency upgrades, including weatherization and electric appliance
 rebates. Last month the
-Administration [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-energy-costs-for-families/) a
+Administration [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/02/fact-sheet-biden-harris-administration-announces-new-actions-to-lower-energy-costs-for-families/) a
 range of actions to lower energy costs for families, including $9
 billion from President Biden’s Inflation Reduction Act for states and
 Tribes to administer home efficiency rebate programs that could support

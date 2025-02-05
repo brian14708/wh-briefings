@@ -2,7 +2,7 @@
 date: '2024-01-26'
 modified_time: 2024-01-25 20:25:21-05:00
 published_time: 2024-01-26 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/26/fact-sheet-biden-harris-administration-announces-temporary-pause-on-pending-approvals-of-liquefied-natural-gas-exports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/26/fact-sheet-biden-harris-administration-announces-temporary-pause-on-pending-approvals-of-liquefied-natural-gas-exports/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Temporary Pause on\
   \ Pending Approvals of Liquefied Natural Gas\_Exports"
@@ -60,7 +60,7 @@ economy remains the envy of the world.
 **<u>Biden-Harris Administration’s Top Climate Accomplishments:</u>**
 
 1.  [**Signed into law the largest climate investment in history, the
-    Inflation Reduction Act**](https://www.whitehouse.gov/invest/)**,**
+    Inflation Reduction Act**](https://bidenwhitehouse.archives.gov/invest/)**,**
     which has already created 210,000 new jobs across nearly every state
     and attracted more than $200 billion in private clean energy
     investments ($365 billion since President Biden took office), while
@@ -68,7 +68,7 @@ economy remains the envy of the world.
     clean energy by 2030 – in addition to securing the American Rescue
     Plan, Bipartisan Infrastructure Law, and CHIPS and Science Act  
 2.  [**Established a whole-of-government strategy to tackle methane
-    emissions**](https://www.whitehouse.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
+    emissions**](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Methane-Action-Plan-2023-Topper.pdf)
     – from plugging wells and leaks in the oil and gas sector, to
     reclaiming abandoned coal mines, to reducing food waste and
     agricultural emissions, and [**finalized a historic rule to reduce
@@ -77,14 +77,14 @@ economy remains the envy of the world.
     from oil and gas operations by nearly 80%, delivering billions of
     dollars in health and economic benefits  
 3.  [**Launched the American Climate
-    Corps**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
+    Corps**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/fact-sheet-biden-harris-administration-launches-american-climate-corps-to-train-young-people-in-clean-energy-conservation-and-climate-resilience-skills-create-good-paying-jobs-and-tackle-the-clima/)
     to mobilize a new, diverse generation of Americans – putting them to
     work conserving and restoring our lands and waters, bolstering
     community resilience, deploying clean energy, implementing energy
     efficient technologies, and advancing environmental justice, all
     while creating pathways to high-quality, good-paying jobs   
 4.  [**Advancing the most ambitious environmental justice agenda in
-    history**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/),
+    history**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/21/fact-sheet-president-biden-signs-executive-order-to-revitalize-our-nations-commitment-to-environmental-justice-for-all/),
     including by signing a historic Executive Order that calls on the
     federal government to bring clean energy and healthy environments to
     all and mitigate harm to those who have suffered from toxic
@@ -97,13 +97,13 @@ economy remains the envy of the world.
     cleanups; tightening air quality enforcement near pollution
     facilities; and more  
 5.  [**Protected 26 million acres of lands and
-    waters**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/)
+    waters**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/19/fact-sheet-biden-harris-administration-advances-commitment-to-protect-old-growth-forests-on-national-forest-system-lands/)
     – on track to conserve more lands and waters than any President in
     history – including five new national monuments that include
     protections for lands in Colorado, Nevada, Texas, and most recently,
     the [Baaj Nwaavjo I’tah Kukveni – Ancestral Footprints of the Grand
     Canyon National
-    Monument](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+    Monument](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
     in Arizona; initiating new national marine sanctuaries as part of
     the President’s goal of conserving 30% of lands and waters by 2030,
     delivering billions of dollars to accelerate land, water, and
@@ -119,7 +119,7 @@ economy remains the envy of the world.
     leasing  
 7.  [**Signed an Executive Order that sets an ambitious target to make
     half of all new vehicles sold in 2030
-    zero-emissions**](https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/),
+    zero-emissions**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/05/fact-sheet-president-biden-announces-steps-to-drive-american-leadership-forward-on-clean-cars-and-trucks/),
     while [**proposing strongest-ever limits on tail pipe
     emissions**](https://www.epa.gov/newsreleases/biden-harris-administration-proposes-strongest-ever-pollution-standards-cars-and)
     and [**issuing fuel economy
@@ -137,11 +137,11 @@ economy remains the envy of the world.
     wind, solar and geothermal energy on public lands – enough to power
     more than 3.5 million homes, and [**broke ground on 10 major
     transmission
-    projects**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/),
+    projects**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheetbiden-harris-administration-announces-historic-investment-to-bolster-nations-electric-grid-infrastructure-cut-energy-costs-for-families-and-create-good-paying-jobs/),
     which are slated to connect 19.5 gigawatts of new generation to the
     grid  
 10. [**Rallied world leaders to raise global climate
-    ambition**](https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/),
+    ambition**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/02/fact-sheet-biden-harris-administration-leverages-historic-u-s-climate-leadership-at-home-and-abroad-to-urge-countries-to-accelerate-global-climate-action-at-u-n-climate-conference-cop28/),
     including by securing commitments from more than 155 countries to
     reduce methane emissions by at least 30 percent by 2030, joining
     leaders at COP28 to commit, for the first time, to transition away

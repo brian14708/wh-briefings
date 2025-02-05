@@ -2,7 +2,7 @@
 date: '2023-12-08'
 modified_time: 2023-12-08 21:00:25-05:00
 published_time: 2023-12-08 16:55:51-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/08/readout-of-white-house-event-on-inclusive-approaches-to-education-in-artificial-intelligence-and-computer-science/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/08/readout-of-white-house-event-on-inclusive-approaches-to-education-in-artificial-intelligence-and-computer-science/
 tags: statements-releases
 title: "Readout of White\_House Event on Inclusive Approaches to Education in Artificial\
   \ Intelligence and Computer\_Science"
@@ -26,7 +26,7 @@ Policy, Office of the National Cyber Director, the National Space
 Council, and the Department of Education. Officials emphasized the role
 of AI and computer science education in developing America’s future
 workforce and how Administration actions on AI, like the [AI Executive
-Order](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/),
+Order](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/),
 prioritize this work.
 
 In panel discussions, teachers, educators, and researchers shared their

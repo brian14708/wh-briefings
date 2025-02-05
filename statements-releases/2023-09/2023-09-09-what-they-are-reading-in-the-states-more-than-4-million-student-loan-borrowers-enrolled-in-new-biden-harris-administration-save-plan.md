@@ -2,7 +2,7 @@
 date: '2023-09-09'
 modified_time: 2023-09-09 11:48:09-04:00
 published_time: 2023-09-09 11:48:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/09/what-they-are-reading-in-the-states-more-than-4-million-student-loan-borrowers-enrolled-in-new-biden-harris-administration-save-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/09/what-they-are-reading-in-the-states-more-than-4-million-student-loan-borrowers-enrolled-in-new-biden-harris-administration-save-plan/
 tags: statements-releases
 title: "What They Are Reading in the States: More than 4 Million Student Loan Borrowers\
   \ Enrolled in New Biden-\u2060Harris Administration SAVE\_Plan"

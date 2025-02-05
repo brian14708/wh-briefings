@@ -2,7 +2,7 @@
 date: '2022-06-09'
 modified_time: 2022-06-09 23:49:59-04:00
 published_time: 2022-06-09 21:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-and-president-jair-bolsonaro-of-brazil-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/09/remarks-by-president-biden-and-president-jair-bolsonaro-of-brazil-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Jair Bolsonaro of Brazil Before\
   \ Bilateral\_Meeting"

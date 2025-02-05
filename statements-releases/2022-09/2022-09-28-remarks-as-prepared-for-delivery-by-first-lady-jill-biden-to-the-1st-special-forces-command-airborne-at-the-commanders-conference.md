@@ -2,7 +2,7 @@
 date: '2022-09-28'
 modified_time: 2022-09-28 17:08:52-04:00
 published_time: 2022-09-28 16:17:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-the-1st-special-forces-command-airborne-at-the-commanders-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/28/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-to-the-1st-special-forces-command-airborne-at-the-commanders-conference/
 tags: statements-releases
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden to the 1st Special\
   \ Forces Command (Airborne) at the Commander\u2019s\_Conference"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-10-19'
 modified_time: 2021-10-18 23:41:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-improving-access-and-care-for-youth-mental-health-and-substance-use-conditions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/19/fact-sheet-improving-access-and-care-for-youth-mental-health-and-substance-use-conditions/
 published_time: 2021-10-19 07:15:00-04:00
 title: "FACT SHEET: Improving Access and Care for Youth Mental Health and Substance\
   \ Use\_Conditions"
@@ -143,17 +143,17 @@ access to behavioral health services for youth. This includes:
 ***Preventing Youth Substance Use*.** In September, the Office of
 National Drug Control Policy (ONDCP) announced $13.2 million in grants
 for [106 Drug-Free
-Communities](https://www.whitehouse.gov/ondcp/briefing-room/2021/09/21/ondcp-announces-funding-for-106-community-programs-working-to-prevent-youth-substance-use-across-the-country/)
+Communities](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/09/21/ondcp-announces-funding-for-106-community-programs-working-to-prevent-youth-substance-use-across-the-country/)
 Support Programs across the country. The grants provide funding to
 community coalitions working to prevent youth substance use through
 evidence-based prevention strategies. In June, ONDCP announced $3.2
 million for [65 communities
-nationwide ](https://www.whitehouse.gov/ondcp/briefing-room/2021/06/30/ondcp-announces-3-25-million-for-local-coalitions-across-the-country-working-to-reduce-youth-substance-use/)for
+nationwide ](https://bidenwhitehouse.archives.gov/ondcp/briefing-room/2021/06/30/ondcp-announces-3-25-million-for-local-coalitions-across-the-country-working-to-reduce-youth-substance-use/)for
 its Community-Based Coalition Enhancement Grants to Address Local Drug
 Crises Program to reduce youth use of opioids or methamphetamines and
 misuse of prescription drugs. All these programs support the
 Biden-Harris Administration’s [Drug Policy Priorities for Year
-One](https://www.whitehouse.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf),
+One](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/03/BidenHarris-Statement-of-Drug-Policy-Priorities-April-1.pdf),
 which include evidence-based efforts to prevent and reduce youth
 substance use.  
   

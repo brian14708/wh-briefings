@@ -2,7 +2,7 @@
 date: '2023-04-25'
 modified_time: 2023-04-25 20:46:25-04:00
 published_time: 2023-04-25 20:46:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-a-visit-to-nasa-goddard-space-flight-center/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/04/25/remarks-by-vice-president-harris-and-president-yoon-suk-yeol-of-the-republic-of-korea-during-a-visit-to-nasa-goddard-space-flight-center/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Yoon Suk Yeol of the Republic\
   \ of Korea During a Visit to NASA Goddard Space Flight\_Center"

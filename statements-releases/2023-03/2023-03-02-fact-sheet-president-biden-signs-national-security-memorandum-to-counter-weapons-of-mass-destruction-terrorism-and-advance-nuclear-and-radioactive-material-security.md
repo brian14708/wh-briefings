@@ -2,7 +2,7 @@
 date: '2023-03-02'
 modified_time: 2023-03-02 07:09:26-05:00
 published_time: 2023-03-02 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-biden-signs-national-security-memorandum-to-counter-weapons-of-mass-destruction-terrorism-and-advance-nuclear-and-radioactive-material-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-president-biden-signs-national-security-memorandum-to-counter-weapons-of-mass-destruction-terrorism-and-advance-nuclear-and-radioactive-material-security/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs National Security Memorandum to Counter\
   \ Weapons of Mass Destruction Terrorism and Advance Nuclear and Radioactive Material\_\

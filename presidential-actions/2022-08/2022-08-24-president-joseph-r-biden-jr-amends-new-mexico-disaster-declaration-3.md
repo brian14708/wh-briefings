@@ -2,7 +2,7 @@
 date: '2022-08-24'
 modified_time: 2022-08-24 12:19:17-04:00
 published_time: 2022-08-24 12:19:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/08/24/president-joseph-r-biden-jr-amends-new-mexico-disaster-declaration-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/08/24/president-joseph-r-biden-jr-amends-new-mexico-disaster-declaration-3/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Amends New Mexico Disaster\_Declaration"
 ---

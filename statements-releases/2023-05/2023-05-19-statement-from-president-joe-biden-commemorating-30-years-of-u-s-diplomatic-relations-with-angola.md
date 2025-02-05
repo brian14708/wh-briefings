@@ -1,7 +1,7 @@
 ---
 date: '2023-05-19'
 published_time: 2023-05-19 14:16:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/19/statement-from-president-joe-biden-commemorating-30-years-of-u-s-diplomatic-relations-with-angola/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/19/statement-from-president-joe-biden-commemorating-30-years-of-u-s-diplomatic-relations-with-angola/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Commemorating 30 Years of U.S. Diplomatic\
   \ Relations with\_Angola"

@@ -2,7 +2,7 @@
 date: '2023-05-02'
 modified_time: 2023-05-02 12:52:27-04:00
 published_time: 2023-05-02 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/president-biden-announces-key-nominees-44/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/02/president-biden-announces-key-nominees-44/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

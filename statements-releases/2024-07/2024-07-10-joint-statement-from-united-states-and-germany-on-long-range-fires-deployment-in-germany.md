@@ -2,7 +2,7 @@
 date: '2024-07-10'
 modified_time: 2024-07-10 07:39:10-04:00
 published_time: 2024-07-10 12:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/07/10/joint-statement-from-united-states-and-germany-on-long-range-fires-deployment-in-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/07/10/joint-statement-from-united-states-and-germany-on-long-range-fires-deployment-in-germany/
 tags: statements-releases
 title: "Joint Statement from United\_States and Germany on Long-Range Fires Deployment\
   \ in\_Germany"

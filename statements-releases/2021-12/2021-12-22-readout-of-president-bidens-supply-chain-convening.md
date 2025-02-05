@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-22'
 modified_time: 2021-12-22 16:31:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/22/readout-of-president-bidens-supply-chain-convening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/22/readout-of-president-bidens-supply-chain-convening/
 published_time: 2021-12-22 16:31:07-05:00
 title: "Readout of President\_Biden\u2019s Supply Chain\_Convening"
 ---
@@ -66,13 +66,13 @@ And this week, the Administration is announcing $230 million in Port
 Infrastructure Development Grants—the only federal grant program wholly
 dedicated to investments in port infrastructure. This is the latest step
 in the [Port Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/09/fact-sheet-the-biden-harris-action-plan-for-americas-ports-and-waterways/)
 (PAP) announced in November, which accelerates investments in our ports,
 waterways, and freight networks after passage of the Bipartisan
 Infrastructure Deal.
 
 [Click
-here](https://www.whitehouse.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/) to
+here](https://bidenwhitehouse.archives.gov/nec/briefing-room/2021/12/17/months-of-coordination-bring-signs-of-good-cheer/) to
 read the latest updates on the progress at our ports.  
   
 Attendees at the meeting included:

@@ -1,7 +1,7 @@
 ---
 date: '2023-06-02'
 published_time: 2023-06-02 13:34:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/02/remarks-by-national-security-advisor-jake-sullivan-for-the-arms-control-association-aca-annual-forum/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/02/remarks-by-national-security-advisor-jake-sullivan-for-the-arms-control-association-aca-annual-forum/
 tags: speeches-remarks
 title: "Remarks by National Security Advisor Jake Sullivan for the Arms Control Association\
   \ (ACA) Annual\_Forum"

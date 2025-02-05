@@ -1,7 +1,7 @@
 ---
 date: '2022-09-20'
 published_time: 2022-09-20 08:37:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/biden-harris-administration-announces-chips-for-america-leadership/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/biden-harris-administration-announces-chips-for-america-leadership/
 tags: statements-releases
 title: "Biden-\u2060Harris Administration Announces CHIPS for America\_Leadership"
 ---
@@ -22,7 +22,7 @@ Ronnie Chatterji will serve as the White House Coordinator for CHIPS
 Implementation at the National Economic Council (NEC). In this role he
 will manage the work of the CHIPS Implementation Steering Council, as
 laid out in President Biden’s [Executive Order on CHIPS
-Implementation](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/25/fact-sheet-president-biden-signs-executive-order-to-implement-the-chips-and-science-act-of-2022/)
+Implementation](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/25/fact-sheet-president-biden-signs-executive-order-to-implement-the-chips-and-science-act-of-2022/)
 and will work closely with  the National Security Council, the Office of
 Science and Technology Policy, the Department of Commerce and the
 Steering Council to ensure effective interagency coordination.  

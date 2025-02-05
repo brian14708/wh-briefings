@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 09:36:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/27/remarks-by-vice-president-harris-and-prime-minister-anthony-albanese-of-the-commonwealth-of-australia-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/27/remarks-by-vice-president-harris-and-prime-minister-anthony-albanese-of-the-commonwealth-of-australia-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Anthony Albanese of the\
   \ Commonwealth of Australia Before Bilateral\_Meeting"

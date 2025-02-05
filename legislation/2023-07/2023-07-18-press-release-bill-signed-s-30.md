@@ -1,7 +1,7 @@
 ---
 date: '2023-07-18'
 published_time: 2023-07-18 11:27:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2023/07/18/press-release-bill-signed-s-30/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2023/07/18/press-release-bill-signed-s-30/
 tags: legislation
 title: "Press Release: Bill Signed: S.\_30"
 ---

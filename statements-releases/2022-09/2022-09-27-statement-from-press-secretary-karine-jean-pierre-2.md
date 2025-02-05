@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 published_time: 2022-09-27 21:01:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/27/statement-from-press-secretary-karine-jean-pierre-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/27/statement-from-press-secretary-karine-jean-pierre-2/
 tags: statements-releases
 title: "Statement from Press Secretary Karine\_Jean-Pierre"
 ---

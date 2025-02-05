@@ -2,7 +2,7 @@
 date: '2024-05-28'
 modified_time: 2024-05-28 13:37:24-04:00
 published_time: 2024-05-28 17:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/28/president-biden-announces-key-nominees-74/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/28/president-biden-announces-key-nominees-74/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-04'
 published_time: 2024-01-04 18:26:56-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/04/statement-from-national-security-advisor-jake-sullivan-congratulating-prime-minister-al-sabah-of-kuwait/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/04/statement-from-national-security-advisor-jake-sullivan-congratulating-prime-minister-al-sabah-of-kuwait/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan Congratulating Prime\
   \ Minister Al-Sabah of\_Kuwait"

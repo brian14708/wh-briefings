@@ -2,7 +2,7 @@
 date: '2022-03-28'
 modified_time: 2022-03-30 20:06:10-04:00
 published_time: 2022-03-28 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/28/statement-by-president-joe-biden-on-the-fy-2023-budget/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/28/statement-by-president-joe-biden-on-the-fy-2023-budget/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on the FY 2023\_Budget"
 ---

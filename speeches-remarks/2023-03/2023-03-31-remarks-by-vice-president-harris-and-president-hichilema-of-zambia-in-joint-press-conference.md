@@ -1,7 +1,7 @@
 ---
 date: '2023-03-31'
 published_time: 2023-03-31 13:33:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-vice-president-harris-and-president-hichilema-of-zambia-in-joint-press-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/03/31/remarks-by-vice-president-harris-and-president-hichilema-of-zambia-in-joint-press-conference/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and President Hichilema of Zambia in Joint\
   \ Press\_Conference"

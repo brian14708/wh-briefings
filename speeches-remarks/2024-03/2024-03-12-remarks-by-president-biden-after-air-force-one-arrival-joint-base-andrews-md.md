@@ -1,7 +1,7 @@
 ---
 date: '2024-03-12'
 published_time: 2024-03-12 13:29:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/12/remarks-by-president-biden-after-air-force-one-arrival-joint-base-andrews-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/12/remarks-by-president-biden-after-air-force-one-arrival-joint-base-andrews-md/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Air Force One Arrival | Joint Base Andrews,\_\
   MD"

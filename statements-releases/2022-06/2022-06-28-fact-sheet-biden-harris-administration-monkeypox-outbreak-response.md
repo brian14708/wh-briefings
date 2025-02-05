@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 19:35:04-04:00
 published_time: 2022-06-28 19:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-monkeypox-outbreak-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administration-monkeypox-outbreak-response/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration\u2019s Monkeypox Outbreak\_\
   Response"

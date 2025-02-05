@@ -1,7 +1,7 @@
 ---
 date: '2023-09-13'
 published_time: 2023-09-13 22:27:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/statement-from-press-secretary-karine-jean-pierre-on-district-courts-ruling-on-daca/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/statement-from-press-secretary-karine-jean-pierre-on-district-courts-ruling-on-daca/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on District Court\u2019\
   s Ruling on\_DACA"

@@ -2,7 +2,7 @@
 date: '2024-10-03'
 modified_time: 2024-10-03 16:27:44-04:00
 published_time: 2024-10-03 16:27:43-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/03/a-proclamation-on-national-manufacturing-day-2024/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/10/03/a-proclamation-on-national-manufacturing-day-2024/
 tags: presidential-actions
 title: "A Proclamation on National Manufacturing Day,\_2024"
 ---

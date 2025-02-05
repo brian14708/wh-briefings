@@ -2,7 +2,7 @@
 date: '2022-12-06'
 modified_time: 2022-12-08 12:32:38-05:00
 published_time: 2022-12-06 18:50:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-president-biden-on-american-manufacturing-and-creating-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/06/remarks-by-president-biden-on-american-manufacturing-and-creating-good-paying-jobs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on American Manufacturing and Creating Good-Paying\_\
   Jobs"

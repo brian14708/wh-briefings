@@ -2,7 +2,7 @@
 date: '2022-11-15'
 modified_time: 2022-11-15 04:16:17-05:00
 published_time: 2022-11-15 04:16:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/15/readout-of-president-bidens-meeting-with-president-recep-tayyip-erdogan-of-turkiye/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/15/readout-of-president-bidens-meeting-with-president-recep-tayyip-erdogan-of-turkiye/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Recep Tayyip Erdogan\
   \ of\_Turkiye"

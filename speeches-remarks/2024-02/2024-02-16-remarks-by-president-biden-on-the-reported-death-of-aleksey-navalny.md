@@ -2,7 +2,7 @@
 date: '2024-02-16'
 modified_time: 2024-02-16 15:42:14-05:00
 published_time: 2024-02-16 15:42:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-president-biden-on-the-reported-death-of-aleksey-navalny/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/16/remarks-by-president-biden-on-the-reported-death-of-aleksey-navalny/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Reported Death of Aleksey\_Navalny"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 20:44:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/25/a-proclamation-on-gold-star-mothers-and-familys-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/25/a-proclamation-on-gold-star-mothers-and-familys-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Gold Star Mother\u2019s and Family\u2019s Day,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2024-05-31'
 modified_time: 2024-05-31 23:39:30-04:00
 published_time: 2024-05-31 23:39:29-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2024/05/31/background-press-call-on-president-bidens-remarks-on-the-middle-east/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/05/31/background-press-call-on-president-bidens-remarks-on-the-middle-east/
 tags: press-briefings
 title: "Background Press Call on President\_Biden\u2019s Remarks on the Middle\_East"
 ---

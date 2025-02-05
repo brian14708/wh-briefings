@@ -2,7 +2,7 @@
 date: '2024-03-20'
 modified_time: 2024-03-19 21:34:41-04:00
 published_time: 2024-03-20 06:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/20/fact-sheet-delivering-on-the-biden-harris-administrations-commitment-to-democratic-renewal-at-the-third-summit-for-democracy/
 tags: statements-releases
 title: "FACT SHEET: Delivering on the Biden-\u2060Harris Administration\u2019s Commitment\
   \ to Democratic Renewal at the Third Summit for\_Democracy"
@@ -46,7 +46,7 @@ past three years, which include:
 -   In March 2023, President Biden signed the ground-breaking [Executive
     Order Prohibiting the Use of Commercial Spyware that Poses Risks to
     National
-    Security](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/) to
+    Security](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/27/executive-order-on-prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to-national-security/) to
     prohibit U.S. Government use of commercial spyware that poses risks
     to national security and has been misused by foreign actors to
     enable human rights abuses.
@@ -232,7 +232,7 @@ progress in the years ahead: 
 -   On March 18, Finland, Germany, Ireland, Japan, the Republic of
     Korea, and Poland signed the [<u>Joint Statement on Efforts to
     Counter the Proliferation and Misuse of Commercial
-    Spyware</u>](https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/),
+    Spyware</u>](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/18/joint-statement-on-efforts-to-counter-the-proliferation-and-misuse-of-commercial-spyware/),
     which was launched by an initial group of 11 like-minded countries
     at the second Summit for Democracy, expanding the coalition of
     countries committed to implementing robust guardrails against misuse

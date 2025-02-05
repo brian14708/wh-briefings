@@ -2,7 +2,7 @@
 date: '2022-04-05'
 modified_time: 2022-04-05 11:33:41-04:00
 published_time: 2022-04-05 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-implementation-of-the-australia-united-kingdom-united-states-partnership-aukus/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/05/fact-sheet-implementation-of-the-australia-united-kingdom-united-states-partnership-aukus/
 tags: statements-releases
 title: "FACT SHEET: Implementation of the Australia \u2013 United Kingdom \u2013 United\_\
   States Partnership\_(AUKUS)"

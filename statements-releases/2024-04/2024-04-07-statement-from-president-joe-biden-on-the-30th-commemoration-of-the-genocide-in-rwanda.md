@@ -2,7 +2,7 @@
 date: '2024-04-07'
 modified_time: 2024-04-06 18:47:26-04:00
 published_time: 2024-04-07 07:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/07/statement-from-president-joe-biden-on-the-30th-commemoration-of-the-genocide-in-rwanda/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/07/statement-from-president-joe-biden-on-the-30th-commemoration-of-the-genocide-in-rwanda/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the 30th Commemoration of the Genocide\
   \ in\_Rwanda"

@@ -1,7 +1,7 @@
 ---
 date: '2022-06-07'
 published_time: 2022-06-07 18:18:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/07/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2023-budget-amendments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/07/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2023-budget-amendments/
 tags: presidential-actions
 title: "Letter to the Speaker of the House of Representatives on Fiscal Year 2023\
   \ Budget\_Amendments"

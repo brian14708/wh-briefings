@@ -2,7 +2,7 @@
 date: '2024-02-04'
 modified_time: 2024-02-04 21:30:19-05:00
 published_time: 2024-02-04 21:30:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/04/fact-sheet-biden-harris-administration-calls-on-congress-to-immediately-pass-the-bipartisan-national-security-agreement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/04/fact-sheet-biden-harris-administration-calls-on-congress-to-immediately-pass-the-bipartisan-national-security-agreement/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Calls on Congress to Immediately\
   \ Pass the Bipartisan National Security\_Agreement"

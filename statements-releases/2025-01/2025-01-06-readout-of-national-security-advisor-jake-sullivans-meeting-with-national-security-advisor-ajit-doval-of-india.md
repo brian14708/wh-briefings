@@ -1,7 +1,7 @@
 ---
 date: '2025-01-06'
 published_time: 2025-01-06 11:08:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-ajit-doval-of-india/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2025/01/06/readout-of-national-security-advisor-jake-sullivans-meeting-with-national-security-advisor-ajit-doval-of-india/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with National\
   \ Security Advisor Ajit Doval of\_India"

@@ -2,7 +2,7 @@
 date: '2024-05-16'
 modified_time: 2024-05-17 10:55:05-04:00
 published_time: 2024-05-16 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-takes-action-to-strengthen-american-solar-manufacturing-and-protect-manufacturers-and-workers-from-chinas-unfair-trade-practices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/16/fact-sheet-biden-harris-administration-takes-action-to-strengthen-american-solar-manufacturing-and-protect-manufacturers-and-workers-from-chinas-unfair-trade-practices/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Takes Action to Strengthen American\
   \ Solar Manufacturing and Protect Manufacturers and Workers from China\u2019s Unfair\

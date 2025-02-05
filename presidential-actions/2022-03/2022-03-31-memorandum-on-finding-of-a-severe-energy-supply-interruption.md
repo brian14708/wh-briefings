@@ -2,7 +2,7 @@
 date: '2022-03-31'
 modified_time: 2022-03-31 14:11:07-04:00
 published_time: 2022-03-31 14:11:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/31/memorandum-on-finding-of-a-severe-energy-supply-interruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/03/31/memorandum-on-finding-of-a-severe-energy-supply-interruption/
 tags: presidential-actions
 title: "Memorandum on Finding of a Severe Energy Supply\_Interruption"
 ---

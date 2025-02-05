@@ -2,7 +2,7 @@
 date: '2022-04-21'
 modified_time: 2022-04-21 18:38:18-04:00
 published_time: 2022-04-21 18:35:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-vice-president-harris-on-the-administrations-commitment-to-improve-maternal-health/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/21/remarks-by-vice-president-harris-on-the-administrations-commitment-to-improve-maternal-health/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on the Administration\u2019s Commitment to\
   \ Improve Maternal\_Health"

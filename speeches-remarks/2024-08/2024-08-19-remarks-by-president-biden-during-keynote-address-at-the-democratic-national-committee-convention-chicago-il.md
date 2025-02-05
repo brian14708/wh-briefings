@@ -2,7 +2,7 @@
 date: '2024-08-19'
 modified_time: 2024-08-20 15:38:18-04:00
 published_time: 2024-08-19 23:05:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/08/19/remarks-by-president-biden-during-keynote-address-at-the-democratic-national-committee-convention-chicago-il/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/08/19/remarks-by-president-biden-during-keynote-address-at-the-democratic-national-committee-convention-chicago-il/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Keynote Address at the Democratic National\
   \ Committee Convention | Chicago,\_IL"

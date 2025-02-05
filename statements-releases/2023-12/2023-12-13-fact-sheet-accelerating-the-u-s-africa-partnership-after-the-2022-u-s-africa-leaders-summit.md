@@ -2,7 +2,7 @@
 date: '2023-12-13'
 modified_time: 2023-12-13 14:09:25-05:00
 published_time: 2023-12-13 05:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-accelerating-the-u-s-africa-partnership-after-the-2022-u-s-africa-leaders-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/fact-sheet-accelerating-the-u-s-africa-partnership-after-the-2022-u-s-africa-leaders-summit/
 tags: statements-releases
 title: "FACT SHEET: Accelerating the U.S. \u2013 Africa Partnership After the 2022\
   \ U.S.-Africa Leaders\_Summit"

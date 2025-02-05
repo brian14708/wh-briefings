@@ -1,7 +1,7 @@
 ---
 date: '2023-10-06'
 published_time: 2023-10-06 13:29:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/06/statement-from-president-joe-biden-on-iranian-activist-narges-mohammadi-winning-the-nobel-peace-prize/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/06/statement-from-president-joe-biden-on-iranian-activist-narges-mohammadi-winning-the-nobel-peace-prize/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Iranian Activist Narges Mohammadi Winning\
   \ the Nobel Peace\_Prize"

@@ -2,7 +2,7 @@
 date: '2022-08-01'
 modified_time: 2022-08-02 16:39:40-04:00
 published_time: 2022-08-01 18:42:25-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/08/01/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/01/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-2/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre and National Security\
   \ Council Coordinator for Strategic Communications John\_Kirby"

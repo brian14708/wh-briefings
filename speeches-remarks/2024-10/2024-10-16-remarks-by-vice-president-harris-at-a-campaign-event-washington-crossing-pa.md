@@ -2,7 +2,7 @@
 date: '2024-10-16'
 modified_time: 2024-10-17 13:03:50-04:00
 published_time: 2024-10-16 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/16/remarks-by-vice-president-harris-at-a-campaign-event-washington-crossing-pa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/16/remarks-by-vice-president-harris-at-a-campaign-event-washington-crossing-pa/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Washington Crossing,\_\
   PA"

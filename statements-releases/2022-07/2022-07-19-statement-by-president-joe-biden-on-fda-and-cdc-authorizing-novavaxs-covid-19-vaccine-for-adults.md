@@ -2,7 +2,7 @@
 date: '2022-07-19'
 modified_time: 2022-07-19 19:20:16-04:00
 published_time: 2022-07-19 19:20:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/19/statement-by-president-joe-biden-on-fda-and-cdc-authorizing-novavaxs-covid-19-vaccine-for-adults/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/19/statement-by-president-joe-biden-on-fda-and-cdc-authorizing-novavaxs-covid-19-vaccine-for-adults/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on FDA and CDC Authorizing Novavax\u2019\
   s COVID-\u206019 Vaccine for\_Adults"

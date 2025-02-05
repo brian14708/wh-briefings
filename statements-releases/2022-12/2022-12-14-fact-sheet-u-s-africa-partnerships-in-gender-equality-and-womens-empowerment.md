@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-16 18:18:43-05:00
 published_time: 2022-12-14 12:03:11-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnerships-in-gender-equality-and-womens-empowerment/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnerships-in-gender-equality-and-womens-empowerment/
 tags: statements-releases
 title: "Fact Sheet: U.S.-Africa Partnerships in Gender Equality and Women\u2019s\_\
   Empowerment"
@@ -31,7 +31,7 @@ Investment.
 **Advancing Women’s Entrepreneurship and Equality:** The U.S.
 International Development Finance Corporation (DFC) announced [$358
 million of new
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/),
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/),
 including projects under DFC’s 2X Women’s Initiative, which has
 catalyzed billions of dollars of projects owned by women, led by women,
 or empowering women.  Investments include support for innovative
@@ -48,7 +48,7 @@ Africa, including women-led businesses.
   
 At the U.S.-Africa Business Forum, Millennium Challenge Corporation
 (MCC) announced a [Regional Transport
-Compact](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/)
+Compact](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-u-s-africa-partnership-in-promoting-two-way-trade-and-investment-in-africa/)
 with the governments of Niger and Benin that includes $7.5 million for
 entrepreneurship and training programs for women and youth, to mitigate
 HIV/AIDS, gender-based violence, trafficking in persons risks, and road
@@ -98,7 +98,7 @@ benefit from global programming are Ghana and Nigeria.
 **<u>Technology and Innovation  
 </u>**  
 [**Initiative on Digital Transformation with
-Africa**](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
+Africa**](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/14/fact-sheet-new-initiative-on-digital-transformation-with-africa-dta/)
 **(DTA)**: Working with Congress, this signature initiative of the
 Biden-Harris Administration intends to invest over $350 million and
 facilitate over $450 million in financing for Africa to foster the
@@ -125,7 +125,7 @@ the program plans to invest $1.3 million to pilot practical activities
 in Africa to prevent, respond to, and mitigate the risk of technology
 facilitated gender-based violence, [including perpetrated against women
 in politics and public
-life](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-in-promoting-peace-security-and-democratic-governance/).  
+life](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/fact-sheet-u-s-africa-partnership-in-promoting-peace-security-and-democratic-governance/).  
   
 **Combating Gender-Based Violence in the Workplace: ** Earlier this
 year, MCC signed a new Compact with Malawi, which includes a $4 million
@@ -147,11 +147,11 @@ rights, and reduce stigma and harmful practices.  
 **<u>Health</u>**  
   
 **[Advancing Equity in the Global Health
-Workforce](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/):**
+Workforce](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/13/fact-sheet-u-s-africa-partnership-in-health-cooperation/):**
 Around the world 70% of health workers are women, but many are unpaid
 for their critical contributions to health and the economy. Last May,
 the White House launched the [Global Health Worker
-Initiative](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/)
+Initiative](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/11/fact-sheet-the-biden-harris-administration-global-health-worker-initiative/)
 (GHWI), recognizing that a comprehensive, trained, protected,
 well-equipped, and supported health workforce is foundational to
 expanding equitable access to public health services. One pillar of the

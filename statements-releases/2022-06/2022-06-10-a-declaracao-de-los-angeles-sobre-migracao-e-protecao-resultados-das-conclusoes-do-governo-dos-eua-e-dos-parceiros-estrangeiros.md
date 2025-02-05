@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-11 07:00:47-04:00
 published_time: 2022-06-10 06:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/10/a-declaracao-de-los-angeles-sobre-migracao-e-protecao-resultados-das-conclusoes-do-governo-dos-eua-e-dos-parceiros-estrangeiros/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/10/a-declaracao-de-los-angeles-sobre-migracao-e-protecao-resultados-das-conclusoes-do-governo-dos-eua-e-dos-parceiros-estrangeiros/
 tags: statements-releases
 title: "A Declara\xE7\xE3o de Los Angeles sobre Migra\xE7\xE3o e Prote\xE7\xE3o: Resultados\
   \ das Conclus\xF5es do Governo dos EUA e dos Parceiros\_Estrangeiros"

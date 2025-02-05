@@ -2,7 +2,7 @@
 date: '2024-03-14'
 modified_time: 2024-03-14 11:40:35-04:00
 published_time: 2024-03-14 11:40:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/03/14/remarks-by-president-biden-on-how-his-investments-are-rebuilding-our-communities-and-creating-good-paying-jobs-milwaukee-wi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/03/14/remarks-by-president-biden-on-how-his-investments-are-rebuilding-our-communities-and-creating-good-paying-jobs-milwaukee-wi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on How His Investments are Rebuilding Our Communities\
   \ and Creating Good-Paying Jobs | Milwaukee,\_WI"

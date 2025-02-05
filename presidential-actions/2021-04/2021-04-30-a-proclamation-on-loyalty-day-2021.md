@@ -2,7 +2,7 @@
 tags: presidential-actions
 date: '2021-04-30'
 modified_time: 2021-04-30 16:45:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-loyalty-day-2021/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/04/30/a-proclamation-on-loyalty-day-2021/
 published_time: 2021-04-30 16:45:29-04:00
 title: "A Proclamation on Loyalty Day,\_2021"
 ---

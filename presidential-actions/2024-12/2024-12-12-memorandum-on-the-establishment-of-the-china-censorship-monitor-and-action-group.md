@@ -2,7 +2,7 @@
 date: '2024-12-12'
 modified_time: 2024-12-12 16:13:39-05:00
 published_time: 2024-12-12 16:13:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/12/memorandum-on-the-establishment-of-the-china-censorship-monitor-and-action-group/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/12/memorandum-on-the-establishment-of-the-china-censorship-monitor-and-action-group/
 tags: presidential-actions
 title: "Memorandum on the Establishment of the China Censorship Monitor and Action\_\
   Group"

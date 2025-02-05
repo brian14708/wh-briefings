@@ -2,7 +2,7 @@
 date: '2024-05-13'
 modified_time: 2024-05-13 15:17:31-04:00
 published_time: 2024-05-13 15:17:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/05/13/remarks-by-vice-president-harris-in-a-moderated-conversation-with-jimmy-o-yang-at-the-asian-pacific-american-institute-for-congressional-studies-legislative-leadership-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/05/13/remarks-by-vice-president-harris-in-a-moderated-conversation-with-jimmy-o-yang-at-the-asian-pacific-american-institute-for-congressional-studies-legislative-leadership-summit/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris in a Moderated Conversation with Jimmy O.\
   \ Yang at the Asian Pacific American Institute for Congressional Studies Legislative\

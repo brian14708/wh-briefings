@@ -2,7 +2,7 @@
 date: '2022-09-07'
 modified_time: 2022-09-08 09:31:16-04:00
 published_time: 2022-09-07 09:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/09/07/press-briefing-by-press-secretary-karine-jean-pierre-national-monkeypox-response-coordinator-bob-fenton-and-deputy-coordinator-dr-demetre-daskalakis/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/09/07/press-briefing-by-press-secretary-karine-jean-pierre-national-monkeypox-response-coordinator-bob-fenton-and-deputy-coordinator-dr-demetre-daskalakis/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine Jean-Pierre, National Monkeypox Response\
   \ Coordinator Bob Fenton and Deputy Coordinator Dr. Demetre\_Daskalakis"

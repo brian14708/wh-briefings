@@ -2,7 +2,7 @@
 date: '2022-04-15'
 modified_time: 2022-04-15 13:50:54-04:00
 published_time: 2022-04-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/15/statement-from-president-biden-on-his-intent-to-nominate-michael-barr-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/15/statement-from-president-biden-on-his-intent-to-nominate-michael-barr-to-serve-as-vice-chair-for-supervision-of-the-federal-reserve/
 tags: statements-releases
 title: "Statement from President\_Biden on His Intent to Nominate Michael Barr to\
   \ Serve as Vice Chair for Supervision of the Federal\_Reserve"

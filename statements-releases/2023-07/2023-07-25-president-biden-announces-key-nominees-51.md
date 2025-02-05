@@ -2,7 +2,7 @@
 date: '2023-07-25'
 modified_time: 2023-07-25 12:52:31-04:00
 published_time: 2023-07-25 13:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/25/president-biden-announces-key-nominees-51/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/25/president-biden-announces-key-nominees-51/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

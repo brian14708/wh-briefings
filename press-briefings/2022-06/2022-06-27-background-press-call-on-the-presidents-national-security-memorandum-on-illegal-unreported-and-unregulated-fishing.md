@@ -1,7 +1,7 @@
 ---
 date: '2022-06-27'
 published_time: 2022-06-27 15:53:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/27/background-press-call-on-the-presidents-national-security-memorandum-on-illegal-unreported-and-unregulated-fishing/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/27/background-press-call-on-the-presidents-national-security-memorandum-on-illegal-unreported-and-unregulated-fishing/
 tags: press-briefings
 title: "Background Press Call on the President\u2019s National Security Memorandum\
   \ on Illegal, Unreported, and Unregulated\_Fishing"

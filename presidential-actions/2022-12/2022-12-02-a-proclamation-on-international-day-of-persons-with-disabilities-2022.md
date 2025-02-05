@@ -2,7 +2,7 @@
 date: '2022-12-02'
 modified_time: 2022-12-02 17:03:29-05:00
 published_time: 2022-12-02 13:26:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/12/02/a-proclamation-on-international-day-of-persons-with-disabilities-2022/
 tags: presidential-actions
 title: "A Proclamation on International Day of Persons With Disabilities,\_2022"
 ---

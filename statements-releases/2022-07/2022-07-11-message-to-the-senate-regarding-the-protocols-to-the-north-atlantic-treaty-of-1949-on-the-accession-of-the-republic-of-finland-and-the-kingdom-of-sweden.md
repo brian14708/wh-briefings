@@ -2,7 +2,7 @@
 date: '2022-07-11'
 modified_time: 2022-07-11 17:39:07-04:00
 published_time: 2022-07-11 17:37:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/message-to-the-senate-regarding-the-protocols-to-the-north-atlantic-treaty-of-1949-on-the-accession-of-the-republic-of-finland-and-the-kingdom-of-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/message-to-the-senate-regarding-the-protocols-to-the-north-atlantic-treaty-of-1949-on-the-accession-of-the-republic-of-finland-and-the-kingdom-of-sweden/
 tags: statements-releases
 title: "Message to the Senate Regarding the Protocols to the North Atlantic Treaty\
   \ of 1949 on the Accession of the Republic of Finland and the Kingdom of\_Sweden"

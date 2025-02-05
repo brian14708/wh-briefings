@@ -1,7 +1,7 @@
 ---
 date: '2023-06-26'
 published_time: 2023-06-26 19:40:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/26/readout-of-president-joe-bidens-call-with-prime-minister-of-italy-giorgia-meloni/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/26/readout-of-president-joe-bidens-call-with-prime-minister-of-italy-giorgia-meloni/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister of Italy Giorgia\_\
   Meloni"

@@ -2,7 +2,7 @@
 date: '2022-04-08'
 modified_time: 2022-04-08 16:07:05-04:00
 published_time: 2022-04-08 16:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/08/remarks-by-president-biden-vice-president-harris-and-judge-ketanji-brown-jackson-on-the-senates-historic-bipartisan-confirmation-of-judge-jackson-to-be-an-associate-justice-of-the-supreme-court/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/08/remarks-by-president-biden-vice-president-harris-and-judge-ketanji-brown-jackson-on-the-senates-historic-bipartisan-confirmation-of-judge-jackson-to-be-an-associate-justice-of-the-supreme-court/
 tags: speeches-remarks
 title: "Remarks by President\_Biden, Vice President Harris, and Judge Ketanji Brown\
   \ Jackson on the Senate\u2019s Historic, Bipartisan Confirmation of Judge Jackson\

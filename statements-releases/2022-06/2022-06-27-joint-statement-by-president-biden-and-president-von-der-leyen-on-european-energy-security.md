@@ -2,7 +2,7 @@
 date: '2022-06-27'
 modified_time: 2022-06-27 06:25:42-04:00
 published_time: 2022-06-27 06:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/27/joint-statement-by-president-biden-and-president-von-der-leyen-on-european-energy-security/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/27/joint-statement-by-president-biden-and-president-von-der-leyen-on-european-energy-security/
 tags: statements-releases
 title: "Joint Statement by President\_Biden and President von der Leyen on European\
   \ Energy\_Security"

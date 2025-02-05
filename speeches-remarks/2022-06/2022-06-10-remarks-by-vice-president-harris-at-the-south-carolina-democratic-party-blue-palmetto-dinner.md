@@ -2,7 +2,7 @@
 date: '2022-06-10'
 modified_time: 2022-06-11 13:32:11-04:00
 published_time: 2022-06-10 13:27:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-vice-president-harris-at-the-south-carolina-democratic-party-blue-palmetto-dinner/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/10/remarks-by-vice-president-harris-at-the-south-carolina-democratic-party-blue-palmetto-dinner/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the South Carolina Democratic Party Blue\
   \ Palmetto\_Dinner"

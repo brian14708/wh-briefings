@@ -1,7 +1,7 @@
 ---
 date: '2023-06-16'
 published_time: 2023-06-16 13:24:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/16/a-proclamation-on-juneteenth-day-of-observance-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/16/a-proclamation-on-juneteenth-day-of-observance-2023/
 tags: presidential-actions
 title: "A Proclamation on Juneteenth Day of Observance,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-26'
 modified_time: 2024-08-26 17:22:52-04:00
 published_time: 2024-08-26 17:22:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/26/readout-of-president-joe-bidens-call-with-prime-minister-narendra-modi-of-india-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/26/readout-of-president-joe-bidens-call-with-prime-minister-narendra-modi-of-india-2/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Prime Minister Narendra Modi\
   \ of\_India"

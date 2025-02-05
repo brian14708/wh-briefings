@@ -2,7 +2,7 @@
 date: '2023-01-30'
 modified_time: 2023-01-30 19:57:58-05:00
 published_time: 2023-01-30 19:57:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/30/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-7/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/30/remarks-by-president-biden-on-the-bipartisan-infrastructure-law-7/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Bipartisan Infrastructure\_Law"
 ---

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-03-04'
 modified_time: 2022-03-03 23:53:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/04/fact-sheet-biden-harris-administration-delivers-on-made-in-america-commitments/
 published_time: 2022-03-04 05:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Delivers on Made in America\_\
   Commitments"
@@ -56,20 +56,20 @@ good-paying, union jobs across the country.**
 back home:**
 
 -   Intel announced a [$20
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-bringing-semiconductor-manufacturing-back-to-america/)
     semiconductor manufacturing fab outside Columbus, Ohio that will
     create 7,000 construction jobs and another 3,000 permanent jobs.  
 -   General Motors announced its largest-ever [$7
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/25/statement-by-president-biden-on-general-motors-investment-in-michigan/)
     investment to create 4,000 new EV manufacturing jobs at sites across
     Michigan.  
 -   Boeing and the Qatar Airways Group announced a [$20
-    billion](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/)
+    billion](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/31/readout-of-president-bidens-meeting-with-amir-sheikh-tamim-bin-hamad-al-thani-of-qatar/)
     deal, including $6.8 billion to supply aircraft that will support
     tens of thousands of U.S. manufacturing jobs.  
 -   MP Materials, who operate the only rare earth mine in the U.S.,
     announced a [$700
-    million](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/)
+    million](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/22/fact-sheet-securing-a-made-in-america-supply-chain-for-critical-minerals/)
     investment to establish a fully domestic end-to-end supply chain for
     permanent magnets by 2025, which are used in electric vehicle
     motors, wind turbines, and defense systems.
@@ -86,7 +86,7 @@ goods and services.
 President Biden believes that when taxpayers foot the bill, that
 spending should invest in American workers, manufacturers, and small
 businesses. In his first week in office, he signed [Executive Order
-1400](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/)5,
+1400](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/25/executive-order-on-ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers/)5,
 *Ensuring the Future Is Made in All of America by All of America’s
 Workers*, initiating a review of Buy American policy and establishing
 the first-ever Made in America Office in the Office of Management and
@@ -148,7 +148,7 @@ manufacturing, including small businesses, minority-owned businesses,
 and woman-owned businesses.**  
   
 Last year, the Biden-Harris Administration announced [new
-reforms](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
+reforms](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/)
 to increase equity in Federal procurement, including increasing goals
 for Federal procurement, increasing transparency, and supporting new
 entrants to the Federal marketplace.  

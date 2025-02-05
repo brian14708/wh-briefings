@@ -2,7 +2,7 @@
 date: '2023-08-30'
 modified_time: 2023-08-30 21:22:20-04:00
 published_time: 2023-08-30 21:22:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/30/statement-by-president-biden-on-the-second-anniversary-of-ending-the-afghanistan-war/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/30/statement-by-president-biden-on-the-second-anniversary-of-ending-the-afghanistan-war/
 tags: statements-releases
 title: "Statement from President\_Biden on the Second Anniversary of Ending the Afghanistan\_\
   War"

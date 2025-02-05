@@ -1,7 +1,7 @@
 ---
 date: '2022-06-06'
 published_time: 2022-06-06 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/06/president-biden-announces-five-new-nominees-to-serve-as-u-s-attorneys-two-to-serve-as-u-s-marshals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/06/president-biden-announces-five-new-nominees-to-serve-as-u-s-attorneys-two-to-serve-as-u-s-marshals/
 tags: statements-releases
 title: "President\_Biden Announces Five New Nominees to Serve as U.S. Attorneys, Two\
   \ to Serve as U.S.\_Marshals"

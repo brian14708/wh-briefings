@@ -2,7 +2,7 @@
 date: '2022-08-02'
 modified_time: 2022-08-07 15:39:02-04:00
 published_time: 2022-08-02 20:00:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-pact-act-delivers-on-president-bidens-promise-to-americas-veterans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-pact-act-delivers-on-president-bidens-promise-to-americas-veterans/
 tags: statements-releases
 title: "FACT SHEET: PACT Act Delivers on President\_Biden\u2019s Promise to America\u2019\
   s\_Veterans"
@@ -53,7 +53,7 @@ than 5 million veterans—across all generations—who may have been
 impacted by toxic exposures while serving our country. Danielle
 Robinson, the widow of Sergeant First Class Robinson, was a guest of the
 First Lady at President Biden’s [first State of the Union
-address](https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/)
+address](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/03/01/remarks-of-president-joe-biden-state-of-the-union-address-as-delivered/)
 when he called on Congress to pass a law to make sure veterans devasted
 by toxic exposures – like her husband – finally get the health care and
 benefits they deserve.

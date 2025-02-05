@@ -1,7 +1,7 @@
 ---
 date: '2024-06-13'
 published_time: 2024-06-13 15:22:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-senate-republicans-second-time-blocking-nationwide-protections-for-ivf/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/statement-from-president-joe-biden-on-senate-republicans-second-time-blocking-nationwide-protections-for-ivf/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senate Republicans\u2019 Second Time\
   \ Blocking Nationwide Protections for\_IVF"

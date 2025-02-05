@@ -2,7 +2,7 @@
 date: '2024-06-03'
 modified_time: 2024-06-03 11:00:30-04:00
 published_time: 2024-06-03 10:48:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/03/statement-from-president-joe-biden-congratulating-claudia-sheinbaum-as-president-elect-of-mexico/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/statement-from-president-joe-biden-congratulating-claudia-sheinbaum-as-president-elect-of-mexico/
 tags: statements-releases
 title: "Statement from President Joe\_Biden Congratulating Claudia Sheinbaum as President-elect\
   \ of\_Mexico"

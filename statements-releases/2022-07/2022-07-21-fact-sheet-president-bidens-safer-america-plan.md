@@ -2,7 +2,7 @@
 date: '2022-07-21'
 modified_time: 2022-07-22 09:04:37-04:00
 published_time: 2022-07-21 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-president-bidens-safer-america-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/21/fact-sheet-president-bidens-safer-america-plan/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Safer America\_Plan"
 ---
@@ -28,7 +28,7 @@ his first 18 months in office:
     politicians talk about funding the police, but President Biden and
     Congressional Democrats actually got it done by enacting the
     American Rescue Plan (ARP). [Over $10 billion in ARP
-    funds](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/)
+    funds](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/13/fact-sheet-president-biden-issues-call-for-state-and-local-leaders-to-dedicate-more-american-rescue-plan-funding-to-make-our-communities-safer-and-deploy-these-dollars-quickly/)
     have already been committed to policing and other public safety
     efforts – including at least $6.5 billion in State and Local funds
     committed in more than 300 communities across the country. Along
@@ -36,7 +36,7 @@ his first 18 months in office:
     made 2021 among the largest single-year commitments of federal
     resources for state and local law enforcement and public safety on
     record. President Biden also signed a historic [executive
-    order](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
+    order](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
     to advance effective, accountable policing that will build public
     trust and strengthen public safety. Leading civil rights
     organizations and law enforcement organizations such as the
@@ -46,10 +46,10 @@ his first 18 months in office:
     order.  
 -   **Tackled gun violence**. President Biden is implementing his
     comprehensive
-    [strategy](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
+    [strategy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/23/fact-sheet-biden-harris-administration-announces-comprehensive-strategy-to-prevent-and-respond-to-gun-crime-and-ensure-public-safety/)
     to reduce gun crime. The Biden Administration has taken [more
     executive
-    action](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/)
+    action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/11/fact-sheet-the-biden-administrations-21-executive-actions-to-reduce-gun-violence/)
     to reduce gun violence than any other president at this point in
     their Administration, including by reining in the proliferation of
     ghost guns and cracking down on gun traffickers and rogue gun
@@ -68,7 +68,7 @@ his first 18 months in office:
     has secured $300 million to expand community violence interventions.
     The Biden Administration has also made changes to [26 different
     federal
-    programs](https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
+    programs](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/07/fact-sheet-more-details-on-the-biden-harris-administrations-investments-in-community-violence-interventions/)
     to direct additional funding to evidence-based violence
     interventions. And, the Department of Labor is [investing in job
     programs](https://www.dol.gov/newsroom/releases/eta/eta20220307) to
@@ -78,7 +78,7 @@ his first 18 months in office:
 The President believes we can and must do more to reduce crime and save
 lives. Today, President Biden is building on this progress with his
 Safer America Plan[. President Biden’s fiscal year 2023
-budget](https://www.whitehouse.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
+budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/03/budget_fy2023.pdf)
 requests a fully paid-for new investment of approximately $35 billion to
 support law enforcement and crime prevention – in addition to the
 President’s $2 billion discretionary request for these same programs.

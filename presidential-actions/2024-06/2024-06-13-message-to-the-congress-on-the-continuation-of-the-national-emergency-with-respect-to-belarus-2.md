@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-13 13:30:26-04:00
 published_time: 2024-06-13 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/13/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-belarus-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/06/13/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-belarus-2/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to\_Belarus"

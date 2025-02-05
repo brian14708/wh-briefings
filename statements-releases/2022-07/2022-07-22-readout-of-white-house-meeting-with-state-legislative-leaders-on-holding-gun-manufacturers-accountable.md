@@ -2,7 +2,7 @@
 date: '2022-07-22'
 modified_time: 2022-07-22 15:46:27-04:00
 published_time: 2022-07-22 15:46:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-holding-gun-manufacturers-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/22/readout-of-white-house-meeting-with-state-legislative-leaders-on-holding-gun-manufacturers-accountable/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Holding\
   \ Gun Manufacturers\_Accountable"

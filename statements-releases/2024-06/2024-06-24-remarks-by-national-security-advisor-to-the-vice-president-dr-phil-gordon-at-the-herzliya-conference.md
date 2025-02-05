@@ -2,7 +2,7 @@
 date: '2024-06-24'
 modified_time: 2024-06-25 11:59:52-04:00
 published_time: 2024-06-24 23:59:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/24/remarks-by-national-security-advisor-to-the-vice-president-dr-phil-gordon-at-the-herzliya-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/24/remarks-by-national-security-advisor-to-the-vice-president-dr-phil-gordon-at-the-herzliya-conference/
 tags: statements-releases
 title: "Remarks by National Security Advisor to the Vice President Dr. Phil Gordon\
   \ at the Herzliya\_Conference"

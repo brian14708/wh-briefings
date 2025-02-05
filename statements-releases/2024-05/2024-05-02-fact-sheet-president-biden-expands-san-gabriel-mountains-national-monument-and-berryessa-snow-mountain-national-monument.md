@@ -2,7 +2,7 @@
 date: '2024-05-02'
 modified_time: 2024-05-01 19:29:09-04:00
 published_time: 2024-05-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/02/fact-sheet-president-biden-expands-san-gabriel-mountains-national-monument-and-berryessa-snow-mountain-national-monument/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Expands San Gabriel Mountains National Monument\
   \ and Berryessa Snow Mountain National\_Monument"
@@ -70,9 +70,9 @@ by those bills.
    
 Since taking office, the Biden-Harris Administration has established or
 expanded [seven national
-monuments](https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
+monuments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/08/fact-sheet-president-biden-designates-baaj-nwaavjo-itah-kukveni-ancestral-footprints-of-the-grand-canyon-national-monument/)
 (including through today’s actions) and [restored protections for three
-more](https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
+more](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/21/fact-sheet-biden-harris-administration-takes-new-action-to-conserve-and-restore-americas-lands-and-waters/);
 created [four new national wildlife
 refuges](https://www.doi.gov/pressreleases/interior-department-establishes-everglades-gulf-conservation-area-conserve-habitat)
 and significantly [expanded five
@@ -80,7 +80,7 @@ more](https://www.doi.gov/pressreleases/interior-department-announces-expansion-
 protected the [Boundary Waters of
 Minnesota](https://www.doi.gov/pressreleases/biden-harris-administration-protects-boundary-waters-area-watershed),
 the nation’s most visited wilderness area; safeguarded [Bristol
-Bay](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/)
+Bay](https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/05/11/remarks-by-president-biden-on-the-protection-of-bristol-bay-and-national-conservation/)
 in southwest Alaska; and withdrawn [Chaco
 Canyon](https://www.doi.gov/pressreleases/biden-harris-administration-protects-chaco-region-tribal-cultural-sites-development)
 in New Mexico and [Thompson

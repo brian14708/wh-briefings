@@ -2,7 +2,7 @@
 date: '2023-11-13'
 modified_time: 2023-11-13 17:55:38-05:00
 published_time: 2023-11-13 17:55:37-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-and-first-lady-jill-biden-establishing-the-first-ever-white-house-initiative-on-womens-health-research/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/13/remarks-by-president-biden-and-first-lady-jill-biden-establishing-the-first-ever-white-house-initiative-on-womens-health-research/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and First Lady Jill\_Biden Establishing the First-Ever\
   \ White\_House Initiative on Women\u2019s Health\_Research"

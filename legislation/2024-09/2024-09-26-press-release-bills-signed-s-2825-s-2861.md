@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-26 19:16:39-04:00
 published_time: 2024-09-26 19:15:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2024/09/26/press-release-bills-signed-s-2825-s-2861/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2024/09/26/press-release-bills-signed-s-2825-s-2861/
 tags: legislation
 title: "Bills Signed: S. 2825, S.\_2861"
 ---

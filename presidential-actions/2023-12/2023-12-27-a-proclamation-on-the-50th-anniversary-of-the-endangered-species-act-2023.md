@@ -2,7 +2,7 @@
 date: '2023-12-27'
 modified_time: 2023-12-27 16:41:12-05:00
 published_time: 2023-12-27 16:41:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/27/a-proclamation-on-the-50th-anniversary-of-the-endangered-species-act-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/27/a-proclamation-on-the-50th-anniversary-of-the-endangered-species-act-2023/
 tags: presidential-actions
 title: "A Proclamation on the 50th Anniversary of the Endangered Species Act,\_2023"
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-29'
 modified_time: 2022-09-30 12:32:31-04:00
 published_time: 2022-09-29 12:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-after-briefing-at-t2-conference-room/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/29/remarks-by-vice-president-harris-after-briefing-at-t2-conference-room/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris after Briefing at T2 Conference\_Room"
 ---

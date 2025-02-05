@@ -2,7 +2,7 @@
 date: '2023-03-15'
 modified_time: 2023-03-14 18:24:49-04:00
 published_time: 2023-03-15 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-seniors-across-the-country-are-saving-millions-of-dollars-in-health-care-costs-because-of-president-bidens-prescription-drug-law/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/15/fact-sheet-seniors-across-the-country-are-saving-millions-of-dollars-in-health-care-costs-because-of-president-bidens-prescription-drug-law/
 tags: statements-releases
 title: "FACT SHEET: Seniors Across the Country Are Saving Millions of Dollars in Health\
   \ Care Costs Because of President\_Biden\u2019s Prescription Drug\_Law"
@@ -97,10 +97,10 @@ adjustment rates are below:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/table1.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table1.jpg"
 class="wp-image-71949" decoding="async" loading="lazy"
 sizes="(max-width: 593px) 100vw, 593px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/03/table1.jpg 593w, https://www.whitehouse.gov/wp-content/uploads/2023/03/table1.jpg?resize=529,615 529w, https://www.whitehouse.gov/wp-content/uploads/2023/03/table1.jpg?resize=551,640 551w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table1.jpg 593w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table1.jpg?resize=529,615 529w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table1.jpg?resize=551,640 551w"
 width="593" height="689" />
 </figure>
 
@@ -135,19 +135,19 @@ of President Biden’s Inflation Reduction Act are below.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/table-2.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-2.jpg"
 class="wp-image-71950" decoding="async" loading="lazy"
 sizes="(max-width: 728px) 100vw, 728px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/03/table-2.jpg 728w, https://www.whitehouse.gov/wp-content/uploads/2023/03/table-2.jpg?resize=615,449 615w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-2.jpg 728w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-2.jpg?resize=615,449 615w"
 width="728" height="532" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/03/table-3.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-3.jpg"
 class="wp-image-71951" decoding="async" loading="lazy"
 sizes="(max-width: 724px) 100vw, 724px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/03/table-3.jpg 724w, https://www.whitehouse.gov/wp-content/uploads/2023/03/table-3.jpg?resize=552,615 552w, https://www.whitehouse.gov/wp-content/uploads/2023/03/table-3.jpg?resize=575,640 575w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-3.jpg 724w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-3.jpg?resize=552,615 552w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/table-3.jpg?resize=575,640 575w"
 width="724" height="806"
 alt="Source: ASPE analysis of the CMS 2021 Medicare Prescription Drug Event (PDE) and Medicare enrollment data files. Notes: Estimates are presented for enrollees who received any Part D covered vaccines. For vaccines that require multiple doses to complete the vaccination series, estimates include all doses received in 2021.  Totals include enrollees residing in U.S. territories or outside the United States." />
 <figcaption aria-hidden="true">Source: ASPE analysis of the CMS 2021

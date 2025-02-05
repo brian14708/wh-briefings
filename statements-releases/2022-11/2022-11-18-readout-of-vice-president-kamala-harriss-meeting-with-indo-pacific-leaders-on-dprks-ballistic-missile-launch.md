@@ -2,7 +2,7 @@
 date: '2022-11-18'
 modified_time: 2022-11-18 03:25:32-05:00
 published_time: 2022-11-18 03:25:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/18/readout-of-vice-president-kamala-harriss-meeting-with-indo-pacific-leaders-on-dprks-ballistic-missile-launch/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/18/readout-of-vice-president-kamala-harriss-meeting-with-indo-pacific-leaders-on-dprks-ballistic-missile-launch/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Indo-Pacific\
   \ Leaders on DPRK\u2019s Ballistic Missile\_Launch"

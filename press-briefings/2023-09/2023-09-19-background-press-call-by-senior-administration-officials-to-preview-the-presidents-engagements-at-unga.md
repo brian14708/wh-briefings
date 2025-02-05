@@ -2,7 +2,7 @@
 date: '2023-09-19'
 modified_time: 2023-09-18 21:22:16-04:00
 published_time: 2023-09-19 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/09/19/background-press-call-by-senior-administration-officials-to-preview-the-presidents-engagements-at-unga/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/09/19/background-press-call-by-senior-administration-officials-to-preview-the-presidents-engagements-at-unga/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials to Preview the President\u2019\
   s Engagements at\_UNGA"

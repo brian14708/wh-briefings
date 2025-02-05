@@ -2,7 +2,7 @@
 date: '2023-02-27'
 modified_time: 2023-02-27 14:03:37-05:00
 published_time: 2023-02-27 14:10:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/27/fact-sheet-the-biden-%e2%81%a0harris-administration-advances-equity-and-opportunity-for-black-americans-and-communities-across-the-country/
 tags: statements-releases
 title: "FACT SHEET: The Biden-\u2060Harris Administration Advances Equity and Opportunity\
   \ for Black Americans and Communities Across the\_Country"
@@ -24,7 +24,7 @@ into law the historic American Rescue Plan (ARP),  Bipartisan
 Infrastructure Law, and Inflation Reduction Act (IRA), and implementing
 robust regulatory reform, President Biden has led [the most equitable
 economic recovery on
-record](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
+record](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-biden-harris-report-advancing-equity-through-the-american-rescue-plan/),
 creating more than 12 million jobs since coming to office and helping
 create new economic opportunities for African Americans, including
 Black-owned businesses, and made long overdue investments in Black
@@ -111,13 +111,13 @@ The Biden-Harris Administration’s vital policies and programs include: 
         children and help parents work. States have already delivered
         American Rescue Plan stabilization grants to more [than 200,000
         child care
-        providers](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
+        providers](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/),
         1 in 5 of whom are Black, serving as many as 9.5 million
         children and their families. In most states, [providers in 98%
         of persistent poverty counties received aid and more than half
         of the providers receiving funds were operating in the most
         racially diverse counties in the
-        country](https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/).
+        country](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/fact-sheet-american-rescue-plan-funds-provided-a-critical-lifeline-to-200000-child-care-providers-helping-millions-of-families-to-work/).
         One [survey](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.naeyc.org%2Fsites%2Fdefault%2Ffiles%2Fwysiwyg%2Fuser-98%2Fnaeyc_ece_field_survey_february2022.pdf&data=05%7C01%7CRuth.Friedman%40acf.hhs.gov%7C68b0d1c6968b4915c22b08da4fe1dc13%7Cd58addea50534a808499ba4d944910df%7C0%7C0%7C637910128735916374%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oRvZWvVB6wMpkM5RtLGePBraGyuhc6Hi0fFU0YqqIKI%3D&reserved=0) finds
         that 92% of providers receiving funds relied on them
         to help stay open and nearly half used them to repay debt
@@ -222,7 +222,7 @@ The Biden-Harris Administration’s vital policies and programs include: 
     checks, the use of algorithms in tenant screenings, and how an
     applicant’s source of income factors into housing decisions. These
     actions align with a new [Blueprint for a Renters Bill of
-    Rights](https://www.whitehouse.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf).
+    Rights](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/White-House-Blueprint-for-a-Renters-Bill-of-Rights-1.pdf).
     The Blueprint lays out a set of principles to drive action by the
     federal government, state and local partners, and the private sector
     to strengthen tenant protections and encourage rental affordability.
@@ -424,7 +424,7 @@ include:
       
     In June 2022, the Biden-Harris Administration’s [Blueprint for
     Addressing the Maternal Health
-    Crisis](https://www.whitehouse.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
+    Crisis](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/Maternal-Health-Blueprint.pdf)
     was released to ensure a whole-of-government approach to combatting
     maternal mortality and morbidity through several key initiatives:  
     -   The Administration has approved requests from 35 states and DC
@@ -1106,10 +1106,10 @@ this day. Doing so serves all Americans.
     territorial juvenile and criminal justice systems.
 -   **Supporting Second Chances.** In April 2022, in honor of Second
     Chance Month, the
-    President [announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) grants
+    President [announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) grants
     of clemency to 78 individuals, along with a series of [over 20
     actions from a dozen federal
-    agencies](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) to
+    agencies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/26/fact-sheet-biden-harris-administration-expands-second-chance-opportunities-for-formerly-incarcerated-persons/) to
     support returning citizens.   
     -   To expand employment opportunities, the Administration is also
         leveraging historic investments in infrastructure to promote the
@@ -1311,7 +1311,7 @@ include:
     information about the election process and increased access to voter
     registration opportunities. Agencies across the federal government
     have [announced
-    steps](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/) they
+    steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/03/24/fact-sheet-biden-harris-administration-releases-report-on-native-american-voting-rights/) they
     are taking to respond to the President’s call for an
     all-of-government action to enhance the ability of all eligible
     Americans to participate in our democracy, including the Centers for

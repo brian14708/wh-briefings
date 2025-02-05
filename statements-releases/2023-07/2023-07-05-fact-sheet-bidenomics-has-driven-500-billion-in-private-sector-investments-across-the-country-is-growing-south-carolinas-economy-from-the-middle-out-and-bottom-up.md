@@ -2,7 +2,7 @@
 date: '2023-07-05'
 modified_time: 2023-07-05 19:24:10-04:00
 published_time: 2023-07-05 20:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/05/fact-sheet-bidenomics-has-driven-500-billion-in-private-sector-investments-across-the-country-is-growing-south-carolinas-economy-from-the-middle-out-and-bottom-up/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/05/fact-sheet-bidenomics-has-driven-500-billion-in-private-sector-investments-across-the-country-is-growing-south-carolinas-economy-from-the-middle-out-and-bottom-up/
 tags: statements-releases
 title: "FACT SHEET: Bidenomics Has Driven $500 Billion in Private Sector Investments\
   \ Across the Country, Is Growing South Carolina\u2019s Economy From the Middle Out\

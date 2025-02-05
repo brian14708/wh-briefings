@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-03-19'
 modified_time: 2021-03-19 11:35:38-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/19/statement-by-president-biden-on-the-covid-19-hate-crimes-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/03/19/statement-by-president-biden-on-the-covid-19-hate-crimes-act/
 published_time: 2021-03-19 11:35:37-04:00
 title: "Statement by President\_Biden on the COVID-\u206019 Hate Crimes\_Act"
 ---
@@ -25,7 +25,7 @@ their persistence in standing up for America’s values by standing
 strongly against anti-Asian xenophobia and hate.
 
 During my first week in office, I signed a [Presidential
-Memorandum](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/) to
+Memorandum](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/memorandum-condemning-and-combating-racism-xenophobia-and-intolerance-against-asian-americans-and-pacific-islanders-in-the-united-states/) to
 condemn and combat racism, xenophobia, and intolerance against Asian
 Americans and Pacific Islanders in the United States. I directed the
 Department of Justice and the Department of Health and Human Services to

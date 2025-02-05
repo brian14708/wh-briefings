@@ -2,7 +2,7 @@
 date: '2022-09-22'
 modified_time: 2022-09-22 16:47:27-04:00
 published_time: 2022-09-22 16:47:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-president-biden-on-hurricane-fiona-recovery-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-president-biden-on-hurricane-fiona-recovery-efforts/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Hurricane Fiona Recovery\_Efforts"
 ---

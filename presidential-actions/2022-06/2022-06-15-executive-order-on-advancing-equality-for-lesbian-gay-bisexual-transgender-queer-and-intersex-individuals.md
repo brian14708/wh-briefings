@@ -2,7 +2,7 @@
 date: '2022-06-15'
 modified_time: 2022-06-15 17:23:17-04:00
 published_time: 2022-06-15 17:23:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/06/15/executive-order-on-advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals/
 tags: presidential-actions
 title: "Executive Order on Advancing Equality for Lesbian, Gay, Bisexual, Transgender,\
   \ Queer, and Intersex\_Individuals"

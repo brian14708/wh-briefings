@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 08:46:01-05:00
 published_time: 2022-12-15 08:46:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/15/statement-from-president-joe-biden-on-senator-joe-manchins-permitting-reform-proposal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/15/statement-from-president-joe-biden-on-senator-joe-manchins-permitting-reform-proposal/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Senator Joe Manchin\u2019s Permitting\
   \ Reform\_Proposal"

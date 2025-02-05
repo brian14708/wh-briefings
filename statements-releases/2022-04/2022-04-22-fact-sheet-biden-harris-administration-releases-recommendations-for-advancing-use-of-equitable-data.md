@@ -2,7 +2,7 @@
 date: '2022-04-22'
 modified_time: 2022-04-22 21:57:11-04:00
 published_time: 2022-04-22 13:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-biden-harris-administration-releases-recommendations-for-advancing-use-of-equitable-data/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/22/fact-sheet-biden-harris-administration-releases-recommendations-for-advancing-use-of-equitable-data/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Releases Recommendations for\
   \ Advancing Use of Equitable\_Data"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Releases Recommendations f
  
 The [Executive Order on Advancing Racial Equity and Support for
 Underserved Communities Through the federal
-government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) (“Equity
+government](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) (“Equity
 EO”) launched a whole-of-government effort to incorporate the principle
 of equity throughout the federal government. Recognizing that the
 ability to conduct equity assessments—i.e., to understand the impact of
@@ -30,15 +30,15 @@ society, including academic researchers and community leaders who
 leverage federal data,  federal department and agency leads for data,
 statistics, privacy, and program evaluations, and our colleagues leading
 related equity efforts (e.g., the [White House Gender Policy
-Council](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/),[ Justice40](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/), and
+Council](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/03/08/executive-order-on-establishment-of-the-white-house-gender-policy-council/),[ Justice40](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/), and
 the [White House Initiative on Asian American, Native Hawaiian, and
 Pacific
 Islanders](https://www.hhs.gov/about/whiaanhpi/index.html) (WHIAANHPI)).
 The Working Group was also informed by agency efforts to implement the
 President’s policies on [scientific integrity and evidence-based
-policymaking](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/),
+policymaking](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/27/memorandum-on-restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking/),
 and
-related [OSTP](https://www.whitehouse.gov/ostp/nstc/scientific-integrity-task-force/) and [OMB](https://www.whitehouse.gov/wp-content/uploads/2021/06/M-21-27.pdf) guidance. 
+related [OSTP](https://bidenwhitehouse.archives.gov/ostp/nstc/scientific-integrity-task-force/) and [OMB](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/06/M-21-27.pdf) guidance. 
 
 These stakeholders and officials identified three priority uses for
 equitable data: **generating disaggregated** **statistical estimates to
@@ -79,7 +79,7 @@ Data***
 
 Although many federal programs do not report disaggregated data, they
 may partner with the thirteen [federal statistical
-agencies](https://www.whitehouse.gov/omb/information-regulatory-affairs/statistical-programs-standards/) (agencies
+agencies](https://bidenwhitehouse.archives.gov/omb/information-regulatory-affairs/statistical-programs-standards/) (agencies
 whose principal mission is to produce official federal statistics) that
 have the experience, and many of the tools necessary, to allow
 departments and agencies to generate disaggregated estimates of program
@@ -138,6 +138,6 @@ public to easily find meaningful data about the well-being of their
 communities and the services provided to them.
 
 Read the full report
-[here](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf).
+[here](https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf).
 
 \###

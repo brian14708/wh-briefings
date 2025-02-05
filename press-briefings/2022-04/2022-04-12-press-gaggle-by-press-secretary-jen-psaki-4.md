@@ -2,7 +2,7 @@
 date: '2022-04-12'
 modified_time: 2022-04-12 17:32:37-04:00
 published_time: 2022-04-12 17:32:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/04/12/press-gaggle-by-press-secretary-jen-psaki-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/04/12/press-gaggle-by-press-secretary-jen-psaki-4/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Jen\_Psaki"
 ---

@@ -2,7 +2,7 @@
 date: '2024-03-26'
 modified_time: 2024-03-25 22:31:54-04:00
 published_time: 2024-03-26 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/26/fact-sheet-as-house-republicans-release-budget-to-increase-health-care-costs-and-take-away-coverage-president-biden-and-vice-president-harris-fight-to-lower-health-care-costs-and-protect-and-strengt/
 tags: statements-releases
 title: "Fact Sheet: As House Republicans Release Budget to Increase Health Care Costs\
   \ and Take Away Coverage, President\_Biden and Vice President Harris Fight to Lower\

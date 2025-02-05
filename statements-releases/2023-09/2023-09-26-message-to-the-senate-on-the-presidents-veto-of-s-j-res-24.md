@@ -1,7 +1,7 @@
 ---
 date: '2023-09-26'
 published_time: 2023-09-26 18:25:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/26/message-to-the-senate-on-the-presidents-veto-of-s-j-res-24/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/26/message-to-the-senate-on-the-presidents-veto-of-s-j-res-24/
 tags: statements-releases
 title: "Message to the Senate on the President\u2019s Veto of S.J. Res.\_24"
 ---

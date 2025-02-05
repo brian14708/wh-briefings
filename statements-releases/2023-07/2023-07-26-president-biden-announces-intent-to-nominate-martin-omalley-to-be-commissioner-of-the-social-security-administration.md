@@ -2,7 +2,7 @@
 date: '2023-07-26'
 modified_time: 2023-07-26 09:21:04-04:00
 published_time: 2023-07-26 11:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/president-biden-announces-intent-to-nominate-martin-omalley-to-be-commissioner-of-the-social-security-administration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/26/president-biden-announces-intent-to-nominate-martin-omalley-to-be-commissioner-of-the-social-security-administration/
 tags: statements-releases
 title: "President\_Biden Announces Intent to Nominate Martin O\u2019Malley to be Commissioner\
   \ of the Social Security Administration"

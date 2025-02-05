@@ -1,7 +1,7 @@
 ---
 date: '2023-05-18'
 published_time: 2023-05-18 11:17:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/18/statement-from-president-joe-biden-on-five-years-since-the-shooting-at-santa-fe-high-school/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/18/statement-from-president-joe-biden-on-five-years-since-the-shooting-at-santa-fe-high-school/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Five Years Since the Shooting at Santa\
   \ Fe High\_School"

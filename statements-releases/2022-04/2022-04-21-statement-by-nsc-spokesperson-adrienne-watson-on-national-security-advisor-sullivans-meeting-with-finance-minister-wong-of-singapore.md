@@ -1,7 +1,7 @@
 ---
 date: '2022-04-21'
 published_time: 2022-04-21 15:36:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/21/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-sullivans-meeting-with-finance-minister-wong-of-singapore/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/21/statement-by-nsc-spokesperson-adrienne-watson-on-national-security-advisor-sullivans-meeting-with-finance-minister-wong-of-singapore/
 tags: statements-releases
 title: "Statement by NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Sullivan\u2019s Meeting with Finance Minister Wong of\_Singapore"

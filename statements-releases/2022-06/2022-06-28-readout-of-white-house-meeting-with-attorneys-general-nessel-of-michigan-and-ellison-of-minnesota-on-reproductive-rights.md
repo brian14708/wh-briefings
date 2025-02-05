@@ -2,7 +2,7 @@
 date: '2022-06-28'
 modified_time: 2022-06-28 17:04:23-04:00
 published_time: 2022-06-28 17:04:22-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/readout-of-white-house-meeting-with-attorneys-general-nessel-of-michigan-and-ellison-of-minnesota-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/readout-of-white-house-meeting-with-attorneys-general-nessel-of-michigan-and-ellison-of-minnesota-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Attorneys General Nessel of Michigan\
   \ and Ellison of Minnesota on Reproductive\_Rights"
@@ -33,7 +33,7 @@ efforts to protect reproductive rights, and committed to working
 together in the months ahead to protect a woman’s right to make
 decisions about her own body. Today’s conversation followed a meeting
 Vice President Harris
-[convened](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/23/readout-of-vice-president-kamala-harriss-meeting-with-state-attorneys-general-on-reproductive-rights/)
+[convened](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/23/readout-of-vice-president-kamala-harriss-meeting-with-state-attorneys-general-on-reproductive-rights/)
 with seven Attorneys General last week to discuss reproductive rights.
 
 \###

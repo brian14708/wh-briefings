@@ -2,7 +2,7 @@
 date: '2024-12-16'
 modified_time: 2024-12-16 17:14:14-05:00
 published_time: 2024-12-16 17:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/12/16/remarks-by-president-biden-honoring-our-nations-labor-history-and-the-biden-harris-administrations-work-to-strengthen-americas-workforce/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/12/16/remarks-by-president-biden-honoring-our-nations-labor-history-and-the-biden-harris-administrations-work-to-strengthen-americas-workforce/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring our Nation\u2019s Labor History and Establishing\
   \ the Frances Perkins National\_Monument"

@@ -2,7 +2,7 @@
 date: '2023-03-27'
 modified_time: 2023-03-27 11:44:18-04:00
 published_time: 2023-03-27 11:44:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/27/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-printed-circuit-boards-and-advanced-packaging-production-capability/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/27/memorandum-on-presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-printed-circuit-boards-and-advanced-packaging-production-capability/
 tags: presidential-actions
 title: "Memorandum on Presidential Determination Pursuant to Section 303 of the Defense\
   \ Production Act of 1950, as amended, on Printed Circuit Boards and Advanced Packaging\

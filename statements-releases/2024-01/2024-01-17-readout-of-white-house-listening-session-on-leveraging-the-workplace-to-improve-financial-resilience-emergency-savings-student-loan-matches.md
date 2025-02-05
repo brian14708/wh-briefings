@@ -2,7 +2,7 @@
 date: '2024-01-17'
 modified_time: 2024-01-19 07:47:05-05:00
 published_time: 2024-01-17 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/17/readout-of-white-house-listening-session-on-leveraging-the-workplace-to-improve-financial-resilience-emergency-savings-student-loan-matches/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/17/readout-of-white-house-listening-session-on-leveraging-the-workplace-to-improve-financial-resilience-emergency-savings-student-loan-matches/
 tags: statements-releases
 title: "Readout of White\_House Listening Session on Leveraging the Workplace to Improve\
   \ Financial Resilience: Emergency Savings & Student Loan\_Matches"

@@ -1,7 +1,7 @@
 ---
 date: '2024-01-13'
 published_time: 2024-01-13 19:22:02-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/01/13/president-joseph-r-biden-jr-approves-connecticut-emergency-declaration-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/01/13/president-joseph-r-biden-jr-approves-connecticut-emergency-declaration-2/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Connecticut Emergency\_Declaration"
 ---

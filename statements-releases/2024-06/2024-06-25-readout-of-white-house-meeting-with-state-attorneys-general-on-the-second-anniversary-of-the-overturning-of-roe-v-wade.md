@@ -1,7 +1,7 @@
 ---
 date: '2024-06-25'
 published_time: 2024-06-25 16:14:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/25/readout-of-white-house-meeting-with-state-attorneys-general-on-the-second-anniversary-of-the-overturning-of-roe-v-wade/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/25/readout-of-white-house-meeting-with-state-attorneys-general-on-the-second-anniversary-of-the-overturning-of-roe-v-wade/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Attorneys General on the Second\
   \ Anniversary of the Overturning of Roe v.\_Wade"
@@ -35,7 +35,7 @@ protections of *Roe v. Wade* in federal law. Yesterday’s discussion
 builds on the Administration’s long-standing commitment to partnering
 with state leaders on the frontlines in the fight for reproductive
 rights. The White House has hosted [more than two dozen formal
-convenings](https://www.whitehouse.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
+convenings](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/Dobbs-Anniversary-States-Report-6.22.23.pdf)
 of state officials, including governors, attorneys general, and state
 legislators. The Vice President has led these efforts, traveling to more
 than 20 states to meet with state legislators, health care providers,

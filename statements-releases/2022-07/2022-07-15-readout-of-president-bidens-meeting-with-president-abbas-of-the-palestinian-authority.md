@@ -1,7 +1,7 @@
 ---
 date: '2022-07-15'
 published_time: 2022-07-15 07:44:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/15/readout-of-president-bidens-meeting-with-president-abbas-of-the-palestinian-authority/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/15/readout-of-president-bidens-meeting-with-president-abbas-of-the-palestinian-authority/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Abbas of the Palestinian\_\
   Authority"

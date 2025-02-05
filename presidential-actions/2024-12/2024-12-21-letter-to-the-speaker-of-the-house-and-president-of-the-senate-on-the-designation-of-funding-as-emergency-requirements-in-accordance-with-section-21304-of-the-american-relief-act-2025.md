@@ -2,7 +2,7 @@
 date: '2024-12-21'
 modified_time: 2024-12-21 12:09:56-05:00
 published_time: 2024-12-21 12:09:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/21/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-designation-of-funding-as-emergency-requirements-in-accordance-with-section-21304-of-the-american-relief-act-2025/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/21/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-designation-of-funding-as-emergency-requirements-in-accordance-with-section-21304-of-the-american-relief-act-2025/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Designation\
   \ of Funding as Emergency Requirements in Accordance with Section 21304 of the American\

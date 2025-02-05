@@ -2,7 +2,7 @@
 date: '2022-06-17'
 modified_time: 2022-06-17 09:45:14-04:00
 published_time: 2022-06-17 06:39:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-delivering-progress-on-the-biden-harris-lead-pipe-and-paint-action-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/17/fact-sheet-delivering-progress-on-the-biden-harris-lead-pipe-and-paint-action-plan/
 tags: statements-releases
 title: "FACT SHEET: Delivering Progress on the Biden-\u2060Harris Lead Pipe and Paint\
   \ Action\_Plan"
@@ -10,7 +10,7 @@ title: "FACT SHEET: Delivering Progress on the Biden-\u2060Harris Lead Pipe and 
  
 Six months since the President and Vice President unveiled the
 [Biden-Harris Lead Pipe and Paint Action
-Plan](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
+Plan](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/16/fact-sheet-the-biden-harris-lead-pipe-and-paint-action-plan/),
 the Administration has taken swift action and made quick progress. The
 Biden-Harris Administration has announced more than $4 billion from the
 Bipartisan Infrastructure Law funds and annual appropriations that can

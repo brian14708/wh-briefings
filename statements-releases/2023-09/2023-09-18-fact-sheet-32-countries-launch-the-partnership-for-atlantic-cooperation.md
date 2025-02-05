@@ -2,13 +2,13 @@
 date: '2023-09-18'
 modified_time: 2023-09-18 23:17:14-04:00
 published_time: 2023-09-18 23:17:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/18/fact-sheet-32-countries-launch-the-partnership-for-atlantic-cooperation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/18/fact-sheet-32-countries-launch-the-partnership-for-atlantic-cooperation/
 tags: statements-releases
 title: "FACT SHEET: 32 Countries Launch the Partnership for Atlantic\_Cooperation"
 ---
  
 *\[[Read the Declaration on Atlantic Cooperation and Plan of Action
-here](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/18/declaration-on-atlantic-cooperation/)\]*
+here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/18/declaration-on-atlantic-cooperation/)\]*
 
 Thirty-two coastal Atlantic countries across four continents adopted a
 Declaration on Atlantic Cooperation launching the **Partnership for

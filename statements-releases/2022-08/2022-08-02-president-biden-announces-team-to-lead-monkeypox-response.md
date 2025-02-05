@@ -2,7 +2,7 @@
 date: '2022-08-02'
 modified_time: 2022-08-01 23:25:10-04:00
 published_time: 2022-08-02 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/president-biden-announces-team-to-lead-monkeypox-response/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/02/president-biden-announces-team-to-lead-monkeypox-response/
 tags: statements-releases
 title: "President\_Biden Announces Team to Lead Monkeypox\_Response"
 ---
@@ -88,7 +88,7 @@ prevention, response, and treatment strategies. The Administration also
 recently launched its monkeypox research agenda, aiming to galvanize the
 international community to identify and address gaps in information on
 the virus to accelerate and [strengthen the global
-response](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administrations-monkeypox-outbreak-response/).
+response](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/28/fact-sheet-biden-harris-administrations-monkeypox-outbreak-response/).
 
 Over the coming weeks, under the leadership of Fenton and Daskalakis,
 the Administration will advance and accelerate the United States’

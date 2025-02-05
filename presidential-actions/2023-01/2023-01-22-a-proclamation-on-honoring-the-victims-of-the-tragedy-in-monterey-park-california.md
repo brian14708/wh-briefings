@@ -1,7 +1,7 @@
 ---
 date: '2023-01-22'
 published_time: 2023-01-22 20:16:45-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/01/22/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-monterey-park-california/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/01/22/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-monterey-park-california/
 tags: presidential-actions
 title: "A Proclamation on Honoring the Victims of the Tragedy in Monterey Park,\_\
   California"

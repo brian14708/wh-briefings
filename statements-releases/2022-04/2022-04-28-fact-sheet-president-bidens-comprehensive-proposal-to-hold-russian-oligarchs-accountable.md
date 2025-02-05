@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 08:46:21-04:00
 published_time: 2022-04-28 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-president-bidens-comprehensive-proposal-to-hold-russian-oligarchs-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-president-bidens-comprehensive-proposal-to-hold-russian-oligarchs-accountable/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden\u2019s Comprehensive Proposal to Hold Russian\
   \ Oligarchs and Elites\_Accountable"

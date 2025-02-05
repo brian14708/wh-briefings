@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-08-27'
 modified_time: 2021-08-26 22:55:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/08/27/white-house-announces-john-d-porcari-as-port-envoy-to-the-biden-harris-administration-supply-chain-disruptions-task-force/
 published_time: 2021-08-27 08:15:00-04:00
 title: "White\_House Announces John D. Porcari as Port Envoy to the Biden-\u2060Harris\
   \ Administration Supply Chain Disruptions Task\_Force"
@@ -11,7 +11,7 @@ title: "White\_House Announces John D. Porcari as Port Envoy to the Biden-\u2060
 WASHINGTON – Today, the White House announced that John D. Porcari will
 be the Port Envoy to the [Biden-Harris Administration Supply Chain
 Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/).  
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/).  
   
 The Task Force was established in June to address supply and demand
 mismatches that emerged in several sectors as the economy reawakened

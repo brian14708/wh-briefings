@@ -2,7 +2,7 @@
 date: '2022-05-20'
 modified_time: 2022-05-20 12:21:55-04:00
 published_time: 2022-05-20 12:21:54-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/20/statement-from-president-biden-on-record-low-state-unemployment-rates/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/20/statement-from-president-biden-on-record-low-state-unemployment-rates/
 tags: statements-releases
 title: "Statement from President\_Biden on Record-Low State Unemployment\_Rates"
 ---

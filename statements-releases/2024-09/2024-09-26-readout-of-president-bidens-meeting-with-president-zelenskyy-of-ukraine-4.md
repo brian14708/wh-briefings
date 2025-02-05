@@ -2,7 +2,7 @@
 date: '2024-09-26'
 modified_time: 2024-09-26 16:45:00-04:00
 published_time: 2024-09-26 16:44:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/readout-of-president-bidens-meeting-with-president-zelenskyy-of-ukraine-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/09/26/readout-of-president-bidens-meeting-with-president-zelenskyy-of-ukraine-4/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with President Zelenskyy of\_Ukraine"
 ---

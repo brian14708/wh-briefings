@@ -1,7 +1,7 @@
 ---
 date: '2022-10-12'
 published_time: 2022-10-12 19:34:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/12/a-proclamation-on-establishment-of-the-camp-hale-continental-divide-national-monument/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/12/a-proclamation-on-establishment-of-the-camp-hale-continental-divide-national-monument/
 tags: presidential-actions
 title: "A Proclamation on Establishment of the Camp Hale-Continental Divide National\_\
   Monument"

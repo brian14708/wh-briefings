@@ -2,7 +2,7 @@
 date: '2023-12-22'
 modified_time: 2023-12-21 18:16:48-05:00
 published_time: 2023-12-22 08:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-clemency-actions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/22/statement-from-president-joe-biden-on-clemency-actions/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Clemency\_Actions"
 ---

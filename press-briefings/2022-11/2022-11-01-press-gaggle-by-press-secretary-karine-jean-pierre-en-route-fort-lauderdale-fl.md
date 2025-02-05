@@ -2,7 +2,7 @@
 date: '2022-11-01'
 modified_time: 2022-11-01 18:40:31-04:00
 published_time: 2022-11-01 18:40:30-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/11/01/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-fort-lauderdale-fl/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/11/01/press-gaggle-by-press-secretary-karine-jean-pierre-en-route-fort-lauderdale-fl/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre En Route Fort Lauderdale,\_\
   FL"

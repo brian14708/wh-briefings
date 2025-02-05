@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-04-21'
 modified_time: 2021-04-21 13:17:26-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/21/statement-from-press-secretary-jen-psaki/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/04/21/statement-from-press-secretary-jen-psaki/
 published_time: 2021-04-21 13:17:24-04:00
 title: "Statement from Press Secretary Jen\_Psaki"
 ---

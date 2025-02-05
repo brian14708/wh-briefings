@@ -2,7 +2,7 @@
 date: '2023-12-19'
 modified_time: 2023-12-18 23:13:51-05:00
 published_time: 2023-12-19 12:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/12/19/building-a-thriving-clean-energy-economy-in-2023-and-beyond/
 tags: blog
 title: "Building a Thriving Clean Energy Economy in 2023 and\_Beyond"
 ---
@@ -15,7 +15,7 @@ Science and Technology Policy*
 ------------------------------------------------------------------------
 
 In 2021 and 2022, President Biden signed into law his [Investing in
-America](https://www.whitehouse.gov/invest/?utm_source=invest.gov)
+America](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov)
 agenda, a series of strategic public investments in industries critical
 for the long-run economic growth of the United States. This included the
 largest investment in reducing carbon emissions in American history. The
@@ -45,13 +45,13 @@ emissions, improve energy security, and spur economic growth.
 ## **Investment in the construction of clean energy manufacturing facilities is exceeding expectations**
 
 As explained in a recent [issue
-brief](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
+brief](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
 the Investing in America agenda is intended to catalyze strategic
 private sector investments, and initial signs indicate that private
 companies are already responding. Since January 2021, private companies
 have announced over half a trillion dollars in new investment, including
 nearly [$360
-billion](https://www.whitehouse.gov/invest/?utm_source=invest.gov) in
+billion](https://bidenwhitehouse.archives.gov/invest/?utm_source=invest.gov) in
 clean energy manufacturing, EVs and batteries, and power generation.
 
 One of the first ways these private clean energy investments will be
@@ -65,10 +65,10 @@ catalyzing more private sector funding than initially expected (Figure
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?w=640"
 class="wp-image-89868" decoding="async" loading="lazy"
 sizes="(max-width: 1933px) 100vw, 1933px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png 1933w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=615,364 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=768,454 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1270,751 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1536,908 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=541,320 541w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1082,640 1082w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1038,614 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png 1933w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=615,364 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=768,454 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1270,751 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1536,908 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=541,320 541w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1082,640 1082w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-1.png?resize=1038,614 1038w"
 style="aspect-ratio:1.6904761904761905;width:595px;height:auto"
 width="1933" height="1143" />
 </figure>
@@ -82,10 +82,10 @@ non-residential construction grew 7 percent over the same period (Figure
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?w=640"
 class="wp-image-89869" decoding="async" loading="lazy"
 sizes="(max-width: 1980px) 100vw, 1980px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png 1980w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=615,372 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=768,464 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1270,768 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1536,929 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=529,320 529w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1059,640 1059w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1038,628 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png 1980w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=615,372 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=768,464 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1270,768 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1536,929 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=529,320 529w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1059,640 1059w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-2.png?resize=1038,628 1038w"
 width="1980" height="1197" />
 </figure>
 
@@ -131,19 +131,19 @@ the total existing renewable capacity on the grid at the end of 2022.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?w=640"
 class="wp-image-89870" decoding="async" loading="lazy"
 sizes="(max-width: 2087px) 100vw, 2087px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png 2087w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=615,393 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=768,491 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1270,812 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1536,983 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=2048,1310 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=500,320 500w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1001,640 1001w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=2001,1280 2001w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1038,664 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png 2087w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=615,393 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=768,491 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1270,812 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1536,983 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=2048,1310 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=500,320 500w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1001,640 1001w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=2001,1280 2001w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-3.png?resize=1038,664 1038w"
 width="2087" height="1335" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?w=640"
 class="wp-image-89871" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=615,372 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=768,464 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1270,768 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1536,929 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=2048,1238 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=529,320 529w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1058,640 1058w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=2117,1280 2117w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1038,628 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=615,372 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=768,464 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1270,768 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1536,929 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=2048,1238 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=529,320 529w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1058,640 1058w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=2117,1280 2117w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-4.png?resize=1038,628 1038w"
 width="2145" height="1297" />
 </figure>
 
@@ -171,20 +171,20 @@ As of August 2023, grid-storage battery capacity is ahead of even this
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?w=640"
 class="wp-image-89872" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=615,384 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=768,480 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1270,794 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1536,960 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=2048,1280 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=512,320 512w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1024,640 1024w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=2047,1280 2047w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1038,649 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=615,384 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=768,480 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1270,794 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1536,960 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=2048,1280 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=512,320 512w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1024,640 1024w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=2047,1280 2047w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-5.png?resize=1038,649 1038w"
 style="aspect-ratio:1.6;width:595px;height:auto" width="2145"
 height="1341" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?w=640"
 class="wp-image-89873" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=615,386 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=768,482 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1270,798 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1536,965 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=2048,1286 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=510,320 510w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1019,640 1019w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=2038,1280 2038w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1038,652 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=615,386 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=768,482 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1270,798 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1536,965 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=2048,1286 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=510,320 510w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1019,640 1019w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=2038,1280 2038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-6.png?resize=1038,652 1038w"
 style="aspect-ratio:1.5935162094763091;width:595px;height:auto"
 width="2145" height="1347" />
 </figure>
@@ -232,20 +232,20 @@ made in the beginning of 2021.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?w=640"
 class="wp-image-89874" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=615,379 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=768,474 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1270,783 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1536,947 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=2048,1263 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=519,320 519w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1038,640 1038w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-7.png?resize=2075,1280 2075w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=615,379 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=768,474 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1270,783 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1536,947 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=2048,1263 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=519,320 519w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=1038,640 1038w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-7.png?resize=2075,1280 2075w"
 style="aspect-ratio:1.6218274111675126;width:595px;height:auto"
 width="2145" height="1323" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?w=640"
 class="wp-image-89875" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=615,383 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=768,479 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1270,792 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1536,957 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=2048,1277 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=513,320 513w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1027,640 1027w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=2054,1280 2054w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1038,647 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=615,383 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=768,479 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1270,792 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1536,957 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=2048,1277 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=513,320 513w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1027,640 1027w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=2054,1280 2054w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-8.png?resize=1038,647 1038w"
 style="aspect-ratio:1.6055276381909547;width:595px;height:auto"
 width="2145" height="1337" />
 </figure>
@@ -258,9 +258,9 @@ goals. Meeting these goals means reducing the [impacts of climate
 change](https://nca2023.globalchange.gov/) by cutting emissions,
 improving energy security and reliability, and spurring equitable
 economic growth. Some of these investments are
-[spread](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
+[spread](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/)
 out over a decade, meaning many of the associated
-[benefits](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
+[benefits](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/14/the-economics-of-investing-in-america/)
 will accrue over time. Forecasters’ estimates preview some of these
 benefits to come.
 
@@ -312,10 +312,10 @@ growth since the U.S. government began collecting these data in 1959.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?w=640"
 class="wp-image-89876" decoding="async" loading="lazy"
 sizes="(max-width: 2145px) 100vw, 2145px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png 2145w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=615,341 615w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=768,426 768w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1270,705 1270w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1536,852 1536w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=2048,1136 2048w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=577,320 577w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1154,640 1154w, https://www.whitehouse.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1038,576 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png 2145w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=615,341 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=768,426 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1270,705 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1536,852 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=2048,1136 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=577,320 577w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1154,640 1154w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/Figure-9.png?resize=1038,576 1038w"
 width="2145" height="1190" />
 </figure>
 
@@ -342,7 +342,7 @@ technologies like grid-scale energy storage and electric vehicles.
 
 President Biden’s Investing in America agenda responds to this need with
 carefully designed incentives to mobilize [private sector
-investments](https://www.whitehouse.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
+investments](https://bidenwhitehouse.archives.gov/briefing-room/blog/2023/08/16/the-economics-of-public-investment-crowding-in-private-investment/),
 including in clean energy technologies. At the macroeconomic level,
 there is already strong evidence that private sector commitments are
 translating into tangible construction projects to build new

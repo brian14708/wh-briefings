@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-06'
 modified_time: 2021-12-20 15:26:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/
 published_time: 2021-12-06 07:00:00-05:00
 title: "Fact Sheet: U.S. Strategy on Countering\_Corruption"
 ---
@@ -40,7 +40,7 @@ corrupt acts. 
 Today, in line with the President’s direction, the Biden-Harris
 Administration is releasing the first-ever [United States Strategy on
 Countering
-Corruption](https://www.whitehouse.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf).
+Corruption](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf).
 The Strategy outlines a whole-of-government approach to elevating the
 fight against corruption. It places particular emphasis on better
 understanding and responding to the threat’s transnational dimensions,
@@ -149,7 +149,7 @@ and enhance its efforts, including by:
     including to independent audit and oversight institutions.
 
 [The United States Strategy on Countering
-Corruption](https://www.whitehouse.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf)
+Corruption](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/12/United-States-Strategy-on-Countering-Corruption.pdf)
 marks a new chapter in the United States’ efforts to curb corruption’s
 harmful effects.  As accountability is vital, Federal departments and
 agencies will report annually to the President on progress made against

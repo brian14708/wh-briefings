@@ -2,7 +2,7 @@
 date: '2023-02-21'
 modified_time: 2023-02-21 13:25:23-05:00
 published_time: 2023-02-21 13:25:22-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-prime-minister-mateusz-morawiecki-of-poland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/21/readout-of-president-bidens-meeting-with-prime-minister-mateusz-morawiecki-of-poland/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Mateusz Morawiecki\
   \ of\_Poland"

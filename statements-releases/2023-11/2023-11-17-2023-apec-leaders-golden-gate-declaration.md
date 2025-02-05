@@ -2,7 +2,7 @@
 date: '2023-11-17'
 modified_time: 2023-11-21 15:55:15-05:00
 published_time: 2023-11-17 21:08:27-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/2023-apec-leaders-golden-gate-declaration/
 tags: statements-releases
 title: "2023 APEC Leaders\u2019 Golden Gate\_Declaration"
 ---
@@ -229,7 +229,7 @@ and State of California for the warm welcome extended to us.
 
 **See Also:**  
 *[Accompanying Chair’s
-Statement](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/)*<span
+Statement](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/17/chairs-statement-on-the-apec-economic-leaders-meeting/)*<span
 id="_msocom_1"></span>
 
 \###

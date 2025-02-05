@@ -1,7 +1,7 @@
 ---
 date: '2024-10-23'
 published_time: 2024-10-23 12:23:12-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-hlth-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/10/23/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-the-2024-hlth-conference/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at the 2024 HLTH\_\
   Conference"

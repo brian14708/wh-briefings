@@ -2,7 +2,7 @@
 date: '2023-01-13'
 modified_time: 2023-01-13 14:13:24-05:00
 published_time: 2023-01-13 14:13:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/13/statement-from-president-joe-biden-on-new-justice-department-action-to-keep-dangerous-firearms-out-of-dangerous-hands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/13/statement-from-president-joe-biden-on-new-justice-department-action-to-keep-dangerous-firearms-out-of-dangerous-hands/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on New Justice Department Action to Keep\
   \ Dangerous Firearms Out of Dangerous\_Hands"

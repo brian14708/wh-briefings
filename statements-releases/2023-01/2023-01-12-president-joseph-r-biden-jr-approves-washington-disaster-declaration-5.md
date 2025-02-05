@@ -1,7 +1,7 @@
 ---
 date: '2023-01-12'
 published_time: 2023-01-12 14:11:55-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/12/president-joseph-r-biden-jr-approves-washington-disaster-declaration-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/12/president-joseph-r-biden-jr-approves-washington-disaster-declaration-5/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. Approves Washington Disaster\_Declaration"
 ---

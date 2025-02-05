@@ -2,7 +2,7 @@
 date: '2024-06-15'
 modified_time: 2024-06-15 03:10:00-04:00
 published_time: 2024-06-15 03:09:59-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/15/readout-of-president-bidens-pull-aside-with-prime-minister-rishi-sunak-of-the-united-kingdom/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/15/readout-of-president-bidens-pull-aside-with-prime-minister-rishi-sunak-of-the-united-kingdom/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Pull Aside with Prime Minister Rishi Sunak\
   \ of the United\_Kingdom"

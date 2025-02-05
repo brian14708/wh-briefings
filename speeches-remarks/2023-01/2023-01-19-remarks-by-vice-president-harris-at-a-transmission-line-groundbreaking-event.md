@@ -1,7 +1,7 @@
 ---
 date: '2023-01-19'
 published_time: 2023-01-19 18:35:07-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/19/remarks-by-vice-president-harris-at-a-transmission-line-groundbreaking-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/19/remarks-by-vice-president-harris-at-a-transmission-line-groundbreaking-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Transmission Line Groundbreaking\_Event"
 ---

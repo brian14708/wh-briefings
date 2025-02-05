@@ -2,7 +2,7 @@
 date: '2024-09-02'
 modified_time: 2024-09-03 13:32:06-04:00
 published_time: 2024-09-02 22:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/02/remarks-by-vice-president-harris-at-a-campaign-event-detroit-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/02/remarks-by-vice-president-harris-at-a-campaign-event-detroit-mi/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Campaign Event | Detroit,\_MI"
 ---

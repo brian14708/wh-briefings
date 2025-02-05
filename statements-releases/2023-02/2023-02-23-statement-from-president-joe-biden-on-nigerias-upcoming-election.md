@@ -2,7 +2,7 @@
 date: '2023-02-23'
 modified_time: 2023-02-22 11:18:44-05:00
 published_time: 2023-02-23 04:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/statement-from-president-joe-biden-on-nigerias-upcoming-election/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/23/statement-from-president-joe-biden-on-nigerias-upcoming-election/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Nigeria\u2019s Upcoming\_Election"
 ---

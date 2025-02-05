@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-04-01 09:46:55-04:00
 published_time: 2024-03-29 20:43:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-on-haiti-with-leaders-of-civil-rights-groups/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/readout-of-principal-deputy-national-security-advisor-jon-finers-meeting-on-haiti-with-leaders-of-civil-rights-groups/
 tags: statements-releases
 title: "Readout of Principal Deputy National Security Advisor Jon Finer\u2019s Meeting\
   \ on Haiti with Leaders of Civil Rights\_Groups"

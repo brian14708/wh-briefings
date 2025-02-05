@@ -1,7 +1,7 @@
 ---
 date: '2024-06-16'
 published_time: 2024-06-16 12:44:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/16/remarks-by-national-security-advisor-jake-sullivan-at-summit-on-peace-in-ukraine-closing-plenary-session-obburgen-switzerland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/16/remarks-by-national-security-advisor-jake-sullivan-at-summit-on-peace-in-ukraine-closing-plenary-session-obburgen-switzerland/
 tags: speeches-remarks
 title: "Remarks by National Security Advisor Jake Sullivan at Summit on Peace in Ukraine\
   \ Closing Plenary Session | Obb\xFCrgen,\_Switzerland"

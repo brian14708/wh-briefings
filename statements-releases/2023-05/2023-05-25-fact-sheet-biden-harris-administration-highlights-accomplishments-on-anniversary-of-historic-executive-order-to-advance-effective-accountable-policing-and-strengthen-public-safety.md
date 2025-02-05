@@ -2,7 +2,7 @@
 date: '2023-05-25'
 modified_time: 2023-05-25 18:49:07-04:00
 published_time: 2023-05-25 06:36:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-highlights-accomplishments-on-anniversary-of-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-highlights-accomplishments-on-anniversary-of-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Accomplishments on\
   \ Anniversary of Historic Executive Order to Advance Effective, Accountable Policing\
@@ -12,7 +12,7 @@ title: "FACT SHEET: Biden-\u2060Harris Administration Highlights Accomplishments
 One year ago, on May 25, 2022, President Biden signed a historic
 [Executive Order on <u>Advancing Effective, Accountable Policing and
 Criminal Justice Practices to Enhance Public Trust and Public
-Safety</u>.](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
+Safety</u>.](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/05/25/executive-order-on-advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and-public-safety/)
 (EO 14074).  The EO went into effect on the second anniversary of the
 murder of George Floyd.  
   
@@ -217,9 +217,9 @@ incarcerated or under supervision.**
 -   **The White House Alternatives, Rehabilitation, and Reentry
     Strategic Plan.**  As mandated by the EO, in April the Biden-Harris
     Administration
-    [released](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/28/fact-sheet-biden-harris-administration-takes-action-during-second-chance-month-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/)
+    [released](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/28/fact-sheet-biden-harris-administration-takes-action-during-second-chance-month-to-strengthen-public-safety-improve-rehabilitation-in-jails-and-prisons-and-support-successful-reentry/)
     its evidence-informed, multi-year [Strategic
-    Plan](https://www.whitehouse.gov/wp-content/uploads/2023/04/The-White-House-Alternatives-Rehabilitation-and-Reentry-Strategic-Plan.pdf)
+    Plan](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/The-White-House-Alternatives-Rehabilitation-and-Reentry-Strategic-Plan.pdf)
     to strengthen public safety by reducing unnecessary criminal justice
     system interactions so police officers can focus on fighting crime;
     supporting rehabilitation during incarceration; and facilitating
@@ -296,7 +296,7 @@ collection and analysis and assess the impact of new technologies.**
     on the efforts, led by the FBI and Bureau of Justice Assistance, to
     assist STLT law enforcement agencies transition to NIBRS.  
 -   **Review of Current Data Collections**: DOJ and OMB will publish a
-    [report](https://www.whitehouse.gov/wp-content/uploads/2023/05/EO14074_18b-Report.pdf)
+    [report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/EO14074_18b-Report.pdf)
     on efforts to improve current data collections, such as the National
     Crime Victimization Survey, the Police-Public Contact Survey
     Supplement, and the Law Enforcement Management and Administrative
@@ -305,7 +305,7 @@ collection and analysis and assess the impact of new technologies.**
     Working Group and Domestic Policy Council assessed data collection,
     use, and transparency practices with respect to law enforcement
     activities. The Working Group published a
-    [report](https://www.whitehouse.gov/wp-content/uploads/2023/05/NSTC-Equity-and-Law-Enforcement-Data.pdf)
+    [report](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/NSTC-Equity-and-Law-Enforcement-Data.pdf)
     on recommended actions the federal government, state lawmakers, law
     enforcement, and advocates can take to improve data on policing at
     national and local levels.  

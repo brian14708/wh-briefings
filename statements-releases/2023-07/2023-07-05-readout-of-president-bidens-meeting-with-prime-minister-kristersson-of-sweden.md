@@ -1,7 +1,7 @@
 ---
 date: '2023-07-05'
 published_time: 2023-07-05 17:38:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/05/readout-of-president-bidens-meeting-with-prime-minister-kristersson-of-sweden/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/05/readout-of-president-bidens-meeting-with-prime-minister-kristersson-of-sweden/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kristersson\
   \ of\_Sweden"

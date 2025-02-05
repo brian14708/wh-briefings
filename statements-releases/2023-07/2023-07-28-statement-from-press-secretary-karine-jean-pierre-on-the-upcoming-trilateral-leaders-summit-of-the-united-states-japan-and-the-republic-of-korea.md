@@ -1,7 +1,7 @@
 ---
 date: '2023-07-28'
 published_time: 2023-07-28 14:17:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/28/statement-from-press-secretary-karine-jean-pierre-on-the-upcoming-trilateral-leaders-summit-of-the-united-states-japan-and-the-republic-of-korea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/28/statement-from-press-secretary-karine-jean-pierre-on-the-upcoming-trilateral-leaders-summit-of-the-united-states-japan-and-the-republic-of-korea/
 tags: statements-releases
 title: "Statement from Press Secretary Karine Jean-Pierre on the Upcoming Trilateral\
   \ Leaders Summit of the United\_States, Japan, and the Republic of\_Korea"

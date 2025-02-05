@@ -2,7 +2,7 @@
 date: '2024-10-29'
 modified_time: 2024-10-31 09:38:49-04:00
 published_time: 2024-10-29 21:18:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/remarks-by-president-biden-on-how-his-investing-in-america-agenda-is-rebuilding-infrastructure-tackling-the-climate-crisis-and-creating-good-paying-jobs-baltimore-md/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/remarks-by-president-biden-on-how-his-investing-in-america-agenda-is-rebuilding-infrastructure-tackling-the-climate-crisis-and-creating-good-paying-jobs-baltimore-md/
 tags: statements-releases
 title: "Remarks by President\_Biden on How His Investing in America Agenda is Rebuilding\
   \ Infrastructure, Tackling the Climate Crisis, and Creating Good-Paying Jobs | Baltimore,\_\

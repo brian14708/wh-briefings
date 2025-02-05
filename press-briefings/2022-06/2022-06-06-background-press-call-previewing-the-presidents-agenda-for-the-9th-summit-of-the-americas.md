@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-07 13:25:02-04:00
 published_time: 2022-06-06 20:24:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/06/06/background-press-call-previewing-the-presidents-agenda-for-the-9th-summit-of-the-americas/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/06/06/background-press-call-previewing-the-presidents-agenda-for-the-9th-summit-of-the-americas/
 tags: press-briefings
 title: "Background Press Call Previewing the President\u2019s Agenda for the 9th Summit\
   \ of the\_Americas"

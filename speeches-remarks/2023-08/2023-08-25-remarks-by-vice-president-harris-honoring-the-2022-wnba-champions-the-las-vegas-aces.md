@@ -2,7 +2,7 @@
 date: '2023-08-25'
 modified_time: 2023-08-25 19:32:33-04:00
 published_time: 2023-08-25 19:32:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/08/25/remarks-by-vice-president-harris-honoring-the-2022-wnba-champions-the-las-vegas-aces/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/08/25/remarks-by-vice-president-harris-honoring-the-2022-wnba-champions-the-las-vegas-aces/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Honoring the 2022 WNBA Champions, the Las\
   \ Vegas\_Aces"

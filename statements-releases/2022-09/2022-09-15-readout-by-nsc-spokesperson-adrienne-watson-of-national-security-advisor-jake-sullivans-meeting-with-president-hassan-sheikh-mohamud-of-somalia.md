@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-15 21:16:50-04:00
 published_time: 2022-09-15 21:16:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/readout-by-nsc-spokesperson-adrienne-watson-of-national-security-advisor-jake-sullivans-meeting-with-president-hassan-sheikh-mohamud-of-somalia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/readout-by-nsc-spokesperson-adrienne-watson-of-national-security-advisor-jake-sullivans-meeting-with-president-hassan-sheikh-mohamud-of-somalia/
 tags: statements-releases
 title: "Readout by NSC Spokesperson Adrienne Watson of National Security Advisor Jake\
   \ Sullivan\u2019s Meeting with President Hassan Sheikh Mohamud of\_Somalia"

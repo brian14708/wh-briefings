@@ -1,7 +1,7 @@
 ---
 date: '2023-09-20'
 published_time: 2023-09-20 11:43:36-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/20/white-house-appoints-2023-2024-class-of-white-house-fellows/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/20/white-house-appoints-2023-2024-class-of-white-house-fellows/
 tags: statements-releases
 title: "White\_House Appoints 2023-2024 Class of White\_House\_Fellows"
 ---
@@ -24,7 +24,7 @@ local government, academia, non-profits, medicine, and the armed forces.
 
 Applications for the 2024-2025 Fellowship year will be accepted starting
 November 1, 2023. The application link and additional information is
-available at: <https://www.whitehouse.gov/get-involved/fellows/apply/>.
+available at: <https://bidenwhitehouse.archives.gov/get-involved/fellows/apply/>.
 
 **<u>  
 Class of 2023-2024 White House Fellows  

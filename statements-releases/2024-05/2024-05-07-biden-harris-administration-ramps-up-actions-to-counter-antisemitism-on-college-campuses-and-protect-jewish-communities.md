@@ -2,7 +2,7 @@
 date: '2024-05-07'
 modified_time: 2024-05-07 08:49:36-04:00
 published_time: 2024-05-07 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/07/biden-harris-administration-ramps-up-actions-to-counter-antisemitism-on-college-campuses-and-protect-jewish-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/07/biden-harris-administration-ramps-up-actions-to-counter-antisemitism-on-college-campuses-and-protect-jewish-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Ramps Up Actions to Counter\
   \ Antisemitism on College Campuses and Protect Jewish\_Communities"
@@ -25,7 +25,7 @@ college campuses across the Nation.
   
 Today’s new actions build on the work of the President’s [National
 Strategy to Counter
-Antisemitism](https://www.whitehouse.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
+Antisemitism](https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/U.S.-National-Strategy-to-Counter-Antisemitism.pdf),
 the first-ever such strategy, which was released one year ago this
 month. The strategy represents the most comprehensive and ambitious U.S.
 government effort to counter Antisemitism in American history. It
@@ -43,7 +43,7 @@ The Biden-Harris Administration has taken aggressive action to implement
 the strategy and to speak out forcefully against hate of all kinds,
 especially in the wake of the October 7<sup>th</sup> attacks. Through
 the [National Security
-Supplemental](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-supplemental/),
+Supplemental](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/13/statement-from-president-joe-biden-on-senate-passage-of-the-national-security-supplemental/),
 President Biden secured an additional $400 million for the Nonprofit
 Security Grant Program, which funds security improvements and training
 to nonprofits and houses of worship, including campus organizations and
@@ -60,7 +60,7 @@ over the past year:
 
 -   Today, the Department of Education’s (ED) Office for Civil Rights
     (OCR) issued new guidance through a [Dear Colleague
-    Letter](https://www.whitehouse.gov/wp-content/uploads/2024/05/colleague-202405-shared-ancestry.pdf)
+    Letter](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/colleague-202405-shared-ancestry.pdf)
     to every school district and college in the country, providing
     examples of Antisemitic discrimination, as well as other forms of
     hate, that could lead to investigations for violations of Title VI
@@ -312,8 +312,8 @@ These new actions build on actions taken to date:
 
    
 To learn more about the National Strategy, see previous [White
-House](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/)
-[Fact](https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/)
-[Sheets](https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-takes-action-to-address-alarming-rise-of-reported-antisemitic-and-islamophobic-events-at-schools-and-on-college-campuses/).
+House](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/25/fact-sheet-biden-harris-administration-releases-first-ever-u-s-national-strategy-to-counter-antisemitism/)
+[Fact](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/28/fact-sheet-biden-harris-administration-takes-landmark-step-to-counter-antisemitism/)
+[Sheets](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/14/fact-sheet-biden-harris-administration-takes-action-to-address-alarming-rise-of-reported-antisemitic-and-islamophobic-events-at-schools-and-on-college-campuses/).
 
 \###

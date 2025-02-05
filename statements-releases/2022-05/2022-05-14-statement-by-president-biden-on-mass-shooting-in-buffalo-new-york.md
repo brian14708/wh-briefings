@@ -1,7 +1,7 @@
 ---
 date: '2022-05-14'
 published_time: 2022-05-14 23:24:03-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/14/statement-by-president-biden-on-mass-shooting-in-buffalo-new-york/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/14/statement-by-president-biden-on-mass-shooting-in-buffalo-new-york/
 tags: statements-releases
 title: "Statement by President\_Biden on Mass Shooting in Buffalo, New\_York"
 ---

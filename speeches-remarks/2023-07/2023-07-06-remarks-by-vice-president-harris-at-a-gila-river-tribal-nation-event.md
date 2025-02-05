@@ -1,7 +1,7 @@
 ---
 date: '2023-07-06'
 published_time: 2023-07-06 17:19:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/06/remarks-by-vice-president-harris-at-a-gila-river-tribal-nation-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/06/remarks-by-vice-president-harris-at-a-gila-river-tribal-nation-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Gila River Tribal Nation\_Event"
 ---

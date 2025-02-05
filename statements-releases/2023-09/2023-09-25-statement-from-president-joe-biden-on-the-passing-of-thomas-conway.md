@@ -1,7 +1,7 @@
 ---
 date: '2023-09-25'
 published_time: 2023-09-25 18:59:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-the-passing-of-thomas-conway/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/25/statement-from-president-joe-biden-on-the-passing-of-thomas-conway/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Passing of Thomas\_Conway"
 ---

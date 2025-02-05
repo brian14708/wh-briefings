@@ -1,7 +1,7 @@
 ---
 date: '2023-03-24'
 published_time: 2023-03-24 14:11:07-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/03/24/memorandum-on-conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands/
 tags: presidential-actions
 title: "Memorandum on Conserving the Natural and Cultural Heritage of the Pacific\
   \ Remote\_Islands"

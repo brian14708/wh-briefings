@@ -2,7 +2,7 @@
 date: '2022-09-15'
 modified_time: 2022-09-14 21:52:44-04:00
 published_time: 2022-09-15 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-president-biden-signs-executive-order-to-ensure-robust-reviews-of-evolving-national-security-risks-by-the-committee-on-foreign-investment-in-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/15/fact-sheet-president-biden-signs-executive-order-to-ensure-robust-reviews-of-evolving-national-security-risks-by-the-committee-on-foreign-investment-in-the-united-states/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden Signs Executive Order to Ensure Robust Reviews\
   \ of Evolving National Security Risks by the Committee on Foreign Investment in\

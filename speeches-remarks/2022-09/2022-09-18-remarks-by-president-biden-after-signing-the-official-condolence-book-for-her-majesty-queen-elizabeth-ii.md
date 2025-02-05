@@ -1,7 +1,7 @@
 ---
 date: '2022-09-18'
 published_time: 2022-09-18 13:42:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/18/remarks-by-president-biden-after-signing-the-official-condolence-book-for-her-majesty-queen-elizabeth-ii/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/18/remarks-by-president-biden-after-signing-the-official-condolence-book-for-her-majesty-queen-elizabeth-ii/
 tags: speeches-remarks
 title: "Remarks by President\_Biden After Signing the Official Condolence Book for\
   \ Her Majesty Queen Elizabeth\_II"

@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-12-02'
 modified_time: 2021-12-01 18:41:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-playing-field-for-underserved-small-business-owners/
 published_time: 2021-12-02 08:00:00-05:00
 title: "FACT SHEET: Biden-\u2060Harris Administration Announces Reforms to Increase\
   \ Equity and Level the Playing Field for Underserved Small Business\_Owners"
@@ -23,7 +23,7 @@ small businesses.
 Increasing federal spending with underserved businesses not only helps
 more Americans realize their entrepreneurial dreams, but also narrows
 persistent wealth disparities. According to [new
-analysis](https://www.whitehouse.gov/cea/blog/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
+analysis](https://bidenwhitehouse.archives.gov/cea/blog/2021/12/01/the-benefits-of-increased-equity-in-federal-contracting/)
 from the White House Council of Economic Advisers, based on data
 provided by the Small Business Administration (SBA), differences in
 business ownership account for 20 percent of the wealth gap between
@@ -170,7 +170,7 @@ institutionalize achievement of small business contracting goals.**
 Advancing equity for socioeconomic businesses firms requires focused
 attention, proactive engagement, and execution by agency senior
 leadership. On [November
-18,](https://www.whitehouse.gov/omb/briefing-room/2021/11/18/office-of-management-and-budget-launches-biden-harris-management-agenda-vision/#:~:text=The%20Office%20of%20Management%20and,that%20delivers%20results%20for%20all.)
+18,](https://bidenwhitehouse.archives.gov/omb/briefing-room/2021/11/18/office-of-management-and-budget-launches-biden-harris-management-agenda-vision/#:~:text=The%20Office%20of%20Management%20and,that%20delivers%20results%20for%20all.)
 the Administration launched the President’s Management Agenda (PMA)
 Vision, which recognizes that fostering lasting improvements in the
 Federal acquisition system can create opportunities for underserved

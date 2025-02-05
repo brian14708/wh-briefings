@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2022-02-01'
 modified_time: 2022-02-01 12:57:58-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/01/white-house-announces-additional-actions-to-help-families-afford-energy-bills-building-on-historic-investments/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/02/01/white-house-announces-additional-actions-to-help-families-afford-energy-bills-building-on-historic-investments/
 published_time: 2022-02-01 09:14:31-05:00
 title: "White\_House Announces Additional Actions to Help Families Afford Energy Bills,\
   \ Building on Historic\_Investments"
@@ -126,7 +126,7 @@ ensure these historic resources are distributed swiftly and equitably:
 
 -   **<u>Encouraged States to Plan Early:</u>** In November, the White
     House [called on states, localities, and tribes to plan
-    early](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/)
+    early](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/)
     to distribute American Rescue Plan funds to address home energy
     costs this winter.
 
@@ -134,10 +134,10 @@ ensure these historic resources are distributed swiftly and equitably:
 
 -   **<u>Secured Commitments from Utilities to Avoid Shut-offs and
     Expedite Aid:</u>** The White House has [called on utility
-    companies](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/)
+    companies](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/11/18/fact-sheet-biden-administration-deploys-american-rescue-plan-funds-to-protect-americans-from-rising-home-heating-costs-calls-on-utility-companies-to-prevent-shut-offs-this-winter/)
     to prevent devastating utility shut-offs and help expedite the
     delivery of unprecedented federal aid. [In January, the White House
-    announced](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/07/biden-administration-announces-state-by-state-funding-to-address-home-energy-costs/)
+    announced](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/07/biden-administration-announces-state-by-state-funding-to-address-home-energy-costs/)
     that it has already welcomed commitments from fourteen major utility
     companies across the country, including **Atlantic City Electric,
     Baltimore Gas and Electric, ComEd, Delmarva Power, DTE Energy,

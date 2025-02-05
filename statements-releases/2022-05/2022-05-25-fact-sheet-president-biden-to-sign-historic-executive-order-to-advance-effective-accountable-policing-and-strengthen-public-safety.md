@@ -2,7 +2,7 @@
 date: '2022-05-25'
 modified_time: 2022-05-25 09:10:40-04:00
 published_time: 2022-05-25 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/25/fact-sheet-president-biden-to-sign-historic-executive-order-to-advance-effective-accountable-policing-and-strengthen-public-safety/
 tags: statements-releases
 title: "FACT SHEET: President\_Biden to Sign Historic Executive Order to Advance Effective,\
   \ Accountable Policing and Strengthen Public\_Safety"

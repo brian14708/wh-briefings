@@ -1,7 +1,7 @@
 ---
 date: '2022-10-26'
 published_time: 2022-10-26 17:43:32-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/26/readout-of-president-joseph-r-biden-jr-s-meeting-with-president-isaac-herzog-of-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/26/readout-of-president-joseph-r-biden-jr-s-meeting-with-president-isaac-herzog-of-israel/
 tags: statements-releases
 title: "Readout of President Joseph R. Biden, Jr.\u2019s Meeting with President Isaac\
   \ Herzog\_of\_Israel"

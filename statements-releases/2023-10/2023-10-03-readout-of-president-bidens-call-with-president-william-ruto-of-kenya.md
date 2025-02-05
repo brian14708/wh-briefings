@@ -1,7 +1,7 @@
 ---
 date: '2023-10-03'
 published_time: 2023-10-03 14:30:34-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/readout-of-president-bidens-call-with-president-william-ruto-of-kenya/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/readout-of-president-bidens-call-with-president-william-ruto-of-kenya/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with President William Ruto of\_Kenya"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-01-04'
 published_time: 2023-01-04 15:55:25-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-president-biden-on-rebuilding-our-infrastructure-and-creating-good-paying-jobs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/04/remarks-by-president-biden-on-rebuilding-our-infrastructure-and-creating-good-paying-jobs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on Rebuilding Our Infrastructure and Creating\
   \ Good-Paying\_Jobs"

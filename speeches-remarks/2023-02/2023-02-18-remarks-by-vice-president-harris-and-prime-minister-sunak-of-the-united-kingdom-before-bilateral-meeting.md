@@ -1,7 +1,7 @@
 ---
 date: '2023-02-18'
 published_time: 2023-02-18 15:15:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-and-prime-minister-sunak-of-the-united-kingdom-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/18/remarks-by-vice-president-harris-and-prime-minister-sunak-of-the-united-kingdom-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris and Prime Minister Sunak of the United Kingdom\
   \ Before Bilateral\_Meeting"

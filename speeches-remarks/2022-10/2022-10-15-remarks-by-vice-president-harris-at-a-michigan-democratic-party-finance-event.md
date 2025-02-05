@@ -1,7 +1,7 @@
 ---
 date: '2022-10-15'
 published_time: 2022-10-15 19:27:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-vice-president-harris-at-a-michigan-democratic-party-finance-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/15/remarks-by-vice-president-harris-at-a-michigan-democratic-party-finance-event/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at a Michigan Democratic Party Finance\_\
   Event"

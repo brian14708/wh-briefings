@@ -2,7 +2,7 @@
 date: '2022-10-29'
 modified_time: 2022-10-31 10:08:05-04:00
 published_time: 2022-10-29 10:07:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/29/remarks-by-vice-president-harris-at-gotv-event-with-senator-chris-van-hollen-and-maryland-gubernatorial-candidate-wes-moore/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/29/remarks-by-vice-president-harris-at-gotv-event-with-senator-chris-van-hollen-and-maryland-gubernatorial-candidate-wes-moore/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at GOTV Event with Senator Chris Van Hollen\
   \ and Maryland Gubernatorial Candidate Wes\_Moore"

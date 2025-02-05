@@ -2,7 +2,7 @@
 date: '2024-11-05'
 modified_time: 2024-11-05 13:13:14-05:00
 published_time: 2024-11-05 13:13:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/05/statement-from-vice-president-harris-on-the-international-association-of-machinists-and-boeing-contract-ratification/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/11/05/statement-from-vice-president-harris-on-the-international-association-of-machinists-and-boeing-contract-ratification/
 tags: statements-releases
 title: "Statement from Vice President Harris on the International Association of Machinists\
   \ and Boeing Contract\_Ratification"

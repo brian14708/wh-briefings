@@ -1,7 +1,7 @@
 ---
 date: '2023-05-20'
 published_time: 2023-05-20 19:24:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/20/what-they-are-reading-in-the-states-biden-harris-administration-continues-to-invest-in-america-with-new-initiatives/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/20/what-they-are-reading-in-the-states-biden-harris-administration-continues-to-invest-in-america-with-new-initiatives/
 tags: statements-releases
 title: "What They Are Reading in the States: Biden-\u2060Harris Administration Continues\
   \ to Invest in America with New\_Initiatives"

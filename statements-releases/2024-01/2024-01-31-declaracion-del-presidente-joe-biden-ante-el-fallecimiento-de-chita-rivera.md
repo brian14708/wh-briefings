@@ -1,7 +1,7 @@
 ---
 date: '2024-01-31'
 published_time: 2024-01-31 08:43:46-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/01/31/declaracion-del-presidente-joe-biden-ante-el-fallecimiento-de-chita-rivera/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/31/declaracion-del-presidente-joe-biden-ante-el-fallecimiento-de-chita-rivera/
 tags: statements-releases
 title: "Declaraci\xF3n del Presidente Joe\_Biden ante el Fallecimiento de Chita\_\
   Rivera"

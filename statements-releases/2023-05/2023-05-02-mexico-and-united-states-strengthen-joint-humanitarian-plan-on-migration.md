@@ -2,7 +2,7 @@
 date: '2023-05-02'
 modified_time: 2023-05-04 10:47:18-04:00
 published_time: 2023-05-02 22:22:46-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/02/mexico-and-united-states-strengthen-joint-humanitarian-plan-on-migration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/02/mexico-and-united-states-strengthen-joint-humanitarian-plan-on-migration/
 tags: statements-releases
 title: "Mexico and United\_States Strengthen Joint Humanitarian Plan on\_Migration"
 ---

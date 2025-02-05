@@ -1,7 +1,7 @@
 ---
 date: '2023-10-24'
 published_time: 2023-10-24 14:30:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/24/readout-of-president-joe-bidens-call-with-crown-prince-and-prime-minister-mohammed-bin-salman-of-the-kingdom-of-saudi-arabia/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/24/readout-of-president-joe-bidens-call-with-crown-prince-and-prime-minister-mohammed-bin-salman-of-the-kingdom-of-saudi-arabia/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with Crown Prince and Prime Minister\
   \ Mohammed bin Salman of the Kingdom of Saudi\_Arabia"

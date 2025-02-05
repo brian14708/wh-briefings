@@ -2,7 +2,7 @@
 date: '2023-12-21'
 modified_time: 2023-12-21 12:28:07-05:00
 published_time: 2023-12-21 13:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/21/statement-from-president-joe-biden-on-emergency-response-proposed-rule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/21/statement-from-president-joe-biden-on-emergency-response-proposed-rule/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Emergency Response Proposed\_Rule"
 ---

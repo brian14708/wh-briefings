@@ -2,7 +2,7 @@
 date: '2022-05-05'
 modified_time: 2022-05-05 15:38:43-04:00
 published_time: 2022-05-05 15:38:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/05/president-biden-announces-karine-jean-pierre-as-white-house-press-secretary/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/05/president-biden-announces-karine-jean-pierre-as-white-house-press-secretary/
 tags: statements-releases
 title: "President\_Biden Announces Karine Jean-Pierre as White\_House Press\_Secretary"
 ---

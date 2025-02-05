@@ -1,7 +1,7 @@
 ---
 date: '2024-04-23'
 published_time: 2024-04-23 19:00:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/23/statement-from-vice-president-harris-on-the-passing-of-reverend-cecil-williams/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/23/statement-from-vice-president-harris-on-the-passing-of-reverend-cecil-williams/
 tags: statements-releases
 title: "Statement from Vice President Harris on the Passing of Reverend Cecil\_Williams"
 ---

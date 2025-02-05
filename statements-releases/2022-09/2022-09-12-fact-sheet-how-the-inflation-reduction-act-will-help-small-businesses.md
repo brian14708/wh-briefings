@@ -1,7 +1,7 @@
 ---
 date: '2022-09-12'
 published_time: 2022-09-12 21:17:06-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-how-the-inflation-reduction-act-will-help-small-businesses/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-how-the-inflation-reduction-act-will-help-small-businesses/
 tags: statements-releases
 title: "FACT SHEET: How the Inflation Reduction Act Will Help Small\_Businesses"
 ---

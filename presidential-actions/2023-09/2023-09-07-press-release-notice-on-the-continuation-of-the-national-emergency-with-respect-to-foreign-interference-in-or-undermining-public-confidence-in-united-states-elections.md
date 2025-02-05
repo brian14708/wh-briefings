@@ -2,7 +2,7 @@
 date: '2023-09-07'
 modified_time: 2023-09-07 17:48:15-04:00
 published_time: 2023-09-07 17:38:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/07/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/07/press-release-notice-on-the-continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public-confidence-in-united-states-elections/
 tags: presidential-actions
 title: "Press Release: Notice on the Continuation of the National Emergency with Respect\
   \ to Foreign Interference in or Undermining Public Confidence in United\_States\_\

@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 10:58:20-04:00
 published_time: 2022-05-04 10:58:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/statement-from-president-biden-on-shontel-browns-primary-victory-in-ohio/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/statement-from-president-biden-on-shontel-browns-primary-victory-in-ohio/
 tags: statements-releases
 title: "Statement from President\_Biden on Shontel Brown\u2019s Primary Victory in\_\
   Ohio"

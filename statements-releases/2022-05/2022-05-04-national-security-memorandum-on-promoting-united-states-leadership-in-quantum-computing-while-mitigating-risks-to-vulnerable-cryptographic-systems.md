@@ -2,7 +2,7 @@
 date: '2022-05-04'
 modified_time: 2022-05-04 09:12:48-04:00
 published_time: 2022-05-04 09:12:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/
 tags: statements-releases
 title: "National Security Memorandum on Promoting United\_States Leadership in Quantum\
   \ Computing While Mitigating Risks to Vulnerable Cryptographic\_Systems"

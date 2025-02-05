@@ -2,7 +2,7 @@
 date: '2022-11-23'
 modified_time: 2022-11-23 09:50:33-05:00
 published_time: 2022-11-23 09:50:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/23/statement-from-president-biden-on-the-shooting-in-chesapeake-va/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/23/statement-from-president-biden-on-the-shooting-in-chesapeake-va/
 tags: statements-releases
 title: "Statement from President\_Biden on the Shooting in Chesapeake,\_VA"
 ---

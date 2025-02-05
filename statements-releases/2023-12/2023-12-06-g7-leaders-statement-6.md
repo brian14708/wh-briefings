@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 13:58:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/06/g7-leaders-statement-6/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/06/g7-leaders-statement-6/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement"
 ---

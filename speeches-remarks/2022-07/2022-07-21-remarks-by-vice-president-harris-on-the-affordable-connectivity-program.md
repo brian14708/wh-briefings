@@ -1,7 +1,7 @@
 ---
 date: '2022-07-21'
 published_time: 2022-07-21 16:57:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-on-the-affordable-connectivity-program/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/21/remarks-by-vice-president-harris-on-the-affordable-connectivity-program/
 tags: speeches-remarks
 title: "Remarks By Vice President Harris\_On The Affordable Connectivity\_Program"
 ---

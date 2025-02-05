@@ -2,7 +2,7 @@
 date: '2023-01-24'
 modified_time: 2023-01-24 18:10:39-05:00
 published_time: 2023-01-24 18:10:38-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/24/remarks-by-president-biden-in-meeting-with-democratic-congressional-leaders/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/01/24/remarks-by-president-biden-in-meeting-with-democratic-congressional-leaders/
 tags: speeches-remarks
 title: "Remarks By President\_Biden in Meeting with Democratic Congressional\_Leaders"
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-17'
 published_time: 2023-02-17 15:26:10-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/17/readout-of-vice-president-harriss-meeting-with-chancellor-scholz-of-germany/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/02/17/readout-of-vice-president-harriss-meeting-with-chancellor-scholz-of-germany/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Meeting with Chancellor Scholz of\_\
   Germany"

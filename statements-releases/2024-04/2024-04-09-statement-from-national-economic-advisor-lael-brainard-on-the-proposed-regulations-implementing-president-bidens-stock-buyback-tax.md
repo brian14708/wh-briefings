@@ -2,7 +2,7 @@
 date: '2024-04-09'
 modified_time: 2024-04-09 13:27:04-04:00
 published_time: 2024-04-09 16:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/09/statement-from-national-economic-advisor-lael-brainard-on-the-proposed-regulations-implementing-president-bidens-stock-buyback-tax/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/09/statement-from-national-economic-advisor-lael-brainard-on-the-proposed-regulations-implementing-president-bidens-stock-buyback-tax/
 tags: statements-releases
 title: "Statement from National Economic Advisor Lael Brainard on the Proposed Regulations\
   \ Implementing President\_Biden\u2019s Stock Buyback\_Tax"

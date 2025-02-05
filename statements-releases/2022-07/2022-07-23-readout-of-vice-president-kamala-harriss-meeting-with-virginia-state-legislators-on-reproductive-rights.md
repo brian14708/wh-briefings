@@ -2,7 +2,7 @@
 date: '2022-07-23'
 modified_time: 2022-07-23 16:29:50-04:00
 published_time: 2022-07-23 16:29:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/23/readout-of-vice-president-kamala-harriss-meeting-with-virginia-state-legislators-on-reproductive-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/23/readout-of-vice-president-kamala-harriss-meeting-with-virginia-state-legislators-on-reproductive-rights/
 tags: statements-releases
 title: "Readout of Vice President Kamala\_Harris\u2019s Meeting with Virginia State\
   \ Legislators on Reproductive\_Rights"

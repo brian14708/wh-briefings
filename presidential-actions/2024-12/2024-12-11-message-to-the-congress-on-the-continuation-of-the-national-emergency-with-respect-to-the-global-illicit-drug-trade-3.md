@@ -1,7 +1,7 @@
 ---
 date: '2024-12-11'
 published_time: 2024-12-11 16:21:16-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/12/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/12/11/message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-the-global-illicit-drug-trade-3/
 tags: presidential-actions
 title: "Message to the Congress on the Continuation of the National Emergency With\
   \ Respect to the Global Illicit Drug\_Trade"

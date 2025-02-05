@@ -1,7 +1,7 @@
 ---
 tags: statements-releases
 date: '2021-09-22'
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-president-bidens-global-covid-19-summit-ending-the-pandemic-and-building-back-better/
 published_time: 2021-09-22 13:10:06-04:00
 title: "FACT SHEET: President\_Biden\u2019s Global COVID-\u206019 Summit: Ending the\
   \ Pandemic and Building Back\_Better"
@@ -43,23 +43,23 @@ embraced a set of ambitious global targets across four themes:
     our commitments.
 
 The full set of targets is
-available [here](https://www.whitehouse.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-targets-for-global-covid-19-summit/).  
+available [here](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/09/22/fact-sheet-targets-for-global-covid-19-summit/).  
   
 **<u>New U.S. Commitments toward Ending the Pandemic and Building Back
 Better</u>**  
   
 President Biden has prioritized  ending the COVID-19 pandemic since day
 one, when he launched the [National Strategy on
-COVID](https://www.whitehouse.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf)-19
+COVID](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf)-19
 Response and Pandemic Preparedness and took [critical
-steps](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/)
+steps](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/01/21/national-security-directive-united-states-global-leadership-to-strengthen-the-international-covid-19-response-and-to-advance-global-health-security-and-biological-preparedness/)
 to
-[elevate](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/)
+[elevate](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-organizing-and-mobilizing-united-states-government-to-provide-unified-and-effective-response-to-combat-covid-19-and-to-provide-united-states-leadership-on-global-health-and-security/)
 pandemic preparedness and response as a top national security priority. 
 The United States has donated more vaccines than all other countries
 combined, and earlier this year, launched a comprehensive [U.S. COVID-19
 Global Response and Recovery
-Framework](https://www.whitehouse.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/).  
+Framework](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/01/u-s-covid-19-global-response-and-recovery-framework/).  
   
 The United States is leading the way toward ending the pandemic.  During
 his remarks, the President called the world to action and announced

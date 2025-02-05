@@ -2,7 +2,7 @@
 date: '2024-08-15'
 modified_time: 2024-08-14 19:32:01-04:00
 published_time: 2024-08-15 08:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-lower-prescription-drug-prices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/08/15/statement-from-president-joe-biden-on-lower-prescription-drug-prices/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Lower Prescription Drug\_Prices"
 ---

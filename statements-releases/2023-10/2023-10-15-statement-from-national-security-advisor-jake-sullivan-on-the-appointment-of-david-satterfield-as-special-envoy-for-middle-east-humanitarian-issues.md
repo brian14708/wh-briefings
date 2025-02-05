@@ -1,7 +1,7 @@
 ---
 date: '2023-10-15'
 published_time: 2023-10-15 12:12:01-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/15/statement-from-national-security-advisor-jake-sullivan-on-the-appointment-of-david-satterfield-as-special-envoy-for-middle-east-humanitarian-issues/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/15/statement-from-national-security-advisor-jake-sullivan-on-the-appointment-of-david-satterfield-as-special-envoy-for-middle-east-humanitarian-issues/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on the Appointment\
   \ of David Satterfield as Special Envoy for Middle East Humanitarian\_Issues"

@@ -2,7 +2,7 @@
 date: '2022-12-14'
 modified_time: 2022-12-15 10:55:17-05:00
 published_time: 2022-12-14 20:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2022/12/14/background-press-call-on-the-biden-administrations-winter-preparedness-plan-for-covid-19/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/12/14/background-press-call-on-the-biden-administrations-winter-preparedness-plan-for-covid-19/
 tags: press-briefings
 title: "Background Press Call on the Biden Administration\u2019s Winter Preparedness\
   \ Plan for\_COVID-\u206019"

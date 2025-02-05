@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-03-06'
 modified_time: 2021-03-06 16:37:17-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/03/06/remarks-by-president-biden-on-the-senate-passage-of-the-american-rescue-plan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/03/06/remarks-by-president-biden-on-the-senate-passage-of-the-american-rescue-plan/
 published_time: 2021-03-06 17:00:00-05:00
 title: "Remarks by President\_Biden on the Senate Passage of the American Rescue\_\
   Plan"

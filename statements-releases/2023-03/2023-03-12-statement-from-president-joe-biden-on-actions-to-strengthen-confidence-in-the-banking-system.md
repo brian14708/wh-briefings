@@ -1,7 +1,7 @@
 ---
 date: '2023-03-12'
 published_time: 2023-03-12 20:38:18-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/12/statement-from-president-joe-biden-on-actions-to-strengthen-confidence-in-the-banking-system/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/12/statement-from-president-joe-biden-on-actions-to-strengthen-confidence-in-the-banking-system/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Actions to Strengthen Confidence in\
   \ the Banking\_System"

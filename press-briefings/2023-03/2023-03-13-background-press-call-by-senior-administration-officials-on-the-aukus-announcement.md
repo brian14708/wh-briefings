@@ -2,7 +2,7 @@
 date: '2023-03-13'
 modified_time: 2023-03-13 13:30:06-04:00
 published_time: 2023-03-13 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/13/background-press-call-by-senior-administration-officials-on-the-aukus-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/13/background-press-call-by-senior-administration-officials-on-the-aukus-announcement/
 tags: press-briefings
 title: "Background Press Call by Senior Administration Officials on the AUKUS\_Announcement"
 ---

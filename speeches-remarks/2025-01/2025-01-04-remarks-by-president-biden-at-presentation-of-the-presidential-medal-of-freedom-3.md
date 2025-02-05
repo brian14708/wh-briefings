@@ -2,7 +2,7 @@
 date: '2025-01-04'
 modified_time: 2025-01-07 14:42:00-05:00
 published_time: 2025-01-04 14:41:08-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2025/01/04/remarks-by-president-biden-at-presentation-of-the-presidential-medal-of-freedom-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2025/01/04/remarks-by-president-biden-at-presentation-of-the-presidential-medal-of-freedom-3/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Presentation of the Presidential Medal of\_\
   Freedom"

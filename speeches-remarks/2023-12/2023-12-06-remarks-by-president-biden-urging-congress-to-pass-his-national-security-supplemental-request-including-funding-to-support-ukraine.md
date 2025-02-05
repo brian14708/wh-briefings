@@ -1,7 +1,7 @@
 ---
 date: '2023-12-06'
 published_time: 2023-12-06 14:50:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-urging-congress-to-pass-his-national-security-supplemental-request-including-funding-to-support-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/12/06/remarks-by-president-biden-urging-congress-to-pass-his-national-security-supplemental-request-including-funding-to-support-ukraine/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Urging Congress to Pass His National Security\
   \ Supplemental Request, Including Funding to Support\_Ukraine"

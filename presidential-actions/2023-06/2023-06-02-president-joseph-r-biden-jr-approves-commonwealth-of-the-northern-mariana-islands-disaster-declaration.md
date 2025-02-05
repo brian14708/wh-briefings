@@ -2,7 +2,7 @@
 date: '2023-06-02'
 modified_time: 2023-06-02 21:21:05-04:00
 published_time: 2023-06-02 21:20:45-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/02/president-joseph-r-biden-jr-approves-commonwealth-of-the-northern-mariana-islands-disaster-declaration/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/02/president-joseph-r-biden-jr-approves-commonwealth-of-the-northern-mariana-islands-disaster-declaration/
 tags: presidential-actions
 title: "President Joseph R. Biden, Jr. Approves Commonwealth of the Northern Mariana\
   \ Islands Disaster\_Declaration"

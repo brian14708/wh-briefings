@@ -2,7 +2,7 @@
 date: '2022-10-11'
 modified_time: 2022-10-10 19:23:26-04:00
 published_time: 2022-10-11 08:46:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-family-glitch-final-rule/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/statement-by-president-joe-biden-on-family-glitch-final-rule/
 tags: statements-releases
 title: "Statement by President Joe\_Biden on \u201CFamily Glitch\u201D Final\_Rule"
 ---

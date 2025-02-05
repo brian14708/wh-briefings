@@ -2,7 +2,7 @@
 date: '2024-03-29'
 modified_time: 2024-03-29 15:31:06-04:00
 published_time: 2024-03-29 15:40:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/03/29/fact-sheet-update-on-the-united-states-commitment-to-expanding-access-to-medicines-around-the-world-2/
 tags: statements-releases
 title: "FACT SHEET: Update on the United\_States Commitment to Expanding Access to\
   \ Medicines Around the\_World"

@@ -2,7 +2,7 @@
 date: '2024-06-13'
 modified_time: 2024-06-20 13:39:31-04:00
 published_time: 2024-06-13 12:08:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/13/fact-sheet-partnership-for-global-infrastructure-and-investment-at-the-g7-summit-2/
 tags: statements-releases
 title: "FACT SHEET: Partnership for Global Infrastructure and Investment at the G7\_\
   Summit"

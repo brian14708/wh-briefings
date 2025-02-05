@@ -2,7 +2,7 @@
 date: '2024-09-12'
 modified_time: 2024-09-12 20:36:50-04:00
 published_time: 2024-09-12 20:36:49-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/09/12/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-social-security-totalization-agreement-with-romania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/09/12/letter-to-the-speaker-of-the-house-and-president-of-the-senate-on-the-social-security-totalization-agreement-with-romania/
 tags: presidential-actions
 title: "Letter to the Speaker of the House and President of the Senate on the Social\
   \ Security Totalization Agreement With\_Romania"

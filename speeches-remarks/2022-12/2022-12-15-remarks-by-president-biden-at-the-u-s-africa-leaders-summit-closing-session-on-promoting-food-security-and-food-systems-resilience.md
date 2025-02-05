@@ -2,7 +2,7 @@
 date: '2022-12-15'
 modified_time: 2022-12-15 19:32:45-05:00
 published_time: 2022-12-15 19:45:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-president-biden-at-the-u-s-africa-leaders-summit-closing-session-on-promoting-food-security-and-food-systems-resilience/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/12/15/remarks-by-president-biden-at-the-u-s-africa-leaders-summit-closing-session-on-promoting-food-security-and-food-systems-resilience/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the U.S.-Africa Leaders Summit Closing Session\
   \ on Promoting Food Security and Food Systems\_Resilience"

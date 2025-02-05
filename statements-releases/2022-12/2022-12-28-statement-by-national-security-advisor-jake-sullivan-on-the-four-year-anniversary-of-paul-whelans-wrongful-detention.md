@@ -2,7 +2,7 @@
 date: '2022-12-28'
 modified_time: 2022-12-28 10:08:41-05:00
 published_time: 2022-12-28 10:08:40-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/28/statement-by-national-security-advisor-jake-sullivan-on-the-four-year-anniversary-of-paul-whelans-wrongful-detention/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/12/28/statement-by-national-security-advisor-jake-sullivan-on-the-four-year-anniversary-of-paul-whelans-wrongful-detention/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on the Four Year Anniversary\
   \ of Paul Whelan\u2019s Wrongful\_Detention"

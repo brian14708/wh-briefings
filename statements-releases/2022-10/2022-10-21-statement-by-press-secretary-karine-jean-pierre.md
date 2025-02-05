@@ -1,7 +1,7 @@
 ---
 date: '2022-10-21'
 published_time: 2022-10-21 20:47:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/21/statement-by-press-secretary-karine-jean-pierre/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/21/statement-by-press-secretary-karine-jean-pierre/
 tags: statements-releases
 title: "Statement by Press Secretary Karine\_Jean-Pierre"
 ---

@@ -2,7 +2,7 @@
 date: '2023-09-13'
 modified_time: 2023-09-14 08:17:36-04:00
 published_time: 2023-09-13 21:24:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/09/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-bahraini-crown-prince-and-prime-minister-salman-bin-hamad-al-khalifa/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/09/13/readout-of-national-security-advisor-jake-sullivans-meeting-with-bahraini-crown-prince-and-prime-minister-salman-bin-hamad-al-khalifa/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Meeting with Bahraini\
   \ Crown Prince and Prime Minister Salman bin Hamad Al\_Khalifa"

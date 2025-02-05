@@ -2,7 +2,7 @@
 date: '2022-07-29'
 modified_time: 2022-07-29 12:33:05-04:00
 published_time: 2022-07-29 12:33:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/29/president-biden-names-twenty-fourth-round-of-judicial-nominees/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/29/president-biden-names-twenty-fourth-round-of-judicial-nominees/
 tags: statements-releases
 title: "President\_Biden Names Twenty-Fourth Round of Judicial\_Nominees"
 ---

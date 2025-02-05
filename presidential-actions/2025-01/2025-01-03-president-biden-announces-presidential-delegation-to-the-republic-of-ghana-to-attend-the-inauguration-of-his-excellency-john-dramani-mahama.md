@@ -2,7 +2,7 @@
 date: '2025-01-03'
 modified_time: 2025-01-03 10:03:11-05:00
 published_time: 2025-01-03 11:00:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/03/president-biden-announces-presidential-delegation-to-the-republic-of-ghana-to-attend-the-inauguration-of-his-excellency-john-dramani-mahama/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2025/01/03/president-biden-announces-presidential-delegation-to-the-republic-of-ghana-to-attend-the-inauguration-of-his-excellency-john-dramani-mahama/
 tags: presidential-actions
 title: "President\_Biden Announces Presidential Delegation to the Republic of Ghana\
   \ to Attend the Inauguration of His Excellency John Dramani\_Mahama"

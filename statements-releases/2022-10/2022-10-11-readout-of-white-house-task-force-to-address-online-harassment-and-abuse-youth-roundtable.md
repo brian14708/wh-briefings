@@ -1,14 +1,14 @@
 ---
 date: '2022-10-11'
 published_time: 2022-10-11 18:04:23-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/11/readout-of-white-house-task-force-to-address-online-harassment-and-abuse-youth-roundtable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/10/11/readout-of-white-house-task-force-to-address-online-harassment-and-abuse-youth-roundtable/
 tags: statements-releases
 title: "Readout of White\_House Task Force to Address Online Harassment and Abuse\
   \ Youth\_Roundtable"
 ---
  
 Today, on [International Day of the
-Girl](https://www.whitehouse.gov/briefing-room/presidential-actions/2022/10/11/a-proclamation-on-international-day-of-the-girl-2022/),
+Girl](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/10/11/a-proclamation-on-international-day-of-the-girl-2022/),
 the White House Gender Policy Council, Domestic Policy Council, and the
 Department of Education convened a roundtable with youth survivors of
 online harassment and abuse, alongside educators, youth and adult
@@ -45,7 +45,7 @@ suicides, especially among girls.
    
 Participants provided recommendations to the [White House Task Force to
 Address Online Harassment and
-Abuse](https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
+Abuse](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/16/fact-sheet-presidential-memorandum-establishing-the-white-house-task-force-to-address-online-harassment-and-abuse/),
 focused on ensuring access to support services, highlighted the need for
 the tech sector to improve safety in the design of their products, and
 discussed how parents, teachers, school administrators, and law
@@ -56,7 +56,7 @@ Administration officials reaffirmed the White House’s commitment to
 addressing online harassment and abuse, including through the Task
 Force, and the [Global Partnership for Action on Gender-Based Online
 Harassment and
-Abuse](https://www.whitehouse.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/).
+Abuse](https://bidenwhitehouse.archives.gov/gpc/briefing-room/2022/03/18/launching-the-global-partnership-for-action-on-gender-based-online-harassment-and-abuse/).
  The Task Force will produce recommendations for preventing and
 addressing technology-facilitated gender-based violence, and will share
 guidance and resources for supporting and engaging state governments,

@@ -2,7 +2,7 @@
 date: '2023-07-11'
 modified_time: 2023-07-11 14:02:43-04:00
 published_time: 2023-07-11 14:02:42-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/11/notice-on-the-continuation-of-the-national-emergency-with-respect-to-hong-kong-3/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency with Respect to Hong\_\
   Kong"

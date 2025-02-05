@@ -1,7 +1,7 @@
 ---
 date: '2022-09-12'
 published_time: 2022-09-12 21:43:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-2022-u-s-mexico-high-level-economic-dialogue/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/12/fact-sheet-2022-u-s-mexico-high-level-economic-dialogue/
 tags: statements-releases
 title: "FACT SHEET: 2022 U.S. \u2013 Mexico High-Level Economic Dialogue"
 ---

@@ -2,7 +2,7 @@
 date: '2023-10-30'
 modified_time: 2023-10-31 13:20:51-04:00
 published_time: 2023-10-30 17:05:39-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/g7-leaders-statement-on-the-hiroshima-ai-process/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/30/g7-leaders-statement-on-the-hiroshima-ai-process/
 tags: statements-releases
 title: "G7 Leaders\u2019 Statement on the Hiroshima AI\_Process"
 ---

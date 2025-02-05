@@ -1,7 +1,7 @@
 ---
 date: '2023-08-11'
 published_time: 2023-08-11 11:20:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/11/statement-from-national-security-advisor-jake-sullivan-on-successful-transfer-of-oil-from-tanker-in-red-sea/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/08/11/statement-from-national-security-advisor-jake-sullivan-on-successful-transfer-of-oil-from-tanker-in-red-sea/
 tags: statements-releases
 title: "Statement from National Security Advisor Jake Sullivan on Successful Transfer\
   \ of Oil from Tanker in Red\_Sea"

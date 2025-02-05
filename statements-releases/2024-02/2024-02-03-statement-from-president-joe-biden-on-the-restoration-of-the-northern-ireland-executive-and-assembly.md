@@ -1,7 +1,7 @@
 ---
 date: '2024-02-03'
 published_time: 2024-02-03 15:17:04-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/03/statement-from-president-joe-biden-on-the-restoration-of-the-northern-ireland-executive-and-assembly/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/03/statement-from-president-joe-biden-on-the-restoration-of-the-northern-ireland-executive-and-assembly/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Restoration of the Northern Ireland\
   \ Executive and\_Assembly"

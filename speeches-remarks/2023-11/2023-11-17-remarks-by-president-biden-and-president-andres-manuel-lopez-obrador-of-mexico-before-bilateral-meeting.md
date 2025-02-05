@@ -1,7 +1,7 @@
 ---
 date: '2023-11-17'
 published_time: 2023-11-17 17:05:13-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-and-president-andres-manuel-lopez-obrador-of-mexico-before-bilateral-meeting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/11/17/remarks-by-president-biden-and-president-andres-manuel-lopez-obrador-of-mexico-before-bilateral-meeting/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Andr\xE9s Manuel L\xF3pez Obrador\
   \ of Mexico Before Bilateral\_Meeting"

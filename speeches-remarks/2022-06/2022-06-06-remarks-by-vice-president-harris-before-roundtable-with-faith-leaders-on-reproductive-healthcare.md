@@ -2,7 +2,7 @@
 date: '2022-06-06'
 modified_time: 2022-06-06 20:47:05-04:00
 published_time: 2022-06-06 20:47:04-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/06/06/remarks-by-vice-president-harris-before-roundtable-with-faith-leaders-on-reproductive-healthcare/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/06/06/remarks-by-vice-president-harris-before-roundtable-with-faith-leaders-on-reproductive-healthcare/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris Before Roundtable with Faith Leaders on Reproductive\_\
   Healthcare"

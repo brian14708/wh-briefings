@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-08-10'
 modified_time: 2021-08-10 19:26:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-president-biden-on-the-senate-passage-of-the-bipartisan-infrastructure-investment-and-jobs-act/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/08/10/remarks-by-president-biden-on-the-senate-passage-of-the-bipartisan-infrastructure-investment-and-jobs-act/
 published_time: 2021-08-10 18:30:00-04:00
 title: "Remarks by President\_Biden on the Senate Passage of the Bipartisan Infrastructure\
   \ Investment and Jobs\_Act"

@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 published_time: 2023-02-21 08:55:23-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/21/on-the-record-press-call-by-national-security-advisor-jake-sullivan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/02/21/on-the-record-press-call-by-national-security-advisor-jake-sullivan/
 tags: press-briefings
 title: "On-the-Record Press Call by National Security Advisor Jake\_Sullivan"
 ---

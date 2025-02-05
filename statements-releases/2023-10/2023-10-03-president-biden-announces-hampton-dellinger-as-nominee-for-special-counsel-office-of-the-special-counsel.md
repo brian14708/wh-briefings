@@ -2,7 +2,7 @@
 date: '2023-10-03'
 modified_time: 2023-10-03 12:47:49-04:00
 published_time: 2023-10-03 15:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/03/president-biden-announces-hampton-dellinger-as-nominee-for-special-counsel-office-of-the-special-counsel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/10/03/president-biden-announces-hampton-dellinger-as-nominee-for-special-counsel-office-of-the-special-counsel/
 tags: statements-releases
 title: "President\_Biden Announces Hampton Dellinger as Nominee for Special Counsel,\
   \ Office of the Special\_Counsel"

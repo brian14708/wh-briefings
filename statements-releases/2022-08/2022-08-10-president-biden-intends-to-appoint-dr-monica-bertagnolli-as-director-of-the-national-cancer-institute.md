@@ -2,7 +2,7 @@
 date: '2022-08-10'
 modified_time: 2022-08-10 09:24:49-04:00
 published_time: 2022-08-10 09:24:48-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/10/president-biden-intends-to-appoint-dr-monica-bertagnolli-as-director-of-the-national-cancer-institute/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/10/president-biden-intends-to-appoint-dr-monica-bertagnolli-as-director-of-the-national-cancer-institute/
 tags: statements-releases
 title: "President\_Biden Intends to Appoint Dr. Monica Bertagnolli as Director of\
   \ the National Cancer\_Institute"

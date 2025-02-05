@@ -2,7 +2,7 @@
 date: '2022-11-02'
 modified_time: 2022-11-02 17:22:22-04:00
 published_time: 2022-11-02 17:22:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-vice-president-harris-on-inflation-reduction-act-home-rebates-announcement/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/02/remarks-by-vice-president-harris-on-inflation-reduction-act-home-rebates-announcement/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris on Inflation Reduction Act Home Rebates\_\
   Announcement"

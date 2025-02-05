@@ -1,7 +1,7 @@
 ---
 date: '2022-09-08'
 published_time: 2022-09-08 15:11:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/08/a-proclamation-on-the-death-of-queen-elizabeth-ii/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/08/a-proclamation-on-the-death-of-queen-elizabeth-ii/
 tags: presidential-actions
 title: "A Proclamation on the\_Death of Queen Elizabeth\_II"
 ---

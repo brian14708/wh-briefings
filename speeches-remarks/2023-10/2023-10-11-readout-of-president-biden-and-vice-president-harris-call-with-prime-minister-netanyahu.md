@@ -2,7 +2,7 @@
 date: '2023-10-11'
 modified_time: 2023-10-11 12:19:41-04:00
 published_time: 2023-10-11 12:19:40-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/10/11/readout-of-president-biden-and-vice-president-harris-call-with-prime-minister-netanyahu/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/10/11/readout-of-president-biden-and-vice-president-harris-call-with-prime-minister-netanyahu/
 tags: speeches-remarks
 title: "Readout of President\_Biden and Vice President Harris\u2019 Call with Prime\
   \ Minister\_Netanyahu"

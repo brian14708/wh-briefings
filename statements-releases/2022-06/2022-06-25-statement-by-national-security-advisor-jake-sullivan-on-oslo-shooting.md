@@ -1,7 +1,7 @@
 ---
 date: '2022-06-25'
 published_time: 2022-06-25 14:01:56-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/25/statement-by-national-security-advisor-jake-sullivan-on-oslo-shooting/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/25/statement-by-national-security-advisor-jake-sullivan-on-oslo-shooting/
 tags: statements-releases
 title: "Statement by National Security Advisor Jake Sullivan on Oslo\_Shooting"
 ---

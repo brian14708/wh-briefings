@@ -1,7 +1,7 @@
 ---
 date: '2023-12-15'
 published_time: 2023-12-15 12:00:20-05:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/15/a-proclamation-on-wright-brothers-day-2023/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/12/15/a-proclamation-on-wright-brothers-day-2023/
 tags: presidential-actions
 title: "A Proclamation on Wright Brothers Day,\_2023"
 ---

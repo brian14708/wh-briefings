@@ -2,7 +2,7 @@
 date: '2022-06-08'
 modified_time: 2022-06-08 19:22:28-04:00
 published_time: 2022-06-08 19:22:27-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/08/readout-of-white-house-meeting-with-young-leaders-on-reproductive-justice-and-civil-rights/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/08/readout-of-white-house-meeting-with-young-leaders-on-reproductive-justice-and-civil-rights/
 tags: statements-releases
 title: "Readout of White\_House Meeting with Young Leaders on Reproductive Justice\
   \ and Civil\_Rights"

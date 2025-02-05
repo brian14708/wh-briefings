@@ -2,7 +2,7 @@
 date: '2022-06-29'
 modified_time: 2022-06-29 10:12:16-04:00
 published_time: 2022-06-29 10:12:15-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/29/readout-of-president-bidens-trilateral-with-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-fumio-kishida-of-japan/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/29/readout-of-president-bidens-trilateral-with-president-yoon-suk-yeol-of-the-republic-of-korea-and-prime-minister-fumio-kishida-of-japan/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Trilateral with President Yoon Suk Yeol\
   \ of the Republic of Korea and Prime Minister Fumio Kishida of\_Japan"

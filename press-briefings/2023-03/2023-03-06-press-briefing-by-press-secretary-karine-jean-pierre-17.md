@@ -2,7 +2,7 @@
 date: '2023-03-06'
 modified_time: 2023-03-06 18:40:19-05:00
 published_time: 2023-03-06 18:40:18-05:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/03/06/press-briefing-by-press-secretary-karine-jean-pierre-17/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/03/06/press-briefing-by-press-secretary-karine-jean-pierre-17/
 tags: press-briefings
 title: "Press Briefing by Press Secretary Karine\_Jean-Pierre"
 ---

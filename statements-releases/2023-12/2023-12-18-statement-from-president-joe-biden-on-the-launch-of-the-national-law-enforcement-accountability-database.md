@@ -2,7 +2,7 @@
 date: '2023-12-18'
 modified_time: 2023-12-17 21:16:39-05:00
 published_time: 2023-12-18 13:30:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/18/statement-from-president-joe-biden-on-the-launch-of-the-national-law-enforcement-accountability-database/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/18/statement-from-president-joe-biden-on-the-launch-of-the-national-law-enforcement-accountability-database/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on the Launch of the National Law Enforcement\
   \ Accountability\_Database"

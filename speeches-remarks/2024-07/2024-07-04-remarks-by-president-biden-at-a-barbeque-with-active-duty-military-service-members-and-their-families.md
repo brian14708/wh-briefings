@@ -2,7 +2,7 @@
 date: '2024-07-04'
 modified_time: 2024-07-05 12:27:15-04:00
 published_time: 2024-07-04 18:13:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/07/04/remarks-by-president-biden-at-a-barbeque-with-active-duty-military-service-members-and-their-families/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/07/04/remarks-by-president-biden-at-a-barbeque-with-active-duty-military-service-members-and-their-families/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Barbeque with Active-Duty Military Service\
   \ Members and Their\_Families"

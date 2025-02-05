@@ -1,7 +1,7 @@
 ---
 date: '2024-05-24'
 published_time: 2024-05-24 13:58:19-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/24/white-house-readout-of-meeting-with-community-lenders-expanding-capital-for-underserved-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/24/white-house-readout-of-meeting-with-community-lenders-expanding-capital-for-underserved-communities/
 tags: statements-releases
 title: "White\_House Readout of Meeting with Community Lenders Expanding Capital for\
   \ Underserved\_Communities"

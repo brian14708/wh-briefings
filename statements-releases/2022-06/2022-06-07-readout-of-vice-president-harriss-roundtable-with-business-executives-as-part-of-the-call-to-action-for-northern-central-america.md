@@ -2,7 +2,7 @@
 date: '2022-06-07'
 modified_time: 2022-06-07 22:41:10-04:00
 published_time: 2022-06-07 22:41:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/07/readout-of-vice-president-harriss-roundtable-with-business-executives-as-part-of-the-call-to-action-for-northern-central-america/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/07/readout-of-vice-president-harriss-roundtable-with-business-executives-as-part-of-the-call-to-action-for-northern-central-america/
 tags: statements-releases
 title: "Readout of Vice President Harris\u2019s Roundtable with Business Executives\
   \ as Part of the Call to Action for Northern Central\_America"

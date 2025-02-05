@@ -1,7 +1,7 @@
 ---
 date: '2022-12-23'
 published_time: 2022-12-23 10:33:57-05:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/12/23/press-release-bill-signed-h-r-7776/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/12/23/press-release-bill-signed-h-r-7776/
 tags: legislation
 title: "Press Release: Bill Signed: H.R.\_7776"
 ---

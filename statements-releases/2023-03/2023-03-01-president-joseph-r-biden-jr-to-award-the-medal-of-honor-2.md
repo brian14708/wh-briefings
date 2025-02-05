@@ -1,7 +1,7 @@
 ---
 date: '2023-03-01'
 published_time: 2023-03-01 16:03:47-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/01/president-joseph-r-biden-jr-to-award-the-medal-of-honor-2/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/01/president-joseph-r-biden-jr-to-award-the-medal-of-honor-2/
 tags: statements-releases
 title: "President Joseph R. Biden, Jr. to Award the Medal of\_Honor"
 ---

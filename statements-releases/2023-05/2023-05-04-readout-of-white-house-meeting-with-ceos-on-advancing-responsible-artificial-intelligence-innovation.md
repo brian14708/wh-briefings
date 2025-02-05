@@ -2,7 +2,7 @@
 date: '2023-05-04'
 modified_time: 2023-05-04 16:59:21-04:00
 published_time: 2023-05-04 16:59:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/readout-of-white-house-meeting-with-ceos-on-advancing-responsible-artificial-intelligence-innovation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/readout-of-white-house-meeting-with-ceos-on-advancing-responsible-artificial-intelligence-innovation/
 tags: statements-releases
 title: "Readout of White\_House Meeting with CEOs on Advancing Responsible Artificial\
   \ Intelligence\_Innovation"
@@ -49,11 +49,11 @@ others on critical AI issues. This effort builds on the considerable
 steps the Administration has taken to date to promote responsible
 innovation and risk mitigation in AI. This includes [additional actions
 announced this
-morning](https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/),
+morning](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/),
 the [Blueprint for an AI Bill of
-Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) and [related
+Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) and [related
 executive
-actions](https://www.whitehouse.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/),
+actions](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/10/04/fact-sheet-biden-harris-administration-announces-key-actions-to-advance-tech-accountability-and-protect-the-rights-of-the-american-public/),
 the [AI Risk Management
 Framework](https://www.nist.gov/itl/ai-risk-management-framework), and
 a [roadmap for standing up a National AI Research

@@ -2,7 +2,7 @@
 date: '2024-05-08'
 modified_time: 2024-05-08 13:15:15-04:00
 published_time: 2024-05-08 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-4/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/05/08/notice-on-the-continuation-of-the-national-emergency-with-respect-to-the-actions-of-the-government-of-syria-4/
 tags: presidential-actions
 title: "Notice on the Continuation of the National Emergency With Respect to the Actions\
   \ of the Government of\_Syria"

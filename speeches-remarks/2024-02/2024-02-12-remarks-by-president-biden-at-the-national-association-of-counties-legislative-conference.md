@@ -1,7 +1,7 @@
 ---
 date: '2024-02-12'
 published_time: 2024-02-12 14:15:14-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/02/12/remarks-by-president-biden-at-the-national-association-of-counties-legislative-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/02/12/remarks-by-president-biden-at-the-national-association-of-counties-legislative-conference/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the National Association of Counties Legislative\_\
   Conference"

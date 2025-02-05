@@ -1,7 +1,7 @@
 ---
 date: '2024-06-07'
 published_time: 2024-06-07 10:39:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/06/07/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/06/07/remarks-by-president-biden-and-president-volodymyr-zelenskyy-of-ukraine-before-bilateral-meeting-5/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and President Volodymyr Zelenskyy of Ukraine Before\
   \ Bilateral\_Meeting"

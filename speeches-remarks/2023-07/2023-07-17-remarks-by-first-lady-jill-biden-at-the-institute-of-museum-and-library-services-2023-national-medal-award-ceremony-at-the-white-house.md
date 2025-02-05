@@ -1,7 +1,7 @@
 ---
 date: '2023-07-17'
 published_time: 2023-07-17 18:28:11-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/17/remarks-by-first-lady-jill-biden-at-the-institute-of-museum-and-library-services-2023-national-medal-award-ceremony-at-the-white-house/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/17/remarks-by-first-lady-jill-biden-at-the-institute-of-museum-and-library-services-2023-national-medal-award-ceremony-at-the-white-house/
 tags: speeches-remarks
 title: "Remarks by First Lady Jill\_Biden at the Institute of Museum and Library Services\
   \ 2023 National Medal Award Ceremony at the White\_House"

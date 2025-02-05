@@ -1,7 +1,7 @@
 ---
 date: '2024-02-28'
 published_time: 2024-02-28 18:59:01-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/28/statement-by-karine-jean-pierre-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-ivf/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/28/statement-by-karine-jean-pierre-on-senate-republicans-blocking-efforts-to-safeguard-nationwide-access-to-ivf/
 tags: statements-releases
 title: "Statement by Karine Jean-Pierre on Senate Republicans Blocking Efforts to\
   \ Safeguard Nationwide Access to\_IVF"

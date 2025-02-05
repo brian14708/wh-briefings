@@ -2,7 +2,7 @@
 date: '2022-04-28'
 modified_time: 2022-04-28 11:43:24-04:00
 published_time: 2022-04-28 11:34:57-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-white-house-calls-on-congress-to-provide-additional-support-for-ukraine/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/fact-sheet-white-house-calls-on-congress-to-provide-additional-support-for-ukraine/
 tags: statements-releases
 title: "FACT SHEET: White\_House Calls on Congress to Provide Additional Support for\_\
   Ukraine"
@@ -13,7 +13,7 @@ to date has made a significant difference on the battlefield, helping
 Ukrainians defend their country and win the battle for Kyiv. Now, as the
 war shifts to and intensifies in Ukraine’s eastern front, the
 Biden-Harris Administration is [calling
-on](https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/28/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2022-emergency-supplemental-funding/)
+on](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/28/letter-to-the-speaker-of-the-house-of-representatives-on-fiscal-year-2022-emergency-supplemental-funding/)
 Congress to provide additional resources to help ensure Ukraine’s
 democracy prevails over Putin’s aggression.  
   

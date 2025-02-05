@@ -2,7 +2,7 @@
 date: '2023-03-17'
 modified_time: 2023-03-17 11:43:40-04:00
 published_time: 2023-03-17 11:50:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/17/statement-from-the-president-on-holding-senior-bank-executives-accountable/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/17/statement-from-the-president-on-holding-senior-bank-executives-accountable/
 tags: statements-releases
 title: "Statement from President Joe\_Biden on Holding Senior Bank Executives\_Accountable"
 ---

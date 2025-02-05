@@ -2,7 +2,7 @@
 date: '2022-05-17'
 modified_time: 2022-05-17 22:24:18-04:00
 published_time: 2022-05-17 22:24:17-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/17/readout-of-president-bidens-call-with-new-mexico-governor-michelle-lujan-grisham/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/17/readout-of-president-bidens-call-with-new-mexico-governor-michelle-lujan-grisham/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Call with New Mexico Governor Michelle\
   \ Lujan\_Grisham"

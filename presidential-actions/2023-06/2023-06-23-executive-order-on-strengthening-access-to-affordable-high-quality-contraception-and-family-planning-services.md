@@ -1,7 +1,7 @@
 ---
 date: '2023-06-23'
 published_time: 2023-06-23 13:18:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/06/23/executive-order-on-strengthening-access-to-affordable-high-quality-contraception-and-family-planning-services/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/06/23/executive-order-on-strengthening-access-to-affordable-high-quality-contraception-and-family-planning-services/
 tags: presidential-actions
 title: "Executive Order on Strengthening Access to Affordable, High-Quality Contraception\
   \ and Family Planning\_Services"

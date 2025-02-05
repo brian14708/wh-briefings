@@ -2,7 +2,7 @@
 date: '2023-01-17'
 modified_time: 2023-01-16 21:13:39-05:00
 published_time: 2023-01-17 09:01:00-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/01/17/fact-sheet-biden-harris-administration-continues-to-uplift-asian-american-native-hawaiian-and-pacific-islander-communities/
 tags: statements-releases
 title: "FACT SHEET: Biden-\u2060Harris Administration Continues to Uplift Asian American,\
   \ Native Hawaiian, and Pacific Islander\_Communities"
@@ -16,7 +16,7 @@ strategy, which comprises action plans prepared by 32 federal
 agencies—including all 15 executive departments in the President’s
 Cabinet—builds on the Administration’s [broader equity
 agenda](https://whitehouse.gov/equity) and details [much needed
-investments](https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/)
+investments](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/01/20/fact-sheet-biden-harris-administration-advances-equity-and-opportunity-for-asian-american-native-hawaiian-and-pacific-islander-communities-across-the-country/)
 in AA and NHPI communities and priorities, including data
 disaggregation, language access, and combatting anti-Asian hate.
 
@@ -24,7 +24,7 @@ disaggregation, language access, and combatting anti-Asian hate.
 here*](https://whitehouse.gov/aanhpistrategy2023)*.*
 
 President Joe Biden signed [Executive Order
-14031](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/28/executive-order-on-advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders/)
+14031](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/05/28/executive-order-on-advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders/)
 in May 2021, delivering on his commitment to establish and reinvigorate
 the [White House Initiative on Asian Americans, Native Hawaiians, and
 Pacific Islanders](https://www.hhs.gov/about/whiaanhpi/index.html)

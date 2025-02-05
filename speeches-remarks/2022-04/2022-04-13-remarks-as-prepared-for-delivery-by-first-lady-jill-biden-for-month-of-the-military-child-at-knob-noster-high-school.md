@@ -2,7 +2,7 @@
 date: '2022-04-13'
 modified_time: 2022-04-13 16:17:29-04:00
 published_time: 2022-04-13 16:17:28-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/04/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-for-month-of-the-military-child-at-knob-noster-high-school/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/04/13/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-for-month-of-the-military-child-at-knob-noster-high-school/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden for Month of the\
   \ Military Child at Knob Noster High\_School"

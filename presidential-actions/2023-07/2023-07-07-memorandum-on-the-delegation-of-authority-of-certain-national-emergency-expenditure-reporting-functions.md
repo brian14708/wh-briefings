@@ -1,7 +1,7 @@
 ---
 date: '2023-07-07'
 published_time: 2023-07-07 19:03:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/07/07/memorandum-on-the-delegation-of-authority-of-certain-national-emergency-expenditure-reporting-functions/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/07/memorandum-on-the-delegation-of-authority-of-certain-national-emergency-expenditure-reporting-functions/
 tags: presidential-actions
 title: "Memorandum on the Delegation of Authority of Certain National Emergency Expenditure\
   \ Reporting\_Functions"

@@ -2,7 +2,7 @@
 date: '2023-09-20'
 modified_time: 2023-09-20 17:50:53-04:00
 published_time: 2023-09-20 18:03:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2023/09/20/executive-order-on-ensuring-the-people-of-east-palestine-are-protected-now-and-in-the-future/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/09/20/executive-order-on-ensuring-the-people-of-east-palestine-are-protected-now-and-in-the-future/
 tags: presidential-actions
 title: "Executive Order on Ensuring the People of East Palestine Are Protected Now\
   \ and in the\_Future"

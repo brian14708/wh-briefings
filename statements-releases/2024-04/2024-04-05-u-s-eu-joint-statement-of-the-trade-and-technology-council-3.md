@@ -1,7 +1,7 @@
 ---
 date: '2024-04-05'
 published_time: 2024-04-05 19:07:20-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/05/u-s-eu-joint-statement-of-the-trade-and-technology-council-3/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/05/u-s-eu-joint-statement-of-the-trade-and-technology-council-3/
 tags: statements-releases
 title: "U.S-EU Joint Statement of the Trade and Technology\_Council"
 ---
@@ -216,7 +216,7 @@ proposed a comprehensive set of critical strategic reflections and
 recommendations from academia and industry. On 26 February 2024, ten
 countries, including some EU Member States concluded a [joint statement
 on
-6G](https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/joint-statement-endorsing-principles-for-6g-secure-open-and-resilient-by-design/).
+6G](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/26/joint-statement-endorsing-principles-for-6g-secure-open-and-resilient-by-design/).
 
 These milestones have contributed to shaping the joint “[6G
 vision](https://digital-strategy.ec.europa.eu/en/library/advancing-6g-vision-transatlantic-collaboration)”

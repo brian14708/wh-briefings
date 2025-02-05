@@ -1,7 +1,7 @@
 ---
 date: '2024-02-06'
 published_time: 2024-02-06 12:55:12-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/06/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-travel-to-belgium/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/06/statement-from-nsc-spokesperson-adrienne-watson-on-national-security-advisor-jake-sullivans-travel-to-belgium/
 tags: statements-releases
 title: "Statement from NSC Spokesperson Adrienne Watson on National Security Advisor\
   \ Jake Sullivan\u2019s Travel to\_Belgium"

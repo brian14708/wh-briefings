@@ -1,7 +1,7 @@
 ---
 date: '2023-07-11'
 published_time: 2023-07-11 08:50:08-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-in-official-greeting-vilnius-lithuania/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/07/11/remarks-by-president-biden-and-nato-secretary-general-jens-stoltenberg-in-official-greeting-vilnius-lithuania/
 tags: speeches-remarks
 title: "Remarks by President\_Biden and NATO Secretary General Jens Stoltenberg in\
   \ Official Greeting | Vilnius,\_Lithuania"

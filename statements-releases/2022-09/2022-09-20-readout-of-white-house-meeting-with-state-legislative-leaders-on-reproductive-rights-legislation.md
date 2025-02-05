@@ -2,7 +2,7 @@
 date: '2022-09-20'
 modified_time: 2022-09-20 18:10:18-04:00
 published_time: 2022-09-20 18:15:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-legislation/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/09/20/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights-legislation/
 tags: statements-releases
 title: "Readout of White\_House Meeting with State Legislative Leaders on Reproductive\
   \ Rights\_Legislation"
@@ -21,10 +21,10 @@ abortions; advancing private and state funding of abortion services;
 taking steps to protect providers and patients; and codifying the right
 to abortion into state law. In May, prior to the Supreme Court’s
 decision in *Dobbs v. Jackson*, White House Senior Officials [met
-with](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/24/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights/)
+with](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/readout-of-white-house-meeting-with-state-legislative-leaders-on-reproductive-rights/)
 legislative leaders from states working on proactive reproductive rights
 legislation. A week after the decision, the President met with
-[Governors](https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/01/readout-of-president-bidens-meeting-with-governors-on-reproductive-rights/)
+[Governors](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/07/01/readout-of-president-bidens-meeting-with-governors-on-reproductive-rights/)
 to discuss opportunities for executive action and their support for
 proactive state legislative agendas to protect and expand access to
 reproductive health care. Since then, several states have passed

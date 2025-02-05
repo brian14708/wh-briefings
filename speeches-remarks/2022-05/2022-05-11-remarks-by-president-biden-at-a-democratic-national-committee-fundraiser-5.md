@@ -2,7 +2,7 @@
 date: '2022-05-11'
 modified_time: 2022-05-11 23:19:10-04:00
 published_time: 2022-05-11 23:19:09-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-at-a-democratic-national-committee-fundraiser-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/05/11/remarks-by-president-biden-at-a-democratic-national-committee-fundraiser-5/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at a Democratic National Committee\_Fundraiser"
 ---

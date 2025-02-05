@@ -2,7 +2,7 @@
 date: '2024-02-12'
 modified_time: 2024-02-12 15:15:33-05:00
 published_time: 2024-02-12 15:15:32-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/12/readout-of-dominican-day-diaspora-event/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/02/12/readout-of-dominican-day-diaspora-event/
 tags: statements-releases
 title: "Readout of Dominican Day Diaspora\_Event"
 ---

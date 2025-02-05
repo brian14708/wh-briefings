@@ -1,7 +1,7 @@
 ---
 date: '2023-02-16'
 published_time: 2023-02-16 18:39:21-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/16/remarks-by-president-biden-at-till-movie-screening/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/02/16/remarks-by-president-biden-at-till-movie-screening/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at \u201CTill\u201D Movie\_Screening"
 ---

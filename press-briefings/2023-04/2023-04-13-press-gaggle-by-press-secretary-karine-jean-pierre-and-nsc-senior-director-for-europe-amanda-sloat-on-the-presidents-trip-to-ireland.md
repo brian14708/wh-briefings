@@ -2,7 +2,7 @@
 date: '2023-04-13'
 modified_time: 2023-04-13 08:04:07-04:00
 published_time: 2023-04-13 08:04:05-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/04/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-senior-director-for-europe-amanda-sloat-on-the-presidents-trip-to-ireland/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/04/13/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-senior-director-for-europe-amanda-sloat-on-the-presidents-trip-to-ireland/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Senior Director\
   \ for Europe Amanda Sloat on the President\u2019s Trip to\_Ireland"

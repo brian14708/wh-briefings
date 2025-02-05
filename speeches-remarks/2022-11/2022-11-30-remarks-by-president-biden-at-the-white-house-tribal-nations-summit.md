@@ -2,7 +2,7 @@
 date: '2022-11-30'
 modified_time: 2022-11-30 18:05:50-05:00
 published_time: 2022-11-30 18:05:49-05:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-president-biden-at-the-white-house-tribal-nations-summit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/11/30/remarks-by-president-biden-at-the-white-house-tribal-nations-summit/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at the White\_House Tribal Nations\_Summit"
 ---

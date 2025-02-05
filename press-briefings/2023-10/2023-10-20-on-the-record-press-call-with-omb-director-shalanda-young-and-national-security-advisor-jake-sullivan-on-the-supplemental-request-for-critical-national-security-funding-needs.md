@@ -2,7 +2,7 @@
 date: '2023-10-20'
 modified_time: 2023-10-20 11:20:11-04:00
 published_time: 2023-10-20 11:20:10-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/20/on-the-record-press-call-with-omb-director-shalanda-young-and-national-security-advisor-jake-sullivan-on-the-supplemental-request-for-critical-national-security-funding-needs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/10/20/on-the-record-press-call-with-omb-director-shalanda-young-and-national-security-advisor-jake-sullivan-on-the-supplemental-request-for-critical-national-security-funding-needs/
 tags: press-briefings
 title: "On-the-Record Press Call with OMB Director Shalanda Young and National Security\
   \ Advisor Jake Sullivan on the Supplemental Request for Critical National Security\

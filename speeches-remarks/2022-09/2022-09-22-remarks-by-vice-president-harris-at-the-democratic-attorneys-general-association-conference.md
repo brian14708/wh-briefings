@@ -1,7 +1,7 @@
 ---
 date: '2022-09-22'
 published_time: 2022-09-22 20:04:47-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-vice-president-harris-at-the-democratic-attorneys-general-association-conference/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/09/22/remarks-by-vice-president-harris-at-the-democratic-attorneys-general-association-conference/
 tags: speeches-remarks
 title: "Remarks by Vice President Harris at the Democratic Attorneys General Association\_\
   Conference"

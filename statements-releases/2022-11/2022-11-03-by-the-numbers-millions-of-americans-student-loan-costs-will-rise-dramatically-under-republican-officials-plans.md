@@ -1,7 +1,7 @@
 ---
 date: '2022-11-03'
 published_time: 2022-11-03 08:28:44-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/03/by-the-numbers-millions-of-americans-student-loan-costs-will-rise-dramatically-under-republican-officials-plans/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/11/03/by-the-numbers-millions-of-americans-student-loan-costs-will-rise-dramatically-under-republican-officials-plans/
 tags: statements-releases
 title: "By The Numbers: Millions of Americans\u2019 Student Loan Costs Will Rise Dramatically\
   \ Under Republican Officials\u2019\_Plans"

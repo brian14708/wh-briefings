@@ -2,7 +2,7 @@
 date: '2024-09-06'
 modified_time: 2024-09-09 13:43:35-04:00
 published_time: 2024-09-06 16:38:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/09/06/remarks-by-president-biden-on-the-investing-in-america-agenda-ann-arbor-mi/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2024/09/06/remarks-by-president-biden-on-the-investing-in-america-agenda-ann-arbor-mi/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on the Investing in America Agenda | Ann Arbor,\_\
   MI"

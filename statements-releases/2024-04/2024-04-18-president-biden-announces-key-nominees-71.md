@@ -2,7 +2,7 @@
 date: '2024-04-18'
 modified_time: 2024-04-18 13:55:21-04:00
 published_time: 2024-04-18 16:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/18/president-biden-announces-key-nominees-71/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/18/president-biden-announces-key-nominees-71/
 tags: statements-releases
 title: "President\_Biden Announces Key\_Nominees"
 ---

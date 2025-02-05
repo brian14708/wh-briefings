@@ -1,7 +1,7 @@
 ---
 date: '2022-10-24'
 published_time: 2022-10-24 13:05:41-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-cancer-moonshot-event-with-the-american-cancer-society-and-special-guest-mary-j-blige/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/24/remarks-as-prepared-for-delivery-by-first-lady-jill-biden-at-cancer-moonshot-event-with-the-american-cancer-society-and-special-guest-mary-j-blige/
 tags: speeches-remarks
 title: "Remarks as Prepared for Delivery by First Lady Jill\_Biden at Cancer Moonshot\
   \ Event with the American Cancer Society and Special Guest Mary J.\_Blige"

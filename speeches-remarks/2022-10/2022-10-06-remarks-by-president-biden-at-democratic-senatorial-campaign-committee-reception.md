@@ -2,7 +2,7 @@
 date: '2022-10-06'
 modified_time: 2022-10-07 12:42:02-04:00
 published_time: 2022-10-06 12:37:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/10/06/remarks-by-president-biden-at-democratic-senatorial-campaign-committee-reception/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/10/06/remarks-by-president-biden-at-democratic-senatorial-campaign-committee-reception/
 tags: speeches-remarks
 title: "Remarks by President\_Biden at Democratic Senatorial Campaign Committee\_\
   Reception"

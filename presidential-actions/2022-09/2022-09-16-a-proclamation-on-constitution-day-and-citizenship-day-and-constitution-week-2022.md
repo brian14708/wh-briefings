@@ -1,7 +1,7 @@
 ---
 date: '2022-09-16'
 published_time: 2022-09-16 11:55:35-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-constitution-day-and-citizenship-day-and-constitution-week-2022/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2022/09/16/a-proclamation-on-constitution-day-and-citizenship-day-and-constitution-week-2022/
 tags: presidential-actions
 title: "A Proclamation on Constitution Day and Citizenship Day, and Constitution Week,\_\
   2022"

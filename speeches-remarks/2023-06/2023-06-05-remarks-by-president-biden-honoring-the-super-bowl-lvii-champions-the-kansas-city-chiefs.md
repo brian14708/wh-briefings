@@ -1,7 +1,7 @@
 ---
 date: '2023-06-05'
 published_time: 2023-06-05 20:12:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/05/remarks-by-president-biden-honoring-the-super-bowl-lvii-champions-the-kansas-city-chiefs/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/06/05/remarks-by-president-biden-honoring-the-super-bowl-lvii-champions-the-kansas-city-chiefs/
 tags: speeches-remarks
 title: "Remarks by President\_Biden Honoring the Super Bowl LVII Champions, the Kansas\
   \ City\_Chiefs"

@@ -2,7 +2,7 @@
 date: '2024-10-29'
 modified_time: 2024-10-29 12:40:14-04:00
 published_time: 2024-10-29 12:40:13-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/readout-of-president-joe-bidens-call-with-president-bola-tinubu-of-nigeria/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/29/readout-of-president-joe-bidens-call-with-president-bola-tinubu-of-nigeria/
 tags: statements-releases
 title: "Readout of President Joe\_Biden\u2019s Call with President Bola Tinubu of\_\
   Nigeria"

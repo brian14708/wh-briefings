@@ -2,7 +2,7 @@
 date: '2022-04-11'
 modified_time: 2022-04-18 14:57:24-04:00
 published_time: 2022-04-11 15:06:51-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/04/11/first-lady-jill-biden-leads-administration-officials-in-call-for-puerto-rican-families-to-sign-up-for-the-american-rescue-plans-expanded-child-tax-credit/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/11/first-lady-jill-biden-leads-administration-officials-in-call-for-puerto-rican-families-to-sign-up-for-the-american-rescue-plans-expanded-child-tax-credit/
 tags: statements-releases
 title: "First Lady Jill\_Biden Leads Administration Officials in Call for Puerto Rican\
   \ Families to Sign Up for the American Rescue Plan\u2019s Expanded Child Tax\_Credit"

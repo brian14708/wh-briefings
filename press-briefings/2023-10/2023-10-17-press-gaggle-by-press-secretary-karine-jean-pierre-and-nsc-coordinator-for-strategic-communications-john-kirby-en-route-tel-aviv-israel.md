@@ -2,7 +2,7 @@
 date: '2023-10-17'
 modified_time: 2023-10-17 23:05:18-04:00
 published_time: 2023-10-17 23:05:16-04:00
-source_url: https://www.whitehouse.gov/briefing-room/press-briefings/2023/10/17/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-tel-aviv-israel/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2023/10/17/press-gaggle-by-press-secretary-karine-jean-pierre-and-nsc-coordinator-for-strategic-communications-john-kirby-en-route-tel-aviv-israel/
 tags: press-briefings
 title: "Press Gaggle by Press Secretary Karine Jean-Pierre and NSC Coordinator for\
   \ Strategic Communications John Kirby En Route Tel Aviv,\_Israel"

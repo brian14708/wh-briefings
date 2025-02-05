@@ -2,7 +2,7 @@
 date: '2024-04-17'
 modified_time: 2024-04-16 16:47:31-04:00
 published_time: 2024-04-17 09:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/presidential-actions/2024/04/17/president-biden-announces-local-d-c-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-marshal/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2024/04/17/president-biden-announces-local-d-c-judicial-nominees-and-one-new-nominee-to-serve-as-u-s-marshal/
 tags: presidential-actions
 title: "President\_Biden Announces Local D.C. Judicial Nominees and One New Nominee\
   \ to Serve as U.S.\_Marshal"

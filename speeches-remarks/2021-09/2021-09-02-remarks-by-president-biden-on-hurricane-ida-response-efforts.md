@@ -2,7 +2,7 @@
 tags: speeches-remarks
 date: '2021-09-02'
 modified_time: 2021-09-02 15:15:58-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/09/02/remarks-by-president-biden-on-hurricane-ida-response-efforts/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2021/09/02/remarks-by-president-biden-on-hurricane-ida-response-efforts/
 published_time: 2021-09-02 15:15:57-04:00
 title: "Remarks by President\_Biden on Hurricane Ida Response\_Efforts"
 ---

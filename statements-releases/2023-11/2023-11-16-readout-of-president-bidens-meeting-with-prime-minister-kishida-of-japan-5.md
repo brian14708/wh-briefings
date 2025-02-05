@@ -2,7 +2,7 @@
 date: '2023-11-16'
 modified_time: 2023-11-16 22:09:32-05:00
 published_time: 2023-11-16 22:09:31-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan-5/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/11/16/readout-of-president-bidens-meeting-with-prime-minister-kishida-of-japan-5/
 tags: statements-releases
 title: "Readout of President\_Biden\u2019s Meeting with Prime Minister Kishida of\_\
   Japan"

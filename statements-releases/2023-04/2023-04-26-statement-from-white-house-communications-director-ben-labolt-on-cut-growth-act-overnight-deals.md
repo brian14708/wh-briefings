@@ -1,7 +1,7 @@
 ---
 date: '2023-04-26'
 published_time: 2023-04-26 11:11:50-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/26/statement-from-white-house-communications-director-ben-labolt-on-cut-growth-act-overnight-deals/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/04/26/statement-from-white-house-communications-director-ben-labolt-on-cut-growth-act-overnight-deals/
 tags: statements-releases
 title: "Statement from White\_House Communications Director Ben LaBolt on Cut Growth\
   \ Act Overnight\_Deals"

@@ -2,7 +2,7 @@
 date: '2022-07-22'
 modified_time: 2022-07-22 17:26:08-04:00
 published_time: 2022-07-22 17:30:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/07/22/remarks-by-president-biden-during-economic-briefing-on-lowering-gas-prices/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2022/07/22/remarks-by-president-biden-during-economic-briefing-on-lowering-gas-prices/
 tags: speeches-remarks
 title: "Remarks by President\_Biden During Economic Briefing on Lowering Gas\_Prices"
 ---

@@ -2,7 +2,7 @@
 date: '2022-08-05'
 modified_time: 2022-08-05 15:36:03-04:00
 published_time: 2022-08-05 15:35:55-04:00
-source_url: https://www.whitehouse.gov/briefing-room/legislation/2022/08/05/bills-signed-h-r-7334-and-h-r-7352/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/legislation/2022/08/05/bills-signed-h-r-7334-and-h-r-7352/
 tags: legislation
 title: "Bills Signed: H.R. 7334 and H.R.\_7352"
 ---

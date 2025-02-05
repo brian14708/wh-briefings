@@ -2,7 +2,7 @@
 date: '2024-05-23'
 modified_time: 2024-05-24 17:19:34-04:00
 published_time: 2024-05-23 05:00:00-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/05/23/fact-sheet-kenya-state-visit-to-the-united-states/
 tags: statements-releases
 title: "FACT SHEET: Kenya State Visit to the United\_States"
 ---

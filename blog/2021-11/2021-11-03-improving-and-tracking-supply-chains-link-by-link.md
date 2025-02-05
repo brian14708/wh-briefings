@@ -2,7 +2,7 @@
 tags: blog
 date: '2021-11-03'
 modified_time: 2022-02-23 18:07:31-04:00
-source_url: https://www.whitehouse.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/blog/2021/11/03/improving-and-tracking-supply-chains-link-by-link/
 published_time: 2021-11-03 08:30:00-04:00
 title: "Improving and Tracking Supply Chains Link by\_Link"
 ---
@@ -20,7 +20,7 @@ systems are also global, and therefore the global nature of the pandemic
 has proven to be a profound disruption to supply chains since the
 pandemic first took hold in early 2020. That is why President Biden
 called for [greater coordination between our closest trading
-partners](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-summit-on-global-supply-chain-resilience-to-address-near-term-bottlenecks-and-tackle-long-term-challenges/)
+partners](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/31/fact-sheet-summit-on-global-supply-chain-resilience-to-address-near-term-bottlenecks-and-tackle-long-term-challenges/)
 to overcome these collective issues during the G-20 summit this weekend.
 
 While supply chain disruptions remain a challenging side effect of the
@@ -48,10 +48,10 @@ point in previous economic recoveries.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?w=640"
 class="wp-image-37087" loading="lazy"
 sizes="(max-width: 2147px) 100vw, 2147px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png 2147w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=615,409 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=768,510 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1270,844 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1536,1021 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=2048,1361 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=963,640 963w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1926,1280 1926w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=600,400 600w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1038,690 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png 2147w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=615,409 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=768,510 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1270,844 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1536,1021 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=2048,1361 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=963,640 963w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1926,1280 1926w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=600,400 600w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-1-recovery-in-real-personal-consumption-expenditures.png?resize=1038,690 1038w"
 width="2147" height="1427" />
 </figure>
 
@@ -62,7 +62,7 @@ food—has shot past pre-pandemic levels, and spending on services—like
 healthcare and vacations—has not yet returned to pre-pandemic trend
 levels. As the pandemic recedes, [spending on goods is expected to
 decline and spending on services to
-rise](https://www.whitehouse.gov/cea/blog/2021/10/26/bernsteins-beat-throughput-at-the-ports/?utm_source=twitter).
+rise](https://bidenwhitehouse.archives.gov/cea/blog/2021/10/26/bernsteins-beat-throughput-at-the-ports/?utm_source=twitter).
 We are already seeing that with spending on goods in September well
 below its April 2021 peak, but we still have a ways to go. In the
 meantime, our supply chains are moving record volumes of goods – and
@@ -74,10 +74,10 @@ critical for reducing disruptions.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?w=640"
 class="wp-image-37089" loading="lazy"
 sizes="(max-width: 2092px) 100vw, 2092px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png 2092w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=615,481 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=768,600 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1270,993 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1536,1200 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=2048,1601 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=819,640 819w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1638,1280 1638w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1038,811 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png 2092w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=615,481 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=768,600 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1270,993 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1536,1200 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=2048,1601 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=819,640 819w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1638,1280 1638w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-2-real-expenditures-on-goods-and-services.png?resize=1038,811 1038w"
 width="2092" height="1635" />
 </figure>
 
@@ -112,10 +112,10 @@ previous record.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/fig3-supply-chain.png"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/fig3-supply-chain.png"
 class="wp-image-37103" loading="lazy"
 sizes="(max-width: 662px) 100vw, 662px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/fig3-supply-chain.png 662w, https://www.whitehouse.gov/wp-content/uploads/2021/11/fig3-supply-chain.png?resize=615,336 615w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/fig3-supply-chain.png 662w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/fig3-supply-chain.png?resize=615,336 615w"
 width="662" height="362" />
 </figure>
 
@@ -155,10 +155,10 @@ September retail inventory numbers.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?w=640"
 class="wp-image-37093" loading="lazy"
 sizes="(max-width: 2147px) 100vw, 2147px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png 2147w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=615,346 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=768,432 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1270,715 1270w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1536,864 1536w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=2048,1152 2048w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=304,171 304w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=608,342 608w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1200,675 1200w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=2400,1350 2400w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1137,640 1137w, https://www.whitehouse.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1038,584 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png 2147w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=615,346 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=768,432 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1270,715 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1536,864 1536w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=2048,1152 2048w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=304,171 304w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=608,342 608w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1200,675 1200w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=2400,1350 2400w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1137,640 1137w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/figure-4-store-shelves-have-recovered-to-pre-pandemic-levels.png?resize=1038,584 1038w"
 width="2147" height="1208" />
 </figure>
 
@@ -177,10 +177,10 @@ to ease pressures on the goods movement supply chain.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg"
 class="wp-image-37101" loading="lazy"
 sizes="(max-width: 1259px) 100vw, 1259px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg 1259w, https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=615,320 615w, https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=768,400 768w, https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=1180,614 1180w, https://www.whitehouse.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=1038,540 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg 1259w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=615,320 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=768,400 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=1180,614 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/11/supply-chain-dashboard.jpg?resize=1038,540 1038w"
 width="1259" height="655" />
 </figure>
 
@@ -196,7 +196,7 @@ This poses a collective action problem in the largely private system
 that moves containers of goods from ships to docks to trains and trucks
 to get distributed to warehouses, factories, and stores. Which is why
 the [President issued a call to
-action](https://www.whitehouse.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
+action](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/10/13/fact-sheet-biden-administration-efforts-to-address-bottlenecks-at-ports-of-los-angeles-and-long-beach-moving-goods-from-ship-to-shelf/)
 to encourage every link in the goods movement chain to move towards a
 24/7 pace to increase the volume and pace of products flowing through
 the system. The Ports of Los Angeles and [Long
@@ -247,7 +247,7 @@ action.
 ## Moving Forward
 
 This is precisely what the Biden-Harris [Supply Chain Disruptions Task
-Force](https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
+Force](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/)
 has been set up to do: act as an honest broker to encourage companies,
 workers, and others to stop finger-pointing and start collaborating.
 Many have responded to this call, recognizing that a once-in-a-century
@@ -266,7 +266,7 @@ twice-a-month basis through at least the end of the year.
 
 We need to seize this moment to strengthen our country’s future
 competitiveness by focusing longer term on [building the
-resilience](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
+resilience](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/)
 of our nation’s supply chains. That includes a goods movement chain that
 is more resilient, fluid, and can operate at a higher velocity.  For too
 long, our country has underinvested in the roads, railways, ports and

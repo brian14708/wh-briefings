@@ -1,7 +1,7 @@
 ---
 date: '2023-12-13'
 published_time: 2023-12-13 16:49:50-05:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2023/12/13/readout-of-national-security-advisor-jake-sullivans-call-with-the-national-security-advisors-of-japan-and-the-philippines/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/12/13/readout-of-national-security-advisor-jake-sullivans-call-with-the-national-security-advisors-of-japan-and-the-philippines/
 tags: statements-releases
 title: "Readout of National Security Advisor Jake Sullivan\u2019s Call with the National\
   \ Security Advisors of Japan and the\_Philippines"

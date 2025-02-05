@@ -1,7 +1,7 @@
 ---
 date: '2023-09-06'
 published_time: 2023-09-06 21:32:24-04:00
-source_url: https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/09/06/remarks-by-president-biden-on-a-new-contract-covering-americas-west-coast-ports/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/speeches-remarks/2023/09/06/remarks-by-president-biden-on-a-new-contract-covering-americas-west-coast-ports/
 tags: speeches-remarks
 title: "Remarks by President\_Biden on a New Contract Covering America\u2019s West\
   \ Coast\_Ports"

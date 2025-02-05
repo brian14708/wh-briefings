@@ -2,7 +2,7 @@
 date: '2022-06-22'
 modified_time: 2022-06-22 11:28:53-04:00
 published_time: 2022-06-22 11:28:52-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/22/president-biden-announces-ninth-operation-fly-formula-mission/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/06/22/president-biden-announces-ninth-operation-fly-formula-mission/
 tags: statements-releases
 title: "President\_Biden Announces Ninth Operation Fly Formula\_Mission"
 ---
@@ -48,10 +48,10 @@ at whitehouse.gov/formula.
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?w=640"
+src="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?w=640"
 class="wp-image-56055" loading="lazy"
 sizes="(max-width: 1432px) 100vw, 1432px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg 1432w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=615,193 615w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=768,241 768w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1270,398 1270w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1180,370 1180w, https://www.whitehouse.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1038,325 1038w"
+srcset="https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg 1432w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=615,193 615w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=768,241 768w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1270,398 1270w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1180,370 1180w, https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/06/OFF9.jpg?resize=1038,325 1038w"
 width="1432" height="449" />
 </figure>
 

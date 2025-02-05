@@ -2,7 +2,7 @@
 tags: statements-releases
 date: '2021-06-30'
 modified_time: 2021-06-30 09:57:21-04:00
-source_url: https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/
+source_url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/30/fact-sheet-the-biden-harris-administration-acts-to-address-the-growing-wildfire-threat/
 published_time: 2021-06-30 11:00:00-04:00
 title: "FACT SHEET: The Biden-\u2060Harris Administration Acts to Address the Growing\
   \ Wildfire\_Threat"
@@ -157,7 +157,7 @@ location information to first responders, allowing them to attack fires
 more quickly.  NOAA is partnering with other Federal Departments and
 Agencies and state governments to expand the use of this technology and
 its associated notification system.  The [FY 2022 President’s
-Budget](https://www.whitehouse.gov/wp-content/uploads/2021/05/budget_fy22.pdf) includes
+Budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/budget_fy22.pdf) includes
 $15 million to support fire weather activities, including a new NOAA
 Fire Weather Testbed to provide improved operations, service delivery,
 and decision making based on the latest science and research.  This
@@ -292,7 +292,7 @@ reduce flood risk for communities.
   
 **Invest in extreme wildfire protection through the FY 2022
 Budget.  **The [FY 2022 President’s
-Budget](https://www.whitehouse.gov/wp-content/uploads/2021/05/budget_fy22.pdf) includes
+Budget](https://bidenwhitehouse.archives.gov/wp-content/uploads/2021/05/budget_fy22.pdf) includes
 over $30 billion in FY 2022 to support wildfire management and related
 activities and disaster relief.  This funding is necessary in order to
 ensure we have the resources necessary to better prepare and respond to
