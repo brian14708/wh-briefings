@@ -61,10 +61,10 @@ crises, the President shall take necessary steps to address the
 situation, including by immediate implementation of the tariffs
 described in the Executive Order of February 1, 2025.
 
-     <span
-style="text-decoration: underline">Sec. 4.  Severability.</span>  If any
-provision of this order, or the application of any provision to any
-person or circumstance, is held to be invalid, the remainder of this
+ 
+   <span style="text-decoration: underline">Sec. 4.  Severability.</span> 
+If any provision of this order, or the application of any provision to
+any person or circumstance, is held to be invalid, the remainder of this
 order and the application of its provisions to any other persons or
 circumstances shall not be affected thereby.
 

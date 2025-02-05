@@ -73,11 +73,11 @@ I hereby determine and order:
 
     <span style="text-decoration: underline"> Section 1.</span>  (a)  As
 President of the United States, my highest duty is the defense of the
-country and its citizens.<span
-style="text-decoration: underline"> </span> A Nation without borders is
-not a nation at all.  I will not stand by and allow our sovereignty to
-be eroded, our laws to be trampled, our citizens to be endangered, or
-our borders to be disrespected anymore.
+country and its
+citizens.<span style="text-decoration: underline"> </span> A Nation
+without borders is not a nation at all.  I will not stand by and allow
+our sovereignty to be eroded, our laws to be trampled, our citizens to
+be endangered, or our borders to be disrespected anymore.
 
 I previously declared a national emergency with respect to the grave
 threat to the United States posed by the influx of illegal aliens and
