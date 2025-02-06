@@ -1,5 +1,6 @@
 ---
 date: '2025-02-04'
+modified_time: 2025-02-06 09:12:57-05:00
 published_time: 2025-02-04 21:15:44-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/withdrawing-the-united-states-from-and-ending-funding-to-certain-united-nations-organizations-and-reviewing-united-states-support-to-all-international-organizations/
 tags: presidential-actions
