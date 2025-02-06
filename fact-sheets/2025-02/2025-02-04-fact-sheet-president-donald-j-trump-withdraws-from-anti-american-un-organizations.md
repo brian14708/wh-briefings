@@ -1,6 +1,6 @@
 ---
 date: '2025-02-04'
-modified_time: 2025-02-05 17:08:32-05:00
+modified_time: 2025-02-06 11:52:36-05:00
 published_time: 2025-02-04 21:12:28-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-withdraws-from-anti-american-un-organizations/
 tags: fact-sheets
@@ -138,9 +138,6 @@ and restore biological truth to the Federal government.
 
 -   President Trump campaigned on banning men from competing in women’s
     sports: “You just ban it. You just don’t let it happen.”
-
-<!-- -->
-
 -   On Day One, President Trump signed an Executive Order establishing
     Government-wide the biological reality of two sexes and clearly
     defining male and female.
