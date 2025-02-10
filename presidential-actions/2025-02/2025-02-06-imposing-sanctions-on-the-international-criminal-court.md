@@ -1,5 +1,6 @@
 ---
 date: '2025-02-06'
+modified_time: 2025-02-10 09:53:38-05:00
 published_time: 2025-02-06 17:36:06-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/imposing-sanctions-on-the-international-criminal-court/
 tags: presidential-actions
@@ -228,3 +229,7 @@ subject to the availability of appropriations.
 benefit, substantive or procedural, enforceable at law or in equity by
 any party against the United States, its departments, agencies, or
 entities, its officers, employees, or agents, or any other person.
+
+**ANNEX**
+
+1.  Karim Khan, Prosecutor of the ICC.
