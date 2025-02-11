@@ -1,5 +1,6 @@
 ---
 date: '2025-02-10'
+modified_time: 2025-02-11 11:13:25-05:00
 published_time: 2025-02-10 23:01:42-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-ends-the-procurement-and-forced-use-of-paper-straws/
 tags: fact-sheets
@@ -21,8 +22,9 @@ paper straws.
 straws has forced Americans to use nonfunctional paper straws. This ends
 under President Trump.
 
--   Cities and states across America have banned paper straws, caving to
-    pressure from woke activists who prioritize symbolism over science.
+-   Cities and states across America have banned plastic straws, caving
+    to pressure from woke activists who prioritize symbolism over
+    science.
 -   Paper straws use chemicals that may carry risks to human health –
     including “forever chemical” PFAS (per- and polyfluoroalkyl
     substances) which are known to be highly water soluble and can bleed
