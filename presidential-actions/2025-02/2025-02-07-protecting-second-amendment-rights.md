@@ -1,7 +1,7 @@
 ---
 date: '2025-02-07'
-modified_time: 2025-02-07 17:43:34-05:00
-published_time: 2025-02-07 17:43:33-05:00
+modified_time: 2025-02-12 09:39:16-05:00
+published_time: 2025-02-07 19:04:14-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/protecting-second-amendment-rights/
 tags: presidential-actions
 title: Protecting Second Amendment Rights
