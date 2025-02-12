@@ -1,6 +1,6 @@
 ---
 date: '2025-02-11'
-modified_time: 2025-02-11 08:17:54-05:00
+modified_time: 2025-02-11 19:17:08-05:00
 published_time: 2025-02-11 08:04:27-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-section-232-tariffs/
 tags: fact-sheets
@@ -136,7 +136,6 @@ strategic objectives.
     tariffs do not raise prices: “I don’t believe that American
     consumers will see any meaningful increase in the prices that they
     face.”
-
-A 2024 economic analysis found that a global tariff of 10% would grow
-the economy by $728 billion, create 2.8 million jobs, and increase real
-household incomes by 5.7%.<span id="_msocom_1"></span>
+-   A 2024 economic analysis found that a global tariff of 10% would
+    grow the economy by $728 billion, create 2.8 million jobs, and
+    increase real household incomes by 5.7%.<span id="_msocom_1"></span>

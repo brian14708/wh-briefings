@@ -1,6 +1,6 @@
 ---
 date: '2025-02-10'
-modified_time: 2025-02-10 23:01:59-05:00
+modified_time: 2025-02-11 19:14:21-05:00
 published_time: 2025-02-10 23:01:58-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-american-competitiveness-and-security-in-fcpa-enforcement/
 tags: fact-sheets
@@ -53,22 +53,20 @@ less competitive.
 American economic and security interests and ensuring U.S. businesses
 have the tools to succeed globally.
 
-Since returning to office, President Trump has signed several executive
-actions aimed at enhancing American economic competitiveness, including
-an Executive Order to strengthen U.S. leadership in artificial
-intelligence (AI) and tariffs on Mexico, Canada, and China to protect
-the American people.   a 10-to-1 deregulation initiative, ensuring every
-new rule is justified by clear benefits
-
-President Trump renegotiated trade deals, including the United
-States-Mexico-Canada Agreement (USMCA) to secure better terms for
-American workers and businesses.
-
-President Trump has worked to cut burdensome regulations that hinder
-U.S. businesses, ensuring they can operate efficiently and competitively
-on the world stage.
-
-President Trump: “We have to save our country. Every policy must be
-geared toward that which supports the American worker, the American
-family, and businesses, both large and small, and allows our country to
-compete with other nations on a very level playing field…”
+-   Since returning to office, President Trump has signed several
+    executive actions aimed at enhancing American economic
+    competitiveness, including an Executive Order to strengthen U.S.
+    leadership in artificial intelligence (AI) and tariffs on Mexico,
+    Canada, and China to protect the American people.   a 10-to-1
+    deregulation initiative, ensuring every new rule is justified by
+    clear benefits
+-   President Trump renegotiated trade deals, including the United
+    States-Mexico-Canada Agreement (USMCA) to secure better terms for
+    American workers and businesses.
+-   President Trump has worked to cut burdensome regulations that hinder
+    U.S. businesses, ensuring they can operate efficiently and
+    competitively on the world stage.
+-   President Trump: “We have to save our country. Every policy must be
+    geared toward that which supports the American worker, the American
+    family, and businesses, both large and small, and allows our country
+    to compete with other nations on a very level playing field…”

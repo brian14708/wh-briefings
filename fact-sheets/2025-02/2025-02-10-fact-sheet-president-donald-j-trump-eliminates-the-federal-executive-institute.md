@@ -1,5 +1,6 @@
 ---
 date: '2025-02-10'
+modified_time: 2025-02-11 19:15:07-05:00
 published_time: 2025-02-10 23:02:11-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-eliminates-the-federal-executive-institute/
 tags: fact-sheets
@@ -49,6 +50,5 @@ achieving measurable results.
     Efficiency” to examine how to streamline the Federal government,
     eliminate unnecessary programs, and reduce bureaucratic
     inefficiency.
-
-President Trump launched a 10-to-1 deregulation initiative, ensuring
-every new rule is justified by clear benefits
+-   President Trump launched a 10-to-1 deregulation initiative, ensuring
+    every new rule is justified by clear benefits
