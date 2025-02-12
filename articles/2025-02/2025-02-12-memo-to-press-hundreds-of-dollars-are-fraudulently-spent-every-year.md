@@ -1,9 +1,11 @@
 ---
 date: '2025-02-12'
+modified_time: 2025-02-12 15:50:57-05:00
 published_time: 2025-02-12 15:05:31-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/memo-to-press-hundreds-of-dollars-are-fraudulently-spent-every-year/
 tags: articles
-title: 'Memo to Press: Hundreds of Dollars are Fraudulently Spent Every Year'
+title: 'Memo to Press: Hundreds of Billions of Dollars are Fraudulently Spent Every
+  Year'
 ---
  
 The New York Times
