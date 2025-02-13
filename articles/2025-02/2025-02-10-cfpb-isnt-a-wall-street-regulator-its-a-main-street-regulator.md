@@ -1,10 +1,10 @@
 ---
 date: '2025-02-10'
-modified_time: 2025-02-12 18:24:25-05:00
+modified_time: 2025-02-12 20:47:35-05:00
 published_time: 2025-02-10 12:05:00-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/cfpb-isnt-a-wall-street-regulator-its-a-main-street-regulator/
 tags: articles
-title: "CFPB Isn\u2019t a Wall Street Regulator, It\u2019s A Main Street Regulator"
+title: "CFPB Isn\u2019t a Wall Street Regulator, It\u2019s a Main Street Regulator"
 ---
  
 The Consumer Financial Protection Bureau (CFPB) — the
