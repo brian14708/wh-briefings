@@ -8,11 +8,28 @@
    The White House Briefing Room
   </description>
   <pubDate>
-   Sat, 15 Feb 2025 12:44:03 -0500
+   Sun, 16 Feb 2025 12:36:45 -0500
   </pubDate>
   <link>
    https://www.whitehouse.gov/briefing-room/
   </link>
+  <item>
+   <title>
+    Presidential Message on the 2025 Daytona 500
+   </title>
+   <guid>
+    https://www.whitehouse.gov/briefings-statements/2025/02/presidential-message-on-the-2025-daytona-500/
+   </guid>
+   <pubDate>
+    Sun, 16 Feb 2025 12:36:45 -0500
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/briefings-statements/2025/02/presidential-message-on-the-2025-daytona-500/
+   </link>
+   <category>
+    briefings-statements
+   </category>
+  </item>
   <item>
    <title>
     President Trump Announces Appointments to the White House Office of Legislative Affairs
@@ -25,6 +42,23 @@
    </pubDate>
    <link>
     https://www.whitehouse.gov/briefings-statements/2025/02/president-trump-announces-appointments-to-the-white-house-office-of-legislative-affairs/
+   </link>
+   <category>
+    briefings-statements
+   </category>
+  </item>
+  <item>
+   <title>
+    Presidential Message on Susan B. Anthony Day, 2025
+   </title>
+   <guid>
+    https://www.whitehouse.gov/briefings-statements/2025/02/presidential-message-on-susan-b-anthony-day-2025/
+   </guid>
+   <pubDate>
+    Sat, 15 Feb 2025 12:28:23 -0500
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/briefings-statements/2025/02/presidential-message-on-susan-b-anthony-day-2025/
    </link>
    <category>
     briefings-statements
@@ -487,40 +521,6 @@
    </link>
    <category>
     briefings-statements
-   </category>
-  </item>
-  <item>
-   <title>
-    Industry, Lawmakers Applaud President Trump’s Section 232 Tariffs
-   </title>
-   <guid>
-    https://www.whitehouse.gov/articles/2025/02/industry-lawmakers-applaud-president-trumps-section-232-tariffs/
-   </guid>
-   <pubDate>
-    Tue, 11 Feb 2025 18:35:14 -0500
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/articles/2025/02/industry-lawmakers-applaud-president-trumps-section-232-tariffs/
-   </link>
-   <category>
-    articles
-   </category>
-  </item>
-  <item>
-   <title>
-    Fact Sheet: President Donald J. Trump Works to Remake America’s Federal Workforce
-   </title>
-   <guid>
-    https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce/
-   </guid>
-   <pubDate>
-    Tue, 11 Feb 2025 18:31:27 -0500
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-works-to-remake-americas-federal-workforce/
-   </link>
-   <category>
-    fact-sheets
    </category>
   </item>
  </channel>
