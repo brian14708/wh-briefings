@@ -1,6 +1,6 @@
 ---
 date: '2025-02-14'
-modified_time: 2025-02-14 18:01:48-05:00
+modified_time: 2025-02-17 08:15:59-05:00
 published_time: 2025-02-14 17:33:52-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/wins-come-all-day-under-president-trump/
 tags: articles
