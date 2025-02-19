@@ -1,12 +1,14 @@
 ---
 date: '2025-02-18'
-modified_time: 2025-02-18 16:45:47-05:00
+modified_time: 2025-02-18 21:33:28-05:00
 published_time: 2025-02-18 16:45:46-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/memorandum-for-the-heads-of-executive-departments-and-agencies-7c05/
 tags: presidential-actions
-title: Memorandum for the Heads of Executive Departments and Agencies
+title: Radical Transparency About Wasteful Spending
 ---
  
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
+
 SUBJECT:       Radical Transparency About Wasteful Spending
 
 The United States Government spends too much money on programs,
