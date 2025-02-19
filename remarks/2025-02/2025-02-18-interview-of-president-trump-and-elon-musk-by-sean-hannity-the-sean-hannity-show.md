@@ -1,6 +1,6 @@
 ---
 date: '2025-02-18'
-modified_time: 2025-02-18 22:29:38-05:00
+modified_time: 2025-02-19 08:41:43-05:00
 published_time: 2025-02-18 22:29:35-05:00
 source_url: https://www.whitehouse.gov/remarks/2025/02/interview-of-president-trump-and-elon-musk-by-sean-hannity-the-sean-hannity-show/
 tags: remarks
@@ -318,7 +318,7 @@ assume it’s going to be done, but it’s not.  What he does is he takes
 it, and with his hundred geniuses — he’s got some very brilliant young
 people working for him that dress much worse than him, actually —  
   
-     MR. MUSK:  Yeah, the do.  
+     MR. MUSK:  Yeah, they do.  
   
      THE PRESIDENT:  — they dress in just t-shirts.  (Laughter.)  You
 wouldn’t know they have 180 IQ.  
