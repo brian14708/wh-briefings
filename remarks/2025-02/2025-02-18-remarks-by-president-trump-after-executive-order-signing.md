@@ -1,0 +1,889 @@
+---
+date: '2025-02-18'
+modified_time: 2025-02-20 11:17:21-05:00
+published_time: 2025-02-18 13:48:05-05:00
+source_url: https://www.whitehouse.gov/remarks/2025/02/remarks-by-president-trump-after-executive-order-signing/
+tags: remarks
+title: Remarks by President Trump after Executive Order Signing
+---
+ 
+Mar-a-Lago
+
+Palm Beach, Florida
+
+(February 18, 2025)
+
+4:13 P.M. EST
+
+     THE PRESIDENT:  I want to thank some of the great people from the
+Palm Beach County Sheriff’s Office.  They’re here to take photographs,
+and it’s my honor to do so.  Also, the fire department, the great
+firefighters.  So, they’re here throughout the room, and I want to thank
+you very much for being here.  I’ll be with you in a little while. 
+We’ll do some great photos.  We have plenty of time. 
+
+Policemen, policewomen, and firemen, firewomen — they’re here, and we
+appreciate it very much.  You’ve done a fantastic job. 
+
+Oh, I think it’s very important to state that incredible things are
+happening in our country.  I think we’ve made more progress in three
+weeks than they’ve made in four years, especially with respect to the
+reputation of our country, and people are respecting us again as a
+country and as a powerful country and maybe a smart country.
+
+But maybe not so smart, because when you look at some of the waste,
+fraud, and abuse that’s being inco- — uncovered by DOGE and the people
+at DOGE — these are young — often young but super brilliant people,
+incredible computer scientists and other things.  And they’re finding
+levels of fraud and waste and abuse like, I think, nobody ever thought
+possible. 
+
+But before we do that, I just want to ask Will to come over.  We’ve —
+I’ve just finished signing some executive orders.  And if we could start
+with that, Will, you might want to come up here and just explain what we
+did. 
+
+Thank you. 
+
+MR. SCHARF:  Good afternoon, y’all.  A short while ago, President Trump
+signed three — three items. 
+
+The first is an executive order relating to the affordability and
+availability of in vitro fertilization and other fertility treatments. 
+These are treatments that have become unaffordable for many Americans or
+have been unaffordable for many Americans.  And the executive order is a
+directive to the Domestic Policy Council to examine ways to make IVF and
+other fertility treatments more affordable for more Americans. 
+
+The second item that we signed was a presidential memorandum imposing
+radical transparency requirements on government departments and agencies
+in keeping with President Trump and the administration’s broader
+commitment to governmental transparency.  What this presidential
+memorandum would do is require — as waste, fraud, and abuse is
+uncovered, as programs are canceled, and, ultimately, as taxpayer
+dollars are saved, this presidential memorandum would require
+departments and agencies to make all of the details of that freely
+available to the public. 
+
+Lastly, we have another executive order that President Trump signed
+relating to independent agencies.  This executive order would establish
+important oversight functions in the Office of Management and Budget and
+its subsidiary office, OIRA, supervising independent agencies and many
+of their actions and also reestablishes the long-standing norm that only
+the president or the attorney general can speak for the United States
+when stating an opinion as to what the law is. 
+
+THE PRESIDENT:  All right.  Thank you very much, Will.
+
+That was the primary purpose of this conference to explain that they are
+all very important in their own way. 
+
+Fertilization — I’ve been saying that we’re going to do what we have to
+do, and I think the women — and families, husbands — are very
+appreciative of it. 
+
+But that was it. 
+
+I do want to say while I’m up here, I’ve been contacted by some of the
+biggest companies in the world, and because of what we’re doing
+economically and through tariffs and taxes and incentives, they want to
+come back into the United States.  And we’ll be announcing various very
+large companies — the biggest, actually.  And they’ll be coming back,
+having to do with chips and having to do also with cars and lots of
+other things. 
+
+We’re going to be announcing some very, very big — very big — momentous,
+I think — momentous decisions are being made by companies all around the
+world — the biggest — and they want to come back into the U.S. 
+
+Car plants are being canceled in other locations now because they want
+to build them here.  And you read about a couple — not that I want to
+mention names or anything — but you read about a couple of big ones in
+Mexico just got canceled because they’re going to be building them in
+the United States.  And that’s very simply because of what we’re doing
+with respect to taxes, tariffs, and incentives.
+
+And I think it’s a very important thing.  And you’ll be seeing this over
+the next — probably over the next two years, to be honest, but you’re
+going to see a lot of it over the next couple of weeks.  A lot of big
+ones are be — going to be announcing. 
+
+And so, while we’re here, I guess we can take a couple of quick
+questions. 
+
+Go ahead, please.  Please.
+
+Q    Mr. President, have you decided specifically what the auto tariff
+rate should be?
+
+THE PRESIDENT:  Yeah, I probably will tell you that in — on April 2nd,
+but it’ll be in the neighborhood of 25 percent.
+
+Q    And what about semiconductors and pharmaceuticals?
+
+THE PRESIDENT:  It’ll be 25 percent and higher, and it’ll go very
+substantially higher over a course of a year.  But we want to give them
+time to come in, because, as you know, when they come into the United
+States and they have their plant or factory here, there is no tariff. 
+So, we want to give them a little bit of a chance. 
+
+Yes, thank you. 
+
+Q    Just following up on that.  The EU — I’m sorry.  Andrea Shalal. 
+The EU representative is going to be here in Washington next week — I’m
+sorry, tomorrow.  He’s going to be meeting with Hassett and Greer and
+Lutnick. 
+
+What can the EU do to sort of avoid the reciprocal tariffs that you’ve
+talked about?  And, you know, you’ve talked a lot about the VAT.  Do you
+expect them to reduce that?
+
+THE PRESIDENT:  Well, they did already, as I understand it, reduce their
+car tariff all the way down to what we have.  And a lot of that will
+take place, and I think some won’t do it and some will do it. 
+
+     But the EU had a 10 percent tax on cars, and now they have a 2.5
+percent tax, which is the exact same as us.  So, already we’ve saved a
+tremendous amount.  That would be great — if everybody would do that,
+then we’d all be on the same playing field.  Because essentially, what
+we’re doing with the tariffs is, you know, they charge us, we charge
+them.  Same amount.  And it’s called reciprocal, actually, and whatever
+they charge us, we’re charging them. 
+
+     And so, the EU is — you know, I appreciate that they did this, but,
+you know, the EU has been very unfair to us.  We have a deficit of $350
+billion.  They don’t take our cars.  They don’t take our farm products. 
+They don’t take almost anything.  They take very little.  And we’re
+going to have to straighten that out, and we will.  I have no doubt
+about it. 
+
+     Yeah, go ahead, please. 
+
+     Q    Thanks.  Thank you, Mr. President.  Can you tell us a little
+bit more about the Russia talks, your impression of —
+
+     THE PRESIDENT:  Yeah.
+
+     Q    — how they went today — 
+
+     THE PRESIDENT:  Sure.
+
+     Q    — and if you’re perhaps more confident or less confident of a
+deal after what happened today?
+
+     THE PRESIDENT:  Well, much more confident.  They were very good. 
+Russia wants to do something.  They want to stop the savage
+barbarianism.  I mean, what’s going on over there, it’s — soldiers are
+being killed by the thousands on a weekly basis.  It’s ridiculous.  And
+they’re not American soldiers.  They’re Russian soldiers and they’re
+Ukrainian soldiers, largely, although a lot of Koreans have been killed,
+as you know — quite a bit of them have been killed.  They came over to
+fight, and a large portion have been wiped out. 
+
+     But we want to end it.  It was — it’s a senseless war.  It should
+have never happened.  It would have never happened if I was president. 
+And it’s a shame to see it. 
+
+     And I see pictures that you don’t see, but I see pictures of fields
+that look hor- — just horrible.  It looks like Gettysburg.  If you see
+the old pictures of Gettysburg, it’s soldiers lying all over the field,
+body parts all over the field.  They’re all dead.  And this is going on
+on a — on a daily basis.  It’s a horrible thing.  Both Russia and
+Ukraine — they’re losing thousands and thousands of soldiers, and a lot
+of people have been killed too. 
+
+I think that’s one of the things that’ll — you’ll see historically and
+you’ll see later on as it goes along.  I think people are going to be
+surprised at how many people, not only soldiers, have been killed in
+Ukraine.  A lot more people than you think. 
+
+     Yeah, please.
+
+     Q    President Trump, as part of a peace deal with Putin, would you
+be willing to consider removing all American troops from Europe?
+
+     THE PRESIDENT:  Well, nobody has asked me to do that, so I don’t
+think we’d have to do that.  I wouldn’t want to do that.  But that
+question has never really come up. 
+
+     Q    Sir —
+
+     THE PRESIDENT:  Yeah.  Please.
+
+     Q    Sir, do you support stationing European peacekeeping troops in
+Ukraine as part of this peace deal?
+
+     THE PRESIDENT:  If they want to do that, that’s great.  I’m — I’m
+all for it.  If they want to do that, I think that’s — that’d be fine. 
+
+     Q    Even if the Russians are opposed —
+
+     THE PRESIDENT:  I mean, I know France has mentioned it, others have
+mentioned it. 
+
+     Q    Even if the Russians are —
+
+     THE PRESIDENT:  UK has mentioned it.  But yeah, if — well, if we
+have a peace deal, I think having troops over there for — from the
+standpoint of Europe — we won’t have to put any over there, because, you
+know, we’re very far away, but having troops over there would be fine. 
+I would not object to it at all. 
+
+We’re talking about this now: peace.  We have either a ceasefire or a
+peace itself, and we’re looking to do both.  Would start off with the
+ceasefire.  And if they want to do that — I know France was willing to
+do that, and I thought that was a beautiful gesture. 
+
+     Yeah, please. 
+
+     Q    Sir, do you have any message for Ukrainians who, after three
+years of fighting, might feel betrayed or disappointed at not having a
+seat at these initial talks in Saudi Arabia?
+
+     THE PRESIDENT:  Well, I think I’m really disappointed in what’s
+happened.  I’ve been watching this for three years.  It’s a war that
+would have never happened if I was president.  And I’ve been watching
+these — these, you know, people being killed at levels that you’ve
+rarely seen — not — not even close since the Second World War, and I’m
+very disappointed.  I hear that, you know, they’re upset about not
+having a seat.  Well, they’ve had a seat for three years and a long time
+before that. 
+
+     This could have been settled very easily.  Just a half — a
+half-baked negotiator could have settled this years ago without — I
+think, without the loss of much land, very little land; without the loss
+of any lives; and without the loss of cities that are just laying on
+their sides.
+
+     You have those magnificent golden domes that are shattered, will
+never be replaced.  You can’t replace them.  Thousand-year-old domes
+that are so beautiful.  You can’t replace that.  A whole civilization
+has changed because of what —
+
+     So, when they’re worried about not being seated, you mean somebody
+that should have gone in and made a deal a long time ago.  You could
+have made a deal.  This is one that could have made a deal.  There was
+no talk of this during the Trump administration.  Putin would have
+never, ever done it. 
+
+     And, by the way, we wouldn’t have had October 7th.  You know that. 
+We wouldn’t have had October 7th either in Israel, and we wouldn’t have
+that mess that’s going on over there. 
+
+It’s like you — we have great fire people here.  We’re putting out
+fires.  All over the world, we’re putting out fires.  So, that wouldn’t
+have happened. 
+
+And you know what else wouldn’t have happened?  Inflation, because it
+was caused, really, by the cost of energy going through the roof because
+of their bad energy policies, and — and also their spending — their
+terrible spending, wasteful spending on the Green New Scam.  It’s a
+scam.  It’s a whole big scam. 
+
+     Yeah, please.
+
+     Q    Yes, sir.  I want to ask you a little closer to home.  What
+would it take for you to reconsider the restrictions on the Associated
+Press?
+
+     And secondly, some of your advisers are concerned with the
+Associated Press’s style guide, using language and giving guidance to
+not use words like “illegal immigrant” or to use phrases like
+“gender-affirming care,” and they’re concerned about that being an
+encroaching amount of liberalism in the way in which the press writes
+about things.  Do you share those concerns?
+
+THE PRESIDENT:  Well, I do think that some of the phrases that they want
+to use are ridiculous, and I think, frankly, they’ve become obsolete,
+especially in the last three weeks, because many things have happened in
+the last three weeks. 
+
+And I didn’t know about that, but I would say that if they want to use
+certain phrases like that — and I guess some are okay, but many aren’t. 
+
+But the Associated Press just refuses to go with what the law is and
+what has taken place.  It’s called the Gulf of America now.  It’s not
+called the Gulf of Mexico any longer.  I have the right to do it, just
+like we have the right to do Mount McKinley, and nobody is even
+challenging that.  But only the Associate- — essentially, it’s primarily
+the Associated Press, and I don’t know what they’re doing, but I just
+say that we’re going to keep them out until such time as they agree that
+it’s the Gulf of America.  We’re very proud of this country, and we want
+it to be the Gulf of America. 
+
+Now, the Associated Press, as you know, has been very, very wrong on the
+election, on Trump, and the treatment of Trump, and other things having
+to do with Trump and Republicans and conservatives.  And they’re doing
+us no favors, and I guess I’m not doing them any favors.  That’s the way
+life works. 
+
+But, you know, thank you for the question.  Who are you with?
+
+Q    Axios, sir.
+
+THE PRESIDENT:  It’s a very good question.  (Laughs.)  Thank you. 
+
+Yes.
+
+Q    Thank you, Mr. President.  We’re hearing that Russia wants to force
+Ukraine to hold new elections in order to sign any kind of a peace
+deal.  Is that something that the U.S. would ever support?
+
+THE PRESIDENT:  Well, we have a situation where we haven’t had elections
+in Ukraine; where we have martial law — essentially martial law in
+Ukraine; where the leader in Ukraine — I mean, I hate to say it, but
+he’s down at 4 percent approval rating; and where a country has been
+blown to smithereens. 
+
+You got — most of the cities are laying on their sides.  The buildings
+are collapsed.  It looks like a massive demolition site.  The whole — I
+mean, so many of the cities — I mean, they haven’t done it in Kyiv,
+because I guess they don’t want to shoot too many rockets in there. 
+They’ve done it 20 percent, but they haven’t done it 100 percent.  If
+they wanted to do it 100 percent, it would probably happen very
+quickly.  But you have cities that are absolutely decimated. 
+
+And yeah, I would say that, you know, when they want a seat at the
+table, you could say, the people have to — wouldn’t the people of
+Ukraine have to say, like, you know, “It’s been a long time since we’ve
+had an election”? 
+
+That’s not a Russia thing.  That’s something coming from me and coming
+from many other countries also.
+
+Q    Would you be concerned about Russia putting up a puppet —
+
+THE PRESIDENT:  You know, Ukraine is being just — just wiped out.  Look
+at what’s happening to the cities.  That — there are cities, there’s not
+even a building standing.  It’s a massive — it’s — you talk about Gaza. 
+I mean, it’s — literally, these cities look like Gaza.  Actually, many
+have, percentage-wise, more buildings knocked down than in Gaza. 
+
+So, you know, people are tired of it.  People want to see something
+happen. 
+
+And, you know, the other thing that — it’s been bothering me for a long
+time, because I di- — I solved the problem with NATO.  They paid
+hundreds of billions of dollars into the funds of NATO when I said, “You
+got to pay,” because the United States was paying for European
+countries, and then they take advantage of us on trade. 
+
+But I’ve seen it.  Look, we have to — they have to pay.  They have to
+find out, where is the money going to?  We have — I believe President
+Zelenskyy said last week that he doesn’t know where half of the money is
+that we gave him.  Well, we gave them, I believe, $350 billion, but
+let’s say it’s something less than that.  But it’s a — it’s a lot.
+
+And we have to equalize with Europe, because Europe has given us a —
+given a very much smaller percentage than that.  I think Europe has
+given 100 billion, and we’ve given, let’s say, 300-plus, and it’s more
+important for them than it is for us.  We have an ocean in between, and
+they don’t. 
+
+But where is all the money that’s been given?  Where is it going?  And
+nobody — I’ve never seen an accounting of it.  We give hundreds of
+billions of dollars.  I have — I don’t see any — any accounting. 
+
+So, I want to see peace.  Look, you know why I want?  Because I don’t
+want all these people killed anymore.  I’m looking at people that are
+being killed, and they’re Russian and Ukrainian people, but they’re
+people — doesn’t matter where they’re from on — on the whole planet. 
+And I think I have the power to end this war, and I think it’s going
+very well. 
+
+But today, I heard, “Oh, well, we weren’t invited.”  Well, you’ve been
+there for three years.  You should have ended it three years — you
+should have never started it.  You could have made a deal. 
+
+I could have made a deal for Ukraine that would have given them almost
+all of the land — everything — almost all of the land, and no people
+would have been killed, and no city would have been demolished, and not
+one dome would have been knocked down.  But they chose not to do it that
+way. 
+
+And President Biden, in all fairness, he doesn’t have a clue.  What he —
+he was so bad for this.  He was so bad, so pathetic, and so sad.
+
+But with all of that being said, look, we — it is what it is. 
+
+When I left, there was no chance that this could have happened, but it
+happened because we had incompetent leadership at many different
+levels. 
+
+But when you see what’s taken place in Ukraine, with millions of people
+killed, including the soldiers — millions of people killed, a big
+percentage of their cities knocked down to the ground.  I don’t know how
+anybody even lives there. 
+
+You know, when they say they took a poll and Zelenskyy is at 4 percent,
+who’s living there?  You know, I mean, people are — it’s hard to believe
+that people live there.  Their cities are being knocked down. 
+
+And this is something that would have never happened.  And, by the way,
+for four years, it didn’t happen.  It was never going to happen. 
+
+Go ahead. 
+
+Q    Can I ask one follow-up question?  How would you counter the
+perception — because Russia is pushing for this, obviously; they don’t
+really hold true elections — that that would be a capitulation of some
+sort?  How would you guard against, potentially, Russia installing a
+puppet government? 
+
+And then, finally, how would that new election have an impact on getting
+Zelenskyy to sign the rare earth minerals deal? 
+
+THE PRESIDENT:  Look, you have leadership — and — and I like him
+personally.  He’s fine.  But I don’t care about personally.  I care
+about getting the job done. 
+
+You have leadership now that’s allowed a war to go on that should have
+never even happened, even without the United States.  Look, we had a
+president who was grossly incompetent.  He had no idea what he was
+doing.  He said some very stupid things, like going in for portions and
+all of the things.  He made a lot of bad statements.  But he’s grossly
+incompetent, and I think everyone knew that.
+
+This is something that should have never happened — would have never
+happened.  And I used to discuss it with Putin.  President Putin and I
+would talk about Ukraine.  It was the apple of his eye, I will tell you
+that.  But he never — there was never a chance of him going in. 
+
+And I told him, “You better not go in.  Don’t go in.  Don’t go in.”  And
+he understood that, and he understood it fully.  But I’m only interested
+— I want to see if I can save maybe millions of lives.  This could even
+end up in a World War III, I mean, to be honest with you.
+
+You’ve been hearing — now Europe is saying, “Well, I think we’re going
+to go in and we’re going to go….”  All of a sudden, you’re going to end
+up in World War III over something that should have never happened. 
+And, you know, it’s a — it’s a very sad situation. 
+
+Yeah, please.
+
+Q    Mr. President, in a court filing, the White House said that Elon
+Musk is not a DOGE employee and has no authority to make decisions.  Can
+you clarify for us today —
+
+THE PRESIDENT:  Well, Elon Musk —
+
+Q    — what his exact role is there? 
+
+THE PRESIDENT:  Yeah, yeah.  Elon is, to me, a patriot.  So, you know,
+you could call him an employee.  You could call him a consultant.  You
+could call him whatever you want.  But he’s a patriot. 
+
+I mean, look at the kind of things — I just said, “Just write it down,
+just in case that question got asked.”  Right?  And which — I’m
+surprised it took so long, actually. 
+
+But you know what?  Ukraine is a bigger deal, because people are dying
+by the thousands a week — thousands.  But look at this.  From 90 to 99,
+Social Security: 6,054,000 people.  Well, that’s okay.  Maybe that’s
+possible.  You know, 90 to ninety- — 99.  Maybe it’s possible.  It’s a
+lot of people, though, with that.
+
+But people that live to 100 to 109: 4,734,000.  Wow, that’s a lot.  That
+means over 100 years old.  There are 4 million people.  I don’t know — I
+don’t know too many.  I know people that are doing great in their 90s,
+but not too many people over 100.  But over 120 — from 120 years old —
+people that are 120 years old, up to 129: 3,472,000 people.  Wow. 
+
+You know that can’t possibly be because the record is like — I think
+it’s one person — a woman lived to 127.  But they have 3,472-.  Okay.
+
+But now we’re going really in.  People from 130 years old to 139 years
+old: 3,936,000.  Wow.  I wonder if people are getting paid with all
+this.  I mean, are these checks — and that’s what we’re checking right
+now. 
+
+People from 140 years old to 149 years old: 3,542,000.  A hundred and
+forty years old and beyond.  Now — now we’re really going because we’re
+looking to break the record by 25 years. 
+
+People from 150 years old to 159 years old: 1,345,000.  These are in the
+— by the way, these are in the computer files. 
+
+These are — this is what they do well.  They’re super — I asked Elon,
+“Who are these DOGE people?”  He said they’re super brilliant computer
+people and they love the country. 
+
+It’s simple. 
+
+Q    Does he —
+
+THE PRESIDENT:  Wait a minute.  People from 160 years old to 169 years:
+121,000.  So, 160-year-old people.
+
+A hundred and seventy to a hundred and seventy-nine <s>thousand</s>: six
+thousand oh-eighty-seven.
+
+But now let’s go into the real numbers.  From 200 to 209 years old: 879
+people.
+
+From 210 years old — I haven’t met any of them.  And if I did, I’d — I
+would bless them.  I would — I would worship the ground they walk on. 
+Two hundred and ten to two hundred and nineteen years: eight hundred and
+sixty-six.
+
+From 220 years old to 229 years old: 1,039.
+
+And then, you have two people — from 240 years old to 249 years old: one
+person.  And there’s one person that’s 360 years old.
+
+That’s just that.  And then, where’s the money being spent?  Right? 
+Let’s go into that for just a second.
+
+Five hundred and twenty million dollars for a consultant on the
+environment.  It’s called Environmental, Social, and Governance,
+investments in Africa and mobilize private-sector resources: $520
+million.  Somebody got $520 million for an environmental — sounds like
+an environmental study.  That’s the most —
+
+I’ve always been one that paid a lot of money for my environmental
+studies, but they — you know, I paid like $50,000 not $520 million. 
+Five hundred and twenty million dollars for ESG.
+
+Twenty-five million dollars to promote biodiversity, conservation, and
+promote licit livelihoods by developing socially responsible behavior in
+the country of Colombia.  Well, that’s nice.  Twenty-five million going
+to Colombia for something that nobody ever heard of. 
+
+Forty million dollars to improve the social and economic inclusion of
+sedentary migrants.  Forty million.
+
+Forty-two million dollars for Johns Hopkins — great place — to research
+and drive social and behavior change in Uganda.  Forty-two million. 
+What about us?  What about social change in our country?
+
+Seventy million dollars for a center at Purdue to research
+university-sourced, evidence-based solutions to developmental
+challenges.  I mean, these are massive numbers on things that nobody
+ever heard about. 
+
+     Ten million dollars for Mozambique voluntary medical male
+circumcisions.  Ten million dollars for circumcisions in another
+country.
+
+     $9.7 million for UC Berkeley to develop a cohort of Cambodian youth
+with enterprise-driven skills.  In other words, let’s teach them
+something about enterprise.  What about our people?  Can’t we teach them
+about enterprise?
+
+     $2.3 million for strengthening independent voices in Cambodia. 
+
+Thirty-two million dollars to the Prague Civil Society Centre, which is
+a very liberal group of people.  I wonder how much of that money came
+back to the people that approved it.
+
+     Fourteen million dollars for improving public procurement in
+Serbia.
+
+     Four hundred eighty-six million dollars to the Consortium for
+Elections and Political Process Strengthening, including twenty-two
+million dollars for inclusive and participatory political process in
+Moldova.
+
+And $21 million for voter turnout in India.  Well, why are we giving $21
+million to India?  They got a lot of money.  They’re the h- — one of the
+highest taxing countries in the world in terms of us.  We can hardly get
+in there because their tariffs are so high.  I have a lot of respect for
+India.  I have a lot of respect for the prime minister.  He just left,
+as you know, two days ago.  But we’re giving $21 million for voter
+turnout.  It’s voter turnout in India.  What about, like, voter turnout
+here?  Oh, we’ve done that, I guess.  We did $500 million, didn’t we? 
+It’s called the lockboxes.
+
+     Q    But closer to home —
+
+     THE PRESIDENT:  Twenty million dollars for fiscal federalism in
+Nepal. 
+
+     Listen to these numbers.  These are — this is all fraud. 
+
+     Nineteen million dollars for biodiversity conservation in Nepal. 
+
+     $1.5 million for voter confidence — we want to give them confidence
+— in Liberia.
+
+     Fourteen million dollars for social cohesion in Mali.
+
+     $2.5 million for inclusive democracies in South Africa.
+
+     Forty-seven million dollars for improving learning outcomes in
+Asia.  Asia is doing very well.  They’re doing a lot better than we do
+in the schools, aren’t they?
+
+     Two million dollars to develop sustainable recycling models to
+increase socioeconomic cohesion among marginalized communities in Kosovo
+and Ashkali and in Egypt.
+
+     We’re talking about hundreds of billions of dollars.  I could — I
+could — by the way, I could read this all day long.  I could go on all
+day long, and you’ll see hundreds of billions of dollars.  And we’re
+doing it. 
+
+     But when I saw the Social Security numbers, I said, “Wow, that’s
+really something.”  So, we have — let’s just go above 100 years old.  We
+have millions and millions of people over 100 years old.  Everybody
+knows that’s not so. 
+
+     We have a very corrupt country — a very corrupt country.  And it’s
+a sad thing to say, but we’re figuring it out.
+
+     Now, the good thing about Social Security and what I read is if you
+take all of those numbers off, because they’re obviously fraudulent or
+incompetent — but if you take all of those millions of people off Social
+Security, all of a sudden, we have a very powerful Social Security with
+people that are 80 and 70 and 90, but not 200 years old.  You know, so
+it’s a very positive thing. 
+
+     How about over here?  Yeah, please. 
+
+     Q    Your reaction to Michelle King, the head, resigning after the
+DOGE investigation?
+
+     THE PRESIDENT:  Who resigned?
+
+     Q    The head of Social Security.
+
+     THE PRESIDENT:  I don’t know.  I mean, I — resigned or got fired? 
+I think got fired.  You know, when you fire somebody, they always
+resign, and then they say, “We resigned.”  But when you have numbers
+like that, I think, really, it’s “Got fired.”  They have to get fired. 
+Who would — who would keep them?  How could you have numbers like this?
+
+     Now, the big thing is, how many of these people got paid?  Were
+they getting paid?  Were they getting paid?  How many of them were
+getting paid Social Security?  Because that’s — if that’s the case, it’s
+a massive fraud. 
+
+     We’ll have to call those great Palm Beach police into this
+situation, right?  You guys would figure that out very quickly. 
+
+     But how many of them are being paid?  I mean, maybe millions of
+them, but it’s a total fraud. 
+
+     Also, a lot of illegal immigrants are on Social Security that
+shouldn’t be there. 
+
+     Yeah, please.  Go ahead.
+
+     Q    Mr. President, there was a big wave of probationary federal
+workers who were fired over the weekend.  Some of these workers focused
+on nuclear weapons security were immediately rehired.  Do you have any
+concerns about how these terminations have played out?
+
+     THE PRESIDENT:  No, not at all.  I think we have to just do what we
+have to do.  It’s — you know, you’re going to
+
+— it’s amazing what’s been found right now.  It’s amazing. 
+
+     Yeah, some — if we feel that — in some cases, they’ll fire people
+and then they’ll put some people back — not all of them, because a lot
+of people were let go. 
+
+     Don’t forget, I got elected on the basis of making our government
+stronger and smaller, because we have millions of people that —
+obviously, they’re paying millions of people that shouldn’t be paid. 
+And that has also to do with workers. 
+
+     Yeah, please.  No, go ahead.  Axios, New York Times.
+
+     Q    Sorry. 
+
+     Mr. President, given your concerns about corruption, you said that
+if there were any conflicts of interest with Elon Musk, you wouldn’t —
+
+     THE PRESIDENT:  Yeah.
+
+     Q    — let him anywhere near it. 
+
+     THE PRESIDENT:  That’s right. 
+
+     Q    DOGE and SpaceX employees are now working directly at the
+Federal Aviation Administration and the Defense Department — agencies
+that have billions of dollars in contracts with Musk’s companies, or
+that directly regulate —
+
+     THE PRESIDENT:  Yeah.
+
+     Q    — his companies.  How is that not a conflict of interest?
+
+     THE PRESIDENT:  Well, I mean, I’m just hearing about it, and if
+there is — and he told me before I told him, but obviously, I will not
+let there be any conflict of interest. 
+
+He’s done an amazing job.  They’ve revealed — in fact, he’s going to be
+on tonight a big show called “Sean Hannity” at 9 o’clock, and he’s on
+and I’m on, and we talk about a lot of different things. 
+
+And any conflicts — I told Elon, any conflicts, you can’t have anything
+to do with that.  So, anything to do with possibly even space, we won’t
+let Elon partake in that. 
+
+Yeah.  Please.
+
+Q    On immigration, sir.  You said you would be sending the worst of
+the worst to Guantanamo Bay.  What we’re finding out is that there are a
+lot of low-risk migrants who don’t have a criminal background who are
+also being sent. 
+
+THE PRESIDENT:  Yeah.
+
+Q    Are you thinking about this differently now about who is being
+sent?
+
+THE PRESIDENT:  No, they’re going to be brought back to their
+countries.  And with some persuasion, every one of those countries —
+every one in the — as you know, every country is taking the people
+back.  So, some of them are going to be brought back to — many of them —
+any of them that are low-risk, as you say, are going to be brought back
+to their countries.
+
+Q    But why hold them in Guantanamo?
+
+THE PRESIDENT:  Yeah, go ahead, please. 
+
+Q    Can you give us a bit of an update on where you stand with
+Venezuela?
+
+THE PRESIDENT:  Yeah.  Sure.
+
+Q    Its oil — there are — there is, basically, a monthly license that
+can soon ex- — extend to a six-month license.
+
+THE PRESIDENT:  Well, you know, we had Venezuela on the run, and it
+looked like that was going to be very good.  And when Biden came in, as
+he always does, he screws it up.  And they started buying millions and
+millions and millions of dollars of oil — billions of dollars, actually,
+of oil.  And it gave them a new lic- — a new, really, lease on life.
+
+And — but we’ll see.  We had some pretty good discussions with a lot of
+people within our government — in the United States government that are
+involved in that.  And Venezuela is a little bit early.  But, you know,
+we were not buying from Venezuela. 
+
+When Biden came in, for whatever reason, instead of just taking the
+beautiful, as I call it, liquid gold — we have more than anybody — they
+started paying a fortune to Venezuela.  And we’re looking at that
+actually.  Why did they do that?  Why were they doing that?  Why would
+they go to the enemy and give them billions and billions of dollars?
+
+Now, with that being said, as you know, Venezuela has said very
+strongly, they will not take any — any illegal immigrant, any of the
+people that they sent over to us.  They sent their gangs, probably the
+worst gang anywhere in the world — as bad as MS-13, maybe worse — and
+they came out of the jails of Venezuela.  They emptied their jails into
+our country, and they said, “We’ll never take them back.”  Well, they
+took them back, and they’re taking them back, and they are taking them
+back rapidly.  They were sending a lot of people to Venezuela.  They
+said they wouldn’t take them back, and they are taking back. 
+
+But we’re looking at Venezuela very seriously, and we’re going to be
+able — don’t forget, I’ve only been here for three weeks.
+
+Q    If I could just a follow-up, if you don’t mind.
+
+THE PRESIDENT:  Yeah, please. 
+
+Q    Just a little clarity on: Are you inclined to continue to allow
+Venezuela, through, I think, Chevron and other oil companies, to export
+those petroleum products, or are you —
+
+THE PRESIDENT:  Maybe not.
+
+Q    — inclined to pullback on that? 
+
+THE PRESIDENT:  Yeah, maybe not.  We’re looking at that now.  I just got
+here.  When I was — when I left, they weren’t doing anything.  They were
+ready to go, “We give up.”  And then Biden came along, and he gave them
+— literally billions of dollars.  I couldn’t believe it, actually. 
+
+And we have so much under our feet — liquid gold.  We have so much.  And
+it was pretty amazing.  So, we’re looking at the whole situation, why he
+did it. 
+
+All right, how about one more?  Yeah, please.
+
+Q    Thank you, Mr. President.  What can you tell us about the CIA drone
+flights over Mexico?  Is this the next step in the war against the
+cartels?
+
+THE PRESIDENT:  Well, we’re going to see. 
+
+Q    Should they have authority —
+
+THE PRESIDENT:  Yeah.
+
+Q    — to take lethal action?
+
+THE PRESIDENT:  Mexico has allowed a tremendous number of people to go
+through their country into ours, and even people coming from Mexico, and
+illegals — totally illegal.  They’ve allowed people to empty jails into
+Mexico and then let them come through with this totally ridiculous
+open-border policy of the Biden administration. 
+
+So, millions of people have come in, and hundreds of thousands and,
+actually, millions are criminals.  They came in from jails all over the
+world that release them into Mexico, and they come into our country. 
+
+And they also came in from Canada, by the way — large numbers through
+Canada.  In fact, when — when we closed up the one border, they came in
+through the other border.  So, Canada was — is not a — an uninterested
+party.
+
+But I will say this.  We’re dealing with Mexico.  I have a very good
+relationship with Mexico.  But I think Mexico is largely run by the
+cartels, and that’s a sad thing to say.  And if they wanted help with
+that, we’d give them help. 
+
+But Mexico — if you look at what’s gone on with Mexico for years now,
+but now, especially, it’s run by the cartels.  And they’ve allowed
+millions of people to come into our country from jails and prisons of
+other countries, from all over the world — not just South America —
+Africa, Asia, all over — a lot from the Congo in Africa — a lot.  They
+opened their jails.  They came in through Mexico, and we have some of
+the worst criminals coming in from the Congo and other places.  So, it’s
+not just South America and it’s not just Venezuela.  But they opened
+their jails. 
+
+And, you know, the crime rates in Venezuela and other places all over
+the world has gone way down.  You know why? Because they’ve given us
+their prisoners.  They’ve — given us their drug lords and their gang
+members. 
+
+And it’s hard to believe that we accepted this.  It’s hard to believe
+that we allowed open borders, and we’re taking in, you know, hundreds of
+thousands and millions of people coming in from all over the world that
+are absolute stone-cold criminals.  In fact, 11,088 murderers, and many
+of those people have co- — have murdered more than one person. 
+
+Why are they giving us these people?  And why are we taking these
+people? 
+
+Under Biden, you know, you had a border czar that never went to the
+border — happened to be a vice president — never went to the border,
+never called the border people. 
+
+I call them all the time.  I speak to them all the time. 
+
+But here’s the good news, we have the most secure border we’ve ever had
+right now — as secure and even more secure than I had it four years
+ago.  And the Border Patrol is doing incredible.  ICE is doing
+incredible.  Tom Homan is unbelievable.  And Kristi Noem has been just
+working very, very hard — very, very hard.
+
+And we have the best numbers we’ve ever had, and we’re going to keep it
+that way.  And we’re going to find out how a thing like this could have
+happened to our country, because who would allow this to happen?  What
+they’ve done to our country is so sad.
+
+Thank you very much.  Thank you.
+
+Q    Will you still be meeting with President Putin before the end of
+the month?
+
+THE PRESIDENT:  Yeah, probably.  Probably. 
+
+                         END                    4:49 P.M. EST
