@@ -1,5 +1,6 @@
 ---
 date: '2025-02-19'
+modified_time: 2025-02-20 08:56:34-05:00
 published_time: 2025-02-19 22:26:02-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-lawful-governance-and-implementing-the-presidents-department-of-government-efficiency-regulatory-initiative/
 tags: presidential-actions

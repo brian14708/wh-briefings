@@ -1,5 +1,6 @@
 ---
 date: '2025-02-19'
+modified_time: 2025-02-20 08:11:55-05:00
 published_time: 2025-02-19 22:46:46-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/02/commencing-the-reduction-of-the-federal-bureaucracy/
 tags: presidential-actions
