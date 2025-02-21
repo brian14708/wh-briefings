@@ -1,6 +1,6 @@
 ---
 date: '2025-02-21'
-modified_time: 2025-02-21 11:34:21-05:00
+modified_time: 2025-02-21 11:35:41-05:00
 published_time: 2025-02-21 11:34:20-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/icymi-departments-tout-results-after-president-trumps-historic-first-month/
 tags: articles
@@ -8,11 +8,7 @@ title: "ICYMI: Departments Tout Results After President Trump\u2019s Historic Fi
   \ Month"
 ---
  
-**ICYMI: Departments Tout Results After President Trump’s Historic First
-Month**
-
-Yesterday, President Donald J. Trump marked his [historic first month
-back in
+President Donald J. Trump marked his [historic first month back in
 office](https://www.whitehouse.gov/articles/2025/02/america-is-back-and-president-trump-is-just-getting-started/)
 — but the accomplishments don’t stop there. Across the Trump
 Administration, departments celebrated the one-month milestone by
