@@ -1,6 +1,6 @@
 ---
 date: '2025-02-24'
-modified_time: 2025-02-24 10:47:31-05:00
+modified_time: 2025-02-25 16:03:54-05:00
 published_time: 2025-02-24 10:47:30-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/monday-morning-wins-historic-investment-border-security/
 tags: articles
@@ -67,6 +67,6 @@ decades](https://nypost.com/2025/02/13/us-news/illegal-border-crossings-hit-reco
 — [down 94% over last
 year](https://x.com/RapidResponse47/status/1892771191787508153), while
 [interior arrests are up
-134%](https://x.com/TriciaOhio/status/1891631396214493594).
+137%](https://x.com/TriciaOhio/status/1891631396214493594).
 
 Promises made, promises kept.
