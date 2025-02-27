@@ -1,6 +1,6 @@
 ---
 date: '2025-02-26'
-modified_time: 2025-02-26 14:31:21-05:00
+modified_time: 2025-02-27 12:45:53-05:00
 published_time: 2025-02-26 14:31:20-05:00
 source_url: https://www.whitehouse.gov/articles/2025/02/illegal-immigrant-killers-rapists-arent-scholars-theyre-criminals/
 tags: articles
@@ -65,3 +65,13 @@ the deportations.
 -   A Mexican national
     [convicted](https://www.ice.gov/news/releases/ice-rio-grande-valley-federal-partner-investigation-results-sentencing-illegal-alien)
     of drug trafficking, apprehended in Texas.
+
+------------------------------------------------------------------------
+
+**White House Deputy Press Secretary Kush Desai:  **“Michael Moore is
+free to visit the quantum computing and particle physics labs that
+MS-13, TDA, and the cartels are now going to have to set up back home in
+El Salvador, Venezuela, and Mexico. The Trump Administration will remain
+focused on putting our own citizens first by mass deporting illegal
+migrant rapists, murderers, and other criminals out of American
+communities.”
