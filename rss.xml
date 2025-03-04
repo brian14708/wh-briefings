@@ -8,11 +8,28 @@
    The White House Briefing Room
   </description>
   <pubDate>
-   Mon, 03 Mar 2025 20:25:32 -0500
+   Mon, 03 Mar 2025 23:59:00 -0500
   </pubDate>
   <link>
    https://www.whitehouse.gov/briefing-room/
   </link>
+  <item>
+   <title>
+    Fact Sheet: President Donald J. Trump Proceeds with Tariffs on Imports from Canada and Mexico
+   </title>
+   <guid>
+    https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/
+   </guid>
+   <pubDate>
+    Mon, 03 Mar 2025 23:59:00 -0500
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico/
+   </link>
+   <category>
+    fact-sheets
+   </category>
+  </item>
   <item>
    <title>
     Remarks by President Trump on Investment Announcement
@@ -504,23 +521,6 @@
    </link>
    <category>
     presidential-actions
-   </category>
-  </item>
-  <item>
-   <title>
-    Fact Sheet: President Donald J. Trump Addresses the Threat to National Security from Imports of Copper
-   </title>
-   <guid>
-    https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-copper/
-   </guid>
-   <pubDate>
-    Tue, 25 Feb 2025 17:42:35 -0500
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-addresses-the-threat-to-national-security-from-imports-of-copper/
-   </link>
-   <category>
-    fact-sheets
    </category>
   </item>
  </channel>
