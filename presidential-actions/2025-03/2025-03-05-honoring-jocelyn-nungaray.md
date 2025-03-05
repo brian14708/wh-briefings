@@ -1,17 +1,17 @@
 ---
 date: '2025-03-05'
-modified_time: 2025-03-05 00:27:16-05:00
+modified_time: 2025-03-05 10:20:20-05:00
 published_time: 2025-03-05 00:27:15-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/03/honoring-jocelyn-nungaray/
 tags: presidential-actions
 title: Honoring Jocelyn Nungaray
 ---
  
-              By the authority vested in me as President by the
-Constitution and the laws of the United States of America, it is hereby
-ordered:  
+By the authority vested in me as President by the Constitution and the
+laws of the United States of America, it is hereby ordered:  
   
-        <span style="text-decoration: underline">Section 1.</span> 
+        <span style="text-decoration: underline">Section</span>
+<span style="text-decoration: underline">1.</span> 
 <span style="text-decoration: underline">Purpose and Policy</span>.  The
 prior administration’s immigration policies inexcusably endangered and
 caused enormous suffering within our Nation, including by causing the
@@ -35,7 +35,8 @@ a scenic area for coastal wildlife and recreation along the Gulf of
 America near Jocelyn’s home in Texas, will forever honor and preserve
 the memory of a beautiful American, Jocelyn Nungaray.  
   
-        <span style="text-decoration: underline">Sec. 2</span>. 
+        <span style="text-decoration: underline">Sec.</span>
+<span style="text-decoration: underline">2</span>. 
 <span style="text-decoration: underline">Renaming the Anahuac National
 Wildlife Refuge to Honor Jocelyn Nungaray</span>.  Within 30 days of the
 date of this order, pursuant to authority under the National Wildlife
@@ -49,8 +50,9 @@ provide guidance to ensure all Federal references to the Jocelyn
 Nungaray National Wildlife Refuge, including on agency maps, contracts,
 and other documents and communications, reflect its renaming.  
   
-       <span style="text-decoration: underline"> Sec. 3.</span> 
-<span style="text-decoration: underline">General Provisions.</span>
+       <span style="text-decoration: underline"> Sec.</span>
+<span style="text-decoration: underline">3.</span> 
+<span style="text-decoration: underline">General Provisions</span>.
  (a)  Nothing in this order shall be construed to impair or otherwise
 affect:  
              (i)   the authority granted by law to an executive
