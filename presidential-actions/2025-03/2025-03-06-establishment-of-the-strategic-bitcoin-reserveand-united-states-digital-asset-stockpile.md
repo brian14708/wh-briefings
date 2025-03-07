@@ -1,6 +1,6 @@
 ---
 date: '2025-03-06'
-modified_time: 2025-03-06 23:03:23-05:00
+modified_time: 2025-03-07 17:23:31-05:00
 published_time: 2025-03-06 21:57:57-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserveand-united-states-digital-asset-stockpile/
 tags: presidential-actions
