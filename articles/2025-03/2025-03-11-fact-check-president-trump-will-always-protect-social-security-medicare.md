@@ -1,6 +1,6 @@
 ---
 date: '2025-03-11'
-modified_time: 2025-03-11 10:32:10-04:00
+modified_time: 2025-03-11 11:40:31-04:00
 published_time: 2025-03-11 10:32:09-04:00
 source_url: https://www.whitehouse.gov/articles/2025/03/fact-check-president-trump-will-always-protect-social-security-medicare/
 tags: articles
@@ -14,8 +14,9 @@ it](https://x.com/RapidResponse47/status/1898754137161965642)
 [over](https://x.com/RapidResponse47/status/1887955364349358383) and
 [over](https://x.com/RapidResponse47/status/1894802469445591437) again).
 
-Elon Musk didn’t say that, either. Fake Sherman is [lying
-again](https://x.com/JakeSherman/status/1899377148718116889).
+Elon Musk didn’t say that, either. The press is
+[lying](https://www.cnn.com/2025/03/11/politics/musk-federal-entitlements-costs/index.html)
+again.
 
 Here is Musk’s [direct
 quote](https://x.com/RapidResponse47/status/1899429354804806052): *“The
