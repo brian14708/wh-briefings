@@ -1,5 +1,6 @@
 ---
 date: '2025-03-14'
+modified_time: 2025-03-15 15:53:35-04:00
 published_time: 2025-03-14 23:05:44-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-rescinds-additional-harmful-biden-executive-actions/
 tags: fact-sheets
@@ -38,9 +39,6 @@ including:
 -   Eliminating Biden’s use of the Defense Production Act to push his
     Green New Scam, including mandates for electric heat pumps and solar
     panels.
--   Terminating proclamations declaring nearly a million acres
-    constitute new national monuments that lock up vast amounts of land
-    from economic development and energy production.
 -   Repealing Biden’s executive order forcing radical labor policies and
     apprenticeship mandates onto American businesses and government
     agencies.
