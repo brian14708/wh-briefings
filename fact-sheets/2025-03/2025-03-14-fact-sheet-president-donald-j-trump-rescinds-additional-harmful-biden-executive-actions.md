@@ -1,6 +1,6 @@
 ---
 date: '2025-03-14'
-modified_time: 2025-03-15 15:53:35-04:00
+modified_time: 2025-03-15 16:33:08-04:00
 published_time: 2025-03-14 23:05:44-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-rescinds-additional-harmful-biden-executive-actions/
 tags: fact-sheets

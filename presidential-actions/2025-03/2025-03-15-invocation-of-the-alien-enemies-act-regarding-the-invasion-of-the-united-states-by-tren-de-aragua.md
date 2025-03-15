@@ -1,5 +1,6 @@
 ---
 date: '2025-03-15'
+modified_time: 2025-03-15 16:34:32-04:00
 published_time: 2025-03-15 15:51:56-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/03/invocation-of-the-alien-enemies-act-regarding-the-invasion-of-the-united-states-by-tren-de-aragua/
 tags: presidential-actions
@@ -188,6 +189,7 @@ Homeland Security, to issue any guidance necessary to effectuate the
 prompt apprehension, detention, and removal of all Alien Enemies
 described in section 1 of this proclamation. Any such guidance shall be
 effective immediately upon issuance by the Attorney General.  
+
 This proclamation and the directives and regulations prescribed herein
 shall extend and apply to all land and water, continental or insular, in
 any way within the jurisdiction of the United States.  
