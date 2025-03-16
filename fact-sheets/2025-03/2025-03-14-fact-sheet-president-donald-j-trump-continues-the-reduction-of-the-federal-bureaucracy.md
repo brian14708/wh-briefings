@@ -1,6 +1,6 @@
 ---
 date: '2025-03-14'
-modified_time: 2025-03-14 23:04:40-04:00
+modified_time: 2025-03-15 21:04:35-04:00
 published_time: 2025-03-14 23:04:39-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-continues-the-reduction-of-the-federal-bureaucracy/
 tags: fact-sheets
@@ -20,8 +20,7 @@ reduction of the Federal Bureaucracy.
         International Center for Scholars, Institute of Museum and
         Library Services, United States Interagency Council on
         Homelessness, Community Development Financial Institutions Fund,
-        Minority Business Development Agency, and Arctic Research
-        Commission.
+        and Minority Business Development Agency.
 -   This action builds on an Executive Order President Trump previously
     signed to reduce unnecessary governmental entities and Federal
     advisory committees.
