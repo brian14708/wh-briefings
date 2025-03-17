@@ -1,9 +1,10 @@
 ---
 date: '2025-03-17'
+modified_time: 2025-03-17 12:44:48-04:00
 published_time: 2025-03-17 12:30:47-04:00
 source_url: https://www.whitehouse.gov/articles/2025/03/president-trump-delivers-justice-for-terrorists-security-for-americans/
 tags: articles
-title: President Trump Delivers Justice for Terrorists, Security for Americans
+title: President Trump Delivers Justice to Terrorists, Security for Americans
 ---
  
 This weekend, the Trump Administration
