@@ -1,6 +1,6 @@
 ---
 date: '2025-03-19'
-modified_time: 2025-03-19 10:29:37-04:00
+modified_time: 2025-03-19 11:31:20-04:00
 published_time: 2025-03-19 10:29:19-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-achieves-efficiency-through-state-and-local-preparedness/
 tags: fact-sheets
