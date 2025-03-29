@@ -48,12 +48,11 @@ manufacturing powerhouse:**
     [considering](https://www.autonews.com/volvo/ane-rowan-eu-tariffs-us-added-production-0305/)
     expanding its U.S.-based output.
 
-<figure
-class="wp-block-image aligncenter size-full is-resized is-style-default">
+<figure>
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/america-s-newsroom-1.jpg"
-class="wp-image-6761" style="width:500px" decoding="async"
-data-fetchpriority="high" sizes="(max-width: 640px) 100vw, 640px"
+style="width:500px" decoding="async" data-fetchpriority="high"
+sizes="(max-width: 640px) 100vw, 640px"
 srcset="https://www.whitehouse.gov/wp-content/uploads/2025/03/america-s-newsroom-1.jpg 640w, https://www.whitehouse.gov/wp-content/uploads/2025/03/america-s-newsroom-1.jpg?resize=300,169 300w"
 width="640" height="360" />
 </figure>
