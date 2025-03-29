@@ -12,22 +12,16 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: r-lib/actions/setup-pandoc@v2
-    - name: Install pipenv
-      run: |
-        pipx install pipenv
-    - name: Set up Python 3.12
+    - name: Install uv
+      uses: astral-sh/setup-uv@v5
+    - name: "Set up Python"
       uses: actions/setup-python@v5
       with:
-        python-version: "3.12"
-        cache: 'pipenv'
-    - name: Install dependencies
-      run: |
-        cd _scraper
-        pipenv install
+        python-version-file: "_scraper/pyproject.toml"
     - name: Scrape
       run: |
         cd _scraper
-        pipenv run python __main__.py ..
+        uv run main.py ..
     - name: Commit and push
       run: |-
         git config user.name 'github-actions[bot]'

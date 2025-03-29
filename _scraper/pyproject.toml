@@ -1,0 +1,11 @@
+[project]
+name = "scraper"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "aiofiles>=24.1.0",
+    "aiohttp[speedups]>=3.11.14",
+    "beautifulsoup4>=4.13.3",
+    "feedendum>=0.4.0",
+    "pyyaml>=6.0.2",
+]

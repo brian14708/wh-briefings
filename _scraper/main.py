@@ -31,7 +31,7 @@ def parse_index(html: str) -> Tuple[List[Article], Optional[str]]:
         next_url = n['href']
     # find all articles
     articles = []
-    for a in soup.find('main').find_all('li'):
+    for a in soup.find('main').find_all('li', class_='wp-block-post'):
         title = a.find('h2')
         link = title.find('a')['href']
         *_, category = urllib.parse.urlparse(
@@ -72,7 +72,7 @@ async def parse_article(html: str, article: Article) -> str:
 
 
 async def fetch_index_worker(session: aiohttp.ClientSession, queue: asyncio.Queue[Article], oldest: datetime) -> List[Article]:
-    next_url = 'https://www.whitehouse.gov/briefing-room/'
+    next_url = 'https://www.whitehouse.gov/news/'
 
     fetched_articles = []
     while True:
