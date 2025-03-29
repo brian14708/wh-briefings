@@ -1,13 +1,13 @@
 ---
 date: '2025-03-14'
-modified_time: 2025-03-14 23:06:32-04:00
+modified_time: 2025-03-27 13:22:21-04:00
 published_time: 2025-03-14 23:06:31-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-addresses-risks-from-paul-weiss/
 tags: fact-sheets
 title: 'Fact Sheet: President Donald J. Trump Addresses Risks from Paul Weiss'
 ---
  
-**SUSPENDING SECURITY CLEARENCES TO PROTECT THE NATIONAL INTEREST:**
+**SUSPENDING SECURITY CLEARANCES TO PROTECT THE NATIONAL INTEREST:**
 Today, President Donald J. Trump signed an Executive Order to suspend
 security clearances held by individuals at Paul, Weiss, Rifkind, Wharton
 & Garrison LLP (Paul Weiss) pending a review of whether such clearances
