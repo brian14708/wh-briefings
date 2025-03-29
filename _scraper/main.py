@@ -66,6 +66,13 @@ async def parse_article(html: str, article: Article) -> str:
     main = soup.find("main")
     for topper in main.find_all(class_="wp-block-whitehouse-topper"):
         topper.decompose()
+
+    for tag in main.find_all(True):
+        tag.attrs.pop("class", None)
+        data_attrs = [attr for attr in tag.attrs if attr.startswith("data-")]
+        for attr in data_attrs:
+            del tag.attrs[attr]
+
     a = main.encode()
     proc = await asyncio.create_subprocess_exec(
         "pandoc",
