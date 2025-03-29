@@ -20,7 +20,7 @@ remember and honor the immense sacrifices they’ve made.
 
 <figure
 class="wp-block-image aligncenter size-large is-resized is-style-default wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a639b&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e3037&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0053.jpg?w=1024"
@@ -41,7 +41,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a68fc&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e366d&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0415.jpg"
@@ -61,7 +61,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a6d89&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e3c44&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0295.jpg?w=1024"
@@ -81,7 +81,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a71ff&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e41f9&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0076.jpg"
@@ -102,7 +102,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a7688&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e47ab&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0045.jpg"
@@ -123,7 +123,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a7b86&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e4cff&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0084.jpg"
@@ -144,7 +144,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a8042&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e5253&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325MR-0592.jpg"
@@ -165,7 +165,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a8507&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e56ef&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0105.jpg"
@@ -186,7 +186,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a89cc&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e5ada&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0145.jpg"
@@ -207,7 +207,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a8f34&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e5eb0&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0007.jpg"
@@ -228,7 +228,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a9527&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e62ee&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0004.jpg"
@@ -249,7 +249,7 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
 
 <figure
 class="wp-block-image aligncenter size-large is-resized wp-lightbox-container"
-data-wp-context="{&quot;imageId&quot;:&quot;67e75451a97fd&quot;}"
+data-wp-context="{&quot;imageId&quot;:&quot;67e730a3e64e1&quot;}"
 data-wp-interactive="core/image">
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/03/P20250325DT-0053.jpg"
