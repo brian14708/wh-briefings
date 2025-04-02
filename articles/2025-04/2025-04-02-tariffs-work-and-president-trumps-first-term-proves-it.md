@@ -1,5 +1,6 @@
 ---
 date: '2025-04-02'
+modified_time: 2025-04-02 10:44:42-04:00
 published_time: 2025-04-02 10:33:46-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/tariffs-work-and-president-trumps-first-term-proves-it/
 tags: articles
@@ -122,7 +123,7 @@ term.**
 -   **[Politico](https://www.politico.com/story/2018/03/01/trump-steel-tariffs-432143)
     (2018): “Trump blasted at home and abroad for plan to impose steel,
     aluminum tariffs”**
-    -   President Donald Trump’s decision to impose tariffs of 25
+    -   “President Donald Trump’s decision to impose tariffs of 25
         percent on steel imports and 10 percent on aluminum reverberated
         across the world Thursday, spurring retaliatory threats from
         some of the nation’s closest allies and sending stock prices
