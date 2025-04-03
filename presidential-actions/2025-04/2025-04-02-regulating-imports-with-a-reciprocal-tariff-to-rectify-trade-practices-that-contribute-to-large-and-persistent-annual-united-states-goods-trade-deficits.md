@@ -1,6 +1,6 @@
 ---
 date: '2025-04-02'
-modified_time: 2025-04-02 17:39:11-04:00
+modified_time: 2025-04-02 18:58:45-04:00
 published_time: 2025-04-02 17:37:45-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/
 tags: presidential-actions
@@ -294,11 +294,13 @@ global trade flows by imposing an additional ad valorem duty on all
 imports from all trading partners except as otherwise provided herein.
  The additional ad valorem duty on all imports from all trading partners
 shall start at 10 percent and shortly thereafter, the additional ad
-valorem duty shall increase for trading partners enumerated in Annex I
-to this order at the rates set forth in Annex I to this order.  These
-additional ad valorem duties shall apply until such time as I determine
-that the underlying conditions described above are satisfied, resolved,
-or mitigated.     
+valorem duty shall increase for trading partners enumerated in [Annex
+I](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-I.pdf) to
+this order at the rates set forth in [Annex
+I](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-I.pdf) to
+this order.  These additional ad valorem duties shall apply until such
+time as I determine that the underlying conditions described above are
+satisfied, resolved, or mitigated.     
   
 <span style="text-decoration: underline">Sec</span>.
 <span style="text-decoration: underline">3</span>.
@@ -317,9 +319,12 @@ shall not be subject to such additional duty.  
   
 Furthermore, except as otherwise provided in this order, at 12:01 a.m.
 eastern daylight time on April 9, 2025, all articles from trading
-partners enumerated in Annex I to this order imported into the customs
-territory of the United States shall be, consistent with law, subject to
-the country-specific ad valorem rates of duty specified in Annex I to
+partners enumerated in [Annex
+I](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-I.pdf) to
+this order imported into the customs territory of the United States
+shall be, consistent with law, subject to the country-specific ad
+valorem rates of duty specified in [Annex
+I](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-I.pdf) to
 this order.  Such rates of duty shall apply with respect to goods
 entered for consumption, or withdrawn from warehouse for consumption, on
 or after 12:01 a.m. eastern daylight time on April 9, 2025, except that
@@ -328,35 +333,39 @@ final mode of transit before 12:01 a.m. eastern daylight time on April
 9, 2025, and entered for consumption or withdrawn from warehouse for
 consumption after 12:01 a.m. eastern daylight time on April 9, 2025,
 shall not be subject to these country-specific ad valorem rates of duty
-set forth in Annex I to this order.  These country-specific ad valorem
-rates of duty shall apply to all articles imported pursuant to the terms
-of all existing U.S. trade agreements, except as provided below. 
+set forth in [Annex
+I](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-I.pdf) to
+this order.  These country-specific ad valorem rates of duty shall apply
+to all articles imported pursuant to the terms of all existing U.S.
+trade agreements, except as provided below. 
 
-\(b\)  The following goods as set forth in Annex II to this order,
-consistent with law, shall not be subject to the ad valorem rates of
-duty under this order:  (i) all articles that are encompassed by 50
-U.S.C. 1702(b); (ii) all articles and derivatives of steel and aluminum
-subject to the duties imposed pursuant to section 232 of the Trade
-Expansion Act of 1962 and proclaimed in Proclamation 9704 of March 8,
-2018 (Adjusting Imports of Aluminum Into the United States), as amended,
-Proclamation 9705 of March 8, 2018 (Adjusting Imports of Steel Into the
-United States), as amended, and Proclamation 9980 of January 24, 2020
-(Adjusting Imports of Derivative Aluminum Articles and Derivative Steel
-Articles Into the United States), as amended, Proclamation 10895 of
-February 10, 2025 (Adjusting Imports of Aluminum Into the United
-States), and Proclamation 10896 of February 10, 2025 (Adjusting Imports
-of Steel into the United States); (iii) all automobiles and automotive
-parts subject to the additional duties imposed pursuant to section 232
-of the Trade Expansion Act of 1962, as amended, and proclaimed in
-Proclamation 10908 of March 26, 2025 (Adjusting Imports of Automobiles
-and Automobile Parts Into the United States); (iv) other products
-enumerated in Annex II to this order, including copper, pharmaceuticals,
-semiconductors, lumber articles, certain critical minerals, and energy
-and energy products; (v) all articles from a trading partner subject to
-the rates set forth in Column 2 of the Harmonized Tariff Schedule of the
-United States (HTSUS); and (vi) all articles that may become subject to
-duties pursuant to future actions under section 232 of the Trade
-Expansion Act of 1962.
+\(b\)  The following goods as set forth in [Annex
+II](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-II.pdf)
+to this order, consistent with law, shall not be subject to the ad
+valorem rates of duty under this order:  (i) all articles that are
+encompassed by 50 U.S.C. 1702(b); (ii) all articles and derivatives of
+steel and aluminum subject to the duties imposed pursuant to section 232
+of the Trade Expansion Act of 1962 and proclaimed in Proclamation 9704
+of March 8, 2018 (Adjusting Imports of Aluminum Into the United States),
+as amended, Proclamation 9705 of March 8, 2018 (Adjusting Imports of
+Steel Into the United States), as amended, and Proclamation 9980 of
+January 24, 2020 (Adjusting Imports of Derivative Aluminum Articles and
+Derivative Steel Articles Into the United States), as amended,
+Proclamation 10895 of February 10, 2025 (Adjusting Imports of Aluminum
+Into the United States), and Proclamation 10896 of February 10, 2025
+(Adjusting Imports of Steel into the United States); (iii) all
+automobiles and automotive parts subject to the additional duties
+imposed pursuant to section 232 of the Trade Expansion Act of 1962, as
+amended, and proclaimed in Proclamation 10908 of March 26, 2025
+(Adjusting Imports of Automobiles and Automobile Parts Into the United
+States); (iv) other products enumerated in [Annex
+II](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-II.pdf)
+to this order, including copper, pharmaceuticals, semiconductors, lumber
+articles, certain critical minerals, and energy and energy products; (v)
+all articles from a trading partner subject to the rates set forth in
+Column 2 of the Harmonized Tariff Schedule of the United States (HTSUS);
+and (vi) all articles that may become subject to duties pursuant to
+future actions under section 232 of the Trade Expansion Act of 1962.
 
 \(c\)  The rates of duty established by this order are in addition to
 any other duties, fees, taxes, exactions, or charges applicable to such
