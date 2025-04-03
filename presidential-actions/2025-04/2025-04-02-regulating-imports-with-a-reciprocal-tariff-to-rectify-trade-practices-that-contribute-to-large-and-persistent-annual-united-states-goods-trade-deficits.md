@@ -1,6 +1,6 @@
 ---
 date: '2025-04-02'
-modified_time: 2025-04-02 18:58:45-04:00
+modified_time: 2025-04-03 08:50:15-04:00
 published_time: 2025-04-02 17:37:45-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/
 tags: presidential-actions
@@ -461,9 +461,10 @@ Kong Special Administrative Region and the Macau Special Administrative
 Region.
 
 \(k\)  In order to establish the duty rates described in this order, the
-HTSUS is modified as set forth in the Annexes to this order.  These
-modifications shall enter into effect on the dates set forth in the
-Annexes to this order.
+[HTSUS is
+modified](https://www.whitehouse.gov/wp-content/uploads/2025/04/Annex-III.pdf)
+as set forth in the Annexes to this order.  These modifications shall
+enter into effect on the dates set forth in the Annexes to this order.
 
 \(l\)  Unless specifically noted herein, any prior Presidential
 Proclamation, Executive Order, or other Presidential directive or
