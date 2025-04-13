@@ -1,6 +1,6 @@
 ---
 date: '2025-04-11'
-modified_time: 2025-04-12 13:00:41-04:00
+modified_time: 2025-04-13 17:20:16-04:00
 published_time: 2025-04-11 12:59:43-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/clarification-of-exceptions-under-executive-order-14257-of-april-2-2025-as-amended/
 tags: presidential-actions

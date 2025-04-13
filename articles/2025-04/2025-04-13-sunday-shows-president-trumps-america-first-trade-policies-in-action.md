@@ -1,6 +1,6 @@
 ---
 date: '2025-04-13'
-modified_time: 2025-04-13 13:59:12-04:00
+modified_time: 2025-04-13 17:31:59-04:00
 published_time: 2025-04-13 13:59:11-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/sunday-shows-president-trumps-america-first-trade-policies-in-action/
 tags: articles
@@ -39,7 +39,7 @@ they’ve already delivered on behalf of American workers and businesses.
 -   [On tariffs
     negotiations](https://x.com/RapidResponse47/status/1911407993310032185):
     “This is unfolding exactly like we thought it would … We have a
-    strategy here where the president says we’re going to charge them
+    strategy here where the President says we’re going to charge them
     what they charge us … knowing full well that a lot of countries
     would come right to us and want to bargain.”
 -   [On semiconductor
@@ -90,7 +90,7 @@ they’ve already delivered on behalf of American workers and businesses.
     “For decades, the way we have been treated in this country and
     especially our farmers and ranchers is absolutely stunning. We have
     been living under a tariff regime but it has been the regime of
-    other countries … The president is working to fix it.”
+    other countries … The President is working to fix it.”
 -   [On ethanol
     production](https://x.com/RapidResponse47/status/1911413221463933430):
     “Ethanol is a very important part of our energy independence
@@ -114,7 +114,7 @@ they’ve already delivered on behalf of American workers and businesses.
 
 -   [On
     tariffs](http://x.com/RapidResponse47/status/1911428087989911764):
-    “When the president issued his reciprocal tariffs, our government at
+    “When the President issued his reciprocal tariffs, our government at
     the time specifically said that chips and semiconductors, which are
     critical components of our national security, were going to be dealt
     with through a separate Commerce authority known as a 232. That was
