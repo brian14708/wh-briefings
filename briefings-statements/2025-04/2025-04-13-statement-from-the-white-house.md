@@ -1,6 +1,6 @@
 ---
 date: '2025-04-13'
-modified_time: 2025-04-13 11:33:55-04:00
+modified_time: 2025-04-13 12:52:41-04:00
 published_time: 2025-04-13 11:28:53-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/04/statement-from-the-white-house/
 tags: briefings-statements

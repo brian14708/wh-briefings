@@ -1,6 +1,6 @@
 ---
 date: '2025-04-11'
-modified_time: 2025-04-13 12:34:09-04:00
+modified_time: 2025-04-13 12:50:18-04:00
 published_time: 2025-04-11 20:00:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/week-12s-winners-the-american-people/
 tags: articles
@@ -19,9 +19,6 @@ economic news.
     action](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/)
     on reciprocal trade — and stood up for American workers who have
     seen their jobs go overseas to China.
-
-<!-- -->
-
 -   Americans began seeing the early results of President Trump’s
     commitment to American manufacturing and job growth.
     -   Novartis, a Swiss drugmaker,
