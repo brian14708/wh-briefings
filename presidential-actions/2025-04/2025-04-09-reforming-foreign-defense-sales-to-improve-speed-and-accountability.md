@@ -1,6 +1,6 @@
 ---
 date: '2025-04-09'
-modified_time: 2025-04-14 14:42:14-04:00
+modified_time: 2025-04-14 17:15:00-04:00
 published_time: 2025-04-09 18:25:21-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/reforming-foreign-defense-sales-to-improve-speed-and-accountability/
 tags: presidential-actions
@@ -109,7 +109,10 @@ List.
 
 \(ii\) The Secretary of State and the Secretary of Defense shall review
 and update the list of defense items that can only be purchased through
-the FMS process (the FMS-Only List) and
+the FMS process (the FMS-Only List) and the United States Munitions
+List, 22 C.F.R. part 121, to focus protections solely on our most
+sensitive and sophisticated technologies, and shall establish clear
+criteria for including an item on the FMS-Only List.
 
 (d)  Within 90 days of the date of this order, the Secretary of State
 and the Secretary of Defense, in consultation with the Secretary of
