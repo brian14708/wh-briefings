@@ -1,6 +1,6 @@
 ---
 date: '2025-04-15'
-modified_time: 2025-04-15 17:46:10-04:00
+modified_time: 2025-04-16 10:29:18-04:00
 published_time: 2025-04-15 17:46:09-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-trump-brings-permitting-technology-into-the-21st-century-for-government-efficiency/
 tags: fact-sheets

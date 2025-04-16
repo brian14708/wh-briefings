@@ -1,6 +1,6 @@
 ---
 date: '2025-04-15'
-modified_time: 2025-04-15 17:49:38-04:00
+modified_time: 2025-04-16 10:30:58-04:00
 published_time: 2025-04-15 17:49:29-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/updating-permitting-technology-for-the-21st-century/
 tags: presidential-actions

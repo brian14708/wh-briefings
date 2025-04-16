@@ -1,6 +1,6 @@
 ---
 date: '2025-04-15'
-modified_time: 2025-04-15 17:47:40-04:00
+modified_time: 2025-04-16 09:11:42-04:00
 published_time: 2025-04-15 17:47:39-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-ensures-national-security-and-economic-resilience-through-section-232-actions-on-processed-critical-minerals-and-derivative-products/
 tags: fact-sheets
@@ -82,8 +82,11 @@ policy serves the nation’s long-term interests.
 
     <!-- -->
 
-    -   China now faces up to a 245% tariff on imports to the United
-        States as a result of its retaliatory actions.  
+    -   China faces up to a 245% tariff on imports to the United States
+        as a result of its retaliatory actions.  
+        -   This includes a 125% reciprocal tariff, a 20% tariff to
+            address the fentanyl crisis, and Section 301 tariffs on
+            specific goods, between 7.5% and 100%.
 -   President Trump signed proclamations to close existing loopholes and
     exemptions to restore a true 25% tariff on steel and elevate the
     tariff to 25% on aluminum.
