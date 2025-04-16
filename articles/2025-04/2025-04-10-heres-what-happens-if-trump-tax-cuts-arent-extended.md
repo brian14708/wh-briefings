@@ -1,5 +1,6 @@
 ---
 date: '2025-04-10'
+modified_time: 2025-04-16 13:48:33-04:00
 published_time: 2025-04-10 08:05:21-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/heres-what-happens-if-trump-tax-cuts-arent-extended/
 tags: articles

@@ -1,6 +1,6 @@
 ---
 date: '2025-04-15'
-modified_time: 2025-04-15 18:17:01-04:00
+modified_time: 2025-04-16 12:41:02-04:00
 published_time: 2025-04-15 18:16:28-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/ensuring-national-security-and-economic-resilience-through-section-232-actions-on-processed-critical-minerals-and-derivative-products/
 tags: presidential-actions

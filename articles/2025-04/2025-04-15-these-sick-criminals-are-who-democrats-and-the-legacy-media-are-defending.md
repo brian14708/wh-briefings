@@ -1,6 +1,6 @@
 ---
 date: '2025-04-15'
-modified_time: 2025-04-15 18:38:35-04:00
+modified_time: 2025-04-16 13:47:12-04:00
 published_time: 2025-04-15 11:43:39-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/these-sick-criminals-are-who-democrats-and-the-legacy-media-are-defending/
 tags: articles

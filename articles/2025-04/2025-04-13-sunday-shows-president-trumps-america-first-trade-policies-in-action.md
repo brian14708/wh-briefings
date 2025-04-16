@@ -1,6 +1,6 @@
 ---
 date: '2025-04-13'
-modified_time: 2025-04-13 17:31:59-04:00
+modified_time: 2025-04-16 13:47:54-04:00
 published_time: 2025-04-13 13:59:11-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/sunday-shows-president-trumps-america-first-trade-policies-in-action/
 tags: articles

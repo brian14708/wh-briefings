@@ -1,6 +1,6 @@
 ---
 date: '2025-04-09'
-modified_time: 2025-04-09 13:09:41-04:00
+modified_time: 2025-04-16 13:48:48-04:00
 published_time: 2025-04-09 13:09:40-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/unfair-trade-policies-destroyed-lives-and-theres-empirical-proof/
 tags: articles

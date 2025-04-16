@@ -1,6 +1,6 @@
 ---
 date: '2025-04-10'
-modified_time: 2025-04-10 14:11:09-04:00
+modified_time: 2025-04-16 13:48:22-04:00
 published_time: 2025-04-10 14:08:33-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-americans-see-first-price-relief-in-years/
 tags: articles

@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16'
-modified_time: 2025-04-16 12:33:32-04:00
+modified_time: 2025-04-16 13:46:59-04:00
 published_time: 2025-04-16 12:32:12-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/wheres-chris-van-hollens-concern-for-americans-brutalized-by-illegal-immigrant-crime/
 tags: articles
@@ -42,7 +42,7 @@ width="224" height="280" />
 </figure>
 
 **Jing Ming Long, a 50-year-old citizen of China, arrested by ICE
-Baltimore.** Long has a conviction for sex trafficking in Bel Air,
+Baltimore.** He has a conviction for sex trafficking in Bel Air,
 Maryland.
 
 <figure>
