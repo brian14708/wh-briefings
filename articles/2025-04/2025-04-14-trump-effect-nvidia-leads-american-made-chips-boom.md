@@ -1,5 +1,6 @@
 ---
 date: '2025-04-14'
+modified_time: 2025-04-15 18:39:01-04:00
 published_time: 2025-04-14 11:00:58-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-nvidia-leads-american-made-chips-boom/
 tags: articles

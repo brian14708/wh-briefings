@@ -1,5 +1,6 @@
 ---
 date: '2025-04-14'
+modified_time: 2025-04-15 18:38:45-04:00
 published_time: 2025-04-14 19:46:54-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/the-npr-pbs-grift-has-ripped-us-off-for-too-long/
 tags: articles
