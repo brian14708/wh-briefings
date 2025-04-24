@@ -1,6 +1,6 @@
 ---
 date: '2025-04-23'
-modified_time: 2025-04-23 18:31:27-04:00
+modified_time: 2025-04-23 18:34:40-04:00
 published_time: 2025-04-23 18:21:34-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/reforming-accreditation-to-strengthen-higher-education/
 tags: presidential-actions
