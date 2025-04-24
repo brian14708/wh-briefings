@@ -1,6 +1,6 @@
 ---
 date: '2025-04-23'
-modified_time: 2025-04-24 16:06:29-04:00
+modified_time: 2025-04-24 17:34:00-04:00
 published_time: 2025-04-23 16:25:37-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -94,10 +94,6 @@ in President Trump’s second term:**
     Aerospace** [announced](https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-nearly-1b-us-manufacturing-2025) a
     $1 billion investment in manufacturing across 16 states — creating
     5,000 new jobs.
--   **Corning, Inc.**, a solar component producer,
-    [announced](https://www.the-leader.com/story/news/local/2025/02/14/corning-inc-building-new-900-million-solar-facility-in-michigan-updates/78454504007/)
-    a $900 million investment to build a manufacturing plant in
-    Michigan.
 -   **Schneider
     Electric** [announced](https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-plans-to-invest-over-700-million-in-the-u-s-supporting-energy-ai-sectors-and-job-growth-67bdeb3ee4475a5955011b6a) it
     will invest $700 million over the next four years in U.S. energy
@@ -213,4 +209,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on April 23, 2025*
+*Last updated on April 24, 2025*
