@@ -1,6 +1,6 @@
 ---
 date: '2025-04-23'
-modified_time: 2025-04-23 16:25:38-04:00
+modified_time: 2025-04-24 16:06:29-04:00
 published_time: 2025-04-23 16:25:37-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -85,10 +85,6 @@ in President Trump’s second term:**
     [announced](https://governor.sc.gov/news/2025-04/northmark-strategies-selects-spartanburg-county-establish-first-south-carolina)
     a $2.8 billion investment to build a supercomputing facility in
     South Carolina.
--   **ArcelorMittal**, a steel manufacturer,
-    [announced](https://www.madeinalabama.com/2025/02/arcelormittal-plans-1-2-billion-alabama-mill-to-produce-electrical-steel/)
-    a $1.2 billion investment to build an advanced manufacturing
-    facility in Alabama.
 -   **Chobani**, a Greek yogurt giant,
     [announced](https://www.chobani.com/newsroom/our-news/building-for-the-future-chobani-invests-1-2-billion-in-upstate-new-york-to-build-third-us-dairy-processing-plant)
     a $1.2 billion investment to build its third U.S. dairy processing
