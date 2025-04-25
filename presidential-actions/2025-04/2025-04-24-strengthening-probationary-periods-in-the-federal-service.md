@@ -1,6 +1,6 @@
 ---
 date: '2025-04-24'
-modified_time: 2025-04-24 22:04:53-04:00
+modified_time: 2025-04-25 10:05:56-04:00
 published_time: 2025-04-24 17:22:29-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-probationary-periods-in-the-federal-service/
 tags: presidential-actions
@@ -82,7 +82,7 @@ Sec.
 
 11.6 Appeals
 
-[§](https://www.law.cornell.edu/cfr/text/5/10.1) 11.1 Scope
+§ 11.1 Scope
 
 This rule applies to probationary periods in the competitive service and
 trial periods in the excepted service, except where provided otherwise
@@ -185,8 +185,7 @@ applicable, in a pay status required for completion of a probationary or
 trial period.  Under no circumstances shall the probationary or trial
 period be completed in less than 1 year of calendar time.
 
-[§](https://www.law.cornell.edu/cfr/text/5/10.1) 11.5 Completion of
-Probationary or Trial Period
+§ 11.5 Completion of Probationary or Trial Period
 
 \(a\)  Agencies shall utilize probationary and trial periods required
 upon initial appointment or subsequent reinstatement to evaluate
@@ -243,7 +242,7 @@ a supervisory or managerial position and a probationary or trial period
 following initial appointment or reinstatement under this Civil Service
 Rule.
 
-[§](https://www.law.cornell.edu/cfr/text/5/10.1) 11.6 Appeals
+§ 11.6 Appeals
 
 \(a\)  The Director of OPM may by regulation prescribe circumstances
 under and procedures by which employees terminated from a probationary
@@ -266,8 +265,10 @@ its provisions.
 order prepare and publish a rule rescinding subpart H and making
 conforming amendments.
 
-Sec. 5.  Review During Probationary and Trial Periods.  (a)  Within 15
-days of the date of this order:
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">5</span>.
+ <span style="text-decoration: underline">Review During Probationary and
+Trial Periods</span>.  (a)  Within 15 days of the date of this order:
 
 \(i\)   The head of each executive department and agency (agency) shall
 identify each employee at their agency serving an initial probationary
@@ -305,10 +306,12 @@ agency head or an individual designated by the agency head pursuant to
 subsection (a) of this section must certify in writing that such
 individual’s continued employment will advance the public interest.
 
-Sec. 6.  Effective Date.  This order is effective immediately, except
-that the requirements of sections 5(b) through 5(d) of this order and of
-Civil Service Rule 11.5 shall become effective 90 days from the date of
-this order.
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">6</span>.
+ <span style="text-decoration: underline">Effective Date</span>.  This
+order is effective immediately, except that the requirements of sections
+5(b) through 5(d) of this order and of Civil Service Rule 11.5 shall
+become effective 90 days from the date of this order.
 
 <span style="text-decoration: underline">Sec</span>.
 <span style="text-decoration: underline">7</span>.

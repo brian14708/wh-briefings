@@ -1,6 +1,6 @@
 ---
 date: '2025-04-23'
-modified_time: 2025-04-24 17:34:00-04:00
+modified_time: 2025-04-25 08:50:22-04:00
 published_time: 2025-04-23 16:25:37-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -89,7 +89,10 @@ in President Trump’s second term:**
     [announced](https://www.chobani.com/newsroom/our-news/building-for-the-future-chobani-invests-1-2-billion-in-upstate-new-york-to-build-third-us-dairy-processing-plant)
     a $1.2 billion investment to build its third U.S. dairy processing
     plant in New York, which is expected to create more than 1,000 new
-    full-time jobs.
+    full-time jobs — adding to the company’s earlier
+    [announcement](https://www.fooddive.com/news/chobani-to-spend-500m-to-expand-idaho-plant/743113/)
+    that it will invest $500 million to expand its Idaho manufacturing
+    plant.
 -   **GE
     Aerospace** [announced](https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-nearly-1b-us-manufacturing-2025) a
     $1 billion investment in manufacturing across 16 states — creating
@@ -209,4 +212,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on April 24, 2025*
+*Last updated on April 25, 2025*
