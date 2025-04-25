@@ -1,5 +1,6 @@
 ---
 date: '2025-04-24'
+modified_time: 2025-04-24 22:04:53-04:00
 published_time: 2025-04-24 17:22:29-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/04/strengthening-probationary-periods-in-the-federal-service/
 tags: presidential-actions
@@ -55,8 +56,9 @@ before such appointments are finalized.
 <span style="text-decoration: underline">Sec</span>.
 <span style="text-decoration: underline">2</span>.
  <span style="text-decoration: underline">Repeal of Civil Service
-Rule</span> 2.4.  Civil Service Rule II is amended by removing section
-2.4 of part 2 of title 5, Code of Federal Regulations.
+Rule</span><span style="text-decoration: underline"> 2.4</span>.  Civil
+Service Rule II is amended by removing section 2.4 of part 2 of title 5,
+Code of Federal Regulations.
 
 <span style="text-decoration: underline">Sec</span>.
 <span style="text-decoration: underline">3</span>.
@@ -308,8 +310,11 @@ that the requirements of sections 5(b) through 5(d) of this order and of
 Civil Service Rule 11.5 shall become effective 90 days from the date of
 this order.
 
-Sec. 7.  General Provisions.  (a)  Nothing in this order shall be
-construed to impair or otherwise affect:
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">7</span>.
+ <span style="text-decoration: underline">General Provisions</span>. 
+(a)  Nothing in this order shall be construed to impair or otherwise
+affect:
 
 \(i\)   the authority granted by law to an executive department or
 agency, or the head thereof; or
@@ -329,7 +334,7 @@ entities, its officers, employees, or agents, or any other person.
 applications, is held to be invalid, the remainder of this order and all
 of its other applications shall not be affected thereby.
 
-                               DONALD J. TRUMP
+DONALD J. TRUMP
 
 THE WHITE HOUSE,
 
