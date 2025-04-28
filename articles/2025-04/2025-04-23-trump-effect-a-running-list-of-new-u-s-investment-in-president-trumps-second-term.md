@@ -1,6 +1,6 @@
 ---
 date: '2025-04-23'
-modified_time: 2025-04-25 08:50:22-04:00
+modified_time: 2025-04-28 12:34:25-04:00
 published_time: 2025-04-23 16:25:37-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -28,6 +28,10 @@ in President Trump’s second term:**
     it will invest $500 billion in U.S.-based AI infrastructure over the
     next four years amid its pledge to manufacture AI supercomputers
     entirely in the U.S. for the first time.
+-   **IBM**
+    [announced](https://newsroom.ibm.com/2025-04-28-ibm-unveils-150-billion-investment-in-america-to-accelerate-technology-opportunity)
+    a $150 billion investment over the next five years in its U.S.-based
+    growth and manufacturing operations.
 -   **Taiwan Semiconductor Manufacturing Company
     (TSMC)** [announced](https://pr.tsmc.com/english/news/3210) a $100
     billion investment in U.S.-based chips manufacturing.
@@ -97,6 +101,9 @@ in President Trump’s second term:**
     Aerospace** [announced](https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-nearly-1b-us-manufacturing-2025) a
     $1 billion investment in manufacturing across 16 states — creating
     5,000 new jobs.
+-   **Amgen**
+    [announced](https://www.amgen.com/newsroom/press-releases/2025/04/amgen-announces-900-million-manufacturing-expansion-creation-of-350-new-jobs-in-ohio)
+    a $900 million investment in its Ohio-based manufacturing operation.
 -   **Schneider
     Electric** [announced](https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-plans-to-invest-over-700-million-in-the-u-s-supporting-energy-ai-sectors-and-job-growth-67bdeb3ee4475a5955011b6a) it
     will invest $700 million over the next four years in U.S. energy
@@ -212,4 +219,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on April 25, 2025*
+*Last updated on April 28, 2025*
