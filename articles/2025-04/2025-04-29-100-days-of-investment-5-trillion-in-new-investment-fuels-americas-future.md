@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-04-29 11:23:17-04:00
+modified_time: 2025-04-29 14:36:23-04:00
 published_time: 2025-04-29 11:23:16-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/100-days-of-investment-5-trillion-in-new-investment-fuels-americas-future/
 tags: articles
@@ -24,7 +24,7 @@ innovation and economic growth.
     $150 billion investment over the next five years in its U.S.-based
     growth and manufacturing operations.
 -   **Thermo Fisher Scientific**
-    [announced](https://ir.thermofisher.com/investors/news-events/news/news-details/2025/Thermo-Fisher-Scientific-Invests-to-Enhance-U-S--Innovation-and-Support-Customers-Manufacturing/default.aspx)
+    [announced](https://corporate.thermofisher.com/us/en/index/newsroom/Our-stories/thermo-fisher-investment-confidence-in-american-innovation.html?)
     it will invest an additional $2 billion over the next four years to
     enhance and expand its U.S. manufacturing operations and strengthen
     its innovation efforts.
@@ -105,8 +105,8 @@ list**](https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-
     drugmaker, [announced](https://www.novartis.com/us-en/news/media-releases/novartis-plans-expand-its-us-based-manufacturing-and-rd-footprint-total-investment-23b-over-next-5-years) a $23
     billion investment to build or expand ten manufacturing facilities
     across the U.S., which will create 4,000 new jobs.
--   **Hyundai**[announced](https://www.hyundainews.com/en-us/releases/4404) a
-    $21 billion U.S.-based investment — including $5.8 billion for
+-   **Hyundai** [announced](https://www.hyundainews.com/en-us/releases/4404)
+    a $21 billion U.S.-based investment — including $5.8 billion for
     a [new steel
     plant](https://x.com/RapidResponse47/status/1904240895488078062) in
     Louisiana, which will create nearly 1,500 jobs.
@@ -122,7 +122,7 @@ list**](https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-
     $20 billion investment in U.S. shipping and logistics, creating
     10,000 new jobs.
 -   **Thermo Fisher
-    Scientific** [announced](https://ir.thermofisher.com/investors/news-events/news/news-details/2025/Thermo-Fisher-Scientific-Invests-to-Enhance-U-S--Innovation-and-Support-Customers-Manufacturing/default.aspx) it
+    Scientific** [announced](https://corporate.thermofisher.com/us/en/index/newsroom/Our-stories/thermo-fisher-investment-confidence-in-american-innovation.html?) it
     will invest an additional $2 billion over the next four years to
     enhance and expand its U.S. manufacturing operations and strengthen
     its innovation efforts.
