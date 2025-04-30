@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-04-29 20:42:49-04:00
+modified_time: 2025-04-30 13:06:30-04:00
 published_time: 2025-04-29 10:20:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -35,6 +35,9 @@ in President Trump’s second term:**
 -   **Taiwan Semiconductor Manufacturing Company
     (TSMC)** [announced](https://pr.tsmc.com/english/news/3210) a $100
     billion investment in U.S.-based chips manufacturing.
+-   **Amazon**
+    [announced](https://www.cnbc.com/2025/02/06/amazon-expects-to-spend-100-billion-on-capital-expenditures-in-2025.html?msockid=2d424e7cc98a6ae930b65be2c86e6b60)
+    a $70 billion investment in artificial intelligence.
 -   **Johnson &
     Johnson** [announced](https://www.jnj.com/media-center/press-releases/johnson-johnson-increases-u-s-investment-to-more-than-55-billion-over-the-next-four-years) a
     $55 billion investment over the next four years in manufacturing,
@@ -78,9 +81,13 @@ in President Trump’s second term:**
     an $18 billion investment at its liquefied natural gas facility in
     Louisiana.
 -   **AbbVie**
-    [committed](https://www.pharmamanufacturing.com/all-articles/article/55286102/abbvie-plans-10b-investment-in-us-manufacturing-over-the-next-decade)
-    to a $10 billion investment in its U.S. operations over the next ten
-    years.
+    [announced](https://www.pharmamanufacturing.com/all-articles/article/55286102/abbvie-plans-10b-investment-in-us-manufacturing-over-the-next-decade)
+    a $10 billion investment over the next ten years to support volume
+    growth and add four new manufacturing plants to its network.
+-   **Pratt Industries**
+    [announced](https://www.prattindustries.com/latest-news/growth/anthony-pratt-5-billion-investment/)
+    a $5 billion investment to create 5,000 new manufacturing jobs in
+    Ohio, Michigan, Pennsylvania, and Arizona.
 -   **Thermo Fisher Scientific**
     [announced](https://ir.thermofisher.com/investors/news-events/news/news-details/2025/Thermo-Fisher-Scientific-Invests-to-Enhance-U-S--Innovation-and-Support-Customers-Manufacturing/default.aspx)
     it will invest an additional $2 billion over the next four years to
@@ -252,4 +259,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on April 29, 2025*
+*Last updated on April 30, 2025*
