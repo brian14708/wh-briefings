@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-04-29 14:36:23-04:00
+modified_time: 2025-04-30 17:34:56-04:00
 published_time: 2025-04-29 11:23:16-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/100-days-of-investment-5-trillion-in-new-investment-fuels-americas-future/
 tags: articles
@@ -152,13 +152,15 @@ list**](https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-
     is expanding its Michigan manufacturing facility investment to $1.5
     billion, adding 400 new high-paying advanced manufacturing jobs for
     a total of 1,500 new jobs.
--   **Chobani**, a Greek yogurt
-    giant, [announced](https://www.chobani.com/newsroom/our-news/building-for-the-future-chobani-invests-1-2-billion-in-upstate-new-york-to-build-third-us-dairy-processing-plant) a
-    $1.2 billion investment to build its third U.S. dairy processing
-    plant in New York, which is expected to create more than 1,000 new
-    full-time jobs — adding to the company’s
-    earlier [announcement](https://www.fooddive.com/news/chobani-to-spend-500m-to-expand-idaho-plant/743113/) that
-    it will invest $500 million to expand its Idaho manufacturing plant.
+-   **Chobani**, a Greek yogurt giant, announced $1.7 billion to expand
+    its U.S. operations.
+    -   [$1.2
+        billion](https://www.chobani.com/newsroom/our-news/building-for-the-future-chobani-invests-1-2-billion-in-upstate-new-york-to-build-third-us-dairy-processing-plant)
+        to build its third U.S. dairy processing plant in New York,
+        which is expected to create more than 1,000 new full-time jobs.
+    -   [$500
+        million](https://www.fooddive.com/news/chobani-to-spend-500m-to-expand-idaho-plant/743113/)
+        to expand its Idaho manufacturing plant.
 -   **GE
     Aerospace** [announced](https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-nearly-1b-us-manufacturing-2025) a
     $1 billion investment in manufacturing across 16 states — creating
