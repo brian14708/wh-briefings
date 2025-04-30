@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-04-29 10:22:27-04:00
+modified_time: 2025-04-29 20:42:49-04:00
 published_time: 2025-04-29 10:20:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -65,6 +65,7 @@ in President Trump’s second term:**
         [secured](https://www.reuters.com/business/autos-transportation/south-koreas-hyundai-posco-sign-mou-cooperation-us-steel-plant-2025-04-21/)
         an equity investment and agreement from Posco Holdings, South
         Korea’s top steel maker.
+-   Amazon
 -   United Arab Emirates-based **DAMAC
     Properties** [announced](https://www.damacproperties.com/en/blog/trump-announces-damacs-20-billion-investment-us-data-centers-0239) a
     $20 billion investment in new U.S.-based data centers.
@@ -72,6 +73,14 @@ in President Trump’s second term:**
     giant, [announced](https://www.cmacgm-group.com/en/news-media/cma-cgm-group-announces-20-billion-investment-americas-maritime-transportation-logistics) a
     $20 billion investment in U.S. shipping and logistics, creating
     10,000 new jobs.
+-   **Venture Global LNG, Inc.**,
+    [announced](https://investors.ventureglobal.com/news/news-details/2025/Venture-Global-Announces-Major-Brownfield-Expansion-of-Plaquemines-LNG/default.aspx)
+    an $18 billion investment at its liquefied natural gas facility in
+    Louisiana.
+-   **AbbVie**
+    [committed](https://www.pharmamanufacturing.com/all-articles/article/55286102/abbvie-plans-10b-investment-in-us-manufacturing-over-the-next-decade)
+    to a $10 billion investment in its U.S. operations over the next ten
+    years.
 -   **Thermo Fisher Scientific**
     [announced](https://ir.thermofisher.com/investors/news-events/news/news-details/2025/Thermo-Fisher-Scientific-Invests-to-Enhance-U-S--Innovation-and-Support-Customers-Manufacturing/default.aspx)
     it will invest an additional $2 billion over the next four years to
@@ -116,6 +125,10 @@ in President Trump’s second term:**
     Aerospace** [announced](https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-nearly-1b-us-manufacturing-2025) a
     $1 billion investment in manufacturing across 16 states — creating
     5,000 new jobs.
+-   **Anduril Industries**
+    [announced](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
+    a $1 billion investment for a new autonomous weapon system facility
+    in Ohio.
 -   **Amgen**
     [announced](https://www.amgen.com/newsroom/press-releases/2025/04/amgen-announces-900-million-manufacturing-expansion-creation-of-350-new-jobs-in-ohio)
     a $900 million investment in its Ohio-based manufacturing operation.
