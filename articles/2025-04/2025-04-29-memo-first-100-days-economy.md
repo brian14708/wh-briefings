@@ -131,7 +131,7 @@ title: 'MEMO: First 100 Days Economy'
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png"
 style="width:600px" decoding="async" data-fetchpriority="high"
 sizes="(max-width: 794px) 100vw, 794px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png 794w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png?resize=300,159 300w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png?resize=768,408 768w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png 794w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png?resize=600,319 600w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-1.png?resize=768,408 768w"
 width="794" height="422" />
 </figure>
 
@@ -140,7 +140,7 @@ width="794" height="422" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png"
 style="width:600px" decoding="async"
 sizes="(max-width: 801px) 100vw, 801px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png 801w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png?resize=300,160 300w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png?resize=768,409 768w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png 801w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png?resize=600,320 600w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-2.png?resize=768,409 768w"
 width="801" height="427" />
 </figure>
 
@@ -149,6 +149,6 @@ width="801" height="427" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-3.png"
 style="width:600px" decoding="async"
 sizes="(max-width: 750px) 100vw, 750px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-3.png 750w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-3.png?resize=300,180 300w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-3.png 750w, https://www.whitehouse.gov/wp-content/uploads/2025/04/Chart-3.png?resize=600,360 600w"
 width="750" height="450" />
 </figure>

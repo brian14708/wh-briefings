@@ -23,7 +23,7 @@ criminals back where they belong.
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg"
 decoding="async" data-fetchpriority="high"
 sizes="(max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-1.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -31,7 +31,7 @@ width="2139" height="2695" />
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg"
 decoding="async" sizes="(max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-2.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -39,7 +39,7 @@ width="2139" height="2695" />
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg"
 decoding="async" sizes="(max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-3.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -48,7 +48,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-4.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -57,7 +57,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-5.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -66,7 +66,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-6.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -75,7 +75,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-7.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -84,7 +84,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-8.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -93,7 +93,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-9.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -102,7 +102,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-10.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -111,7 +111,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-11.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -120,7 +120,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-12.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -129,7 +129,7 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-13.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>
 
@@ -138,6 +138,6 @@ width="2139" height="2695" />
 src="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg"
 decoding="async" loading="lazy"
 sizes="auto, (max-width: 2139px) 100vw, 2139px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=238,300 238w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=813,1024 813w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=1625,2048 1625w"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg 2139w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=476,600 476w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=768,968 768w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=952,1200 952w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=1219,1536 1219w, https://www.whitehouse.gov/wp-content/uploads/2025/04/100-ICE-Arrests-14.jpg?resize=1625,2048 1625w"
 width="2139" height="2695" />
 </figure>

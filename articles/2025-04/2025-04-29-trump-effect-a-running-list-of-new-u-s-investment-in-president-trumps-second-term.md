@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-04-30 17:33:36-04:00
+modified_time: 2025-05-02 14:35:57-04:00
 published_time: 2025-04-29 10:20:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -35,9 +35,6 @@ in President Trump’s second term:**
 -   **Taiwan Semiconductor Manufacturing Company
     (TSMC)** [announced](https://pr.tsmc.com/english/news/3210) a $100
     billion investment in U.S.-based chips manufacturing.
--   **Amazon**
-    [announced](https://www.cnbc.com/2025/02/06/amazon-expects-to-spend-100-billion-on-capital-expenditures-in-2025.html?msockid=2d424e7cc98a6ae930b65be2c86e6b60)
-    a $70 billion investment in artificial intelligence.
 -   **Johnson &
     Johnson** [announced](https://www.jnj.com/media-center/press-releases/johnson-johnson-increases-u-s-investment-to-more-than-55-billion-over-the-next-four-years) a
     $55 billion investment over the next four years in manufacturing,
