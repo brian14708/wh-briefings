@@ -1,6 +1,6 @@
 ---
 date: '2025-05-01'
-modified_time: 2025-05-01 17:34:53-04:00
+modified_time: 2025-05-01 21:22:28-04:00
 published_time: 2025-05-01 17:34:52-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/05/president-trump-announces-religious-liberty-commission-members/
 tags: briefings-statements
@@ -44,7 +44,7 @@ addition to leading the Ethics and Public Policy Center, Anderson serves
 as the John Paul II Teaching Fellow in Social Thought at the University
 of Dallas.
 
-**BishopRobert Barron.** Author, speaker, and theologian, Bishop Robert
+**Bishop Robert Barron.** Author, speaker, and theologian, Bishop Robert
 Barron reaches millions of people around the world through his Word on
 Fire ministry, a Catholic media nonprofit that produces podcasts,
 videos, books, articles, and Gospel meditations. Since 2023, Bishop
