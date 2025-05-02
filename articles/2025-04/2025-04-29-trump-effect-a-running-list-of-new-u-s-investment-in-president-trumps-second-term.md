@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-05-02 14:35:57-04:00
+modified_time: 2025-05-02 14:40:46-04:00
 published_time: 2025-04-29 10:20:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -72,7 +72,7 @@ in President Trump’s second term:**
     giant, [announced](https://www.cmacgm-group.com/en/news-media/cma-cgm-group-announces-20-billion-investment-americas-maritime-transportation-logistics) a
     $20 billion investment in U.S. shipping and logistics, creating
     10,000 new jobs.
--   **Venture Global LNG, Inc.**,
+-   **Venture Global LNG**
     [announced](https://investors.ventureglobal.com/news/news-details/2025/Venture-Global-Announces-Major-Brownfield-Expansion-of-Plaquemines-LNG/default.aspx)
     an $18 billion investment at its liquefied natural gas facility in
     Louisiana.
@@ -103,7 +103,12 @@ in President Trump’s second term:**
     $5 billion investment in its U.S. manufacturing network, including
     [re-opening](https://www.rrstar.com/story/news/local/2025/01/23/a-new-truck-will-be-built-in-belvidere-heres-what-we-know/77885026007/)
     its Belvidere, Illinois, manufacturing plant.
--   **Regeneron Pharmaceuticals, Inc.**, a leader in biotechnology,
+-   In addition to its overall investments, **Amazon**
+    [announced](https://www.aboutamazon.com/news/transportation/amazon-investment-delivery-network-small-town-rural-us)
+    it is investing $4 billion in small towns across America, creating
+    more than 100,000 new jobs and driving opportunities across the
+    country.
+-   **Regeneron Pharmaceuticals**, a leader in biotechnology,
     [announced](https://newsroom.regeneron.com/news-releases/news-release-details/regeneron-announces-new-investment-manufacturing-its-industry)
     a $3 billion agreement with Fujifilm Diosynth Biotechnologies to
     produce drugs at its North Carolina manufacturing facility.
@@ -111,6 +116,12 @@ in President Trump’s second term:**
     [announced](https://governor.sc.gov/news/2025-04/northmark-strategies-selects-spartanburg-county-establish-first-south-carolina)
     a $2.8 billion investment to build a supercomputing facility in
     South Carolina.
+-   **Kimberly-Clark**
+    [announced](https://www.news.kimberly-clark.com/2025-05-01-Kimberly-Clark-announces-plans-to-invest-over-2-Billion-to-Expand-US-Manufacturing,-Accelerate-Innovation-and-Fuel-Growth)
+    a $2 billion investment to expand its U.S. manufacturing operations,
+    including a new advanced manufacturing facility in Warren, Ohio, an
+    expansion of its Beech Island, South Carolina, facility, and other
+    upgrades to its supply chain network.
 -   **Chobani**, a Greek yogurt giant, announced $1.7 billion to expand
     its U.S. operations.
     -   [$1.2
@@ -237,7 +248,7 @@ in President Trump’s second term:**
     Pharma** [announced](https://lgmpharma.com/blog/lgm-pharma-invests-6m-in-u-s-drug-manufacturing-capabilities-for-liquids-suspensions-semi-solids-and-suppositories/) a
     $6 million investment to expand its manufacturing facility in
     Rosenberg, Texas.
--   **ViDARR Inc.**, a defense optical equipment
+-   **ViDARR**, a defense optical equipment
     manufacturer, [announced](https://www.governor.virginia.gov/newsroom/news-releases/2025/march/name-1042428-en.html) a
     $2.69 million investment to open a new facility in Virginia.
 
