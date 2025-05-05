@@ -1,6 +1,6 @@
 ---
 date: '2025-04-29'
-modified_time: 2025-05-02 14:40:46-04:00
+modified_time: 2025-05-05 12:05:50-04:00
 published_time: 2025-04-29 10:20:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/04/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -103,6 +103,9 @@ in President Trump’s second term:**
     $5 billion investment in its U.S. manufacturing network, including
     [re-opening](https://www.rrstar.com/story/news/local/2025/01/23/a-new-truck-will-be-built-in-belvidere-heres-what-we-know/77885026007/)
     its Belvidere, Illinois, manufacturing plant.
+-   **Novelis**, an aluminum manufacturer,
+    [announced](https://www.al.com/news/2024/02/new-projections-for-alabama-aluminum-plant-41-billion-late-2026-completion.html)
+    it will invest $4.1 billion to build a plant in southern Alabama.
 -   In addition to its overall investments, **Amazon**
     [announced](https://www.aboutamazon.com/news/transportation/amazon-investment-delivery-network-small-town-rural-us)
     it is investing $4 billion in small towns across America, creating
@@ -267,4 +270,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on April 30, 2025*
+*Last updated on May 5, 2025*
