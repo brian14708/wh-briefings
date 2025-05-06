@@ -1,6 +1,6 @@
 ---
 date: '2025-05-06'
-modified_time: 2025-05-06 10:05:56-04:00
+modified_time: 2025-05-06 12:05:25-04:00
 published_time: 2025-05-06 07:00:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -207,6 +207,11 @@ in President Trump’s second term:**
     maker, [announced](https://archive.ph/JMsiO) [plans](https://www.ibj.com/articles/european-packaging-company-to-build-110m-plant-in-anderson) to
     build a $110 million new manufacturing facility in Anderson,
     Indiana.
+-   **Hotpack**, a Dubai-based maker of food packaging materials and
+    related products,
+    [announced](https://www.hotpackglobal.com/news-details/hotpack-to-invest-100m-in-its-first-us-manufacturing-facility-in-new-jersey/)
+    a $100 million investment to establish its first U.S. manufacturing
+    facility in Edison, New Jersey.
 -   **Charms, LLC**, a subsidiary of candymaker Tootsie Roll Industries,
     [announced](https://www.plantservices.com/industry-news/news/55273345/blow-pops-manufacturer-invests-977m-to-expand-production-plant-and-distribution-center-in-tennessee)
     a $97.7 million investment to expand its production plant and
