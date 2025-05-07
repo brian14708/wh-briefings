@@ -1,6 +1,6 @@
 ---
 date: '2025-05-07'
-modified_time: 2025-05-07 12:36:38-04:00
+modified_time: 2025-05-07 12:54:40-04:00
 published_time: 2025-05-07 12:36:37-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/icymi-farmers-back-president-trumps-tariffs/
 tags: articles

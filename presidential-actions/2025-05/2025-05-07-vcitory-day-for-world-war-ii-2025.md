@@ -1,10 +1,10 @@
 ---
 date: '2025-05-07'
-modified_time: 2025-05-07 11:39:37-04:00
+modified_time: 2025-05-07 12:48:07-04:00
 published_time: 2025-05-07 11:39:36-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/05/vcitory-day-for-world-war-ii-2025/
 tags: presidential-actions
-title: Vcitory Day for World War II, 2025
+title: Victory Day for World War II, 2025
 ---
  
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA  
