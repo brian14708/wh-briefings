@@ -1,6 +1,6 @@
 ---
 date: '2025-05-06'
-modified_time: 2025-05-06 12:05:25-04:00
+modified_time: 2025-05-08 08:55:31-04:00
 published_time: 2025-05-06 07:00:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -80,6 +80,10 @@ in President Trump’s second term:**
     [announced](https://investors.ventureglobal.com/news/news-details/2025/Venture-Global-Announces-Major-Brownfield-Expansion-of-Plaquemines-LNG/default.aspx)
     an $18 billion investment at its liquefied natural gas facility in
     Louisiana.
+-   **Gilead Sciences**
+    [announced](https://www.reuters.com/business/healthcare-pharmaceuticals/gilead-announces-11-billion-new-investments-us-2025-05-07/)
+    an $11 billion boost to its planned U.S.-based manufacturing
+    investment.
 -   **AbbVie**
     [announced](https://www.pharmamanufacturing.com/all-articles/article/55286102/abbvie-plans-10b-investment-in-us-manufacturing-over-the-next-decade)
     a $10 billion investment over the next ten years to support volume
@@ -151,6 +155,10 @@ in President Trump’s second term:**
 -   **Amgen**
     [announced](https://www.amgen.com/newsroom/press-releases/2025/04/amgen-announces-900-million-manufacturing-expansion-creation-of-350-new-jobs-in-ohio)
     a $900 million investment in its Ohio-based manufacturing operation.
+-   **Merck Animal Health**
+    [announced](https://www.reuters.com/business/healthcare-pharmaceuticals/merck-animal-health-announces-895-million-investment-kansas-2025-05-08/)
+    an $895 million investment to expand their manufacturing operations
+    in Kansas.
 -   **Schneider
     Electric** [announced](https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-plans-to-invest-over-700-million-in-the-u-s-supporting-energy-ai-sectors-and-job-growth-67bdeb3ee4475a5955011b6a) it
     will invest $700 million over the next four years in U.S. energy
@@ -276,4 +284,4 @@ countries:**
 -   Taiwan [announced](https://www.ft.com/content/bdb5381f-786e-404b-9b24-8735bdc95265) a
     pledge to boost its U.S.-based investment.
 
-*Last updated on May 6, 2025*
+*Last updated on May 9, 2025*
