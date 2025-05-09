@@ -1,6 +1,6 @@
 ---
 date: '2025-05-08'
-modified_time: 2025-05-08 17:40:50-04:00
+modified_time: 2025-05-09 08:01:02-04:00
 published_time: 2025-05-08 17:40:49-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/great-deal-for-america-president-trumps-breakthrough-trade-deal/
 tags: articles
@@ -446,9 +446,9 @@ make America stronger, richer, and more respected. A huge win for the
 American people.”
 
 [Rep. Gary
-Palmer](https://x.com/USRepGaryPalmer/status/1920499064904298841): A win
-for our nation secured by President Trump! This is what it looks like to
-have leadership in the White House.”
+Palmer](https://x.com/USRepGaryPalmer/status/1920499064904298841): “A
+win for our nation secured by President Trump! This is what it looks
+like to have leadership in the White House.”
 
 [Rep. August
 Pfluger](https://x.com/RepPfluger/status/1920505407631409236):
@@ -488,7 +488,7 @@ first of many historic trade deals!! Better market access for US
 products!”
 
 [Rep. Daniel
-Webster](https://x.com/RepWebster/status/1920522038676238555): Once
+Webster](https://x.com/RepWebster/status/1920522038676238555): “Once
 again, @POTUS delivers for the American people by securing a historic
 trade deal with our key ally, the United Kingdom. This agreement lowers
 trade barriers, opening $5 billion of increased market access for
