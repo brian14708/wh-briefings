@@ -1,6 +1,6 @@
 ---
 date: '2025-05-08'
-modified_time: 2025-05-09 08:01:02-04:00
+modified_time: 2025-05-09 09:43:27-04:00
 published_time: 2025-05-08 17:40:49-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/great-deal-for-america-president-trumps-breakthrough-trade-deal/
 tags: articles
@@ -46,6 +46,13 @@ awaiting the specific details of the agreement, we are excited about the
 prospects of expanded market access that will help boost our farm
 economy, while also delivering lower-cost, cleaner fuel to UK drivers.”
 
+[National Corn Growers Association President Kenneth Hartman,
+Jr.](https://ncga.com/stay-informed/media/in-the-news/article/2025/05/ncga-expresses-support-for-uk-trade-agreement):
+“This is great news. We applaud President Trump and his administration
+for brokering this deal, and we encourage them to continue to include
+corn, corn ethanol and corn co-products in future bilateral agreements
+with other countries.”
+
 [International Dairy Foods Association President and CEO Michael Dykes,
 D.V.M.](https://www.dairyfoods.com/articles/98193-idfa-applauds-us-uk-trade-announcement):
 “On behalf of America’s dairy processors and producers, IDFA applauds
@@ -72,6 +79,13 @@ learning more, and finding new ways to help the UK achieve its economic
 and environmental goals through the increased use of American biofuels.
 We commend the President and his team for making this deal and creating
 new opportunities for American ethanol and rural America.”
+
+[National Association of State Departments of Agriculture CEO Ted
+McKinney](https://www.nasda.org/state-departments-of-agriculture-applaud-u-s-u-k-trade-deal-reinforce-commitment-to-agricultural-partnership/):
+“This agreement marks a significant step forward for U.S. farmers and
+ranchers, and U.K. agriculture and consumers as well. We applaud the
+leadership of both governments in forging a partnership that opens new
+markets in both countries.”
 
 [Job Creators Network CEO Alfredo
 Ortiz](https://www.jobcreatorsnetwork.com/press_releases/job-creators-network-celebrates-trumps-trade-deal-with-the-uk/):
@@ -104,6 +118,23 @@ economic vision, fighting grocery inflation and protecting the 22.3
 million American jobs supported by food, beverage, household and
 personal care manufacturers.”
 
+[Business Roundtable CEO Joshua
+Bolten](https://www.businessroundtable.org/business-roundtable-welcomes-u-s-uk-trade-deal):
+“Business Roundtable applauds President Trump for reaching a trade deal
+with the United Kingdom that expands market access for U.S. exports. We
+welcome commitments from both governments to continue working to resolve
+other trade issues and encourage them to address the United Kingdom’s
+digital services taxes, which unfairly disadvantage American companies.”
+
+[Coalition for a Prosperous America Chairman Zach
+Mottl](https://prosperousamerica.org/cpa-applauds-trump-administration-for-prioritizing-revenue-and-protection-in-new-u-s-uk-trade-deal/):
+“This deal is a clear validation of President Trump’s America First
+trade strategy. By maintaining the 10% baseline tariff and capping UK
+auto imports at 100,000 vehicles per year before higher tariffs apply,
+the administration is demonstrating that trade policy can and should be
+used to protect and rebuild domestic industry. This is exactly the kind
+of strategic, outcomes-focused approach we’ve been advocating.”
+
 **HSBC USA President & CEO Lisa McGeough:** “Today’s landmark US – UK
 trade agreement marks a significant step in strengthening transatlantic
 economic ties and expanding opportunities for businesses and investors.
@@ -122,6 +153,16 @@ United Kingdom to secure a new trade agreement. We have long advocated
 for new trade deals, and this is an important first step in expanding
 markets in the four countries … We’re encouraged by progress to create
 market opportunities for farmers.”
+
+[Wisconsin Manufacturers and Commerce President and CEO Kurt
+Bauer](https://www.wispolitics.com/2025/wmc-issues-statement-on-u-s-trade-deal-with-uk/):
+“Securing this landmark agreement with the UK is an important step
+forward for American manufacturers and workers. Strengthening our
+relationship with a key partner, the deal begins the process of clearing
+economic uncertainty and provides clarity and stability that Wisconsin
+manufacturers need to plan for long-term growth. WMC applauds President
+Trump for delivering an agreement that strengthens our economic
+landscape, and we look forward to similar deals to come.”
 
 [Nebraska Gov. Jim
 Pillen](https://x.com/TeamPillen/status/1920506823590773225): “Trade

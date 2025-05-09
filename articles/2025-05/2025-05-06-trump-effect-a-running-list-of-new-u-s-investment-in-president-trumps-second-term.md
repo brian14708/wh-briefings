@@ -1,6 +1,6 @@
 ---
 date: '2025-05-06'
-modified_time: 2025-05-08 08:55:31-04:00
+modified_time: 2025-05-09 09:03:33-04:00
 published_time: 2025-05-06 07:00:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/05/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/
 tags: articles
@@ -176,6 +176,15 @@ in President Trump’s second term:**
 -   London-based
     **Diageo** [announced](https://www.diageo.com/en/news-and-media/press-releases/2025/diageo-north-america-announces-new-manufacturing-and-warehousing-facility-in-alabama) a
     $415 million investment in a new Alabama manufacturing facility.
+-   **Lego**
+    [announced](https://www.lego.com/en-us/aboutus/news/2025/may/the-lego-group-to-open-regional-distribution-center-in-virginia-u-s-in-2027)
+    a $366 million investment to build a new distribution center in
+    Prince George County, Virginia.
+-   **The Bel Group**
+    [announced](https://belbrandsusa.com/news/bel-strengthens-its-industrial-footprint-with-more-than-350-million-investment-in-the-u-s/)
+    a $350 million investment to expand its U.S.-based production,
+    including at its South Dakota, Idaho and Wisconsin facilities —
+    which will create 250 new jobs.
 -   Dublin-based **Eaton
     Corporation** [announced](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2025/eaton-invests-in-new-south-carolina-transformer-manufacturing.html) a
     $340 million investment in a new South Carolina-based manufacturing
@@ -184,11 +193,6 @@ in President Trump’s second term:**
     **Siemens** [announced](https://press.siemens.com/global/en/pressrelease/siemens-boosting-us-investments-more-10-billion-american-manufacturing-jobs-software) a
     $285 million investment in U.S. manufacturing and AI data centers,
     which will create more than 900 new skilled manufacturing jobs.
--   **The Bel Group**
-    [announced](https://belbrandsusa.com/news/bel-strengthens-its-industrial-footprint-with-more-than-350-million-investment-in-the-u-s/)
-    a $350 million investment to expand its U.S.-based production,
-    including at its South Dakota, Idaho and Wisconsin facilities —
-    which will create 250 new jobs.
 -   **Clasen Quality Chocolate**
     [announced](https://www.governor.virginia.gov/newsroom/news-releases/2025/february/name-1042009-en.html)
     a $230 million investment to build a new production facility in
