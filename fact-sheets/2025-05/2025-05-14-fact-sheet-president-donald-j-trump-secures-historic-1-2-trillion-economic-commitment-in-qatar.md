@@ -1,6 +1,6 @@
 ---
 date: '2025-05-14'
-modified_time: 2025-05-14 11:31:37-04:00
+modified_time: 2025-05-14 12:44:15-04:00
 published_time: 2025-05-14 11:31:25-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-1-2-trillion-economic-commitment-in-qatar/
 tags: fact-sheets
@@ -44,10 +44,11 @@ Boeing aircraft and GE Aerospace engines to Qatar Airways.   
         States and reinforcing American leadership in cutting-edge
         engineering and innovation.
     -   Quantinuum finalized a Joint Venture Agreement with Al Rabban
-        Capital, a prominent Qatari company, to invest up to $1 billion
-        in state-of-the-art quantum technologies and workforce
-        development in the United States, supporting U.S. jobs and
-        leadership in this critical emerging technology.  
+        Capital, a prominent Qatari company. Qatar will invest up to $1
+        billion in state-of-the-art quantum technologies and workforce
+        development provided by the Joint Venture, supporting U.S. and
+        Qatari jobs and leadership in this critical emerging technology.
+         
 -   Today’s signings mark President Trump’s intent to accelerate Qatar’s
     defense investment in the U.S.-Qatar security  partnership—enhancing
     regional deterrence and benefitting the U.S. industrial base.
