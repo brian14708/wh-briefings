@@ -1,6 +1,6 @@
 ---
 date: '2025-05-20'
-modified_time: 2025-05-20 21:34:20-04:00
+modified_time: 2025-05-21 08:23:39-04:00
 published_time: 2025-05-20 21:34:19-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/05/presidential-message-on-emergency-medical-services-week-2025/
 tags: briefings-statements
