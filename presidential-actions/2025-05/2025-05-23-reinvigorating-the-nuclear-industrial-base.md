@@ -1,5 +1,6 @@
 ---
 date: '2025-05-23'
+modified_time: 2025-05-24 09:05:06-04:00
 published_time: 2025-05-23 17:13:04-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/05/reinvigorating-the-nuclear-industrial-base/
 tags: presidential-actions
@@ -104,6 +105,8 @@ uranium (HEU) and high assay, low enriched uranium (HALEU), subject to
 retention of such stockpiles as are necessary for tritium production,
 naval propulsion, and nuclear weapons. The plan shall be implemented
 based on the timeframes set forth in the plan.
+
+1.  
 
 \(b\) Within 120 days of the date of this order, the Secretary of
 Energy, in consultation with the Chair of the Nuclear Regulatory
