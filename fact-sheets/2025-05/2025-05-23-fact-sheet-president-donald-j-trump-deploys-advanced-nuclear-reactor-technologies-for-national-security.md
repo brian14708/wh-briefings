@@ -1,134 +1,116 @@
 ---
 date: '2025-05-23'
-modified_time: 2025-05-23 17:15:57-04:00
-published_time: 2025-05-23 17:15:27-04:00
+modified_time: 2025-05-30 10:04:27-04:00
+published_time: 2025-05-23 17:17:44-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-deploys-advanced-nuclear-reactor-technologies-for-national-security/
 tags: fact-sheets
-title: 'Fact Sheet: President Donald J. Trump is Restoring Gold Standard Science in
-  America'
+title: 'Fact Sheet: President Donald J. Trump Deploys Advanced Nuclear Reactor Technologies
+  for National Security'
 ---
  
-**RESTORING GOLD STANDARD SCIENCE IN AMERICA:** Today, President Donald
-J. Trump signed an Executive Order to restore Gold Standard Science as
-the cornerstone of Federal scientific research and rebuild public trust
-in science.
+**DEPLOYING NUCLEAR REACTORS FOR NATIONAL SECURITY:** Today, President
+Donald J. Trump signed an Executive Order to rapidly deploy advanced
+nuclear technologies to support national security objectives, including
+powering artificial intelligence (AI) computing infrastructure and
+national security installations.
 
--   Gold Standard Science is:
-    -   Reproducible, transparent, and falsifiable;
+-   The Order directs the Secretary of the Army to establish a program
+    of record to build a nuclear reactor at a domestic military
+    installation to commence operations within the next three years.
+-   The Order directs the Secretary of Energy to designate AI data
+    centers, located at or operated in coordination with Department of
+    Energy (DOE) facilities, as critical defense facilities, and the
+    nuclear reactors powering them as defense critical electric
+    infrastructure.
+-   The Secretary of Energy will designate DOE sites, and work with the
+    private sector, to deploy advanced nuclear technology to power AI
+    infrastructure and meet other national security objectives within 30
+    months.
+-   The Secretary of Defense, in coordination with the Secretary of
+    Energy, the Director of the Office of Management and Budget, and the
+    Secretaries of the military departments, is tasked with making
+    legislative and regulatory recommendations regarding the operation
+    of advanced nuclear reactors on military installations.
 
-    <!-- -->
+**SUPPORTING NUCLEAR PARTNERSHIPS WITH THE PRIVATE SECTOR:** President
+Trump is taking comprehensive actions to remove government barriers to
+private sector investment and deployment of advanced nuclear
+technologies at Federal sites.
 
-    -   Subject to unbiased peer review;
+-   The Order directs the Secretary of Energy to release at least 20
+    metric tons of high-assay low-enriched uranium into a readily
+    available fuel bank for private sector projects operating nuclear
+    reactors to power AI infrastructure at DOE sites.
+-   The Secretaries of Energy and Defense shall utilize their
+    authorities to enable the construction and operation of
+    privately-funded nuclear fuel recycling, reprocessing, and
+    fabrication capabilities at Federal sites.
+-   The Order directs the Secretaries of Energy and Defense to explore
+    using categorical exclusions under the National Environmental Policy
+    Act for the construction of advanced nuclear reactor technologies on
+    Federal sites.
+-   Federal departments will prioritize the issuance of security
+    clearances to support the rapid distribution and use of nuclear
+    energy and fuel cycle technologies.
 
-    <!-- -->
+**PROMOTING AMERICAN NUCLEAR EXPORTS:** President Trump is fully
+leveraging the resources of the Federal government to promote the U.S.
+nuclear industry in the development of commercial civil nuclear projects
+worldwide.
 
-    -   Clear about errors and uncertainties;
-
-    <!-- -->
-
-    -   Skeptical of assumptions;
-
-    <!-- -->
-
-    -   Collaborative and interdisciplinary;
-
-    <!-- -->
-
-    -   Accepting of negative results as positive outcomes; and
-
-    <!-- -->
-
-    -   Free from conflicts of interest.
--   With this Executive Order, President Trump is directing Federal
-    agencies to align new and existing programs and activities with Gold
-    Standard Science principles.
--   This Order reinstates the scientific integrity policies of the first
-    Trump Administration and ensures that science is no longer
-    manipulated or misused to justify political ends, ensures agencies
-    prioritize data transparency, acknowledges scientific uncertainties,
-    remains transparent about the likelihood of future scenarios,
-    evaluates scientific findings objectively, and communicates
-    scientific data accurately.
--   The EO charges the Director of the Office of Science and Technology
-    Policy to work with agency heads to issue guidance for adopting Gold
-    Standard Science principles in 30 days and report their
-    implementation progress within 60 days.
--   Agencies will publicly share data, analyses, models, and conclusions
-    associated with scientific and technological information produced or
-    used by the agency.
--   Agencies will also transparently acknowledge and document
-    uncertainties, apply a “weight of scientific evidence” approach to
-    decisionmaking, and ensure that scientific communication aligns with
-    rigorous analysis.
-
-**A CALL TO EXCELLENCE FOR AMERICA’S RESEACHERS:** The Trump
-Administration encourages American research organizations across
-academia, industry, and philanthropy to return to core principles of
-scientific inquiry and align their activities to Gold Standard Science.
-
--   For too long, bureaucratic agendas, political interference, and
-    inconsistent standards have eroded the American people’s trust in
-    science.
--   Under the Biden Administration, the Centers for Disease Control and
-    Prevention (CDC) incorporated edits by a teachers’ union into its
-    school reopening guidance, which discouraged in-person learning.
-    This was despite the best available scientific evidence at the time
-    showing that the COVID-19 risk for children was minimal, leading to
-    prolonged closures that harmed students’ education.
--   The National Marine Fisheries Service adopted an admittedly flawed
-    “worst-case scenario” projection for the North Atlantic right whale
-    population, which could have devastated the historic Maine lobster
-    fishery had the D.C. Circuit Court of Appeals not overturned the
-    opinion for skewing evidence analysis.
--   Agencies have relied on the Representative Concentration Pathway
-    (RCP) 8.5 to justify climate change policies that hamper the
-    American energy industry, an unrealistic worst-case climate scenario
-    with exaggerated coal use assumptions, which scientists have
-    criticized as misleading.
--   The Biden Administration manipulated science to achieve political
-    ends, and conducted subpar science designed to support predetermined
-    outcomes instead of objective science that informed well-designed
-    policies.
--   President Trump’s restoration of Gold Standard Science will rebuild
-    the nation’s confidence in science and its use in Federal
-    decisionmaking, and ensure continued American strength and global
-    leadership in technology.
--   New scientific integrity policies will:
-    -   Encourage the open exchange of ideas;
+-   The Order tasks the Secretary of State or his delegee to lead
+    diplomatic engagement and negotiations for agreements under section
+    123 of the Atomic Energy Act to enable the U.S. nuclear industry to
+    access new markets in partner countries.
+-   Within 90 days, the Federal government will produce strategies to:
+    -   Increase financing for U.S. nuclear projects and promote nuclear
+        trade; and
 
     <!-- -->
 
-    -   Ensure consideration of different or dissenting viewpoints; and
+    -   Make financial and technical support available to support
+        foreign adoption of nuclear energy.
+-   The Order directs the Secretary of State to implement a program to
+    enhance the global competitiveness of American nuclear companies by
+    expediting agreements and removing burdens on American exports.
 
-    <!-- -->
+**POWERING CRITICAL INFRASTRUCTURE AND NATIONAL SECURITY SYSTEMS:**
+President Trump recognizes the need to power and operate critical
+defense facilities and computing infrastructure for AI capabilities.
 
-    -   Protect employees from efforts to dissuade or prevent
-        consideration of alternative scientific opinions.
+-    Military installations, including those in locations that are not
+    well-served by other types of power due to complex supply chains
+    required to reach them, require uninterruptible, dispatchable,
+    high-density power of the type that advanced nuclear reactors can
+    provide because of their unique size and generation capabilities.
+    This is critical for readiness and national security.
+-   The Federal Government’s advanced computing AI infrastructure will
+    require a substantial increase in scalable power solutions, which
+    advanced nuclear reactors are well-positioned to provide. This will
+    ensure our technological supremacy in the emerging technologies of
+    both AI and nuclear power.
+-   By empowering the Department of Energy and Department of Defense to
+    expand utilization of advanced nuclear power and instructing each to
+    reduce regulatory red tape hampering use of nuclear power at their
+    sites, this Order enhances our national security and reduces
+    reliance on foreign sources of energy for our military and AI
+    operations.
+-   87% of new reactor builds worldwide are based on foreign designs,
+    and the majority of the world’s nuclear fuel comes from foreign
+    sources. By instructing the Department of State and other agencies
+    to aggressively pursue export opportunities, this Order will
+    strengthen our relationships with our allies and disrupt potential
+    industry control by adversaries.
 
-**USHERING IN AMERICA’S GOLDEN AGE OF INNOVATION:** This Executive Order
-is another step forward in President Trump’s agenda to ensure
-unquestioned American scientific and technological global dominance.
+**UNLEASHING AMERICAN ENERGY:** President Trump believes in supporting
+all forms of reliable, dispatchable energy, harnessing nuclear, fossil
+fuels, and emerging technologies to secure American energy independence
+and fuel economic growth.
 
-This Order imposes the highest standards of scientific rigor on both the
-development and use of science by Federal agencies to restore public
-trust and ensure that policymaking follows, or adequately addresses,
-scientific findings, for demonstratable positive outcomes for the
-American public.
-
-Since inauguration, the President has taken significant action to:
-
--   Define America’s key scientific priorities in artificial
-    intelligence, quantum information science, nuclear technology, and
-    biotechnology.
-
-<!-- -->
-
--   Secure trillions of dollars in U.S.-based technology and research &
-    development investments.
-
-<!-- -->
-
--   Create new educational and workforce development opportunities in
-    artificial intelligence technology for America’s youth.
-
-Improve the safety and security of biological research. 
+-   On Day One, President Trump declared a National Energy Emergency to
+    eliminate bureaucratic barriers, unleash innovation, and restore
+    America’s position as the world’s leading energy producer.
+-   Unleashing American energy will create jobs and economic prosperity,
+    improve the United States’ trade balance, help our country compete
+    with hostile foreign powers, strengthen relations with allies and
+    partners, and support international peace and security.
