@@ -1,15 +1,14 @@
 ---
 date: '2025-06-06'
-modified_time: 2025-06-06 17:33:26-04:00
+modified_time: 2025-06-06 19:40:53-04:00
 published_time: 2025-06-06 16:53:14-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/06/eliminating-waste-fraud-and-abuse-in-medicaid/
 tags: presidential-actions
 title: Eliminating Waste, Fraud, and Abuse in Medicaid
 ---
  
-MEMORANDUM FOR THE SECRETARY OF HEALTH AND HUMAN SERVICES  
-THE ADMINISTRATORS OF THE CENTERS FOR MEDICARE  
-AND MEDICAID SERVICES  
+MEMORANDUM FOR THE SECRETARY OF HEALTH AND HUMAN SERVICES THE
+ADMINISTRATORS OF THE CENTERS FOR MEDICARE AND MEDICAID SERVICES  
   
 SUBJECT:       Eliminating Waste, Fraud, and Abuse in Medicaid
 
