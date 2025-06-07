@@ -1,5 +1,6 @@
 ---
 date: '2025-06-06'
+modified_time: 2025-06-07 11:17:02-04:00
 published_time: 2025-06-06 18:59:40-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/mythbuster-theres-no-pork-in-the-one-big-beautiful-bill-only-wins/
 tags: articles
@@ -13,6 +14,25 @@ You heard wrong — and nobody puts it better than White House Deputy
 Chief of Staff Stephen Miller, who confronted that lie head-on during
 an [interview](https://www.youtube.com/watch?v=xht_bJKTHmQ) with Charlie
 Kirk.
+
+<figure>
+<div>
+<blockquote>
+<p>"I've heard there's 'pork' in the One Big Beautiful Bill."<br />
+<br />
+You heard wrong — and nobody puts it better than <a
+href="https://twitter.com/StephenM?ref_src=twsrc%5Etfw">@StephenM</a>,
+who confronted that lie head-on in an interview with <a
+href="https://twitter.com/charliekirk11?ref_src=twsrc%5Etfw">@charliekirk11</a>.<br />
+<br />
+MUST LISTEN: <a
+href="https://t.co/4blaHJfxmc">pic.twitter.com/4blaHJfxmc</a></p>
+<p>— Rapid Response 47 (@RapidResponse47) <a
+href="https://twitter.com/RapidResponse47/status/1931369485614579930?ref_src=twsrc%5Etfw">June
+7, 2025</a></p>
+</blockquote>
+</div>
+</figure>
 
 *“There’s no pork in the bill. The bill has been public for weeks. Every
 single provision is just one campaign pledge, one promise, one campaign
@@ -31,9 +51,9 @@ Social Security? What if that bill also created the strongest framework
 for energy deregulation in American history? What if that bill also
 created the first-ever system for the Department of Defense to be
 involved in the defense of our southern border? In other words, one
-policy went after another — plus the tax cuts. Nothing like this has
-ever been done before in the history of the conservative movement. This
-bill is electric. \[…\]*
+policy win after another — plus the tax cuts. Nothing like this has ever
+been done before in the history of the conservative movement. This bill
+is electric. \[…\]*
 
 *A rational person should be able to say, ‘Wow, it is amazing this bill
 accomplishes the full tax agenda, the full border agenda, the full
