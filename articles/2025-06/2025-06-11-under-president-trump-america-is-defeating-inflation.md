@@ -1,5 +1,6 @@
 ---
 date: '2025-06-11'
+modified_time: 2025-06-11 15:53:16-04:00
 published_time: 2025-06-11 10:16:41-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/under-president-trump-america-is-defeating-inflation/
 tags: articles
@@ -25,8 +26,8 @@ economic opportunity for all.
         Administration, when prices were low and stable.
 -   **Wage growth remains strong under President Trump.**
     -   In May, real wages for production and nonsupervisory workers saw
-        the highest monthly increase in nearly a year — rising each
-        month since President Trump took office and up nearly 2% over
+        the highest monthly increase in nearly a year — and have risen
+        each month since President Trump took office, up nearly 2% over
         last year.
 
     <!-- -->
