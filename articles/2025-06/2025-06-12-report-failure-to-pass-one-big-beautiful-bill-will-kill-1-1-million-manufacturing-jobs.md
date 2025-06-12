@@ -1,6 +1,6 @@
 ---
 date: '2025-06-12'
-modified_time: 2025-06-12 16:26:30-04:00
+modified_time: 2025-06-12 16:42:59-04:00
 published_time: 2025-06-12 16:26:29-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/report-failure-to-pass-one-big-beautiful-bill-will-kill-1-1-million-manufacturing-jobs/
 tags: articles
