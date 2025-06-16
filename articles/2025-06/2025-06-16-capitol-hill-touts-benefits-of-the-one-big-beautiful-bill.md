@@ -1,5 +1,6 @@
 ---
 date: '2025-06-16'
+modified_time: 2025-06-16 17:12:30-04:00
 published_time: 2025-06-16 16:03:45-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/capitol-hill-touts-benefits-of-the-one-big-beautiful-bill/
 tags: articles
@@ -171,7 +172,7 @@ return common sense to our government, protect taxpayers, secure our
 borders, and chart a course for national Golden Age – all in one
 package.”
 
-**Rep. Troy Downing (R-WY) in the *Billings Gazette*:** [**We are
+**Rep. Troy Downing (R-MT) in the *Billings Gazette*:** [**We are
 staring down the barrel of a 26% tax
 increase**](https://billingsgazette.com/opinion/column/article_0805649b-fd5a-5c64-afb1-89aaf5429c4d.html)
 
@@ -268,7 +269,7 @@ aviation system. President Trump, Transportation Secretary Sean Duffy
 and House Republicans are saying ‘enough is enough,’ and we are doing
 something about it.”
 
-**Rep. Mark Green (R-NC) on RealClearPolitics.com: **[**‘One Big,
+**Rep. Mark Green (R-TN) on RealClearPolitics.com: **[**‘One Big,
 Beautiful Bill’ Will Give Americans a Secure
 Border**](https://www.realclearpolitics.com/articles/2025/04/29/one_big_beautiful_bill_will_give_americans_a_secure_border_152712.html)
 
@@ -356,7 +357,7 @@ just numbers on a chart in Washington. These provisions affect each and
 every one of us. If they expire, the American dream could be
 unachievable for many of our citizens.”
 
-**Rep. Tracey Mann (R-MO) in the *Kansas City Star*:** [**Kansas
+**Rep. Tracey Mann (R-KS) in the *Kansas City Star*:** [**Kansas
 deserves the gift of Trump’s One Big Beautiful
 Bill**](https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article308583760.html)
 
