@@ -1,6 +1,6 @@
 ---
 date: '2025-06-20'
-modified_time: 2025-06-20 16:05:42-04:00
+modified_time: 2025-06-20 17:56:32-04:00
 published_time: 2025-06-20 16:04:18-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/06/presidential-permit-authorizing-the-city-of-eagle-pass-texas-to-expand-and-continue-to-maintain-and-operate-a-vehicular-and-pedestrian-border-crossing-at-the-camino-real-international-bridge-land-po/
 tags: presidential-actions
@@ -194,11 +194,10 @@ procedural, enforceable at law or in equity by any party against the
 United States, its departments, agencies, or entities, its officers,
 employees, or agents, or any other person.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this
-
-twentieth day of June, in the year of our Lord two thousand twenty-five,
-and of the Independence of the United States of America the two hundred
-and forty-ninth.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of
+June, in the year of our Lord two thousand twenty-five, and of the
+Independence of the United States of America the two hundred and
+forty-ninth.
 
                               DONALD J.
 TRUMP<span id="_msocom_1"></span>
