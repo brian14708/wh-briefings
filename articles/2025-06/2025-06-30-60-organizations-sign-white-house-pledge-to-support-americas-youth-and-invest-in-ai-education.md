@@ -1,6 +1,6 @@
 ---
 date: '2025-06-30'
-modified_time: 2025-06-30 09:31:03-04:00
+modified_time: 2025-06-30 11:15:51-04:00
 published_time: 2025-06-30 09:31:02-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/60-organizations-sign-white-house-pledge-to-support-americas-youth-and-invest-in-ai-education/
 tags: articles
@@ -86,8 +86,9 @@ into their curriculum as they prepare their students for the future,”
 
 Stay tuned as the Trump Administration works with these and other
 organizations to announce specific new grants, programs, and
-technologies towards the Pledge throughout the year ahead. Visit our
-website for more information on joining the Pledge to America’s Youth,
-and stay up to date with the latest pledge signers and initiatives.
+technologies towards the Pledge throughout the year ahead. Visit [our
+website](https://www.whitehouse.gov/edai/) for more information on
+joining the Pledge to America’s Youth, and stay up to date with the
+latest pledge signers and initiatives.
 
 \###
