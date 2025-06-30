@@ -1,16 +1,12 @@
 ---
 date: '2025-06-29'
-modified_time: 2025-06-29 20:08:07-04:00
+modified_time: 2025-06-30 08:04:36-04:00
 published_time: 2025-06-29 20:08:06-04:00
 source_url: https://www.whitehouse.gov/articles/2025/06/myth-vs-fact-the-one-big-beautiful-bill/
 tags: articles
 title: 'Myth vs. Fact: The One Big Beautiful Bill'
 ---
  
-While Democrats spend the day launching desperate, hollow attacks in a
-last-ditch effort to block President Trump’s One Big Beautiful Bill, the
-FACTS speak for themselves.
-
 **MYTH:** The One Big Beautiful Bill is “just a tax break for
 billionaires.”  
 **FACT:** The One Big Beautiful Bill delivers the largest middle- and
@@ -21,9 +17,9 @@ legislation ever crafted.
 
 **MYTH:** The One Big Beautiful Bill “takes from the poor to give to the
 rich.”  
-**FACT:** The lowest-income workers receive the largest percentage tax
-cuts. The One Big Beautiful Bill delivers the largest tax cut in history
-for working-and -middle class Americans.
+**FACT:** Low-income workers stand to receive the largest percentage
+reduction in their tax liability. The One Big Beautiful Bill delivers
+the largest tax cut in history for working-and-middle class Americans.
 
 **MYTH:** The One Big Beautiful Bill “makes life more unaffordable.”  
 **FACT:** The bill delivers bigger paychecks, expanding take-home pay by
