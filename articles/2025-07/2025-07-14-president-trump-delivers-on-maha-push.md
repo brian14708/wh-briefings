@@ -1,6 +1,6 @@
 ---
 date: '2025-07-14'
-modified_time: 2025-07-14 15:05:03-04:00
+modified_time: 2025-07-14 16:54:30-04:00
 published_time: 2025-07-14 15:05:02-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/president-trump-delivers-on-maha-push/
 tags: articles
@@ -35,10 +35,7 @@ to improve the food supply:**
     including Lay’s and Tostitos chips — by the end of the year.
 -   In-N-Out announced it will
     [remove](https://www.goodmorningamerica.com/food/story/removing-artificial-food-dyes-menu-items-121876249)
-    synthetic food dyes and artificial flavors from its menu items, and
-    also
-    [transitioned](https://x.com/innoutburger_/status/1907085545542701520?lang=en)
-    to 100% beef tallow.
+    synthetic food dyes and artificial flavors from its menu items.
 -   Tyson Foods
     [eliminated](https://www.reuters.com/business/retail-consumer/tyson-foods-reformulates-food-products-eliminate-synthetic-dyes-ceo-says-2025-05-05/)
     synthetic dyes in its food products.
