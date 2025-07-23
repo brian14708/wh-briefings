@@ -1,27 +1,26 @@
 ---
 date: '2025-07-23'
-modified_time: 2025-07-23 10:36:25-04:00
+modified_time: 2025-07-23 12:38:04-04:00
 published_time: 2025-07-23 10:36:24-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/
 tags: articles
-title: "WHITE HOUSE UNVEILS AMERICA\u2019S AI ACTION PLAN"
+title: "White House Unveils America\u2019s AI Action Plan"
 ---
  
-WASHINGTON, DC – The White House today released [“Winning the AI Race:
-America’s AI Action
-Plan”](https://webdevelopmentgroup.us20.list-manage.com/track/click?u=6821469cd180710d53bfc94d1&id=fb58ad6a8c&e=f395826b19),
+The White House today released [“Winning the AI Race: America’s AI
+Action
+Plan”](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf),
 in accordance with President Trump’s January executive order on
 [Removing Barriers to American Leadership in
-AI](https://webdevelopmentgroup.us20.list-manage.com/track/click?u=6821469cd180710d53bfc94d1&id=e9298b3abc&e=f395826b19).
+AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/).
 Winning the AI race will usher in a new golden age of human flourishing,
-economic competitiveness, and national security for the American
-people.  
-  
+economic competitiveness, and national security for the American people.
+
 The Plan identifies over 90 Federal policy actions across three pillars
 – Accelerating Innovation, Building American AI Infrastructure, and
 Leading in International Diplomacy and Security – that the Trump
-Administration will take in the coming weeks and months.  
-  
+Administration will take in the coming weeks and months.
+
 Key policies in the AI Action Plan include:
 
 -   **Exporting American AI:** The Commerce and State Departments will
@@ -48,8 +47,8 @@ galvanizes Federal efforts to turbocharge our innovation capacity, build
 cutting-edge infrastructure, and lead globally, ensuring that American
 workers and families thrive in the AI era. We are moving with urgency to
 make this vision a reality,” **said White House Office of Science and
-Technology Policy Director Michael Kratsios.**  
-  
+Technology Policy Director Michael Kratsios.**
+
 “Artificial intelligence is a revolutionary technology with the
 potential to transform the global economy and alter the balance of power
 in the world. To remain the leading economic and military power, the
@@ -58,8 +57,8 @@ directed us to produce this Action Plan. To win the AI race, the U.S.
 must lead in innovation, infrastructure, and global partnerships. At the
 same time, we must center American workers and avoid Orwellian uses of
 AI. This Action Plan provides a roadmap for doing that,” **said AI and
-Crypto Czar David Sacks.**  
-  
+Crypto Czar David Sacks.**
+
 “Winning the AI Race is non-negotiable. America must continue to be the
 dominant force in artificial intelligence to promote prosperity and
 protect our economic and national security. President Trump recognized
@@ -68,7 +67,6 @@ commissioning this AI Action Plan. These clear-cut policy goals set
 expectations for the Federal Government to ensure America sets the
 technological gold standard worldwide, and that the world continues to
 run on American technology,” **said Secretary of State and Acting
-National Security Advisor Marco Rubio.**  
-  
-Learn more at
-[ai.gov. ](https://webdevelopmentgroup.us20.list-manage.com/track/click?u=6821469cd180710d53bfc94d1&id=88e0796c3f&e=f395826b19)
+National Security Advisor Marco Rubio.**
+
+Learn more at [AI.Gov](https://ai.gov).
