@@ -1,15 +1,15 @@
 ---
 date: '2025-07-23'
-modified_time: 2025-07-23 12:38:04-04:00
+modified_time: 2025-07-23 12:41:04-04:00
 published_time: 2025-07-23 10:36:24-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/
 tags: articles
 title: "White House Unveils America\u2019s AI Action Plan"
 ---
  
-The White House today released [“Winning the AI Race: America’s AI
+The White House today released “[Winning the AI Race: America’s AI
 Action
-Plan”](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf),
+Plan](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)”,
 in accordance with President Trump’s January executive order on
 [Removing Barriers to American Leadership in
 AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/).
