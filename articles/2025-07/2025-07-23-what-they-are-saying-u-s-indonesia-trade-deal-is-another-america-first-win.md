@@ -1,6 +1,6 @@
 ---
 date: '2025-07-23'
-modified_time: 2025-07-23 16:23:18-04:00
+modified_time: 2025-07-24 08:24:55-04:00
 published_time: 2025-07-23 16:23:17-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/what-they-are-saying-u-s-indonesia-trade-deal-is-another-america-first-win/
 tags: articles
@@ -33,6 +33,11 @@ distortions in the global market for nickel to the detriment of steel
 producers in the United States. We look forward to working with USTR to
 address the Indonesian nickel export restrictions and other
 trade-distorting policies as these negotiations move forward.”
+
+[American Petroleum
+Institute:](https://x.com/APIenergy/status/1948077376472052112) “The
+U.S. is well-positioned to support Indonesia’s growing demand for
+affordable, reliable energy.”
 
 [Association for Competitive Technology President Morgan
 Reed](https://actonline.org/2025/07/23/act-the-app-association-statement-on-u-s-indonesia-trade-deal/):
@@ -67,6 +72,13 @@ commitment from USTR to address non-tariff barriers in that market. We
 look forward to future deals like this that reduce tariffs and ensure
 continued and increased market access for U.S. agriculture.”
 
+[Coalition of Services Industries President Christine
+Bliss](https://ustr.gov/about/policy-offices/press-office/press-releases/2025/july/us-indonesia-deal-applauded-american-farmers-ranchers-industry-leaders-and-lawmakers#:~:text=Coalition%20of%20Services,global%20services%20trade.):
+“The principles issued today reflect important progress in addressing
+significant trade barriers for U.S. service suppliers in the Indonesian
+market. We appreciate the work USTR has done in securing commitments
+that will strengthen and reinforce norms of global services trade.”
+
 [Computer and Communications Industry Association VP Jonathan
 McHale](https://ccianet.org/news/2025/07/ccia-applauds-progress-on-addressing-key-digital-trade-barriers-in-the-indonesian-market/):
 “The announced Framework agreement for addressing Indonesia’s many trade
@@ -100,6 +112,13 @@ region in over a decade and will be a timely step towards keeping U.S.
 dairy exporters globally competitive. We express our sincere
 appreciation to the Administration and the negotiators for achieving
 this positive outcome for U.S. dairy.”
+
+[National Corn Growers
+Association:](https://x.com/NationalCorn/status/1948054093009719313)
+“NCGA supports this development. Indonesia is an important market for
+U.S. DDGS. We are pleased that corn and corn products will have duty
+free access in this deal and look forward to further negotiations that
+benefit U.S. corn growers.”
 
 [National Grain and Feed Association President and CEO Mike
 Seyfert](https://www.ngfa.org/2025/07/22/ngfa-releases-statement-on-u-s-indonesia-trade-framework/):
