@@ -1,6 +1,6 @@
 ---
 date: '2025-07-25'
-modified_time: 2025-07-25 14:19:43-04:00
+modified_time: 2025-07-25 15:05:11-04:00
 published_time: 2025-07-25 14:18:36-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/president-trump-promised-to-end-child-sexual-mutilation-and-he-delivered/
 tags: articles
@@ -77,9 +77,7 @@ action](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-child
     providing so-called “gender-affirming surgery” to patients under 19.
 -   In Washington, D.C., Children’s National Hospital
     “[paused](https://www.nbcnews.com/nbc-out/out-politics-and-policy/hospitals-pause-gender-affirming-care-trump-transgender-order-rcna190164)”
-    prescribing puberty blockers and hormone therapies for minors, while
-    Northwest Washington Hospital [did the
-    same](https://www.washingtonpost.com/dc-md-va/2025/01/31/trans-children-trump-hormones-healthcare/).
+    prescribing puberty blockers and hormone therapies for minors.
 -   Kaiser Permanente
     [paused](https://www.dailywire.com/news/health-care-puts-stop-to-trans-surgeries-on-kids)
     sex-change surgeries for patients under 19 across all its hospitals
