@@ -1,6 +1,6 @@
 ---
 date: '2025-07-24'
-modified_time: 2025-07-24 12:59:46-04:00
+modified_time: 2025-07-25 09:16:44-04:00
 published_time: 2025-07-24 12:59:45-04:00
 source_url: https://www.whitehouse.gov/articles/2025/07/wide-acclaim-for-president-trumps-visionary-ai-action-plan/
 tags: articles
@@ -504,7 +504,7 @@ Plan, and we look forward to working with the Administration and
 Congress on its implementation.”
 
 [Society for Human Resource
-Management](https://www.asaecenter.org/about-us/news_releases/2025/ai-action-plan-positions-us-as-the-global-leader-on-transformative-technologies):
+Management](https://www.shrm.org/about/press-room/shrm-responds-to-the-president-s-ai-action-plan--which-prioritiz):
 “The President’s plan is not just about technology—but about people. The
 emphasis is on a worker-first approach that addresses American
 competitiveness in an AI-driven workforce. The plan reflects a
