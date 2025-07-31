@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30'
-modified_time: 2025-07-30 14:00:26-04:00
+modified_time: 2025-07-30 22:43:28-04:00
 published_time: 2025-07-30 14:00:25-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-is-protecting-the-united-states-national-security-and-economy-by-suspending-the-de-minimis-exemption-for-commercial-shipments-globally/
 tags: fact-sheets
@@ -81,7 +81,7 @@ duties, inspection, and U.S. law.
 -   The volume of *de minimis* shipments, even from countries that
     historically have not been the primary source of *de minimis* abuse,
     has skyrocketed this year, with 309 million so far for FY25 (through
-    June 30), compared to 115 million for all of FY24 resulting in
+    June 30), compared to 115 million for all of FY24, resulting in
     significant lost revenue for the United States.
 -   CBP is increasingly interdicting *de minimis* shipments where the
     certificate of origin is misrepresented in an attempt to circumvent
