@@ -1,6 +1,6 @@
 ---
 date: '2025-07-31'
-modified_time: 2025-07-31 14:21:37-04:00
+modified_time: 2025-07-31 17:38:38-04:00
 published_time: 2025-07-31 13:40:00-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/07/the-white-house-announces-white-house-ballroom-construction-to-begin/
 tags: briefings-statements
@@ -19,7 +19,7 @@ functions honoring world leaders and other countries without having to
 install a large and unsightly tent approximately 100 yards away from the
 main building entrance. The White House State Ballroom will be a
 much-needed and exquisite addition of approximately 90,000 total square
-feet of innately designed and carefully crafted space, with a seated
+feet of ornately designed and carefully crafted space, with a seated
 capacity of 650 people — a significant increase from the 200-person
 seated capacity in the East Room of the White House.  
    
