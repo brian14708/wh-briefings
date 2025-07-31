@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30'
-modified_time: 2025-07-30 14:30:04-04:00
+modified_time: 2025-07-31 09:35:56-04:00
 published_time: 2025-07-30 14:30:03-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/
 tags: fact-sheets
@@ -113,3 +113,7 @@ involving digital assets. The Working Group recommends that:
     of assets subject to modified versions of tax rules applicable to
     securities or commodities for Federal income tax purposes and add
     digital assets to the list of assets subject to wash sale rules.
+
+**Read the full report [here](https://www.whitehouse.gov/crypto/)**
+
+»
