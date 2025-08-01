@@ -1,5 +1,6 @@
 ---
 date: '2025-08-01'
+modified_time: 2025-08-01 14:58:24-04:00
 published_time: 2025-08-01 13:32:28-04:00
 source_url: https://www.whitehouse.gov/articles/2025/08/president-trump-revives-iconic-pillars-of-american-youth/
 tags: articles
@@ -54,7 +55,7 @@ Bryson DeChambeau, Saquon Barkley, Gary Bettman, Nick Bosa, Harrison
 Butker, Cody Campbell, Roger Goodell, Wayne Gretzky, Nelly Korda, Paul
 “Triple H” Levesque, Jack Nicklaus, Gary Player, Mariano Rivera, Tony
 Romo, Annika Sörenstam, Tua Tagovailoa, Lawrence Taylor, Matthew
-Tkachuk, Mariano Rivera, and Tony Romo.
+Tkachuk, and Mariano Rivera.
 
 It comes as the Trump Administration lays the groundwork for an American
 sports renaissance. Over the next three years, the U.S. will host the
