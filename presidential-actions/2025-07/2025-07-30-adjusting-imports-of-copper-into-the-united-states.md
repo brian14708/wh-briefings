@@ -1,6 +1,6 @@
 ---
 date: '2025-07-30'
-modified_time: 2025-07-31 16:03:16-04:00
+modified_time: 2025-08-01 09:24:14-04:00
 published_time: 2025-07-30 14:47:22-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/07/adjusting-imports-of-copper-into-the-united-states/
 tags: presidential-actions
@@ -323,19 +323,17 @@ subdivision:
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2025/07/CHART-1.png"
+src="https://www.whitehouse.gov/wp-content/uploads/2025/07/ANNEX1.png"
 decoding="async" data-fetchpriority="high"
-sizes="(max-width: 613px) 100vw, 613px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/07/CHART-1.png 613w, https://www.whitehouse.gov/wp-content/uploads/2025/07/CHART-1.png?resize=404,600 404w"
-width="613" height="911" />
+sizes="(max-width: 560px) 100vw, 560px"
+srcset="https://www.whitehouse.gov/wp-content/uploads/2025/07/ANNEX1.png 560w, https://www.whitehouse.gov/wp-content/uploads/2025/07/ANNEX1.png?resize=524,600 524w"
+width="560" height="641" />
 </figure>
 
 <figure>
 <img
-src="https://www.whitehouse.gov/wp-content/uploads/2025/07/Screenshot-2025-07-31-155535.png"
-decoding="async" sizes="(max-width: 634px) 100vw, 634px"
-srcset="https://www.whitehouse.gov/wp-content/uploads/2025/07/Screenshot-2025-07-31-155535.png 634w, https://www.whitehouse.gov/wp-content/uploads/2025/07/Screenshot-2025-07-31-155535.png?resize=600,320 600w"
-width="634" height="338" />
+src="https://www.whitehouse.gov/wp-content/uploads/2025/07/ANNEX2.png"
+decoding="async" width="560" height="316" />
 </figure>
 
 \(c\) Heading 9903.78.02 applies to the non-copper content of all
