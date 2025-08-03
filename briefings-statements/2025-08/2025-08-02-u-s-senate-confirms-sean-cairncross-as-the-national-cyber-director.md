@@ -1,6 +1,6 @@
 ---
 date: '2025-08-02'
-modified_time: 2025-08-02 21:35:25-04:00
+modified_time: 2025-08-02 23:28:26-04:00
 published_time: 2025-08-02 21:28:37-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/08/u-s-senate-confirms-sean-cairncross-as-the-national-cyber-director/
 tags: briefings-statements
