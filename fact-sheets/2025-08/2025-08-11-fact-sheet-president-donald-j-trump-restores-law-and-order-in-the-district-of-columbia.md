@@ -1,6 +1,6 @@
 ---
 date: '2025-08-11'
-modified_time: 2025-08-11 12:31:56-04:00
+modified_time: 2025-08-11 12:39:21-04:00
 published_time: 2025-08-11 11:22:01-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-restores-law-and-order-in-the-district-of-columbia/
 tags: fact-sheets
