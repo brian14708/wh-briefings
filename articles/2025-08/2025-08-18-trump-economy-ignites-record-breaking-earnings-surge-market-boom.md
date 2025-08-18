@@ -1,6 +1,6 @@
 ---
 date: '2025-08-18'
-modified_time: 2025-08-18 12:32:28-04:00
+modified_time: 2025-08-18 16:47:59-04:00
 published_time: 2025-08-18 12:32:27-04:00
 source_url: https://www.whitehouse.gov/articles/2025/08/trump-economy-ignites-record-breaking-earnings-surge-market-boom/
 tags: articles
@@ -16,17 +16,19 @@ forecasts and propelling the stock market to continued record highs.
     **over last year, almost** [**three times
     higher**](https://www.bloomberg.com/news/articles/2025-08-18/goldman-s-kostin-says-s-p-500-earnings-surge-past-expectations)
     **than the consensus expectation.**
-    -   84% of companies have
-        [beaten](https://archive.ph/pNym9#selection-1955.0-1962.0:~:text=Indeed%2C%20this%20earnings,Wall%20Street%27s%20estimates.)
-        Wall Street estimates — the [highest
-        share](https://www.bloomberg.com/news/articles/2025-08-18/goldman-s-kostin-says-s-p-500-earnings-surge-past-expectations#:~:text=S%26P%20500%20Firms%20Enjoy%20Best%20Season%20in%20About%20Four%20Years)
-        in nearly four years.60% of companies “have beaten earnings per
-        share forecasts by more than a standard deviation of estimates,”
-        [according to Goldman
-        Sachs](https://www.bloomberg.com/news/articles/2025-08-18/goldman-s-kostin-says-s-p-500-earnings-surge-past-expectations#:~:text=have%20beaten%20earnings%20per%20share%20forecasts%20by%20more%20than%20a%20standard%20deviation%20of%20estimates%2C%20they%20added.).
-
-    <!-- -->
-
+    -   <span style="font-size: revert;letter-spacing: 0.2px">84% of
+        companies have </span><a
+        href="https://archive.ph/pNym9#selection-1955.0-1962.0:~:text=Indeed%2C%20this%20earnings,Wall%20Street%27s%20estimates."
+        style="font-size: revert;letter-spacing: 0.2px">beaten</a><span style="font-size: revert;letter-spacing: 0.2px">
+        Wall Street estimates — the </span><a
+        href="https://www.bloomberg.com/news/articles/2025-08-18/goldman-s-kostin-says-s-p-500-earnings-surge-past-expectations#:~:text=S%26P%20500%20Firms%20Enjoy%20Best%20Season%20in%20About%20Four%20Years"
+        style="font-size: revert;letter-spacing: 0.2px">highest share</a><span style="font-size: revert;letter-spacing: 0.2px">
+        in nearly four years.</span>
+    -   <span style="letter-spacing: 0.2px">60% of companies “have
+        beaten earnings per share forecasts by more than a standard
+        deviation of estimates,” </span><a
+        href="https://www.bloomberg.com/news/articles/2025-08-18/goldman-s-kostin-says-s-p-500-earnings-surge-past-expectations#:~:text=have%20beaten%20earnings%20per%20share%20forecasts%20by%20more%20than%20a%20standard%20deviation%20of%20estimates%2C%20they%20added."
+        style="letter-spacing: 0.2px">according to Goldman Sachs</a><span style="letter-spacing: 0.2px">.</span>
     -   58% of companies
         [increased](https://archive.ph/pNym9#selection-1955.0-1962.0:~:text=Indeed%2C%20this%20earnings,Wall%20Street%27s%20estimates.)
         their full-year guidance for the year, doubling the number from
