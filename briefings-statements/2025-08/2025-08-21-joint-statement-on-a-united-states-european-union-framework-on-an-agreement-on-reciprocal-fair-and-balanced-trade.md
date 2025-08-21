@@ -1,5 +1,6 @@
 ---
 date: '2025-08-21'
+modified_time: 2025-08-21 10:06:52-04:00
 published_time: 2025-08-21 07:00:00-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/08/joint-statement-on-a-united-states-european-union-framework-on-an-agreement-on-reciprocal-fair-and-balanced-trade/
 tags: briefings-statements
@@ -9,25 +10,25 @@ title: Joint Statement on a United States-European Union Framework on an Agreeme
  
 The United States and the European Union are pleased to announce that
 they have agreed on a Framework on an Agreement on Reciprocal, Fair, and
-Balanced
-Trade (“Framework Agreement”). This Framework Agreement represents a
-concrete demonstration of our commitment to fair, balanced, and mutually
+Balanced Trade
+(“Framework Agreement”). This Framework Agreement represents a concrete
+demonstration of our commitment to fair, balanced, and mutually
 beneficial trade and investment.  This Framework Agreement will put our
 trade and investment relationship – one of the largest in the world – on
-a solid footing and will reinvigorate our
-economies’ reindustrialization. It reflects acknowledgement by the
-European Union of the concerns of the United States and our joint
-determination to resolve our trade imbalances and unleash the full
-potential of our combined economic power. The United States and the
-European Union intend this Framework Agreement to be a first step in a
-process that can be further expanded over time to cover additional areas
-and continue to improve market access and increase their trade and
-investment relationship.
+a solid footing and will reinvigorate our economies’
+reindustrialization. It reflects acknowledgement by the European Union
+of the concerns of the United States and our joint determination to
+resolve our trade imbalances and unleash the full potential of our
+combined economic power. The United States and the European Union intend
+this Framework Agreement to be a first step in a process that can be
+further expanded over time to cover additional areas and continue to
+improve market access and increase their trade and investment
+relationship.
 
 The key terms include: 
 
 1.​ The European Union intends to eliminate tariffs on all U.S.
-industrial goods and to provide preferential market access for a wide
+industrial goods and to provide preferential market access for a wide
 range of U.S. seafood and agricultural goods, including tree nuts, dairy
 products, fresh and processed fruits and vegetables, processed foods,
 planting seeds, soybean oil, and pork and bison meat. The European Union
@@ -67,7 +68,7 @@ and Section 232 automobile tariffs, will be applied. These tariff
 reductions are expected to be effective from the first day of the same
 month in which the European Union’s legislative proposal is
 introduced. The United States expects the European Union’s legislative
-proposals will be consistent with this Framework Agreement and enacted
+proposals will be consistent with this Framework Agreement and enacted
 by the necessary legislatures. All modifications to U.S. Section 232
 tariffs will be executed in a manner that reinforces and is consistent
 with U.S. national security interests. With respect to steel, aluminum,
