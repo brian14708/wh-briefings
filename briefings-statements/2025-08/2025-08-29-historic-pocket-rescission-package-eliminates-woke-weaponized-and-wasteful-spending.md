@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29'
-modified_time: 2025-08-29 14:30:45-04:00
+modified_time: 2025-08-29 15:17:21-04:00
 published_time: 2025-08-29 12:46:15-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/08/historic-pocket-rescission-package-eliminates-woke-weaponized-and-wasteful-spending/
 tags: briefings-statements
@@ -39,12 +39,12 @@ American foreign policy interests. Examples include:
 
 -   $400 million per year for global climate grift projects like:
     -   A partnership with the Green Climate Fund, for the Barbados
-        Blue-Green Bank for climate change mitigation.$650,000 for
-        micro-insurance for smallholder farmers and microbusinesses in
-        Colombia for climate disaster response.
+        Blue-Green Bank for climate change mitigation.
 
     <!-- -->
 
+    -   $650,000 for micro-insurance for smallholder farmers and
+        microbusinesses in Colombia for climate disaster response.
     -   $24.6 million to build climate resilience in Honduras.
     -   $38.6 million for biodiversity and low-emissions development in
         West Africa.
