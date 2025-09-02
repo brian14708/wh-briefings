@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29'
-modified_time: 2025-08-29 15:17:21-04:00
+modified_time: 2025-09-02 13:36:17-04:00
 published_time: 2025-08-29 12:46:15-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/08/historic-pocket-rescission-package-eliminates-woke-weaponized-and-wasteful-spending/
 tags: briefings-statements
@@ -101,15 +101,9 @@ many years. This account funded:
     social and cultural causes, with an outsized focus on the globalist
     ideological agenda in the UN’s “Sustainable Development Goals” and
     has long fostered antisemitism and anti-Israel sentiment.
--   $29 million to the toothless World Trade Organization (WTO), which
-    has for decades aided and abetted global trade cheating by the
-    Chinese Communist party.
 -   $107 million for the International Labor Organization (ILO), a group
     that works to unionize foreign workers and punish U.S. corporate
-    interests abroad.
--   U.S. contributions to the Organization for Economic Cooperation and
-    Development (OECD) facilitated a harmful global tax deal, allowing
-    other countries to dictate American tax policy.
+    interests abroad
 -   U.S. budget support for countless organizations like the Colombo
     Plan Council for Technical Cooperation, the International Tropical
     Timber Organization, and the Pan American Institute on Geography and
