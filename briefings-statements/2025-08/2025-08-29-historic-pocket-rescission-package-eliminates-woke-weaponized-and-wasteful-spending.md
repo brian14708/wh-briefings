@@ -1,6 +1,6 @@
 ---
 date: '2025-08-29'
-modified_time: 2025-09-02 13:36:17-04:00
+modified_time: 2025-09-03 16:26:40-04:00
 published_time: 2025-08-29 12:46:15-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/08/historic-pocket-rescission-package-eliminates-woke-weaponized-and-wasteful-spending/
 tags: briefings-statements
@@ -90,7 +90,7 @@ This account provides funding for the assessed contributions to the
 United Nations (UN), UN-Affiliated organizations, and various other
 international organizations that do not support major U.S. policies or
 priorities or have been operating contrary to American interests for
-many years. This account funded:
+many years. Examples of previous funding include:
 
 -   $45 million to the Pan American Health Organization (PAHO) is the
     regional arm of the World Health Organization, and has faced
@@ -101,9 +101,6 @@ many years. This account funded:
     social and cultural causes, with an outsized focus on the globalist
     ideological agenda in the UN’s “Sustainable Development Goals” and
     has long fostered antisemitism and anti-Israel sentiment.
--   $107 million for the International Labor Organization (ILO), a group
-    that works to unionize foreign workers and punish U.S. corporate
-    interests abroad
 -   U.S. budget support for countless organizations like the Colombo
     Plan Council for Technical Cooperation, the International Tropical
     Timber Organization, and the Pan American Institute on Geography and
