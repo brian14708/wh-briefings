@@ -1,6 +1,6 @@
 ---
 date: '2025-09-02'
-modified_time: 2025-09-02 12:29:45-04:00
+modified_time: 2025-09-04 12:21:52-04:00
 published_time: 2025-09-02 12:29:41-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/09/presidential-message-on-national-preparedness-month/
 tags: briefings-statements
@@ -13,7 +13,7 @@ they need and deserve, so that when disaster strikes, our State and
 Federal governments are prepared—and our citizens are safe and secure.
 
 Tragically, over the last year, natural disasters have ravaged nearly
-every region of our country.  In the wake of Hurricanes Helene and Erin,
+every region of our country. In the wake of Hurricanes Helene and Erin,
 catastrophic flooding in Texas, and blazing fires in California,
 countless families have borne power outages, severe structural damage,
 unthinkable injuries, and death.  I send my thoughts and prayers to the
