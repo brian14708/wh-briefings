@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05'
-modified_time: 2025-09-05 19:08:54-04:00
+modified_time: 2025-09-05 21:37:10-04:00
 published_time: 2025-09-05 19:05:50-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/09/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and-security-agreements/
 tags: presidential-actions
@@ -453,3 +453,5 @@ removing the following provisions of the HTSUS:
 
 **[CLICK HERE TO VIEW ANNEX
 II](https://www.whitehouse.gov/wp-content/uploads/2025/09/ANNEX-II.pdf)**
+[**&
+III**](https://www.whitehouse.gov/wp-content/uploads/2025/09/ANNEX-II.pdf)
