@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08'
-modified_time: 2025-09-08 15:53:01-04:00
+modified_time: 2025-09-09 17:09:53-04:00
 published_time: 2025-09-08 15:53:00-04:00
 source_url: https://www.whitehouse.gov/articles/2025/09/charlotte-murder-exposes-democrat-failures-after-career-criminal-freed-by-woke-policies/
 tags: articles
@@ -10,7 +10,7 @@ title: Charlotte Murder Exposes Democrat Failures After Career Criminal Freed by
  
 Horrifying video
 [released](https://www.wcnc.com/article/news/crime/deadly-cats-stabbing-surveillance-video-to-be-released/275-347a6496-4a0c-4049-a87d-72533fce7e71)
-on Friday shows the moment and innocent woman was brutally
+on Friday shows the moment an innocent woman was brutally
 [murdered](https://www.wcnc.com/article/news/crime/woman-stabbed-in-throat-on-lynx-blue-line-charlotte/275-36fe55e3-ed6c-4674-976b-a14fb716fdc4)
 on a train in Charlotte, North Carolina — a shocking act of evil that
 didn’t have to happen.
