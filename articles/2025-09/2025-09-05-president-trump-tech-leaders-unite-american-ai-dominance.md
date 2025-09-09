@@ -1,6 +1,6 @@
 ---
 date: '2025-09-05'
-modified_time: 2025-09-05 11:00:37-04:00
+modified_time: 2025-09-08 22:27:58-04:00
 published_time: 2025-09-05 10:55:45-04:00
 source_url: https://www.whitehouse.gov/articles/2025/09/president-trump-tech-leaders-unite-american-ai-dominance/
 tags: articles
@@ -92,7 +92,7 @@ already. The AI Action Plan, under your leadership, I think is a great
 start, and we look forward to working together — and thanks for your
 leadership.”
 
-[AMD President and CEO Lisa
+[AMD Chair and CEO Lisa
 Su](https://x.com/RapidResponse47/status/1963782822218313962): “The
 incredible work that your administration has done to support the
 semiconductor industry… the amount of acceleration that we’ve seen just
