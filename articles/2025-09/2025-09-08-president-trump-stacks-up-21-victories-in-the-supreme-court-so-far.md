@@ -1,6 +1,6 @@
 ---
 date: '2025-09-08'
-modified_time: 2025-09-08 17:47:09-04:00
+modified_time: 2025-09-09 08:59:45-04:00
 published_time: 2025-09-08 17:47:08-04:00
 source_url: https://www.whitehouse.gov/articles/2025/09/president-trump-stacks-up-21-victories-in-the-supreme-court-so-far/
 tags: articles
