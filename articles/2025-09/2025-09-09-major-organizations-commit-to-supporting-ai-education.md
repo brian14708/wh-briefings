@@ -1,5 +1,6 @@
 ---
 date: '2025-09-09'
+modified_time: 2025-09-11 09:23:36-04:00
 published_time: 2025-09-09 09:23:38-04:00
 source_url: https://www.whitehouse.gov/articles/2025/09/major-organizations-commit-to-supporting-ai-education/
 tags: articles
@@ -953,15 +954,6 @@ Our commitments related to Intuit for Education include:
     -   Helping 700K students build entrepreneurship and accounting
         skills by expanding our free QuickBooks education program
         powered by AI-driven Intuit products.
--   AI in Community Colleges and Future Workforce Preparation: Intel is
-    now extending a new AI’s X portfolio of programs for workforce
-    development, targeting employability education for key industry
-    verticals (AI for Agri, AI for Manufacturing, AI for Cybersecurity)
-    and key horizontal skills applicable in all industries (AI for
-    Sustainability, AI for Accessibility, and AI for Applied Ethics)
-    across 130 community colleges. Intel is also supporting Community
-    Colleges to build their K-12 outreach programs, benefiting students
-    and families through curriculum, training resources, etc.”
 
 ## Deloitte
 
@@ -1174,6 +1166,15 @@ nationwide.
     accessibility, and applied ethics. These initiatives ensure every
     American student has access to world-class AI education and
     opportunities to participate in our nation’s technological future.”
+-   AI in Community Colleges and Future Workforce Preparation: Intel is
+    now extending a new AI’s X portfolio of programs for workforce
+    development, targeting employability education for key industry
+    verticals (AI for Agri, AI for Manufacturing, AI for Cybersecurity)
+    and key horizontal skills applicable in all industries (AI for
+    Sustainability, AI for Accessibility, and AI for Applied Ethics)
+    across 130 community colleges. Intel is also supporting Community
+    Colleges to build their K-12 outreach programs, benefiting students
+    and families through curriculum, training resources, etc.”
 
 ## Snap Inc.
 
