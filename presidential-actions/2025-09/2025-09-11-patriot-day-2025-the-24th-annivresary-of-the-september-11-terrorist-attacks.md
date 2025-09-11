@@ -1,9 +1,10 @@
 ---
 date: '2025-09-11'
+modified_time: 2025-09-11 13:29:46-04:00
 published_time: 2025-09-11 11:49:59-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/09/patriot-day-2025-the-24th-annivresary-of-the-september-11-terrorist-attacks/
 tags: presidential-actions
-title: Patriot Day 2025, The 24th Annivresary of the September 11 Terrorist Attacks
+title: Patriot Day 2025, The 24th Anniversary of the September 11 Terrorist Attacks
 ---
  
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA
