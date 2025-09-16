@@ -1,6 +1,6 @@
 ---
 date: '2025-09-15'
-modified_time: 2025-09-15 16:26:13-04:00
+modified_time: 2025-09-15 18:39:39-04:00
 published_time: 2025-09-15 16:26:12-04:00
 source_url: https://www.whitehouse.gov/articles/2025/09/vp-vance-administration-leaders-honor-charlie-kirks-enduring-legacy/
 tags: articles
@@ -75,10 +75,12 @@ personal stories:**
     will do it in Charlie’s name.”
     ([Watch](https://x.com/RapidResponse47/status/1967627728687157593),
     [Watch](https://x.com/RapidResponse47/status/1967627684886061110))
--   **White House Deputy Chief of Staff Taylor Budowich:** “You’d always
-    want Charlie on your team… he makes these events approachable to the
-    person that hasn’t done politics before, hasn’t been engaged…”
-    ([Watch](https://x.com/RapidResponse47/status/1967630620324237463))
+-   **White House Deputy Chief of Staff Taylor Budowich:** “Before
+    Wednesday, Charlie Kirk was a young man inspiring young people.
+    After he was killed, he has become a titan whose inspiration will
+    move through eternity inspiring millions of people for decades to
+    come.”
+    ([Watch](https://x.com/RapidResponse47/status/1967719868582793641))
 -   **White House Deputy Communications Director Kaelan Dorr:** “It’s
     our mission to go out there and embolden young conservatives, young
     Christians, most importantly, to go out there and continue to do his
