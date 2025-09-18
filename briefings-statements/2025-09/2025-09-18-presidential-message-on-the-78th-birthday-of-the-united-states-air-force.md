@@ -1,5 +1,6 @@
 ---
 date: '2025-09-18'
+modified_time: 2025-09-18 13:18:41-04:00
 published_time: 2025-09-18 12:20:38-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/09/presidential-message-on-the-78th-birthday-of-the-united-states-air-force/
 tags: briefings-statements
