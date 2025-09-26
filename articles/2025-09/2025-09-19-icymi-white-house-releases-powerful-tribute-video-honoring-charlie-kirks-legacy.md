@@ -28,9 +28,7 @@ mission: “You have no idea the fire you have ignited.”
 <div class="player-unavailable">
 <h1 id="an-error-occurred." class="message">An error occurred.</h1>
 <div class="submessage">
-<a href="https://www.youtube.com/watch?v=rLj1PHXRkw4"
-target="_blank">Try watching this video on www.youtube.com</a>, or
-enable JavaScript if it is disabled in your browser.
+Unable to execute JavaScript.
 </div>
 </div>
 </div>
