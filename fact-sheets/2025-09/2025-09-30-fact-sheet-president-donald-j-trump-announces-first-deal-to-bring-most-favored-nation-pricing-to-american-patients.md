@@ -1,5 +1,6 @@
 ---
 date: '2025-09-30'
+modified_time: 2025-09-30 13:38:36-04:00
 published_time: 2025-09-30 12:32:04-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-announces-first-deal-to-bring-most-favored-nation-pricing-to-american-patients/
 tags: fact-sheets
@@ -35,7 +36,7 @@ diseases Pfizer’s medicines treat, and many of those will benefit from
 the President’s successful negotiation of lower prices for Americans.
 Examples include:
 
--   Eucrisa, a topical ointment for atopic dermatitis will be made
+-   Eucrisa, a topical ointment for atopic dermatitis, will be made
     available at an 80% discount to patients purchasing directly.
 -   Xeljanz, a widely used oral medication for rheumatoid arthritis,
     psoriatic arthritis, and ulcerative colitis, will be available at a
