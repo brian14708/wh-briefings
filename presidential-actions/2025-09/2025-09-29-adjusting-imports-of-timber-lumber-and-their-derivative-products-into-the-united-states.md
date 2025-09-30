@@ -1,5 +1,6 @@
 ---
 date: '2025-09-29'
+modified_time: 2025-09-29 20:47:33-04:00
 published_time: 2025-09-29 20:41:07-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/09/adjusting-imports-of-timber-lumber-and-their-derivative-products-into-the-united-states/
 tags: presidential-actions
