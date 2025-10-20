@@ -1,6 +1,6 @@
 ---
 date: '2025-10-20'
-modified_time: 2025-10-20 14:35:42-04:00
+modified_time: 2025-10-20 17:54:21-04:00
 published_time: 2025-10-20 14:30:16-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/
 tags: briefings-statements
@@ -81,29 +81,31 @@ minerals and rare earths.
     price floors or similar measures.  The Participants will also work
     with international partners to develop a future global framework to
     deal with associated international pricing challenges.
-
--   **Asset Sales:**  The Participants commit to work in good faith to
+5.  **Asset Sales:**  The Participants commit to work in good faith to
     develop new or strengthen existing authorities and diplomatic tools
     that review and deter critical minerals and rare earths asset sales
     on national security grounds.
--   **Scrap:**  The Participants commit to investing in minerals
+6.  **Scrap:**  The Participants commit to investing in minerals
     recycling technology and to work together to ensure management of
     critical minerals and rare earth scrap that supports supply chain
     diversification.
--   **Third parties:**  The Participants will work together with third
+7.  **Third parties:**  The Participants will work together with third
     parties as appropriate to ensure supply chain security and utilize
     existing engagement mechanisms.
-
-1.  **Geological mapping:**  The Participants will cooperate to assist
+8.  **Geological mapping:**  The Participants will cooperate to assist
     in mapping mineral resources in Australia, the United States, and
     elsewhere as mutually determined, to support diversified critical
     mineral supply chains.
-2.  **Rapid Response:**  The Participants are establishing a
+9.  **Rapid Response:**  The Participants are establishing a
     **U.S.-Australia Critical Minerals Supply Security Response Group**
     under the leadership of the U.S. Secretary of Energy and the
     Australian Minister for Resources to identify priority minerals and
     supply vulnerabilities and develop a coordinated plan to accelerate
     delivery of processed minerals under this Framework.
+
+<!-- -->
+
+1.  
 
 **Section II**
 
@@ -138,7 +140,7 @@ Government of Australia:
 United States of America:
 
 Donald J. Trump                                            
-                        Anthony Albanese
+                      Anthony Albanese
 
 President                                                        
-                       Prime Minister
+                        Prime Minister
