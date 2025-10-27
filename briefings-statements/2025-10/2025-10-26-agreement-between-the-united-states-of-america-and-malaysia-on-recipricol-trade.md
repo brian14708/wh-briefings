@@ -1,18 +1,17 @@
 ---
 date: '2025-10-26'
-modified_time: 2025-10-26 02:16:27-04:00
+modified_time: 2025-10-27 12:22:05-04:00
 published_time: 2025-10-26 02:16:26-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/10/agreement-between-the-united-states-of-america-and-malaysia-on-recipricol-trade/
 tags: briefings-statements
-title: Agreement Between the United States of America and Malaysia on Recipricol Trade
+title: Agreement Between the United States of America and Malaysia on Reciprocal Trade
 ---
  
 **Preamble**
 
 The Government of the United States of America (“United States”) and the
 Government of Malaysia (“Malaysia”) (hereinafter referred to
-individually as “a Party” and collectively as  
-“the Parties”),
+individually as “a Party” and collectively as “the Parties”),
 
 **EMPHASIZING** their shared values, including their shared commitment
 to sovereignty, economic prosperity, and resilient supply chains;
