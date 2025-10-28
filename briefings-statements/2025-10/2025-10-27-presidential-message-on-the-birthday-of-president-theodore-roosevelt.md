@@ -1,6 +1,6 @@
 ---
 date: '2025-10-27'
-modified_time: 2025-10-28 12:15:52-04:00
+modified_time: 2025-10-28 14:38:56-04:00
 published_time: 2025-10-27 12:15:10-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/10/presidential-message-on-the-birthday-of-president-theodore-roosevelt/
 tags: briefings-statements
@@ -33,7 +33,7 @@ As President, Roosevelt quickly established a foreign policy famously
 rooted in his commonsense motto: speak softly and carry a big stick.  He
 understood that when America is strong, prosperous, and free at home,
 threats from beyond our shores can be deterred and the world can be at
-peace.  President Roosevelt brought to vitality to Washington—constantly
+peace.  President Roosevelt brought vitality to Washington—constantly
 working for the common good and fighting for a “square deal” for the
 forgotten men and women of America.  He built the Panama Canal,
 prosecuted public and private corruption, removed toxins from our food
