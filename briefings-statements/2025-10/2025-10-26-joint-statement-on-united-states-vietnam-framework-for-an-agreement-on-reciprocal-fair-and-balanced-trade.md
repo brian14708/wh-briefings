@@ -1,6 +1,6 @@
 ---
 date: '2025-10-26'
-modified_time: 2025-10-26 04:15:24-04:00
+modified_time: 2025-10-27 21:41:49-04:00
 published_time: 2025-10-26 04:15:23-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/10/joint-statement-on-united-states-vietnam-framework-for-an-agreement-on-reciprocal-fair-and-balanced-trade/
 tags: briefings-statements
