@@ -1,6 +1,6 @@
 ---
 date: '2025-10-26'
-modified_time: 2025-10-27 22:01:05-04:00
+modified_time: 2025-10-31 13:01:02-04:00
 published_time: 2025-10-26 02:16:26-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/10/agreement-between-the-united-states-of-america-and-malaysia-on-reciprocal-trade/
 tags: briefings-statements
@@ -11,7 +11,8 @@ title: Agreement Between the United States of America and Malaysia on Reciprocal
 
 The Government of the United States of America (“United States”) and the
 Government of Malaysia (“Malaysia”) (hereinafter referred to
-individually as “a Party” and collectively as “the Parties”),
+individually as “a Party” and collectively as  
+“the Parties”),
 
 **EMPHASIZING** their shared values, including their shared commitment
 to sovereignty, economic prosperity, and resilient supply chains;
@@ -29,8 +30,7 @@ increased alignment on national and regional economic security matters,
 
 **HAVE AGREED** as follows:
 
-**<span style="text-decoration: underline">Section 1. Tariffs and
-Quotas</span>**
+**Section 1. Tariffs and Quotas**
 
 **Article 1.1: Tariffs**
 
@@ -48,8 +48,7 @@ Malaysia shall not impose quantitative restrictions on imports of
 originating goods of the United States except in accordance with the
 *General Agreement on Tariffs and Trade* 1994 (GATT 1994).
 
-**<span style="text-decoration: underline">Section 2. Non-Tariff
-Barriers and Related Matters</span>**
+**Section 2. Non-Tariff Barriers and Related Matters**
 
 **Article 2.1: Import Licensing**
 
@@ -76,7 +75,7 @@ additional conformity assessment requirements. In doing so─
 of the United States treatment no less favorable than that it accords to
 its own bodies; and
 
-\(b\)       Malaysia shall facilitate the acceptance of U.S. compliance
+(b)       Malaysia shall facilitate the acceptance of U.S. compliance
 procedures for goods that are not subject to third-party conformity
 assessment in the U.S. regulatory framework.
 
@@ -97,7 +96,7 @@ for U.S. agricultural goods as set forth in this Agreement. In doing so─
 disguised restrictions on bilateral trade, and shall remove unjustified
 SPS barriers in areas that undermine reciprocity.
 
-(b)       Malaysia shall not enter into agreements or understandings
+(b)        Malaysia shall not enter into agreements or understandings
 with third countries that include non-scientific, discriminatory, or
 preferential technical standards or third-country SPS measures that are
 incompatible with U.S. or international standards; or otherwise
@@ -199,8 +198,7 @@ relation to exports from that Party.
 3.         Malaysia shall not impose value-added taxes that discriminate
 against U.S. companies in law or in fact. 
 
-**<span style="text-decoration: underline">Section 3. Digital Trade and
-Technology</span>**
+**Section 3. Digital Trade and Technology**
 
 **Article 3.1: Digital Services Tax**
 
@@ -216,9 +214,9 @@ by─
 digital services or U.S. products distributed
 digitally;<a href="#_ftn7" id="_ftnref7">[7]</a>
 
-(b)       ensuring the cross-border transfer of data by electronic means
-across trusted borders, with appropriate protections, for the conduct of
-business; and
+(b)        ensuring the cross-border transfer of data by electronic
+means across trusted borders, with appropriate protections, for the
+conduct of business; and
 
 \(c\)        endeavoring to collaborate with the United States to
 address cybersecurity challenges and matters of mutual interest, which
@@ -247,7 +245,7 @@ territory.
 conditions related to the provision of source code in commercially
 negotiated contracts;
 
-(b)       preclude a Party from requiring that access be provided to
+(b)        preclude a Party from requiring that access be provided to
 software used for critical infrastructure, to the extent required to
 ensure the effective functioning of critical infrastructure, subject to
 safeguards against unauthorized disclosure;
@@ -281,8 +279,7 @@ in a manner consistent with Articles I and III of the GATT 1994 or
 Articles II and XVII of the WTO *General Agreement on Trade in Services*
 (GATS).
 
-**<span style="text-decoration: underline">Section 4. Rules of
-Origin</span>**
+**Section 4. Rules of Origin**
 
 **Article 4.1: General Provision**
 
@@ -292,8 +289,7 @@ are accruing substantially to third countries or third-country
 nationals, a Party may establish rules of origin necessary to achieve
 the Parties’ intention for this Agreement.
 
-**<span style="text-decoration: underline">Section 5. Economic and
-National Security</span>**
+**Section 5. Economic and National Security**
 
 **Article 5.1: Complementary Actions**
 
@@ -318,7 +314,7 @@ jurisdiction that result in─
 
 (a)        the export of below-market price goods to the United States;
 
-(b)       increased exports of such goods to the United States;
+(b)        increased exports of such goods to the United States;
 
 (c)        a reduction in U.S. exports to Malaysia; or
 
@@ -387,8 +383,7 @@ Order 14257 of April 2, 2025.
 or enriched uranium from certain countries, except where there are no
 alternative suppliers on comparable terms and conditions.
 
-**<span style="text-decoration: underline">Section 6. Commercial
-Considerations and Opportunities</span>**
+**Section 6. Commercial Considerations and Opportunities**
 
 **Article 6.1: Investment **
 
@@ -437,11 +432,10 @@ bilateral trade and investment with the United States.
 **Article 6.3: Purchases**
 
 Malaysia intends to purchase, or to facilitate the purchase by Malaysian
-companies, of originating goods of the United States, as set out in
-Annex IV.
+companies, of originating goods of United States, as set out in Annex
+IV.
 
-**<span style="text-decoration: underline">Section 7. Implementation,
-Enforcement, and Final Provisions</span>**
+**Section 7. Implementation, Enforcement, and Final Provisions**
 
 **Article 7.1: Recognition of Existing Rights and Obligations**
 
@@ -499,31 +493,26 @@ their respective Governments, have signed this Agreement.
 
 DONE in duplicate at Kuala Lumpur, this 26th day of October, 2025.
 
-For the Government of the                                         For
-the Government of Malaysia:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                   
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-United States of America:                                         
-
-Donald. J. Trump                                                       
-Anwar Ibrahim
-
-President                                                                    
-Prime Minister
+FOR THE GOVERNMENT OF                                FOR THE GOVERNMENT
+OF THE UNITED STATES OF AMERICA                   MALAYSIA
 
 ------------------------------------------------------------------------
 
-<a href="#_ftnref1" id="_ftn1">[1]</a> **Customs duty** includes any
-duty or charge of any kind imposed on or in connection with the
-importation of a good, and any surtax or surcharge imposed in connection
-with such importation, but does not include any─
+\[1\] **Customs duty** includes any duty or charge of any kind imposed
+on or in connection with the importation of a good, and any surtax or
+surcharge imposed in connection with such importation, but does not
+include any─
 
-(a)        charge equivalent to an internal tax imposed consistently
+(a)           charge equivalent to an internal tax imposed consistently
 with Article III:2 of GATT 1994;
 
-(b)        fee or other charge in connection with the importation
+(b)           fee or other charge in connection with the importation
 commensurate with the cost of services rendered; or
 
-(c)        antidumping or countervailing duty applied pursuant to a
+(c)           antidumping or countervailing duty applied pursuant to a
 Party’s law.
 
 <a href="#_ftnref2" id="_ftn2">[2]</a> For greater certainty, “import
@@ -542,32 +531,37 @@ Intellectual Property Rights*. Further, for purposes of this Agreement,
 the protection of intellectual property includes matters related to
 technological protection measures and rights management information.
 
-<a href="#_ftnref5" id="_ftn5">[5]</a> For purposes of this paragraph,
-internationally recognized labor rights include those in the
-International Labor Organization (ILO) *Declaration on Fundamental
-Principles and Rights at Work and its Follow-Up (1998)*, as amended in
-2022; a prohibition on the worst forms of child labor; and acceptable
-conditions of work with respect to minimum wages and hours of work.
+\[5\] For purposes of this paragraph, internationally recognized labor
+rights include those in the International Labor Organization (ILO)
+*Declaration on Fundamental Principles and Rights at Work and its
+Follow-Up (1998)*, as amended in 2022; a prohibition on the worst forms
+of child labor; and acceptable conditions of work with respect to
+minimum wages and hours of work.
 
 \[6\] For greater certainty, the scope of this paragraph includes
 special economic zones, including export processing zones, or
 sector-specific laws or regulations that have lesser labor protections
 than the overall economy.
 
-<a href="#_ftnref7" id="_ftn7">[7]</a> For greater certainty, Malaysia
-has the right to regulate in the public interest.
+\[7\] For greater certainty, Malaysia has the right to regulate in the
+public interest. \[1\] The Parties understand that the term “prudential
+reasons” includes the maintenance of the safety, soundness, and
+integrity or financial responsibility of individual financial service
+suppliers as well as the safety and financial and operational integrity
+of payment and clearing systems.
 
-\[8\] The Parties understand that the term “prudential reasons” includes
-the maintenance of the safety, soundness, and integrity or financial
-responsibility of individual financial service suppliers as well as the
-safety and financial and operational integrity of payment and clearing
-systems.
-
-<a href="#_ftnref9" id="_ftn9">[9]</a> For purposes of this paragraph,
+<a href="#_ftnref9" id="_ftn9">[8]</a> For purposes of this paragraph,
 “non-confidential information” means information other than confidential
 information, and “confidential information” means information that
 relates to a specific enterprise and is protected under the laws and
 regulations of Malaysia.
 
+\[9\] For purposes of this paragraph, “non-confidential information”
+means information other than confidential information, and “confidential
+information” means information that relates to a specific enterprise and
+is protected under the laws and regulations of Malaysia.
+
+------------------------------------------------------------------------
+
 **[Annexes and
-Appendix](https://www.whitehouse.gov/wp-content/uploads/2025/10/final.pdf)**
+Appendix](https://www.whitehouse.gov/wp-content/uploads/2025/10/MALAYSIA-ANNEX_APPENDIX.pdf)**
