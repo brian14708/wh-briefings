@@ -1,6 +1,6 @@
 ---
 date: '2025-10-29'
-modified_time: 2025-10-29 03:38:29-04:00
+modified_time: 2025-10-30 20:06:26-04:00
 published_time: 2025-10-29 03:38:28-04:00
 source_url: https://www.whitehouse.gov/articles/2025/10/the-united-states-signs-technology-prosperity-deals-with-japan-and-korea/
 tags: articles
@@ -66,12 +66,13 @@ commitment of the two nations to science and technology collaboration.
 -   The U.S. will work with Korean counterparts to reduce operational
     burdens for technology companies and digital application platforms,
     with particular attention to removing barriers to innovative data
-    localization hosting architectures.
+    hosting architectures.
 -   The U.S.-Korea TPD will advance American interests with coordinated
     U.S.-Republic of Korea AI exports, strengthening both countries’
-    export controls and enforcement, and refocusing the partnership
-    between the U.S. Center for AI Standards and Innovation and the
-    Korea AI Safety Institute on metrology and standards innovation. 
+    technology protections and enforcement, and refocusing the
+    partnership between the U.S. Center for AI Standards and Innovation
+    and the Korea AI Safety Institute on metrology and standards
+    innovation. 
 -   The U.S.-Korea TPD also advances combined efforts to secure the
     innovation ecosystem, with particular focus on research security,
     resilient biotechnology and pharmaceutical supply chains, and
