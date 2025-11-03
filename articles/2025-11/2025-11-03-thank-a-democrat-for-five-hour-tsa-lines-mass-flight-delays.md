@@ -1,5 +1,6 @@
 ---
 date: '2025-11-03'
+modified_time: 2025-11-03 15:35:46-05:00
 published_time: 2025-11-03 15:33:20-05:00
 source_url: https://www.whitehouse.gov/articles/2025/11/thank-a-democrat-for-five-hour-tsa-lines-mass-flight-delays/
 tags: articles
@@ -10,7 +11,7 @@ title: Thank a Democrat for Five-Hour TSA Lines, Mass Flight Delays
 air travel grinds to a halt amid the Democrat-driven chaos.** With
 essential workers like air traffic controllers and TSA agents being
 forced to labor without paychecks, this past weekend saw the “[worst
-weekend](https://www.cnn.com/2025/11/03/us/worst-weekend-air-traffic-control-staff-hnk)“
+weekend](https://www.cnn.com/2025/11/03/us/worst-weekend-air-traffic-control-staff-hnk)”
 for staff since the Democrat Shutdown began — and it’s only going to
 [get
 worse](https://nypost.com/2025/11/02/us-news/sean-duffy-warns-airport-delays-will-get-worse-as-the-government-shutdown-continues/).
@@ -77,8 +78,8 @@ clean, nonpartisan continuing resolution.** Each week the Democrat
 Shutdown is prolonged, [$1+
 billion](https://www.ustravel.org/press/us-travel-association-americas-travel-economy-has-lost-1-billion-and-counting) in
 travel-related spending is lost, all while Democrats try to
-“[leverage](https://www.whitehouse.gov/articles/2025/10/top-democrat-cheers-americans-suffering-as-leverage-in-their-sick-political-game/)“
-in their demented political game.
+“[leverage](https://www.whitehouse.gov/articles/2025/10/top-democrat-cheers-americans-suffering-as-leverage-in-their-sick-political-game/)”
+the suffering in their demented political game.
 
 **Democrats hold the off-switch; they choose chaos every day they refuse
 to act.**
