@@ -1,6 +1,6 @@
 ---
 date: '2025-11-01'
-modified_time: 2025-11-01 14:31:48-04:00
+modified_time: 2025-11-04 21:02:52-04:00
 published_time: 2025-11-01 14:31:47-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/
 tags: fact-sheets
@@ -41,8 +41,7 @@ farmers, and families first.
 -   China will issue general licenses valid for exports of rare earths,
     gallium, germanium, antimony, and graphite for the benefit of U.S.
     end users and their suppliers around the world. The general license
-    means the de facto removal of controls China imposed in April 2025
-    and October 2022.
+    means the de facto removal of controls China imposed since 2023.
 -   China will take significant measures to end the flow of fentanyl to
     the United States. Specifically, China will stop the shipment of
     certain designated chemicals to North America and strictly control
