@@ -1,6 +1,6 @@
 ---
 date: '2025-11-01'
-modified_time: 2025-11-04 21:02:52-04:00
+modified_time: 2025-11-05 09:56:23-04:00
 published_time: 2025-11-01 14:31:47-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-strikes-deal-on-economic-and-trade-relations-with-china/
 tags: fact-sheets
@@ -59,7 +59,7 @@ farmers, and families first.
     soybeans during the last two months of 2025 and also purchase at
     least 25 MMT of U.S. soybeans in each of 2026, 2027, and 2028. 
     Additionally, China will resume purchases of U.S. sorghum and
-    hardwood logs.
+    hardwood and softwood logs.
 -   China will take appropriate measures to ensure the resumption of
     trade from Nexperia’s facilities in China, allowing production of
     critical legacy chips to flow to the rest of the world.
