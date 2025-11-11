@@ -1,5 +1,6 @@
 ---
 date: '2025-11-11'
+modified_time: 2025-11-11 10:08:20-05:00
 published_time: 2025-11-11 06:35:00-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/11/presidential-message-on-victory-day-for-world-war-i/
 tags: briefings-statements
