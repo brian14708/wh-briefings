@@ -1,10 +1,10 @@
 ---
 date: '2025-11-13'
-modified_time: 2025-11-13 15:03:20-05:00
+modified_time: 2025-11-14 13:06:46-05:00
 published_time: 2025-11-13 15:03:19-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/11/fostering-the-future-for-american-children-and-families/
 tags: presidential-actions
-title: FOSTERING THE FUTURE FOR AMERICAN CHILDREN AND FAMILIES
+title: Fostering the Future for American Children and Families
 ---
  
 By the authority vested in me as President by the Constitution and the
