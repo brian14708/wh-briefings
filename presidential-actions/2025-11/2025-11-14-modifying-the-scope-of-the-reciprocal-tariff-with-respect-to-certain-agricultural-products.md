@@ -1,6 +1,6 @@
 ---
 date: '2025-11-14'
-modified_time: 2025-11-14 16:11:56-05:00
+modified_time: 2025-11-20 16:56:35-05:00
 published_time: 2025-11-14 16:11:55-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2025/11/modifying-the-scope-of-the-reciprocal-tariff-with-respect-to-certain-agricultural-products/
 tags: presidential-actions
@@ -15,19 +15,22 @@ National Emergencies Act (50 U.S.C. 1601 *et seq.*), section 604 of the
 Trade Act of 1974, as amended (19 U.S.C. 2483), and section 301 of title
 3, United States Code, it is hereby ordered:
 
-Section 1.  Background.  In Executive Order 14257 of April 2, 2025
-(Regulating Imports With a Reciprocal Tariff To Rectify Trade Practices
-That Contribute to Large and Persistent Annual United States Goods Trade
-Deficits), I found that conditions reflected in large and persistent
-annual U.S. goods trade deficits, including the consequences of those
-deficits, constitute an unusual and extraordinary threat to the national
-security and economy of the United States that has its source in whole
-or substantial part outside the United States.  I declared a national
-emergency with respect to that threat, and to deal with that threat, I
-imposed certain *ad valorem* duties that I deemed necessary and
-appropriate.  In Annex II to Executive Order 14257, I set forth a list
-of certain goods that, in my judgment, should not be subject to the *ad
-valorem* rates of duty imposed pursuant to that order.  
+*<span style="text-decoration: underline">Section</span>*
+<span style="text-decoration: underline">1</span>.
+ <span style="text-decoration: underline">Background</span>.  In
+Executive Order 14257 of April 2, 2025 (Regulating Imports With a
+Reciprocal Tariff To Rectify Trade Practices That Contribute to Large
+and Persistent Annual United States Goods Trade Deficits), I found that
+conditions reflected in large and persistent annual U.S. goods trade
+deficits, including the consequences of those deficits, constitute an
+unusual and extraordinary threat to the national security and economy of
+the United States that has its source in whole or substantial part
+outside the United States.  I declared a national emergency with respect
+to that threat, and to deal with that threat, I imposed certain *ad
+valorem* duties that I deemed necessary and appropriate.  In Annex II to
+Executive Order 14257, I set forth a list of certain goods that, in my
+judgment, should not be subject to the *ad valorem* rates of duty
+imposed pursuant to that order.  
 
 In Executive Order 14346 of September 5, 2025 (Modifying the Scope of
 Reciprocal Tariffs and Establishing Procedures for Implementing Trade
@@ -56,23 +59,28 @@ standard time on November 13, 2025.  In my judgment, these modifications
 are necessary and appropriate to deal with the national emergency
 declared in Executive Order 14257.
 
-Sec. 2.  Updating Scope of Duties Globally.** ** The Harmonized Tariff
-Schedule of the United States shall be modified as provided in Annex I
-to this order.  The modifications shall be effective with respect to
-goods entered for consumption, or withdrawn from warehouse for
-consumption, on or after 12:01 a.m. eastern standard time on November
-13, 2025.  To the extent that implementation of this order requires a
-refund of duties collected, refunds shall be processed pursuant to
-applicable law and the standard procedures of U.S. Customs and Border
-Protection for such refunds.
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">2</span>.
+ <span style="text-decoration: underline">Updating Scope of Duties
+Globally</span>.** ** The Harmonized Tariff Schedule of the United
+States shall be modified as provided in Annex I to this order.  The
+modifications shall be effective with respect to goods entered for
+consumption, or withdrawn from warehouse for consumption, on or after
+12:01 a.m. eastern standard time on November 13, 2025.  To the extent
+that implementation of this order requires a refund of duties collected,
+refunds shall be processed pursuant to applicable law and the standard
+procedures of U.S. Customs and Border Protection for such refunds.
 
-Sec. 3.  Implementation.  (a)  The Secretary of Commerce and the United
-States Trade Representative shall continue to monitor the circumstances
-involving the emergency declared in Executive Order 14257 and shall
-regularly consult on such circumstances with any senior official they
-deem appropriate.  The Secretary of Commerce and the United States Trade
-Representative shall inform me of any circumstance that, in their
-opinion, might indicate the need for further action by the President.
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">3</span>.
+ <span style="text-decoration: underline">Implementation</span>.  (a) 
+The Secretary of Commerce and the United States Trade Representative
+shall continue to monitor the circumstances involving the emergency
+declared in Executive Order 14257 and shall regularly consult on such
+circumstances with any senior official they deem appropriate.  The
+Secretary of Commerce and the United States Trade Representative shall
+inform me of any circumstance that, in their opinion, might indicate the
+need for further action by the President.
 
 (b)  Consistent with applicable law, the Secretary of Commerce, the
 Secretary of Homeland Security, and the United States Trade
@@ -86,14 +94,19 @@ of these functions within their respective department or agency.  All
 executive departments and agencies shall take all appropriate measures
 within their authority to implement this order.
 
-Sec. 4.  Severability.  If any provision of this order, or the
-application of any provision to any individual or circumstance, is held
-to be invalid, the remainder of this order and the application of its
-other provisions to any other individuals or circumstances shall not be
-affected thereby. 
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">4</span>.
+ <span style="text-decoration: underline">Severability</span>.  If any
+provision of this order, or the application of any provision to any
+individual or circumstance, is held to be invalid, the remainder of this
+order and the application of its other provisions to any other
+individuals or circumstances shall not be affected thereby. 
 
-Sec. 5.  General Provisions.  (a)  Nothing in this order shall be
-construed to impair or otherwise affect:
+<span style="text-decoration: underline">Sec</span>.
+<span style="text-decoration: underline">5</span>.
+ <span style="text-decoration: underline">General Provisions</span>.
+ (a)  Nothing in this order shall be construed to impair or otherwise
+affect:
 
 \(i\)   the authority granted by law to an executive department or
 agency, or the head thereof; or
@@ -119,4 +132,4 @@ THE WHITE HOUSE,
     November 14, 2025.
 
 [Click here to view
-Annex](https://www.whitehouse.gov/wp-content/uploads/2025/11/annex.pdf)
+Annex](https://www.whitehouse.gov/wp-content/uploads/2025/11/2025ReciprocalTariff.AgriculturalProducts.eo_.rel-ANNEXES.pdf)
