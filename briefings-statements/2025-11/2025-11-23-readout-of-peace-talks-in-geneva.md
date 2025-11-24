@@ -1,6 +1,6 @@
 ---
 date: '2025-11-23'
-modified_time: 2025-11-24 09:24:31-05:00
+modified_time: 2025-11-24 09:54:27-05:00
 published_time: 2025-11-23 21:24:00-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/11/readout-of-peace-talks-in-geneva/
 tags: briefings-statements
