@@ -1,9 +1,10 @@
 ---
 date: '2025-11-24'
+modified_time: 2025-11-24 18:51:38-05:00
 published_time: 2025-11-24 16:58:49-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-unveils-the-genesis-missionto-accelerate-ai-for-scientific-discovery/
 tags: fact-sheets
-title: 'Fact Sheet: President Donald J. Trump Unveils the Genesis Missionto Accelerate
+title: 'Fact Sheet: President Donald J. Trump Unveils the Genesis Mission to Accelerate
   AI for Scientific Discovery'
 ---
  
