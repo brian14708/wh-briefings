@@ -1,5 +1,6 @@
 ---
 date: '2025-12-05'
+modified_time: 2025-12-06 20:11:21-05:00
 published_time: 2025-12-05 19:40:18-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-begins-process-to-align-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/
 tags: fact-sheets
@@ -57,13 +58,12 @@ generation.
     children to get the COVID-19 vaccine, updating its recommendation to
     be based on shared clinical decision-making between patients and
     clinicians.
-
-In September, the MAHA Commission released *the Make Our Children
-Healthy Again Strategy*, a sweeping plan with more than 120 initiatives
-to reverse the failed policies that fueled America’s childhood chronic
-disease epidemic. The strategy prioritized development of a vaccine
-framework that ensures America has the best childhood vaccine schedule.
-
-In May, the MAHA Commission released the *Make Our Children Healthy
-Again Assessment,* summarizing what is known and what questions remain
-regarding the childhood chronic disease crisis.
+-   In September, the MAHA Commission released *the Make Our Children
+    Healthy Again Strategy*, a sweeping plan with more than 120
+    initiatives to reverse the failed policies that fueled America’s
+    childhood chronic disease epidemic. The strategy prioritized
+    development of a vaccine framework that ensures America has the best
+    childhood vaccine schedule.
+-   In May, the MAHA Commission released the *Make Our Children Healthy
+    Again Assessment,* summarizing what is known and what questions
+    remain regarding the childhood chronic disease crisis.
