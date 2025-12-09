@@ -1,5 +1,6 @@
 ---
 date: '2025-12-08'
+modified_time: 2025-12-09 12:22:24-05:00
 published_time: 2025-12-08 12:00:08-05:00
 source_url: https://www.whitehouse.gov/articles/2025/12/gas-prices-plunge-to-new-multi-year-low-and-trending-lower/
 tags: articles
@@ -36,7 +37,7 @@ Administration’s pursuit of American energy dominance.
 data.** In just the past week, Americans saw the national median rent
 [fall](https://x.com/SecretaryTurner/status/1996294100220350935) for the
 fourth straight month, weekly jobless claims
-[plumet](https://www.bloomberg.com/news/articles/2025-12-04/us-jobless-claims-fell-to-lowest-since-2022-in-thanksgiving-week)
+[plummet](https://www.bloomberg.com/news/articles/2025-12-04/us-jobless-claims-fell-to-lowest-since-2022-in-thanksgiving-week)
 to a three-year low, mortgage rates
 [near](https://abcnews.go.com/Business/wireStory/average-us-long-term-mortgage-rate-falls-619-128113812)
 their lowest level in a year, and consumer sentiment
