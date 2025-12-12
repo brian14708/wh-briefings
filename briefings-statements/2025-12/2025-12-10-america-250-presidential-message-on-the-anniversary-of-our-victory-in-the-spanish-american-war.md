@@ -1,6 +1,6 @@
 ---
 date: '2025-12-10'
-modified_time: 2025-12-10 17:58:19-05:00
+modified_time: 2025-12-11 19:03:44-05:00
 published_time: 2025-12-10 17:58:18-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/12/america-250-presidential-message-on-the-anniversary-of-our-victory-in-the-spanish-american-war/
 tags: briefings-statements
