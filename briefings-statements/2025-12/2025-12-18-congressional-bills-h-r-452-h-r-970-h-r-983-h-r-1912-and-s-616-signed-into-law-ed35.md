@@ -1,6 +1,6 @@
 ---
 date: '2025-12-18'
-modified_time: 2025-12-18 21:02:32-05:00
+modified_time: 2025-12-19 08:58:25-05:00
 published_time: 2025-12-18 15:13:00-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/12/congressional-bills-h-r-452-h-r-970-h-r-983-h-r-1912-and-s-616-signed-into-law-ed35/
 tags: briefings-statements
