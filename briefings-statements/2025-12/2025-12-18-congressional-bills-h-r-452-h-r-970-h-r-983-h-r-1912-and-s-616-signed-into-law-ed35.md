@@ -1,11 +1,10 @@
 ---
 date: '2025-12-18'
-modified_time: 2025-12-18 18:50:32-05:00
+modified_time: 2025-12-18 21:02:32-05:00
 published_time: 2025-12-18 15:13:00-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2025/12/congressional-bills-h-r-452-h-r-970-h-r-983-h-r-1912-and-s-616-signed-into-law-ed35/
 tags: briefings-statements
-title: Congressional Bills H.R. 452, H.R. 970, H.R. 983, H.R. 1912 AND S. 616 Signed
-  into Law
+title: Congressional Bills S. 2283 AND S. 356 Signed into Law
 ---
  
 On Thursday, December 18, 2025, the President signed into law:
