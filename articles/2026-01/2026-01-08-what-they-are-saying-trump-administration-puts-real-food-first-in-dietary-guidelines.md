@@ -1,5 +1,6 @@
 ---
 date: '2026-01-08'
+modified_time: 2026-01-09 16:37:52-05:00
 published_time: 2026-01-08 12:55:34-05:00
 source_url: https://www.whitehouse.gov/articles/2026/01/what-they-are-saying-trump-administration-puts-real-food-first-in-dietary-guidelines/
 tags: articles
@@ -279,6 +280,21 @@ common-sense approach to healthy eating and rejected recommendations put
 forth by the previous Dietary Guidelines Advisory Committee (DGAC) that
 emphasized plant-based proteins over lean meats like chicken, as
 evidenced in the new Food Pyramid.”
+
+[National Fisheries Institute
+(NFI)](https://aboutseafood.com/news/national-fisheries-institute-welcomes-release-of-2025-2030-dietary-guidelines-for-americans/):
+“Seafood is a whole-food source of both key nutrients the new Guidelines
+encourage Americans to prioritize, protein and healthy fats,
+specifically omega-3s. NFI supports the Guidelines’ user-friendly
+format, which aims to deliver concise messaging that can help Americans
+understand the benefits of eating a seafood-rich diet. The new
+Guidelines recommend early introduction of seafood at six months and
+ongoing consumption across the lifespan.  Seafood is especially
+important during rapid growth periods like adolescence, pregnancy, and
+breastfeeding. Seafood naturally fits within the simple, overarching
+message of the Guidelines, “Eat Real Food.”  All forms of whole
+seafood—including fresh, frozen, and canned—count and work together to
+make a healthy diet affordable and accessible to American families.”
 
 [National Milk Producers Federation President and CEO Gregg
 Doud](https://www.nmpf.org/nmpf-statement-on-the-2025-2030-dietary-guidelines-for-americans/):
