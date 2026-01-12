@@ -1,6 +1,6 @@
 ---
 date: '2026-01-08'
-modified_time: 2026-01-09 16:37:52-05:00
+modified_time: 2026-01-12 12:40:31-05:00
 published_time: 2026-01-08 12:55:34-05:00
 source_url: https://www.whitehouse.gov/articles/2026/01/what-they-are-saying-trump-administration-puts-real-food-first-in-dietary-guidelines/
 tags: articles
@@ -43,6 +43,16 @@ developing healthy eating habits, and we commend the inclusion of the
 academy’s evidence-based policy related to breastfeeding, introduction
 of solid foods, caffeine avoidance, and limits on added sugars.”
 
+**American Association of Neurological Surgeons**: “We thank Secretaries
+Kennedy and Rollins for their leadership in elevating nutrition as a
+national health priority and refocusing the guidelines to advance human
+health. Practicing neurosurgeons manage the collateral damage resulting
+from the inability to focus on activity-adjusted caloric intake,
+reliance on highly processed foods, and excess consumption of complex
+carbohydrates. From obesity-related spine disease and stroke risk to
+diminished physiologic reserve in patients undergoing brain tumor
+treatment, we know nutrition lays the foundation for treatment success.
+
 [American College of Cardiology President Christopher M. Kramer,
 MD](https://www.acc.org/About-ACC/Press-Releases/2026/01/07/22/59/American-College-of-Cardiology-Comments-on-New-Dietary-Guidelines):
 “The ACC acknowledges and appreciates the release of new federal
@@ -63,6 +73,14 @@ high-quality protein, dairy, and fresh fruits and vegetables. Farm
 Bureau looks forward to working with the administration to ensure food
 policy decisions are grounded in science and easily understood so
 America’s families have confidence when stocking their pantries.”
+
+[American Italian Food
+Coalition](https://www.aifcoalition.org/updates/american-italian-food-coalition-welcomes-new-emphasis-on-balance-flexibility-in-updated-dietary-guidelines):
+“The updated Dietary Guidelines for Americans recognize what Italian and
+Mediterranean food traditions have demonstrated for centuries: no single
+food determines health,” said Molinari and Calautti in a statement.
+“Instead, balance, moderation, and variety across all food groups are
+the keys to long-term wellness.”
 
 [American Medical Association President Bobby Mukkamala,
 MD:](https://www.ama-assn.org/press-center/ama-press-releases/ama-applauds-dietary-guidelines-announces-commitments-nutrition)
@@ -100,6 +118,15 @@ about what we eat, and hospitals remain committed to helping patients
 access wholesome food and empowering them to make informed choices that
 support their health.”
 
+**Coalition for Metabolic Health**: “We’re pleased that the new Dietary
+Guidelines for Americans return to a diet based on whole foods from both
+plant and animal sources. We’re encouraged that they recognize protein
+as foundational to a healthy diet, reduce the recommended servings of
+grains, and urge people to reduce intake of sugar and refined
+carbohydrates. Additionally, we fully support the new option for
+Americans with certain chronic diseases to adopt therapeutic
+low-carbohydrate dietary approaches.
+
 **Consumer Brands Association**: “We look forward to working with the
 Administration and Congress as the Dietary Guidelines for Americans
 inform important food and beverage policy. American consumers continue
@@ -107,6 +134,28 @@ to seek a diverse selection of foods and beverages and the makers of
 America’s trusted household brands provide a wide variety of products to
 choose from that are affordable, safe and nutritious, along with access
 to the information consumers need to make informed choices.”
+
+**Council for Metabolic Health**: “We’re pleased that the new Dietary
+Guidelines for Americans return to a diet based on whole foods from both
+plant and animal sources. We’re encouraged that they recognize protein
+as foundational to a healthy diet, reduce the recommended servings of
+grains, and urge people to reduce intake of sugar and refined
+carbohydrates. Additionally, we fully support the new option for
+Americans with certain chronic diseases to adopt therapeutic
+low-carbohydrate dietary approaches.
+
+**DSM-Firmenech**: “The world’s largest nutrition and health company,
+supports the Trump Administration’s updates to the Dietary Guidelines
+for Americans, which reaffirm the importance of a real, nutrient-dense
+diet in supporting health at every stage of life. Through our leading
+vitamins business – the last remaining domestic vitamin manufacturing
+operation in the United States – and our carotenoids, nutrition lipids,
+and food and feed ingredients businesses, we help make the foods
+Americans rely on every day healthier and more nutritious through
+fortification and supplementation. We look forward to working with the
+Trump Administration to protect domestic vitamin manufacturing that
+enables our great farmers to produce healthy animal proteins and to
+advance nutrition policies that strengthen the health of all Americans.”
 
 [Environmental Working Group Senior Strategic Campaign Director for Food
 Systems Sarah
@@ -217,6 +266,14 @@ evidence demonstrates that meat is a rich source of high-quality
 protein, essential vitamins, and highly bioavailable minerals that
 support human health throughout the lifespan.”
 
+**MyLand**: We applaud and strongly support the Trump Administration’s
+bold, common-sense update to the Dietary Guidelines. We cannot have
+healthier people without healthier food – period. Bold leadership and
+action of this kind will improve long-term public health and resilience.
+Now, the focus must turn to our soils because restoring life to our
+farmland is essential to realizing the full potential of this new
+direction. 
+
 [National Association of County and City Health Officials CEO Lori
 Tremmel
 Freeman](https://www.cnn.com/2026/01/07/health/dietary-guidelines-rfk-maha?Date=20260107&Profile=cnnbrk&utm_content=1767803186&utm_medium=social&utm_source=twitter#:~:text=%E2%80%9CThe%20primary%20benefit,avoid%20chronic%20conditions.%E2%80%9D):
@@ -237,6 +294,33 @@ foundation of the proper relationship with alcohol, and we are very
 pleased to see that the U.S. Department of Health and Human Services did
 not succumb to the call by extremist anti-alcohol groups to throw the
 idea of moderate consumption under the bus.”
+
+**National Barley Growers Association**: “The National Barley Growers
+Association welcomes the release of the updated Dietary Guidelines for
+Americans and their efforts to provide simple and straightforward
+nutrition messages to consumers. The scientific report accompanying the
+guidelines notes that dietary patterns associated with better health
+outcomes include higher intakes of fruits, vegetables, and whole grains
+along with moderate alcohol consumption in adults. The guidelines
+recognize whole grains such as barley and note that “the stronger
+efficacy of cereal fiber suggests prioritizing sources like oats and
+barley, particularly in high-GI diets.” Mechanistically, minimally
+processed plant foods slow glucose absorption, lower postprandial
+insulin excursions, and promote satiety through their intact fiber and
+micronutrient content. Importantly, the benefits appear strongest when
+‘whole grains’ are consumed in intact forms (e.g., oats, barley, brown
+rice) rather than milled flours, as trials have shown that breads made
+from whole wheat flour elicit glucose and insulin responses nearly
+identical to refined white bread. The updated guidelines also emphasize
+moderation in alcohol consumption for adults. Barley is the primary
+grain for beer production, which supports thousands of American farmers
+and is often enjoyed with meals and social gatherings. Following the
+release of the guidelines, Dr. Mehmet Oz, Administrator of the Centers
+for Medicare and Medicaid Services, noted the important social benefits
+that alcohol can provide to overall health. Barley is an important part
+of American agriculture with a strong tradition and can contribute to
+healthy diets and a healthier and happier society,” said Mitch Konen,
+the President of the National Barley Growers Association.
 
 [National Cattlemen’s Beef Association Vice President Kim
 Brackett](https://www.ncba.org/news-media/news/details/46309/new-dietary-guidelines-emphasize-beefs-place-in-a-healthy-diet):
@@ -313,6 +397,18 @@ all fats are created equal, and because the guidelines acknowledge this,
 dairy’s benefits are better reflected in this iteration of the
 guidelines.”
 
+**National Onion Association**: “The National Onion Association (NOA)
+welcomes newly announced federal dietary guidelines and proposed
+Supplemental Nutrition Assistance Program (SNAP) stocking standards,
+citing the changes as a positive step toward expanding access to onions
+and other nutrient-dense produce nationwide. Unveiled this week by U.S.
+Department of Agriculture Secretary Brooke Rollins, the updated
+guidelines emphasize protein, healthy fats, and whole foods as part of
+the Trump administration’s Make America Healthy Again initiative. A key
+component includes forthcoming USDA rules that would require more than
+250,000 SNAP-authorized retailers to double their in-store availability
+of staple foods, including fruits and vegetables.”
+
 [National Pork Producers Council President-elect Rob
 Brenneman](https://nppc.org/news/u-s-pork-producers-pleased-new-dietary-guidelines-put-pork-front-and-center-on-plate/):
 “America’s pork producers appreciate the 2025 Dietary Guidelines putting
@@ -320,6 +416,14 @@ pork front and center on the plate. They took note of producer concerns
 and rightly gave pork and other high-protein, nutrient-dense, and
 delicious meats their due when it comes to Americans’ health and dietary
 habits.”
+
+[**National Potato
+Council**](https://www.nationalpotatocouncil.org/national-potato-council-sees-amazing-progress-in-supporting-potato-consumption-in-new-dietary-guidelines/):
+“The National Potato Council’s initial review of the new dietary
+guidelines finds them encouraging. It is positive to see the new
+consumer graphic feature a whole, fresh potato front and center,
+identifying it as a nutrient-rich vegetable Americans should eat as part
+of a healthy diet. We welcome this recognition.
 
 [National Turkey Federation President and CEO Leslee
 Oden](https://www.eatturkey.org/2026/01/07/national-turkey-foundation-applauds-release-of-2025-2030-dietary-guidelines-for-americans/):
@@ -353,6 +457,16 @@ play a critical role in shaping dietary choices and supporting the
 shared goal of making America healthy again by helping ensure that all
 Americans, including those participating in federal nutrition programs,
 are eating high-quality, nutrient-dense foods like blueberries.”
+
+**Oppy**: “We commend the Dietary Guidelines released under the Trump
+Administration and support the emphasis on whole, nutrient-dense foods,
+including quality proteins and fresh fruits and vegetables. The guidance
+to reduce consumption of processed foods and added sugars reflects an
+evidence-based approach to improving public health. These guidelines
+provide clear and actionable recommendations that can assist families,
+communities, and institutions in making informed dietary choices. We
+believe this approach will help promote long-term wellness and
+contribute to improving the overall health of Americans.”
 
 [PhRMA Chief Medical Officer Dr. Mike
 Ybarra](https://x.com/mybarra/status/2008995505456689515?s=20): “In the
@@ -442,6 +556,19 @@ Bair](https://www.thepacker.com/news/industry/new-dietary-guidelines-urges-consu
 simple truth: Americans need to eat more fruits and vegetables. We look
 forward to seeing that message shared widely.”
 
+**U.S. Cattlemen’s Association**: “U.S. Cattlemen’s Association welcomes
+U.S. Department of Agriculture and U.S. Department of Health and Human
+Services’ work on updating the Dietary Guidelines for Nutrition guidance
+for 2025-2030, emphasizing the importance of protein at every meal as a
+cornerstone of a healthy, balanced diet.”
+
+**U.S. Pork Producers**: “The National Pork Producers Council applauds
+the U.S. Department of Health and Human Services and the U.S. Department
+of Agriculture’s release of the 2025-2030 Dietary Guidelines for
+Americans, which encourage Americans to “consumer a variety of protein
+foods from animal sources, including eggs, poultry, seafood, and red
+meat.”
+
 [United Egg Producers President and CEO Chad
 Gregory](https://www.wattagnet.com/business-markets/policy-legislation/news/15801388/new-us-dietary-guidelines-prioritize-protein-at-every-meal):
 “America’s egg farmers are proud to produce eggs – a healthy, natural
@@ -465,6 +592,14 @@ and chickpeas the perfect choice for families looking to improve their
 health. We commend USDA and HHS for recognizing the nutritional
 strengths of pulses and we look forward to working with them to ensure
 these American-grown foods make it onto more plates.”
+
+**Western Growers Association**: “The 2025-2030 Dietary Guidelines
+unveiled by the U.S. Department of Health and Human Services and the
+U.S. Department of Agriculture reaffirm our own motto that Western
+Growers members ‘grow the best medicine in the world,’” said Western
+Growers Senior Vice President of Science De Ann Davis. “Our specialty
+crop growers are proud to put wholesome, nutritious food on American
+tables and provide better health for us all.”
 
 [Arkansas Gov. Sarah Huckabee
 Sanders](https://x.com/SarahHuckabee/status/2008993029584293917?s=20):
