@@ -8,6 +8,12 @@ title: 'Fact Sheet: President Donald J. Trump Stops Wall Street from Competing w
   Main Street Homebuyers'
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Fact Sheets](https://www.whitehouse.gov/fact-sheets/)
+4.  <span aria-current="page">Fact Sheet: President Donald J. Trump
+    Stops Wall Street from Competing with Main Street Homebuyers</span>
+
 **STOPPING WALL STREET FROM COMPETING WITH MAIN STREET HOMEBUYERS:**
 Today, President Donald J. Trump signed an Executive Order to protect
 the American Dream by making sure that large institutional investors do

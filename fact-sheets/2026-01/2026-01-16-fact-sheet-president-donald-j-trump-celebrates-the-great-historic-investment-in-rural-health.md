@@ -7,6 +7,12 @@ title: 'Fact Sheet: President Donald J. Trump Celebrates the Great, Historic Inv
   in Rural Health'
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Fact Sheets](https://www.whitehouse.gov/fact-sheets/)
+4.  <span aria-current="page">Fact Sheet: President Donald J. Trump
+    Celebrates the Great, Historic Investment in Rural Health</span>
+
 **MAKING A HISTORIC INVESTMENT IN RURAL HEALTHCARE:** Today, President
 Donald J. Trump celebrated the largest ever investment in rural
 healthcare, enacted in his signature Working Families Tax Cuts Act.

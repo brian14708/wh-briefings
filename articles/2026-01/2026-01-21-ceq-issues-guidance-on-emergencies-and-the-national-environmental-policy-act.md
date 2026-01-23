@@ -7,6 +7,12 @@ tags: articles
 title: CEQ Issues Guidance on Emergencies and the National Environmental Policy Act
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Articles](https://www.whitehouse.gov/articles/)
+4.  <span aria-current="page">CEQ Issues Guidance on Emergencies and the
+    National Environmental Policy Act</span>
+
 *Expediting Emergency Actions for Agencies*
 
 Today, the Council on Environmental Quality (CEQ) issued new NEPA

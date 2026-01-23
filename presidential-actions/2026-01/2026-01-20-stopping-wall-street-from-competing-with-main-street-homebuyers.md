@@ -7,6 +7,13 @@ tags: presidential-actions
 title: Stopping Wall Street from Competing with Main Street Homebuyers
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Presidential
+    Actions](https://www.whitehouse.gov/presidential-actions/)
+4.  <span aria-current="page">Stopping Wall Street from Competing with
+    Main Street Homebuyers</span>
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 

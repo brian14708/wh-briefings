@@ -7,6 +7,13 @@ tags: presidential-actions
 title: Martin Luther King, Jr., Federal Holiday, 2026
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Presidential
+    Actions](https://www.whitehouse.gov/presidential-actions/)
+4.  <span aria-current="page">Martin Luther King, Jr., Federal Holiday,
+    2026</span>
+
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA
 
 A PROCLAMATION

@@ -7,6 +7,13 @@ tags: briefings-statements
 title: First Lady Melania Trump to Ring Opening Bell of the New York Stock Exchange
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">First Lady Melania Trump to Ring Opening
+    Bell of the New York Stock Exchange</span>
+
 First Lady Melania Trump will ring the opening bell of the New York
 Stock Exchange on Wednesday, January 28, 2026, following an impactful
 first year of leadership as First Lady of the United States during the

@@ -7,6 +7,13 @@ tags: briefings-statements
 title: Congressional Bill H.R. 224, H.R. 1823, H.R. 4446 Signed into Law
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">Congressional Bill H.R. 224, H.R. 1823,
+    H.R. 4446 Signed into Law</span>
+
 On Tuesday, January 20, 2026, the President signed into law:
 
 H.R. 224, the “Disabled Veterans Housing Support Act,” which amends

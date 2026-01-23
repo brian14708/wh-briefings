@@ -6,6 +6,13 @@ tags: briefings-statements
 title: "Statement on President Trump\u2019s Comprehensive Plan to End the Gaza Conflict"
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">Statement on President Trump’s
+    Comprehensive Plan to End the Gaza Conflict</span>
+
 Yesterday, President Donald J. Trump congratulated the formation of the
 National Committee for the Administration of Gaza (NCAG), a vital step
 forward in implementing Phase Two of his Comprehensive Plan to End the

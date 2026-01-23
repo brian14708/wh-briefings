@@ -8,6 +8,12 @@ title: In Davos, President Trump Outlines Bold Vision for American Prosperity, T
   Strength
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Articles](https://www.whitehouse.gov/articles/)
+4.  <span aria-current="page">In Davos, President Trump Outlines Bold
+    Vision for American Prosperity, Transatlantic Strength</span>
+
 **President Donald J. Trump commanded the stage this morning at the
 World Economic Forum in Davos, Switzerland, delivering a bold address
 that reaffirmed America’s leadership on the global stage and charted a

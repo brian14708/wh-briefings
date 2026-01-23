@@ -7,6 +7,13 @@ tags: briefings-statements
 title: Presidential Message on National Sanctity of Human Life Day, 2026
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">Presidential Message on National Sanctity
+    of Human Life Day, 2026</span>
+
 On July 4, 1776, our Declaration of Independence righteously affirmed
 that every human being is endowed by Almighty God with the unalienable
 right to life.  In the 250 years since, our commitment to this truth has

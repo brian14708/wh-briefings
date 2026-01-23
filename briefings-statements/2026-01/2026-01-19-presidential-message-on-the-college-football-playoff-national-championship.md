@@ -7,6 +7,13 @@ tags: briefings-statements
 title: Presidential Message on the College Football Playoff National Championship
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">Presidential Message on the College
+    Football Playoff National Championship</span>
+
 Tonight, the College Football Playoff National Championship brings a
 season of dedication, sacrifice, and hard work to a climactic
 conclusion.  It stands as the final measure of months of preparation,
