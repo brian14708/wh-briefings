@@ -7,6 +7,13 @@ tags: briefings-statements
 title: 'America 250: Presidential Message on the Birthday of Benjamin Franklin'
 ---
  
+1.  [Home](https://www.whitehouse.gov/)
+2.  [News](https://www.whitehouse.gov/news/)
+3.  [Briefings &
+    Statements](https://www.whitehouse.gov/briefings-statements/)
+4.  <span aria-current="page">America 250: Presidential Message on the
+    Birthday of Benjamin Franklin</span>
+
 Today, we celebrate the towering life and legacy of Benjamin
 Franklin—printer and philosopher, inventor and diplomat, public servant
 and patriot, and one of the most consequential Americans to ever live. 
