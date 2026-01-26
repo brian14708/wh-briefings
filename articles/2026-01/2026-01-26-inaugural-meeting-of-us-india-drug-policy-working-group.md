@@ -1,6 +1,6 @@
 ---
 date: '2026-01-26'
-modified_time: 2026-01-26 13:19:26-05:00
+modified_time: 2026-01-26 14:35:04-05:00
 published_time: 2026-01-26 13:12:20-05:00
 source_url: https://www.whitehouse.gov/articles/2026/01/inaugural-meeting-of-us-india-drug-policy-working-group/
 tags: articles
@@ -30,9 +30,9 @@ tangible, measurable outcomes in advancing the critical counter
 narcotics partnership.
 
 “The drug crisis is now a core national security priority,” said
-Director Carter. This Executive Working Group leverages the bilateral
+Director Carter. “This Executive Working Group leverages the bilateral
 partnership to protect families while also supporting legitimate
-industries.
+industries.”
 
 Both countries committed to strengthening bilateral cooperation to
 dismantle the illegal production and traﬃcking of illicit drugs and
