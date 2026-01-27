@@ -7,12 +7,6 @@ title: "365 WINS IN 365 DAYS: President Trump\u2019s Return Marks New Era of Suc
   \ Prosperity"
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">365 WINS IN 365 DAYS: President Trump’s
-    Return Marks New Era of Success, Prosperity</span>
-
 One year ago today, President Donald J. Trump [returned to
 office](https://www.whitehouse.gov/remarks/2025/01/the-inaugural-address/)
 with a resounding mandate to restore prosperity, secure the border,

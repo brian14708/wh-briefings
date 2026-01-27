@@ -1,18 +1,12 @@
 ---
 date: '2026-01-26'
-modified_time: 2026-01-26 17:35:56-05:00
+modified_time: 2026-01-26 17:47:10-05:00
 published_time: 2026-01-26 17:21:10-05:00
 source_url: https://www.whitehouse.gov/articles/2026/01/president-trump-delivers-largest-tax-refund-season-in-u-s-history/
 tags: articles
 title: President Trump Delivers Largest Tax Refund Season in U.S. History
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">President Trump Delivers Largest Tax
-    Refund Season in U.S. History</span>
-
 **As tax season kicks off, millions of Americans are poised to receive
 significantly larger tax refunds thanks to President Donald J. Trump’s
 landmark Working Families Tax Cuts Act — which every Democrat in

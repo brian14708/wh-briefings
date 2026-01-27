@@ -6,12 +6,6 @@ tags: research
 title: Artificial Intelligence and the Great Divergence
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Research](https://www.whitehouse.gov/research/)
-4.  <span aria-current="page">Artificial Intelligence and the Great
-    Divergence</span>
-
 <a
 href="https://www.whitehouse.gov/wp-content/uploads/2026/01/Artificial-Intelligence-and-the-Great-Divergence-5.pdf"
 id="wp-block-file--media-65a2aebe-e96c-411f-a1af-6500eb45f46f">Artificial

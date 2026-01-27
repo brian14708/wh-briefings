@@ -7,12 +7,6 @@ tags: articles
 title: Inaugural Meeting of the U.S.-India Drug Policy Executive Working Group
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">Inaugural Meeting of the U.S.-India Drug
-    Policy Executive Working Group</span>
-
 From January 20-21, the United States hosted the inaugural meeting of
 the U.S.-India Drug Policy Executive Working Group in Washington, D.C.
 The Oﬃce of National Drug Control Policy’s (ONDCP) Director, Sara

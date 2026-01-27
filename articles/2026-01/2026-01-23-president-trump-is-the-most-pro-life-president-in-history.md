@@ -7,12 +7,6 @@ tags: articles
 title: President Trump is the Most Pro-Life President in History
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">President Trump is the Most Pro-Life
-    President in History</span>
-
 **From the day President Donald J. Trump took office, his Administration
 has unapologetically stood for the sanctity of life.** As tens of
 thousands of Americans gather in our nation’s capital this week to March

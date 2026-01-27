@@ -8,12 +8,6 @@ title: 'ICYMI: Murder Rate Plunges to 125-Year Low as President Trump Restores L
   and Order'
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">ICYMI: Murder Rate Plunges to 125-Year Low
-    as President Trump Restores Law and Order</span>
-
 **Under President Donald J. Trump’s leadership, America is safer than it
 has been in over a century — and** [**brand new
 data**](https://counciloncj.org/crime-trends-in-u-s-cities-year-end-2025-update/)

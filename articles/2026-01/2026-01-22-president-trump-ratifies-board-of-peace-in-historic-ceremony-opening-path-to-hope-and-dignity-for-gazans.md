@@ -8,13 +8,6 @@ title: President Trump Ratifies Board of Peace in Historic Ceremony, Opening Pat
   to Hope and Dignity for Gazans
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Articles](https://www.whitehouse.gov/articles/)
-4.  <span aria-current="page">President Trump Ratifies Board of Peace in
-    Historic Ceremony, Opening Path to Hope and Dignity for
-    Gazans</span>
-
 **Today, in an historic ceremony in Davos, Switzerland, President Donald
 J. Trump formally ratified the Charter of the Board of Peace —
 establishing it as an official international organization.** President

@@ -6,13 +6,6 @@ tags: presidential-actions
 title: Continuance of the Federal Emergency Management Agency Review Council
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Presidential
-    Actions](https://www.whitehouse.gov/presidential-actions/)
-4.  <span aria-current="page">Continuance of the Federal Emergency
-    Management Agency Review Council</span>
-
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, and consistent with chapter 10 of
 title 5, United States Code (commonly known as the Federal Advisory

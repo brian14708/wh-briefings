@@ -6,13 +6,6 @@ tags: briefings-statements
 title: Congressional Bill H.R. 4323 and H.R. 6938 Signed into Law
 ---
  
-1.  [Home](https://www.whitehouse.gov/)
-2.  [News](https://www.whitehouse.gov/news/)
-3.  [Briefings &
-    Statements](https://www.whitehouse.gov/briefings-statements/)
-4.  <span aria-current="page">Congressional Bill H.R. 4323 and H.R. 6938
-    Signed into Law</span>
-
 On Friday, January 23, 2026, the President signed into law:
 
 H.R. 4323, the “Trafficking Survivors Relief Act,” which establishes a
