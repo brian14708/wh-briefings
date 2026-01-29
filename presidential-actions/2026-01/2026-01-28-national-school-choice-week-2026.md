@@ -1,12 +1,15 @@
 ---
 date: '2026-01-28'
-modified_time: 2026-01-28 18:03:38-05:00
+modified_time: 2026-01-29 08:43:23-05:00
 published_time: 2026-01-28 18:03:37-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/01/national-school-choice-week-2026/
 tags: presidential-actions
 title: National School Choice Week, 2026
 ---
  
+1.  [School Choice](https://www.whitehouse.gov/schoolchoice/)
+2.  National school choice week
+
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA
 
 A PROCLAMATION
