@@ -1,14 +1,12 @@
 ---
 date: '2026-01-29'
+modified_time: 2026-01-30 16:34:31-05:00
 published_time: 2026-01-29 17:58:35-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/
 tags: presidential-actions
 title: Year of Celebration and Rededication, 2026
 ---
  
-1.  [School Choice](https://www.whitehouse.gov/schoolchoice/)
-2.  National school choice week
-
 BY THE PRESIDENT OF THE UNITED STATES OF AMERICA
 
 A PROCLAMATION
