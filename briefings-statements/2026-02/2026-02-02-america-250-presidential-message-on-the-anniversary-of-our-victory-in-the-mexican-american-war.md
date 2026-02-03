@@ -1,6 +1,6 @@
 ---
 date: '2026-02-02'
-modified_time: 2026-02-02 18:53:56-05:00
+modified_time: 2026-02-03 11:20:06-05:00
 published_time: 2026-02-02 18:22:02-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/02/america-250-presidential-message-on-the-anniversary-of-our-victory-in-the-mexican-american-war/
 tags: briefings-statements
@@ -18,7 +18,7 @@ providence to expand to the golden shores of the Pacific Ocean,
 following the bloody War of 1812, the United States was confidently
 advancing westward and boldly emerging as a continental superpower
 unlike anything the modern world had ever seen.  The people of Texas
-declared independence from Mexico in 1836, and by the spring of 1856,
+declared independence from Mexico in 1836, and by the spring of 1846,
 they voted to join the United States—forcing a reckoning over unsettled
 border disputes.  That April, Mexican forces launched an ambush along
 the Rio Grande, killing 11 and wounding 6 American troops.
