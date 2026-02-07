@@ -1,5 +1,6 @@
 ---
 date: '2026-02-06'
+modified_time: 2026-02-06 17:48:44-05:00
 published_time: 2026-02-06 17:19:51-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/02/united-states-india-joint-statement/
 tags: briefings-statements
@@ -36,13 +37,13 @@ will include:
     as amended, on originating goods of India, including textile and
     apparel, leather and footwear, plastic and rubber, organic
     chemicals, home décor, artisanal products, and certain machinery,
-    and, subject to the successful conclusion of the Agreement, will
-    remove the reciprocal tariff on a wide range of goods identified in
-    the Potential Tariff Adjustments for Aligned Partners Annex to
-    Executive Order 14346 of September 5, 2025 (Modifying the Scope of
-    Reciprocal Tariffs and Establishing Procedures for Implementing
-    Trade and Security Agreements), as amended, including generic
-    pharmaceuticals, gems and diamonds, and aircraft parts.
+    and, subject to the successful conclusion of the Interim Agreement,
+    will remove the reciprocal tariff on a wide range of goods
+    identified in the Potential Tariff Adjustments for Aligned Partners
+    Annex to Executive Order 14346 of September 5, 2025 (Modifying the
+    Scope of Reciprocal Tariffs and Establishing Procedures for
+    Implementing Trade and Security Agreements), as amended, including
+    generic pharmaceuticals, gems and diamonds, and aircraft parts.
 
 <!-- -->
 
@@ -140,4 +141,5 @@ will include:
 The United States and India will promptly implement this framework and
 work towards finalizing the Interim Agreement with a view to concluding
 a mutually beneficial BTA consistent with the roadmap agreed in the
-Terms of Reference.
+Terms of Reference BTA consistent with the roadmap agreed in the Terms
+of Reference.
