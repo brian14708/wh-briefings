@@ -1,6 +1,6 @@
 ---
 date: '2026-02-06'
-modified_time: 2026-02-06 17:48:44-05:00
+modified_time: 2026-02-09 15:46:40-05:00
 published_time: 2026-02-06 17:19:51-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/02/united-states-india-joint-statement/
 tags: briefings-statements
@@ -73,8 +73,8 @@ will include:
 <!-- -->
 
 -   The United States and India will establish rules of origin that
-    ensure that the benefits of theAgreement accrue predominately to the
-    United States and India. 
+    ensure that the benefits of the Agreement accrue predominately to
+    the United States and India. 
 
 <!-- -->
 
@@ -118,7 +118,7 @@ will include:
 
 -   The United States and India agree to strengthen economic security
     alignment to enhance supply chain resilience and innovation through
-    complementary actions to address non- market policies of third
+    complementary actions to address non-market policies of third
     parties, as well as cooperation on inbound and outbound investment
     reviews and export controls.
 
