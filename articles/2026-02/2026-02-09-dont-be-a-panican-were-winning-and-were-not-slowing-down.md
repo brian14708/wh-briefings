@@ -1,6 +1,6 @@
 ---
 date: '2026-02-09'
-modified_time: 2026-02-09 15:45:52-05:00
+modified_time: 2026-02-10 08:51:06-05:00
 published_time: 2026-02-09 15:44:15-05:00
 source_url: https://www.whitehouse.gov/articles/2026/02/dont-be-a-panican-were-winning-and-were-not-slowing-down/
 tags: articles
@@ -127,9 +127,9 @@ in modern history.
 These wins aren’t happening by accident — they come after President
 Trump lodged the [most productive first
 year](https://www.whitehouse.gov/articles/2026/01/365-wins-in-365-days-president-trumps-return-marks-new-era-of-success-prosperity/)
-of a presidential term in modern history — and aren’t happening by
-accident. President Trump promised to Make America Great Again, and he’s
-delivering bigger, faster, and harder than ever before.
+of a presidential term in modern history. President Trump promised to
+Make America Great Again, and he’s delivering bigger, faster, and harder
+than ever before.
 
 **The momentum is unstoppable.** Don’t be a Panican; America is winning
 again — and more victories are coming.
