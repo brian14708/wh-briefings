@@ -1,5 +1,6 @@
 ---
 date: '2026-02-09'
+modified_time: 2026-02-10 13:30:21-05:00
 published_time: 2026-02-09 16:51:00-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-the-united-states-and-india-announce-historic-trade-deal/
 tags: fact-sheets
@@ -26,47 +27,31 @@ people to American products. 
     shared national security challenges, the United States will lower
     the Reciprocal Tariff on India from 25% to 18%.
 -   The key terms of the Agreement include:
-    -   India will eliminate or reduce tariffs on all U.S. industrial
-        goods and a wide range of U.S. food and agricultural products,
-        including dried distillers’ grains (DDGs), red sorghum, tree
-        nuts, fresh and processed fruit, certain pulses, soybean oil,
-        wine and spirits, and additional products.
-
-    <!-- -->
-
-    -   India committed to buy more American products and purchase over
-        $500 billion of U.S. energy, information and communication
-        technology, agricultural, coal, and other products. 
-
-    <!-- -->
-
-    -   India will address non-tariff barriers that affect bilateral
-        trade in priority areas. 
-
-    <!-- -->
-
-    -   The United States and India will negotiate rules of origin that
-        ensure that the agreed benefits accrue predominately to the
-        United States and India.
-
-    <!-- -->
-
-    -   India will remove its digital services taxes and committed to
-        negotiate a robust set of bilateral digital trade rules that
-        address discriminatory or burdensome practices and other
-        barriers to digital trade, including rules that prohibit the
-        imposition of customs duties on electronic transmissions. 
-
-    <!-- -->
-
-    -   The United States and India committed to strengthen economic
-        security alignment to enhance supply chain resilience and
-        innovation through complementary actions to address non-market
-        policies of third parties as well as cooperating on inbound and
-        outbound investment reviews and export controls.
-
-    <!-- -->
-
+    -   <span style="letter-spacing: 0.2px">India will eliminate or
+        reduce tariffs on all U.S. industrial goods and a wide range of
+        U.S. food and agricultural products, including dried distillers’
+        grains (DDGs), red sorghum, tree nuts, fresh and processed
+        fruit, soybean oil, wine and spirits, and additional
+        products.</span>
+    -   <span style="letter-spacing: 0.2px">India intends to buy more
+        American products and purchase over $500 billion of U.S. energy,
+        information and communication technology, coal, and other
+        products. </span>
+    -   <span style="letter-spacing: 0.2px">India will address
+        non-tariff barriers that affect bilateral trade in priority
+        areas. The United States and India will negotiate rules of
+        origin that ensure that the agreed benefits accrue predominately
+        to the United States and India.</span>
+    -   <span style="letter-spacing: 0.2px">India committed to negotiate
+        a robust set of bilateral digital trade rules that address
+        discriminatory or burdensome practices and other barriers to
+        digital trade. </span>
+    -   <span style="letter-spacing: 0.2px">The United States and India
+        committed to strengthen economic security alignment to enhance
+        supply chain resilience and innovation through complementary
+        actions to address non-market policies of third parties as well
+        as cooperating on inbound and outbound investment reviews and
+        export controls.</span>
     -   The United States and India will significantly increase
         bilateral trade in technology products and expand joint
         technology cooperation.
