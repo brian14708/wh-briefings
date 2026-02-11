@@ -1,6 +1,6 @@
 ---
 date: '2026-02-06'
-modified_time: 2026-02-06 16:18:14-05:00
+modified_time: 2026-02-11 09:01:02-05:00
 published_time: 2026-02-06 16:18:13-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/02/ensuring-affordable-beef-for-the-american-consumer/
 tags: presidential-actions
@@ -67,14 +67,14 @@ beef imports since 2023.  Among the beef products the United States
 imports are lean trimmings, which are blended with fattier domestic
 trimmings to produce ground beef products, such as hamburgers.
 
-8.  The Secretary of Agriculture has monitored the domestic supply of
+8\.  The Secretary of Agriculture has monitored the domestic supply of
 beef products subject to a tariff-rate quota (TRQ), including lean beef
 trimmings falling under Harmonized Tariff Schedule of the United States
-(HTSUS) statistical reporting numbers 0201.30.5085 and 0202.30.5085, and
-noted the domestic supply of such products and substitutable products
-combined with the estimated imports of such products under the United
-States beef import TRQ.  The Secretary of Agriculture also advised on
-related domestic demand and pricing.
+(HTSUS) statistical reporting numbers 0201.30.5091, 0201.30.5097,
+0202.30.5091 and 0202.30.5097, and noted the domestic supply of such
+products and substitutable products combined with the estimated imports
+of such products under the United States beef import TRQ.  The Secretary
+of Agriculture also advised on related domestic demand and pricing.
 
 9.  As President of the United States, I have a responsibility to ensure
 that hard-working Americans can afford to feed themselves and their
@@ -115,7 +115,7 @@ addition, I determine that it is appropriate to allocate all of the
 increased in-quota quantity of beef, as established by this
 proclamation, to Argentina.
 
-12.  Section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483),
+12.  Section 604 of the Trade Act of 1974, as amended (19 U.S.C. 2483),
 authorizes the President to embody in the HTSUS the substance of
 statutes affecting import treatment, and actions thereunder, including
 the removal, modification, continuance, or imposition of any rate of
@@ -133,9 +133,10 @@ HTSUS will be increased by 80,000 metric tons (mt).  
 
 \(2\)  The additional 80,000 mt described in clause (1) of this
 proclamation will apply only to lean beef trimmings classifiable under
-HTSUS statistical reporting numbers 0201.30.5085 and 0202.30.5085. 
+HTSUS statistical reporting numbers 0201.30.5091, 0201.30.5097,
+0202.30.5091, and 0202.30.5097. 
 
-\(3\)  The additional 80,000 mt described in clauses (1) and (2) of this
+\(3\)  The additional 80,000 mt described in clauses (1) and (2) of this
 proclamation will be administered on a first-come, first-served basis in
 four quarterly tranches.  The first tranche of 20,000 mt will open on
 February 13, 2026, and close on March 31, 2026.  The second tranche of
@@ -144,7 +145,7 @@ third tranche of 20,000 mt will open on July 1, 2026, and close on
 September 30, 2026.  The fourth tranche of 20,000 mt will open on
 October 1, 2026, and close on December 31, 2026.
 
-\(4\)  The additional 80,000 mt described in clauses (1) and (2) of this
+\(4\)  The additional 80,000 mt described in clauses (1) and (2) of this
 proclamation is allocated in its entirety to Argentina.
 
 (5)(a)  To establish the TRQ amendments described in this proclamation,
@@ -172,23 +173,22 @@ necessary.
 (7)  Each executive department and agency (agency) is authorized to and
 shall take all appropriate measures within its authority to implement
 this proclamation.  The head of each agency may, consistent with
-applicable law, including section 301 of title 3, United States Code,
-redelegate any of these functions within their respective agency.
+applicable law, including section 301 of title 3, United States Code,
+redelegate any of these functions within their respective agency.
 
 (8)  Any provision of previous proclamations and Executive Orders that
 is inconsistent with the actions taken in this proclamation is
-superseded to the extent of such inconsistency.  If any provision of
-this proclamation or the application of any provision to any individual
-or circumstance is held to be invalid, the remainder of this
-proclamation and the application of its provisions to any other
-individuals or circumstances shall not be affected.
+superseded to the extent of such inconsistency. If any provision of this
+proclamation or the application of any provision to any individual or
+circumstance is held to be invalid, the remainder of this proclamation
+and the application of its provisions to any other individuals or
+circumstances shall not be affected.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this
+IN WITNESS WHEREOF, I have hereunto set my hand this sixth day of
+February, in the year of our Lord two thousand twenty-six, and of the
+Independence of the United States of America the two hundred and
+fiftieth.
 
-sixth day of February, in the year of our Lord two thousand twenty-six,
-and of the Independence of the United States of America the two hundred
-and fiftieth.
+                             DONALD J. TRUMP
 
-                               DONALD J. TRUMP
-
-[Annex](https://www.whitehouse.gov/wp-content/uploads/2026/02/annex.pdf)
+[Annex](https://www.whitehouse.gov/wp-content/uploads/2026/02/2026ArgentinaBeef.prc_.ANNEX_.pdf)
