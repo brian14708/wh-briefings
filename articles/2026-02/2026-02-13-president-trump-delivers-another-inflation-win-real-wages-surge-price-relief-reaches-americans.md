@@ -1,5 +1,6 @@
 ---
 date: '2026-02-13'
+modified_time: 2026-02-16 15:38:26-05:00
 published_time: 2026-02-13 09:54:20-05:00
 source_url: https://www.whitehouse.gov/articles/2026/02/president-trump-delivers-another-inflation-win-real-wages-surge-price-relief-reaches-americans/
 tags: articles
@@ -40,13 +41,10 @@ title: 'President Trump Delivers Another Inflation Win: Real Wages Surge, Price 
 -   In President Trump’s first year back in office, real earnings for
     all private-sector workers have outpaced inflation by nearly $1,400
     — earning back some of the nearly $3,000 they lost under Biden.
-    -   <span style="font-size: 19.8927px;letter-spacing: 0.2px">Mining
-        workers: +$2,400</span>
-    -   <span style="font-size: 19.8927px;letter-spacing: 0.2px">Construction
-        workers: +$2,100</span>
-    -   <span style="font-size: 19.8927px;letter-spacing: 0.2px">Manufacturing
-        workers: +$1,700</span>
-    -   Goods producing workers: +1,700
+    -   Mining workers: +$2,400
+    -   Construction workers: +$2,100
+    -   Manufacturing workers: +$1,700
+    -   Goods producing workers: +$1,700
 
 ### **President Trump is delivering real relief at the checkout, pharmacy, and gas pump.**
 
