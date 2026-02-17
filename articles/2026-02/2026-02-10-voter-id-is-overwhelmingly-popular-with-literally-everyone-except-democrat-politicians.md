@@ -1,10 +1,10 @@
 ---
 date: '2026-02-10'
+modified_time: 2026-02-17 12:08:46-05:00
 published_time: 2026-02-10 12:53:59-05:00
 source_url: https://www.whitehouse.gov/articles/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/
 tags: articles
-title: "Voter ID Is Overwhelmingly Popular with Literally Everyone \u2014 Except Democrat\
-  \ Politicians"
+title: 'The SAVE America Act: Voter ID is Popular with Everyone'
 ---
  
 **President Donald J. Trump has been unequivocal: Nothing is more
@@ -17,11 +17,10 @@ why the Trump Administration
 [Congress](https://x.com/RapidResponse47/status/2019132022707613956?s=20)
 [to](https://x.com/RapidResponse47/status/2019500524177952801?s=20)
 [pass](https://x.com/RapidResponse47/status/2019496214132072719?s=20)
-the [SAVE America
-Act](https://www.congress.gov/bill/119th-congress/house-bill/7296/text)
-— commonsense legislation that requires voters to present photo ID and
-implements other critical measures to protect federal elections from
-fraud and abuse.
+the <a href="https://www.whitehouse.gov/saveamerica/" id="35320">SAVE
+America Act</a> — commonsense legislation that requires voters to
+present photo ID and implements other critical measures to protect
+federal elections from fraud and abuse.
 
 Yet, despite overwhelming popular support across every demographic,
 Radical Left Democrat politicians continue to block these reforms,
