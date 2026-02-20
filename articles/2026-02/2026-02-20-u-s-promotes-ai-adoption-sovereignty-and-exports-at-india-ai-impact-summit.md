@@ -1,6 +1,6 @@
 ---
 date: '2026-02-20'
-modified_time: 2026-02-20 01:09:25-05:00
+modified_time: 2026-02-20 08:35:35-05:00
 published_time: 2026-02-20 01:09:24-05:00
 source_url: https://www.whitehouse.gov/articles/2026/02/u-s-promotes-ai-adoption-sovereignty-and-exports-at-india-ai-impact-summit/
 tags: articles
@@ -20,8 +20,8 @@ alongside global heads of state, foreign ministers, and business
 leaders.
 
 Director Kratsios gave
-[remarks ](https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/)on
-America’s AI leadership and international AI adoption, the rejection
+[remarks](https://www.whitehouse.gov/articles/2026/02/remarks-by-director-michael-kratsios-at-the-india-ai-impact-summit/)
+on America’s AI leadership and international AI adoption, the rejection
 of global governance for the pursuit of real AI sovereignty, and
 the opportunity of nations to join the U.S. as partners to build the AI
 future for their peoples with components of the American AI stack.
