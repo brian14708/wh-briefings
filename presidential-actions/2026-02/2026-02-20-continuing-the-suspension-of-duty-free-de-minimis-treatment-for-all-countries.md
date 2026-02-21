@@ -1,6 +1,6 @@
 ---
 date: '2026-02-20'
-modified_time: 2026-02-20 19:38:37-05:00
+modified_time: 2026-02-21 00:40:19-05:00
 published_time: 2026-02-20 19:14:47-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries/
 tags: presidential-actions
@@ -201,9 +201,11 @@ entities, its officers, employees, or agents, or any other person.
 (d)  The costs for publication of this order shall be borne by the
 Department of Homeland Security.
 
-                             DONALD J. TRUMP
+                          
 
 [ANNEX](https://www.whitehouse.gov/wp-content/uploads/2026/02/2026ContinuingDiMinimis.ANNEX_.FINAL-002.pdf)
+
+DONALD J. TRUMP
 
 THE WHITE HOUSE,
 

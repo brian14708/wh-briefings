@@ -1,5 +1,6 @@
 ---
 date: '2026-02-20'
+modified_time: 2026-02-21 00:38:55-05:00
 published_time: 2026-02-20 19:40:07-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/
 tags: presidential-actions
@@ -232,8 +233,9 @@ A PROCLAMATION
 NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of
 America, by the authority vested in me by the Constitution and the laws
 of the United States, including section 122, section 301 of title 3,
-United States Code, and section 604, do hereby proclaim as follows:  
-(1) Except as otherwise provided in this proclamation, as set forth in
+United States Code, and section 604, do hereby proclaim as follows:
+
+\(1\) Except as otherwise provided in this proclamation, as set forth in
 Annexes I and II to this proclamation, all articles imported into the
 United States shall be subject to a 10 percent ad valorem duty rate.  
 (2) The surcharge imposed in this proclamation shall not apply to
@@ -329,7 +331,9 @@ are invalidated. The surcharge imposed in this proclamation — with any
 combination of the exceptions in paragraph 14 of this proclamation, or
 even without any of the exceptions in paragraph 14 of this proclamation
 — is required to deal with the large and serious United States
-balance-of-payments deficits found in this proclamation.  
+balance-of-payments deficits found in this proclamation.
+
+  
 IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of
 February, in the year of our Lord two thousand twenty-six, and of the
 Independence of the United States of America the two hundred and
