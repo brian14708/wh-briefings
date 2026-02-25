@@ -1,6 +1,6 @@
 ---
 date: '2026-02-24'
-modified_time: 2026-02-24 18:32:35-05:00
+modified_time: 2026-02-24 20:11:36-05:00
 published_time: 2026-02-24 12:02:35-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/
 tags: briefings-statements
@@ -9,7 +9,7 @@ title: "First Lady Melania Trump\u2019s State of the Union Guests Reflect Her Im
 ---
  
 Sierra Burns, a participant in the Melania Trump Foster Youth to
-Independence Program, and Everest Nevraumont, a 10-year-old Alpha School
+Independence Program, and Everest Nevraumont, a 11-year-old Alpha School
 student, AI-advocate, and TedX speaker, joined First Lady Melania Trump
 in the First Lady’s Box for the 2026 State of the Union. Together, they
 represent the spirit of Mrs. Trump’s BE BEST Fostering the Future
