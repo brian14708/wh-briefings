@@ -1,5 +1,6 @@
 ---
 date: '2026-02-25'
+modified_time: 2026-02-25 08:38:05-05:00
 published_time: 2026-02-25 01:10:09-05:00
 source_url: https://www.whitehouse.gov/articles/2026/02/democrats-showed-whose-side-theyre-on-and-its-not-the-american-people-249d/
 tags: articles
@@ -27,7 +28,7 @@ join in celebrating these victories for the American people.**
 -   The grieving families of innocent American women and children
     murdered by criminal illegal aliens — including the mother of Iryna
     Zarutska, a North Carolina woman savagely killed on public transit
-    by an illegal alien monster.
+    by a career criminal monster.
 -   Securing our homeland and finally ending the invasion of savage
     criminal illegal aliens — killers, rapists, gang members, and
     traffickers — with the strongest, most secure border in American
