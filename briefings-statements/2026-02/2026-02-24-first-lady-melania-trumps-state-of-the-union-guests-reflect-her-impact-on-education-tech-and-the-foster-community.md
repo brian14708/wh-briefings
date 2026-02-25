@@ -1,6 +1,6 @@
 ---
 date: '2026-02-24'
-modified_time: 2026-02-24 12:02:36-05:00
+modified_time: 2026-02-24 18:32:35-05:00
 published_time: 2026-02-24 12:02:35-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trumps-state-of-the-union-guests-reflect-her-impact-on-education-tech-and-the-foster-community/
 tags: briefings-statements
@@ -38,19 +38,21 @@ Workshop with Zoom included approximately 2,600 schools across America.
 
 **Sierra A. Burns from Greenville, SC**
 
-Sierra is a recipient of the Melania Trump Foster Youth to Independence
-Program. She is a dedicated advocate for children in foster care after
-having experienced the foster-care system firsthand. A graduate of
-Winthrop University, she is currently pursuing her Master’s in Advocacy
-and Social Policy at Furman University while also working as a Referral
-Specialist at Prisma Health. Sierra testified in support of extending
-foster care in South Carolina and later became a Jim Casey Fellow, where
-she helped develop training resources for caseworkers statewide.
+Sierra is a participant in the Melania Trump Foster Youth to
+Independence Program. She is a dedicated advocate for children in foster
+care after having experienced the foster-care system firsthand. A
+graduate of Winthrop University, she is currently pursuing her Master’s
+in Advocacy and Social Policy at Furman University while also working as
+a Referral Specialist at Prisma Health. Sierra testified in support of
+extending foster care in South Carolina and later became a Jim Casey
+Fellow, where she helped develop training resources for caseworkers
+statewide.
 
 **Everest Nevraumont from Austin, TX**
 
-Everest is a 10-year-old student at the Alpha School in Austin, Texas,
-where she participates in AI-powered, personalized learning. She is a
-public speaker, AI-education advocate, three-time Texas State Champion
-in History, and was on a winning International History Bowl team. She
-also delivered a TedX speech about how she uses AI in her education.
+Everest is a 11-year-old student at the Alpha School, which is based in
+Austin, Texas. Everest participates in AI-powered, personalized learning
+through her school. She is a public speaker, AI-education advocate,
+three-time Texas State Champion in History, and was on a winning
+International History Bowl team. She also delivered a TedX speech about
+how she uses AI in her education.
