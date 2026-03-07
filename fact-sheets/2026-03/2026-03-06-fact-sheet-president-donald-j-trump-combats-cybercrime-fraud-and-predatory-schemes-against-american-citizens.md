@@ -1,5 +1,6 @@
 ---
 date: '2026-03-06'
+modified_time: 2026-03-06 20:14:58-05:00
 published_time: 2026-03-06 13:42:34-05:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-combats-cybercrime-fraud-and-predatory-schemes-against-american-citizens/
 tags: fact-sheets
@@ -75,7 +76,9 @@ extortion.
     leadership.   
 
 **DELIVERING JUSTICE AND SECURITY FOR AMERICANS:** President Trump is
-advancing cybersecurity for the safety of all Americans.
+[advancing
+cybersecurity](https://www.whitehouse.gov/wp-content/uploads/2026/03/President-Trumps-Cyber-Strategy-for-America.pdf)
+for the safety of all Americans.
 
 -   President Trump has made it clear that this Administration will do
     what it takes to make America cyber secure—including focusing
