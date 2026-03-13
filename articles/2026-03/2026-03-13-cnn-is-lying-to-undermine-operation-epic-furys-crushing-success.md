@@ -1,5 +1,6 @@
 ---
 date: '2026-03-13'
+modified_time: 2026-03-13 16:45:33-04:00
 published_time: 2026-03-13 16:37:48-04:00
 source_url: https://www.whitehouse.gov/articles/2026/03/cnn-is-lying-to-undermine-operation-epic-furys-crushing-success/
 tags: articles
@@ -32,22 +33,21 @@ Iran’s willingness to close the Strait of Hormuz.**
 Trump officials acknowledged” this to lawmakers in a classified
 briefing.**
 
--   **Wrong.** Actual briefing participants torched this lie:
-    -   <a href="https://x.com/SenTomCotton/status/2032456115880071176"
-        style="font-size: 18.198px;letter-spacing: 0.2px"><strong>Sen. Tom
-        Cotton</strong></a>**:**
-        <span style="font-size: 18.198px;letter-spacing: 0.2px">“As
-        Chairman of the Intelligence Committee, let me make clear:
-        whoever leaked this lied. CNN should do some fact-checking. The
-        U.S. has planned for Iran to try to close the strait for
-        decades.”</span>
-    -   [**Sen. Tim
-        Sheehy**](https://x.com/TimSheehyMT/status/2032454091327078845)**:**
-        “I received a classified briefing from the administration. It is
-        categorically false that they did not plan for Iran closing the
-        Strait of Hormuz. Lawmakers and national security officials have
-        known for years that this was Iran’s plan once their backs were
-        against the wall.”
+-   **Wrong.** Actual briefing participants torched this lie:  
+      
+    **[Sen. Tom
+    Cotton](https://x.com/SenTomCotton/status/2032456115880071176):**
+    “As Chairman of the Intelligence Committee, let me make clear:
+    whoever leaked this lied. CNN should do some fact-checking. The U.S.
+    has planned for Iran to try to close the strait for decades.”  
+      
+    **[Sen. Tim
+    Sheehy](https://x.com/TimSheehyMT/status/2032454091327078845):** “I
+    received a classified briefing from the administration. It is
+    categorically false that they did not plan for Iran closing the
+    Strait of Hormuz. Lawmakers and national security officials have
+    known for years that this was Iran’s plan once their backs were
+    against the wall.”
 
 Under President Trump’s bold and resolute leadership, Operation Epic
 Fury continues to advance its clear objectives: destroying Iran’s
