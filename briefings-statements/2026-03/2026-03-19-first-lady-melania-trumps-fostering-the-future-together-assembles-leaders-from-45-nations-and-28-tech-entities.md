@@ -1,6 +1,6 @@
 ---
 date: '2026-03-19'
-modified_time: 2026-03-19 11:21:28-04:00
+modified_time: 2026-03-19 13:33:05-04:00
 published_time: 2026-03-19 11:18:25-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trumps-fostering-the-future-together-assembles-leaders-from-45-nations-and-28-tech-entities/
 tags: briefings-statements
@@ -28,8 +28,8 @@ on March 25, 2026.
 Fostering the Future Together is a long-term initiative, with member
 nations spanning from multiple continents. A sampling of member nations
 includes The United States of America, France, Poland, Panama, Ukraine,
-United Arab Emirates, Lithuania, Nigeria, Paraguay, Saudia Arabia,
-Aruba, Morocco, Kenya, and Israel.
+United Arab Emirates, Lithuania, Nigeria, Paraguay, Saudi Arabia, Aruba,
+Morocco, Kenya, and Israel.
 
 Participating technology companies include OpenAI, Microsoft, xAI, Meta,
 Palantir Adobe, Google, and Zoom Communications.
