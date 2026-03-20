@@ -1,6 +1,6 @@
 ---
 date: '2026-03-19'
-modified_time: 2026-03-19 13:33:05-04:00
+modified_time: 2026-03-20 15:31:43-04:00
 published_time: 2026-03-19 11:18:25-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trumps-fostering-the-future-together-assembles-leaders-from-45-nations-and-28-tech-entities/
 tags: briefings-statements
@@ -32,6 +32,6 @@ United Arab Emirates, Lithuania, Nigeria, Paraguay, Saudi Arabia, Aruba,
 Morocco, Kenya, and Israel.
 
 Participating technology companies include OpenAI, Microsoft, xAI, Meta,
-Palantir Adobe, Google, and Zoom Communications.
+Palantir, Adobe, Google, and Zoom Communications.
 
 \###
