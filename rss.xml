@@ -8,11 +8,28 @@
    The White House Briefing Room
   </description>
   <pubDate>
-   Mon, 23 Mar 2026 12:26:47 -0400
+   Mon, 23 Mar 2026 15:00:00 -0400
   </pubDate>
   <link>
    https://www.whitehouse.gov/briefing-room/
   </link>
+  <item>
+   <title>
+    Presidential Message on the Anniversary of Patrick Henry’s “Give Me Liberty, Or Give Me Death!” Speech
+   </title>
+   <guid>
+    https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/
+   </guid>
+   <pubDate>
+    Mon, 23 Mar 2026 15:00:00 -0400
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/
+   </link>
+   <category>
+    briefings-statements
+   </category>
+  </item>
   <item>
    <title>
     President Trump’s ‘Memphis Safe Task Force’ Delivers Crushing Blow to Crime
@@ -504,23 +521,6 @@
    </link>
    <category>
     briefings-statements
-   </category>
-  </item>
-  <item>
-   <title>
-    ICYMI: “Trump’s Energy Triumph”
-   </title>
-   <guid>
-    https://www.whitehouse.gov/articles/2026/03/icymi-trumps-energy-triumph/
-   </guid>
-   <pubDate>
-    Fri, 13 Mar 2026 10:54:45 -0400
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/articles/2026/03/icymi-trumps-energy-triumph/
-   </link>
-   <category>
-    articles
    </category>
   </item>
  </channel>
