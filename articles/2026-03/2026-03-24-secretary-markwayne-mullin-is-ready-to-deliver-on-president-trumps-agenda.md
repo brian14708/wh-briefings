@@ -1,6 +1,6 @@
 ---
 date: '2026-03-24'
-modified_time: 2026-03-24 20:26:02-04:00
+modified_time: 2026-03-25 08:55:34-04:00
 published_time: 2026-03-24 20:26:01-04:00
 source_url: https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/
 tags: articles
@@ -32,9 +32,6 @@ srcset="https://www.whitehouse.gov/wp-content/uploads/2026/03/P20260324DT-0356.j
 width="3000" height="2000"
 alt="President Donald J. Trump looks on as Attorney General Pam Bondi swears in Markwayne Mullin as Secretary of Homeland Security, Tuesday, March 24, 2026, in the Oval Office. (Official White House photo by Daniel Torok)" />
 </figure>
-
-****His confirmation earned widespread praise across the aisle from
-lawmakers, state and local officials, and industry leaders:****
 
 **His confirmation earned widespread praise across the aisle from
 lawmakers, state and local officials, and industry leaders:**
@@ -469,7 +466,6 @@ law enforcement, and keeping Americans safe.”
 [Rep. Kevin
 Hern](https://x.com/repkevinhern/status/2036241527177912816): “The
 Senate has officially confirmed my fellow Oklahoman and close friend
-
 @SenMullin as our next DHS Secretary. His confirmation is a testament to
 @POTUS’s commitment to selecting strong, capable leaders who will serve
 our nation well. Secretary Mullin understands the importance of border
@@ -521,8 +517,7 @@ every American.”
 [Rep. David
 Kustoff](https://x.com/RepDavidKustoff/status/2036243959249355107):
 “Congratulations to @SenMullin on his confirmation as Secretary of
-
-@DHSGov\. I am confident he will continue to fulfill President Trump’s
+@DHSGov. I am confident he will continue to fulfill President Trump’s
 promise to secure our borders, protect the homeland, and put America
 First!”
 
@@ -807,6 +802,14 @@ National Border Patrol Council fully supports and endorses Senator
 Security! We look forward to working with him to continue protecting our
 great nation under the tremendously successful leadership of @POTUS
 Donald J. Trump and his Administration.”
+
+[Federal Law Enforcement Officers Association National President Mathew
+Silverman](https://www.fleoa.org/pages/FLEOA-Congratulates-Markwayne-Mullin-on-Senate-Confirmation-as-Secretary-of-the-Department-of-Homeland-Security-tOvSwmxz):
+“We congratulate Secretary Mullin and look forward to working with him.
+His experience and commitment make him an ideal choice to head the
+Department of Homeland Security. We are confident he will be a strong
+advocate for law enforcement and a decisive leader in protecting our
+nation from the wide range of threats we face today.”
 
 [Airlines for America President and CEO Chris
 Sununu](https://www.airlines.org/news-update/a4a-congratulates-markwayne-mullin-on-senate-confirmation/):
