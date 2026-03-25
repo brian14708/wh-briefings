@@ -1,6 +1,6 @@
 ---
 date: '2026-03-24'
-modified_time: 2026-03-24 12:22:00-04:00
+modified_time: 2026-03-24 19:08:46-04:00
 published_time: 2026-03-24 12:21:59-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/
 tags: briefings-statements
@@ -70,7 +70,7 @@ Bangladesh, Belize, and Bolivia. It is my distinct honor to have
 Burundi, Cabo Verde, Congo, Costa Rica, Dominican Republic, Ecuador,
 Equatorial Guinea, Estonia, France, Gambia, Georgia, Ghana, and
 Guatemala here in Washington DC. Greetings Israel, Kenya, Kosovo,
-Lithuania, Malta, Malawi, Montenegro, Morocco, Nigeria, Macedonia,
+Lithuania, Malta, Malawi, Montenegro, Morocco, Nigeria, North Macedonia,
 Palau, Panama, and of course, Paraguay. Hello, Poland, Romania, Senegal,
 Serbia, Seychelles, Sierra Leone, Slovenia, Saint Kitts and Nevis,
 Ukraine, and UAE.
