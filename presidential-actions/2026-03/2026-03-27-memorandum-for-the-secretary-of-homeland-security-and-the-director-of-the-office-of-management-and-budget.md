@@ -1,6 +1,6 @@
 ---
 date: '2026-03-27'
-modified_time: 2026-03-27 14:37:46-04:00
+modified_time: 2026-03-30 12:27:20-04:00
 published_time: 2026-03-27 14:29:20-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/
 tags: presidential-actions
@@ -58,7 +58,7 @@ Nothing in this memorandum shall be construed to impair or otherwise
 affect the authority granted by law to an executive department or
 agency, or the head thereof; or the functions of the Director of the
 Office of Management and Budget relating to budgetary, administrative,
-or legislative proposals.  This memorandum shall be implemented
+or legislative proposals. This memorandum shall be implemented
 consistent with applicable law and subject to the availability of
 appropriations.  This memorandum is not intended to, and does not,
 create any right or benefit, substantive or procedural, enforceable at
