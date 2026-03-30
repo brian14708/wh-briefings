@@ -1,6 +1,6 @@
 ---
 date: '2026-03-27'
-modified_time: 2026-03-30 12:27:20-04:00
+modified_time: 2026-03-30 12:50:30-04:00
 published_time: 2026-03-27 14:29:20-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/
 tags: presidential-actions
@@ -16,7 +16,7 @@ Officers and Employees
 
 As the Democrat-caused shutdown of the Department of Homeland Security
 (DHS) continues well into its sixth week, America’s air travel system
-has reached its breaking point.  This is an unprecedented emergency
+has reached its breaking point. This is an unprecedented emergency
 situation.  Currently, more than 60,000 Transportation Security
 Administration (TSA) employees, including approximately 50,000
 transportation security officers who perform security functions at
