@@ -1,6 +1,6 @@
 ---
 date: '2026-04-02'
-modified_time: 2026-04-02 16:19:00-04:00
+modified_time: 2026-04-02 19:32:29-04:00
 published_time: 2026-04-02 15:38:58-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/
 tags: presidential-actions
@@ -502,6 +502,6 @@ fiftieth.
                              DONALD J. TRUMP
 
 <a
-href="https://www.whitehouse.gov/wp-content/uploads/2026/04/ANNEXES-I-A-I-B-II-III-IV.pdf?cb=1775160974"
+href="https://www.whitehouse.gov/wp-content/uploads/2026/04/Metals-ANNEXES-I-A-I-B-II-III-IV.pdf"
 id="https://www.whitehouse.gov/wp-content/uploads/2026/04/ANNEXES-I-A-I-B-II-III-IV.pdf?cb=1775160974">ANNEXES
 I-A, I-B, II, III &amp; IV</a>

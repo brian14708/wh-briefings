@@ -1,6 +1,6 @@
 ---
 date: '2026-04-02'
-modified_time: 2026-04-02 15:39:51-04:00
+modified_time: 2026-04-02 20:32:12-04:00
 published_time: 2026-04-02 15:39:50-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/
 tags: presidential-actions
