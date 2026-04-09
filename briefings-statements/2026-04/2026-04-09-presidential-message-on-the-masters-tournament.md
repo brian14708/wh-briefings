@@ -1,5 +1,6 @@
 ---
 date: '2026-04-09'
+modified_time: 2026-04-09 14:48:51-04:00
 published_time: 2026-04-09 10:27:47-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-the-masters-tournament/
 tags: briefings-statements
@@ -29,7 +30,7 @@ when pressure is the greatest.  It is what makes a true champion.  In
 that way, the Masters stands as a tribute to our rich history and a
 symbol of our bright, hopeful, joyous, prosperous, and exciting
 future—reflecting the same American spirit of excellence that will
-define our Nation’s new Golden Age for generations to come  
+define our Nation’s new Golden Age for generations to come.  
 
 On the 90th playing of the Masters Tournament, Melania and I wish each
 competitor the very best in their pursuit of the prestigious Green
