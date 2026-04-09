@@ -1,11 +1,11 @@
 ---
 date: '2026-04-08'
-modified_time: 2026-04-08 17:26:01-04:00
+modified_time: 2026-04-08 23:03:51-04:00
 published_time: 2026-04-08 17:25:47-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/04/sequestration-order-for-fiscal-year-2027-pursuant-to-section-251a-of-the-balanced-budgetand-emergency-deficit-control-act-as-amended/
 tags: presidential-actions
 title: SEQUESTRATION ORDER FOR FISCAL YEAR 2027 PURSUANT TO SECTION 251A OF THE BALANCED
-  BUDGETAND EMERGENCY DEFICIT CONTROL ACT, AS AMENDED
+  BUDGET AND EMERGENCY DEFICIT CONTROL ACT, AS AMENDED
 ---
  
 By the authority vested in me as President by the laws of the United
