@@ -1,6 +1,6 @@
 ---
 date: '2026-04-07'
-modified_time: 2026-04-07 11:24:36-04:00
+modified_time: 2026-04-09 17:44:21-04:00
 published_time: 2026-04-07 11:24:35-04:00
 source_url: https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/
 tags: releases
@@ -288,6 +288,22 @@ benefit from life-changing academic and athletic experiences that are in
 jeopardy in today’s climate of college athletics. This EO is a positive
 initiative that could protect these opportunities and stabilize the
 college athletics industry for years to come.”
+
+**John Donahoe, Jaquish & Kenninger Director and Chair of Athletics,
+Stanford University:** “We appreciate the opportunity to provide
+meaningful perspective alongside peer leaders from a variety of
+backgrounds. Last month’s College Sports Roundtable was a critical first
+step in understanding the landscape, identifying complex issues, and
+building alignment. We remain deeply invested in the student-athlete
+experience, and specifically in establishing clear guidelines for
+eligibility and the protection of women’s and Olympic sports.”
+
+**American Football Coaches Association (AFCA):** “The AFCA thanks
+President Trump for his Executive Order on college sports, particularly
+the directive to the FTC to take action on violations by college sports
+agents. We urge Congress to finish the job by establishing national
+standards, registration, and certification to protect student-athletes
+from exploitation.”
 
 **Clay Travis, Founder, Outkick** “President Trump’s executive order on
 college sports is below. Three key provisions: 1. Five years of total
