@@ -1,6 +1,6 @@
 ---
 date: '2026-04-13'
-modified_time: 2026-04-13 12:12:38-04:00
+modified_time: 2026-04-13 12:38:09-04:00
 published_time: 2026-04-13 12:00:00-04:00
 source_url: https://www.whitehouse.gov/releases/2026/04/2026-economic-report-of-the-president-released/
 tags: releases
@@ -92,14 +92,17 @@ Administration’s policy priorities.
     Retail Access to Private Equity Investments through Defined
     Contribution
     Plans](https://www.whitehouse.gov/wp-content/uploads/2026/04/ERP-2026-12.-Unlocking-Retail-Access-to-Private-Equity-Investments-through-Defined-Contribution-Plans.pdf)</span>
-    uncovers the individual and economic benefits of allowing Americans
-    to allocate some of their 401(k)s to private market investments
-    previously accessible primarily only to the wealthy;
+    analyzes the implications of expanding access to private equity
+    investments for millions of Americans through their defined
+    contribution retirement plans, including effects on portfolio
+    diversification, risk-adjusted returns, retirement income, and
+    broader capital market and real economy outcomes;
 13. <span style="text-decoration: underline">[Chapter 13: The Cost of
     Capital Misallocation to ESG Investments with an Environmental
     Focus](https://www.whitehouse.gov/wp-content/uploads/2026/04/ERP-2026-13.-The-Cost-of-Capital-Misallocation-to-ESG-Investments-with-an-Environmental-Focus.pdf)</span>
-    quantifies the loss to GDP from environmentally-focused capital
-    misallocation; and
+    quantifies the extent of capital misallocation to
+    environmentally-focused ESG investments and the resulting loss of
+    GDP; and
 14. <span style="text-decoration: underline">[Chapter 14: The Year in
     Review and the Years
     Ahead](https://www.whitehouse.gov/wp-content/uploads/2026/04/ERP-2026-14.-The-Year-in-Review-and-the-Years-Ahead.pdf)</span>
