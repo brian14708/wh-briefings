@@ -3,9 +3,9 @@ name = "scraper"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "aiofiles>=24.1.0",
+    "aiofiles>=25.1.0",
     "aiohttp[speedups]>=3.13.5",
     "beautifulsoup4>=4.14.3",
     "feedendum>=0.4.0",
-    "pyyaml>=6.0.2",
+    "pyyaml>=6.0.3",
 ]
