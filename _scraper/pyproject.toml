@@ -5,7 +5,7 @@ requires-python = ">=3.12"
 dependencies = [
     "aiofiles>=25.1.0",
     "aiohttp[speedups]>=3.13.5",
-    "beautifulsoup4>=4.13.3",
+    "beautifulsoup4>=4.14.3",
     "feedendum>=0.4.0",
     "pyyaml>=6.0.3",
 ]
