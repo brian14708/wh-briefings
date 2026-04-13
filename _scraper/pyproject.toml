@@ -7,5 +7,5 @@ dependencies = [
     "aiohttp[speedups]>=3.13.5",
     "beautifulsoup4>=4.13.3",
     "feedendum>=0.4.0",
-    "pyyaml>=6.0.2",
+    "pyyaml>=6.0.3",
 ]
