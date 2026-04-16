@@ -1,6 +1,6 @@
 ---
 date: '2026-04-14'
-modified_time: 2026-04-14 15:29:44-04:00
+modified_time: 2026-04-16 12:10:59-04:00
 published_time: 2026-04-14 15:29:43-04:00
 source_url: https://www.whitehouse.gov/releases/2026/04/president-trumps-powerful-leadership-highlights-american-strength-as-energy-dominance-delivers-global-stability/
 tags: releases
@@ -52,9 +52,9 @@ src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjEyIiB2aWV3Ym94P
     tons of liquefied natural gas (LNG) in a single year — reversing
     years of Biden-era
     [restrictions](https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-restores-trump-energy-dominance-agenda).
--   Oil production
+-   Crude oil production
     [reached](https://www.eia.gov/todayinenergy/detail.php?id=67404) an
-    all-time high of 23.6 million barrels per day.
+    all-time high of 13.6 million barrels per day.
 -   U.S. offshore oil production also
     [set](https://www.breitbart.com/politics/2026/04/01/trump-oversaw-record-levels-of-domestic-energy-production-in-2025/)
     a new record.
