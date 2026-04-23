@@ -1,6 +1,6 @@
 ---
 date: '2026-04-23'
-modified_time: 2026-04-23 15:45:33-04:00
+modified_time: 2026-04-23 17:23:53-04:00
 published_time: 2026-04-23 15:45:32-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/
 tags: fact-sheets
@@ -45,8 +45,8 @@ result of today’s actions.
 
 **GROUNDBREAKING RARE DISEASE TREATMENT AT NO COST**: The President also
 announced that Regeneron’s new gene therapy for a rare type of genetic
-deafness from Regeneron, called Otarmeni, will be given to U.S. patients
-at no cost as part of this agreement.
+deafness, called Otarmeni, will be given to U.S. patients at no cost as
+part of this agreement.
 
 -   Otarmeni was approved today on an unprecedented timeline through the
     Food and Drug Administration (FDA) Commissioner’s National Priority
