@@ -1,6 +1,6 @@
 ---
 date: '2026-04-23'
-modified_time: 2026-04-23 17:23:53-04:00
+modified_time: 2026-04-28 09:04:54-04:00
 published_time: 2026-04-23 15:45:32-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/
 tags: fact-sheets
@@ -16,10 +16,10 @@ with the lowest prices paid by other developed nations (known as the
 most-favored-nation, or MFN, price).  
 
 -   The agreement will provide every State Medicaid program in the
-    country access to MFN drug prices on new Regeneron products,
-    resulting in hundreds of millions in savings and continuing
-    President Trump’s historic efforts to strengthen the program for the
-    most vulnerable Americans.
+    country access to MFN drug prices on Regeneron products, resulting
+    in hundreds of millions in savings and continuing President Trump’s
+    historic efforts to strengthen the program for the most vulnerable
+    Americans.
 -   The agreement ensures foreign nations can no longer use price
     controls to freeride on American innovation by guaranteeing MFN
     prices on all new innovative medicines Regeneron brings to market.
