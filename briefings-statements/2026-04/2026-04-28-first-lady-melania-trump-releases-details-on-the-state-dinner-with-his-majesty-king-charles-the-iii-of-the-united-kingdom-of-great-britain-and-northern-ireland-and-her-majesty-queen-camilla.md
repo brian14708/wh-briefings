@@ -67,10 +67,10 @@ the shared heritage and enduring friendship between the United States
 and the United Kingdom, and celebrating the strength of American
 winemaking today.
 
--   Hopkins Riesling “Heritage” 2024, Hopkins Vineyards
--   The Penner-Ash Pinot Noir “Willamette Valley” 2022, Penner-Ash Wine
-    Cellars
--   The Newton Chardonnay “Unfiltered” 2022, Newton Vineyard
+- Hopkins Riesling “Heritage” 2024, Hopkins Vineyards
+- The Penner-Ash Pinot Noir “Willamette Valley” 2022, Penner-Ash Wine
+  Cellars
+- The Newton Chardonnay “Unfiltered” 2022, Newton Vineyard
 
 **ENTERTAINMENT**
 

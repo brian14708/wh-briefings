@@ -34,7 +34,7 @@ expanded beehive, click [here](https://youtu.be/RpB22lD2UoQ).
 <img
 src="https://www.whitehouse.gov/wp-content/uploads/2026/04/image.png"
 style="aspect-ratio:1.4988241442383068;width:751px;height:auto"
-decoding="async" data-fetchpriority="high"
+decoding="async" fetchpriority="high"
 sizes="(max-width: 637px) 100vw, 637px"
 srcset="https://www.whitehouse.gov/wp-content/uploads/2026/04/image.png 637w, https://www.whitehouse.gov/wp-content/uploads/2026/04/image.png?resize=600,400 600w"
 width="637" height="425" />
