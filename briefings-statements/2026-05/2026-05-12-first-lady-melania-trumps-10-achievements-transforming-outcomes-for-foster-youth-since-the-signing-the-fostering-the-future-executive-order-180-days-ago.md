@@ -1,6 +1,6 @@
 ---
 date: '2026-05-12'
-modified_time: 2026-05-12 15:00:15-04:00
+modified_time: 2026-05-12 16:00:17-04:00
 published_time: 2026-05-12 15:00:14-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-10-achievements-transforming-outcomes-for-foster-youth-since-the-signing-the-fostering-the-future-executive-order-180-days-ago/
 tags: briefings-statements
@@ -71,10 +71,10 @@ Security survivor benefits intended for foster youth after the loss of a
 parent. In the last six months, the following nine states answered the
 Trump Administration’s call: Alabama, Idaho, Kentucky, Louisiana,
 Mississippi, Nebraska, New Jersey, Utah, and Washington state. These
-states joined Arizona, California, Colorado, Idaho, Kansas,
-Massachusetts, Missouri, Nevada, New Mexico, Ohio, Oregon, Virginia, and
-Washington, D.C. in ending the practice of diverting federal benefits
-that rightfully belong to foster youth.
+states joined Arizona, California, Colorado, Kansas, Massachusetts,
+Missouri, Nevada, New Mexico, Ohio, Oregon, Virginia, and Washington,
+D.C. in ending the practice of diverting federal benefits that
+rightfully belong to foster youth.
 
 **Expanding Access to Family Care in 19 States Through Fostering the
 Future-Aligned Partnerships: **The Trump Administration has advanced a
