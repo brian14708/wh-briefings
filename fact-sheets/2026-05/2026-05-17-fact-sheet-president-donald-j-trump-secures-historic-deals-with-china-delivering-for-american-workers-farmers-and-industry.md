@@ -1,6 +1,6 @@
 ---
 date: '2026-05-17'
-modified_time: 2026-05-17 13:15:14-04:00
+modified_time: 2026-05-17 15:09:06-04:00
 published_time: 2026-05-17 13:15:13-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/
 tags: fact-sheets
@@ -38,7 +38,7 @@ Investment. 
 - The Board of Investment will provide a government-to-government forum
   for discussing investment-related issues.
 
-**DELIVERING FOR AMERICAN WORKERS, FAMERS, AND INDUSTRY:** President
+**DELIVERING FOR AMERICAN WORKERS, FARMERS, AND INDUSTRY:** President
 Trump negotiated a sweeping package of commitments that will drive
 high-paying American jobs and open new markets for U.S. goods.
 
