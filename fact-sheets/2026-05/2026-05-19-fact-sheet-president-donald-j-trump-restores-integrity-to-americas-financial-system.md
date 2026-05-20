@@ -1,5 +1,6 @@
 ---
 date: '2026-05-19'
+modified_time: 2026-05-20 09:12:35-04:00
 published_time: 2026-05-19 17:29:16-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-restores-integrity-to-americas-financial-system/
 tags: fact-sheets
@@ -8,7 +9,7 @@ title: "Fact Sheet: President Donald J. Trump Restores Integrity to America\u201
 ---
  
 **SECURING AMERICA’S FINANCIAL SYSTEM:** Today, President Donald J.
-Trump signed an Executive Orderto protect America’s financial system
+Trump signed an Executive Order to protect America’s financial system
 from illicit activity, strengthen customer identification requirements
 for financial institutions, and address the credit risks posed by
 extending financial services to non-work authorized illegal aliens.
