@@ -1,10 +1,11 @@
 ---
 date: '2026-05-22'
-modified_time: 2026-05-22 13:09:21-04:00
+modified_time: 2026-05-22 13:52:27-04:00
 published_time: 2026-05-22 13:09:20-04:00
 source_url: https://www.whitehouse.gov/releases/2026/05/technology-prosperity-deal-between-the-united-states-and-sweden/
 tags: releases
-title: Technology Prosperity Deal Between the United States and Sweden
+title: Memorandum of Understanding Between The Government of the United States of
+  America and the Government of Sweden Regarding the Technology Prosperity Deal
 ---
  
 The Government of the United States of America and the Government of
@@ -42,13 +43,13 @@ quantum ecosystem, and strengthen security in research and industry.
 The Participants aim to collaborate in a number of disciplines,
 including but not limited to the following:
 
-**<span style="text-decoration: underline">Accelerating the Development
-and Diffusion of Trusted AI and Advanced Connectivity</span>**
+**Accelerating the Development and Diffusion of Trusted AI and Advanced
+Connectivity**
 
 *Recognizing the importance of secure and trusted technology
 infrastructure to economic prosperity and national security, the
-Participants will deepen cooperation to advance next generation AI and
-network technologies. The Participants intend to collaborate on R&D,
+Participants intend to deepen cooperation to advance next generation AI
+and network technologies. The Participants intend to collaborate on R&D,
 promote the development and diffusion of trusted technology stacks
 including AI and network technology, and coordinate on international
 telecommunications standards development.*
@@ -74,7 +75,7 @@ telecommunications standards development.*
   resolutions and align positions in advance of the 2027 World
   Radiocommunication Conference and 2026 ITU Plenipotentiary;
 - Cooperating to strengthen connectivity between North America, Northern
-  Europe, and the Indo-Pacific region by supporting the establishment of
+  Europe and the Indo-Pacific region by supporting the establishment of
   subsea communication cables across the Arctic;
 
 <!-- -->
@@ -88,8 +89,7 @@ telecommunications standards development.*
   while advancing strategic use cases in critical infrastructure,
   defense, and mission critical applications, and applied AI.
 
-**<span style="text-decoration: underline">Accelerating Biomedical
-Research and Innovation</span>**
+**Accelerating Biomedical Research and Innovation**
 
 *Recognizing the importance of advancing biomedical research, including
 cancer and rare diseases, through artificial intelligence, and securing
@@ -111,8 +111,7 @@ resilience across the health ecosystem.*
   including through identifying chokepoints and reducing reliance on
   adversary-linked supply chains.
 
-**<span style="text-decoration: underline">Advancing Manufacturing and
-Industrial Competitiveness </span>**
+**Advancing Manufacturing and Industrial Competitiveness**
 
 *Recognizing the importance of advanced manufacturing as a driver of
 economic competitiveness, resilience, and innovation, the Participants
@@ -135,14 +134,13 @@ industrial automation, precision engineering, and robotics.*
   technologies for vehicles, rare-earth free materials, high efficiency
   motors, and advanced batteries.
 
-**<span style="text-decoration: underline">Unlocking Energy Innovation
-and Resilience</span>**
+**Unlocking Energy Innovation and Resilience**
 
 *The Participants aim to strengthen cooperation to advance secure,
-resilient, and diversified energy systems. Together the Participants
-intend to expand energy collaboration including on nuclear energy and
-critical minerals technologies to support innovation and the reliable
-deployment of next generation energy infrastructure.*
+resilient, and diversified energy systems. Together we intend to expand
+energy collaboration including on nuclear energy and critical minerals
+technologies to support innovation and the reliable deployment of next
+generation energy infrastructure.*
 
 *Focus areas for collaboration are intended to include:*
 
@@ -160,15 +158,14 @@ deployment of next generation energy infrastructure.*
   recovery of critical minerals and advanced materials essential to
   energy systems.
 
-**<span style="text-decoration: underline">Strengthening Space
-Collaboration</span>**
+**Strengthening Space Collaboration**
 
 *Recognizing that bilateral cooperation on space benefits both
 countries’ national interests, the Participants intend to deepen
 cooperation and engage in dialogue on space security, space exploration,
 and space technology research, development, and commercialization.*
 
-*Focus areas for collaboration intend to include:*
+*Focus areas for collaboration are intended to include:*
 
 - Continuing the strong partnership on space science and human
   exploration, including potential collaboration on future Artemis lunar
@@ -183,8 +180,7 @@ and space technology research, development, and commercialization.*
 - Leveraging our geostrategic locations as space nations to promote
   Arctic security and prosperity.
 
-**<span style="text-decoration: underline">Advancing Defense Innovation
-</span>**
+**Advancing Defense Innovation** ****
 
 *Recognizing the importance of enhancing efforts to research, develop,
 and commercialize new and emerging technologies for defense
@@ -195,8 +191,7 @@ regulatory friction where possible, to support economic and security
 interests of both parties and to strengthen transatlantic defense
 industrial collaboration.*
 
-**<span style="text-decoration: underline">Advancing a Secure Quantum
-Ecosystem</span>**
+**Advancing a Secure Quantum Ecosystem**
 
 *Recognizing the transformative role of quantum technology for future
 industrial development and shared security, the Participants intend to
@@ -206,8 +201,7 @@ explore additional opportunities to enhance research, development, and
 commercialization of quantum technology potentially including quantum
 sensing in the medical and health domain.*
 
-**<span style="text-decoration: underline">Strengthening Security in
-Research and Industry</span>**
+**Strengthening Security in Research and Industry**
 
 *Recognizing the importance of enhanced research integrity and security
 across critical and emerging technology research and development, the
@@ -244,16 +238,16 @@ accordance with relevant national legislations.*
 This MOU becomes operative on the date of the last signature. The
 Participants may modify this MOU by written mutual decision.
 
-Either Participant may discontinue this MOU by providing written notice
-of discontinuation to the other Participant. The discontinuation is
-expected to commence on a date 180 days after the date on which notice
-of discontinuation is delivered. 
+Either Participant may discontinue this MOU at any time by providing
+written notice of discontinuation to the other Participant. The
+discontinuation is expected to commence on a date 180 days after the
+date on which notice of discontinuation is delivered. 
 
-The Participants will advance the implementation of the MOU through the
-Joint Committee Meeting mechanism. The modalities of the Joint
+The Participants intend to advance the implementation of the MOU through
+the Joint Committee Meeting mechanism. The modalities of the Joint
 Committee, including its composition, meeting frequency, and working
-procedures, will be established by mutual agreement of the Participants
-following the entry into force of this MOU.
+procedures, are expected to be established by mutual decision of the
+Participants following this MOU becoming operative.
 
 This MOU does not constitute or create and is not intended to constitute
 or create any legally binding obligations. Nothing in this MOU is
@@ -266,10 +260,10 @@ promoting collaboration without prejudice to respective regulatory
 processes. Nothing in this MOU commits the Participants to the
 expenditure of funds*.*
 
-Activities involving personal data shall be conducted in compliance with
-applicable data protection frameworks. This MOU does not authorize any
-transfer of classified, controlled, or proprietary information. Any
-intellectual property matters shall be addressed in separate
+Activities involving personal data are to be conducted in compliance
+with applicable data protection frameworks. This MOU does not authorize
+any transfer of classified, controlled, or proprietary information. Any
+intellectual property matters are expected to be addressed in separate
 implementing arrangements or project‑specific agreements, as
 appropriate.
 
