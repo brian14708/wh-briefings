@@ -1,6 +1,6 @@
 ---
 date: '2026-05-27'
-modified_time: 2026-05-27 14:06:34-04:00
+modified_time: 2026-05-29 10:45:41-04:00
 published_time: 2026-05-27 14:01:52-04:00
 source_url: https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/
 tags: releases
