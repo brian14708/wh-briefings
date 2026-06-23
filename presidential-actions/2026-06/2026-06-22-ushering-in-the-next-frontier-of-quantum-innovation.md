@@ -1,14 +1,12 @@
 ---
 date: '2026-06-22'
-modified_time: 2026-06-22 16:38:19-04:00
+modified_time: 2026-06-23 09:06:22-04:00
 published_time: 2026-06-22 16:38:18-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/
 tags: presidential-actions
 title: Ushering in the Next Frontier of Quantum Innovation
 ---
  
-Executive Order 14411
-
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 

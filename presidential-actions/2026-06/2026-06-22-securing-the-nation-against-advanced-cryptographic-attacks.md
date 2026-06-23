@@ -1,14 +1,12 @@
 ---
 date: '2026-06-22'
-modified_time: 2026-06-22 16:38:21-04:00
+modified_time: 2026-06-23 09:05:19-04:00
 published_time: 2026-06-22 16:37:30-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/
 tags: presidential-actions
 title: Securing the Nation Against Advanced Cryptographic Attacks
 ---
  
-Executive Order 14409
-
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
