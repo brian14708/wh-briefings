@@ -1,12 +1,14 @@
 ---
 date: '2026-06-22'
-modified_time: 2026-06-23 09:05:19-04:00
+modified_time: 2026-06-25 17:20:36-04:00
 published_time: 2026-06-22 16:37:30-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/
 tags: presidential-actions
 title: Securing the Nation Against Advanced Cryptographic Attacks
 ---
  
+Executive Order 14412
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -221,3 +223,10 @@ Department of Commerce.
 THE WHITE HOUSE,
 
     June 22, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14412.pdf"
+id="wp-block-file--media-0bccd4ec-5804-4329-86a2-de5fade6ed90">eo-14412</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14412.pdf"
+aria-describedby="wp-block-file--media-0bccd4ec-5804-4329-86a2-de5fade6ed90"
+download="">Download</a>

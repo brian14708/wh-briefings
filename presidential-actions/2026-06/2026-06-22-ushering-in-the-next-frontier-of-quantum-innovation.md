@@ -1,12 +1,14 @@
 ---
 date: '2026-06-22'
-modified_time: 2026-06-23 09:06:22-04:00
+modified_time: 2026-06-25 17:20:34-04:00
 published_time: 2026-06-22 16:38:18-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/
 tags: presidential-actions
 title: Ushering in the Next Frontier of Quantum Innovation
 ---
  
+Executive Order 14413
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -355,3 +357,10 @@ Department of Energy.
 THE WHITE HOUSE,
 
     June 22, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14413.pdf"
+id="wp-block-file--media-a521fd97-b5d5-4b8c-bfaf-82e60766e32b">eo-14413</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14413.pdf"
+aria-describedby="wp-block-file--media-a521fd97-b5d5-4b8c-bfaf-82e60766e32b"
+download="">Download</a>
