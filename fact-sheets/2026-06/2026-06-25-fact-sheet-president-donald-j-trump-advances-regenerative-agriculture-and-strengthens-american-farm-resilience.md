@@ -1,5 +1,6 @@
 ---
 date: '2026-06-25'
+modified_time: 2026-06-26 12:23:44-04:00
 published_time: 2026-06-25 19:00:00-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/
 tags: fact-sheets
@@ -9,8 +10,8 @@ title: 'Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture 
  
 **ACCELERATING INNOVATION IN AMERICA’S FOOD SUPPLY: **Today, President
 Donald J. Trump signed an Executive Order to accelerate American
-agriculture modernization, empowering farmers and ranchers and
-bolstering the strength and security of our food supply.
+agriculture innovation, empowering farmers and ranchers and bolstering
+the strength and security of our food supply.
 
 - The Order directs the Secretary of Agriculture to expand the reach of
   the Department of Agriculture’s Regenerative Agriculture Pilot
@@ -68,4 +69,4 @@ prevention, well-being, and resilience.
 - Earlier this year, the Department of Health and Human Services, the
   Department of Agriculture, and the Environmental Protection Agency
   made a historic investment of over $1 billion to accelerate farm
-  modernization and long-term food supply security.
+  innovation and long-term food supply security.
