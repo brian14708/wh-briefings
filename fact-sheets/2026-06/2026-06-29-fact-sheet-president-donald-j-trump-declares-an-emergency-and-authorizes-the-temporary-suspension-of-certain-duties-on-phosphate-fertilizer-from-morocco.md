@@ -1,6 +1,6 @@
 ---
 date: '2026-06-29'
-modified_time: 2026-06-29 19:26:59-04:00
+modified_time: 2026-06-30 10:39:22-04:00
 published_time: 2026-06-29 19:26:58-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/
 tags: fact-sheets
@@ -20,7 +20,7 @@ ensure an adequate supply of phosphate fertilizer for American Farmers.
 - The proclamation addresses the emergency by authorizing the temporary
   suspension of certain anti-dumping and countervailing duties in
   connection with importation of phosphate fertilizer from the Kingdom
-  of Morrocco for eight months or until the emergency is terminated,
+  of Morocco for eight months or until the emergency is terminated,
   whichever occurs first.  
 
 **SECURING FERTILIZER ACCESS FOR U.S. FARMERS: **President Trump
