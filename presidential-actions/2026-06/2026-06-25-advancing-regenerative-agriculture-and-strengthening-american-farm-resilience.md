@@ -1,11 +1,14 @@
 ---
 date: '2026-06-25'
+modified_time: 2026-06-30 17:22:31-04:00
 published_time: 2026-06-25 19:00:19-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/
 tags: presidential-actions
 title: Advancing Regenerative Agriculture and Strengthening American Farm Resilience
 ---
  
+Executive Order 14414
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -121,3 +124,10 @@ Department of Health and Human Services.
 THE WHITE HOUSE,
 
 June 25, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14414.pdf"
+id="wp-block-file--media-5167008a-5fd7-4805-928b-fd220f86063d">eo-14414</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14414.pdf"
+aria-describedby="wp-block-file--media-5167008a-5fd7-4805-928b-fd220f86063d"
+download="">Download</a>
