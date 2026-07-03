@@ -1,5 +1,6 @@
 ---
 date: '2026-07-03'
+modified_time: 2026-07-03 17:45:49-04:00
 published_time: 2026-07-03 13:18:56-04:00
 source_url: https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/
 tags: releases
