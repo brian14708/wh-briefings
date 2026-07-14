@@ -1,5 +1,6 @@
 ---
 date: '2026-07-14'
+modified_time: 2026-07-14 17:22:12-04:00
 published_time: 2026-07-14 15:12:59-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/
 tags: presidential-actions
@@ -33,7 +34,7 @@ David M. Jones, of Virginia, to be a Judge of the United States Court of
 Appeals for Veterans Claims for the term of fifteen years.
 
 Jason Manion, of Ohio, to be a Member of the United States Sentencing
-Commission for a term expiring October 31, 202.
+Commission for a term expiring October 31, 2029.
 
 Daniel F. Rendleman, of Illinois, to be a Judge of the United States
 Court of Appeals for Veterans Claims for the term of fifteen years.
