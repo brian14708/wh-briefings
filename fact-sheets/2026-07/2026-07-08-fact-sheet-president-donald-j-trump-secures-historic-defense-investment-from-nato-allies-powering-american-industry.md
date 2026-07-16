@@ -1,6 +1,6 @@
 ---
 date: '2026-07-08'
-modified_time: 2026-07-09 15:31:20-04:00
+modified_time: 2026-07-16 08:55:34-04:00
 published_time: 2026-07-08 20:20:35-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/
 tags: fact-sheets
@@ -17,7 +17,7 @@ jobs. 
 - $3 billion in major deals and joint ventures were announced at the
   Summit that will expand the Arsenal of Freedom: 
   - Lockheed Martin will work to establish a Patriot Advanced
-    Capability-3 (PAC-3) Missile Sustainment Facility in Europe.
+    Capability-3 (PAC-3) Missile Maintenance Facility in Europe.
   - Northrop Grumman will sign Letters of Interest with 10 Nations to
     purchase MQ-4C Tritons, expanding NATO’s Allied Ground Surveillance
     program into the maritime domain.            
