@@ -1,6 +1,6 @@
 ---
 date: '2026-07-20'
-modified_time: 2026-07-20 15:40:19-04:00
+modified_time: 2026-07-23 17:36:44-04:00
 published_time: 2026-07-20 15:38:18-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/
 tags: presidential-actions
@@ -8,6 +8,8 @@ title: "Securing America\u2019s Defense Supply Chains and Ensuring Domestic Acqu
   \ of Critical Materials"
 ---
  
+Executive Order 14415
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -340,3 +342,10 @@ Department of War.
 THE WHITE HOUSE,
 
     July 20, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/07/eo-14415.pdf"
+id="wp-block-file--media-bd1fa3cf-1e73-44e5-979f-b2589e23a11a">eo-14415</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/07/eo-14415.pdf"
+aria-describedby="wp-block-file--media-bd1fa3cf-1e73-44e5-979f-b2589e23a11a"
+download="">Download</a>
