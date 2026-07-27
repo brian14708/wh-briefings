@@ -1,6 +1,6 @@
 ---
 date: '2026-07-20'
-modified_time: 2026-07-20 15:38:31-04:00
+modified_time: 2026-07-27 12:22:27-04:00
 published_time: 2026-07-20 15:38:30-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/
 tags: fact-sheets
@@ -56,16 +56,16 @@ securing reliable supplies of critical materials and supply chains.
 - In March 2025, President Trump signed an Executive Order to boost
   American mineral production, streamline permitting, and enhance
   national security.
-- In April 2025, President Donald J. Trump signed an Executive Order to
-  modernize defense acquisitions and spur innovation in the defense
-  industrial base.
+- In April 2025, President Trump signed an Executive Order to modernize
+  defense acquisitions and spur innovation in the defense industrial
+  base.
 - In January 2026, President Trump signed an Executive Order directing
   the Secretary of Commerce and U.S. Trade Representative to jointly
   negotiate agreements with trading partners to address the threatened
   impairment of national security with respect to imports of processed
   critical minerals and their derivative products (PCMDPs) from any
   country.
-- In February 2026, President Donald J. Trump signed an Executive Order
+- In February 2026, President Trump signed an Executive Order
   establishing the America First Arms Transfer Strategy to ensure that
   the American industrial base remains the Arsenal of Freedom for the
   United States and all of our partners and allies.
