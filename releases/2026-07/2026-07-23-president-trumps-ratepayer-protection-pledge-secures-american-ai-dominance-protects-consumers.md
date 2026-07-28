@@ -1,5 +1,6 @@
 ---
 date: '2026-07-23'
+modified_time: 2026-07-28 13:50:41-04:00
 published_time: 2026-07-23 18:12:29-04:00
 source_url: https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/
 tags: releases
@@ -45,7 +46,7 @@ Americans when a data center is built nearby.
   [generating](https://www.entergy.com/wp-content/uploads/AWS_WinMississippi_001.pdf)
   roughly $2 billion in total customer benefits, including full coverage
   of new transmission and related costs.
-- In **Wisconsin**, Alliant Energy’s partnerships with data center
+- In **Iowa**, Alliant Energy’s partnerships with data center
   developers, including QTS, ensures the companies
   [cover](https://q.com/commitments/#:~:text=QTS%20funds%20100,data%20centers%20use.)
   100% of the energy and infrastructure costs needed to operate their
