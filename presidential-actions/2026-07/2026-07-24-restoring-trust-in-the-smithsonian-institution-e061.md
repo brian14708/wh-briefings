@@ -1,11 +1,14 @@
 ---
 date: '2026-07-24'
+modified_time: 2026-07-29 17:38:33-04:00
 published_time: 2026-07-24 16:19:11-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/
 tags: presidential-actions
 title: Restoring Trust in the Smithsonian Institution
 ---
  
+Executive Order 14416
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -95,3 +98,10 @@ Department of the Interior.
 THE WHITE HOUSE,
 
     July 24, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/07/eo-14416.pdf"
+id="wp-block-file--media-8e7c2679-07b9-49ba-a75f-460693e2bd22">eo-14416</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/07/eo-14416.pdf"
+aria-describedby="wp-block-file--media-8e7c2679-07b9-49ba-a75f-460693e2bd22"
+download="">Download</a>
