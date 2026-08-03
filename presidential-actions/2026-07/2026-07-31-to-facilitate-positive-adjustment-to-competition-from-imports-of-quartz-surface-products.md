@@ -1,5 +1,6 @@
 ---
 date: '2026-07-31'
+modified_time: 2026-08-03 09:51:48-04:00
 published_time: 2026-07-31 17:00:00-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/
 tags: presidential-actions
@@ -421,6 +422,6 @@ July, in the year of our Lord two thousand twenty-six, and of the
 Independence of the United States of America the two hundred and
 fifty-first.
 
-[ANNEX](https://www.whitehouse.gov/wp-content/uploads/2026/07/ANNEX_c1f5c4.pdf)
+[ANNEX](https://www.whitehouse.gov/wp-content/uploads/2026/08/ANNEX.pdf)
 
                               DONALD J. TRUMP
