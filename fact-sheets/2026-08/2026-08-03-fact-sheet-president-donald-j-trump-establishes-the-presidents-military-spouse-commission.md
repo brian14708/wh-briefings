@@ -1,5 +1,6 @@
 ---
 date: '2026-08-03'
+modified_time: 2026-08-04 12:17:44-04:00
 published_time: 2026-08-03 14:55:57-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/
 tags: fact-sheets
@@ -8,7 +9,8 @@ title: "Fact Sheet: President Donald J. Trump Establishes the President\u2019s M
 ---
  
 **STRENGTHENING MILITARY READINESS: **Today, President Donald J. Trump
-signed an Executive Order establishing the Military Spouse Commission to
+signed an Executive Order establishing the [Military Spouse
+Commission](https://www.whitehouse.gov/military-spouse-commission/) to
 strengthen military readiness by improving the quality of life for
 military spouses and families.  
 
@@ -41,9 +43,10 @@ of our military.  
   military life create significant challenges for military spouses,
   including barriers to housing, employment, healthcare, education and
   child care, and deployment-related support.  
-- By addressing these challenges, the Commission will help strengthen
-  military families, improve retention, and ensure America’s armed
-  forces remain ready to meet any challenge. 
+- By addressing these challenges, the
+  [Commission](https://www.whitehouse.gov/military-spouse-commission/)
+  will help strengthen military families, improve retention, and ensure
+  America’s armed forces remain ready to meet any challenge. 
 
 **DELIVERING FOR MILITARY FAMILIES: **President Trump has rebuilt
 America’s military and ensured that families who support our service
