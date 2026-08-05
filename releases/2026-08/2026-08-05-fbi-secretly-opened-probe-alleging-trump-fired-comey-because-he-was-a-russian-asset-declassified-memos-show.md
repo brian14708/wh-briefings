@@ -1,10 +1,10 @@
 ---
 date: '2026-08-05'
-modified_time: 2026-08-05 13:58:38-04:00
+modified_time: 2026-08-05 14:48:31-04:00
 published_time: 2026-08-05 06:51:05-04:00
 source_url: https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/
 tags: releases
-title: FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian
+title: FBI Secretly Opened Probe Alleging Trump Fired Comey Because He Was a Russian
   Asset, Declassified Memos Show
 ---
  
