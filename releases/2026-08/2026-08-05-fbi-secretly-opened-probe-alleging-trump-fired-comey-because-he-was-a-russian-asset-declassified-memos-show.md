@@ -1,10 +1,11 @@
 ---
 date: '2026-08-05'
+modified_time: 2026-08-05 07:08:12-04:00
 published_time: 2026-08-05 06:51:05-04:00
 source_url: https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/
 tags: releases
-title: FBI secretly opened probe alleging Trump fired Comey because he was a Russian
-  asset, declassified memos show
+title: FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian
+  Asset, Declassified Memos Show
 ---
  
 **By John Solomon**
@@ -39,8 +40,8 @@ and/or conspiracy to obstruct any associated FBI investigation.”
 
 File
 
-[OXFERD COMMA – Opening EC – redacted and declassified by FBI 7.30.26
-(2).pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
+[OXFERD COMMA – Opening EC – redacted and declassified by FBI
+7.30.26.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
 
 The memo, written by the FBI’s counterintelligence division and approved
 by then-FBI General Counsel James Baker and then-Assistant Director for
@@ -97,8 +98,7 @@ closing memo noted.
 File
 
 [OXFERD COMMA – Closing communication – redacted and declassified by FBI
-7.30.26
-(1).pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
+7.30.26.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
 
 The memos are being released as federal prosecutors in Fort Pierce,
 Fla., reportedly investigate whether the FBI, DOJ and intelligence
@@ -265,5 +265,5 @@ another character and interpret it as evidence of collusion.”
 
 *Editor’s Note: John Solomon is on leave as Editor in Chief of Just the
 News while working as the chairman of the White House Government
-Transparency Task Force. He wrote this story for the White House Web
-site, which is allowing any media to publish it.*
+Transparency Task Force. He wrote this story for the White House
+Website, which is allowing any media to publish it.*
