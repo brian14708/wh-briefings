@@ -1,6 +1,6 @@
 ---
 date: '2026-08-05'
-modified_time: 2026-08-05 07:08:12-04:00
+modified_time: 2026-08-05 13:58:38-04:00
 published_time: 2026-08-05 06:51:05-04:00
 source_url: https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/
 tags: releases
@@ -38,10 +38,8 @@ statutes,” it added. “In addition, this investigation will also seek to
 determine whether President Trump and others yet to be named obstructed
 and/or conspiracy to obstruct any associated FBI investigation.”
 
-File
-
-[OXFERD COMMA – Opening EC – redacted and declassified by FBI
-7.30.26.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
+[OXFERD COMMA – Opening
+EC](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
 
 The memo, written by the FBI’s counterintelligence division and approved
 by then-FBI General Counsel James Baker and then-Assistant Director for
@@ -57,10 +55,8 @@ Both the Acting FBI Director Andrew McCabe and Deputy Attorney General
 Rod Rosenstein were advised that the probe had been launched, the memos
 show.
 
-File
-
-[OXFERD COMMA – FBI Informs DOJ – redacted and declassified by FBI
-7.30.26.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
+[OXFERD COMMA – FBI Informs
+DOJ](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
 
 The FBI marked the investigation as a “sensitive investigative matter”
 and declared it was “the least intrusive method to address the serious
@@ -73,19 +69,16 @@ though Mueller’s team, like the FBI before it, was unable to
 substantiate any collusion between Russia and Trump’s campaign during
 the 2016 election.
 
-File
-
-[MuellerReportFinal.pdf](https://justthenews.com/sites/default/files/2020-03/MuellerReportFinal.pdf)
+[Mueller
+Report](https://www.justice.gov/archives/sco/file/1373816/dl?inline=)
 
 A subsequent investigation by Special Counsel John Durham – released by
 the Biden Justice Department in 2023 – concluded there was no basis for
 the FBI to even open the original Crossfire Hurricane investigation into
 alleged Trump-Russia collusion.
 
-File
-
-[durhamreport
-(1).pdf](https://justthenews.com/sites/default/files/2024-02/durhamreport%20%281%29.pdf)
+[Durham
+Report](https://www.justice.gov/archives/sco-durham/media/1381211/dl)
 
 The newly declassified Oxferd Comma memos show the case was closed on
 April 9, 2019, a few weeks after Mueller’s probe was sunset with a final
@@ -95,10 +88,8 @@ report and no charges against Trump.
 report explaining his prosecution and declination decisions,” the
 closing memo noted.
 
-File
-
-[OXFERD COMMA – Closing communication – redacted and declassified by FBI
-7.30.26.pdf](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
+[OXFERD COMMA – Closing
+Communication](https://www.whitehouse.gov/wp-content/uploads/2026/08/Oxferd-Comma-Documents.zip)
 
 The memos are being released as federal prosecutors in Fort Pierce,
 Fla., reportedly investigate whether the FBI, DOJ and intelligence
@@ -117,9 +108,8 @@ and the department’s independent inspector general would later conclude
 that Comey “violated long-standing department practice and protocol”
 with his conduct in the Clinton case.
 
-File
-
-[DOJOIGReportComeyClintonCase.pdf](https://justthenews.com/sites/default/files/2026-08/DOJOIGReportComeyClintonCase.pdf)
+[DOJ OIG Clinton
+Case](https://oig.justice.gov/sites/default/files/reports/18-04.pdf)
 
 The new FBI memos, identified and declassified by the White House
 Government Transparency Task Force, reveal for the first time that the
@@ -140,10 +130,8 @@ not believe the allegations were substantiated.
 there there,” then-Deputy Assistant Director Pete Strzok wrote FBI
 special counsel Lisa Page on May 19, 2017.
 
-File
-
-[Strzok Page text messages 5-19-17 – No Big
-There.pdf](https://justthenews.com/sites/default/files/2026-08/Strzok%20Page%20text%20messages%205-19-17%20-%20No%20Big%20There.pdf)
+[Strzok Text
+Messages](https://www.whitehouse.gov/wp-content/uploads/2026/08/Strzok-Text-Messages.pdf)
 
 Strzok’s text sentiments were confirmed by another key colleague working
 the case, Special Agent William Barnett, who would later tell the
@@ -157,9 +145,8 @@ Kremlin, according to an FBI interview report of Barnett released in
 Campaign and the Russian Government,” the summary of the agent’s
 interview revealed.
 
-File
-
-[FBIAgentBarnettInterviewNoCollusion.pdf](https://justthenews.com/sites/default/files/2026-08/FBIAgentBarnettInterviewNoCollusion.pdf)
+[FBI Barnett
+Interview](https://www.whitehouse.gov/wp-content/uploads/2026/08/FBI-Barnett-Interview.pdf)
 
 By the time the FBI tried to portray Trump as under Putin’s grip to
 justify the opening of the Oxferd Comma investigation, it had also
@@ -184,10 +171,8 @@ from one of her foreign policy advisers to vilify Donald Trump by
 stirring up a scandal claiming interference by the Russian security
 service.”
 
-File
-
-[Brennan Notes-CIA Brief to
-Obama.pdf](https://justthenews.com/sites/default/files/2026-08/Brennan%20Notes-CIA%20Brief%20to%20Obama.pdf)
+[Brennan
+Notes](https://www.whitehouse.gov/wp-content/uploads/2026/08/Brennan-Notes.pdf)
 
 The intelligence made clear Clinton’s plan was to “smear” Trump, and it
 was shared directly with the FBI, including Comey at an Aug. 3, 2016
@@ -201,9 +186,8 @@ Director Comey, and other U.S. officials regarding Russian interference
 efforts as well as the T1 intelligence received concerning
 the referenced plan by the Clinton campaign,” the annex noted.
 
-File
-
-[declassified\_durham\_annex\_released\_by\_chairman\_grassley.pdf](https://justthenews.com/sites/default/files/2026-08/declassified_durham_annex_released_by_chairman_grassley.pdf)
+[Durham Annex Released by Chairman
+Grassley](https://www.grassley.senate.gov/imo/media/doc/declassified_durham_annex_released_by_chairman_grassley.pdf)
 
 By early 2017, well before the launch of the Oxferd Comma probe, the FBI
 had evaluated every statement in the Steele dossier, concluding that
@@ -211,10 +195,8 @@ some were provably false and most others were either internet rumor or
 unable to be corroborated, according to a spreadsheet that FBI analysts
 created.
 
-File
-
 [Steele
-Spreadsheet-1.pdf](https://justthenews.com/sites/default/files/2026-08/Steele%20Spreadsheet-1.pdf)
+Spreadsheet](https://www.whitehouse.gov/wp-content/uploads/2026/08/Steele-Spreadsheet.pdf)
 
 Some of the subsources and sources in the dossier [distanced themselves
 from what Steele
@@ -222,18 +204,15 @@ claimed ](https://www.wsj.com/politics/policy/the-surprising-backstory-of-how-t
 said. In fact, the FBI knew that Steele’s primary subsource, Igor
 Danchecnko, was suspected for years of being a Russian asset.
 
-File
-
-[AG Letter to Chairman Graham
-9.24.2020.pdf](https://justthenews.com/sites/default/files/2026-08/AG%20Letter%20to%20Chairman%20Graham%209.24.2020.pdf)
+[AG Letter to Chairman
+Graham](https://www.judiciary.senate.gov/imo/media/doc/AG%20Letter%20to%20Chairman%20Graham%209.24.2020.pdf)
 
 In an interview with the FBI in February 2017, Danchecnko claimed some
 of the information attributed to him in the Steele dossier was simply
 hearsay, according to FBI interview memos released back in 2020.
 
-File
-
-[170209-danchenko-interviews.pdf](https://justthenews.com/sites/default/files/2026-08/170209-danchenko-interviews.pdf)
+[Danchenko
+Interviews](https://www.judiciary.senate.gov/imo/media/doc/February%209,%202017%20Electronic%20Communication.pdf)
 
 By early January 2017, the FBI also cleared another of the targets of
 the Russia collusion probe, then-National Security Adviser Mike Flynn.
@@ -248,9 +227,8 @@ including Priestap, the FBI’s counterintelligence chief.
 “What’s our goal? Truth/Admission or to get him to lie, so we can
 prosecute him or get him fired?” Priestap wrote at the time.
 
-File
-
-[FlynnFBINotes.pdf](https://justthenews.com/sites/default/files/2020-04/FlynnFBINotes.pdf)
+[Flynn
+Notes](https://www.whitehouse.gov/wp-content/uploads/2026/08/Flynn-Notes.pdf)
 
 In his interview with the FBI years later, Agent Barnett described the
 FBI’s investigation into Russia collusion as a misguided effort to “get
