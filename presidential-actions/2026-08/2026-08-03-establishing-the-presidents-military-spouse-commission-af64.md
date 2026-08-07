@@ -1,11 +1,14 @@
 ---
 date: '2026-08-03'
+modified_time: 2026-08-06 17:43:34-04:00
 published_time: 2026-08-03 15:13:55-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/
 tags: presidential-actions
 title: "Establishing the President\u2019s Military Spouse Commission"
 ---
  
+Executive Order 14417
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -186,3 +189,10 @@ Department of War.
 THE WHITE HOUSE,
 
     August 3, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14417.pdf"
+id="wp-block-file--media-19527803-d6ec-461a-9f6f-02389759ca61">eo-14417</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14417.pdf"
+aria-describedby="wp-block-file--media-19527803-d6ec-461a-9f6f-02389759ca61"
+download="">Download</a>
