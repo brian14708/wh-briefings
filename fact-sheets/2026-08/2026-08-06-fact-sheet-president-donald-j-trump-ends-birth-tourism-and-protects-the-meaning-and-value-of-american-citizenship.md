@@ -1,5 +1,6 @@
 ---
 date: '2026-08-06'
+modified_time: 2026-08-07 11:24:47-04:00
 published_time: 2026-08-06 17:11:38-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/
 tags: fact-sheets
@@ -53,7 +54,7 @@ system, prioritize American citizens, and protect U.S. citizenship.
     the country.
 - The Trump Administration launched an unprecedented denaturalization
   surge targeting those who fraudulently obtained U.S. citizenship.
-  - To date, the Trump Administration has filed claims again 88
+  - To date, the Trump Administration has filed claims against 88
     individuals who received U.S. citizenship but were ineligible.
 - The Trump Administration has deported over 3 million illegal aliens,
   including thousands convicted for violent crimes. 
