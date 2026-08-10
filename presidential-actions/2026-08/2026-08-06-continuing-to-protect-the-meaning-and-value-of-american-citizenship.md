@@ -1,5 +1,6 @@
 ---
 date: '2026-08-06'
+modified_time: 2026-08-10 16:53:25-04:00
 published_time: 2026-08-06 17:08:24-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/
 tags: presidential-actions

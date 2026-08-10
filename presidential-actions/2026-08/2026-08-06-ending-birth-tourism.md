@@ -1,5 +1,6 @@
 ---
 date: '2026-08-06'
+modified_time: 2026-08-10 16:53:53-04:00
 published_time: 2026-08-06 17:07:11-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/
 tags: presidential-actions
