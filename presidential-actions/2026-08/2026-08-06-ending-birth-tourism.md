@@ -1,12 +1,14 @@
 ---
 date: '2026-08-06'
-modified_time: 2026-08-10 16:53:53-04:00
+modified_time: 2026-08-11 17:46:35-04:00
 published_time: 2026-08-06 17:07:11-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/
 tags: presidential-actions
 title: Ending Birth Tourism
 ---
  
+Executive Order 14419
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -155,3 +157,10 @@ other persons or circumstances shall not be affected thereby.
 Department of Homeland Security.
 
                              DONALD J. TRUMP
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14419.pdf"
+id="wp-block-file--media-9b5a3d98-b556-4e7c-8574-6d26f9dcb876">eo-14419</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14419.pdf"
+aria-describedby="wp-block-file--media-9b5a3d98-b556-4e7c-8574-6d26f9dcb876"
+download="">Download</a>

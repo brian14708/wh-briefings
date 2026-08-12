@@ -1,12 +1,14 @@
 ---
 date: '2026-08-06'
-modified_time: 2026-08-10 16:53:25-04:00
+modified_time: 2026-08-11 17:46:37-04:00
 published_time: 2026-08-06 17:08:24-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/
 tags: presidential-actions
 title: Continuing to Protect the Meaning and Value of American Citizenship
 ---
  
+Executive Order 14418
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -124,3 +126,10 @@ Department of Justice.
 THE WHITE HOUSE,
 
     August 6, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14418.pdf"
+id="wp-block-file--media-3d788a79-1aa8-4ebe-9cd8-ceffce12a309">eo-14418</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14418.pdf"
+aria-describedby="wp-block-file--media-3d788a79-1aa8-4ebe-9cd8-ceffce12a309"
+download="">Download</a>
