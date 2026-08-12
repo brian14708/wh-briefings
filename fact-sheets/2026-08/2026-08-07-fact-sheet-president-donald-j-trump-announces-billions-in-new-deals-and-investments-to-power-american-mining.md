@@ -1,5 +1,6 @@
 ---
 date: '2026-08-07'
+modified_time: 2026-08-12 12:27:34-04:00
 published_time: 2026-08-07 15:44:19-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/
 tags: fact-sheets
@@ -13,7 +14,7 @@ billion in critical mining and mining-related projects to revitalize the
 industry and over $180 million in mining school investments to bolster
 the American mining workforce. 
 
-- The Department of War is investing over $85 million into Standard
+- The Department of War is investing over $85 million into Strategic
   Bauxite to secure the supply chain of refractory-grade bauxite to
   support manufacturing of high-temperature-resistant materials used to
   make critical components for our warfighters and essential to the
