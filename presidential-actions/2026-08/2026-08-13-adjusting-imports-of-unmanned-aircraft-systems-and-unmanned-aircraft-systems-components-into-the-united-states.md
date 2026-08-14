@@ -1,5 +1,6 @@
 ---
 date: '2026-08-13'
+modified_time: 2026-08-14 11:19:41-04:00
 published_time: 2026-08-13 17:21:57-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/
 tags: presidential-actions
@@ -430,6 +431,6 @@ II](https://www.whitehouse.gov/wp-content/uploads/2026/08/Annex-II-1.pdf)
 III](https://www.whitehouse.gov/wp-content/uploads/2026/08/Annex-III.pdf)
 
 [ANNEX
-IV](https://www.whitehouse.gov/wp-content/uploads/2026/08/Annex-IV.pdf)
+IV](https://www.whitehouse.gov/wp-content/uploads/2026/08/Annex-IV-1.pdf)
 
                              DONALD J. TRUMP
