@@ -1,12 +1,14 @@
 ---
 date: '2026-08-10'
-modified_time: 2026-08-10 16:52:35-04:00
+modified_time: 2026-08-14 17:47:36-04:00
 published_time: 2026-08-10 15:41:50-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/
 tags: presidential-actions
 title: Delivering Gold Standard Childhood Vaccine Recommendations for Americans
 ---
  
+Executive Order 14420
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -168,3 +170,10 @@ Department of Health and Human Services.
 THE WHITE HOUSE,
 
     August 10, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14420.pdf"
+id="wp-block-file--media-8a890436-7d95-4fe5-8c7a-600766cf8346">eo-14420</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14420.pdf"
+aria-describedby="wp-block-file--media-8a890436-7d95-4fe5-8c7a-600766cf8346"
+download="">Download</a>
