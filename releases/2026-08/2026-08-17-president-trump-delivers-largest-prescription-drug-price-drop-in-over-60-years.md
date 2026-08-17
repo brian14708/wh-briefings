@@ -1,6 +1,6 @@
 ---
 date: '2026-08-17'
-modified_time: 2026-08-17 11:25:11-04:00
+modified_time: 2026-08-17 16:49:59-04:00
 published_time: 2026-08-17 10:03:07-04:00
 source_url: https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/
 tags: releases
