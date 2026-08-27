@@ -1,5 +1,6 @@
 ---
 date: '2026-08-26'
+modified_time: 2026-08-27 08:32:19-04:00
 published_time: 2026-08-26 17:19:54-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/
 tags: fact-sheets
@@ -105,7 +106,7 @@ ranchers, and food supply. 
   power—meaning inflation rose faster than wages. Under President Trump,
   even after accounting for higher prices, real wages grew by $822 in
   2025, putting more money in the pockets of hard-working Americans,
-  with more savings on the way from further dergulation.  
+  with more savings on the way from further deregulation.  
 - From day one, President Trump began halting proposed Biden-era
   regulations, which have saved Americans over $211 billion, or $2,461
   per family of four.

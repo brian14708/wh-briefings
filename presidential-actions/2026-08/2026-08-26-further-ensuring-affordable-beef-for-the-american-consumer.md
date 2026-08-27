@@ -1,5 +1,6 @@
 ---
 date: '2026-08-26'
+modified_time: 2026-08-27 10:41:57-04:00
 published_time: 2026-08-26 17:18:42-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/
 tags: presidential-actions

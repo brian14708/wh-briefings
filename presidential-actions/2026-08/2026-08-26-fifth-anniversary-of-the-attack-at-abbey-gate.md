@@ -1,5 +1,6 @@
 ---
 date: '2026-08-26'
+modified_time: 2026-08-27 10:41:11-04:00
 published_time: 2026-08-26 15:29:53-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/
 tags: presidential-actions
