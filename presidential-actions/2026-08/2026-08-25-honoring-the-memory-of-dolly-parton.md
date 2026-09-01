@@ -1,5 +1,6 @@
 ---
 date: '2026-08-25'
+modified_time: 2026-08-31 21:37:28-04:00
 published_time: 2026-08-25 16:42:03-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/
 tags: presidential-actions
