@@ -1,5 +1,6 @@
 ---
 date: '2026-08-27'
+modified_time: 2026-09-02 17:58:41-04:00
 published_time: 2026-08-27 17:00:35-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/
 tags: presidential-actions
@@ -7,6 +8,8 @@ title: Honoring the American History of the Great Lakes and Renaming Lake Ontari
   as Lake America
 ---
  
+Executive Order 14422
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -108,3 +111,10 @@ DONALD J. TRUMP
 THE WHITE HOUSE,
 
 August 27, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14422.pdf"
+id="wp-block-file--media-b321b1ff-135e-4c49-8436-9191b489d9a9">eo-14422</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/08/eo-14422.pdf"
+aria-describedby="wp-block-file--media-b321b1ff-135e-4c49-8436-9191b489d9a9"
+download="">Download</a>
