@@ -1,5 +1,6 @@
 ---
 date: '2026-09-04'
+modified_time: 2026-09-07 15:52:29-04:00
 published_time: 2026-09-04 15:15:33-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/
 tags: fact-sheets
@@ -40,11 +41,11 @@ processing industry. 
 
 **  
 EXPANDING MARKET ACCESS FOR U.S. MEAT PRODUCTS: **To strengthen the
-national food supply chain and foster competition, the administration is
+national food supply chain and foster competition, the Administration is
 expanding domestic market access for U.S. ranchers while maintaining
 food safety protections.   
 
-- Record-low beef herd size from the Biden administration’s war on
+- Record-low beef herd size from the Biden Administration’s war on
   cattle that pursued radical climate activists’ misguided policies has
   strained America’s slaughter and processing infrastructure.
 - President Trump is committed to promoting fair competition in

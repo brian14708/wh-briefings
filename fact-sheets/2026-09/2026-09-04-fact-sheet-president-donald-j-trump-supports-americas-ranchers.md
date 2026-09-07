@@ -1,5 +1,6 @@
 ---
 date: '2026-09-04'
+modified_time: 2026-09-07 15:51:54-04:00
 published_time: 2026-09-04 15:15:35-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/
 tags: fact-sheets
@@ -47,7 +48,7 @@ disruptions and natural disasters. 
 - The President’s immediate action is necessary to protect America’s
   domestic producers, boost the U.S. supply of beef, and support this
   critical American industry.
-- The Biden administration put American agriculture last and delivered
+- The Biden Administration put American agriculture last and delivered
   one of its most severe beef supply crises in decades, with domestic
   cattle herds at their lowest level in 75 years. Years of pursuing
   radical climate activists’ misguided policies and driving up inflation
@@ -66,7 +67,7 @@ disruptions and natural disasters. 
 - Burdensome and invasive traceability requirements imposed by the
   previous Administration unduly hampered small and independent cattle
   ranchers.
-- From Day One, the Trump administration has worked around the clock to
+- From Day One, the Trump Administration has worked around the clock to
   help rebuild the American beef industry – for the first time since
   2018, the number of cattle in the U.S. is increasing and ranchers are
   retaining heifers at higher rates. 
@@ -110,7 +111,7 @@ future. 
 - The Department of the Interior and Department of Agriculture have
   expanded grazing access, ensured millions of acres of public land
   remain open for grazing, and cut permitting delays on public lands.
-- Since taking office, the Trump administration has worked tirelessly
+- Since taking office, the Trump Administration has worked tirelessly
   and successfully to defend the domestic herd from New World Screwworm.
   Only two active cases in the U.S. remain today, and the Department of
   Agriculture has expedited the completion of key U.S. sterile fly
