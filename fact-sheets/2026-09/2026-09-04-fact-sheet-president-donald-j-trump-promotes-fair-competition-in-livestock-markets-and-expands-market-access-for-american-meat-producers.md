@@ -1,6 +1,6 @@
 ---
 date: '2026-09-04'
-modified_time: 2026-09-07 15:52:29-04:00
+modified_time: 2026-09-08 14:58:01-04:00
 published_time: 2026-09-04 15:15:33-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/
 tags: fact-sheets

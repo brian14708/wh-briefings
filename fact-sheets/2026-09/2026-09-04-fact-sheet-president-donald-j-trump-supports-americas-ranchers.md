@@ -1,6 +1,6 @@
 ---
 date: '2026-09-04'
-modified_time: 2026-09-07 15:51:54-04:00
+modified_time: 2026-09-08 14:57:38-04:00
 published_time: 2026-09-04 15:15:35-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/
 tags: fact-sheets
