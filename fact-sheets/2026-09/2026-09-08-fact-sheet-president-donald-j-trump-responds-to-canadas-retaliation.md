@@ -1,6 +1,6 @@
 ---
 date: '2026-09-08'
-modified_time: 2026-09-08 21:39:55-04:00
+modified_time: 2026-09-09 06:49:38-04:00
 published_time: 2026-09-08 21:38:43-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/
 tags: fact-sheets
@@ -91,8 +91,9 @@ of the American people.
 - Additionally, the President
   has [directed](https://truthsocial.com/@realDonaldTrump/posts/117237309084360726) the
   U.S. Trade Representative and the Administrator of the General
-  Services Administration (GSA) to remove $50 billion dollars’ worth of
-  Canadian-origin products from GSA’s Multiple Award Schedules.
+  Services Administration (GSA) to remove Canadian-origin products from
+  GSA’s Multiple Award Schedules which manage over $50 billion in
+  federal procurement.
 - While President Trump continues to lock in fair and reciprocal trade
   deals with nearly twenty trading partners across the globe, Canada
   continues to retaliate against the United States for its efforts to
