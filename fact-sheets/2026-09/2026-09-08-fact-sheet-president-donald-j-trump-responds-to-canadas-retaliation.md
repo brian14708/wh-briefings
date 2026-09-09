@@ -1,6 +1,6 @@
 ---
 date: '2026-09-08'
-modified_time: 2026-09-09 06:49:38-04:00
+modified_time: 2026-09-09 07:51:11-04:00
 published_time: 2026-09-08 21:38:43-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/
 tags: fact-sheets
@@ -9,9 +9,10 @@ title: "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliat
  
 **COUNTERING CANADA’S LATEST RETALIATION AGAINST AMERICAN
 EXPORTS: **Today, to address Canada’s increased discrimination against
-U.S. commerce, President Trump signed five Proclamations pursuant to
-Section 338 of the Tariff Act of 1930 to ban certain products from
-Canada and modify the scope of the tariffs on certain Canadian products
+U.S. commerce, President Donald J. Trump signed five Proclamations
+pursuant to Section 338 of the Tariff Act of 1930 to ban certain
+products from Canada and modify the scope of the tariffs on certain
+Canadian products
 previously [announced](https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/) on
 July 20, 2026. President Trump is taking decisive and appropriate action
 to respond to Canada’s additional retaliation and continued

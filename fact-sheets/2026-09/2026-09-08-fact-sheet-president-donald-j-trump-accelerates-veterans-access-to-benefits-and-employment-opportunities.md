@@ -1,6 +1,6 @@
 ---
 date: '2026-09-08'
-modified_time: 2026-09-08 15:02:43-04:00
+modified_time: 2026-09-09 07:53:27-04:00
 published_time: 2026-09-08 15:02:42-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/
 tags: fact-sheets
@@ -18,9 +18,6 @@ expedite veterans’ access to benefits.  
   of all Official Military Personnel Files and Service Treatment Records
   from the moment an individual enters into military service through the
   duration the individual receives Veterans Affairs benefits.
-
-<!-- -->
-
 - The Order directs the Secretary of War and the Secretary of Veterans
   Affairs to create and deploy new digital tools, using secure
   artificial intelligence and other emerging capabilities consistent
