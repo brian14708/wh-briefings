@@ -1,12 +1,14 @@
 ---
 date: '2026-09-04'
-modified_time: 2026-09-04 15:28:19-04:00
+modified_time: 2026-09-10 18:01:44-04:00
 published_time: 2026-09-04 15:28:18-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/
 tags: presidential-actions
 title: "Supporting America\u2019s Ranchers"
 ---
  
+Executive Order 14425
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -145,3 +147,10 @@ Department of Agriculture.
 THE WHITE HOUSE,
 
     September 4, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14425.pdf"
+id="wp-block-file--media-133b3a6b-9b51-4469-af45-6071e0be7b4d">eo-14425</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14425.pdf"
+aria-describedby="wp-block-file--media-133b3a6b-9b51-4469-af45-6071e0be7b4d"
+download="">Download</a>

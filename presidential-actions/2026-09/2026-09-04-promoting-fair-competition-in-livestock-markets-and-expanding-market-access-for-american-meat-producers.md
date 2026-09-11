@@ -1,5 +1,6 @@
 ---
 date: '2026-09-04'
+modified_time: 2026-09-10 18:01:45-04:00
 published_time: 2026-09-04 15:23:49-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/
 tags: presidential-actions
@@ -7,6 +8,8 @@ title: Promoting Fair Competition In Livestock Markets And Expanding Market Acce
   for American Meat Producers
 ---
  
+Executive Order 14424
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -143,3 +146,10 @@ Department of Agriculture.
 THE WHITE HOUSE,
 
     September 4, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14424.pdf"
+id="wp-block-file--media-9fb3e35e-d590-4597-adaf-18e2a1d529e8">eo-14424</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14424.pdf"
+aria-describedby="wp-block-file--media-9fb3e35e-d590-4597-adaf-18e2a1d529e8"
+download="">Download</a>
