@@ -1,12 +1,14 @@
 ---
 date: '2026-09-08'
-modified_time: 2026-09-08 15:46:46-04:00
+modified_time: 2026-09-11 18:02:26-04:00
 published_time: 2026-09-08 14:52:09-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/
 tags: presidential-actions
 title: Adjusting Certain Delegations Under the Defense Production Act
 ---
  
+Executive Order 14427
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -86,3 +88,10 @@ Department of the Interior.
 THE WHITE HOUSE,
 
     September 8, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14427.pdf"
+id="wp-block-file--media-136bf0b1-6824-45e9-a467-80f6907340d4">eo-14427</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14427.pdf"
+aria-describedby="wp-block-file--media-136bf0b1-6824-45e9-a467-80f6907340d4"
+download="">Download</a>

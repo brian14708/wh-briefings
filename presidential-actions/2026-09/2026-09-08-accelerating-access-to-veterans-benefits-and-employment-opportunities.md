@@ -1,12 +1,14 @@
 ---
 date: '2026-09-08'
-modified_time: 2026-09-08 15:47:04-04:00
+modified_time: 2026-09-11 18:02:28-04:00
 published_time: 2026-09-08 15:00:01-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/
 tags: presidential-actions
 title: "Accelerating Access To Veterans\u2019 Benefits And Employment Opportunities"
 ---
  
+Executive Order 14426
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -129,3 +131,10 @@ Department of Veterans Affairs.
 THE WHITE HOUSE,
 
     September 8, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14426.pdf"
+id="wp-block-file--media-b7b05865-14a0-428a-8095-3f272cdb2c01">eo-14426</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14426.pdf"
+aria-describedby="wp-block-file--media-b7b05865-14a0-428a-8095-3f272cdb2c01"
+download="">Download</a>
