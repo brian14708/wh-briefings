@@ -1,6 +1,6 @@
 ---
 date: '2026-09-16'
-modified_time: 2026-09-16 16:25:20-04:00
+modified_time: 2026-09-16 18:01:17-04:00
 published_time: 2026-09-16 16:25:19-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/
 tags: fact-sheets
@@ -9,11 +9,10 @@ title: 'Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality 
 ---
  
 **IMPROVING WATER QUALITY OF THE CHESAPEAKE BAY:** Today, President
-Donald J. Trump signed an Executive Order removing unnecessary
-administrative costs and directing federal resources for the Chesapeake
-Bay toward projects that improve water quality, promoting a more
-efficient, accountable, and results-driven effort to improve the
-Chesapeake Bay.
+Donald J. Trump signed an Executive Order to remove unnecessary
+administrative costs and direct federal resources for the Chesapeake Bay
+toward projects that improve water quality, promoting a more efficient,
+accountable, and results-driven effort to improve the Chesapeake Bay.
 
 - The Order rescinds the outdated and misguided Obama Administration
   2009 Executive Order 13508, withdrawing its vague and confusing
