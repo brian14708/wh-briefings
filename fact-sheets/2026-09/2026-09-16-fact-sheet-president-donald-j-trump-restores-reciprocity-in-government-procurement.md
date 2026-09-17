@@ -1,13 +1,13 @@
 ---
 date: '2026-09-16'
-modified_time: 2026-09-16 16:29:15-04:00
+modified_time: 2026-09-17 09:33:00-04:00
 published_time: 2026-09-16 16:29:14-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-reciprocity-in-government-procurement/
 tags: fact-sheets
 title: 'Fact Sheet: President Donald J. Trump Restores Reciprocity in Government Procurement'
 ---
  
-**ENDING CANADA’S UNFAIR ACCESS TO FEDERAL PROCURMENT: **Today,
+**ENDING CANADA’S UNFAIR ACCESS TO FEDERAL PROCUREMENT: **Today,
 President Donald J. Trump signed a Presidential Memorandum to identify
 and take steps to remove Canadian-origin goods from Federal Civil
 Government Procurement in response to Canada’s measures that have denied
