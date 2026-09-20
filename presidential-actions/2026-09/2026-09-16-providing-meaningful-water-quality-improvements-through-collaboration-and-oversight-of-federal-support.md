@@ -1,6 +1,6 @@
 ---
 date: '2026-09-16'
-modified_time: 2026-09-16 16:23:41-04:00
+modified_time: 2026-09-20 18:06:37-04:00
 published_time: 2026-09-16 16:23:26-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/
 tags: presidential-actions
@@ -8,6 +8,8 @@ title: Providing Meaningful Water Quality Improvements Through Collaboration and
   of Federal Support
 ---
  
+Executive Order 14428
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, and in furtherance of the purposes
 of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 *et seq*.),
@@ -139,3 +141,10 @@ Environmental Protection Agency.
 THE WHITE HOUSE,
 
     September 16, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14428.pdf"
+id="wp-block-file--media-f345a325-fe7c-4434-9625-e70f69a6315a">eo-14428</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14428.pdf"
+aria-describedby="wp-block-file--media-f345a325-fe7c-4434-9625-e70f69a6315a"
+download="">Download</a>
