@@ -1,12 +1,14 @@
 ---
 date: '2026-09-17'
-modified_time: 2026-09-17 17:31:51-04:00
+modified_time: 2026-09-22 18:08:32-04:00
 published_time: 2026-09-17 17:31:50-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/
 tags: presidential-actions
 title: RESTORING AMERICAN SALTWATER ANGLING AND RECREATION
 ---
  
+Executive Order 14430
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -297,3 +299,10 @@ Department of Commerce.
 THE WHITE HOUSE,
 
 September 17, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14430.pdf"
+id="wp-block-file--media-6bddc4fa-6c56-4c6d-9d80-e0812dae8740">eo-14430</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14430.pdf"
+aria-describedby="wp-block-file--media-6bddc4fa-6c56-4c6d-9d80-e0812dae8740"
+download="">Download</a>

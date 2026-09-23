@@ -1,12 +1,14 @@
 ---
 date: '2026-09-17'
-modified_time: 2026-09-17 17:26:55-04:00
+modified_time: 2026-09-22 18:08:33-04:00
 published_time: 2026-09-17 17:26:54-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/
 tags: presidential-actions
 title: "Reinvigorating America\u2019s Hunting Heritage"
 ---
  
+Executive Order 14429
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -191,3 +193,10 @@ Department of the Interior.
 THE WHITE HOUSE,
 
 September 17, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14429.pdf"
+id="wp-block-file--media-50f52ca4-4dd6-4cba-a4a7-4a6cf36744ab">eo-14429</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14429.pdf"
+aria-describedby="wp-block-file--media-50f52ca4-4dd6-4cba-a4a7-4a6cf36744ab"
+download="">Download</a>
