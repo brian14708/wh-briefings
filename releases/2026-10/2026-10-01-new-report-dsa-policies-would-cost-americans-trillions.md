@@ -1,6 +1,6 @@
 ---
 date: '2026-10-01'
-modified_time: 2026-10-01 18:33:21-04:00
+modified_time: 2026-10-02 08:27:08-04:00
 published_time: 2026-10-01 18:22:29-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/
 tags: releases
@@ -8,11 +8,13 @@ title: 'New Report: DSA Policies Would Cost Americans Trillions'
 ---
  
 Today, President Donald J. Trump’s Council of Economic Advisers released
-a [report](https://www.whitehouse.gov/socialism/) revealing the
-**[severe economic cost](https://www.whitehouse.gov/socialism/) – $49
-TRILLION, over $350,000 per household – for American taxpayers** over
-the next ten years if the Democratic Socialists of America’s top
-policies were adopted. 
+a [report](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-Real-Cost-of-Socialism-In-America-Report.pdf)
+revealing the **[severe](https://www.whitehouse.gov/socialism/)
+[economic](https://www.whitehouse.gov/socialism/)
+[cost](https://www.whitehouse.gov/socialism/) – $49 TRILLION, over
+$350,000 per household – for American taxpayers** over the next ten
+years if the Democratic Socialists of America’s top policies were
+adopted. 
 
 The [report](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-Real-Cost-of-Socialism-In-America-Report.pdf)
 titled, “The Real Cost of Socialism in America,” details the scathing
