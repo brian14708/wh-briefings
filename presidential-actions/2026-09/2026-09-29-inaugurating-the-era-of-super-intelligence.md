@@ -1,11 +1,14 @@
 ---
 date: '2026-09-29'
+modified_time: 2026-10-02 18:12:39-04:00
 published_time: 2026-09-29 17:17:25-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/
 tags: presidential-actions
 title: Inaugurating The Era Of Super Intelligence
 ---
  
+Executive Order 14434
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -114,3 +117,10 @@ Office of Science and Technology Policy.
 DONALD J. TRUMP
 
 THE WHITE HOUSE,     September 29, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14434.pdf"
+id="wp-block-file--media-11766462-21f1-442f-a37f-c9bcd88d3956">eo-14434</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14434.pdf"
+aria-describedby="wp-block-file--media-11766462-21f1-442f-a37f-c9bcd88d3956"
+download="">Download</a>

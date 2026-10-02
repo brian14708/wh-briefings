@@ -1,12 +1,14 @@
 ---
 date: '2026-09-29'
-modified_time: 2026-09-29 11:20:51-04:00
+modified_time: 2026-10-02 18:12:42-04:00
 published_time: 2026-09-29 10:50:54-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/
 tags: presidential-actions
 title: Streamlining Access to Government Services Through America.gov
 ---
  
+Executive Order 14432
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -155,3 +157,10 @@ General Services Administration.
 THE WHITE HOUSE,
 
     September 29, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14432.pdf"
+id="wp-block-file--media-f961f1a7-d881-4824-a51e-95b1365d9649">eo-14432</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14432.pdf"
+aria-describedby="wp-block-file--media-f961f1a7-d881-4824-a51e-95b1365d9649"
+download="">Download</a>

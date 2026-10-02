@@ -1,12 +1,14 @@
 ---
 date: '2026-09-29'
-modified_time: 2026-09-29 17:23:49-04:00
+modified_time: 2026-10-02 18:12:40-04:00
 published_time: 2026-09-29 17:23:48-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/
 tags: presidential-actions
 title: Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors
 ---
  
+Executive Order 14433
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -177,3 +179,10 @@ DONALD J. TRUMP
 THE WHITE HOUSE,
 
     September 29, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14433.pdf"
+id="wp-block-file--media-1e3c9ae4-b781-4c10-b6be-3c4b3101fa96">eo-14433</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14433.pdf"
+aria-describedby="wp-block-file--media-1e3c9ae4-b781-4c10-b6be-3c4b3101fa96"
+download="">Download</a>
