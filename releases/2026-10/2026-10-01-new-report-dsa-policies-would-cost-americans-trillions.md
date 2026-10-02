@@ -1,6 +1,6 @@
 ---
 date: '2026-10-01'
-modified_time: 2026-10-02 08:27:08-04:00
+modified_time: 2026-10-02 09:40:11-04:00
 published_time: 2026-10-01 18:22:29-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/
 tags: releases
