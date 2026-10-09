@@ -1,12 +1,14 @@
 ---
 date: '2026-10-05'
-modified_time: 2026-10-05 21:13:54-04:00
+modified_time: 2026-10-09 18:15:30-04:00
 published_time: 2026-10-05 21:13:53-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/
 tags: presidential-actions
 title: Emergency Tax Relief on Diesel Fuel
 ---
  
+Executive Order 14435
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -148,3 +150,10 @@ Department of Agriculture.
 THE WHITE HOUSE,
 
 October 5, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14435.pdf"
+id="wp-block-file--media-72a02bff-9519-4d76-a0f5-f35956ed8e6e">eo-14435</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14435.pdf"
+aria-describedby="wp-block-file--media-72a02bff-9519-4d76-a0f5-f35956ed8e6e"
+download="">Download</a>
