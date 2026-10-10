@@ -8,11 +8,28 @@
    The White House Briefing Room
   </description>
   <pubDate>
-   Fri, 09 Oct 2026 19:48:59 -0400
+   Sat, 10 Oct 2026 16:46:32 -0400
   </pubDate>
   <link>
    https://www.whitehouse.gov/briefing-room/
   </link>
+  <item>
+   <title>
+    The State of American Manufacturing
+   </title>
+   <guid>
+    https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/
+   </guid>
+   <pubDate>
+    Sat, 10 Oct 2026 16:46:32 -0400
+   </pubDate>
+   <link>
+    https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/
+   </link>
+   <category>
+    research
+   </category>
+  </item>
   <item>
    <title>
     Presidential Message on Leif Erikson Day
@@ -504,23 +521,6 @@
    </link>
    <category>
     research
-   </category>
-  </item>
-  <item>
-   <title>
-    New Report: DSA Policies Would Cost Americans Trillions
-   </title>
-   <guid>
-    https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/
-   </guid>
-   <pubDate>
-    Thu, 01 Oct 2026 18:22:29 -0400
-   </pubDate>
-   <link>
-    https://www.whitehouse.gov/releases/2026/10/new-report-dsa-policies-would-cost-americans-trillions/
-   </link>
-   <category>
-    releases
    </category>
   </item>
  </channel>
