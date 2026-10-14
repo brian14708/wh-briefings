@@ -1,6 +1,6 @@
 ---
 date: '2026-10-07'
-modified_time: 2026-10-07 12:38:19-04:00
+modified_time: 2026-10-14 14:49:56-04:00
 published_time: 2026-10-07 12:38:18-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/
 tags: releases
@@ -73,9 +73,8 @@ Texas for the costs it carried.**
   [down almost
   90%](https://www.pewresearch.org/short-reads/2026/08/17/refugee-admissions-to-the-us-are-dropping-sharply-in-trumps-second-term/#:~:text=The%20federal%20government%20has%20admitted%2010%2C258%20refugees%20through%20the%20first%2010%20months%20of%20fiscal%20year%202026%2C%20which%20ends%20on%20Sept.%2030.%20That%E2%80%99s%20down%20from%2038%2C102%20refugees%20in%20fiscal%202025%20and%20100%2C034%20in%20fiscal%202024.%20(President%20Joe%20Biden%20was%20in%20office%20for%20part%20of%20fiscal%202025%20and%20all%20of%20fiscal%202024.))
   from 2024.
-- The Working Families Tax Cuts
-  [allocated](///Users/jkschneider/Documents/Releases/The%20Working%20Families%20Tax%20Cuts%20invest%20$46.5%20billion%20to%20complete%20hundreds%20of%20miles%20of%20the%20border%20wall%20and%20deploy%20advanced%20surveillance%20technology%20alongside%20it.)
-  $46.5 billion to finish the border wall.
+- The Working Families Tax Cuts allocated $46.5 billion to finish the
+  border wall.
 - Texas will
   [soon](https://gov.texas.gov/news/post/governor-abbott-delivers-historic-7.5-billion-border-security-reimbursement)
   [receive](https://www.texastribune.org/2026/08/24/texas-border-reimbursement-cornyn-abbott-operation-lone-star/)
