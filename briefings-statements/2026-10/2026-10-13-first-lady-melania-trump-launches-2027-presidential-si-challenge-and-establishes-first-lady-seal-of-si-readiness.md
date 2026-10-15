@@ -1,6 +1,6 @@
 ---
 date: '2026-10-13'
-modified_time: 2026-10-13 12:36:33-04:00
+modified_time: 2026-10-15 08:50:29-04:00
 published_time: 2026-10-13 12:36:32-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/
 tags: briefings-statements
@@ -9,7 +9,7 @@ title: First Lady Melania Trump Launches 2027 Presidential SI Challenge and Esta
 ---
  
 First Lady Melania Trump launched her 2027 Presidential Super
-Intelligence (SI) Challenge and established a new First Lady Seal of AI
+Intelligence (SI) Challenge and established a new First Lady Seal of SI
 Readiness—inviting K-12 students, educators, and schools across America
 to participate in the nationwide initiative.
 
