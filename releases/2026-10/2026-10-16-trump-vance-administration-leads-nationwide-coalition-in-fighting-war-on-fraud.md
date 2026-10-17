@@ -1,6 +1,6 @@
 ---
 date: '2026-10-16'
-modified_time: 2026-10-16 19:23:17-04:00
+modified_time: 2026-10-17 15:59:13-04:00
 published_time: 2026-10-16 15:25:01-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/
 tags: releases
@@ -18,6 +18,29 @@ before the money goes out, and hold fraudsters accountable.
 
 **From the Cabinet to the states to Congress, officials are lining up
 behind the pledge:**
+
+[Secretary of the Treasury Scott
+Bessent](https://x.com/SecScottBessent/status/2111475198448820255): “I
+am taking @VP’s Pledge to Protect Americans from Fraud. At Treasury, we
+follow the money. Over the past year, Treasury returned $175 million in
+payments that would have gone to deceased individuals and expanded Do
+Not Pay access to 99% of federal programs. Further, we stopped almost
+$190 million and returned over $100 million in funds that had gone
+overseas to U.S. victims. We ordered an audit of approximately $9
+billion in Treasury contracts. And Treasury and the IRS proposed
+stronger eligibility checks for health insurance tax credits. In
+Minnesota, we took targeted measures to help ensure that taxpayer
+dollars reach the vulnerable Americans they are meant to support. And we
+continue working with U.S. banks to prevent government benefits fraud
+before it happens. But fraud does not stop at our borders, and neither
+do we. Overseas scam networks and cartels that prey on elderly Americans
+with fraud schemes are now sanctioned by the United States. Treasury is
+also making it easier for those with firsthand knowledge of fraud to
+expose it by accepting confidential whistleblower tips and offering cash
+rewards. If these fraudsters want to turn on each other, we welcome the
+assistance. The Trump Administration will not allow criminals, at home
+or abroad, to profit from programs intended to help vulnerable
+Americans.”
 
 [Secretary of War Pete
 Hegseth](https://x.com/SecWar/status/2110800435997037029): “The War
