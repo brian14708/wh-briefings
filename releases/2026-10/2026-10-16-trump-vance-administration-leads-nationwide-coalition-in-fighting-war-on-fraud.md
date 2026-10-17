@@ -1,6 +1,6 @@
 ---
 date: '2026-10-16'
-modified_time: 2026-10-16 15:25:02-04:00
+modified_time: 2026-10-16 19:23:17-04:00
 published_time: 2026-10-16 15:25:01-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/
 tags: releases
@@ -166,6 +166,11 @@ join @SecMullinDHS, @VP & @WHFraudTF in pledging @FEMA’s commitment to
 protecting disaster survivors. Last year, we protected $1.3B in taxpayer
 funds from attempts to exploit FEMA programs. These efforts strengthen
 transparency and trust in federal disaster assistance.”
+
+[Vice Chair of the White House Task Force to Eliminate Fraud Andrew
+Ferguson](https://x.com/AFergusonFTC/status/2110794789423825111): “Proud
+to work with President Trump and Vice President Vance on this effort. 🫡
+🦅 🇺🇸”
 
 [Executive Director of the White House Task Force to Eliminate Fraud
 Scott Brady](https://x.com/ScottBradyPA/status/2110768518975361408): “I
