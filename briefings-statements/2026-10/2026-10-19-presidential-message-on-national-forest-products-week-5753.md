@@ -1,5 +1,6 @@
 ---
 date: '2026-10-19'
+modified_time: 2026-10-20 11:07:40-04:00
 published_time: 2026-10-19 22:02:45-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-forest-products-week-5753/
 tags: briefings-statements
@@ -25,12 +26,11 @@ As President, I am committed to supporting these vital industries and
 continuing to drive economic growth.  Last year, I was proud to sign two
 Executive Orders to increase domestic timber supply and reduce reliance
 on imports from foreign markets. As a result, over half a billion
-dollars in new domestic industry investments were announced, annual
-industry earnings have increased by over $5,600, and the U.S. Department
-of Agriculture’s Forest Service has sold over three billion board feet
-of American timber this year, the highest volume sold in almost three
-decades. Under my leadership, the USDA Forest Service has also
-championed sustainable forests, achieving 116 percent of our annual
+dollars in new domestic industry investments were announced and the U.S.
+Department of Agriculture’s Forest Service has sold over three billion
+board feet of American timber this year, the highest volume sold in
+almost three decades. Under my leadership, the USDA Forest Service has
+also championed sustainable forests, achieving 116 percent of our annual
 reforestation goal, the highest level in twenty-six years.
 
 We are cutting red tape and rolling back unnecessary environmental
