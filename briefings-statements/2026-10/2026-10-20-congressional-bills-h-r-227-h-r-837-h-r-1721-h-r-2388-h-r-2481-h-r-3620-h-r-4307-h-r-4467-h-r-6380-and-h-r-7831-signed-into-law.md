@@ -1,6 +1,6 @@
 ---
 date: '2026-10-20'
-modified_time: 2026-10-20 16:36:04-04:00
+modified_time: 2026-10-20 19:14:17-04:00
 published_time: 2026-10-20 16:36:03-04:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/
 tags: briefings-statements
