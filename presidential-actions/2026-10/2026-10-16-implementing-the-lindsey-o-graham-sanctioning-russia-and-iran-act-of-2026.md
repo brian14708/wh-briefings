@@ -1,12 +1,14 @@
 ---
 date: '2026-10-16'
-modified_time: 2026-10-16 20:34:25-04:00
+modified_time: 2026-10-21 18:22:38-04:00
 published_time: 2026-10-16 20:34:24-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/
 tags: presidential-actions
 title: Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
 ---
  
+Executive Order 14436
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, including the Lindsey O. Graham
 Sanctioning Russia and Iran Act of 2026 (22 U.S.C. 10802 *et seq**.*)
@@ -227,3 +229,10 @@ Department of State.
 THE WHITE HOUSE,
 
     October 16, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14436.pdf"
+id="wp-block-file--media-16278d39-1cd3-44f6-ade6-f79926b56cb2">eo-14436</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14436.pdf"
+aria-describedby="wp-block-file--media-16278d39-1cd3-44f6-ade6-f79926b56cb2"
+download="">Download</a>
