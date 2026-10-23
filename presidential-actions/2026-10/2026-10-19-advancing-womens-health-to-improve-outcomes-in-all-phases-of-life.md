@@ -1,12 +1,14 @@
 ---
 date: '2026-10-19'
-modified_time: 2026-10-19 11:56:26-04:00
+modified_time: 2026-10-22 18:23:32-04:00
 published_time: 2026-10-19 11:25:57-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/
 tags: presidential-actions
 title: "Advancing Women\u2019s Health to Improve Outcomes in All Phases of Life"
 ---
  
+Executive Order 14437
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -225,3 +227,10 @@ Department of Health and Human Services.
 THE WHITE HOUSE,
 
 October 19, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14437.pdf"
+id="wp-block-file--media-4d58d0a2-4562-4d45-bd25-a6bf390e3531">eo-14437</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14437.pdf"
+aria-describedby="wp-block-file--media-4d58d0a2-4562-4d45-bd25-a6bf390e3531"
+download="">Download</a>
