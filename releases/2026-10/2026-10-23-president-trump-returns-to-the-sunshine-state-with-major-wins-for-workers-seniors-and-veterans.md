@@ -1,5 +1,6 @@
 ---
 date: '2026-10-23'
+modified_time: 2026-10-23 16:17:54-04:00
 published_time: 2026-10-23 13:30:14-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/
 tags: releases
@@ -187,8 +188,8 @@ failed policies of the past.**
   [declined](https://www.facebook.com/FBIMiami/posts/from-2024-to-2025-violent-crime-dropped-97-nationwidethe-largest-year-to-year-de/122293712000034579/)
   across Florida last year, with murders
   [down](https://www.facebook.com/FBIMiami/posts/from-2024-to-2025-violent-crime-dropped-97-nationwidethe-largest-year-to-year-de/122293712000034579/)
-  19%. In the first half of 2026 compared with the same period in 2025,
-  homicides
+  19%. In Miami, in the first half of 2026 compared with the same period
+  in 2025, homicides
   [plunged](https://majorcitieschiefs.com/wp-content/uploads/2026/08/MCCA-Violent-Crime-Report-2026-and-2025-Midyear.pdf)
   50%, rapes
   [dropped](https://majorcitieschiefs.com/wp-content/uploads/2026/08/MCCA-Violent-Crime-Report-2026-and-2025-Midyear.pdf)
