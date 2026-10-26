@@ -1,6 +1,6 @@
 ---
 date: '2026-10-25'
-modified_time: 2026-10-25 10:56:25-04:00
+modified_time: 2026-10-26 10:38:16-04:00
 published_time: 2026-10-25 10:56:24-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/
 tags: releases
@@ -71,7 +71,7 @@ people.**
     have not adopted these standards, driving up fuel prices for their
     own residents.
 - The Trump Administration has provided a record number of Small
-  Refinery Exemptions, lowering gas costs everyday Americans while
+  Refinery Exemptions, lowering gas costs for everyday Americans while
   supporting America’s farmers. 
 
 **President Trump and his entire Administration are ruthlessly working
