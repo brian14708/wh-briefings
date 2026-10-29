@@ -1,6 +1,6 @@
 ---
 date: '2026-10-29'
-modified_time: 2026-10-29 08:14:01-04:00
+modified_time: 2026-10-29 09:37:19-04:00
 published_time: 2026-10-29 08:14:00-04:00
 source_url: https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/
 tags: releases
@@ -24,20 +24,20 @@ decline under Biden’s Far-Left failed policies. 
 
 Now, across the country, we are witnessing a Radical Left
 resurgence—with Democrats embracing a dangerous socialist agenda that
-would destroy the American Dream. What the Extreme Liberal Democrats’
+would destroy the American Dream. What the Extreme Liberal Democrats
 will never admit is the hefty price tag and economic turmoil their
 policies come with for working Americans—over 28% less pay, high
 unemployment, and a sinking economy that resembles struggling socialist
 European countries.
 
-## **The Radical Democrats’ Agenda Comes at the American Peoples’ Expense**
+## **The Radical Democrats’ Agenda Comes at the American People’s Expense**
 
 See for yourself what your wallet would look like from the false
 promises of the Far-Left Democrats out-of-touch agenda—such as Medicare
 for All, wide-open borders, no prisons, free college for everyone,
 taxing the rich, and the Green New Scam.
 
-- Democrats’ Extreme agenda would cost American Households OVER $35,000
+- Democrats’ Extreme agenda would cost American households OVER $35,000
   per
   year—totaling [$355,000](https://www.whitehouse.gov/socialism/#:~:text=10%2Dyear%20Cost-,%24355%2C000,-Per%20American%20Household) for
   families over the course of 10 years. 
@@ -52,13 +52,13 @@ taxing the rich, and the Green New Scam.
   under Biden, prioritizing foreign workers over American workers—and
   they will do it again. 
 - Democrats’ wiped American’s purchasing power—in fact, under the Biden
-  Administration American’s saw a [$3,000 annual
+  Administration Americans’ saw a [$3,000 annual
   decline](https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/#:~:text=%243%2C000%20annual%20decline%20in%20real%20wages%20under%20Biden.) in
   real wages. 
 - Interest rates
   would [skyrocket](https://www.whitehouse.gov/socialism/) to over 10%
   and mortgage rates over 12%.
-- If Radical Democrats’ have it their way, inflation
+- If Radical Democrats have it their way, inflation
   would [soar](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-Real-Cost-of-Socialism-In-America-Summary.pdf) across
   the country to 130-160% in ten years.
 - As the nation’s GDP
@@ -74,19 +74,19 @@ taxing the rich, and the Green New Scam.
   costs over 25 years—over $91,000 per household—and drive up
   electricity bills for gas-heated homes by [nearly
   20%.](https://www.whitehouse.gov/socialism/#:~:text=Electricity%20bills%20rise%20at%20least%2016.3%25)
-- If Democrat revive their [insane vehicle
+- If Democrats revive their [insane vehicle
   mandates](https://www.whitehouse.gov/socialism/#:~:text=Vehicle%20mandates%20cost%20%24884%20billion%20over%20ten%20years%2C),
   it would cost $884 billion over 10 years, including $244 billion in
   lost vehicle sales, and their full Green New Scam would leave real GDP
   $2.2 trillion lower over the next decade.
-- Democrat’s Mass Amnesty for ALL policies would add [$36-$47
+- Democrats’ Mass Amnesty for ALL policies would add [$36-$47
   billion](https://www.whitehouse.gov/socialism/#:~:text=%2436%20to%20%2447%20billion%20a%20year) annually
   in SNAP, housing vouchers, and Medicaid costs paid for by American
   taxpayers. 
 - The Democrats’ dangerous push to end ICE enforcement and deportations
   would cost American lives, and [$227-$287
   billion.](https://www.whitehouse.gov/wp-content/uploads/2026/10/The-Real-Cost-of-Socialism-In-America-Summary.pdf)
-- Democrat’s [Abolish the Police and
+- Democrats’ [Abolish the Police and
   Prisons](https://www.whitehouse.gov/socialism/#:~:text=These%20policies%20are%20associated%20with%20higher%20crime%20where%20they%20have%20been%20implemented.%20Each%20additional%20crime%20per%20100%20people%20a%20year%20is%20associated%20with%20110%20fewer%20days%20of%20life%20expectancy%2C%20173%20more%20deaths%20per%20100%2C000%20(violent%20crime)%2C%20a%200.73%2Dpoint%20rise%20in%20child%20poverty%2C%20and%20a%20%24112.90%20rise%20in%20premiums.) policies
   would have devastating consequences for the American people—resulting
   in higher crime rates, shorter life expectancy, more violent-crime
@@ -119,10 +119,10 @@ States become a Communist country.
   are [down](https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/) after
   President Trump
   aggressively [tackled](https://www.whitehouse.gov/greathealthcare/) special
-  interest and pushed for price transparency to bring down health care
+  interests and pushed for price transparency to bring down health care
   costs through TrumpRx and Most-Favored-Nation
   deals, [saving](https://www.whitehouse.gov/wp-content/uploads/2026/04/Savings-from-MFN-Drug-Pricing-Policy.pdf) Americans
-  over $600 billion the next decade. 
+  over $600 billion in the next decade. 
 - After
   Biden [cut](https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/) Americans’
   real wages by $3,000 from soaring inflation, today, they are rising

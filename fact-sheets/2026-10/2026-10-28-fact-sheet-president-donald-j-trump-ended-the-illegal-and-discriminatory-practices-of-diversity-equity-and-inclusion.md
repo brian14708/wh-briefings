@@ -1,6 +1,6 @@
 ---
 date: '2026-10-28'
-modified_time: 2026-10-28 17:05:11-04:00
+modified_time: 2026-10-29 09:31:20-04:00
 published_time: 2026-10-28 17:05:10-04:00
 source_url: https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/
 tags: fact-sheets
@@ -358,4 +358,4 @@ sector. President Trump promised it and delivered – DEI is dead.
   Management [issued](https://www.foxnews.com/politics/trump-admin-push-scrap-dei-federal-government-landmark-step-new-hiring-rule) a
   final rule to remove DEI guidelines from federal hiring. 
 
-See more at [WhiteHouse.gov/DEI](https://www.whitehouse.gov/dei/)
+[Learn more](https://www.whitehouse.gov/dei/)
