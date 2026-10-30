@@ -1,12 +1,14 @@
 ---
 date: '2026-10-22'
-modified_time: 2026-10-22 16:48:39-04:00
+modified_time: 2026-10-28 18:25:40-04:00
 published_time: 2026-10-22 16:48:38-04:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/
 tags: presidential-actions
 title: DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE
 ---
  
+Executive Order 14438
+
 By the authority vested in me as President by the Constitution and the
 laws of the United States of America, it is hereby ordered:
 
@@ -183,3 +185,10 @@ DONALD J. TRUMP
 THE WHITE HOUSE,
 
          October 22, 2026.
+
+<a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14438.pdf"
+id="wp-block-file--media-feb4e192-1cff-45bb-8af6-16dc410093cf">eo-14438</a><a
+href="https://www.whitehouse.gov/wp-content/uploads/2026/10/eo-14438.pdf"
+aria-describedby="wp-block-file--media-feb4e192-1cff-45bb-8af6-16dc410093cf"
+download="">Download</a>
