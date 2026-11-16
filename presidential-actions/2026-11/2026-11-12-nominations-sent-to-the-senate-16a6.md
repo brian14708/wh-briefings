@@ -1,14 +1,12 @@
 ---
 date: '2026-11-12'
-modified_time: 2026-11-12 17:04:42-05:00
+modified_time: 2026-11-16 12:35:07-05:00
 published_time: 2026-11-12 17:04:41-05:00
 source_url: https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/
 tags: presidential-actions
 title: Nominations Sent to the Senate
 ---
  
-NOMINATIONS SENT TO THE SENATE:
-
 NOMINATIONS SENT TO THE SENATE:
 
 Nathan Anonick, of Virginia, to be a Commissioner of the Commodity
