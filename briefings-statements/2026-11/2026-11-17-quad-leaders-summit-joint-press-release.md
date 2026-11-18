@@ -1,13 +1,13 @@
 ---
 date: '2026-11-17'
-modified_time: 2026-11-17 10:22:08-05:00
+modified_time: 2026-11-17 21:11:18-05:00
 published_time: 2026-11-17 10:20:56-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/
 tags: briefings-statements
 title: "Quad Leaders\u2019 Summit Joint Press Release"
 ---
  
-On November 17, 2026, — President Donald J. Trump of the United States,
+On November 17, 2026 — President Donald J. Trump of the United States,
 Prime Minister Anthony Albanese of Australia, Prime Minister Narendra
 Modi of India, and Prime Minister Takaichi Sanae of Japan — met for a
 Quad Leaders’ Summit in Manila.  This year marks nearly a decade since
