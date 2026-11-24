@@ -1,5 +1,6 @@
 ---
 date: '2026-11-23'
+modified_time: 2026-11-23 22:58:27-05:00
 published_time: 2026-11-23 14:20:12-05:00
 source_url: https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/
 tags: briefings-statements
@@ -9,11 +10,11 @@ title: "First Lady Melania Trump Hails America\u2019s Armed Forces"
 *Declaring precision and mental strength the foundation of global
 military superiority*
 
-As families across American prepare to celebrate Thanksgiving, First
-Lady Melania Trump addressed members of America’s armed forces at Joint
-Base Andrews, “The US military is the most powerful military in the
-world because of its people.  Our warriors train relentlessly, pushing
-the boundaries of physical and mental strength.”  Mrs. Trump analyzed,
+As families across America prepare to celebrate Thanksgiving, First Lady
+Melania Trump addressed members of America’s armed forces at Joint Base
+Andrews, “The US military is the most powerful military in the world
+because of its people.  Our warriors train relentlessly, pushing the
+boundaries of physical and mental strength.”  Mrs. Trump analyzed,
 “Perfect precision is not an accident.  It is the result of repetition,
 measured pacing, and flawless execution.”
 
