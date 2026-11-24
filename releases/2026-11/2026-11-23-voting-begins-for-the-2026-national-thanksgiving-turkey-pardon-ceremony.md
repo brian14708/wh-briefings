@@ -1,6 +1,6 @@
 ---
 date: '2026-11-23'
-modified_time: 2026-11-23 09:47:59-05:00
+modified_time: 2026-11-24 11:37:48-05:00
 published_time: 2026-11-23 09:47:18-05:00
 source_url: https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/
 tags: releases
@@ -22,7 +22,7 @@ United States, but only one receives the ceremonial honor at the White
 House. Following a final public poll on
 [WhiteHouse.Gov/Thanksgiving](https://www.whitehouse.gov/thanksgiving/),
 one of these two turkeys will be ceremonially pardoned at the White
-House on Tuesday, November 24, 2026. Both turkeys will live out there
+House on Tuesday, November 24, 2026. Both turkeys will live out their
 days at Texas A&M following the ceremony.
 
 **The American public is now invited to decide which turkey will take
